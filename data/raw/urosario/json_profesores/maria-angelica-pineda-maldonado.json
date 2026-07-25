@@ -1,0 +1,69 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/maria-angelica-pineda-maldonado",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "mariaan.pineda@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n22666/Captura+de+pantalla+2025-11-24+105550.png",
+  "afiliaciones": [
+    "Docente Clínico y de Prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=oD9XDbAAAAAJ&hl=es",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001722271"
+  },
+  "areas_investigacion": [
+    "Bienestar emocional",
+    "Discapacidad intelectual",
+    "Intervención psicológica",
+    "Psicología clínica",
+    "Terapia sistémica"
+  ],
+  "perfil_profesional": "María Angélica Pineda Maldonado es psicóloga clínica con doble maestría en Psicología Clínica de la Pontificia Universidad Javeriana y en Atención Integral a Personas con Discapacidad Intelectual de la Universidad Católica de Valencia San Vicente Mártir. Su formación académica ha estado marcada por reconocimientos a la excelencia, obteniendo la Orden al Mérito Académico Javeriano en ambos programas de posgrado. Su trayectoria profesional se ha desarrollado en el ámbito de la psicología clínica con enfoque sistémico, trabajando con poblaciones diversas que incluyen adultos jóvenes y personas con discapacidad intelectual. En su práctica clínica, ha investigado procesos de autonomía e individuación en adultos jóvenes desde la perspectiva de la psicoterapia sistémica, y ha explorado el bienestar emocional de adultos con discapacidad intelectual y sus familias. Ha ejercido en instituciones como la Corporación TransicionEs Crecer y el Colegio Mayor de Nuestra Señora del Rosario, donde ha aplicado sus conocimientos en intervención psicológica y atención integral. Su trabajo integra la comprensión de los procesos de desarrollo personal con un enfoque centrado en el bienestar emocional y la calidad de vida.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001722271"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=oD9XDbAAAAAJ&hl=es"
+    ]
+  },
+  "id": "maria-angelica-pineda-maldonado",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001722271",
+    "cod_rh": "0001722271",
+    "datos_generales": {
+      "Nombre": "María Angélica Pineda Maldonado",
+      "Nombre en citaciones": "María Angélica Pineda Maldonado",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Maestría/Magister PONTIFICIA UNIVERSIDAD JAVERIANA MAESTRÍA EN PSICOLOGÍA CLÍNICA Juliode2013 - Mayode 2016 HACIA LA AUTONOMÍA Y LA INDIVIDUACIÓN DE ADULTOS JÓVENES EN LA PSICOTERAPIA SISTÉMICA",
+      "Maestría/Magister Universidad Católica de Valencia San Vicente Mártir Master en Atención Integral a Personas con Discapacidad Intelectual Septiembrede2017 - Septiembrede 2018 Bienestar emocional de adultos con discapacidad intelectual y de sus familias",
+      "Pregrado/Universitario PONTIFICIA UNIVERSIDAD JAVERIANA PSICOLOGIA Enerode2008 - Abrilde 2013 Atribuciones racionales de cooperación de jóvenes de la ciudad de Bogotá"
+    ],
+    "experiencia_profesional": [
+      "Corporación TransicionEs Crecer Dedicación: 45 horas Semanales Septiembre de 2015 Septiembre de 2017",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 45 horas Semanales Enero de 2014 Septiembre de 2015"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Aceptable",
+        "escribe": "Aceptable",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "reconocimientos": [
+      "Orden al Mérito Académico Javeriano - Psicología,PONTIFICIA UNIVERSIDAD JAVERIANA - Abrilde 2013",
+      "Orden al Mérito Académico Javeriano - Magister Psicología Clínica,PONTIFICIA UNIVERSIDAD JAVERIANA - Mayode 2016"
+    ]
+  }
+}

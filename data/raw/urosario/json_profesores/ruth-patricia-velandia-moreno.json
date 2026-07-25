@@ -1,0 +1,52 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/ruth-patricia-velandia-moreno",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "ruthp.velandia@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n7130/silueta+mujer+hub.jpg",
+  "afiliaciones": [
+    "Docentes clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002009073"
+  },
+  "areas_investigacion": [
+    "Cirugía plástica",
+    "Medicina estética"
+  ],
+  "perfil_profesional": "Ruth Patricia Velandia Moreno es Médica Cirujana especialista en Cirugía Plástica, Estética y Reconstructiva por el Instituto de Cirugía Plástica Ivo Pintaguy, con certificación de la Sociedad Colombiana de Cirugía Plástica, Estética y Reconstructiva. Su práctica clínica incluye procedimientos quirúrgicos como abdominoplastia, cirugía mamaria (aumento, reducción y elevación), liposucción, labioplastia, rinoplastia y mentoplastia. También realiza tratamientos no quirúrgicos como aplicación de toxina botulínica y rellenos inyectables.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002009073"
+    ]
+  },
+  "id": "ruth-patricia-velandia-moreno",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002009073",
+    "cod_rh": "0002009073",
+    "datos_generales": {
+      "Nombre": "Ruth Patricia Velandia Moreno",
+      "Nombre en citaciones": "VELANDIA MORENO , RUTH PATRICIA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Especialidad Médica Irmandade Da Santa Casa De Misericordia De Sao Paulo CIRUGIA GENERAL Febrerode2000 - Enerode 2002",
+      "Especialización Instituto Carlos Chagas CIRUGIA PLASTICA Marzode2003 - Febrerode 2006",
+      "Pregrado/Universitario Fundacion Escuela de Medicina Juan N Corpas MEDICINA Febrerode1992 - Diciembrede 1997",
+      "Pregrado/Universitario UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS LICENCIATURA EN BIOLOGIA Febrerode1986 - Agostode 1991"
+    ],
+    "experiencia_profesional": [
+      "HOSPITAL UNIVERSITARIO DE BARRIOS UNIDOS Dedicación: 40 horas Semanales Noviembre de 2007 de Actividades de docencia - Pregrado - Nombre del curso: Medicina, 0 Noviembre 2007 Enero",
+      "Hospital Central De La Policia Dedicación: 18 horas Semanales Octubre de 2006 Mayo de 2008",
+      "Hospital de Suba E.S.E II Nivel Dedicación: 14 horas Semanales Junio de 2006 Julio de 2007 Actividades de docencia - Pregrado - Nombre del curso: Medicina, 0 Junio 2006 Julio 2007",
+      "Clínica Carlos Lleras Restrepo Dedicación: 18 horas Semanales Abril de 2006 Junio de 2007"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Cirugía"
+    ]
+  }
+}

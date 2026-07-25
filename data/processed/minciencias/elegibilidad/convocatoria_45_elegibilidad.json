@@ -1,0 +1,40 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "puede_sola_o_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior",
+        "rol": null,
+        "condicion": "Solo podrá participar en máximo un (1) proyecto como entidad ejecutora."
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como entidad ejecutora en esta convocatoria. Puede presentarse de forma individual o en alianza, pero debe cumplir con condiciones como no exceder el límite de un proyecto como ejecutora y contar con un grupo de investigación de alta categoría."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "puede_sola_o_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+    "fuente": "reglas+llm"
+  }
+}

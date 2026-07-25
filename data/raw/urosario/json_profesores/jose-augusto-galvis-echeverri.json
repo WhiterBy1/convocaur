@@ -1,0 +1,472 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jose-augusto-galvis-echeverri",
+  "nombre": "J A Galvis",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "joseau.galvis@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3892/Galvis1.JPG",
+  "afiliaciones": [
+    "Director Doctorado en Ingeniería, Ciencia y Tecnología - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Director Maestría en Ingeniería, Ciencia y Tecnología - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=23993844000",
+    "google_scholar": "https://scholar.google.com/citations?user=oYTy-5sAAAAJ",
+    "pure": "https://pure.urosario.edu.co/es/persons/jose-augusto-galvis-echeverri",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000639346",
+    "orcid": "https://orcid.org/0000-0003-2440-8273"
+  },
+  "areas_investigacion": [
+    "Condensed Matter Physics",
+    "Nanotechnology (LCSH)",
+    "Photovoltage",
+    "Superconductivity",
+    "Thermoelectricity"
+  ],
+  "perfil_profesional": "B.Sc. in Physics from the Universidad de los Andes. Doctor in Condensed Matter Physics and Nanotechnology from the Universidad Autonoma de Madrid, España. Faculty member at the School of Engineering, Science and Technology of the Universidad del Rosario. Expert in scanning probe microscopy. His research lines are Experimental Condensed Matter Physics, Nanotechnology, Superconductivity, Photovoltage and Thermoelectricity. Author of several publications in indexed international journals.",
+  "formacion_academica": [
+    "2005, Licenciado en Física, Universidad Distrital Francisco Jose de Caldas - Bogotá D.C.",
+    "2009, Magíster en Ciencias - Física, Universidad de los Andes - Bogotá D.C.",
+    "2013, Doctor en Física de La Materia Condensada y Nanotecnología, Universidad Autónoma de Madrid"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Scanning Tunneling Microscopy in high vectorial magnetic fields",
+      "fecha": "2026-3-1",
+      "enlace": "https://doi.org/https://doi.org/10.1063/5.0300317"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Fermi surface reconstruction and anisotropic linear magnetoresistance in the charge density wave topological semimetal TaTe 4",
+      "fecha": "2026-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1038/s42005-026-02544-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "High-resolution scanning tunneling microscope and its adaptation for local thermopower measurements in 2D materials",
+      "fecha": "2024-7-1",
+      "enlace": "https://doi.org/10.1016/j.ultramic.2024.113963"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Removal of Cr and Organic Matter from Real Tannery Wastewater via Fenton-like Process Using Commercial Nano-Scale Zero-Valent Iron",
+      "fecha": "2024-3-1",
+      "enlace": "https://doi.org/10.3390/w16050754"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Quantum-well states at the surface of a heavy-fermion superconductor",
+      "fecha": "2023-3-1",
+      "enlace": "https://doi.org/10.1038/s41586-023-05830-1"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Room temperature multiferroicity in a transition metal dichalcogenide",
+      "fecha": "2023-12-1",
+      "enlace": "https://doi.org/10.1038/s41699-023-00416-x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Nanoscale phase-slip domain walls in the charge density wave state of the Weyl semimetal candidate NbTe4",
+      "fecha": "2023-1-15",
+      "enlace": "https://doi.org/10.1103/PhysRevB.107.045120"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Raman Spectroscopy of Few-Layers TaS2 and Mo-Doped TaS2 with Enhanced Superconductivity",
+      "fecha": "2022-10-1",
+      "enlace": "https://doi.org/10.1002/aelm.202200457"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "1D charge density wave in the hidden order state of URu2Si2",
+      "fecha": "2021-12-1",
+      "enlace": "https://doi.org/10.1038/s42005-021-00598-0"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the singularity of the Yeh 4 × 4 transfer matrix formalism",
+      "fecha": "2020-5-20",
+      "enlace": "https://doi.org/10.1080/09500340.2020.1775905"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Magnetic and superconducting phase diagrams in ErNi 2B 2C",
+      "fecha": "2012-6-1",
+      "enlace": "https://doi.org/10.1016/j.ssc.2012.03.021"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Automated setup for Van der Pauw Hall measurements",
+      "fecha": "2011-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/TIM.2010.2048961"
+    }
+  ],
+  "total_publicaciones": 12,
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000639346"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0003-2440-8273"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=oYTy-5sAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/jose-augusto-galvis-echeverri"
+    ],
+    "scopus_id": [
+      "23993844000"
+    ]
+  },
+  "id": "jose-augusto-galvis-echeverri",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000639346",
+    "cod_rh": "0000639346",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Senior (IS) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "José Augusto Galvis Echeverri",
+      "Nombre en citaciones": "GALVIS ECHEVERRI, JOSÉ AUGUSTO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado UNIVERSIDAD AUTONOMA DE MADRID Doctorado en física de la materia condensada y nanotecnología Enerode2009 - Diciembrede 2013",
+      "Maestría/Magister UNIVERSIDAD DE LOS ANDES Maestría en ciencias-física Enerode2006 - Marzode 2009",
+      "Pregrado/Universitario UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS LICENCIATURA EN FISICA Enerode2000 - Septiembrede 2005 Introducción a la cinemática relativista con elementos del álgebra tensorial"
+    ],
+    "estancias_posdoctorales": [
+      "High magnetic field magnetoresistance in HTC superconductors Florida State University Fisica de la materia condensada Desde: Julio de 2015 Hasta: Mayo de 2017",
+      "Atomic Manipulation With Scanning Tunneling Microscopy Stanford University nanotechnology Desde: Enero de 2014 Hasta: Agosto de 2014"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Enero de 2023 de Actual",
+      "Florida State University Dedicación: 40 horas Semanales Junio de 2015 de",
+      "UNIVERSIDAD CENTRAL Dedicación: 40 horas Semanales Agosto de 2014 Enero de 2023",
+      "Stanford University Dedicación: 26 horas Semanales Marzo de 2013 Julio de 2013",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 26 horas Semanales Enero de 2006 Diciembre de 2009"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Físicas -- Física de la Materia",
+      "Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Nanotecnología, Activa: Si",
+      "Transiciones de fase, Activa: Si",
+      "Microscopía de Efecto túnel, Activa: Si",
+      "Superconductividad, Activa: Si",
+      "Microscopio de fuerza atómica , Activa: Si",
+      "Ciencia de materiales, Activa: Si",
+      "Magnetismo, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Matricula de honor por mejor promedio,UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS - de 2003",
+      "Matricula de honor por mejor promedio academico,UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS - de 2002",
+      "Beca FPI para formación de investigadores,Ministerio de Economía y Competitividad (es) - Enerode 2009",
+      "Doctor Cum Laude,UNIVERSIDAD AUTONOMA DE MADRID - Diciembrede 2013",
+      "VI premio a la innovación,UNIVERSIDAD CENTRAL - Juliode 2018",
+      "Mención a la investigación destacada,UNIVERSIDAD CENTRAL - Octubrede 2018"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JOSE AUGUSTO GALVIS ECHEVERRI, EVALUACIÓN DE PROCESOS DE OXIDACIÓN DE NANOPARTÍCULAS DE HIERRO DE VALENCIA CERO UTILIZANDO UN SUSCEPTÓMETRO AC CASERO Y SU RELACIÓN PARA LA REMOCIÓN DE METALES PESADOS DE LAS AGUAS RESIDUALES UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN BIOINGENIERÍA Y NANOTECNOLOGÍA, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): KATHERINE ANDREA JUNCA DIAZ Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JOSE AUGUSTO GALVIS ECHEVERRI, DESARROLLO DE BIOSENSOR BASADO EN RESONANCIA DE PLASMÓN SUPERFICIAL UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN BIOINGENIERÍA Y NANOTECNOLOGÍA, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Anyi Ximena Rodriguez Rodriguez Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JOSE AUGUSTO GALVIS ECHEVERRI, Development of a High-Resolution Scanning Tunneling Microscope and its Adaptation for Local Thermopower Measurements in 2D Materials UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN BIOINGENIERÍA Y NANOTECNOLOGÍA, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Jose David Bermúdez Pérez Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JOSE AUGUSTO GALVIS ECHEVERRI, Variación de propiedades electrónicas a partir de dopaje químico en el dicalcogenuro de metal de transición WSe2 UNIVERSIDAD DE LOS ANDES Estado: Tesis concluida MAESTRIA EN CIENCIAS- FISICA, 2021. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Karen Alejandra Vergara vega Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JOSE AUGUSTO GALVIS ECHEVERRI, EVALUACIÓN DE LA CAPACIDAD ANTIFÚNGICA DE SATANIN 1 INNOVILIZADO EN NANOPARTÍCULAS DE ÓXIDO DE HIERRO CONTRA LEVADURAS DEL GÉNERO CANDIDA UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN BIOINGENIERÍA Y NANOTECNOLOGÍA, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): ANA MARIA AVILA TORRES Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE AUGUSTO GALVIS ECHEVERRI, IMPLEMENTACIÓN DE LA TÉCNICA LOCK-IN EN MICROSCOPIA DE EFECTO TÚNEL EN CONDICIONES DE ALTO VACÍO UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida LICENCIATURA EN FISICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ciencias Sociales -- Ciencias de la Educación -- Educación General (Incluye Capacitación, Pedagogía),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE AUGUSTO GALVIS ECHEVERRI, DISEÑO Y D ESARROLLO DE UN SISTEMA EXPERIMENTAL DE SUSCEPTIBILIDAD MAGNÉTICA AC-DC UNIVERSIDAD CENTRAL Estado: Tesis concluida Ingeniería electrónica, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE AUGUSTO GALVIS ECHEVERRI, ¿DISEÑO E IMPLEMENTACIÓN DE UN SOFTWARE EMBEBIDO Y UNA INTERFAZDE USUARIO QUE PROCESA Y CONTROLA EL MICROSCOPIO DE EFECTO TÚNEL DE LA UNIVERSIDAD CENTRAL UNIVERSIDAD CENTRAL Estado: Tesis concluida Ingeniería electrónica, 2019. Dirigió como: Coturor/asesor, Persona(s) orientada(s): JOSE DAVID BERMUDEZ PEREZ Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE AUGUSTO GALVIS ECHEVERRI, CONSTRUCCIÓN DE PROTOTIPO ELECTRÓNICO QUE PERMITA CONTROLAR UNA CORRIENTE DE EFECTO TÚNEL POR MEDIO DE UN CONTROLADOR DIGITAL Y UN CONTROLADOR PI ANÁLOGO USANDO UN ACTUADOR PIEZOELÉCTRICO MULTICAPA UNIVERSIDAD CENTRAL Estado: Tesis concluida Ingeniería electrónica, 2020. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Juan Camilo Chinchilla Luligo Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE AUGUSTO GALVIS ECHEVERRI, ESTANCIA DE INVESTIGACIÓN EN LA TÉCNICA EXPERIMENTAL DE MICROSCOPÍA DE EFECTO TÚNEL UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida LICENCIATURA EN FISICA, 2018. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Karen Alejandra Vergara Vega Tutor(es)/Cotutor(es): JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE AUGUSTO GALVIS ECHEVERRI, CARACTERIZACIÓN DE PROPIEDADES MAGNÉTICAS A ESCALA LOCAL Y MACROSCÓPICA DE NANO PARTÍCULAS DE HIERRO CERO VALENTE (nFEO) UNIVERSIDAD CENTRAL Estado: Tesis concluida Ingeniería electrónica, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Carlos Felipe Ayala Meneses Tutor(es)/Cotutor(es): JAVIER CASAS SALGADO , JOSE AUGUSTO GALVIS ECHEVERRI, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Ingeciencia, 2018, Agosto",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Ingeciencia, 2018, Agosto",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Ingeciencia, 2018, Noviembre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación - Minciencias, 2022, Septiembre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación - Minciencias, 2022, Septiembre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación - Minciencias, 2022, Septiembre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación - Minciencias, 2022, Agosto",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación - Minciencias, 2022, Agosto"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: 1th Latinamerican school of condensed matter physics Tipo de evento: Taller Ámbito: Internacional Realizado el:2006-07-12 00:00:00.0, 2006-07-28 00:00:00.0 en Corrientes - Corrientes-Argentina Productos asociados Nombre del producto: Anomalous transport properties in overdoped superconductor thin films Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad Nacional Del Nordeste Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "1 Nombre del evento: 1th Latinamerican school of condensed matter physics Tipo de evento: Taller Ámbito: Internacional Realizado el:2006-07-12 00:00:00.0, 2006-07-28 00:00:00.0 en Corrientes - Corrientes-Argentina",
+      "Productos asociados Nombre del producto: Anomalous transport properties in overdoped superconductor thin films Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad Nacional Del Nordeste Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "2 Nombre del evento: Workshop on science and technology at high magnetic fields Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-11-19 00:00:00.0, 2012-11-17 00:00:00.0 en Ciudad de México - Miraflores de la Sierra, España Productos asociados Nombre del producto: Scanning tunneling microscopy at high magnetic fields Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MADRID Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador",
+      "2 Nombre del evento: Workshop on science and technology at high magnetic fields Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-11-19 00:00:00.0, 2012-11-17 00:00:00.0 en Ciudad de México - Miraflores de la Sierra, España",
+      "Productos asociados Nombre del producto: Scanning tunneling microscopy at high magnetic fields Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MADRID Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador",
+      "3 Nombre del evento: SCES 2008: International conference on strongly correlated electron systems Tipo de evento: Congreso Ámbito: Internacional Realizado el:2008-08-04 00:00:00.0, 2008-08-09 00:00:00.0 en Ciudad de México - Rio de Janeiro Productos asociados Nombre del producto: Anomalous transport properties in overdoped High Tc superconductors Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Centro Brasileiro De Pesquisas Físicas Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "3 Nombre del evento: SCES 2008: International conference on strongly correlated electron systems Tipo de evento: Congreso Ámbito: Internacional Realizado el:2008-08-04 00:00:00.0, 2008-08-09 00:00:00.0 en Ciudad de México - Rio de Janeiro",
+      "Productos asociados Nombre del producto: Anomalous transport properties in overdoped High Tc superconductors Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Centro Brasileiro De Pesquisas Físicas Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "4 Nombre del evento: Cryoconference 2010 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-09-13 00:00:00.0, 2010-09-18 00:00:00.0 en Ciudad de México - Kosice, Slovakia Productos asociados Nombre del producto: Scanning tunneling microscope in a dilution refrigerator with a vector magnetic field solenoid Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad De Pierre Et Marie Curie Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "4 Nombre del evento: Cryoconference 2010 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-09-13 00:00:00.0, 2010-09-18 00:00:00.0 en Ciudad de México - Kosice, Slovakia",
+      "Productos asociados Nombre del producto: Scanning tunneling microscope in a dilution refrigerator with a vector magnetic field solenoid Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad De Pierre Et Marie Curie Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "5 Nombre del evento: Advances in nanostructured superconductors: materials, properties and theory Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-05-04 00:00:00.0, 2014-05-07 00:00:00.0 en Ciudad de México - Miraflores de la Sierra, Spain Productos asociados Nombre del producto: STUDY OF THE VORTEX LATTICE IN THE ISOTROPIC SUPERCONDUCTOR β‐Bi2Pd UNDER TILTED MAGNETIC FIELDS Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MADRID Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "5 Nombre del evento: Advances in nanostructured superconductors: materials, properties and theory Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-05-04 00:00:00.0, 2014-05-07 00:00:00.0 en Ciudad de México - Miraflores de la Sierra, Spain",
+      "Productos asociados Nombre del producto: STUDY OF THE VORTEX LATTICE IN THE ISOTROPIC SUPERCONDUCTOR β‐Bi2Pd UNDER TILTED MAGNETIC FIELDS Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MADRID Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "6 Nombre del evento: APS march meeting 2012 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-03-12 00:00:00.0, 2012-03-16 00:00:00.0 en Ciudad de México - Boston USA Productos asociados Nombre del producto: Scanning tunneling microscopy at 70 mK in layered superconductors Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad De Boston Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "6 Nombre del evento: APS march meeting 2012 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-03-12 00:00:00.0, 2012-03-16 00:00:00.0 en Ciudad de México - Boston USA",
+      "Productos asociados Nombre del producto: Scanning tunneling microscopy at 70 mK in layered superconductors Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad De Boston Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "7 Nombre del evento: Young researchers meeting INC 2012 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2012-12-10 00:00:00.0, 2012-12-15 00:00:00.0 en Ciudad de México - Miraflores de la Sierra, España Productos asociados Nombre del producto: Scanning tunneling measurements of single layers of superconducting 2H-TaSe2 crystals Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MADRID Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador",
+      "7 Nombre del evento: Young researchers meeting INC 2012 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2012-12-10 00:00:00.0, 2012-12-15 00:00:00.0 en Ciudad de México - Miraflores de la Sierra, España",
+      "Productos asociados Nombre del producto: Scanning tunneling measurements of single layers of superconducting 2H-TaSe2 crystals Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MADRID Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador",
+      "8 Nombre del evento: Electronic properties of semiconductors, graphene and novel two dimensional layered materials Tipo de evento: Simposio Ámbito: Internacional Realizado el:2013-07-15 00:00:00.0, 2013-07-19 00:00:00.0 en Ciudad de México - Valencia, España Productos asociados Nombre del producto: Scanning tunneling measurements of single layers of superconducting TaSe2 crystals Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Real Sociedad Española De Física Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "8 Nombre del evento: Electronic properties of semiconductors, graphene and novel two dimensional layered materials Tipo de evento: Simposio Ámbito: Internacional Realizado el:2013-07-15 00:00:00.0, 2013-07-19 00:00:00.0 en Ciudad de México - Valencia, España",
+      "Productos asociados Nombre del producto: Scanning tunneling measurements of single layers of superconducting TaSe2 crystals Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Real Sociedad Española De Física Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "9 Nombre del evento: CLACSA XIII: Latinamerican conference on surface science and its applications Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-12-17 00:00:00.0, 2007-12-21 00:00:00.0 en Ciudad de México - Santa Marta, Colombia Productos asociados Nombre del producto: Anomalous transport properties in overdoped superconductor thin films Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "9 Nombre del evento: CLACSA XIII: Latinamerican conference on surface science and its applications Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-12-17 00:00:00.0, 2007-12-21 00:00:00.0 en Ciudad de México - Santa Marta, Colombia",
+      "Productos asociados Nombre del producto: Anomalous transport properties in overdoped superconductor thin films Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "10 Nombre del evento: Fuerzas y túnel 2012 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-09-10 00:00:00.0, 2012-09-15 00:00:00.0 en Ciudad de México - San Lorenzo de El Escorial, España Productos asociados Nombre del producto: Scanning tunneling microscopy in the dichalcogenide superconductor TaSe2 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Real Sociedad Española De Física Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "10 Nombre del evento: Fuerzas y túnel 2012 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-09-10 00:00:00.0, 2012-09-15 00:00:00.0 en Ciudad de México - San Lorenzo de El Escorial, España",
+      "Productos asociados Nombre del producto: Scanning tunneling microscopy in the dichalcogenide superconductor TaSe2 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Real Sociedad Española De Física Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "11 Nombre del evento: Congreso nacional de física Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-06-04 00:00:00.0, 2007-06-08 00:00:00.0 en IBAGUÉ - universidad del Tolima, Ibagué Tolima Productos asociados Nombre del producto: Resistivity and hall effect in overdoped YBaCuO thin films and their relationship with the fermi liquid zone Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: FUNDACIÓN COLEGIO ALIANZA PEDAGÓGICA Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "11 Nombre del evento: Congreso nacional de física Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-06-04 00:00:00.0, 2007-06-08 00:00:00.0 en IBAGUÉ - universidad del Tolima, Ibagué Tolima",
+      "Productos asociados Nombre del producto: Resistivity and hall effect in overdoped YBaCuO thin films and their relationship with the fermi liquid zone Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN COLEGIO ALIANZA PEDAGÓGICA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente",
+      "12 Nombre del evento: X Congreso Internacional de Materiales CIM 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-23 00:00:00.0, 2019-10-26 00:00:00.0 en BUCARAMANGA - UIS Productos asociados Nombre del producto: Superconductivity and Tunnel Effect Microscopy: A Look at the Quantum World Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD INDUSTRIAL DE SANTANDER Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "12 Nombre del evento: X Congreso Internacional de Materiales CIM 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-23 00:00:00.0, 2019-10-26 00:00:00.0 en BUCARAMANGA - UIS",
+      "Productos asociados Nombre del producto: Superconductivity and Tunnel Effect Microscopy: A Look at the Quantum World Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD INDUSTRIAL DE SANTANDER Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "13 Nombre del evento: Congreso Nacional de Física Tipo de evento: Congreso Ámbito: Nacional Realizado el:2019-09-09 00:00:00.0, 2019-09-12 00:00:00.0 en ARMENIA - Universidad del Quindio Productos asociados Nombre del producto: Microscopío de efecto túnel: principio de funcionamiento y aplicaciones Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Sociedad Colombiana De Física Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "13 Nombre del evento: Congreso Nacional de Física Tipo de evento: Congreso Ámbito: Nacional Realizado el:2019-09-09 00:00:00.0, 2019-09-12 00:00:00.0 en ARMENIA - Universidad del Quindio",
+      "Productos asociados Nombre del producto: Microscopío de efecto túnel: principio de funcionamiento y aplicaciones Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Sociedad Colombiana De Física Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "14 Nombre del evento: Engineering Week Around the World Tipo de evento: Congreso Ámbito: Nacional Realizado el:2020-08-10 00:00:00.0, 2020-08-14 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Ciencias y tecnologías convergentes: la interdisciplinariedad al servicio de la sociedad Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "14 Nombre del evento: Engineering Week Around the World Tipo de evento: Congreso Ámbito: Nacional Realizado el:2020-08-10 00:00:00.0, 2020-08-14 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Ciencias y tecnologías convergentes: la interdisciplinariedad al servicio de la sociedad Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "15 Nombre del evento: Simposio de Bionanotecnología: oportunidades y retos Tipo de evento: Simposio Ámbito: Nacional Realizado el:2019-10-22 00:00:00.0, 2019-10-22 00:00:00.0 en BOGOTÁ, D.C. - Universidad Central Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador",
+      "15 Nombre del evento: Simposio de Bionanotecnología: oportunidades y retos Tipo de evento: Simposio Ámbito: Nacional Realizado el:2019-10-22 00:00:00.0, 2019-10-22 00:00:00.0 en BOGOTÁ, D.C. - Universidad Central",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador",
+      "16 Nombre del evento: School on quantum materials ans workshop on vortex behavior in unconventional superconductors Tipo de evento: Taller Ámbito: Internacional Realizado el:2018-10-07 00:00:00.0, 2018-10-12 00:00:00.0 en Braga - Braga Productos asociados Nombre del producto: Quantum criticality at the heart of a high-temperature superconductor Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Nombre de la institución: Universidad Autónoma de Madrid Tipo de vinculación Gestionadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "16 Nombre del evento: School on quantum materials ans workshop on vortex behavior in unconventional superconductors Tipo de evento: Taller Ámbito: Internacional Realizado el:2018-10-07 00:00:00.0, 2018-10-12 00:00:00.0 en Braga - Braga",
+      "Productos asociados Nombre del producto: Quantum criticality at the heart of a high-temperature superconductor Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Nombre de la institución: Universidad Autónoma de Madrid Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "17 Nombre del evento: 1st International Workshop on Superconductivity and Magnetism at Low Dimensionality Tipo de evento: Taller Ámbito: Nacional Realizado el:2016-12-12 00:00:00.0, 2016-12-16 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Nobel 2D superconductivity probed by scanning tunneling spectroscopy Tipo de producto: Producción técnica - Presentación de trabajo - Seminario Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES SEDE BOGOTÁ Tipo de vinculación Gestionadora Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral",
+      "17 Nombre del evento: 1st International Workshop on Superconductivity and Magnetism at Low Dimensionality Tipo de evento: Taller Ámbito: Nacional Realizado el:2016-12-12 00:00:00.0, 2016-12-16 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Nobel 2D superconductivity probed by scanning tunneling spectroscopy Tipo de producto: Producción técnica - Presentación de trabajo - Seminario",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES SEDE BOGOTÁ Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Ponente magistral"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, HERMANN SUDEROW, SEBASTIAN VIEIRA, SERGEY BUD KO, PAUL C CANFIELD, \"Scanning tunneling microscopy in the superconductor LaSb_2\" . En: Estados Unidos PHYSICAL REVIEW B CONDENSED MATTER ISSN: 0163-1829 ed: American Institute of Physics v. 87 fasc. 214504 p.214504-1 - 214504-5 ,2013, DOI:",
+        "titulo": "Scanning tunneling microscopy in the superconductor LaSb_2",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, LUCA CHIROLLI, ISABEL GUILLAMON, SEBASTIAN VIEIRA, ENRIQUE NAVARRO MORATALLA, EUGENIO CORONADO, HERMANN SUDEROW, FRANSISCO GUINEA, \"Zero-bias conductance peak in detached flakes of superconducting 2H-TaS2 probed by scanning tunneling spectroscopy\" . En: Estados Unidos PHYSICAL REVIEW B CONDENSED MATTER ISSN: 0163-1829 ed: American Institute of Physics v. 89 fasc. 224512 p.224512-1 - 224512-6 ,2014, DOI: 10.1103/PhysRevB.89.224512",
+        "titulo": "Zero-bias conductance peak in detached flakes of superconducting 2H-TaS2 probed by scanning tunneling spectroscopy",
+        "doi": "10.1103/PhysRevB.89.224512",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Three axis vector magnet set-up for cryogenic scanning probe microscopy\" . En: Estados Unidos REVIEW OF SCIENTIFIC INSTRUMENTS ISSN: 0034-6748 ed: AIP Publishing v. 82 fasc. 013706 p.013706-1 - 013706-8 ,2015, DOI: http://dx.doi.org/10.1063/1.4905531",
+        "titulo": "Three axis vector magnet set-up for cryogenic scanning probe microscopy",
+        "doi": "http://dx.doi.org/10.1063/1.4905531",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, PIERRE RODRIERE, ISABEL GUILLAMON, MANUEL OSORIO, JOSE G RODRIGO, LAURENT CARIO, ENRIQUE NAVARRO MORATALLA, EUGENIO CORONADO, SEBASTIAN VIEIRA, \"Flat band in two dimensional superconducting layers of 2H-TaSe_2\" . En: Estados Unidos PHYSICAL REVIEW B CONDENSED MATTER ISSN: 0163-1829 ed: American Institute of Physics v. 87 fasc. 094502 p.094502-1 - 094502-9 ,2013, DOI: 10.1103/PhysRevB.87.094502",
+        "titulo": "Flat band in two dimensional superconducting layers of 2H-TaSe_2",
+        "doi": "10.1103/PhysRevB.87.094502",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, ISABEL GUILLAMON, SEBASTIAN VIEIRA, HERMANN SUDEROW, EDWIN HERRERA VASCO, \"Magnetic field dependence of the density of states in the multiband superconductor β−Bi2Pd\" . En: Estados Unidos PHYSICAL REVIEW B CONDENSED MATTER ISSN: 0163-1829 ed: American Institute of Physics v. 92 fasc. 054507 p.1 - 9 ,2015, DOI: 10.1103/PhysRevB.92.054507 Palabras: Bajas Temperaturas, Superconductividad, Vórtices, Microscopia de Efecto Túnel, Superconductividad Multibanda, Crecimiento de Cristales,",
+        "titulo": "Magnetic field dependence of the density of states in the multiband superconductor β−Bi2Pd",
+        "doi": "10.1103/PhysRevB.92.054507",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, EDWIN HERRERA VASCO, ISABEL GUILLAMON, HERMANN SUDEROW, \"Vortex cores and vortex motion in superconductors with anisotropic Fermi surfaces\" . En: Estados Unidos PHYSICA C SUPERCONDUCTIVITY AND ITS APPLICATIONS ISSN: 0921-4534 ed: Elsevier v. 533 fasc. N/A p.2 - 8 ,2017, DOI: 10.1016/j.physc.2016.07.023",
+        "titulo": "Vortex cores and vortex motion in superconductors with anisotropic Fermi surfaces",
+        "doi": "10.1016/j.physc.2016.07.023",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, EDWIN HERRERA VASCO, ISABEL GUILLAMON, HERMANN SUDEROW, \"Subsurface bending and reorientation of tilted vortex lattices in bulk isotropic superconductors due to Coulomb-like repulsion at the surface\" . En: Estados Unidos PHYSICAL REVIEW B CONDENSED MATTER ISSN: 0163-1829 ed: American Institute of Physics v. 96 fasc. 184502 p.1 - 7 ,2017, DOI: 10.1103/PhysRevB.96.184502",
+        "titulo": "Subsurface bending and reorientation of tilted vortex lattices in bulk isotropic superconductors due to Coulomb-like repulsion at the surface",
+        "doi": "10.1103/PhysRevB.96.184502",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Tilted vortex cores and superconducting gap anisotropy in 2H-NbSe2\" . En: Inglaterra NATURE COMMUNICATIONS ISSN: 2041-1723 ed: NATURE PORTFOLIO v. 1 fasc. 30 p.1 - 9 ,2018, DOI:",
+        "titulo": "Tilted vortex cores and superconducting gap anisotropy in 2H-NbSe2",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, PAULA LILIANA GIRALDO GALLO, \"Scale-invariant magnetoresistance in a cuprate superconductor\" . En: Estados Unidos SCIENCE ISSN: 0036-8075 ed: AMER ASSOC ADVANCEMENT SCIENCE v. 361 fasc. 6401 p.479 - 481 ,2018, DOI: DOI: 10.1126/science.aan3178",
+        "titulo": "Scale-invariant magnetoresistance in a cuprate superconductor",
+        "doi": "DOI:",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Multi-band mass enhancement towards critical doping in a pnictide superconductor\" . En: Colombia NPJ QUANTUM MATERIALS ISSN: 2397-4648 ed: NATURE PORTFOLIO v. 4 fasc. 8 p.1 - 5 ,2019, DOI: 10.1038/s41535-018-0144-x",
+        "titulo": "Multi-band mass enhancement towards critical doping in a pnictide superconductor",
+        "doi": "10.1038/s41535-018-0144-x",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VANESA CRESPO, JOSE AUGUSTO GALVIS ECHEVERRI, ANA MALDONADO, ISABEL GUILLAMON, JOSE G RODRIGO, SEBASTIAN VIEIRA, S BANERJEE, PIERRE RODRIERE, \"Scanning microscopies of superconductors at very low temperatures\" . En: Países Bajos PHYSICA C SUPERCONDUCTIVITY AND ITS APPLICATIONS ISSN: 0921-4534 ed: Elsevier v. 479 fasc. 19 p.19 - 23 ,2012, DOI: 10.1016/j.physc.2012.02.014",
+        "titulo": "Scanning microscopies of superconductors at very low temperatures",
+        "doi": "10.1016/j.physc.2012.02.014",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Thermal creep induced by cooling a superconducting vortex lattice\" . En: Colombia PHYSICAL REVIEW ISSN: 0031-899X ed: American Institute of Physics v. 2 fasc. 013125 p.1 - 7 ,2020, DOI: 10.1103/PhysRevResearch.2.013125",
+        "titulo": "Thermal creep induced by cooling a superconducting vortex lattice",
+        "doi": "10.1103/PhysRevResearch.2.013125",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"On the singularity of the Yeh 4 × 4 transfer matrix formalism\" . En: Colombia JOURNAL OF MODERN OPTICS ISSN: 0950-0340 ed: Taylor & Francis Ltd v. 67 fasc. 9 p.832 - 836 ,2020, DOI: 10.1080/09500340.2020.1775905",
+        "titulo": "On the singularity of the Yeh 4 × 4 transfer matrix formalism",
+        "doi": "10.1080/09500340.2020.1775905",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Acid mine drainage treatment using zero-valent iron nanoparticles in biochemical passive reactors\" . En: Reino Unido ENVIRONMENTAL TECHNOLOGY ISSN: 0959-3330 ed: Taylor & Francis Ltd v. 1 fasc. 1864024 p.1 - 14 ,2020, DOI: 10.1080/09593330.2020.1864024",
+        "titulo": "Acid mine drainage treatment using zero-valent iron nanoparticles in biochemical passive reactors",
+        "doi": "10.1080/09593330.2020.1864024",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, MARIA CRESPO, ISABEL GUILLAMON, HERMANN SUDEROW, SEBASTIAN VIEIRA, M GARACIA HERNANDEZ, SERGEY BUD KO, PAUL C CANFIELD, \"Magnetic and superconducting phase diagrams in ErNi_2B_2C\" . En: Países Bajos SOLID STATE COMMUNICATIONS ISSN: 0038-1098 ed: Elsevier v. 152 fasc. 1076 p.1076 - 1079 ,2012, DOI: http://dx.doi.org/10.1016/j.ssc.2012.03.021",
+        "titulo": "Magnetic and superconducting phase diagrams in ErNi_2B_2C",
+        "doi": "http://dx.doi.org/10.1016/j.ssc.2012.03.021",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"1D charge density wave in the hidden order state of URu2Si2\" . En: Inglaterra COMMUNICATIONS PHYSICS ISSN: 2399-3650 ed: NATURE PORTFOLIO v. 4 fasc. 98 p.1 - 6 ,2021, DOI: 10.1038/s42005-021-00598-0",
+        "titulo": "1D charge density wave in the hidden order state of URu2Si2",
+        "doi": "10.1038/s42005-021-00598-0",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Raman Spectroscopy of Few-Layers TaS2 and Mo-Doped TaS2 with Enhanced Superconductivity\" . En: Colombia ADVANCED ELECTRONIC MATERIALS ISSN: 2199-160X ed: John Wiley & Sons v. 8 fasc. 10 p.1 - 7 ,2022, DOI: 10.1002/aelm.202200457",
+        "titulo": "Raman Spectroscopy of Few-Layers TaS2 and Mo-Doped TaS2 with Enhanced Superconductivity",
+        "doi": "10.1002/aelm.202200457",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Nanoscale phase-slip domain walls in the charge density wave state of the Weyl semimetal candidate NbTe 4\" . En: Colombia PHYSICAL REVIEW B ISSN: 2469-9950 ed: AMER PHYSICAL SOC v. 107 fasc. 045120 p.4 - 15 ,2023, DOI: 10.1103/PhysRevB.107.045120",
+        "titulo": "Nanoscale phase-slip domain walls in the charge density wave state of the Weyl semimetal candidate NbTe 4",
+        "doi": "10.1103/PhysRevB.107.045120",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: HECTOR CASTRO, JOSE AUGUSTO GALVIS ECHEVERRI, SONIA CASTRO, \"Automated setup for Van Der Pauw hall measurements\" . En: Estados Unidos IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT ISSN: 0018-9456 ed: Ieee v. 60 fasc. 198 p.198 - 205 ,2011, DOI: 10.1109/TIM.2010.2048961",
+        "titulo": "Automated setup for Van Der Pauw hall measurements",
+        "doi": "10.1109/TIM.2010.2048961",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Quantum-well states at the surface of a heavy-fermion superconductor\" . En: Colombia NATURE ISSN: 1476-4687 ed: NATURE PORTFOLIO v. 616 fasc. 465¿469 p.1 - 5 ,2023, DOI: 10.1038/s41586-023-05830-1",
+        "titulo": "Quantum-well states at the surface of a heavy-fermion superconductor",
+        "doi": "10.1038/s41586-023-05830-1",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"High-resolution scanning tunneling microscope and its adaptation for local thermopower measurements in 2D materials\" . En: Colombia ULTRAMICROSCOPY ISSN: 0304-3991 ed: Elsevier v. 261 fasc. 113963 p.1 - 10 ,2024, DOI: 10.1016/j.ultramic.2024.113963",
+        "titulo": "High-resolution scanning tunneling microscope and its adaptation for local thermopower measurements in 2D materials",
+        "doi": "10.1016/j.ultramic.2024.113963",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Removal of Cr and Organic Matter from Real Tannery Wastewater via Fenton-like Process Using Commercial Nano-Scale Zero-Valent Iron\" . En: Colombia WATER ISSN: 2073-4441 ed: mdpi v. 16 fasc. 5 p.1 - 16 ,2024, DOI: 10.3390/w16050754",
+        "titulo": "Removal of Cr and Organic Matter from Real Tannery Wastewater via Fenton-like Process Using Commercial Nano-Scale Zero-Valent Iron",
+        "doi": "10.3390/w16050754",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, \"Room temperature multiferroicity in a transition metal dichalcogenide\" . En: Colombia NPJ 2D MATERIALS AND APPLICATIONS ISSN: 2397-7132 ed: NATURE PORTFOLIO v. 54 fasc. 7 p.1 - 10 ,2023, DOI: 10.1038/s41699-023-00416-x",
+        "titulo": "Room temperature multiferroicity in a transition metal dichalcogenide",
+        "doi": "10.1038/s41699-023-00416-x",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE AUGUSTO GALVIS ECHEVERRI, HECTOR CASTRO, E FARBER, \"Anomalous transport properties in superconducting overdoped YBCO thin films\" . En: Países Bajos MICROELECTRONICS ISSN: 0026-2692 ed: Elsevier v. 39 fasc. 1385 p.1385 - 1387 ,2008, DOI: 10.1016/j.mejo.2008.01.092",
+        "titulo": "Anomalous transport properties in superconducting overdoped YBCO thin films",
+        "doi": "10.1016/j.mejo.2008.01.092",
+        "anio": "2008"
+      }
+    ],
+    "prototipos": [
+      "Producción técnica - Prototipo - Industrial",
+      "JOSE AUGUSTO GALVIS ECHEVERRI, Ventilador Mecánico Pulmonar controlado por presión y volumen, Nombre comercial: , contrato/registro: , . En: Colombia, ,2020, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,",
+      "Producción técnica - Prototipo - Industrial",
+      "JOSE AUGUSTO GALVIS ECHEVERRI, Sistema de adquisición de corriente túnel y control de actuadores piezoeléctricos, Nombre comercial: , contrato/registro: , . En: Colombia, ,2019, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,",
+      "Producción técnica - Prototipo - Industrial",
+      "JOSE AUGUSTO GALVIS ECHEVERRI, Cámara de alto vacío, Nombre comercial: , contrato/registro: , . En: Colombia, ,2021, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,",
+      "Producción técnica - Prototipo - Industrial",
+      "JOSE AUGUSTO GALVIS ECHEVERRI, Sistema de encerramiento mecánico y funcional para un microscopio de efecto túnel , Nombre comercial: , contrato/registro: , . En: Colombia, ,2019, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,"
+    ],
+    "dise_o_industrial": [
+      "Producción técnica - Diseño Industrial",
+      "JOSE AUGUSTO GALVIS ECHEVERRI, MICROSCOPIO, Nombre comercial: , contrato/registro: , . En: Colombia, ,2022, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de la Materia,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Diseño, implementación y validación de nuevos servicios de laboratorio especializados en BioNanotecnología para fortalecer la investigación y la extensión de la Universidad Central en los campos de convergencia entre la biotecnología, bioingeniería y la n Inicio: Julio 2015 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo DISEÑO Y CONSTRUCCIÓN DEL PRIMER MICROSCOPIO DE EFECTO TÚNEL EN COLOMBIA PARA EL ESTUDIO DE FENOMENOS DE ORDEN DE CARGA. Inicio: Marzo 2018 Fin: Marzo 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Bioremediación de drenajes ácidos de mina usando nanopartículas de hierro cero valente Inicio: Enero 2018 Fin: Abril 2019 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Clúster de Investigación en Ciencias y Tecnologías Convergentes (NBIC) Inicio: Abril 2014 Duración Resumen Con base en el potencial que las NBIC (Nano, Bio, Info, Cogno) ciencias y las tecnologías convergentes vienen teniendo y los importantes avances que en Colombia se han dado en los últimos años, en campos como los de la Biotecnología, se propone la conformación de un Clúster de investigación en Ciencias y tecnologías Convergentes NBIC, que aproveche el potencial que la Universidad Central y diversas entidades nacionales e internacionales con las cuales se mantiene actividad en red, poseen en campos contenidos dentro de las NBIC. La articulación que se propone, busca incorporar los niveles de investigación básica, investigación aplicada e investigación para la innovación, de manera tal que el impacto de los trabajos del clúster puedan ser fácilmente trasladables al ámbito de la sociedad donde sea pertinente.",
+      "Tipo de proyecto: Investigación y desarrollo Modelado y simulación de sistemas multicapa con actividad magnética Inicio: Febrero 2018 Fin: Noviembre 2018 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo DESARROLLO DE NANOCOMPUESTOS DE PLATA: DOSIS MÍNIMA INHIBITORIA Y SU POTENCIAL APLICACIÓN COMO AGENTE ANTIBACTERIANO IN-VITRO Inicio: Junio 2019 Fin: Junio 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Producción y Caracterización de Nuevos Materiales Cuánticos de Baja Dimensionalidad: Criticalidad Cuántica y Transiciones de Fase Electrónicas Inicio: Junio 2019 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Termoelectricidad en materiales de baja dimensionalidad, relación entre las propiedades electrónicas y termoeléctricas a nivel nanoscopico Inicio: Agosto 2020 Fin: Agosto 2022 Duración Resumen"
+    ]
+  }
+}

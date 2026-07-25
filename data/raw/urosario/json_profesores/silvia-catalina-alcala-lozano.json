@@ -1,0 +1,85 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/silvia-catalina-alcala-lozano",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "catalina.alcala@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n7019/silueta+mujer+hub.jpg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002301323",
+    "orcid": "https://orcid.org/0000-0002-8964-486X"
+  },
+  "areas_investigacion": [
+    "Cuidado Intensivo Pediátrico",
+    "Oncología crítica pediátrica",
+    "Pediatría",
+    "Sepsis pediátrica",
+    "Trasplante hepático pediátrico"
+  ],
+  "perfil_profesional": "Silvia Catalina Alcalá Lozano es Médica egresada de la Universidad Nacional de Colombia, con especialización en Pediatría y en Cuidado Intensivo Pediátrico de la Universidad del Rosario, donde obtuvo mención como estudiante distinguido durante su especialización en Pediatría. Actualmente se desempeña como pediatra intensivista en la Fundación Cardio infantil, el Instituto Nacional de Cancerología y la Fundación HOMI.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002301323"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-8964-486X"
+    ]
+  },
+  "id": "silvia-catalina-alcala-lozano",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002301323",
+    "cod_rh": "0002301323",
+    "datos_generales": {
+      "Nombre": "Silvia Catalina Alcalá Lozano",
+      "Nombre en citaciones": "Catalina Alcalá-Lozano, MD",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Linkedln"
+    ],
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Especialidad Médica Fundacion Universitaria San Martin ESPECIALIZACION EN PEDIATRIA Enerode2013 - Enerode 2016 Manual de pediatria ambulatoria",
+      "Especialidad Médica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO ESPECIALIZACION EN CUIDADO INTENSIVO PEDIATRICO Juliode2017 - Juliode 2019 Asociación entre soluciones no balanceadas y lesión renal aguda durante la reanimación con líquidos en niños con sepsis",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA MEDICINA Juliode1999 - Juliode 2005"
+    ],
+    "experiencia_profesional": [
+      "FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Dedicación: 0 horas Semanales Septiembre de 2019 de Actual",
+      "FUNDACION ABOOD SHAIO Dedicación: 0 horas Semanales Noviembre de 2022 de Actual",
+      "FUNDACIÓN HOSPITAL DE LA MISERICORDIA Dedicación: 48 horas Semanales Enero de 2017 Mayo de 2023",
+      "INSTITUTO NACIONAL DE CANCEROLOGIA ESE Dedicación: 24 horas Semanales Abril de 2018 Abril de 2021",
+      "Hospital Cardiovascular del Niño de Cundinamarca Dedicación: 24 horas Semanales Abril de 2016 Julio de 2017"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Ciencias del Cuidado de la Salud y Servicios (Administración de Hospitales, Financiamiento)"
+    ],
+    "reconocimientos": [
+      "Mención de estudiante distinguido,Fundacion Universitaria San Martin - Marzode 2016",
+      "Reconocimiento al mejor trabajo de investigación clínica y epidemiológica -Asociación entre soluciones no balanceadas y lesión renal aguda durante la reanimación hídrica en niños con sepsis-, en el marco del 18 Día de la investigación ¿investigación e inn,FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA - Noviembrede 2020"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SILVIA CATALINA ALCALA LOZANO, \"Association Between Unbalanced Solutions and Acute Kidney Injury During Fluid Resuscitation in Children With Sepsis\" . En: Colombia JOURNAL OF INTENSIVE CARE MEDICINE ISSN: 1525-1489 ed: Sage v. 37 fasc. p.625 - 632 ,2022, DOI: 10.1177/08850666211004453",
+        "titulo": "Association Between Unbalanced Solutions and Acute Kidney Injury During Fluid Resuscitation in Children With Sepsis",
+        "doi": "10.1177/08850666211004453",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SILVIA CATALINA ALCALA LOZANO, \"Severe adenovirus infection outbreak in Colombia: Experience from a tertiary pediatric hospital in 2022\" . En: Colombia BIOMEDICA ISSN: 0120-4157 ed: INST NACIONAL SALUD - COLOMBIA v. 44 fasc. p. - ,2024, DOI: 10.7705/biomedica.7047",
+        "titulo": "Severe adenovirus infection outbreak in Colombia: Experience from a tertiary pediatric hospital in 2022",
+        "doi": "10.7705/biomedica.7047",
+        "anio": "2024"
+      }
+    ]
+  }
+}

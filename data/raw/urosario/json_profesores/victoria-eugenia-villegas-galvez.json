@@ -1,0 +1,635 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/victoria-eugenia-villegas-galvez",
+  "nombre": "Victoria E. Villegas",
+  "cargo_principal": "Profesor asociado de carrera",
+  "email": "victoria.villegas@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 4029",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5743/victoria-eugenia-villegas-ur.jpg",
+  "afiliaciones": [
+    "Profesor asociado de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Investigador - Grupo de Investigación Moléculas Biológicas y Actividad Celular - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=25032129800",
+    "google_scholar": "https://scholar.google.com/citations?user=U0hbNFcAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/69ad9226-72b4-495b-b5b1-591972d18c00",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000100293",
+    "orcid": "http://orcid.org/0000-0003-4149-2307"
+  },
+  "areas_investigacion": [
+    "Cáncer",
+    "Marcadores moleculares",
+    "Profileración celular"
+  ],
+  "perfil_profesional": "La profesora Villegas, centra sus intereses de investigación principalmente en la biología celular y molecular, con énfasis en regulación de la expresión génica y respuesta a la terapia basada en resultados de experimentación in vitro e in vivo.",
+  "formacion_academica": [
+    "1996, Bióloga - Genética, Universidad del Valle - Cali",
+    "1996, Licenciada en Bioquímica, Universidad Santiago de Cali - Cali",
+    "2005, Magíster en Biología, Pontificia Universidad Javeriana - Bogotá",
+    "2017, Doctora en Ciencias Biomédicas, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "mRNA ratios of AR to ESR1 and PGR distinguish breast cancer subtypes based on public datasets and experimental models",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/10.1038/s41598-025-06856-3"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Chromosomal Instability as Enabling Feature and Central Hallmark of Breast Cancer",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.2147/BCTT.S383759"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Identification of Two Exosomal miRNAs in Circulating Blood of Cancer Patients by Using Integrative Transcriptome and Network Analysis",
+      "fecha": "2022-6-1",
+      "enlace": "https://doi.org/10.3390/ncrna8030033"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Prevalence of BRCA1 and BRCA2 Germline Mutations in Patients of African Descent with Early-Onset and Familial Colombian Breast Cancer",
+      "fecha": "2022-2-1",
+      "enlace": "https://doi.org/10.1093/oncolo/oyab026"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Primary Breast Angiosarcoma: Comparative Transcriptome Analysis",
+      "fecha": "2022-12-16",
+      "enlace": "https://doi.org/10.3390/ijms232416032"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Intrinsic subtypes and androgen receptor gene expression in primary breast cancer. A meta-analysis",
+      "fecha": "2021-8-27",
+      "enlace": "https://doi.org/10.3390/biology10090834"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Obesity and androgen receptor signaling: Associations and potential crosstalk in breast cancer cells",
+      "fecha": "2021-5-1",
+      "enlace": "https://doi.org/10.3390/cancers13092218"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Regulation of antitumor immune responses by exosomes derived from tumor and immune cells",
+      "fecha": "2021-2-1",
+      "enlace": "https://doi.org/10.3390/cancers13040847"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Bioinformatic tools for the analysis and prediction of ncrna interactions",
+      "fecha": "2021-11-1",
+      "enlace": "https://doi.org/10.3390/ijms222111397"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Daño celular y genético como determinantes de la toxicidad de los plaguicidas",
+      "fecha": "2020-6-19",
+      "enlace": "https://doi.org/10.19053/01217488.v11.n2.2020.11245"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Role of chromosomal instability and clonal heterogeneity in the therapy response of breast cancer cell lines",
+      "fecha": "2020-12-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F52118cc6-8ef7-42b4-b00f-1c696744e6e6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Resistance and overcoming resistance in breast cancer",
+      "fecha": "2020-11-11",
+      "enlace": "https://doi.org/10.2147/BCTT.S270799"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Analyzing biological and molecular characteristics and genomic damage induced by exposure to asbestos",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.2147/CMAR.S205723"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The role of chromosomal instability in cancer and therapeutic responses",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/10.3390/cancers10010004"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Profiling of gene expression regulated by 17β-estradiol and tamoxifen in estrogen receptor-positive and estrogen receptor-negative human breast cancer cell lines",
+      "fecha": "2017-9-20",
+      "enlace": "https://doi.org/10.2147/BCTT.S146247"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Tamoxifen resistance: Emerging molecular targets",
+      "fecha": "2016-8-19",
+      "enlace": "https://doi.org/10.3390/ijms17081357"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Tamoxifen treatment of breast cancer cells: Impact on Hedgehog/GLI1 signaling",
+      "fecha": "2016-2-27",
+      "enlace": "https://doi.org/10.3390/ijms17030308"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Neighboring gene regulation by antisense long Non-Coding RNAs",
+      "fecha": "2015-2-3",
+      "enlace": "https://doi.org/10.3390/ijms16023251"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The impact of S6K1 kinase on neuroblastoma cell proliferation is independent of GLI1 signaling",
+      "fecha": "2014-8-18",
+      "enlace": "https://doi.org/10.1186/1471-2407-14-600"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Identification of novel non-coding RNA-based negative feedback regulating the expression of the oncogenic transcription factor GLI1",
+      "fecha": "2014-7-1",
+      "enlace": "https://doi.org/10.1016/j.molonc.2014.03.009"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Search of somatic GATA4 and NKX2.5 gene mutations in sporadic septal heart defects",
+      "fecha": "2011-5-1",
+      "enlace": "https://doi.org/10.1016/j.ejmg.2011.01.004"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Analysis of microdeletions in 22q11 in Colombian patients with congenital heart disease",
+      "fecha": "2011-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/adeb6491-ca15-44db-9451-bb723429fcdd"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Estudio del polimorfismo MTHFR C677T en recién nacidos con cardiopatías congénitas aisladas, en una población colombiana",
+      "fecha": "2011-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/a279a80b-66f8-49b6-9f0c-ae424a769f92"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Aplication of authenticity criteria in mitochondrial studies on archaic bone remains from a prehispanic Muisca population",
+      "fecha": "2010-10-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ee4b0023-5759-4c4a-835b-51fa1ca71b52"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Determinación del polimorfismo C677T de metilentetrahidrofolato reductasa (MTHFR) en una población piloto de estudiantes de la universidad del rosario",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F01fee342-2bb9-4e1a-9afb-0cad470fead7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Determinación del polimorfismo C677T de metiltetrahidrofolato reductasa (MTHFR), en una población piloto de estudiantes de la Universidad del Rosario.",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ae42d962-c05e-4171-913b-58d4fa42e6af"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Reacción en cadena de la polimerasa y diagnóstico molecular",
+      "fecha": "2009-7-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9826494f-3bce-4bf9-bff2-c5843e259742"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Deficiencia de glucosa 6 fostato deshidrogenasa: Análisis enzimático y molecular en una población de Bogotá",
+      "fecha": "2008-4-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ffb2d02c-cbb3-4303-9417-b1ed5b51f5ee"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Análisis de ADN mitocondrial en una muestra de restos óseos arcaicos del periodo Herrera en la sabana de Bogotá",
+      "fecha": "2008-1-1",
+      "enlace": "https://doi.org/10.7705/biomedica.v28i4.62"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Deficiencia de Glucosa 6 Fosfato Deshidrogenasa: análisis enzimático y molecular en una población de Bogotá.",
+      "fecha": "2008-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F086e3acd-1a10-4db8-8534-ef9bbb41e8ee"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Fundamento biológico y aplicación clínica de los marcadores tumorales séricos",
+      "fecha": "2008-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/c75e1bea-14bd-4479-bedd-bd05889e4983"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Sporadic Creutzfeldt-Jakob disease: Clinical, pathological and molecular study",
+      "fecha": "2008-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F64e82a74-56a2-448f-8a0b-13f14ae026e4"
+    }
+  ],
+  "total_publicaciones": 32,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Análisis de los perfiles de expresión génica en sangre periférica y en el tejido tumoral de pacientes colombianas diagnosticadas con cáncer de ovario epitelial.",
+      "fecha": "2024-08-08 - 2026-08-08",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5e86cf0c-a5ed-4495-b41e-8930858c6dc6"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Análisis meta-taxonómico de la microbiota intratumoral en pacientes colombianos diagnosticados con cáncer de ovario",
+      "fecha": "2024-08-01 - 2026-08-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F60419da6-975c-44c1-b19c-5bb5cb6c0de5"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "EXPRESIÓN DE BIOMARCADORES ASOCIADOS CON CÁNCER DE SENO EN UNA POBLACIÓN COLOMBIANA",
+      "fecha": "2020-01-29 - 2024-03-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3b18ed33-5705-4b52-98fc-930e8ca41ef3"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "DETERMINACIÓN DE NUEVOS MARCADORES MOLECULARES (RECEPTOR DE ANDRÓGENOS-RA y GLI1) EN EL DIAGNOSTICO Y PRONÓSTICO DE CÁNCER DE SENO",
+      "fecha": "2019-12-12 - 2024-03-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/c643d662-642a-4a5b-a2b9-85b943fb9c74"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Importancia clínica de los exosomas asociados a tumor en el diagnóstico temprano del Cáncer Gástrico y sus implicaciones en la modulación del sistema inmunológico",
+      "fecha": "2020-10-28 - 2022-08-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F759d793e-4ead-4e55-9746-c7ef77fa2986"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Implementación de una metodología para extracción de vesículas extracelulares de líneas celulares y plasma humano",
+      "fecha": "2020-02-01 - 2022-07-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2a896e99-5aa6-4801-879b-98e02a3ae4d8"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Multi-level regulation of the transcriptional effector of the hedgehog signaling pathway, the glioma-associated oncogene 1, gli1, and its impact on tumor growth",
+      "fecha": "2010-08-01 - 2014-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6154437f-cef1-4e4d-a38d-5ec31ec1bec8"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Effect of Cannabidiol (CBD) on inflammation in a 3T3L1 cell model",
+      "fecha": "2021-08-01 - 2023-08-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2a7f4056-c8e2-405c-a332-aa53ae829970"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación del polimorfismo en el codón 129 del gen PRNP : estudio piloto"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modulación de la expresión génica en lineas celulares de Cáncer de Mama sometidas a diferentes tratamientos farmacológicos"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Premio Docencia de Excelencia 'Juan Agustín Uricochea y Navarro'",
+      "fecha": "2015"
+    },
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2010"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000100293"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0003-4149-2307"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=U0hbNFcAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/69ad9226-72b4-495b-b5b1-591972d18c00"
+    ],
+    "scopus_id": [
+      "25032129800"
+    ]
+  },
+  "id": "victoria-eugenia-villegas-galvez",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor asociado de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000100293",
+    "cod_rh": "0000100293",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Senior (IS) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Victoria Eugenia Villegas Gálvez",
+      "Nombre en citaciones": "VILLEGAS GÁLVEZ, VICTORIA EUGENIA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)"
+    ],
+    "formacion_academica": [
+      "Doctorado COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Doctorado en Ciencias Biomédicas Septiembrede2010 - Noviembrede 2017 THE EFFECTOR OF HEDGEHOG SIGNALING, THE TRANSCRIPTION FACTOR GLI1: NOVEL REGULATORY MECHANISMS AND ROLE IN TAMOXIFEN TREATMENT",
+      "Maestría/Magister PONTIFICIA UNIVERSIDAD JAVERIANA Posgrado En Biologìa Octubrede2001 - Marzode 2005 Evaluaciòn del polimorfismo del gen grin 1 en una poblaciòn normal",
+      "Pregrado/Universitario UNIVERSIDAD DEL VALLE BIOLOGIA Febrerode1988 - Marzode 1996 Determinaciòn de patrones electroforèticos y digestibilidad in vitro de Phaseolus coccineus y Phaseolus polyanthus",
+      "Pregrado/Universitario UNIVERSIDAD SANTIAGO DE CALI Licenciatura En Bioquìmica Agostode1987 - Marzode 1996 Identificación de marcadores moleculares tipo RAPD en palma de aceite"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Agosto de 2005 de",
+      "PONTIFICIA UNIVERSIDAD JAVERIANA Dedicación: 20 horas Semanales Enero de 2002 Enero de 2007 Actividades de administración - Miembro de consejo de centro - Cargo: Profesor Enero de 2002 Enero de 2007 Actividades de docencia - Pregrado - Nombre del curso: Biologìa Bàsica 3, Agosto 2002 Actividades de investigación - Investigación y Desarrollo - Titulo: Evaluaciòn del polimorfismo del gen grin 1 en una poblaciòn normal Agosto 2002",
+      "CORPORACIÓN CENTRO DE INVESTIGACIÓN EN PALMA DE ACEITE Dedicación: 40 horas Semanales Abril de 1996 Enero de 2002 Actividades de administración - Miembro de consejo de centro - Cargo: Asistente de Investigaciòn Abril de 1996 Enero de 2002"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular",
+      "Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Salud Pública"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Selecciòn asistida por marcadores moleculares, Activa: No",
+      "Identificación de marcadores moleculares tipo RAPD asociados con la resistencia a pudrición de cogollo, Activa: No",
+      "Estudios sobre diversidad genética en palma de aceite, Activa: No",
+      "Tripanosomas asociados a Marchitez Sorpresiva, Activa: No",
+      "Mapas comparativos, Activa: No",
+      "Caracterización Molecular de materiales Guineensis tolerantes y susceptibles a pudrición de cogollo, Activa: No",
+      "Caracterización molecular de materiales Dura con marcadores tipo RAPD's y AFLP's, Activa: No",
+      "BIOLOGÍA CELULAR Y MOLECULAR, Activa: Si",
+      "Biología Celular y Molecular del Cáncer, Activa: Si",
+      "Biología Celular y Molecular del Cáncer, Activa: Si",
+      "Biología Celular y Molecular del Cáncer, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Premio nacional en el area genetica y biotecnologia,Asociación Colombiana De Ciencias Biológicas - A.C.C.B. - Octubrede 2010",
+      "Tesis Meritoria,UNIVERSIDAD PEDAGÓGICA Y TECNOLÓGICA DE COLOMBIA UPTC - Noviembrede 2019",
+      "Tesis Meritoria,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Juliode 2020",
+      "Mención meritoria,UNIVERSIDAD NACIONAL DE COLOMBIA - Febrerode 2024"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: VICTORIA EUGENIA VILLEGAS GALVEZ, Caracterización del contenido de exosomas asociados a tumor en una población con cáncer gástrico UNIVERSIDAD NACIONAL DE COLOMBIA Estado: Tesis concluida DOCTORADO EN ONCOLOGIA, 2018. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Walter Andres Rincon Riveros Tutor(es)/Cotutor(es): LILIANA LOPEZ KLEINE , VICTORIA EUGENIA VILLEGAS GALVEZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular, Ciencias Médicas y de la Salud -- Medicina Clínica -- Oncología,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: VICTORIA EUGENIA VILLEGAS GALVEZ, IDENTIFICACION DEL PERFIL MUTACIONAL EN LOS GENES BRCA1 Y BRCA2 EN PACIENTES CON CÁNCER DE MAMA Y DE OVARIO FAMILIAR EN POBLACIÓN AFROCOLOMBIANA PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida CIENCIAS BIOLOGICAS, 2017. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DIANA MARIA TORRES LOPEZ , VICTORIA EUGENIA VILLEGAS GALVEZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Genética y Herencia,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: VICTORIA EUGENIA VILLEGAS GALVEZ, Determinación del polimorfismo C677T de metiltetrahidrofolato reductasa (MTHFR), en una población piloto de estudiantes de la Universidad del Rosario. UNIVERSIDAD DE LOS ANDES Estado: Tesis concluida MICROBIOLOGIA, 2009. Dirigió como: Tutor principal, Persona(s) orientada(s): Zaniah Gonzalez Galofre Tutor(es)/Cotutor(es): MARIA MARTINEZ AGUERO , VICTORIA EUGENIA VILLEGAS GALVEZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Genética y Herencia,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: VICTORIA EUGENIA VILLEGAS GALVEZ, IMPLICACIONES DE LA INESTABILIDAD CROMOSÓMICA EN LA RESPUESTA AL TRATAMIENTO EN LINEAS CELULARES DE CÁNCER DE SENO REPRESENTATIVAS DE LOS SUBTIPOS TUMORALES LUMINAL A Y TRIPLE NEGATIVO Universidad Pedagógica y Tecnológica de Colombia - UPTC - Sede Tunja Estado: Tesis concluida Biología, 2019. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Erika Viviana Perez Mora Tutor(es)/Cotutor(es): SANDRA MILENA RONDON LAGOS , VICTORIA EUGENIA VILLEGAS GALVEZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: VICTORIA EUGENIA VILLEGAS GALVEZ, Modulación de la expresión génica en líneas celulares de Cáncer de Mama sometidas a diferentes tratamientos farmacológicos COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Biología, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Duvan Andres Morales Mendoza Tutor(es)/Cotutor(es): SANDRA MILENA RONDON LAGOS , VICTORIA EUGENIA VILLEGAS GALVEZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: VICTORIA EUGENIA VILLEGAS GALVEZ, IMPLICACIONES DE LA INESTABILIDAD CROMOSÓMICA Y DE LA HETEROGENEIDAD CLONAL EN LA RESPUESTA A LA TERAPIA EN CÁNCER DE SENO UNIVERSIDAD PEDAGÓGICA Y TECNOLÓGICA DE COLOMBIA UPTC Estado: Tesis concluida Maestría en Ciencias Biológicas, 2018. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Ingrid Natalia Vargas Rondon Tutor(es)/Cotutor(es): SANDRA MILENA RONDON LAGOS , VICTORIA EUGENIA VILLEGAS GALVEZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Genética y Herencia, Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: VICTORIA EUGENIA VILLEGAS GALVEZ, Modulación de la expresión del GEN hMAM en líneas celulares de cáncer de mama sometidas a tamoxifen y 17ß-estradiol. UNIVERSIDAD NACIONAL DE COLOMBIA Estado: Tesis concluida Magíster en Ciencias - Microbiología, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Walter Andrés Rincón Riveros Tutor(es)/Cotutor(es): VICTORIA EUGENIA VILLEGAS GALVEZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología Celular y Microbiología,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: VICTORIA EUGENIA VILLEGAS GALVEZ, Titulo: Asociación entre homocisteina y otros factores de riesgo con los polimorfismos 699 C/T, 844 Inserción de 68 pb de la cistationina beta sintasa y 677 C/t de la MTHFR en pacientes con trombosis venosa y superficial Tipo de trabajo presentado: Proyecto de grado/Tesis en: PONTIFICIA UNIVERSIDAD JAVERIANA programa académico Ciclo Bàsico Nombre del orientado: Claudia Patricia Ayala Jiménes Palabras: MTHFR, VARIABILIDAD GENÉTICA, Areas: Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Salud Pública, Sectores: Educación - Educación superior,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: VICTORIA EUGENIA VILLEGAS GALVEZ, Titulo: Estandarización y evaluación de la calidad y cantidad de ADN obtenido de tejido cardiaco embebido en parafina. Tipo de trabajo presentado: Proyecto de grado/Tesis en: PONTIFICIA UNIVERSIDAD JAVERIANA programa académico Ciclo Bàsico Nombre del orientado: Paola Andrea Cadena Castillo Palabras: Bioquímica, Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular, Sectores: Salud humana - Cuidado a la salud de las personas,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Pediatric Tumors of the Nervous System Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-03-22 00:00:00.0, 2012-03-23 00:00:00.0 en Estocolmo - Scandic Foresta, Lidingö, Stockholm Productos asociados Nombre del producto: THE EFFECTOR OF HEDGEHOG SIGNALING, THE TRANSCRIPTION FACTOR GLI1, IS REGULATED BY A NON- CODING ANTISENSE RNA Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Network for NeuroBlastoma and CNS-tumor research in children Tipo de vinculación Patrocinadora Nombre de la institución: Network for NeuroBlastoma and CNS-tumor research in children Tipo de vinculación Patrocinadora Participantes Nombre: VICTORIA EUGENIA VILLEGAS GALVEZ Rol en el evento: Asistente",
+      "1 Nombre del evento: Pediatric Tumors of the Nervous System Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-03-22 00:00:00.0, 2012-03-23 00:00:00.0 en Estocolmo - Scandic Foresta, Lidingö, Stockholm",
+      "Productos asociados Nombre del producto: THE EFFECTOR OF HEDGEHOG SIGNALING, THE TRANSCRIPTION FACTOR GLI1, IS REGULATED BY A NON- CODING ANTISENSE RNA Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Network for NeuroBlastoma and CNS-tumor research in children Tipo de vinculación Patrocinadora Nombre de la institución: Network for NeuroBlastoma and CNS-tumor research in children Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: VICTORIA EUGENIA VILLEGAS GALVEZ Rol en el evento: Asistente",
+      "2 Nombre del evento: CONFERENCIA INTERNACIONAL SOBRE PALMA DE ACEITE Tipo de evento: Otro Ámbito: Nacional Realizado el:2001-01-01 00:00:00.0, 2001-01-08 00:00:00.0 en CARTAGENA DE INDIAS - Hotel Hilton Productos asociados Nombre del producto: Caracterización de Materiales Dura de Monterrey Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: CORPORACIÓN CENTRO DE INVESTIGACIÓN EN PALMA DE ACEITE Tipo de vinculación Gestionadora Participantes Nombre: VICTORIA EUGENIA VILLEGAS GALVEZ Rol en el evento: Asistente",
+      "2 Nombre del evento: CONFERENCIA INTERNACIONAL SOBRE PALMA DE ACEITE Tipo de evento: Otro Ámbito: Nacional Realizado el:2001-01-01 00:00:00.0, 2001-01-08 00:00:00.0 en CARTAGENA DE INDIAS - Hotel Hilton",
+      "Productos asociados Nombre del producto: Caracterización de Materiales Dura de Monterrey Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: CORPORACIÓN CENTRO DE INVESTIGACIÓN EN PALMA DE ACEITE Tipo de vinculación Gestionadora",
+      "Participantes Nombre: VICTORIA EUGENIA VILLEGAS GALVEZ Rol en el evento: Asistente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, ELIZABETH VARGAS, OLGA LUCIA PEDRAZA, CLEMENCIA DURAN, JUAN CARLOS PRIETO, \"Fenotipo y Genotipo de once pacientes con Ataxia de Friedreich.\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 4 fasc. 1 p.10 - 17 ,2006, DOI: Palabras: Friedreich Ataxia, Repeticiones GAA, Alelos de Riesgo, Diagnóstico, Sectores: Salud humana - Cuidado a la salud de las personas,",
+        "titulo": "Fenotipo y Genotipo de once pacientes con Ataxia de Friedreich.",
+        "doi": "Palabras:",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, CESAR PAYAN, FERNANDO VELANDIA, \"Enfermedad de Creutzfeldt-Jakob esporádica: estudio clínico, patológico y molecular de un caso.\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 6 fasc. 3 p.36 - 46 ,2008, DOI: Palabras: Diagnóstico, Mutaciones,",
+        "titulo": "Enfermedad de Creutzfeldt-Jakob esporádica: estudio clínico, patológico y molecular de un caso.",
+        "doi": "Palabras:",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA ROCIO RAMIREZ CLAVIJO, PAOLA CRUZ TAPIAS, \"Fundamento biológico y aplicación clínica de los marcadores turmorales séricos.\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 6 fasc. 2 p.85 - 98 ,2008, DOI: Palabras: Diagnóstico,",
+        "titulo": "Fundamento biológico y aplicación clínica de los marcadores turmorales séricos.",
+        "doi": "Palabras:",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, DORA FONSECA, MAGDA CAROLINA SANCHEZ, MAGDA CAROLINA SANCHEZ CORREDOR, DORA JANETH FONSECA MENDOZA, \"Deficiencia de glucosa 6 fosfato deshidrogenasa: Análisis enzimático y molecular en una población de Bogota.\" . En: Colombia COLOMBIA MEDICA ISSN: 1657-9534 ed: CORPORACION EDITORA MEDICA VALLE v. 39 fasc. 2 p.14 - 23 ,2008, DOI: Palabras: Diagnóstico, VARIABILIDAD GENÉTICA,",
+        "titulo": "Deficiencia de glucosa 6 fosfato deshidrogenasa: Análisis enzimático y molecular en una población de Bogota.",
+        "doi": "Palabras:",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, JAIME E BERNAL, DIANA TORRES, \"Análisis de ADN mitocondrial en una muestra de restos óseos arcaicos del periodo Herrera en la sabana de Bogotá\" . En: Colombia BIOMEDICA ISSN: 0120-4157 ed: INST NACIONAL SALUD - COLOMBIA v. 28 fasc. 4 p.569 - 577 ,2008, DOI: Palabras: VARIABILIDAD GENÉTICA,",
+        "titulo": "Análisis de ADN mitocondrial en una muestra de restos óseos arcaicos del periodo Herrera en la sabana de Bogotá",
+        "doi": "Palabras:",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, LILIAN CHUAIRE, MAGDA CAROLINA SANCHEZ, MAGDA CAROLINA SANCHEZ CORREDOR, LILIAN CHUAIRE NOACK, \"Reacción en cadena de la polimerasa y diagnóstico molecular\" . En: Colombia COLOMBIA MEDICA ISSN: 1657-9534 ed: CORPORACION EDITORA MEDICA VALLE v. 40 fasc. 3 p.347 - 352 ,2009, DOI: N/A Palabras: PCR, Diagnóstico,",
+        "titulo": "Reacción en cadena de la polimerasa y diagnóstico molecular",
+        "doi": "N/A",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, JAIME E BERNAL, DIANA TORRES, IGNACIO BRICENO BALCAZAR, MONICA MARIA DIAZ LOPEZ, ALBERTO GOMEZ GUTIERREZ, DIANA MARIA TORRES LOPEZ, \"Aplication of authenticity criteria in mitochondrial studies on archaic bone remains from a prehispanic Muisca population.\" . En: Colombia COLOMBIA MEDICA ISSN: 1657-9534 ed: CORPORACION EDITORA MEDICA VALLE v. 41 fasc. 4 p.304 - 314 ,2010, DOI: N/A Palabras: VARIABILIDAD GENÉTICA,",
+        "titulo": "Aplication of authenticity criteria in mitochondrial studies on archaic bone remains from a prehispanic Muisca population.",
+        "doi": "N/A",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Identificación de Marcadores Moleculares RAPD asociaciados con la resistencia al complejo pudrición de cogoyo en palma de aceite\" . En: Colombia Palmas ISSN: 0121-2923 ed: Cenipalma Fedepalma v. 18 fasc. 2 p.33 - 38 ,1997, DOI:",
+        "titulo": "Identificación de Marcadores Moleculares RAPD asociaciados con la resistencia al complejo pudrición de cogoyo en palma de aceite",
+        "anio": "1997"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, MARIA MARTINEZ AGUERO, MARIA MARTINEZ AGUERO, \"Determinación del polimorfismo C677T de metiltetrahidrofolato reductasa (MTHFR), en una población piloto de estudiantes de la Universidad del Rosario.\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 8 fasc. 1 p.7 - 21 ,2010, DOI: N/A Palabras: MTHFR, POLIMORFISMOS,",
+        "titulo": "Determinación del polimorfismo C677T de metiltetrahidrofolato reductasa (MTHFR), en una población piloto de estudiantes de la Universidad del Rosario.",
+        "doi": "N/A",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, MARLENY SALAZAR, JAIME E BERNAL, JAIME EDUARDO BERNAL VILLEGAS, MARLENY SALAZAR SALAZAR, \"Search of somatic GATA4 and NKX2.5 gene mutations in sporadic septal heart defects\" . En: Francia EUROPEAN JOURNAL OF MEDICAL GENETICS ISSN: 1769-7212 ed: Elsevier v. 54 fasc. N/A p.306 - 309 ,2011, DOI: 10.1016/j.ejmg.2011.01.004 Palabras: Alelos de Riesgo, Mutaciones, GATA4, NKX2.5,",
+        "titulo": "Search of somatic GATA4 and NKX2.5 gene mutations in sporadic septal heart defects",
+        "doi": "10.1016/j.ejmg.2011.01.004",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA ROCIO RAMIREZ CLAVIJO, PAOLA ANDREA AYALA RAMIREZ, REGGIE GARCIA ROBLES, MARTHA CECILIA BERMUDEZ DE RINCON, MARLENY SALAZAR SALAZAR, \"Estudio del polimorfismo MTHFR C677T en recién nacidos con cardiopatías congénitas aisladas, en una población colombiana\" . En: Colombia UNIVERSITAS MEDICA ISSN: 0041-9095 ed: v. 52 fasc. 3 p.269 - 277 ,2011, DOI: N/A Palabras: MTHFR, POLIMORFISMOS,",
+        "titulo": "Estudio del polimorfismo MTHFR C677T en recién nacidos con cardiopatías congénitas aisladas, en una población colombiana",
+        "doi": "N/A",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, DORA FONSECA, HEIDI MATEUS, MARLENY SALAZAR, JAIME E BERNAL, JAIME EDUARDO BERNAL VILLEGAS, MARLENY SALAZAR SALAZAR, \"Análisis de microdeleciones en 22q11 en pacientes colombianos con cardiopatía congénita no sindrómica.\" . En: Venezuela INVESTIGACION CLINICA ISSN: 0535-5133 ed: INST INVESTIGACION CLINICA v. 52 fasc. 4 p.334 - 343 ,2011, DOI: N/A Palabras: Mutaciones, Diagnóstico,",
+        "titulo": "Análisis de microdeleciones en 22q11 en pacientes colombianos con cardiopatía congénita no sindrómica.",
+        "doi": "N/A",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA ROCIO RAMIREZ CLAVIJO, PETER ZAPHIROPOULOS, \"Identification of novel non-coding RNA-based negative feedback regulating the expression of the oncogenic transcription factor GLI1\" . En: Dinamarca MOLECULAR ONCOLOGY ISSN: 1574-7891 ed: John Wiley & Sons v. NA fasc. NA p.1 - 15 ,2014, DOI: 10.1016/j.molonc.2014.03.009 Palabras: Gli1, Cáncer,",
+        "titulo": "Identification of novel non-coding RNA-based negative feedback regulating the expression of the oncogenic transcription factor GLI1",
+        "doi": "10.1016/j.molonc.2014.03.009",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, PETER ZAPHIROPOULOS, \"The impact of S6K1 kinase on neuroblastoma cell proliferation is independent of GLI1 signaling.\" . En: Países Bajos BMC CANCER ISSN: 1471-2407 ed: BMC v. 14 fasc. NA p.1 - 10 ,2014, DOI: 10.1186/1471-2407-14-600 Palabras: Gli1,",
+        "titulo": "The impact of S6K1 kinase on neuroblastoma cell proliferation is independent of GLI1 signaling.",
+        "doi": "10.1186/1471-2407-14-600",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): VICTORIA EUGENIA VILLEGAS GALVEZ, PETER ZAPHIROPOULOS, \"Neighboring gene regulation by antisense long non-coding RNAs.\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 16 fasc. NA p. 3251 - 3266 ,2015, DOI: 10.3390/ijms16023251 Palabras: regulatory RNA, gene regulation,",
+        "titulo": "Neighboring gene regulation by antisense long non-coding RNAs.",
+        "doi": "10.3390/ijms16023251",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA MILENA RONDON LAGOS, MABEL ADRIANA GRISMALDO RODRIGUEZ, PETER ZAPHIROPOULOS, \"Tamoxifen Treatment of Breast Cancer Cells: Impact on Hedgehog/GLI1 Signaling\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 17 fasc. 3 p.1 - 12 ,2016, DOI: 10.3390/ijms17030308",
+        "titulo": "Tamoxifen Treatment of Breast Cancer Cells: Impact on Hedgehog/GLI1 Signaling",
+        "doi": "10.3390/ijms17030308",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): VICTORIA EUGENIA VILLEGAS GALVEZ, \"Estudio preliminar de polimorfismos del gen Grin 1 que codifica para la subunidad NR1 del receptor ionotropico de glutamato sensible a N-MetilD-Aspartato en una población sana\" . En: Colombia Xxxvii Congreso Nacional de Ciencias Biológicas Ponencias San Juan de Pasto ISSN: 0 ed: v. fasc. p.39 - 39 ,2002, DOI:",
+        "titulo": "Estudio preliminar de polimorfismos del gen Grin 1 que codifica para la subunidad NR1 del receptor ionotropico de glutamato sensible a N-MetilD-Aspartato en una población sana",
+        "anio": "2002"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, CAROLINA SANCHEZ, PETER ZAPHIROPOULOS, \"Tamoxifen Resistance: Emerging Molecular Targets\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 17 fasc. NA p.1 - 31 ,2016, DOI: 10.3390/ijms17081357 Palabras: Tamoxifen, RECEPTORES,",
+        "titulo": "Tamoxifen Resistance: Emerging Molecular Targets",
+        "doi": "10.3390/ijms17081357",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA MILENA RONDON LAGOS, \"Profiling of gene expression regulated by 17B-estradiol and tamoxifen in estrogen receptor-positive and -negative human breast cancer cell lines\" . En: Colombia BREAST CANCER TARGETS AND THERAPY ISSN: 1179-1314 ed: Dove Medical Press Ltd v. N/A fasc. N/A p.534 - 550 ,2017, DOI: 10.2147/BCTT.S146247 Palabras: Tamoxifen, Cáncer,",
+        "titulo": "Profiling of gene expression regulated by 17B-estradiol and tamoxifen in estrogen receptor-positive and -negative human breast cancer cell lines",
+        "doi": "10.2147/BCTT.S146247",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA MILENA RONDON LAGOS, \"The Role of Chromosomal Instability in Cancer and Therapeutic Responses\" . En: Suiza CANCERS ISSN: 2072-6694 ed: mdpi v. 10 fasc. 4 p.1 - 21 ,2017, DOI: 10.3390/cancers10010004 Palabras: Cáncer, Diagnóstico,",
+        "titulo": "The Role of Chromosomal Instability in Cancer and Therapeutic Responses",
+        "doi": "10.3390/cancers10010004",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA MILENA RONDON LAGOS, \"Analyzing biological and molecular characteristics and genomic damage induced by exposure to asbestos.\" . En: Colombia CANCER MANAGEMENT AND RESEARCH ISSN: 1179-1322 ed: Dove Medical Press Ltd v. 11 fasc. N/A p.4997 - 5012 ,2019, DOI: 10.2147/CMAR.S205723 Palabras: Cáncer,",
+        "titulo": "Analyzing biological and molecular characteristics and genomic damage induced by exposure to asbestos.",
+        "doi": "10.2147/CMAR.S205723",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA MILENA RONDON LAGOS, INGRID NATALIA VARGAS RONDON, \"Role of chromosomal instability and clonal heterogeneity in the therapy response of breast cancer cell lines\" . En: China CANCER BIOLOGY MEDICINE ISSN: 2095-3941 ed: CHINA ANTI-CANCER ASSOC v. 17 fasc. N/A p.1 - 22 ,2020, DOI: 10.20892/j.issn.2095-3941.2020.0028 Palabras: Inestabilidad Cromosómica, Cáncer, Diagnóstico,",
+        "titulo": "Role of chromosomal instability and clonal heterogeneity in the therapy response of breast cancer cell lines",
+        "doi": "10.20892/j.issn.2095-3941.2020.0028",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): YAMILE ANDREA LUQUE BOLIVAR, ERIKA VIVIANA PEREZ MORA, VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA MILENA RONDON LAGOS, \"Resistance and Overcoming Resistance in Breast Cancer\" . En: Nueva Zelanda BREAST CANCER TARGETS AND THERAPY ISSN: 1179-1314 ed: Dove Medical Press Ltd v. 12 fasc. p.211 - 229 ,2020, DOI: 10.2147/BCTT.S270799 Palabras: Cáncer, Terapia, Tamoxifen,",
+        "titulo": "Resistance and Overcoming Resistance in Breast Cancer",
+        "doi": "10.2147/BCTT.S270799",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): VICTORIA EUGENIA VILLEGAS GALVEZ, \"Caracterización molecular de Materiales Dura de Monterrey\" . En: Colombia Memorias XIII Conferencia Internacional Sobre Palma de Aceite ISSN: 0 ed: v. fasc. p. - ,2001, DOI:",
+        "titulo": "Caracterización molecular de Materiales Dura de Monterrey",
+        "anio": "2001"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Obesity and Androgen Receptor Signaling: Associations and Potential Crosstalk in Breast Cancer Cells\" . En: Suiza CANCERS ISSN: 2072-6694 ed: mdpi v. 13 fasc. 9 p.NA - NA ,2021, DOI: 10.3390/cancers13092218",
+        "titulo": "Obesity and Androgen Receptor Signaling: Associations and Potential Crosstalk in Breast Cancer Cells",
+        "doi": "10.3390/cancers13092218",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, WALTER ANDRES RINCON RIVEROS, JOSEFA ANTONIA RODRIGUEZ GARCIA, \"Regulation of antitumor immune responses by exosomes derived from tumor and immune cells\" . En: Suiza CANCERS ISSN: 2072-6694 ed: mdpi v. 13 fasc. 4 p.847 - 847 ,2021, DOI: 10.3390/cancers13040847",
+        "titulo": "Regulation of antitumor immune responses by exosomes derived from tumor and immune cells",
+        "doi": "10.3390/cancers13040847",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, SANDRA MILENA RONDON LAGOS, MAGDA CAROLINA SANCHEZ CORREDOR, DUVAN SEBASTIAN VALBUENA, MARIA PAULA MELENDEZ FLOREZ, \"Daño celular y genético como determinantes de la toxicidad de los plaguicidas\" . En: Colombia Ciencia En Desarrollo ISSN: 0121-7488 ed: Universidad Pedagógica y Tecnológica de Colombia v. 11 fasc. 2 p.1 - 1 ,2021, DOI: 10.19053/01217488",
+        "titulo": "Daño celular y genético como determinantes de la toxicidad de los plaguicidas",
+        "doi": "10.19053/01217488",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: PAOLA ANDREA CRUZ TAPIAS, WILSON RUBIANO FORERO, SANDRA MILENA RONDON LAGOS, VICTORIA EUGENIA VILLEGAS GALVEZ, NELSON ENRIQUE RANGEL JIMENEZ, \"Intrinsic Subtypes and Androgen Receptor Gene Expression in Primary Breast Cancer. A Meta-Analysis\" . En: Suiza BIOLOGY BASEL ISSN: 2079-7737 ed: mdpi v. 10 fasc. 9 p.834 - 834 ,2021, DOI: 10.3390/biology10090834 Palabras: RECEPTORES, Cáncer,",
+        "titulo": "Intrinsic Subtypes and Androgen Receptor Gene Expression in Primary Breast Cancer. A Meta-Analysis",
+        "doi": "10.3390/biology10090834",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: WALTER ANDRES RINCON RIVEROS, DUVAN ANDRES MORALES MENDOZA, JOSEFA ANTONIA RODRIGUEZ GARCIA, VICTORIA EUGENIA VILLEGAS GALVEZ, LILIANA LOPEZ KLEINE, \"Bioinformatic Tools for the Analysis and Prediction of ncRNA Interactions\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 22 fasc. 21 p.11397 - 11397 ,2021, DOI: 10.3390/ijms222111397 Palabras: gene regulation, regulatory RNA,",
+        "titulo": "Bioinformatic Tools for the Analysis and Prediction of ncRNA Interactions",
+        "doi": "10.3390/ijms222111397",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Chromosomal Instability as Enabling Feature and Central Hallmark of Breast Cancer\" . En: Nueva Zelanda BREAST CANCER TARGETS AND THERAPY ISSN: 1179-1314 ed: Dove Medical Press Ltd v. 15 fasc. N/A p.189 - 211 ,2023, DOI: 10.2147/BCTT.S383759 Palabras: Cáncer,",
+        "titulo": "Chromosomal Instability as Enabling Feature and Central Hallmark of Breast Cancer",
+        "doi": "10.2147/BCTT.S383759",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA MARIA TORRES LOPEZ, ELIZABETH VARGAS, VICTORIA EUGENIA VILLEGAS GALVEZ, \"Prevalence of BRCA1 and BRCA2 Germline Mutations in Patients of African Descent with Early-Onset and Familial Colombian Breast Cancer\" . En: Estados Unidos ONCOLOGIST ISSN: 1549-490X ed: Oxford Univ Press v. 27 fasc. 2 p.151 - 157 ,2022, DOI: 10.1093/oncolo/oyab026 Palabras: Cáncer, Diagnóstico,",
+        "titulo": "Prevalence of BRCA1 and BRCA2 Germline Mutations in Patients of African Descent with Early-Onset and Familial Colombian Breast Cancer",
+        "doi": "10.1093/oncolo/oyab026",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, LILIANA LOPEZ KLEINE, WALTER ANDRES RINCON RIVEROS, \"Identification of Two Exosomal miRNAs in Circulating Blood of Cancer Patients by Using Integrative Transcriptome and Network Analysis\" . En: Suiza NON CODING RNA ISSN: 2311-553X ed: Multidisciplinary Digital Publishing Institute (MDPI) v. 8 fasc. 3 p.1 - 33 ,2022, DOI: 10.3390/ncrna8030033 Palabras: Cáncer, gene regulation,",
+        "titulo": "Identification of Two Exosomal miRNAs in Circulating Blood of Cancer Patients by Using Integrative Transcriptome and Network Analysis",
+        "doi": "10.3390/ncrna8030033",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Primary Breast Angiosarcoma: Comparative Transcriptome Analysis\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 23 fasc. 24 p.1 - 13 ,2022, DOI: 10.3390/ijms232416032",
+        "titulo": "Primary Breast Angiosarcoma: Comparative Transcriptome Analysis",
+        "doi": "10.3390/ijms232416032",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Estudio Preliminar sobre la variabilidad genética del género Elaeis en Colombia\" . En: Colombia Memoria Conferencia Internacional Avances Agronómicos de Palma de Aceite ISSN: 0 ed: v. fasc. p.227 - 231 ,1997, DOI:",
+        "titulo": "Estudio Preliminar sobre la variabilidad genética del género Elaeis en Colombia",
+        "anio": "1997"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VICTORIA EUGENIA VILLEGAS GALVEZ, IGNACIO ZARANTE, LEONARDO LAREO, \"Estudio preliminar de los polimorfismos del gen grin-1 del receptor NMDA en una población sana colombiana\" . En: Colombia UNIVERSITAS SCIENTIARUM ISSN: 0122-7483 ed: Pontificia Universidad Javeriana v. 11 fasc. p.49 - 60 ,2006, DOI: Palabras: NMDA, POLIMORFISMOS, RECEPTORES, VARIABILIDAD GENÉTICA, Sectores: Salud humana - Cuidado a la salud de las poblaciones humanas,",
+        "titulo": "Estudio preliminar de los polimorfismos del gen grin-1 del receptor NMDA en una población sana colombiana",
+        "doi": "Palabras:",
+        "anio": "2006"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Otro libro publicado: VICTORIA EUGENIA VILLEGAS GALVEZ, LILIAN CHUAIRE, MAGDA CAROLINA SANCHEZ, \"Manual de histologia, Tejidos fundamentales\" En: Colombia 2009. ed:Editorial Universidad del Rosario ISBN: 978-958-8378-89-3 v. 1 pags. 364 Palabras: Histología, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Anatomía y morfología,"
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Construcción de Mapas Genéticos\" En: Colombia. 1998. Palmas. ISSN: 0123-8353 p. - v.54 Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Fitomonas: Tripanosomas asociados a marchitez sorpresiva\" En: Colombia. 1999. Palmas. ISSN: 0123-8353 p. - v.65 Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: VICTORIA EUGENIA VILLEGAS GALVEZ, \"Mejoramiento Vegetal mediante Selección Asistida por Marcadores\" En: Colombia. 2000. Palmas. ISSN: 0123-8353 p. - v.68 Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Evaluaciòn del polimorfismo del gen grin 1 en una poblaciòn normal Inicio: Septiembre 2010 Duración 0 Resumen Evaluaciòn del polimorfismo del gen grin 1 en una poblaciòn normal",
+      "Tipo de proyecto: Investigación y desarrollo Estudio de polimorfismos de la proteína priónica- Estudio de caso Inicio: Febrero 2007 Fin proyectado: Diciembre 2008 Duración 0 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Asociación de las mutaciones somáticas de los genes NKX 2.5 y GATA 4 como factores de riesgo para algunas malformaciones congénitas esporádicas. Inicio: Julio 2008 Fin proyectado: Julio 2010 Fin: Agosto 2010 Duración 18 Resumen Asociación de las mutaciones somáticas de los genes NKX 2.5 y GATA 4 como factores de riesgo para algunas malformaciones congénitas esporádicas.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Estudio piloto para la evaluación del polimorfismo del gen PRNP codificante para la proteína prionica. Inicio: Enero 2010 Fin proyectado: Diciembre 2011 Fin: Diciembre 2011 Duración 18 Resumen",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Multi-level regulation of the transcriptional effector of the hedgehog signaling pathway, the glioma-associated oncogene 1, GLI1, and its impact on tumor growth Inicio: Agosto 2010 Fin proyectado: Julio 2014 Fin: Julio 2014 Duración 48 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Stratification of breast cancer subtypes in Colombian patients based on Hedgehog signaling expression Inicio: Noviembre 2013 Fin: Noviembre 2016 Duración Resumen The aim of this collaborative project, Colombia-Sweden, is to analyze a large number of breast cancer samples from Colombian patients, aiming at clarifying the implications of Hedgehog signaling activation in different subtypes of this tumor.",
+      "Tipo de proyecto: Investigación y desarrollo Inestabilidad Cromosómica en Cancer de seno Inicio: Septiembre 2017 Duración Resumen Estudio sobre la influencia de la inestabilidad cromosómica en el tratamiento del cáncer de seno.",
+      "Tipo de proyecto: Investigación y desarrollo Implementación de una metodología para extracción de vesículas extracelulares de líneas celulares y plasma humano Inicio: Enero 2020 Duración Resumen Los exosomas juegan un papel fundamental en el microambiente tumoral, al favorecer la comunicación entre células tumorales o entre estas células tumorales y células del sistema inmune, razón por la que se considera que la secreción de exosomas es un mecanismo mediante el cual el tumor favorece su propio desarrollo al transportar moléculas moduladoras del sistema inmunológico tales como HLA-G, oncoproteínas y factores de crecimiento. Adicionalmente, también se ha descrito transferencia horizontal de diversos tipos de ARN que otorgan mayor agresividad a las células tumorales. Considerando la importancia de los exosomas en el desarrollo y progresión del cáncer, se plantea este proyecto con el objeto de generar en nuestro laboratorio, una metodología para la extracción y caracterización de vesículas extracelulares, con particular interés en exosomas, estableciendo las bases para el desarrollo de investigaciones más robustas con estas estructuras celulares y así contribuir al avance del entendimiento de la biología del cáncer.",
+      "Tipo de proyecto: Investigación y desarrollo Determinación de nuevos marcadores moleculares (receptor de andrógenos-RA y GLI1) en el diagnostico y pronóstico de cáncer de seno Inicio: Enero 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Expresión de biomarcadores asociados con cáncer de seno en una población colombiana Inicio: Enero 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Identificación de marcadores moleculares tipo RAPD en palma de aceite Inicio: Enero 1996 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Identificación de marcadores moleculares tipo RAPD asociados con la resistencia a pudrición de cogollo Inicio: Enero 1997 Duración 0 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Estudios sobre diversidad genética en palma de aceite Inicio: Enero 1998 Duración 0 Resumen",
+      "Tipo de proyecto: Extensión y responsabilidad social CTI Marchitez Sorpresiva Inicio: Enero 1998 Duración 0 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización Molecular de materiales Guineensis tolerantes y susceptibles a pudrición de cogollo Inicio: Enero 1999 Duración 0 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización molecular de materiales Dura con marcadores tipo RAPD's y AFLP's Inicio: Enero 1999 Duración 0 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Cultivo y caracterizaciòn de fitomonas Inicio: Enero 1999 Duración 0 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Mutaciones y polimorfismos en Cáncer Gástrico Inicio: Agosto 2008 Fin proyectado: Julio 2013 Duración 60 Resumen"
+    ]
+  }
+}

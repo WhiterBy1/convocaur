@@ -1,0 +1,37 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mario-gilberto-daniel-ramirez",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "mario.daniel@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Docentes clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001815264",
+    "orcid": "https://orcid.org/0000-0003-0449-1495"
+  },
+  "perfil_profesional": "Mario Gilberto Daniel Ramírez es cirujano plástico especializado en procedimientos estéticos y reconstructivos. Es miembro de la Sociedad Colombiana de Cirugía Plástica, Estética y Reconstructiva. Su práctica clínica se enfoca en abdominoplastia, aumento mamario con implantes, rinoplastia, blefaroplastia, liposucción, lifting facial y procedimientos con toxina botulínica y rellenos inyectables.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001815264"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0003-0449-1495"
+    ]
+  },
+  "id": "mario-gilberto-daniel-ramirez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001815264",
+    "cod_rh": "0001815264",
+    "datos_generales": {
+      "Nombre": "Mario Gilberto Dániel Ramírez",
+      "Nombre en citaciones": "DÁNIEL RAMÍREZ, MARIO GILBERTO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/fernando-lizcano",
+  "nombre": "",
+  "cargo_principal": "Profesor mérito",
+  "email": "",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n8077/FERNANDO+LIZCANO.JPG",
+  "afiliaciones": [
+    "Profesor mérito - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=lfqkd1EAAAAJ",
+    "orcid": " https://orcid.org/0000-0002-2414-6894"
+  },
+  "areas_investigacion": [
+    "Diabetes",
+    "Endocrinologia",
+    "Epigenética",
+    "Expresión génica",
+    "Metabolismo",
+    "Obesidad",
+    "Transcripción"
+  ],
+  "perfil_profesional": "Endocrinólogo con una formación en ciencias básicas, especialización en la Clínica de la Universidad de Navarra en España, doctorado sobre fisiología célular en la Universidad de Navarra y posdoctorado en el Brigham and Womens Hospital en Boston, hospital afiliado a Harvard Medical School, en el departamento de Genética donde abordó el tema de la caracterización de algunas proteínas con injerencia en la epigenética como las histonas desmetilasas, posteriormente realizó estudios destacados en la adipogénesis y la producción de adipocitos metabólicamente activos asi como estudios clínicos en la función de las hormonas tiroideas.Endocrinólogo en la Fundación Cardio-infantil desde 1996. Fue presidente de la asociación colombiana de Endocrinología, miembro activo de la Endocrine Society en USA y la ISSCR (Intenational society of stem cells reseacrh). En los últimos años se ha dedicado a la investigación en medicina regenerativa especialmente en células pluripotentes inducidas. Tengo una red de investigación con grupos de Japón, Estados unidos España y Perú. Fue director del Doctorado de Biociencias de la Universidad de La Sabana y ha dirigido alrededor de 7 tesis doctorales, la mayoría acerca de expresión génica. En la Universidad de La Sabana es profesor titular, investigador senior de Minciencias.",
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Maturity-onset diabetes of the young type 5 a MULTISYSTEMIC disease: a CASE report of a novel mutation in the HNF1B gene and literature review"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modulación hormonal, mitocondria y prevención de enfermedad de Alzheimer: el rol de los agonistas de GLP-1 y estrógenos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Molecular perspectives in hypertrophic heart disease: An epigenetic approach from chromatin modification"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-2414-6894"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?hl=en&user=lfqkd1EAAAAJ"
+    ]
+  },
+  "id": "fernando-lizcano",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor mérito"
+}

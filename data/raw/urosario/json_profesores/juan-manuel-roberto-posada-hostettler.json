@@ -1,0 +1,911 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/juan-manuel-roberto-posada-hostettler",
+  "nombre": "Juan M. Posada",
+  "cargo_principal": "Profesor titular de carrera",
+  "email": "juan.posada@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 4022",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3772/Posada.jpg",
+  "afiliaciones": [
+    "Profesor titular de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Investigador líder - Grupo de Ecología Funcional y Ecosistémica - EFE - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=36158667700",
+    "google_scholar": "https://scholar.google.com/citations?user=Vg1B-74AAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/46b4a239-5b01-4e0a-9669-2afb4a6388da",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001359956",
+    "orcid": "http://orcid.org/0000-0001-7794-9300"
+  },
+  "areas_investigacion": [
+    "Ecosystem ecology",
+    "Functional ecology",
+    "Global change",
+    "Photosynthesis (LCSH)",
+    "Physiological ecology of plants"
+  ],
+  "perfil_profesional": "Profesor titular de carrera de la Facultad de Ciencias Naturales. Sus intereses de investigación están enfocados en tres áreas: entender si las plantas usan los recursos de manera eficiente y utilizar principios de optimización para escalar la fotosíntesis del nivel de hojas al nivel de ecosistemas; cuantificar y modelar diferentes componentes del ciclo de carbono en ecosistemas tropicales terrestres; relacionar los rasgos funcionales de las plantas con imágenes obtenidas con sensores remotos para estimar diferentes servicios ecosistémicos.",
+  "formacion_academica": [
+    "1994, Biólogo, Universidad de los Andes - Bogotá D.C.",
+    "2003, Doctor of Philosophy, University of Florida"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Ecological Determinants of Soil Fungal Communities Along a Successional Gradient in Upper Andean Tropical Forests and Their Influence on Decomposition",
+      "fecha": "2026-5-1",
+      "enlace": "https://doi.org/https://doi.org/10.1111/btp.70215"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The Global Spectra-Trait Initiative: A database of paired leaf spectroscopy and functional traits associated with leaf photosynthetic capacity",
+      "fecha": "2026-1-9",
+      "enlace": "https://doi.org/https://doi.org/10.5194/essd-18-245-2026"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Beyond succession: Abiotic conditions shape upper andean mountain forests seed-bank and seedling assemblages",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.foreco.2025.123263"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Are leaf anatomical traits strong predictors of litter decomposability? Evidence from upper Andean tropical species along a forest successional gradient",
+      "fecha": "2025-7-1",
+      "enlace": "https://doi.org/10.1007/s00442-025-05739-8"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Drivers of soil fauna communities along a successional gradient in upper andean tropical forests",
+      "fecha": "2025-3-1",
+      "enlace": "https://doi.org/10.1016/j.soilbio.2024.109692"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Flood-Fire Interplays in Wetlands: The Rising of an Actionable Field of Study",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1007/s13157-025-02005-8"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional Traits and Species Identity Drive Decomposition Along a Successional Gradient in Upper Andean Tropical Forests",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1111/btp.13425"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Seasonal ecophysiology of two páramo species: the dominance of light over water limitations",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.3389/fpls.2025.1529852"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Towards a global understanding of tree mortality",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1111/nph.20407"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Tropical tree species with high wood specific gravity have higher concentrations of wood phosphorus and are more efficient at resorbing it",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1093/aobpla/plaf001"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Habitat of two threatened short-tailed whip-scorpions (Arachnida: Schizomida) in the tropical Andes of Northern South America",
+      "fecha": "2024-4-6",
+      "enlace": "https://doi.org/10.1007/s10841-024-00565-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Non-structural carbohydrate concentrations in tree organs vary across biomes and leaf habits, but are independent of the fast-slow plant economic spectrum",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.3389/fpls.2024.1375958"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The links between wood traits and species demography change during tree development in a lowland tropical rainforest",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1093/aobpla/plad090"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effects of urban, peri-urban and rural land covers on plant functional traits around Bogotá, Colombia",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.1007/s11252-023-01429-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Wood density is related to aboveground biomass and productivity along a successional gradient in upper Andean tropical forests",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.3389/fpls.2023.1276424"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Termite sensitivity to temperature affects global wood decay rates",
+      "fecha": "2022-9-23",
+      "enlace": "https://doi.org/10.1126/science.abo3856"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Seeing the wood despite the trees: Exploring human disturbance impact on plant diversity, community structure, and standing biomass in fragmented high Andean forests",
+      "fecha": "2021-3-1",
+      "enlace": "https://doi.org/10.1002/ece3.7182"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Radial variations in wood functional traits in a rain forest from eastern Amazonia",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.1007/s00468-021-02229-1"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Diverging functional strategies but high sensitivity to an extreme drought in tropical dry forests",
+      "fecha": "2020-12-1",
+      "enlace": "https://doi.org/10.1111/ele.13659"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Can light-saturated photosynthesis in lowland tropical forests be estimated by one light level?",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.1111/btp.12817"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Coping with branch excision when measuring leaf net photosynthetic rates in a lowland tropical forest",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.1111/btp.12774"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Little trace of floristic homogenization in peri-urban Andean secondary forests despite high anthropogenic transformation",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.1111/1365-2745.13570"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Climate severity and land-cover transformation determine plant community attributes in Colombian dry forests",
+      "fecha": "2019-11-19",
+      "enlace": "https://doi.org/10.1111/btp.12715"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effect of temporally heterogeneous light on photosynthetic light use efficiency, plant acclimation and growth in Abatia parviflora",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1071/FP18279"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Interplay of seasonal sunlight, air and leaf temperature in two alpine páramo species, Colombian Andes",
+      "fecha": "2018-5-1",
+      "enlace": "https://doi.org/10.1016/j.agrformet.2018.01.033"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Carbohydrate dynamics in roots, stems, and branches after maintenance pruning in two common urban tree species of North America",
+      "fecha": "2018-3-1",
+      "enlace": "https://doi.org/10.1016/j.ufug.2018.01.013"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Fusion of sentinel-1a and sentinel-2A data for land cover mapping: A case study in the lower Magdalena region, Colombia",
+      "fecha": "2017-9-12",
+      "enlace": "https://doi.org/10.1080/17445647.2017.1372316"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Monitoring ecological change during rapid socio-economic and political transitions: Colombian ecosystems in the post-conflict era",
+      "fecha": "2017-10-1",
+      "enlace": "https://doi.org/10.1016/j.envsci.2017.06.011"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Estimating aboveground biomass and carbon stocks in periurban Andean secondary forests using very high resolution imagery",
+      "fecha": "2016-7-9",
+      "enlace": "https://doi.org/10.3390/f7070138"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Spatial and seasonal variation in leaf temperature within the canopy of a tropical forest",
+      "fecha": "2016-1-1",
+      "enlace": "https://doi.org/10.3354/cr01427"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Near-infrared spectroscopy (NIRS) predicts non-structural carbohydrate concentrations in different tissue types of a broad range of tree species",
+      "fecha": "2015-9-1",
+      "enlace": "https://doi.org/10.1111/2041-210X.12391"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Globally, functional traits are weak predictors of juvenile tree growth, and we do not know why",
+      "fecha": "2015-7-1",
+      "enlace": "https://doi.org/10.1111/1365-2745.12401"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Dynamic cloud regimes, incident sunlight, and leaf temperatures in espeletia grandiflora and Chusquea tessellata, two representative species of the Andean Páramo, Colombia",
+      "fecha": "2014-5-1",
+      "enlace": "https://doi.org/10.1657/1938-4246-46.2.371"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Dynamic cloud regimes, incident sunlight, and leaf temperatures in the endemic Espeletia grandiflora and the indigenous Chusquea tessellata, northern Andean páramo, Colombia",
+      "fecha": "2014-5-1",
+      "enlace": "https://doi.org/10.1657/1938-4246-46.2.371"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Working together: A call for inclusive conservation: A call for inclusive conservation",
+      "fecha": "2014-11-1",
+      "enlace": "https://doi.org/10.1038/515027a"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Contributions of leaf photosynthetic capacity, leaf angle and self-shading to the maximization of net photosynthesis in Acer saccharum: a modelling assessment.",
+      "fecha": "2012-8-1",
+      "enlace": "https://doi.org/10.1093/aob/mcs106"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Norway maple displays greater seasonal growth and phenotypic plasticity to light than native sugar maple",
+      "fecha": "2012-11-1",
+      "enlace": "https://doi.org/10.1093/treephys/tps092"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Relationships among precipitation regime, nutrient availability, and carbon turnover in tropical rain forests",
+      "fecha": "2011-3-1",
+      "enlace": "https://doi.org/10.1007/s00442-010-1881-0"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Optimal photosynthetic use of light by tropical tree crowns achieved by adjustment of individual leaf angles and nitrogen content",
+      "fecha": "2009-3-1",
+      "enlace": "https://doi.org/10.1093/aob/mcn265"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Cattle and weedy shrubs as restoration tools of tropical montane rainforest",
+      "fecha": "2000-1-1",
+      "enlace": "https://doi.org/10.1046/j.1526-100X.2000.80052.x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effects of elevated CO2 and defoliation on compensatory growth and photosynthesis of seedlings in a tropical tree, Copaifera aromatica",
+      "fecha": "1999-1-1",
+      "enlace": "https://doi.org/10.1111/j.1744-7429.1999.tb00139.x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effect of elevated CO 2 on growth and crassulacean-acid-metabolism activity of Kalanchoe pinnata under tropical conditions",
+      "fecha": "1997-1-1",
+      "enlace": "https://doi.org/10.1007/s004250050081"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "The Role of Litterfall in Understanding the Ecological Integrity of Endangered Upper Andean Successional Forests",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1007/978-3-031-80805-0_3"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "The Significance of Successional Forests in Human-Modified Andean Forests Landscape",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1007/978-3-031-80805-0_4"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Bosques andinos de la Sabana de Bogotá",
+      "fecha": "2020-8-30",
+      "enlace": "https://doi.org/http://reporte.humboldt.org.co/biodiversidad/2019/cap1/101/#seccion1"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Diversidad funcional en los bosques de Colombia",
+      "fecha": "2019-11-30",
+      "enlace": "https://doi.org/http://hdl.handle.net/20.500.11761/35427"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Functional structural plant models - Case LIGNUM",
+      "fecha": "2009-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/PMA.2009.64"
+    },
+    {
+      "tipo": "carta",
+      "titulo": "Colombia: Dealing in conservation",
+      "fecha": "2016-10-14",
+      "enlace": "https://doi.org/10.1126/science.aaj1459"
+    }
+  ],
+  "total_publicaciones": 48,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Dinámicas de regeneración y descomposición de hojarasca en un gradiente sucesional de bosque Altoandino.",
+      "fecha": "2021-01-12 - 2023-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F37edaed1-dfea-4eee-9af9-07347f76b791"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "58th Annual Meeting of the Association for Tropical Biology and Conservation. Cartagena, Colombia",
+      "fecha": "2021-03-01 - 2022-09-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F130b0465-206e-413b-aa67-59994d1dd1ee"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Estudio de dinámicas socio-ecológicas ante escenarios de cambio climático en bosques secundarios peri-urbanos Altoandinos",
+      "fecha": "2017-04-07 - 2019-04-27",
+      "enlace": "https://research-hub.urosario.edu.co/display/d8e69327-a9e1-4492-aa9b-6aaf7c138de5"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Valoración y apropiación de los recursos naturales como estrategia de adaptación a cambio climático - Cundinamarca",
+      "fecha": "2014-02-01 - 2017-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F759bd075-7692-45fd-843e-33709b1f62c9"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Análisis de integridad ecológica, del paisaje y valoración de los recursos naturales de acuerdo con su oferta actual, la demanda por parte de los sistemas productivos agropecuarios y de otros sectores en posibles escenarios de cambio climático",
+      "fecha": "2013-01-01 - 2017-12-01",
+      "enlace": "https://research-hub.urosario.edu.co/display/e6ad2907-2cb8-4cbd-b20e-36cd520ff248"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Relaciones entre biodiversidad, diversidad funcional y ciclo de carbono en bosques secundarios Altoandinos",
+      "fecha": "2015-10-15 - 2017-09-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2f9d13a7-1a05-4c94-83d2-7e734b4ac7b4"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "CHAIRE CRSNG/Hydro-Québec sobre el crecimiento de los árboles",
+      "fecha": "2010-01-01 - 2017-05-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F36055d38-8b5c-4dc3-a0e6-5f56d7b92b8f"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Control de la productividad primaria neta por la lluvia en un bosque pluvial tropical del Chocó Biogeográfico; 2006 - 2007",
+      "fecha": "2009-01-01 - 2015-12-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3c5d2fd4-24f1-4c56-81f5-e6fdf1a7c97e"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Development of a model of leaf acclimation to light based on optimal photosynthetic light use: implications for the spatial and temporal scaling of photosynthesis",
+      "fecha": "2009-01-01 - 2015-12-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3c2c5996-7d10-4fc7-b75e-e510b4a3d8a6"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Dinámica de la fisiología de plantas de páramo y evaluación de su posible respuesta al cambio climático",
+      "fecha": "2013-02-01 - 2014-02-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3981d9c2-b4c9-480d-8420-3515c1428251"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Mecanismos de optimización fotosintética del uso de la luz en árboles tropicales y sus implicaciones para los modelos de fijación de CO2 globales",
+      "fecha": "2010-07-01 - 2012-09-28",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3c52d094-52bf-4ea4-a69b-937ac765e2a9"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Drivers of leaf-litter decomposition along a successional gradient in the highland Andes: linking environment, biodiversity, traits and ecosystem processes",
+      "fecha": "2023-01-12 - 2025-01-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/f167dc7a-9b7e-45c6-8ceb-66f40d8db75e"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Cambios en fenología y rasgos funcionales de semillas a lo largo de un gradiente sucesional en Bosques Tropicales Andinos de Montaña",
+      "fecha": "2021-01-26 - 2024-05-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3f57359f-fee1-426b-bdc8-bec978037a85"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Cambio del hábitat en el postconflicto: Sistema Nacional de Áreas Protegidas y sus efectos sobre recursos hidrológicos",
+      "fecha": "2018-05-15 - 2023-03-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2a190b65-856e-4e8f-8d8d-ad607c7fde00"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Drivers of leaf litter decomposition along a successional gradient in the upland Andes: linking environment, functional traits, biodiversity, and carbon cycling"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Ecology of woody plants in Colombian dry forests"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Seedlings and soil seed bank diversity and composition of a secondary and old tropical mountain forest in Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Successional dynamics, edaphic and microclimatic heterogeneity shape reproductive phenology, functional traits, and early-life community assembly in upper andean mountain forests"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Wood strategies in a lowland rainforest of eastern Amazonia"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001359956"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0001-7794-9300"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=Vg1B-74AAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/46b4a239-5b01-4e0a-9669-2afb4a6388da"
+    ],
+    "scopus_id": [
+      "36158667700"
+    ]
+  },
+  "id": "juan-manuel-roberto-posada-hostettler",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor titular de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001359956",
+    "cod_rh": "0001359956",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Senior (IS) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Juan Manuel Roberto Posada",
+      "Nombre en citaciones": "POSADA , JUAN MANUEL ROBERTO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Doctorado Universidad de Florida Botánica Agostode1997 - Diciembrede 2003 OPTIMIZATION OF LIGHT USE BY TROPICAL CANOPY TREES THROUGH ACCLIMATION OF LEAF PHYSIOLOGY AND ORIENTATION",
+      "Pregrado/Universitario UNIVERSIDAD DE LOS ANDES BIOLOGIA Agostode1988 - Marzode 1994 La universidad de los Andes no ofrecía la opción de hacer una tesis de pregrado en 1993"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración Organization fro Tropical Studies Ecología Juniode1997 - Agostode 1997",
+      "Cursos de corta duración University of California at Irvine Applications of radiocarbon in ecosystem ecology Juliode2004 - Juliode 2004",
+      "Cursos de corta duración Association For Tropical Biology Introduction to Human Ecology Mayode2012 - Juniode 2012",
+      "Cursos de corta duración UNIVERSITE LAVAL Plant Functional Traits Abrilde2009 - Abrilde 2009"
+    ],
+    "estancias_posdoctorales": [
+      "Postdoctorado Universidad McGill Biología Desde: Noviembre de 2007 Hasta: Diciembre de 2008 Tolerance to water stress in temperate tree seedlings",
+      "Postdoc Universidad De Quebec Ciencias biológicas Desde: Febrero de 2006 Hasta: Noviembre de 2007 Optimal organization of leaves in the crown of Acer saccharum trees",
+      "Postdoc Universidad de Florida Botánica Desde: Enero de 2004 Hasta: Octubre de 2005 Relationship Between High Precipitation Regime, Indexes of Nutrient Availability and Carbon Turnover in Tropical Rain Forests"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Octubre de 2009 de Actual Actividades de administración - Coordinador de programa - Cargo: Coordinador de programa Diciembre de 2013 de - Coordinador de programa - Cargo: Coordinador de programa Noviembre de 2011 de - Director de unidad - Cargo: Director de unidad Octubre de 2009 de Actividades de docencia - Capacitación/Entrenamientos dictados - Nombre del curso: Functional Traits - International Course, 36 Mayo 2013 Mayo 2013 Actividades de investigación - Investigación y Desarrollo - Titulo: Desarrollo de un modelo de simulación que relaciona la distribución tridimensional de la luz en el cielo con la acclimatación fotosintética de las hojas. Enero 2010 Diciembre 2011 - Investigación y Desarrollo - Titulo: Determinación de la orientación y la capacidad fotosintética óptima de las hojas para la maximización de la fotosíntesis de árboles de Acer saccharum Octubre 2009 Enero 2012 - Investigación y Desarrollo - Titulo: Relación entre los altos regímenes de precipitación, la fertilidad de suelos y el reciclaje de carbono en bosques tropicales de tierras bajas Octubre 2009 Diciembre 2011 - Investigación y Desarrollo - Titulo: Elaboración del nuevo programa de biología de la Universidad del Rosario Octubre 2009 - Investigación y Desarrollo - Titulo: Cuantificación de la productividad primaria neta de un bosque pluvial del Chocó Biogeográfico Octubre 2009",
+      "CENTRO INTERNACIONAL DE FISICA - CIF Dedicación: 0 horas Semanales Enero de 2005 de",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 10 horas Semanales Enero de 2009 Octubre de 2009 Actividades de investigación - Investigación y Desarrollo - Titulo: Consultor para la Facultad de Ciencias Naturales y Matemáticas para la elaboración del nuevo programa de biología Enero 2009 Septiembre 2009",
+      "Universidad McGill Dedicación: 30 horas Semanales Noviembre de 2007 Diciembre de 2008 Actividades de investigación - Investigación y Desarrollo - Titulo: Investigador Postdoctoral. Estudiamos le respuesta de las plántulas de bosques templados al estrés hídrico. Junio 2008 Diciembre 2008 - Investigación y Desarrollo - Titulo: Investigador postdoctoral. Desarrollamos un marco conceptual para explicar cambios en los rasgos funcionales de las hojas a lo largo de gradientes de luz en el dosel de la vegetación. Noviembre 2007 Diciembre 2008",
+      "CENTRO INTERNACIONAL DE FISICA - CIF Dedicación: 20 horas Semanales Abril de 2006 Agosto de 2008 Actividades de investigación - Investigación y Desarrollo - Titulo: Establecimos una parcela permanente para estudiar la productividad primaria neta (PPN) aérea y subterránea de un bosque pluvial tropical expuesto a una precipitación anual de ca. 7000 mm. Abril 2006 Agosto 2008",
+      "Centre d'étude de la forêt Dedicación: 1 horas Semanales Marzo de 2007 Mayo de 2008 Actividades de investigación - Investigación y Desarrollo - Titulo: Experiencia Docente. Cursos especializados en el funcionamiento, uso e instalación de equipos meteorológicos, sistemas de colección de datos y medidores de intercambio gaseoso (Licor, Li-6400). Mar-2007, abr-2007, mar-2008, abr-2008 Marzo 2007 Mayo 2008",
+      "Université du Québec à Montréal - UQAM Dedicación: 40 horas Semanales Marzo de 2006 Marzo de 2008 Actividades de investigación - Investigación y Desarrollo - Titulo: Investigador postdoctoral. Determinamos la distribución óptima de la fisiología y el ángulo de las hojas que maximiza la fotosíntesis neta de árboles de Acer saccharum. Este estudio se basó en la simulación de árboles utilizando el modelo funcional-estructural LIGNUM. Marzo 2006 Marzo 2008",
+      "Université du Québec à Montréal - UQAM Dedicación: 4 horas Semanales Marzo de 2007 Mayo de 2007 Actividades de investigación - Investigación y Desarrollo - Titulo: Experiencia docente. Curso de Ecología Tropical, dictado en colaboración con Christian Messier. La parte de campo se hizo en Panamá. Universidad de Québec en Montreal, Montreal, Canadá. Marzo 2007 Mayo 2007",
+      "Universidad McGill Dedicación: 40 horas Semanales Octubre de 2005 Febrero de 2006 Actividades de investigación - Investigación y Desarrollo - Titulo: Desarrollamos un prototipo de lámpara cuyo espectro de emisión se asemeja al espectro de luz del sol. La lámpara usa una combinación de LEDs (Light emitting diodes) de alta potencia con diferentes picos de emisión. Octubre 2005 Febrero 2006",
+      "University of Florida Dedicación: 40 horas Semanales Enero de 2004 Octubre de 2005 Actividades de investigación - Investigación y Desarrollo - Titulo: Investigador postdoctoral. Mostramos que las precipitaciones medias anuales (2,500 ¿ 9,500 mm) tienen un efecto negativo sobre la dinámica del ciclo del carbono y la disponibilidad de nutrientes en bosques húmedos y pluviales Neotropicales. Enero 2004 Octubre 2005",
+      "University of Florida Dedicación: 40 horas Semanales Agosto de 1997 Diciembre de 2003 Actividades de investigación - Investigación y Desarrollo - Titulo: Tesis de Ph.D. Este estudio mostró que las plantas están organizadas para maximizar la eficiencia fotosintética del uso de la luz al nivel de las hojas. Agosto 1997 Diciembre 2003",
+      "University of Florida Dedicación: 15 horas Semanales Agosto de 2002 Agosto de 2003 Actividades de investigación - Investigación y Desarrollo - Titulo: Experiencia docente. Asistente de enseñanza en el laboratorio de Ecología de plantas y en los laboratorios (7 secciones en 3 semestres) de Introducción a la Biología. Departamento de Botánica. Universidad de Florida, Gainesville, USA. Ago-2002 a dic-2002, ene-2003 a may-2003, jun-2003 a ago-2003 Agosto 2002 Agosto 2003",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 20 horas Semanales Agosto de 2001 Mayo de 2002 Actividades de investigación - Investigación y Desarrollo - Titulo: Experiencia Docente. Profesor de cátedra. Ecología II. Universidad de los Andes, Bogotá, Colombia. Ago-2001 a dic-2001, ene-2002 a may-2002 Agosto 2001 Mayo 2002",
+      "Instituto Smithsonian De Investigaciones Tropicales Dedicación: 10 horas Semanales Marzo de 2001 Agosto de 2001 Actividades de investigación - Investigación y Desarrollo - Titulo: Experiencia docente. Organizador de un curso de ecología tropical para estudiantes Panameños. Instituto de Investigaciones Tropicales Smithsonian. Península de Gigante, Panamá. Marzo 2001 Agosto 2001",
+      "University of Florida Dedicación: 20 horas Semanales Mayo de 1998 Agosto de 1998 Actividades de investigación - Investigación y Desarrollo - Titulo: Estudio sobre la acclimatación fotosintética de hojas de dosel a una disminución de la disponibilidad de luz en árboles tropicales con arquitectura de ramas contrastante. Mayo 1998 Agosto 1998",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 8 horas Semanales Enero de 1996 Mayo de 1996 Actividades de investigación - Investigación y Desarrollo - Titulo: Experiencia Docente. Profesor de cátedra curso de Ecología II Enero 1996 Mayo 1996",
+      "Instituto Smithsonian De Investigaciones Tropicales Dedicación: 40 horas Semanales Mayo de 1995 Septiembre de 1995 Actividades de investigación - Investigación y Desarrollo - Titulo: Proyecto de investigación sobre los efectos de un incremento en la concentración de CO2 en el crecimiento y la asignación de carbono después de una herbivoría simulada. Mayo 1995 Septiembre 1995",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 40 horas Semanales Enero de 1995 Mayo de 1995 Actividades de investigación - Pasantías - Titulo: Asistente de investigación en un estudio de restauración ecológica de un bosque montano bajo Colombiano. Enero 1995 Mayo 1995",
+      "Instituto Smithsonian De Investigaciones Tropicales Dedicación: 40 horas Semanales Octubre de 1994 Diciembre de 1994 Actividades de investigación - Investigación y Desarrollo - Titulo: Asistente de investigación en estudios de foto-protección, fotosíntesis y asignación de recursos en plantas tropicales. Octubre 1994 Diciembre 1994",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 40 horas Semanales Marzo de 1994 Octubre de 1994 Actividades de investigación - Pasantías - Titulo: Asistente de investigación en un estudio de restauración ecológica de un bosque montano bajo Colombiano. Marzo 1994 Octubre 1994",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 3 horas Semanales Enero de 1993 Diciembre de 1993 Actividades de investigación - Investigación y Desarrollo - Titulo: Experiencia Docente. Asistente del laboratorio de Fisiología Vegetal. Ene-1993 a may-1993, ago-1993 a dic-1993 Enero 1993 Diciembre 1993"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Biológicas -- Ecología",
+      "Ciencias Naturales -- Ciencias Biológicas -- Biología (Teórica, Matemática, Criobiología, Evolutiva)",
+      "Ciencias Agrícolas -- Agricultura, Silvicultura y Pesca -- Forestal",
+      "Ciencias Naturales -- Ciencias de la Tierra y Medioambientales -- Ciencias del Medio Ambiente",
+      "Ciencias Naturales -- Ciencias Biológicas -- Botánica y Ciencias de las Plantas",
+      "Ciencias Naturales -- Ciencias de la Tierra y Medioambientales -- Investigación del Clima"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Francés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Gestión Académica y Administrativa (NO es una línea de investigación), Activa: Si",
+      "Principios de organización de las plantas, Activa: Si",
+      "Ecología funcional, Activa: No",
+      "Experiencia Docente (NO es una línea de investigación), Activa: Si",
+      "Dinámica del ciclo de carbono, Activa: Si",
+      "Restauración ecológica, Activa: No",
+      "Ecofisiología vegetal, Activa: Si",
+      "Eco-fisiología del estrés, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Beca de excelencia para investigadores postdoctorales internacionales,Ministerio de Educación de Quebec - Enerode 2005",
+      "Beca doctoral Russell. Colegio de Artes y Ciencias,Universidad de Florida - Enerode 2001",
+      "Beca para Estudios de Posgrado en Colombia y en el Exterior,Ministerio de Ciencia, Tecnología e Innovación. - Agostode 1995",
+      "Subvención de ayuda a la investigación. SigmaXi,The Scientific Research Society - Enerode 2000",
+      "Subvención de Investigación. Centro Internacional para la Ecología Tropical (ICTE),Universidad de Missouri-St. Louis - Enerode 1997",
+      "Beca de corto plazo,Instituto Smithsonian De Investigaciones Tropicales - Enerode 1995",
+      "Beca del Programa de Prácticas para Estudiantes Latinoamericanos,Instituto Smithsonian De Investigaciones Tropicales - Enerode 1994",
+      "Premio (en cinco ocasiones) por excelencia académica para un estudiante internacional (1998, 1999, 2000, 2001, 2002),University of Florida - Agostode 2002",
+      "Cum laude,COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO - Marzode 2021",
+      "Summa cum laude, - Marzode 2021"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: JUAN MANUEL ROBERTO POSADA, Functional Traits - International Course, Finalidad: Curso intensivo para estudiantes de posgrado, postdocs e investigadores sobre los avances más recientes en el uso y aplicación de los rasgos funcionales en ecología . En: Colombia ,2013, ,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO. participación: Docente , 1 semanas Palabras: Rasgos funcionales, Ecología funcional, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN MANUEL ROBERTO POSADA, Seedlings and soil seed bank diversity and composition of a secondary and old tropical mountain forest in Colombia COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Biología, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): CAROLINA ALVAREZ GARZON , JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JUAN MANUEL ROBERTO POSADA, Análisis de la diversidad funcional en bosques secundarios altoandinos y su relación con el almacenamiento del carbono UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida Manejo, Uso y Conservación del Bosque, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Luis Gabriel Lopez Herrera Tutor(es)/Cotutor(es): JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: JUAN MANUEL ROBERTO POSADA, The functional role of tree reserves in the growth dynamics of urban trees Université du Québec à Montréal - UQAM Estado: Tesis en curso Doctorat en Biologie, 2011. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Jorge Ramírez Tutor(es)/Cotutor(es): JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: JUAN MANUEL ROBERTO POSADA, Functional wood anatomy of tropical trees COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Doctorado en Ciencias Biomédicas y Biológicas, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): German Andres Gonzalez Melo Tutor(es)/Cotutor(es): JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: JUAN MANUEL ROBERTO POSADA, ECOLOGY OF WOODY PLANTS IN COLOMBIAN DRY FORESTS COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Doctorado en Ciencias Biomédicas y Biológicas, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Roy Oswaldo González Martínez Tutor(es)/Cotutor(es): BEATRIZ EUGENIA SALGADO NEGRET , JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología, Ciencias Naturales -- Ciencias Biológicas -- Botánica y Ciencias de las Plantas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN MANUEL ROBERTO POSADA, Temporal and spatial patterns in the design of conservation areas of native forest patches of the Eastern ridges of Bogotá UNIVERSIDAD DE LOS ANDES Estado: Tesis concluida BIOLOGIA, 2002. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Carlos A. Rosas Tutor(es)/Cotutor(es): JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN MANUEL ROBERTO POSADA, Are blue leaves of Moutabea sp. the result of a herbivory avoidance strategy? UNIVERSIDAD DE LOS ANDES Estado: Tesis concluida BIOLOGIA, 2008. Dirigió como: Tutor principal, Persona(s) orientada(s): Constanza Tellez Tutor(es)/Cotutor(es): JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: JUAN MANUEL ROBERTO POSADA, The functional role of carbohydrates reserves in the growth and survival of trees Université du Québec a Montréal Estado: Tesis concluida Doctorat en biologie, 2010. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Jorge Andrés Ramirez Tutor(es)/Cotutor(es): C MESSIER , JUAN MANUEL ROBERTO POSADA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN MANUEL ROBERTO POSADA, Titulo: Como características funcionais afetam a distribuição de espécies de samambaias ao longo de um gradiente hídrico Tipo de trabajo presentado: Proyecto de grado/Tesis en: Instituto Nacional De Pesquisas Da Amazônia programa académico Biologia (Ecologia) Nombre del orientado: COD_11_2013 (evaluación anónima) Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN MANUEL ROBERTO POSADA, Titulo: Como características funcionais afetam a distribuição de espécies de samambaias ao longo de um gradiente hídrico Tipo de trabajo presentado: Proyecto de grado/Tesis en: Instituto Nacional De Pesquisas Da Amazônia programa académico Biologia (Ecologia) Nombre del orientado: COD_11_2013 (evaluación anónima) Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN MANUEL ROBERTO POSADA, Titulo: PLASTICIDAD FENOTÍPICA DE ESPECIES DE PLANTAS ASOCIADAS A ARREGLOS AGROFORESTALES CON VAINILLA (Vanilla planifolia Andrews) Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE MEDELLÍN programa académico Ecologia Nombre del orientado: Diego Andrés Arango Moreno Palabras: Biología, Ecología, Plantas, Areas: Ciencias Agrícolas -- Agricultura, Silvicultura y Pesca -- Forestal, Sectores: Agricultura, pecuaria, silvicultura, explotación forestal - Silvicultura, explotación forestal y servicios relacionados,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN MANUEL ROBERTO POSADA, Titulo: Influencia del clima local y del ENSO en el crecimiento del ABARCO (Cariniana piryformis) en la cuenca baja del río Atrato, Chocó, Colombia Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE MEDELLÍN programa académico MAESTRIA EN BOSQUES Y CONSERVACION AMBIENTAL Nombre del orientado: Miyer Mersori Moreno Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: JUAN MANUEL ROBERTO POSADA, Titulo: ASPECTOS ECOFISIOLOGICOS Y COMPUESTOS BIOACTIVOS DE GUAYABA (PSIDIUM GUAJAVA L. ) EN LA PROVINCIA DE VELEZ, SANTANDER COLOMBIA Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico DOCTORADO CIENCIAS - BIOLOGIA - SEDE BOGOTÁ Nombre del orientado: María Elena Solarte Cruz Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: JUAN MANUEL ROBERTO POSADA, Titulo: CARACTERIZACIÓN DE ALGUNOS ASPECTOS FISIOLÓGICOS Y BIOQUÍMICOS DEL MUSGO Pleurozium schreberi RELACIONADOS CON SU CAPACIDAD DE TOLERANCIA A LA DESHIDRATACIÓN Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico DOCTORADO CIENCIAS - BIOLOGIA - SEDE BOGOTÁ Nombre del orientado: Luis Carlos Montenegro Ruiz Palabras: Ecología, Ecología funcional, Plantas, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: JUAN MANUEL ROBERTO POSADA, Titulo: Carbono y biomasa de raíces finas en una plantación forestal de alnus acuminata y en un bosque secundario de la misma edad Tipo de trabajo presentado: en: UNIVERSIDAD DE CALDAS programa académico Departamento de Ciencias Biológicas Nombre del orientado: Jaime Estevez Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN MANUEL ROBERTO POSADA, Titulo: Impact de la machinerie forestière sur la croissance des racines fines de l'érable à sucre suite à une coupe jardinatoire Tipo de trabajo presentado: en: Université du Québec à Montréal - UQAM programa académico Maitrise en Biologie Nombre del orientado: Catherine Malo Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Otra: JUAN MANUEL ROBERTO POSADA, Titulo: Compétition intra et interspécifique chez le peuplier hybride Tipo de trabajo presentado: en: Universidad du Québec en Abitibi-Témiscamingue programa académico Doctorat en sciences de l'environnement Nombre del orientado: Lahcen Benomar Areas: Ciencias Agrícolas -- Agricultura, Silvicultura y Pesca -- Forestal,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN MANUEL ROBERTO POSADA, Titulo: RASGOS FUNCIONALES DE PLANTAS PIONERAS POTENCIALES PARA LA RESTAURACION ECOLOGICA DE LA SERRANIA DE LA LINDOSA (GUAVIARE) Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA programa académico Departamento de Biología Nombre del orientado: Germán Andrés González Melo Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Concurso docente: JUAN MANUEL ROBERTO POSADA, Faculty Position in Terrestrial Ecosystem Services and Biodiversity en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Datos complementarios - Participación en comités de evaluación - Concurso docente: JUAN MANUEL ROBERTO POSADA, Faculty position in evolutionary genetics/genomics en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: ANNALS OF BOTANY, 2015, Febrero",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: COLOMBIA FORESTAL, 2010, Agosto",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: BOTANY, 2012, Mayo",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: ANNALS OF BOTANY, 2012, Agosto",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: FUNCTIONAL ECOLOGY, 2010, Agosto",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: TREES STRUCTURE AND FUNCTION, 2010, Septiembre",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: OECOLOGIA, 2013, Febrero",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: OECOLOGIA, 2012, Mayo",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: ENVIRONMENTAL AND EXPERIMENTAL BOTANY, 2010, Abril",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: ACTA OECOLOGICA INTERNATIONAL JOURNAL OF ECOLOGY, 2012, Septiembre",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: ACTA OECOLOGICA INTERNATIONAL JOURNAL OF ECOLOGY, 2012, Septiembre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: 51st Annual Meeting of the Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-07-20 00:00:00.0, 2014-07-24 00:00:00.0 en Cairns - Cairns, Australia Productos asociados Nombre del producto: Higher growth rates under constant than under variable light conditions in Abatia parviflora Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "1 Nombre del evento: 51st Annual Meeting of the Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-07-20 00:00:00.0, 2014-07-24 00:00:00.0 en Cairns - Cairns, Australia",
+      "Productos asociados Nombre del producto: Higher growth rates under constant than under variable light conditions in Abatia parviflora Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "2 Nombre del evento: 52nd Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-07-12 00:00:00.0, 2015-07-16 00:00:00.0 en Honolulu - Honolulu, Hawaii Productos asociados Nombre del producto: Extreme climatic conditions in a wet tropical alpine ecosystem (Paramo) in Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "2 Nombre del evento: 52nd Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-07-12 00:00:00.0, 2015-07-16 00:00:00.0 en Honolulu - Honolulu, Hawaii",
+      "Productos asociados Nombre del producto: Extreme climatic conditions in a wet tropical alpine ecosystem (Paramo) in Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "3 Nombre del evento: 52nd Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-07-12 00:00:00.0, 2015-07-16 00:00:00.0 en Honolulu - Honolulu, Hawaii Productos asociados Nombre del producto: Relationships between biodiversity, plant functional traits and above ground biomass in secondary tropical montane forest in the Northern Andes Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "3 Nombre del evento: 52nd Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-07-12 00:00:00.0, 2015-07-16 00:00:00.0 en Honolulu - Honolulu, Hawaii",
+      "Productos asociados Nombre del producto: Relationships between biodiversity, plant functional traits and above ground biomass in secondary tropical montane forest in the Northern Andes Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "4 Nombre del evento: 51st Annual Meeting of the Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-07-20 00:00:00.0, 2014-07-24 00:00:00.0 en Munich - Cairns, Australia Productos asociados Nombre del producto: Ecophysiological response of two Andean species to extreme climate conditions Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "4 Nombre del evento: 51st Annual Meeting of the Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-07-20 00:00:00.0, 2014-07-24 00:00:00.0 en Munich - Cairns, Australia",
+      "Productos asociados Nombre del producto: Ecophysiological response of two Andean species to extreme climate conditions Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Association of Tropical Biology and Conservation Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "5 Nombre del evento: 94TH ESA ANNUAL MEETING Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-08-02 00:00:00.0, 2009-08-07 00:00:00.0 en Albuquerque, New Mexico - USA Productos asociados Nombre del producto: Physiological tolerance to soil water stress in temperate forest tree seedlings: Implications for growth and survival in a drier climate scenario Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Instituciones asociadas Nombre de la institución: Ecological Society Of America Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "5 Nombre del evento: 94TH ESA ANNUAL MEETING Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-08-02 00:00:00.0, 2009-08-07 00:00:00.0 en Albuquerque, New Mexico - USA",
+      "Productos asociados Nombre del producto: Physiological tolerance to soil water stress in temperate forest tree seedlings: Implications for growth and survival in a drier climate scenario Tipo de producto: Producción técnica - Presentación de trabajo - Congreso",
+      "Instituciones asociadas Nombre de la institución: Ecological Society Of America Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "6 Nombre del evento: THE 2010 INTERNATIONAL MEETING OF THE ASSOCIATION FOR TROPICAL BIOLOGY AND CONSERVATION Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-07-19 00:00:00.0, 2010-07-23 00:00:00.0 en Bali - Indonesia Productos asociados Nombre del producto: A model of leaf acclimation to light based on optimal photosynthetic light use: implications for the spatial and temporal scaling of photosynthesis Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Nombre del producto: Development of a new Biology Department Focused Towards Tropical Sustainable Development Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Instituciones asociadas Nombre de la institución: Association For Tropical Biology Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "6 Nombre del evento: THE 2010 INTERNATIONAL MEETING OF THE ASSOCIATION FOR TROPICAL BIOLOGY AND CONSERVATION Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-07-19 00:00:00.0, 2010-07-23 00:00:00.0 en Bali - Indonesia",
+      "Productos asociados Nombre del producto: A model of leaf acclimation to light based on optimal photosynthetic light use: implications for the spatial and temporal scaling of photosynthesis Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Nombre del producto: Development of a new Biology Department Focused Towards Tropical Sustainable Development Tipo de producto: Producción técnica - Presentación de trabajo - Congreso",
+      "Instituciones asociadas Nombre de la institución: Association For Tropical Biology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "7 Nombre del evento: 96TH ESA ANNUAL MEETING Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-08-07 00:00:00.0, 2011-08-12 00:00:00.0 en MANIZALES - USA Productos asociados Nombre del producto: A simple theoretical framework to explain leaf acclimation to light availability: implications for the evolution of plant form and function Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Instituciones asociadas Nombre de la institución: Ecological Society Of America Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "7 Nombre del evento: 96TH ESA ANNUAL MEETING Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-08-07 00:00:00.0, 2011-08-12 00:00:00.0 en MANIZALES - USA",
+      "Productos asociados Nombre del producto: A simple theoretical framework to explain leaf acclimation to light availability: implications for the evolution of plant form and function Tipo de producto: Producción técnica - Presentación de trabajo - Congreso",
+      "Instituciones asociadas Nombre de la institución: Ecological Society Of America Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "8 Nombre del evento: XLVIII Congreso Nacional de Ciencias Biológicas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-10-07 00:00:00.0, 2013-10-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Bosque Productos asociados Nombre del producto: Limitaciones al uso óptimo de la luz en plántulas de árboles tropicales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Modelación espacial y temporal de la temperatura del dosel de un bosque tropical Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Asociación Colombiana De Ciencias Biológicas - A.C.C.B. Tipo de vinculación Patrocinadora Participantes Nombre: ANDRES CAMILO REY SANCHEZ Rol en el evento: Asistente , Ponente Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente , Ponente Nombre: K KITAJIMA Rol en el evento: Asistente",
+      "8 Nombre del evento: XLVIII Congreso Nacional de Ciencias Biológicas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-10-07 00:00:00.0, 2013-10-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Bosque",
+      "Productos asociados Nombre del producto: Limitaciones al uso óptimo de la luz en plántulas de árboles tropicales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Modelación espacial y temporal de la temperatura del dosel de un bosque tropical Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Asociación Colombiana De Ciencias Biológicas - A.C.C.B. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRES CAMILO REY SANCHEZ Rol en el evento: Asistente , Ponente Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente , Ponente Nombre: K KITAJIMA Rol en el evento: Asistente",
+      "9 Nombre del evento: XLVIII Congreso Nacional de Ciencias Biológicas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-10-07 00:00:00.0, 2013-10-09 00:00:00.0 en PASTO - Universidad del Bosque Productos asociados Nombre del producto: Evaluación del potencial de regeneración de bosques en ecosistemas de rastrojos Alto-Andinos Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Asociación Colombiana De Ciencias Biológicas - A.C.C.B. Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "9 Nombre del evento: XLVIII Congreso Nacional de Ciencias Biológicas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-10-07 00:00:00.0, 2013-10-09 00:00:00.0 en PASTO - Universidad del Bosque",
+      "Productos asociados Nombre del producto: Evaluación del potencial de regeneración de bosques en ecosistemas de rastrojos Alto-Andinos Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Asociación Colombiana De Ciencias Biológicas - A.C.C.B. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "10 Nombre del evento: ECOLOGICAL SOCIETY OF AMERICA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2004-08-01 00:00:00.0, 2004-08-08 00:00:00.0 en Portland, Oregon - USA Productos asociados Nombre del producto: Effect of precipitation on the turnover of soil carbon in tropical wet forests. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Optimal photosynthetic light use through adjustment of leaf orientation and physiology in tropical canopy trees. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Fine-Scale Temporal Variation of Photosynthetically Active Radiation Above the Canopy of a Tropical Dry Forest. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Ecological Society Of America Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "10 Nombre del evento: ECOLOGICAL SOCIETY OF AMERICA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2004-08-01 00:00:00.0, 2004-08-08 00:00:00.0 en Portland, Oregon - USA",
+      "Productos asociados Nombre del producto: Effect of precipitation on the turnover of soil carbon in tropical wet forests. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Optimal photosynthetic light use through adjustment of leaf orientation and physiology in tropical canopy trees. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Fine-Scale Temporal Variation of Photosynthetically Active Radiation Above the Canopy of a Tropical Dry Forest. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Ecological Society Of America Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "11 Nombre del evento: 5TH INTERNATIONAL WORKSHOP ON FUNCTIONAL STRUCTURAL PLANT MODELS NAPIER NUEVA ZELANDA Tipo de evento: Taller Ámbito: Internacional Realizado el:2007-10-01 00:00:00.0, 2007-10-05 00:00:00.0 en Napier - New Zealand Productos asociados Nombre del producto: Contribution of leaf orientation and leaf physiology to the maximization of plant carbon gain. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: University Of Queensland Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "11 Nombre del evento: 5TH INTERNATIONAL WORKSHOP ON FUNCTIONAL STRUCTURAL PLANT MODELS NAPIER NUEVA ZELANDA Tipo de evento: Taller Ámbito: Internacional Realizado el:2007-10-01 00:00:00.0, 2007-10-05 00:00:00.0 en Napier - New Zealand",
+      "Productos asociados Nombre del producto: Contribution of leaf orientation and leaf physiology to the maximization of plant carbon gain. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: University Of Queensland Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "12 Nombre del evento: CONGRESO DE LA ASOCIACION PANAMENA PARA EL AVANCE DE LA CIENCIA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2000-01-01 00:00:00.0, 2000-01-08 00:00:00.0 en Panamá - Panamá Productos asociados Nombre del producto: Respuesta fotosintética de árboles de dosel a variaciones temporales en la disponibilidad de luz. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Asociación Panameña Para El Avance De La Ciencia Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "12 Nombre del evento: CONGRESO DE LA ASOCIACION PANAMENA PARA EL AVANCE DE LA CIENCIA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2000-01-01 00:00:00.0, 2000-01-08 00:00:00.0 en Panamá - Panamá",
+      "Productos asociados Nombre del producto: Respuesta fotosintética de árboles de dosel a variaciones temporales en la disponibilidad de luz. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Asociación Panameña Para El Avance De La Ciencia Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "13 Nombre del evento: THE THIRD INTERNATIONAL SYMPOSIUM ON PLANT GROWTH MODELING SIMULATION VISUALIZATION AND APPLICATIONS Tipo de evento: Simposio Ámbito: Internacional Realizado el:2009-11-01 00:00:00.0, 2009-11-06 00:00:00.0 en Beijing - China Productos asociados Nombre del producto: Functional structural plant models - case LIGNUM Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Institute Of Electrical And Electronics Engineers-Ieee Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "13 Nombre del evento: THE THIRD INTERNATIONAL SYMPOSIUM ON PLANT GROWTH MODELING SIMULATION VISUALIZATION AND APPLICATIONS Tipo de evento: Simposio Ámbito: Internacional Realizado el:2009-11-01 00:00:00.0, 2009-11-06 00:00:00.0 en Beijing - China",
+      "Productos asociados Nombre del producto: Functional structural plant models - case LIGNUM Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Institute Of Electrical And Electronics Engineers-Ieee Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "14 Nombre del evento: PHENOTYPIC PLASTICITY IN RESPONSE TO ENVIRONMENTAL CHANGES SCALING FROM THE MOLECULAR TO ECOSYSTEM LEVELS Tipo de evento: Simposio Ámbito: Internacional Realizado el:2007-10-01 00:00:00.0, 2007-10-04 00:00:00.0 en Nikko - Japón Productos asociados Nombre del producto: Coordination between leaf orientation and leaf physiology for the maximization of plant carbon gain Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: National Science Foundation Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "14 Nombre del evento: PHENOTYPIC PLASTICITY IN RESPONSE TO ENVIRONMENTAL CHANGES SCALING FROM THE MOLECULAR TO ECOSYSTEM LEVELS Tipo de evento: Simposio Ámbito: Internacional Realizado el:2007-10-01 00:00:00.0, 2007-10-04 00:00:00.0 en Nikko - Japón",
+      "Productos asociados Nombre del producto: Coordination between leaf orientation and leaf physiology for the maximization of plant carbon gain Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: National Science Foundation Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "15 Nombre del evento: ASSOCIATION FOR TROPICAL BIOLOGY AND CONSERVATION Tipo de evento: Otro Ámbito: Internacional Realizado el:1997-05-01 00:00:00.0, 1997-05-08 00:00:00.0 en San José - Costa Rica Productos asociados Nombre del producto: Compensatory growth and photosynthesis under elevated CO2 after defoliation of developing leaflets of seedlings of a tropical tree, Copaifera aromatica. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Association For Tropical Biology Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "15 Nombre del evento: ASSOCIATION FOR TROPICAL BIOLOGY AND CONSERVATION Tipo de evento: Otro Ámbito: Internacional Realizado el:1997-05-01 00:00:00.0, 1997-05-08 00:00:00.0 en San José - Costa Rica",
+      "Productos asociados Nombre del producto: Compensatory growth and photosynthesis under elevated CO2 after defoliation of developing leaflets of seedlings of a tropical tree, Copaifera aromatica. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Association For Tropical Biology Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "16 Nombre del evento: 53rd Meeting of The Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-06-19 00:00:00.0, 2016-06-23 00:00:00.0 en São Paulo - Le Corum Montpellier Productos asociados Nombre del producto: Seasonal Variation of Leaf temperature in Two Common Paramo Specie Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "16 Nombre del evento: 53rd Meeting of The Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-06-19 00:00:00.0, 2016-06-23 00:00:00.0 en São Paulo - Le Corum Montpellier",
+      "Productos asociados Nombre del producto: Seasonal Variation of Leaf temperature in Two Common Paramo Specie Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Asistente",
+      "17 Nombre del evento: 53rd Meeting of The Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-06-19 00:00:00.0, 2016-06-23 00:00:00.0 en São Paulo - Le Corum Productos asociados Nombre del producto: The Economy of Non-Structural Carbohydrates and its Relationship With Plant Functional Traits in Tropical and Temperate Tree Species Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "17 Nombre del evento: 53rd Meeting of The Association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-06-19 00:00:00.0, 2016-06-23 00:00:00.0 en São Paulo - Le Corum",
+      "Productos asociados Nombre del producto: The Economy of Non-Structural Carbohydrates and its Relationship With Plant Functional Traits in Tropical and Temperate Tree Species Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "18 Nombre del evento: 58th Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-07-10 00:00:00.0, 2022-07-14 00:00:00.0 en CARTAGENA DE INDIAS - Centro de convenciones Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Organizador",
+      "18 Nombre del evento: 58th Annual Meeting of the Association for Tropical Biology and Conservation (ATBC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-07-10 00:00:00.0, 2022-07-14 00:00:00.0 en CARTAGENA DE INDIAS - Centro de convenciones",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Organizador",
+      "19 Nombre del evento: 58th Annual Meeting of The association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-07-10 00:00:00.0, 2022-07-14 00:00:00.0 en CARTAGENA DE INDIAS - Centro de Convenciones de Cartagena de Indias Productos asociados Nombre del producto: Phenology of woody plants along a successional gradient in a tropical Andean Mountain Forest Tipo de producto: Producción técnica - Presentación de trabajo - Simposio Nombre del producto: Diversity and Species Composition in Soil Seed Banks of Secondary and Old-growth Tropical Mountain Forests in Colombia Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Functional traits predict leaf-litter decomposition along a successional gradient in High Andean Tropical Forests at early stages of decay Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Organizador , Ponente magistral",
+      "19 Nombre del evento: 58th Annual Meeting of The association for Tropical Biology and Conservation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-07-10 00:00:00.0, 2022-07-14 00:00:00.0 en CARTAGENA DE INDIAS - Centro de Convenciones de Cartagena de Indias",
+      "Productos asociados Nombre del producto: Phenology of woody plants along a successional gradient in a tropical Andean Mountain Forest Tipo de producto: Producción técnica - Presentación de trabajo - Simposio Nombre del producto: Diversity and Species Composition in Soil Seed Banks of Secondary and Old-growth Tropical Mountain Forests in Colombia Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Functional traits predict leaf-litter decomposition along a successional gradient in High Andean Tropical Forests at early stages of decay Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Organizador , Ponente magistral",
+      "20 Nombre del evento: 56th Annual Meeting of the Association for Tropical Biology and Conservation 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-07-30 00:00:00.0, 2019-08-03 00:00:00.0 en Antananarivo - Antananarivo Productos asociados Nombre del producto: Fine root production increases with soil fertility and plant species diversity along a successional gradient in Upper Andean tropical forests Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente",
+      "20 Nombre del evento: 56th Annual Meeting of the Association for Tropical Biology and Conservation 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-07-30 00:00:00.0, 2019-08-03 00:00:00.0 en Antananarivo - Antananarivo",
+      "Productos asociados Nombre del producto: Fine root production increases with soil fertility and plant species diversity along a successional gradient in Upper Andean tropical forests Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN MANUEL ROBERTO POSADA Rol en el evento: Ponente"
+    ],
+    "redes_conocimiento_especializado": [
+      "Nombre de la red Neotropical chapter of the Association for Tropical Biology and Conservation Tipo de red Real, Creada el:2017-07-01 00:00:00.0, en Gainesville con participantes"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: K WINTER, A RICHTER, B ENGELBRECHT, JUAN MANUEL ROBERTO POSADA, A VIRGO, \"Effects of elevated CO2 on Growth and Crassulacean-Acid-Metabolism-Activity of Kalanchoe pinnata under Tropical Conditions\" . En: Estados Unidos PLANTA ISSN: 1432-2048 ed: Springer v. 201 fasc. NA p.389 - 396 ,1997, DOI: 10.1007/s004250050081 Palabras: Ecofisiología,",
+        "titulo": "Effects of elevated CO2 on Growth and Crassulacean-Acid-Metabolism-Activity of Kalanchoe pinnata under Tropical Conditions",
+        "doi": "10.1007/s004250050081",
+        "anio": "1997"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DENNIS CASTILLO FIGUEROA, GERMAN ANDRES GONZALEZ MELO, JUAN MANUEL ROBERTO POSADA, \"Wood density is related to aboveground biomass and productivity along a successional gradient in upper Andean tropical forests\" . En: Suiza FRONTIERS IN PLANT SCIENCE ISSN: 1664-462X ed: FRONTIERS MEDIA SA v. N/A fasc. N/A p.1 - 16 ,2023, DOI: 10.3389/fpls.2023.1276424 Palabras: Biodiversidad, Bosques altoandinos, Ciclo del carbono, Ecofisiología, Ecología, Ecología funcional, Ecología tropical, Forestal, Madera, Plantas, Rasgos funcionales,",
+        "titulo": "Wood density is related to aboveground biomass and productivity along a successional gradient in upper Andean tropical forests",
+        "doi": "10.3389/fpls.2023.1276424",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO SALAMANCA FONSECA, ET AL, JUAN MANUEL ROBERTO POSADA, ADRIANA SANCHEZ ANDRADE, \"Effects of urban, peri-urban and rural land covers on plant functional traits around Bogotá, Colombia\" . En: Alemania URBAN ECOSYSTEMS ISSN: 1083-8155 ed: Springer v. 27 fasc. N/A p.251 - 260 ,2023, DOI: 10.1007/s11252-023-01429-6 Palabras: Biodiversidad, Biología, Bosques altoandinos, Conservación, Ecología, Ecología funcional, Ecología urbana,",
+        "titulo": "Effects of urban, peri-urban and rural land covers on plant functional traits around Bogotá, Colombia",
+        "doi": "10.1007/s11252-023-01429-6",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: C E TIMOTHY PAINE, JUAN MANUEL ROBERTO POSADA, ET AL, \"Globally, functional traits are weak predictors of juvenile tree growth, and we do not know why\" . En: Reino Unido JOURNAL OF ECOLOGY ISSN: 1365-2745 ed: John Wiley & Sons v. 103 fasc. 4 p.978 - 989 ,2015, DOI: 10.1111/1365-2745.12401 Palabras: Ecología funcional, Rasgos funcionales, Plantas, Ecología,",
+        "titulo": "Globally, functional traits are weak predictors of juvenile tree growth, and we do not know why",
+        "doi": "10.1111/1365-2745.12401",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JORGE ANDRES RAMIREZ CORREA, JUAN MANUEL ROBERTO POSADA, ET AL, C MESSIER, \"Near-infrared spectroscopy (NIRS) predicts non- structural carbohydrate concentrations in different tissue types of a broad range of tree species\" . En: Reino Unido METHODS IN ECOLOGY AND EVOLUTION ISSN: 2041-210X ed: British Ecological Society v. 6 fasc. 9 p.1018 - 1025 ,2015, DOI: 10.1111/2041-210X.12391 Palabras: Biología, Ecofisiología, Ecología, Ecología funcional, Ecología tropical, Rasgos funcionales,",
+        "titulo": "Near-infrared spectroscopy (NIRS) predicts non- structural carbohydrate concentrations in different tissue types of a broad range of tree species",
+        "doi": "10.1111/2041-210X.12391",
+        "anio": "2041"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: C LOVELOCK, JUAN MANUEL ROBERTO POSADA, K WINTER, \"Effects of Elevated CO2 and Defoliation on Compensatory Growth and Photosynthesis of Seedlings in a Tropical Tree, Copaifera aromatica\" . En: Estados Unidos BIOTROPICA ISSN: 1744-7429 ed: John Wiley & Sons v. 31 fasc. 2 p.279 - 287 ,1999, DOI: 10.1111/j.1744-7429.1999.tb00139.x Palabras: Ecofisiología,",
+        "titulo": "Effects of Elevated CO2 and Defoliation on Compensatory Growth and Photosynthesis of Seedlings in a Tropical Tree, Copaifera aromatica",
+        "doi": "10.1111/j.1744-7429.1999.tb00139.x",
+        "anio": "1999"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN MANUEL ROBERTO POSADA, T M AIDE, J CAVELIER, \"Cattle and weedy shrubs as restoration tools of tropical montane rainforest.\" . En: Estados Unidos RESTORATION ECOLOGY ISSN: 1526-100X ed: John Wiley & Sons v. 8 fasc. 4 p.370 - 379 ,2000, DOI: 10.1046/j.1526-100x.2000.80052.x Palabras: Ecología,",
+        "titulo": "Cattle and weedy shrubs as restoration tools of tropical montane rainforest.",
+        "doi": "10.1046/j.1526-100x.2000.80052.x",
+        "anio": "2000"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN MANUEL ROBERTO POSADA, E A G SCHUUR, \"Relationships Among Precipitation Regime, Nutrient Availability, and Carbon Turnover in Tropical Rain Forests\" . En: Alemania OECOLOGIA ISSN: 1432-1939 ed: Springer v. 165 fasc. 3 p.783 - 795 ,2011, DOI: 10.1007/s00442-010-1881-0 Palabras: Ecología, Sectores: Educación - Educación superior,",
+        "titulo": "Relationships Among Precipitation Regime, Nutrient Availability, and Carbon Turnover in Tropical Rain Forests",
+        "doi": "10.1007/s00442-010-1881-0",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN MANUEL ROBERTO POSADA, M J LECHOWICZ, K KITAJIMA, \"Optimal photosynthetic use of light by tropical tree crowns achieved by adjustment of individual leaf angles and nitrogen contents.\" . En: Estados Unidos ANNALS OF BOTANY ISSN: 1095-8290 ed: Oxford Univ Press v. 103 fasc. 1 p.795 - 805 ,2009, DOI: 10.1093/aob/mcn265 Palabras: Ecología funcional,",
+        "titulo": "Optimal photosynthetic use of light by tropical tree crowns achieved by adjustment of individual leaf angles and nitrogen contents.",
+        "doi": "10.1093/aob/mcn265",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN MANUEL ROBERTO POSADA, R SIEVANEN, C MESSIER, J PERTTUNEN, E NIKINMAA, M J LECHOWICZ, \"Contributions of leaf photosynthetic capacity, leaf angle and self-shading to the maximization of net photosynthesis in Acer saccharum: a modeling assessment\" . En: Inglaterra ANNALS OF BOTANY ISSN: 0305-7364 ed: Oxford Univ Press v. 110 fasc. 3 p.731 - 741 ,2012, DOI: 10.1093/aob/mcs106 Palabras: Ecología funcional, Rasgos funcionales,",
+        "titulo": "Contributions of leaf photosynthetic capacity, leaf angle and self-shading to the maximization of net photosynthesis in Acer saccharum: a modeling assessment",
+        "doi": "10.1093/aob/mcs106",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ET AL, F BERNINGER, M J LECHOWICZ, C MESSIER, JUAN MANUEL ROBERTO POSADA, FREDY LOPEZ GARCIA, \"Norway maple displays greater seasonal growth and phenotypic plasticity to light than native sugar maple\" . En: Estados Unidos TREE PHYSIOLOGY ISSN: 1758-4469 ed: Oxford Univ Press v. 32 fasc. 11 p.1339 - 1347 ,2012, DOI: 10.1093/treephys/tps092 Palabras: Ecología funcional,",
+        "titulo": "Norway maple displays greater seasonal growth and phenotypic plasticity to light than native sugar maple",
+        "doi": "10.1093/treephys/tps092",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): HEATHER TALLIS, JANE LUBCHENCO, ET AL, NICOLA CLERICI, JUAN MANUEL ROBERTO POSADA, ET AL 240 AUTORES, FREDY LOPEZ GARCIA, \"Working together: A call for inclusive conservation\" . En: Colombia NATURE ISSN: 0028-0836 ed: NATURE PORTFOLIO v. 515 fasc. NA p.27 - 28 ,2014, DOI: doi:10.1038/515027a Palabras: Conservación, Ecología, Biodiversidad,",
+        "titulo": "Working together: A call for inclusive conservation",
+        "doi": "doi:10.1038/515027a",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ADRIANA SANCHEZ ANDRADE, JUAN MANUEL ROBERTO POSADA, WILLIAM K SMITH, \"Dynamic Cloud Regimes, Incident Sunlight, and Leaf Temperatures in Espeletia grandiflora and Chusquea tessellata, two Representative Species of the Andean Páramo, Colombia\" . En: Estados Unidos ARCTIC ANTARCTIC AND ALPINE RESEARCH ISSN: 1523-0430 ed: Taylor & Francis Ltd v. 46 fasc. 2 p.79 - 86 ,2014, DOI: http://dx.doi.org/10.1657/1938-4246-46.2.79 Palabras: Ecofisiología,",
+        "titulo": "Dynamic Cloud Regimes, Incident Sunlight, and Leaf Temperatures in Espeletia grandiflora and Chusquea tessellata, two Representative Species of the Andean Páramo, Colombia",
+        "doi": "http://dx.doi.org/10.1657/1938-4246-46.2.79",
+        "anio": "1938"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NICOLA CLERICI, KRISTIAN RUBIANO, AMR ABD ELRAHMAN, JUAN MANUEL ROBERTO POSADA, FRANCISCO JAVIER ESCOBEDO MONTOYA, \"Estimating Aboveground Biomass and Carbon Stocks in Periurban Andean Secondary Forests Using Very High Resolution Imagery\" . En: Suiza FORESTS ISSN: 1999-4907 ed: mdpi v. 7 fasc. 7 p.138 - ,2016, DOI: 10.3390/f7070138 Palabras: Ecología tropical, Forestal, Plantas, Conservación, Biodiversidad, Sensores remotos, Ciclo del carbono, Bosques altoandinos,",
+        "titulo": "Estimating Aboveground Biomass and Carbon Stocks in Periurban Andean Secondary Forests Using Very High Resolution Imagery",
+        "doi": "10.3390/f7070138",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): NICOLA CLERICI, JAMES EDWARD RICHARDSON, FRANCISCO JAVIER ESCOBEDO MONTOYA, JUAN MANUEL ROBERTO POSADA, MAURICIO LINARES PORTO, ADRIANA SANCHEZ ANDRADE, \"Colombia: Dealing in conservation\" . En: Estados Unidos SCIENCE ISSN: 1095-9203 ed: AMER ASSOC ADVANCEMENT SCIENCE v. 354 fasc. 6309 p.190 - 190 ,2016, DOI: 10.1126/science.aaj1459 Palabras: Biodiversidad, Ecología, Ecología tropical, Conflicto armado, post-conflicto,",
+        "titulo": "Colombia: Dealing in conservation",
+        "doi": "10.1126/science.aaj1459",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRES CAMILO REY SANCHEZ, MARTIJN SLOT, JUAN MANUEL ROBERTO POSADA, K KITAJIMA, \"Spatial and seasonal variation in leaf temperature within the canopy of a tropical forest\" . En: Alemania CLIMATE RESEARCH ISSN: 1616-1572 ed: Inter-Research v. 71 fasc. NA p.75 - 89 ,2016, DOI: 10.3354/cr01427 Palabras: Ecofisiología, Ciclo del carbono, Forestal, Temperatura, Hojas,",
+        "titulo": "Spatial and seasonal variation in leaf temperature within the canopy of a tropical forest",
+        "doi": "10.3354/cr01427",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CARLOS ALBERTO SIERRA USMA, ET AL, JUAN MANUEL ROBERTO POSADA, \"Monitoring ecological change during rapid socio-economic and political transitions: Colombian ecosystems in the post-conflict era\" . En: Suiza ENVIRONMENTAL SCIENCE POLICY ISSN: 1873-6416 ed: ELSEVIER SCI LTD v. 76 fasc. p.40 - 49 ,2017, DOI: doi.org/10.1016/j.envsci.2017.06.011 Palabras: Conflicto armado, Ecología tropical, post-conflicto, Biodiversidad,",
+        "titulo": "Monitoring ecological change during rapid socio-economic and political transitions: Colombian ecosystems in the post-conflict era",
+        "doi": "doi.org/10.1016/j.envsci.2017.06.011",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CESAR AUGUSTO GARCIA VALBUENA, NICOLA CLERICI, JUAN MANUEL ROBERTO POSADA, \"Fusion of Sentinel-1A and Sentinel-2A data for land cover mapping: a case study in the lower Magdalena region, Colombia\" . En: Reino Unido JOURNAL OF MAPS ISSN: 1744-5647 ed: Taylor & Francis Ltd v. 13 fasc. 2 p.718 - 726 ,2017, DOI: doi.org/10.1080/17445647.2017.1372316 Palabras: Sensores remotos, Ecología tropical, Biodiversidad, Conservación,",
+        "titulo": "Fusion of Sentinel-1A and Sentinel-2A data for land cover mapping: a case study in the lower Magdalena region, Colombia",
+        "doi": "doi.org/10.1080/17445647.2017.1372316",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ADRIANA SANCHEZ ANDRADE, ANDRES CAMILO REY SANCHEZ, JUAN MANUEL ROBERTO POSADA, WILLIAM K SMITH, \"Interplay of seasonal sunlight, air and leaf temperature in two alpine páramo species, Colombian Andes\" . En: España AGRICULTURAL AND FOREST METEOROLOGY ISSN: 0168-1923 ed: Elsevier v. 253 fasc. p.38 - 47 ,2018, DOI: doi.org/10.1016/j.agrformet.2018.01.033 Palabras: Clima, Hojas, Plantas, Ecofisiología, Ciclo del carbono,",
+        "titulo": "Interplay of seasonal sunlight, air and leaf temperature in two alpine páramo species, Colombian Andes",
+        "doi": "doi.org/10.1016/j.agrformet.2018.01.033",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JORGE ANDRES RAMIREZ CORREA, TANIA HANDA, JUAN MANUEL ROBERTO POSADA, SILVAIN DELAGRANGE, C MESSIER, \"Carbohydrate dynamics in roots, stems, and branches after maintenance pruning in two common urban tree species of North America\" . En: Alemania URBAN FORESTRY URBAN GREENING ISSN: 1610-8167 ed: Elsevier GmbH v. 30 fasc. p.24 - 31 ,2018, DOI: doi.org/10.1016/j.ufug.2018.01.013 Palabras: Ecología, Forestal, Ecología urbana,",
+        "titulo": "Carbohydrate dynamics in roots, stems, and branches after maintenance pruning in two common urban tree species of North America",
+        "doi": "doi.org/10.1016/j.ufug.2018.01.013",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRES CAMILO REY SANCHEZ, JUAN MANUEL ROBERTO POSADA, \"Effect of temporally heterogeneous light on photosynthetic light use efficiency, plant acclimation and growth in Abatia parviflora\" . En: Australia FUNCTIONAL PLANT BIOLOGY ISSN: 1445-4408 ed: CSIRO Publishing v. 46 fasc. 7 p.684 - 693 ,2019, DOI: 10.1071/FP18279 Palabras: Ecofisiología, Ecología funcional, Plantas, Rasgos funcionales,",
+        "titulo": "Effect of temporally heterogeneous light on photosynthetic light use efficiency, plant acclimation and growth in Abatia parviflora",
+        "doi": "10.1071/FP18279",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ROY OSWALDO GONZALEZ MARTINEZ, NATALIA NORDEN MEDINA, JUAN MANUEL ROBERTO POSADA, CAMILA PIZANO GOMEZ, ET AL, \"Climate severity and landcover transformation determine plant community attributes in Colombian dry forests\" . En: Estados Unidos BIOTROPICA ISSN: 0006-3606 ed: John Wiley & Sons v. N/A fasc. N/A p.826 - 837 ,2019, DOI: 10.1111/btp.12715 Palabras: Bosques Secos, Biodiversidad, Clima, Conservación, Ecología,",
+        "titulo": "Climate severity and landcover transformation determine plant community attributes in Colombian dry forests",
+        "doi": "10.1111/btp.12715",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LORE T VERRYCKT, LEANDRO VAN LANGENHOVE, PHILLIPE CIAIS, ELODIE A COURTOIS, SARA VICCA, JOSEP PENUELAS, CLEMENT STAHL, SABRINA COSTE, DAVID ELLSWORTH, JUAN MANUEL ROBERTO POSADA, MICHAEL OBERSTEINER, JEROME CHAVE, IVAN A JANSSENS, \"Coping with branch excision when measuring leaf net photosynthetic rates in a lowland tropical forest\" . En: Estados Unidos BIOTROPICA ISSN: 1744-7429 ed: John Wiley & Sons v. 52 fasc. 4 p.608 - 615 ,2020, DOI: 10.1111/btp.12774 Palabras: Ecofisiología,",
+        "titulo": "Coping with branch excision when measuring leaf net photosynthetic rates in a lowland tropical forest",
+        "doi": "10.1111/btp.12774",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LORE T VERRYCKT, DAVID ELLSWORTH, SARA VICCA, LEANDRO VAN LANGENHOVE, JOSEP PENUELAS, PHILLIPE CIAIS, JUAN MANUEL ROBERTO POSADA, CLEMENT STAHL, SABRINA COSTE, ELODIE A COURTOIS, MICHAEL OBERSTEINER, JEROME CHAVE, IVAN A JANSSENS, \"Can light-saturated photosynthesis in lowland tropical forests be estimated by one light level?\" . En: Estados Unidos BIOTROPICA ISSN: 1744-7429 ed: John Wiley & Sons v. 52 fasc. 6 p.1183 - 1193 ,2020, DOI: 10.1111/btp.12817 Palabras: Ecofisiología,",
+        "titulo": "Can light-saturated photosynthesis in lowland tropical forests be estimated by one light level?",
+        "doi": "10.1111/btp.12817",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ROY OSWALDO GONZALEZ MARTINEZ, JUAN MANUEL ROBERTO POSADA, CARLOS CARMONA, FABIAN GARZON, VIVIANA SALINAS, ALVARO IDARRAGA PIEDRAHITA, CAMILA PIZANO GOMEZ, ANDRES AVELLA, RENE LOPEZ CAMACHO, NATALIA NORDEN MEDINA, JOHN NIETO, SANDRA MEDINA, GINA MARCELA RODRIGUEZ MOLINA, REBECA FRANKE ANTE, ALBA M TORRES, RUBEN DARIO JURADO BASTIDAS, HERMES CUADROS VILLALOBOS, ALEJANDRO CASTANO NARANJO, HERNANDO GARCIA, BEATRIZ EUGENIA SALGADO NEGRET, \"Diverging functional strategies but high sensitivity to an extreme drought in tropical dry forests\" . En: Francia ECOLOGY LETTERS ISSN: 1461-0248 ed: John Wiley & Sons v. 24 fasc. 3 p.1 - 13 ,2020, DOI: 10.1111/ele.13659 Palabras: Ecología, Bosques Secos, Biodiversidad, Ciclo del carbono,",
+        "titulo": "Diverging functional strategies but high sensitivity to an extreme drought in tropical dry forests",
+        "doi": "10.1111/ele.13659",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANA BELEN HURTADO MARTILLETTI, MARIA ANGELA ECHEVERRY GALVIS, BEATRIZ EUGENIA SALGADO NEGRET, JUAN CAMILO MUNOZ, JUAN MANUEL ROBERTO POSADA, NATALIA NORDEN MEDINA, \"Little trace of floristic homogenization in peri-urban Andean secondary forests despite high anthropogenic transformation\" . En: Reino Unido JOURNAL OF ECOLOGY ISSN: 1365-2745 ed: John Wiley & Sons v. 109 fasc. 3 p.1468 - 1478 ,2020, DOI: 10.1111/1365-2745.13570 Palabras: Biodiversidad, Bosques altoandinos, Conservación, Ecología,",
+        "titulo": "Little trace of floristic homogenization in peri-urban Andean secondary forests despite high anthropogenic transformation",
+        "doi": "10.1111/1365-2745.13570",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIASOLE CALIBI, JUAN MANUEL ROBERTO POSADA, ET AL, \"Seeing the wood despite the trees: Exploring human disturbance impact on plant diversity, community structure, and standing biomass in fragmented high Andean forests\" . En: Estados Unidos ECOLOGY AND EVOLUTION ISSN: 2045-7758 ed: John Wiley & Sons v. 11 fasc. 5 p.2110 - 2172 ,2021, DOI: 10.1002/ece3.7182 Palabras: Biodiversidad, Bosques altoandinos, Conservación, Ecología,",
+        "titulo": "Seeing the wood despite the trees: Exploring human disturbance impact on plant diversity, community structure, and standing biomass in fragmented high Andean forests",
+        "doi": "10.1002/ece3.7182",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: GERMAN ANDRES GONZALEZ MELO, JUAN MANUEL ROBERTO POSADA, ET AL, \"Radial variations in wood functional traits in a rain forest from eastern Amazonia\" . En: Estados Unidos TREES STRUCTURE AND FUNCTION ISSN: 1432-2285 ed: SPRINGER HEIDELBERG v. N/A fasc. N/A p.1 - 13 ,2021, DOI: 10.1007/s00468-021-02229-1 Palabras: Biodiversidad, Ecofisiología, Ecología, Ecología funcional, Ecología tropical, Forestal, Plantas, Rasgos funcionales,",
+        "titulo": "Radial variations in wood functional traits in a rain forest from eastern Amazonia",
+        "doi": "10.1007/s00468-021-02229-1",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: AMY ZANNE, HABACUS FLORES MORENO, ET AL, JUAN MANUEL ROBERTO POSADA, \"Termite sensitivity to temperature affects global wood decay rates\" . En: Estados Unidos SCIENCE ISSN: 0036-8075 ed: AMER ASSOC ADVANCEMENT SCIENCE v. 377 fasc. 6613 p.1440 - 1444 ,2022, DOI: 10.1126/science.abo3856 Palabras: Microorganismos, Atrópodos, Ciclo del carbono, Clima, Ecología, Ecología tropical, Plantas, Temperatura,",
+        "titulo": "Termite sensitivity to temperature affects global wood decay rates",
+        "doi": "10.1126/science.abo3856",
+        "anio": "2022"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Otro capítulo de libro publicado C MESSIER, Tipo: Otro capítulo de libro publicado JUAN MANUEL ROBERTO POSADA, Tipo: Otro capítulo de libro publicado I AUBIN, Tipo: Otro capítulo de libro publicado M BEAUDET, \"Functional Relationships Between Old-Growth Forest Canopies, Understorey Light and Vegetation Dynamics\" Old-Growth Forests. Function, Fate And Value . En: Alemania ISBN: 978-3-540-92705-1 ed: Springer-Verlag Berlin/Heidelberg , v. , p.115 - 139 207 ,2009 Palabras: Ecofisiología, Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología, Sectores: Educación - Educación superior,",
+      "Tipo: Otro capítulo de libro publicado R SIEVANEN, Tipo: Otro capítulo de libro publicado J PERTTUNEN, Tipo: Otro capítulo de libro publicado E NIKINMAA, Tipo: Otro capítulo de libro publicado JUAN MANUEL ROBERTO POSADA, \"Functional structural plant models - case LIGNUM\" Plant Growth Modeling, Simulation, Visualization And Applications . En: Estados Unidos ISBN: 9780769539881 ed: Ieee Computersociety Press , v. , p.3 - 9 1 ,2010 Palabras: Plantas, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías, Sectores: Educación - Educación superior,"
+    ],
+    "libros_divulgacion": [
+      "Producción bibliográfica - Libro - Libros de divulgación y/o Compilación de divulgación: Nombre del libro: Bosques andinos de la Sabana de Bogotá. En: Biodiversidad 2019. Estado y tendencias de la biodiversidad continental de Colombia, Fecha de presentación: 2019 - Enero, Isbn: 978-958-5418-89-9, Medio de divulgación: Electrónico, Lugar de publicación: Colombia, Editorial: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt., Areas: Ciencias Naturales -- Ciencias de la Tierra y Medioambientales -- Ciencias del Medio Ambiente,",
+      "Producción bibliográfica - Libro - Libros de divulgación y/o Compilación de divulgación: Nombre del libro: Bosque seco Colombia: biodiversidad y gestión, Fecha de presentación: 2019 - Enero, Isbn: 978-958-5418-77-6, Medio de divulgación: Electrónico, Lugar de publicación: Colombia, Editorial: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt., Areas: Ciencias Naturales -- Ciencias de la Tierra y Medioambientales -- Ciencias del Medio Ambiente, Ciencias Naturales -- Ciencias Biológicas -- Ecología,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: JUAN MANUEL ROBERTO POSADA, Scaling Photosynthesis from Leaves to Ecosystems: The Significance of Optimal use of Light in Tropical Canopy Trees . En: Canadá, ,2006, finalidad: Conferencista invitado por el Departamento de Biología de la Universidad McGill Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Demás trabajos - Demás trabajos: JUAN MANUEL ROBERTO POSADA, ¿Dinámica del ciclo de carbono a lo largo de gradientes de precipitación¿. . En: Colombia, ,2009, finalidad: Conferencista invitado. Reunión de Expertos - Aspectos Claves para la Cuantificación y Estimación de Carbono. Organizado por la Fundación Moore, el IDEAM y la Fundación Natura. Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Demás trabajos - Demás trabajos: JUAN MANUEL ROBERTO POSADA, (1) ¿Optimal photosynthetic use of light in trees: coordination between leaf functional traits¿, (2) ¿Maximization of plant net photosynthesis through coordinated adjustments in leaf orientation, leaf physiology and light capture at the plant scale¿. . En: Canadá, ,2009, finalidad: Conferencista invitado. Mesa de trabajo sobre los rasgos funcionales de las plantas. Centro de Estudios del Bosque (CEF), Reserva del Monte St-Hilaire Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Demás trabajos - Demás trabajos: JUAN MANUEL ROBERTO POSADA, Scaling Photosynthesis from Leaves to Ecosystems: The Significance of Optimal use of Light in Tropical Canopy Trees . En: Finlandia, ,2006, finalidad: Conferencista invitado por el Departamento de Ecología Forestal de la Universidad de Helsinki Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Demás trabajos - Demás trabajos: JUAN MANUEL ROBERTO POSADA, Contribution de l¿orientation et de la physiologie des feuilles à la maximisation de la productivité des plantes . En: Canadá, ,2007, finalidad: Conferencista invitado por la Universidad de Québec en Montreal Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Demás trabajos - Demás trabajos: JUAN MANUEL ROBERTO POSADA, Extrapolation de la Photosynthèse des feuilles à l'Echelle de toute la Forêt: L¿importance de l'utilisation optimale de la lumière par les arbres . En: Canadá, ,2006, finalidad: Conferencista invitado por el Departamento de Biología de la Universidad de Sherbrooke Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Demás trabajos - Demás trabajos: JUAN MANUEL ROBERTO POSADA, Tropical Trees Achieve Optimal Light Use through the Canopy by Adjusting Leaf Orientation and Physiology . En: Panamá, ,2005, finalidad: Conferencista invitado por el Instituto de Investigaciones Tropicales Smithsonian. Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo CHAIRE CRSNG/Hydro-Québec sobre el crecimiento de los árboles Inicio: Abril 2010 Fin proyectado: Abril 2015 Fin: Diciembre 2017 Duración 60 Resumen Investigador principal: Christian Messier Juan Posada: mi rol en la Chaire es desarrollar modelos matemáticos de fotosíntesis para estimar el crecimiento de árboles y co-dirijo la tesis de de un estudiante doctorado sobre la dinámica de las reservas en árboles tropicales y templados",
+      "Tipo de proyecto: Investigación y desarrollo Dinámica de la fisiología de plantas de páramo y evaluación de su posible respuesta al cambio climático Inicio: Enero 2013 Fin: Junio 2014 Duración Resumen Se prevé que el cambio climático global va a afectar de manera significativa los ecosistemas de páramo ya que se van a ver expuestos a una mayor variabilidad meteorológica y a una reducción de su área por el avance de los bosques a ma-yores altitudes. En Colombia se encuentra la mayor extensión de ecosistemas de páramo en el mundo y éstos juegan un papel fundamental para el país ya que, además de albergar una alta biodiversidad, proveen una gran parte del agua para consumo humano, riego y generación de energía hidroeléctrica. Sin embargo, aún tenemos poca información sobre el funcionamiento de éstos eco-sistemas y es difícil predecir cómo responderán a nuevas condiciones climáticas. Por ende, es necesario hacer mediciones detalladas de la fisiología de plantas de páramo en su hábitat natural y evaluar su respuesta a variaciones en el am-biente abiótico. Ya que en muchos páramos hay estaciones lluviosas y secas pronunciadas, esta variabilidad natural sirve de base para entender la respuesta de la vegetación a condiciones meteorológicas opuestas. El objetivo de nuestro estudio es cuantificar las respuestas fisiológicas de Espeletia grandiflora y Chusquea tessellata a variaciones diurnas y estacionales en el clima. Anticipa-mos que la fotosíntesis de estas dos especies disminuirá significativamente du-rante la estación seca, pero que E. grandiflora debería ser más tolerante al défi-cit hídrico por tener una mayor capacidad de acumulación de agua en su tallo que C. tessellata. Haremos mediciones detalladas del clima (radiación, tempera-tura, humedad relativa y nubosidad) y su efecto en la fotosíntesis, fotoinhibición, transpiración y estrés hídrico en estas dos especies representativas del páramo de Chingaza. Los resultados derivados del proyecto nos generar información va-liosa sobre la fisiología de estas especies y proyectar el posible efecto que el cambio climático tendrá en la vegetación de páramo, su productividad y los ser-vicios ecosistémicos que ofrecen. Este estudio se hará en estrecha colaboración con Wake Forest University, EE.UU.. También involucraremos y formaremos a un estudiante nacional, quién desarrollará habilidades en el uso de equipo eco-fisiológico de punta, los protocolos de investigación y la publicación de manuscri-tos científicos.",
+      "Tipo de proyecto: Investigación y desarrollo Evaluación del potencial de regeneración de bosques y cuantificación del ciclo del carbono en ecosistemas de rastrojos Alto-andinos Inicio: Enero 2013 Fin: Junio 2014 Duración Resumen NA",
+      "Tipo de proyecto: Investigación y desarrollo Optimización del uso de la luz en plántulas expuestas a diferentes distribuciones de luz en el día - JOVEN INVESTIGADOR Inicio: Mayo 2013 Fin: Mayo 2014 Duración Resumen No hay",
+      "Tipo de proyecto: Investigación y desarrollo Cuantificación de almacenamiento de carbono en ecosistemas arbustivos altoandinos usando datos satelitales de muy alta resolución Inicio: Mayo 2014 Duración Resumen Una delineación precisa de la distribución espacial de la biomasa a escala local y regional es clave para reducir la incertidumbre asociada a las emisiones/secuestro de C y a un mejor conocimiento de su ciclo. Debido principalmente a las dificultades en la recopilación de datos de campo de biomasa subterránea, muchos estudios se han focalizado en la estimación de la biomasa aérea (B.A.). Una estrategia importante para poder estimar esta biomasa a múltiples escalas es a través del uso de la teledetección. El modelamiento de datos de teledetección ópticos aprovecha la manera en que la vegetación absorbe de manera diferencial la radiación solar como función de largueza de onda electromagnética, para ser utilizada como insumo de energía para la fijación del carbono. Esta información, puede ser ¿condensada¿ y modelada a través de índices de vegetación (I.V.), que tienen la característica de ser correlatos a la concentración y cantidad de clorofila (de vegetación ¿verde¿), y consecuentemente a la biomasa aérea. Este proyecto tiene el objetivo de cuantificar la biomasa aérea de ecosistemas de rastrojos utilizando sensores multiespectrales de muy alta resolución a través del establecimiento de relaciones empíricas entre índices de vegetación, ecuaciones alométricas y mediciones en parcelas permanentes. Objetivos específicos del proyecto son: i) la construcción de relaciones alométricas para las especies dominantes en las parcelas de estudio, y el cálculo de la biomasa aérea como componente del ciclo del carbono en rastrojos; ii) evaluar cual índice de vegetación, calculado a partir de bandas multiespectrales en el visible e infrarrojo, puede optimizar la estimación de la biomasa aérea, y del carbono, a través de relaciones analíticas con las medidas de campo. Este estudio se realizará en el altiplano Cundiboyacense, utilizando 8 parcelas permanentes, dominadas por rastrojo, de 20 m x 20 m en terrenos privados y públicos de 4 localidades en zonas peri-urbanas de los municipios de La Calera, Guatavita, Tabio y Sopó (Departamento de Cundinamarca, Colombia). Con este proyecto se generará un conocimiento valioso sobre la ecología de uno de los ecosistemas neotropicales menos estudiados y que tiene el potencial de contribuir de manera significativa a la mitigación del cambio climático global. La biomasa aérea estimada a través de relaciones alométricas y por modelamiento con datos satelitales proporcionará valores más precisos para el cálculo a nivel regional de la productividad primaria en los ecosistemas de rastrojo. Los resultados de este estudio permitirán evaluar algunos de los servicios ecosistémicos del rastrojo altoandino, y su potencial para mejorar el medio ambiente a nivel local y global. Por lo tanto, estos resultados contribuirán también a la toma de decisiones por actores con un interés en terrenos cubiertos con rastrojos para así concientizarlos sobre su valor, lo cual contribuirá a su protección y adecuada gestión.",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de integridad ecológica del paisaje y valoración de los recursos naturales, de acuerdo con su oferta actual, la demanda por parte de los sistemas productivos agropecuarios y de otros sectores, en posibles escenarios de cambio climático Inicio: Marzo 2014 Fin: Diciembre 2019 Duración Resumen NA",
+      "Tipo de proyecto: Investigación y desarrollo Relaciones entre biodiversidad, diversidad funcional y ciclo de carbono en bosques secundarios Altoandinos Inicio: Febrero 2016 Fin: Agosto 2017 Duración Resumen Las actividades humanas han reducido significativamente la superficie de bosques naturales, poniendo en riesgo la estabilidad del sistema ecológico mundial. Los trópicos, que están sometidos a altas presiones antrópicas, son particularmente vulnerables a estas transformaciones pues resguardan la mayor parte de la biodiversidad terrestre mundial y prestan servicios ecosistémicos esenciales. Un servicio ecosistémico de gran interés es el de la regulación del CO2 atmosférico, que contribuye a mitigar el cambio climático. Sin embargo, las altas tasas de deforestación que prevalecen en regiones tropicales convierten los bosques en emisores de carbono, interrumpiendo su función de regulación por almacenamiento de biomasa. Aunque este escenario es bastante pesimista, varios estudios sugieren que la regeneración de bosques secundarios que ocurre en tierras antiguamente productivas ha permitido recuperar muchos de los servicios ecosistémicos y reducir los riesgos de extinción de especies. Sin embargo, si el uso de la tierra ha sido muy intensivo, los bosques serán poco resilientes, y no recuperarán la diversidad, estructura y función previas a los disturbios antrópicos. Por ende, determinar hasta qué punto los bosques tropicales pueden recuperarse es prioritario y para ello se requiere una aproximación integral en la que se puedan cuantificar las conexiones entre la diversidad taxonómica, la diversidad de funciones y los diferentes componentes del ciclo de carbono en bosques secundarios. A pesar de que la literatura sobre la biodiversidad y el rol de los bosques tropicales de tierras bajas como sumideros de carbono es muy abundante, nuestro conocimiento sobre el papel de los bosques montanos en el ciclo de carbono es todavía incipiente. En particular, la cordillera de los Andes merece mucha más atención de la que ha recibido pues muestra uno de los niveles más altos de endemismo del mundo. Entre las zonas más intervenidas de los Andes está la Sabana de Bogotá y sus alrededores, que ha perdido la casi-totalidad de la vegetación boscosa original, aunque la presencia de bosques de sucesión muy temprana es alta. Esta propuesta está construida para darle continuidad a dos proyectos ya culminados, cuyo objetivo general ha sido conocer la biodiversidad y la biomasa de los bosques secundarios de la Sabana de Bogotá. Nuestro objetivo es caracterizar la dinámica de la diversidad taxonómica y funcional de estos ecosistemas y evaluar su relación con varios componentes del ciclo biogeoquímico del carbono. Con esto en mente: (1) evaluaremos la resiliencia de distintos bosques de esta región; (2) estimaremos su biomasa, producción primaria neta aérea y producción primaria bruta; y (3) estableceremos la relación entre la diversidad funcional de las comunidades de plantas y los componentes del ciclo de carbono. Para ello, haremos un nuevo censo en 14 parcelas permanentes ya establecidas en cuatros municipios de la Sabana de Bogotá (Guasca, Guatavita, Tabio y Torca) y estableceremos 7 parcelas adicionales de 400 m2 y 8 parcelas nuevas de 2500 m2. En cada parcela, haremos un inventario detallado de las vegetación en tres estratos diferentes (árboles, juveniles y plántulas) y mediremos la productividad. Igualmente, completaremos una base de datos con información detallada sobre varios rasgos funcionales de todas las especies encontradas. Con este proyecto generaremos información valiosa y única sobre la ecología de uno de los ecosistemas menos estudiados en el Neotrópico. Gracias a su enfoque a largo plazo, comprenderemos más profundamente las relaciones entre biodiversidad, el funcionamiento de los ecosistemas alto-andinos y los servicios ecosistémicos de regulación que proveen.",
+      "Tipo de proyecto: Investigación y desarrollo Estudio de dinámicas socio-ecológicas ante escenarios de cambio climático en bosques secundarios peri-urbanos Altoandinos Inicio: Abril 2017 Fin: Diciembre 2019 Duración Resumen Los Andes Colombianos muestran uno de los niveles más altos de diversidad y endemismo del mundo y son el nacimiento de muchos ríos, pero también han sido muy fuertemente intervenidos. Entre las zonas más transformadas está la Sabana de Bogotá y sus alrededores que ha perdido la casi-totalidad de bosques nativos originales, aunque la presencia de bosques secundarios es alta. Estos bosques Altoandinos secundarios peri-urbanos son sistemas socio-ecológicos de alto interés ya que no solo son afectados por actividades antrópicas sino a través de su dinámica ecológica también suministran servicios ecosistémicos (SE) que benefician directa e indirectamente a la sociedad. La presente propuesta es hacer investigaciones de punta para caracterizar la dinámica socio-ecológica de estos bosques mediante: (1) la evaluación de su resiliencia, estructura y funcionalidad; (2) la cuantificación de la productividad y biomasa; (3) simulaciones con modelos ecosistémicos y geoespaciales de sus ciclos de carbono e hídricos; y (4) la valorización de cambios en diversidad-estructura y suministro de SE con proyecciones a 30 años. Para ello, se usarán parcelas permanentes pre-existentes y transectos en cuatro cuencas caracterizando diferentes niveles de intervención en la Sabana. Segundo, datos de parcelas, geoespaciales, climatológicos y suelos servirán para simular la regulación de carbono y agua a nivel de cuenca. Sistemas de Información Geográfica e imágenes remotas permitirán caracterizar la dinámica espacial de los bosques secundarios a nivel de paisaje y cuenca. Tercero, simulaciones de cambio de uso de suelo generarán proyecciones de los efectos del cambio climático y la urbanización a 30 años. Finalmente, todos los resultados y simulaciones serán usadas para valorar los servicios ecosistémicos de estos bosques mediante modelos y encuestas socioeconómicas y técnicas de ¿Design Thinking¿. El proyecto generará información valiosa e innovadora sobre la ecología, el valor socioeconómico y la resiliencia de los SE ante escenarios de cambio.",
+      "Tipo de proyecto: Investigación y desarrollo Dinámicas de regeneración y descomposición de hojarasca en un gradiente sucesional de bosque Altoandino Inicio: Enero 2021 Fin: Junio 2023 Duración Resumen Los bosques de alta montaña de los Andes albergan una vasta cantidad de especies que no se encuentran en ninguna otra parte del mundo ya que tienen los más altos endemismos a nivel global (Myers et al., 2000). Debido a esto, las pérdidas en la biodiversidad son aún más preocupantes en estos ecosistemas pues podrían representar efectos irreversibles en especies singulares solo encontradas en estos bosques. Adicionalmente, son ecosistemas estratégicos para la regulación del ciclo del agua y del carbono por lo que es trascendental obtener información relativa a estos procesos. Con la realización de este proyecto se espera generar información clave sobre la funcionalidad de los bosques secundarios Altoandinos, uno de los ecosistemas que pese a su alto grado de amenaza es de los menos estudiados en el Neotrópico. Como se mencionó anteriormente, estos bosques tienen el potencial de contribuir de manera importante a la mitigación del cambio climático global además de proteger la biodiversidad (Duque et al., 2021). No obstante, esto no ha sido debidamente cuantificado.El conocimiento generado con este proyecto permitirá evaluar cómo estos ecosistemas se recuperan de fuertes disturbios antropogénicos y ayudará a comprender las trayectorias sucesionales en tierras abandonadas desde una perspectiva funcional. Las mediciones de los principales componentes de la fenología, el establecimiento de las plántulas, y la descomposición de la hojarasca nos permitirán establecer qué factores bióticos y abióticos controlan la fijación y el flujo de carbono en el ecosistema en el gradiente sucesional. Esto incluirá un análisis de la integración fenotípica entre rasgos funcionales de las plantas en diferentes complejos funcionales (hojas, raíces, semillas, hojarasca), los organismos descomponedores, las características ambientales y la capacidad presente y futura de fijación de carbono. Con base en esto, se definirán los principales mecanismos de acumulación, regulación de biomasa, y ciclaje de nutrientes para así desarrollar un modelo general que sea replicable para zonas con condiciones ambientales similares.En este sentido, con los resultados de este proyecto lograremos comprender procesos ecológicos y biogeoquímicos que determinan la sucesión en estos bosques, lo cual brindará información sustancial que permitirá entender su estado actual y futuro y ayudará eventualmente a los tomadores de decisiones a establecer planes informados para la recuperación de los bosques Altoandinos de la Sabana de Bogotá.",
+      "Tipo de proyecto: Investigación y desarrollo Control de la Productividad Primaria Neta por la Lluvia en un Bosque Pluvial Tropical del Chocó Biogeográfico Inicio: Abril 2006 Fin proyectado: Mayo 2007 Fin: Mayo 2007 Duración 13 Resumen La precipitación es uno de los factores climáticos determinantes de la productividad de muchos ecosistemas tropicales. En ecosistemas secos, el agua actúa como un recurso y un aumento en la precipitación se asocia con un incremento en la productividad. Sin embargo, datos recientes sugieren que una abundante precipitación causa una reducción en la productividad en bosques tropicales muy húmedos. Los bosques tropicales son responsables de más del 30% de la productividad terrestre mundial y comprender como la precipitación afecta este bioma es fundamental para predecir el efecto de cambios climáticos globales en el ciclo del carbono. El Chocó biogeográfico es la región más lluviosa del mundo pero, a pesar de su importancia, la productividad primaria neta (PPN) de sus bosques es desconocida. El objetivo de este estudio es cuantificar la PPN de un bosque pluvial tropical en la isla de Gorgona, cuyo clima y vegetación son representativos del Pacífico Colombiano. Proponemos establecer una parcela permanente de 1 ha en un bosque maduro de la isla. Cuantificaremos la PPN aérea durante un año mediante mediciones detalladas de caída de hojarasca y crecimiento neto de árboles. Estimaremos la PPN subterránea midiendo la respiración del suelo, isótopos de carbono de la respiración, biomasa de raíces y edad promedio de las raíces. También estudiaremos diferentes mecanismos mediante los cuales la precipitación podría causar una disminución de la PPN.",
+      "Tipo de proyecto: Investigación y desarrollo The response of plants to contrasting distributions of light Inicio: Octubre 2005 Fin: Enero 2006 Duración 4 Resumen NA",
+      "Tipo de proyecto: Investigación y desarrollo Optimal photosynthetic use of light in tropical canopy trees Inicio: Enero 2001 Fin: Junio 2001 Duración 18 Resumen NA",
+      "Tipo de proyecto: Investigación y desarrollo Characteristics of leaf photosynthesis under variable daily light availability Inicio: Junio 2000 Fin: Diciembre 2000 Duración 6 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Changes in leaf functional traits along light gradients in tropical canopy trees Inicio: Mayo 1997 Fin: Junio 1997 Duración 1 Resumen NA",
+      "Tipo de proyecto: Investigación y desarrollo Compensatory growth and photosynthesis under elevated CO2 after defoliation of developing leaflets of seedlings of a tropical tree, Copaifera aromatica Inicio: Mayo 1995 Fin: Septiembre 1995 Duración 5 Resumen NA",
+      "Tipo de proyecto: Investigación y desarrollo Development of a model of leaf acclimation to light based on optimal photosynthetic light use: implications for the spatial and temporal scaling of photosynthesis Inicio: Enero 2010 Fin proyectado: Enero 2011 Fin: Enero 2011 Duración 12 Resumen NA",
+      "Tipo de proyecto: Investigación y desarrollo Mecanismos de optimización fotosintética del uso de la luz en árboles tropicales y sus implicaciones para los modelos de fijación de CO2 globales Inicio: Julio 2010 Fin proyectado: Junio 2012 Fin: Agosto 2013 Duración 24 Resumen El rápido aumento de CO2 en la atmósfera es el principal responsable del cambio climático que vivimos en la actualidad. Sin embargo, la biósfera juega un rol modulador esencial que ha mitigado el impacto que los gases a efecto invernadero tienen sobre el clima. Esta capacidad moduladora se debe en gran parte al proceso de fotosíntesis en ecosistemas terrestre el cual fija ca. 16% de todo el CO2 que hay en la atmósfera cada año. Actualmente, para estimar la fotosíntesis a nivel regional y planetario se combinan mediciones satelitales de luz con modelos fotosintéticos. Dos tipos de modelos son comúnmente utilizados: los de tipo ¿hoja grande¿ (HG) y los de ¿eficiencia de conversión de luz en biomasa¿ (ECLB), pero, ambos grupos de modelos tienen importantes limitaciones que nos impiden tener estimativos más precisos de la fotosíntesis global. Por un lado, los modelos HG están basados en suposiciones de costo-beneficio incorrectas mientras que los modelos ECLB son empíricos y difíciles de parametrizar. En ambos casos, éstas limitaciones son un reflejo de nuestra comprensión incompleta de los principios que rigen la organización de las plantas. Propuestas teóricas y algunas observaciones sugieren que las plantas deberían estar organizadas para maximizar la eficiencia fotosintética del uso de la luz (εmax) mediante un mecanismo de coordinación entre la fisiología y el ángulo de inclinación de las hojas. De ser cierto, εmax tendría el potencial de unificar y mejorar sustancialmente los modelos fotosintéticos existentes. Sin embargo, este principio de optimización ha sido muy poco estudiado. Por ende, nuestro objetivo es realizar experimentos para demostrar que las plantas 1) optimizan εmax a nivel de las hojas y 2) que esta optimización es posible gracias a mecanismos de coordinación entre el ángulo y la fisiología de las hojas. Proponemos hacer dos experimentos con 6 especies de árboles de bosques montanos Colombianos. Primero, crearemos un gradiente de disponibilidad de luz, desde 1% hasta 100%, con 10 niveles de disponibilidad y 5 individuos por nivel. Mediremos la luz incidente sobre la superficie adaxial de las hojas, el ángulo de inclinación, curvas fotosintéticas de respuesta a la luz e importantes rasgos funcionales de las hojas y de las plantas. El segundo experimento consistirá en exponer plantas a distribuciones sub-óptimas de luz, generando compromisos que alterarán la respuesta natural del mecanismo de coordinación de las hojas. Anticipamos que los resultados de ambos experimentos nos permitirán proponer un nuevo paradigma sobre la organización de las plantas el cual será de gran interés para la comunidad científica internacional. También proponemos utilizar estos principios de optimización para construir modelos de fotosíntesis a nivel de árboles y ecosistemas. Este estudio multidisciplinar se hará en estrecha colaboración con la Chaire Hydro-Quebec liderada por el Dr. Christian Messier (Universidad de Québec en Montreal) y con el Laboratorio de Electrónica del Centro Internacional de Física. También involucraremos y formaremos a tres estudiantes nacionales y a un estudiante internacional, quienes se familiarizarán con la teoría, los protocolos de investigación y la publicación de manuscritos científicos."
+    ]
+  }
+}

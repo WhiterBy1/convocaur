@@ -1,0 +1,48 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/oscar-armando-mejia-delgado",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia",
+  "email": "oscar.mejiad@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n4012/Mej%C3%ADa+Delgado%2C+Oscar+Armando.jpg",
+  "afiliaciones": [
+    "Profesor de docencia - Escuela de Administración - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Cambio estratégico",
+    "Transformación digital"
+  ],
+  "formacion_academica": [
+    "2006, Profesional en Mercadeo, Fundacion Universidad de Bogotá Jorge Tadeo Lozano - Bogotá",
+    "2012, Magíster en Dirección y Gerencia de Empresas, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2022, Doctor en Administración, Universidad de Celaya"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estructuración de un modelo de gestión eficiente para AJ Colombia SAS"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Plan de mejoramiento a la Supply Chain de BCD TRAVEL Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Plan de mejoramiento productivo para Casa de Banquetes AOC"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Reestructuración organizacional de Icufiño Creative Solutions S.A.S., una PYME colombiana"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2018"
+    }
+  ],
+  "id": "oscar-armando-mejia-delgado",
+  "facultad_csv": "Escuela de Administración",
+  "cargo_csv": "Profesor de docencia"
+}

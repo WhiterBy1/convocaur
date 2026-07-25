@@ -1,0 +1,37 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jose-francisco-rodriguez-latorre",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra",
+  "email": "josef.rodriguez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n17686/francisco_latorre.jpg",
+  "afiliaciones": [
+    "Profesor cátedra - Escuela de Estudios Sociales, Políticos e Internacionales - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Estilos argumentativos",
+    "Filosofía"
+  ],
+  "formacion_academica": [
+    "1988, Filosofo, Universidad Nacional de Colombia - Bogotá D.C.",
+    "1989, Magíster en Filosofía, Universidad Nacional de Colombia - Bogotá D.C."
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Conveniencia de mayor tiempo de estudio en el rea de cirugía general y especialidades quirúrgicas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El autoconocimiento como herramienta del aprendizaje. La inteligencia aplicada a la educación"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación continua y por resultados en la facultad de ingeniería de la universidad de San Buenaventura"
+    }
+  ],
+  "id": "jose-francisco-rodriguez-latorre",
+  "facultad_csv": "Escuela de Estudios Sociales, Políticos e Internacionales",
+  "cargo_csv": "Profesor cátedra"
+}

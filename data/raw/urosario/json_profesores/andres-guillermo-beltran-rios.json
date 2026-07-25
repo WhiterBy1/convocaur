@@ -1,0 +1,32 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/andres-guillermo-beltran-rios",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "andresg.beltran@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100171"
+  },
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100171"
+    ]
+  },
+  "id": "andres-guillermo-beltran-rios",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100171",
+    "cod_rh": "0002100171",
+    "datos_generales": {
+      "Nombre": "Andres Beltran Rios",
+      "Nombre en citaciones": "BELTRAN RIOS , ANDRES",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    }
+  }
+}

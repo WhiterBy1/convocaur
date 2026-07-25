@@ -1,0 +1,38 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jovelyn-ferrer-garcia",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "jovelyn.ferrer@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n9222/ferrer+jovelyn.jpeg",
+  "afiliaciones": [
+    "Profesor principal de carrera - Escuela de Administración - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57997555000",
+    "google_scholar": "https://scholar.google.com/citations?user=tdMouiUAAAAJ&hl",
+    "orcid": "https://orcid.org/0009-0000-3185-3864"
+  },
+  "areas_investigacion": [
+    "Asset pricing",
+    "Corporate finance",
+    "Sustainability"
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/jovelyn-ferrer-02161984fed/"
+    ],
+    "orcid": [
+      "https://orcid.org/0009-0000-3185-3864"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=tdMouiUAAAAJ&hl"
+    ],
+    "scopus_id": [
+      "57997555000"
+    ]
+  },
+  "id": "jovelyn-ferrer-garcia",
+  "facultad_csv": "Escuela de Administración",
+  "cargo_csv": "Profesor principal de carrera"
+}

@@ -1,0 +1,673 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/juan-carlos-de-leon-guerrero-bernal",
+  "nombre": "Juan-Carlos Guerrero-Bernal",
+  "cargo_principal": "Profesor asociado de carrera",
+  "email": "juan.guerrero@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3736",
+  "imagen": "https://research-hub.urosario.edu.co/file/n12188/Guerrero.jpg",
+  "afiliaciones": [
+    "Profesor asociado de carrera - Escuela de Estudios Sociales, Políticos e Internacionales - Universidad del Rosario",
+    "Investigador - Grupo de Investigación de Estudios Políticos e Internacionales - Universidad del Rosario",
+    "Director - Observatorio de Redes y Acción Colectiva (ORAC)  - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=X7ATO5EAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/c31f5849-f5da-457a-ab1a-3f926a3d2b86",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000889466",
+    "orcid": "http://orcid.org/0000-0003-2505-4518"
+  },
+  "areas_investigacion": [
+    "Activismo político transnacional",
+    "Sociedad civil",
+    "Sociología de los problemas públicos"
+  ],
+  "perfil_profesional": "Associate professor, director of the Observatory of Networks and Collective Action (ORAC) and director of postgraduate courses at the Faculty of International, Political and Urban Studies. Obtained a master’s degree in Analysis of Contemporary Political, Economic and International Problems from the Institute of Higher Studies for Development (IAED) in 1997, and then a master’s degree in Political Studies from the Institute of Political Studies (IEP) in Paris in 1999. Later on, he obtained a PhD in Sociology from the School of Higher Studies in Social Sciences (EHESS) in Paris in 2010. His doctoral thesis dwelled on the formation vectors of international audiences that have been affected by the consequences of the Colombian armed conflict. Before working in the Universidad del Rosario, he was a professor at the Institute of Advanced Studies for Latin America (IHEAL) of the Sorbonne-Nouvelle University, at the Institute of Political Studies (IEP) in Paris, and at the Universidad Externado of Colombia. He has also been visiting professor at the School of Higher Studies in Social Sciences (EHESS) in Paris and at the Lumière Lyon II University. On the other hand, since its creation, he has participated in the JANUS Group for Interdisciplinary Studies on Peace, Conflict and Post-conflict of the Universidad del Rosario. He has also collaborated with the Pragmatic and Reflective Sociology Group (GSPR) of the School of Higher Studies in Social Sciences for several years, on the development of computer tools for the qualitative and quantitative analysis of texts. Currently, his academic and research work focuses on issues related with transnational political activism, democracy, social movements, and collective action in post-conflict and armed conflict settings. He is also interested in the study of the configuration of public problems on a national and international scale. His research has been carried out with an interdisciplinary approach, especially one that looks for points of intersection between International Relations, Political Science, Sociology and Digital Humanities.",
+  "formacion_academica": [
+    "1994, Finanzas y Relaciones Internacionales, Universidad Externado de Colombia - Bogotá D.C.",
+    "1997, Maestría en Análisis de Problemas Políticos, Económicos e Internacionales Contemporáneos, Universidad Externado de Colombia - Bogotá D.C.",
+    "1999, Magíster de Investigación en Ciencia Política, Institut Detudes Politiques de Paris",
+    "2010, Doctor en Sociología, Ecole des Hautes Etudes en Sciences Sociales"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "La puesta en relato de la violencia bipartidista colombiana en la prensa extranjera",
+      "fecha": "2022-12-1",
+      "enlace": "https://doi.org/10.15446/anpol.v35n105.107750"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Using GIS to Estimate Population at Risk Because of Residence Proximity to Asbestos Processing Facilities in Colombia",
+      "fecha": "2021-12-17",
+      "enlace": "https://doi.org/10.3390/ijerph182413297"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Protesta social, la otra cara de Colombia",
+      "fecha": "2021-10-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F95e50d30-2515-4802-bc95-3dd5195bd338"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La política local en Riosucio (Chocó): ¿un caso de autoritarismo subnacional?",
+      "fecha": "2017-7-1",
+      "enlace": "https://doi.org/10.7440/colombiaint91.2017.02"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Transformar a los espectadores en un público: un desafío en las campañas transnacionales de defensa de una causa",
+      "fecha": "2012-12-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3b703780-25c5-4367-a638-642a12fde4ee"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Pauvreté et clientélisme électoral en Colombie",
+      "fecha": "2012-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/b34e9824-aa4e-4a6b-99a8-6a3408f4bcca"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La justicia, la crítica y la justificación. Un análisis desde la perspectiva de la sociología pragmática",
+      "fecha": "2011-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F10bc1b6b-4374-4397-95df-27ee5664f90f"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La fixation progressive d'une représentation floue de la violence colombienne sur la scène médiatique internationale",
+      "fecha": "2006-1-1",
+      "enlace": "https://doi.org/10.4267/2042/24071"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "El ecofeminismo en Colombia. Una aproximación a la construcción colectiva de conocimiento",
+      "fecha": "2022-11-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F914842a7-4fc1-4df6-ae3d-0470f9a43f06"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Problemas públicos. Controversias y aportes contemporáneos. Estudio introductorio",
+      "fecha": "2018-7-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e7e881db-444b-479c-9687-dcb3d966e878"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "El desplazamiento forzado en Colombia: un fenómeno imperceptible transformado en problema público",
+      "fecha": "2018-6-29",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9e5caa7f-dabd-4853-a09c-f30bf42f9211"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Procesos de democratización en el Bajo Atrato colombiano: una mirada desde los intersticios entre lo social y lo político",
+      "fecha": "2015-4-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/a11b22d1-acb7-441c-bdbe-417ca72441e0"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "El análisis cualitativo de textos asistido por computador.",
+      "fecha": "2013-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/f024c242-9876-40da-bdf4-92ac6f41c16e"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Asbesto: ¿un peligro silencioso? Parte 2: Intentos de prohibición del uso de asbesto en Colombia",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.48713/10336_38264"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Adapter Prospéro à l'analyse de corpus en espagnol",
+      "fecha": "2012-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/adbf4fe4-01ea-413e-997b-5a4b61a39d24"
+    }
+  ],
+  "total_publicaciones": 15,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Perfil Nacional del Asbesto - Retos y recomendaciones de política pública para mitigar los riesgos asociados al legado negativo del asbesto, a partir del dimensionamiento del problema en Colombia",
+      "fecha": "2020-02-01 - 2022-07-31",
+      "enlace": "https://research-hub.urosario.edu.co/display/a6cb7ab8-50bb-4a89-9a47-6a2786f987da"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Hacer política en tiempos de paz. Los casos de la SNSM, el Chocó y la ciudad de Bogotá, en el post-conflicto",
+      "fecha": "2017-05-01 - 2019-07-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4ca46a0a-63c6-49ec-a347-6da50e654195"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Reivindicaciones étnico-territoriales, élites políticas locales y elecciones. Una mirada alternativa a los procesos de democratización en Colombia",
+      "fecha": "2014-05-01 - 2015-05-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1f07db1d-10c0-442c-845e-a9262085b510"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Modernización tecnológica de la investigación en Ciencia Política",
+      "fecha": "2012-05-01 - 2014-09-15",
+      "enlace": "https://research-hub.urosario.edu.co/display/be89133e-6ef6-45ef-8d4a-fb3f980ae45c"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Motivos y causas de las movilizaciones contra el secuestro en Colombia",
+      "fecha": "2012-07-01 - 2013-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F079a28a8-d0ed-4f88-a2a5-0e2add4c17a2"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Dinámicas y militantes de la movilización internacional: de los contextos locales a las arenas cosmopolitas. El caso colombiano",
+      "fecha": "2009-02-01 - 2012-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F172fd945-189c-4c29-9497-548d2106fdbf"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Acción colectiva y élites políticas en el ámbito local. Una perspectiva comparada sobre algunos procesos de democratización en Colombia y México",
+      "fecha": "2011-07-01 - 2012-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/f834208f-9d0b-4e6e-8ba5-e45973fddc2c"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "OBSERVATORIO DE REDES Y ACCIÓN COLECTIVA – ORAC.",
+      "fecha": "2016-03-01 -",
+      "enlace": "https://research-hub.urosario.edu.co/display/edd12f6d-5068-4dac-b2ef-99d9f3ef8307"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Acción de organizaciones no gubernamentales frente a las semillas genéticamente modificadas en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis de la incidencia de las redes sociales en la construcción de un movimiento. La Ola Verde en las elecciones presidenciales de 2010"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis del contexto de oportunidades y restricciones políticas bajo el cual se ha llevado a cabo la movilización del pueblo Mapuche en Chile (2000-2010)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis del rol de las ONG como voceras en la escena internacional de las víctimas del conflicto armado en Colombia. Estudio de caso: Comunidad de Paz de San José de Apartadó ante el sistema interamericano de derechos humanos. Período 1997-2011"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis sobre la visibilización mediática y procesos de judicialización de la situación de la Comunidad de Paz de San José de Apartadó: 1997-2010"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "De la socialización política a la identidad política : un análisis de las FARC"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El papel de los ciudadanos y periodistas en la co-construcción de un problema público: el caso del desbordamiento de la quebrada La Lata en Santa Marta (2010-2011)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El uso de las redes sociales transnacionales en el norte de África, como herramienta de movilización socio política. Análisis del caso de Egipto entre diciembre de 2010 y febrero de 2011."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estrategias de las redes transnacionales de defensa. El caso del pueblo indígena Mapuche frente a la contrucción hidroeléctrica Ralco en Chile (1996 - 2000)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Factores desencadenantes de las diplomacias paralelas : caso de estudio, Programa de Desarrollo y Paz del Magdalena Medio"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Formas de solidaridad internacional de las ONG OXFAM GB y Caritas Española con el proceso de resistencia civil de la comunidad de paz San Francisco de Asís. Periodo 1997- 2002."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Génesis y evolución del proceso reivindicativo de las comunidades negras del Medio Atrato (1982-2001)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Incidencia del frente Polisario en la búsqueda del reconocimiento internacional del Sahara Occidental"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La incidencia del Movimiento de los Indignados de España en el surgimiento de Occupy Wall Street en Estados Unidos como movimientos transnacionales"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La transnacionalización de la movilización social de Túnez (2010-2011)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Las reivindicaciones políticas en las redes transnacionales de apoyo en el comercio justo colombiano. estudio de caso : Coordinadora Latinoamericana y del Caribe de pequeños productores de comercio justo en el periodo (2012-2015)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Un nacionalismo más allá de las fronteras: la transnacionalización del movimiento independentista catalán"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Premio Docencia de Excelencia 'Juan Agustín Uricochea y Navarro'",
+      "fecha": "2014"
+    },
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2012"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000889466"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0003-2505-4518"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=X7ATO5EAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/c31f5849-f5da-457a-ab1a-3f926a3d2b86"
+    ]
+  },
+  "id": "juan-carlos-de-leon-guerrero-bernal",
+  "facultad_csv": "Escuela de Estudios Sociales, Políticos e Internacionales",
+  "cargo_csv": "Profesor asociado de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000889466",
+    "cod_rh": "0000889466",
+    "datos_generales": {
+      "Categoría": "Investigador Junior (IJ) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Juan Carlos Guerrero Bernal",
+      "Nombre en citaciones": "GUERRERO BERNAL, JUAN CARLOS",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Doctorado Ecoles des Hautes Etudes en Sciences Sociales Sociologia Febrerode2000 - Noviembrede 2009 Se sentir concerné par la violence en Colombie. Vecteurs et modalités de la formation d'un public international",
+      "Maestría/Magister Instituto de Estudios Politicos, Paris Ciencía Política, especialidad Relaciones Internacionales Septiembrede1997 - Septiembrede 1999 La violence colombienne sur la scène internationale: l'instabilité devenue insupportable?",
+      "Maestría/Magister Instituto De Altos Estudios Para El Desarrollo Análisis de Problemas Políticos Económico e Intern Febrerode1994 - Septiembrede 1997 La Union Europea en el mundo de la postguerra fria",
+      "Pregrado/Universitario UNIVERSIDAD EXTERNADO DE COLOMBIA FINANZAS Y RELACIONES INTERNACIONALES Enerode1989 - Febrerode 1994 N/A",
+      "Secundario Colegio San Bartolome La Merced Febrerode1981 - Noviembrede 1987"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 181 horas Semestrales Marzo de 2008 de Actual Actividades de administración - Director de unidad - Cargo: Director de la línea de investigación en \"acción colectiva y movimientos sociales\" Enero de 2011 de - Director de unidad - Cargo: Coordinador del observatorio ORAC Enero de 2010 de Actividades de docencia - Postgrado - Nombre del curso: Diferentes módulos dictados en varias temáticas, 20 Enero 2010 Noviembre 2010 - Pregrado - Nombre del curso: Teoría de las Relaciones Internacionales I (Clásicas), 55 Marzo 2008 Actividades de investigación - Investigación y Desarrollo - Titulo: Acción colectiva y élites políticas en el ámbito local. Una perspectiva comparada sobre algunos procesos de democratización en Colombia y México Junio 2011 Mayo 2012 - Investigación y Desarrollo - Titulo: Movilizaciones transnacionales de grupos étnicos: organizaciones indígenas de la Sierra Nevada de Santa Marta y comunidades afro-descendientes del Bajo y Medio Atrato Febrero 2009 Enero 2010 - Investigación y Desarrollo - Titulo: Dinámicas y militantes de la movilización internacional: de los contextos locales a las arenas cosmopolitas. El caso colombiano. Agosto 2009 - Investigación y Desarrollo - Titulo: Investigador principal Marzo 2008 - Investigación y Desarrollo - Titulo: Dinámicas del conflicto colombiano Marzo 2008 Julio 2008 - Investigación y Desarrollo - Titulo: Redes transnacionales, acción colectiva y movimientos sociales Marzo 2008",
+      "UNIVERSIDAD EXTERNADO DE COLOMBIA Dedicación: 40 horas Semanales Enero de 2007 Diciembre de 2007 Actividades de docencia - Postgrado - Nombre del curso: La violencia en Colombia y su emergencia en el espacio público mundial, 20 Febrero 2007 Mayo 2007 Actividades de investigación - Investigación y Desarrollo - Titulo: La formación de públicos internacionales concernidos por la situación de violencia en Colombia Enero 2007 Diciembre 2007",
+      "Instituto De Altos Estudios Para America Latina Dedicación: 48 horas Semanales Octubre de 2004 Julio de 2006 Actividades de administración - Miembro de consejo de centro - Cargo: Administración y docencia Octubre de 2004 Agosto de 2006 Actividades de docencia - Pregrado - Nombre del curso: Curso País Colombia, Octubre 2004 Agosto 2006 - Postgrado - Nombre del curso: Sociología del conflicto en América Latina: Movimientos sociales y Luchas armadas, Octubre 2004 Agosto 2006 - Pregrado - Nombre del curso: Seminario Grandes Problemas de América Latina, Octubre 2004 Agosto 2006 Actividades de investigación - Investigación y Desarrollo - Titulo: Tesis de doctorado sobre la formación de públicos en la escena internacional concernidos por la situación de violencia en Colombia Octubre 2004 Julio 2006",
+      "Instituto de Estudios Politicos, Paris Dedicación: 4 horas Semanales Octubre de 2003 Junio de 2006 Actividades de administración - Miembro de consejo de centro - Cargo: Coordinador de la revista de los estudiantes Octubre de 2003 Junio de 2006 Actividades de docencia - Pregrado - Nombre del curso: Sociología del conflicto en América Latina: Movimientos sociales y luchas armadas, Octubre 2003 Febrero 2006 - Postgrado - Nombre del curso: El conflicto colombiano y su emergencia en el espacio público mundial, Octubre 2003 Junio 2005",
+      "UNIVERSIDAD EXTERNADO DE COLOMBIA Dedicación: 48 horas Semanales Febrero de 1994 Septiembre de 1997 Actividades de administración - Miembro de consejo de centro - Cargo: Docente Investigador Enero de 2007 Diciembre de 2007 Actividades de docencia - Postgrado - Nombre del curso: La violencia en Colombia y su emergencia en el espacio público mundial, Enero 2007 Diciembre 2007 - Pregrado - Nombre del curso: Análisis de política internacional, Febrero 1994 Septiembre 1997 - Pregrado - Nombre del curso: Teoría de las Relaciones Internacionales I y II, Febrero 1994 Septiembre 1997 - Pregrado - Nombre del curso: Técnicas de negociación, Febrero 1994 Septiembre 1997 - Pregrado - Nombre del curso: Análisis de política exterior colombiana, Febrero 1994 Septiembre 1997 Actividades de investigación - Investigación y Desarrollo - Titulo: Investigaciones sobre conflictos armados y sobre cuestiones latinoamericanas Febrero 1994 Septiembre 1997"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas",
+      "Ciencias Sociales -- Sociología -- Sociología"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Portugués",
+        "habla": "Bueno",
+        "escribe": "Aceptable",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Aceptable",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Democracia y Sociedad, Activa: Si",
+      "Política y Dinámicas Socio- Ambientales , Activa: Si",
+      "Acción colectiva y movimientos sociales, Activa: Si",
+      "Sociología pragmática y análisis de textos asistido por computador (CAQDAS), Activa: Si",
+      "Acción colectiva y redes transnacionales, Activa: Si",
+      "Sociología de los medios de comunicación y de la acción colectiva, Activa: Si",
+      "Negociación y manejo de conflictos, Activa: No",
+      "Relaciones Hemisféricas, Activa: No",
+      "Conflicto, gobernabilidad y construcción del Estado, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Beca para cursar Maestria,Gobierno de Fancia - de 1997",
+      "Beca Eiffel,Gobierno de Fancia - de 2001",
+      "Premio Semana para becarios de Colciencias,SEMANA - de 2001"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Análisis del contexto de oportunidades y restricciones políticas bajo el cual se ha llevado a cabo la movilización del pueblo mapuche en Chile (2000-2010) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida CIENCIA POLITICA Y GOBIERNO, 2011. Dirigió como: Tutor principal, Persona(s) orientada(s): Morales Hernández Yalima Fernanda Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JUAN CARLOS GUERRERO BERNAL, La Resistencia de las comunidades locales contra acti vidades extracti vas ¿ El caso de ¿LaColosa¿ COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Conflicto Memoria y Paz, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Katharina Gehrig Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Incidencia del Frente Polisario en la búsqueda del reconocimiento internacional del Sahara Occidental COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Paez Otero Andrés Felipe Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, La transnacionalización de la movilización social de Túnez (2010-2011) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): María Alejandra Sarmiento Idrovo Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Otras Ciencias Sociales -- Ciencias Sociales, Interdisciplinaria,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JUAN CARLOS GUERRERO BERNAL, El papel de los ciudadanos y periodistas en la co-construcción de un problema público: el caso del desbordamiento de la Quebrada la lata en santa marta (2010-2011) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Manuel Escobar DiazGranados Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Acción de organizaciones no gubernamentales frente a semillas genéticamente modificadas en Colombia. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Bonilla Ulloa Naira Fernanda Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Otras Ciencias Sociales -- Ciencias Sociales, Interdisciplinaria,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Análisis de la visualización mediática y judicialización de la situación de la Comunidad de Paz de San José de Apartadó: 1997 - 2010 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida CIENCIA POLITICA Y GOBIERNO, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Lozano Bueno Margarita María Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Análisis del rol de las ONG como voceros en la escena internacional de las víctimas del conflicto armado en Colombia. Estudio de Caso: Comunidad de Paz de San José de Apartadó ante el Sistema Interamericano de Derechos Humanos. Período 199 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2011. Dirigió como: Tutor principal, Persona(s) orientada(s): Rubio Maldonado María Carolina Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Formas de solidaridad internacional de las ONG OXFAM GB y caritas Española con el proceso de resistencia civil de la comunidad de paz San Franciso de Asís. Período 1997-2002 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2011. Dirigió como: Tutor principal, Persona(s) orientada(s): Gamboa Espinosa Ivonne Johanna Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Análisis de la incidencia de las redes sociales en la construcción de un movimiento. \"La ola verde\" en las elecciones presidenciales 2010 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida CIENCIA POLITICA Y GOBIERNO, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Barrios Bernal Andrés Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, El uso de las redes sociales transnacionales en el norte de África, como herramienta de movilización sociopolítica. Análisis del caso de Egipto entre Diciembre de 2010 y febrero de 2011 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2011. Dirigió como: Tutor principal, Persona(s) orientada(s): Cristancho Mendez Melissa Andrea Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Estrategias de las redes transnacionales de defensa. El caso del pueblo indígena Mapuche frente a la construcción de la hidroeléctrica Ralco en Chile (1996- 2000). COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2011. Dirigió como: Tutor principal, Persona(s) orientada(s): Natalie Toro Pardo Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Génesis y evolución del proceso reivindicativo de las comunidades negras del Medio Atrato (1982-2001) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida CIENCIA POLITICA Y GOBIERNO, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Lady Viviana Ramos Páez Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Factores desencadenantes de las diplomacias paralelas: caso de estudio, Programa de desarrollo y paz del Magdalena Medio COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Mariana Cárdenas Jiménez Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Estudio de caso: Un nacionalismo más allá de las fronteras: la transnacionalización del movimiento independentista catalán COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Trujillo Terán Johana Alexandra Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, Las reivindicaciones políticas en las redes transnacionales de apoyo en el comercio justo colombiano. Estudio de caso: Coordinadora Latinoamericana y del Caribe de pequeños productores de comercio justo en el periodo (2012-2015) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida RELACIONES INTERNACIONALES, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Bernal Peña Paula Susana Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, De la socialización política a la identidad política: un análisis de las FARC COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Relaciones Internacionales, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Lina Marcela Gomez Nuñez Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CARLOS GUERRERO BERNAL, La incidencia transnacional del Movimiento de los Indignados en España (15-M), en las manifestaciones de Occupy Wall Street originadas en Nueva York COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Relaciones Internacionales, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Grethel Yessenia Pinzón Rivera Tutor(es)/Cotutor(es): JUAN CARLOS GUERRERO BERNAL, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: El papel de la izquierda en las movilizaciones agrarias de la última década. Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico CIENCIA POLITICA Y GOBIERNO Nombre del orientado: Tache Victorino Michael Steve Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Estudio de Caso: Participación de los pueblos indígenas latinoamericanos en redes transnacionales medioambientales. Estudio de Caso: Consejo Territorial de Cabildos de la Sierra Nevada de Santa Marta durante el período comprendido entre 1990-2014. Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico RELACIONES INTERNACIONALES Nombre del orientado: Coronell Ramírez Paola Andrea Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Diplomacia Paralela en Actores No Estatales: El Caso de Askapena, Aparato Internacional de ETA. Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico RELACIONES INTERNACIONALES Nombre del orientado: Castillo Neira Luis Felipe Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Los Medios de Comunicación (Cambio y Semana) como mecanismo de Accountability social. Un análisis del escándalo de Agro Ingreso Seguro. Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico CIENCIA POLITICA Y GOBIERNO Nombre del orientado: Velásquez Bernal Lina Marcela Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Génesis de la revolución de los pingüinos y su incidencia en la reforma educativa en Chile Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico CIENCIA POLITICA Y GOBIERNO Nombre del orientado: Alvarado Rocha Viviana Liseth Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Análisis de la relación entre la memoria colectiva, la identidad y la movilización política o social en Trujillo, Valle, período 1994-2010 Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico CIENCIA POLITICA Y GOBIERNO Nombre del orientado: Beltrán Gómez Angélica María Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: El reconocimiento de minorías étnicas en Colombia. Una aproximación a las dinámicas de la comunidad U'wa y el Estado colombiano en la óptica del multiculturalismo. (1990- 2000) Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico CIENCIA POLITICA Y GOBIERNO Nombre del orientado: Restrepo Ceballos Iris Violeta Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Construcción de identidad social en las comunidades de paz a partir de la legislación nacional. Estudio de caso: San José de Apartadó Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico CIENCIA POLITICA Y GOBIERNO Nombre del orientado: Rivera Gómez Lina María Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Análisis de la incidencia del principio de neutralidad en la conformación de las Redes Transnacionales de Defensa de las Zonas Humanitarias y de Biodiversidad de Jiguamiandó y Curvaradó, período 1997-2003 Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico RELACIONES INTERNACIONALES Nombre del orientado: Romero Ramírez Lorena Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: La transformación del Régimen de Refugio y Asilo Europeo: Una mirada a través de la migración por Asilo desde Libia 2011-2014 Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico RELACIONES INTERNACIONALES Nombre del orientado: De Reyes Lanfranco Ricardo Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JUAN CARLOS GUERRERO BERNAL, Titulo: Las reformas implementadas en Túnez de la mano del FMI y el Banco Mundial ¿Precedente de la Revolución de los Jazmines? (1997-2010) Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico RELACIONES INTERNACIONALES Nombre del orientado: Salas Danies Angie Carolina Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "consultorias": [
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: JUAN CARLOS GUERRERO BERNAL, CONTRATO DE SERVICIOS PROFESIONALES No 2021008 ENTRE LA FUNDACIÓN IDEAS PARA LA PAZ (FIP) Y EL COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO, Nombre comercial: , contrato/registro: 20212008, . En: Colombia, ,2021, 10 meses p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "ediciones_revisiones": [
+      "Producción técnica - Editoración o revisión - Libro: JUAN CARLOS GUERRERO BERNAL, Problemas públicos. Controversias y aportes contemporáneos. Estudio introductorio, Nombre comercial: , contrato/registro: , . En: México, ,2018, Fondo Editorial del Instituto Mora p.604 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Segundo Congreso Nacional de Ciencia Política Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-07-21 00:00:00.0, 2010-07-24 00:00:00.0 en BARRANQUILLA - Universidad Del Norte de Barranquilla Instituciones asociadas Nombre de la institución: Associación Colombiana de Ciencia Política Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "1 Nombre del evento: Segundo Congreso Nacional de Ciencia Política Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-07-21 00:00:00.0, 2010-07-24 00:00:00.0 en BARRANQUILLA - Universidad Del Norte de Barranquilla",
+      "Instituciones asociadas Nombre de la institución: Associación Colombiana de Ciencia Política Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "2 Nombre del evento: Primer Congreso Nacional de Ciencia Política Tipo de evento: Congreso Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad de los Andes Instituciones asociadas Nombre de la institución: Associación Colombiana de Ciencia Política Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "2 Nombre del evento: Primer Congreso Nacional de Ciencia Política Tipo de evento: Congreso Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Instituciones asociadas Nombre de la institución: Associación Colombiana de Ciencia Política Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "3 Nombre del evento: Coloquio internacional: Les formes d¿espace publics, usages et limites de la notion d'espace public en sciences sociales Tipo de evento: Congreso Ámbito: Internacional Realizado el:2001-01-01 00:00:00.0, en Paris - Ecoles des Hautes Etudes en Sciences Sociales Instituciones asociadas Nombre de la institución: Ecoles des Hautes Etudes en Sciences Sociales Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "3 Nombre del evento: Coloquio internacional: Les formes d¿espace publics, usages et limites de la notion d'espace public en sciences sociales Tipo de evento: Congreso Ámbito: Internacional Realizado el:2001-01-01 00:00:00.0, en Paris - Ecoles des Hautes Etudes en Sciences Sociales",
+      "Instituciones asociadas Nombre de la institución: Ecoles des Hautes Etudes en Sciences Sociales Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "4 Nombre del evento: 53ava Convención Anual de ISA (Power, Principles and Participation in the Global Information Age) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-04-01 00:00:00.0, 2013-04-04 00:00:00.0 en San Diego - Estados Unidos Productos asociados Nombre del producto: Ponencia presentada en las 53ava Convención anual de ISA (International Studies Association) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: International Studies Association ISA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Asistente",
+      "4 Nombre del evento: 53ava Convención Anual de ISA (Power, Principles and Participation in the Global Information Age) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-04-01 00:00:00.0, 2013-04-04 00:00:00.0 en San Diego - Estados Unidos",
+      "Productos asociados Nombre del producto: Ponencia presentada en las 53ava Convención anual de ISA (International Studies Association) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: International Studies Association ISA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Asistente",
+      "5 Nombre del evento: Segundo Congreso Red Colombiana de Relaciones Internacionales (Las Relaciones Internacionales en tiempos de crisis) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-09-28 00:00:00.0, 2011-09-30 00:00:00.0 en MANIZALES - Universidad de los Andes - Universidad Jorge Tadeo Lozano Productos asociados Nombre del producto: La transformación del espectador en público: un desafío para las campañas de sensibilización emprendidas por las redes transnacionales de defensa Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Red Colombiana de Relaciones Internaciona Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "5 Nombre del evento: Segundo Congreso Red Colombiana de Relaciones Internacionales (Las Relaciones Internacionales en tiempos de crisis) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-09-28 00:00:00.0, 2011-09-30 00:00:00.0 en MANIZALES - Universidad de los Andes - Universidad Jorge Tadeo Lozano",
+      "Productos asociados Nombre del producto: La transformación del espectador en público: un desafío para las campañas de sensibilización emprendidas por las redes transnacionales de defensa Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Red Colombiana de Relaciones Internaciona Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "6 Nombre del evento: Fourth European Congress on World and Global History (Encounters, Circulations and Conflicts) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-09-04 00:00:00.0, 2014-09-07 00:00:00.0 en Paris - Ecole Normale Supérieure Productos asociados Nombre del producto: Rise and fall of political militancy of Colombian citizens living in France during the Cold War Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: European Network in Universal and Global History Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "6 Nombre del evento: Fourth European Congress on World and Global History (Encounters, Circulations and Conflicts) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-09-04 00:00:00.0, 2014-09-07 00:00:00.0 en Paris - Ecole Normale Supérieure",
+      "Productos asociados Nombre del producto: Rise and fall of political militancy of Colombian citizens living in France during the Cold War Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: European Network in Universal and Global History Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "7 Nombre del evento: XVII Congreso Internacional de AHILA (Entre espacios: la historia latinoamericana en el contexto global) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-09-09 00:00:00.0, 2014-09-13 00:00:00.0 en Berlin - Freie Universitat Berlin Productos asociados Nombre del producto: Ascenso y caída de la militancia política de ciudadanos colombianos residentes en Francia durante la Guerra Fría Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Asociación de Historiadores Latinoamericanistas Europeos Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "7 Nombre del evento: XVII Congreso Internacional de AHILA (Entre espacios: la historia latinoamericana en el contexto global) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-09-09 00:00:00.0, 2014-09-13 00:00:00.0 en Berlin - Freie Universitat Berlin",
+      "Productos asociados Nombre del producto: Ascenso y caída de la militancia política de ciudadanos colombianos residentes en Francia durante la Guerra Fría Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Asociación de Historiadores Latinoamericanistas Europeos Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "8 Nombre del evento: 15avo encuentro anual de SASE (Society for the Advancement of Socio-Economics) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en Aix en Provence - Universidad de Aix en Provence Instituciones asociadas Nombre de la institución: Society for the Advancement of Socio-Economics Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "8 Nombre del evento: 15avo encuentro anual de SASE (Society for the Advancement of Socio-Economics) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en Aix en Provence - Universidad de Aix en Provence",
+      "Instituciones asociadas Nombre de la institución: Society for the Advancement of Socio-Economics Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "9 Nombre del evento: XXIX Congreso Latinoamericano de Sociología ALAS CHILE 2013. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-24 00:00:00.0, 2013-10-04 00:00:00.0 en Santiago de Chile - Chile Productos asociados Nombre del producto: El surgimiento del desplazamiento forzado como problema público en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Asociación Latinoamericana De Sociología Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "9 Nombre del evento: XXIX Congreso Latinoamericano de Sociología ALAS CHILE 2013. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-24 00:00:00.0, 2013-10-04 00:00:00.0 en Santiago de Chile - Chile",
+      "Productos asociados Nombre del producto: El surgimiento del desplazamiento forzado como problema público en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Asociación Latinoamericana De Sociología Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "10 Nombre del evento: Coloquio Internacional: Expériences limites, ruptures et mémoires. Dialogues avec l'Amérique latine Tipo de evento: Congreso Ámbito: Nacional Realizado el:2006-01-01 00:00:00.0, en Paris - Escuela de Altos Estudios en Ciencias Sociales de París Instituciones asociadas Nombre de la institución: CEMS (Centre détudes des mouvements sociaux) et EHESS-CNRS Institut Marcel Mauss Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "10 Nombre del evento: Coloquio Internacional: Expériences limites, ruptures et mémoires. Dialogues avec l'Amérique latine Tipo de evento: Congreso Ámbito: Nacional Realizado el:2006-01-01 00:00:00.0, en Paris - Escuela de Altos Estudios en Ciencias Sociales de París",
+      "Instituciones asociadas Nombre de la institución: CEMS (Centre détudes des mouvements sociaux) et EHESS-CNRS Institut Marcel Mauss Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "11 Nombre del evento: Coloquio internacional: Frente a las crisis extremas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2004-01-01 00:00:00.0, en Lille - Universidad de Lille 2 Instituciones asociadas Nombre de la institución: Centro de Estudios y de Investigaciones Administrativas, Políticas y Sociales (CERAPS), Universidad de Lille 2 Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "11 Nombre del evento: Coloquio internacional: Frente a las crisis extremas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2004-01-01 00:00:00.0, en Lille - Universidad de Lille 2",
+      "Instituciones asociadas Nombre de la institución: Centro de Estudios y de Investigaciones Administrativas, Políticas y Sociales (CERAPS), Universidad de Lille 2 Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "12 Nombre del evento: Cuarto Congreso Europeo de Especialistas en América Latina (CEISAL) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2004-01-01 00:00:00.0, en Bratislava - Universidad de Economía de Bratislava Instituciones asociadas Nombre de la institución: CEISAL (Consejo Europeo de Investigaciones Sociales sobre América Latina) y Universidad de Economía de Bratislava Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "12 Nombre del evento: Cuarto Congreso Europeo de Especialistas en América Latina (CEISAL) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2004-01-01 00:00:00.0, en Bratislava - Universidad de Economía de Bratislava",
+      "Instituciones asociadas Nombre de la institución: CEISAL (Consejo Europeo de Investigaciones Sociales sobre América Latina) y Universidad de Economía de Bratislava Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "13 Nombre del evento: Tercer Congreso Europeo de Especialistas en América Latina (CEISAL) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2002-01-01 00:00:00.0, en Amsterdam - Universidad de Amsterdam Instituciones asociadas Nombre de la institución: Consejo Europeo de Investigaciones Sociales sobre América Latina (CEISAL), Asociación Neerlandesa de Estudios Latinoamericanos y del Caribe (NALACS) Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "13 Nombre del evento: Tercer Congreso Europeo de Especialistas en América Latina (CEISAL) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2002-01-01 00:00:00.0, en Amsterdam - Universidad de Amsterdam",
+      "Instituciones asociadas Nombre de la institución: Consejo Europeo de Investigaciones Sociales sobre América Latina (CEISAL), Asociación Neerlandesa de Estudios Latinoamericanos y del Caribe (NALACS) Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "14 Nombre del evento: Seminario \"Sociologie des alertes et des controverses\" Tipo de evento: Seminario Ámbito: Internacional Realizado el:2009-12-08 00:00:00.0, 2009-12-18 00:00:00.0 en Paris - 190-198 avenue de France 75244 Productos asociados Nombre del producto: Violence, politique et démocratie participative en Colombie Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "14 Nombre del evento: Seminario \"Sociologie des alertes et des controverses\" Tipo de evento: Seminario Ámbito: Internacional Realizado el:2009-12-08 00:00:00.0, 2009-12-18 00:00:00.0 en Paris - 190-198 avenue de France 75244",
+      "Productos asociados Nombre del producto: Violence, politique et démocratie participative en Colombie Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "15 Nombre del evento: III Congreso de la Red Colombiana de Relaciones Internacionales (Relaciones Internacionales entre la tradición y la vanguardia) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2014-02-27 00:00:00.0, 2014-02-28 00:00:00.0 en Madrid - Universidad EAFIT Productos asociados Nombre del producto: La tradición liberal: Immanuel Kant Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Red Colombiana de Relaciones Internaciona Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "15 Nombre del evento: III Congreso de la Red Colombiana de Relaciones Internacionales (Relaciones Internacionales entre la tradición y la vanguardia) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2014-02-27 00:00:00.0, 2014-02-28 00:00:00.0 en Madrid - Universidad EAFIT",
+      "Productos asociados Nombre del producto: La tradición liberal: Immanuel Kant Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Red Colombiana de Relaciones Internaciona Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "16 Nombre del evento: XXX Congreso Internacional de LASA (Toward a Third Century of Independence in Latin America) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-05-23 00:00:00.0, 2012-05-26 00:00:00.0 en San Francisco - Estados Unidos Productos asociados Nombre del producto: La emergencia de un público \"cívico-político\" a partir de un público \"mediático\": el caso de la militancia transnacional de los comités para la liberación de Ingrid Betancourt Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Latin America Studies Association Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Asistente",
+      "16 Nombre del evento: XXX Congreso Internacional de LASA (Toward a Third Century of Independence in Latin America) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-05-23 00:00:00.0, 2012-05-26 00:00:00.0 en San Francisco - Estados Unidos",
+      "Productos asociados Nombre del producto: La emergencia de un público \"cívico-político\" a partir de un público \"mediático\": el caso de la militancia transnacional de los comités para la liberación de Ingrid Betancourt Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Latin America Studies Association Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Asistente",
+      "17 Nombre del evento: Second ISA Forum of Sociology (Social Justice and Democratization) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-08-01 00:00:00.0, en Buenos Aires - Universidad de Buenos Aires Productos asociados Nombre del producto: Ponencia presentada en el Segundo Foro de Sociología de ISA (International Sociological Association) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Asistente",
+      "17 Nombre del evento: Second ISA Forum of Sociology (Social Justice and Democratization) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-08-01 00:00:00.0, en Buenos Aires - Universidad de Buenos Aires",
+      "Productos asociados Nombre del producto: Ponencia presentada en el Segundo Foro de Sociología de ISA (International Sociological Association) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Asistente",
+      "18 Nombre del evento: XXVII Congreso Internacional de LASA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-09-05 00:00:00.0, 2007-09-08 00:00:00.0 en Montréal - Canadá Instituciones asociadas Nombre de la institución: Latin America Studies Association Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "18 Nombre del evento: XXVII Congreso Internacional de LASA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-09-05 00:00:00.0, 2007-09-08 00:00:00.0 en Montréal - Canadá",
+      "Instituciones asociadas Nombre de la institución: Latin America Studies Association Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "19 Nombre del evento: XXIV Congreso Internacional de LASA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en Dallas - Instituciones asociadas Nombre de la institución: Latin America Studies Association Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "19 Nombre del evento: XXIV Congreso Internacional de LASA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en Dallas -",
+      "Instituciones asociadas Nombre de la institución: Latin America Studies Association Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador",
+      "20 Nombre del evento: IV Congreso Nacional de Ciencia Política ACCPOL 2016 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-09-21 00:00:00.0, 2016-09-23 00:00:00.0 en BOGOTÁ, D.C. - Universidad Javeriana Productos asociados Nombre del producto: Que esos voticos, no se me vayan a embolatar. Una etnografía electoral del Bajo Atrato colombiano Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "20 Nombre del evento: IV Congreso Nacional de Ciencia Política ACCPOL 2016 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-09-21 00:00:00.0, 2016-09-23 00:00:00.0 en BOGOTÁ, D.C. - Universidad Javeriana",
+      "Productos asociados Nombre del producto: Que esos voticos, no se me vayan a embolatar. Una etnografía electoral del Bajo Atrato colombiano Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "21 Nombre del evento: IV Congreso Nacional de Ciencia Política ACCPOL 2016. ¿Democracia, Construcción de Paz y Procesos Constituyentes Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-09-21 00:00:00.0, 2016-09-23 00:00:00.0 en BOGOTÁ, D.C. - Universidad javeriana Productos asociados Nombre del producto: Acción colectiva y élites políticas en el ámbito local Tipo de producto: Producción técnica - Presentación de trabajo - Otro Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "21 Nombre del evento: IV Congreso Nacional de Ciencia Política ACCPOL 2016. ¿Democracia, Construcción de Paz y Procesos Constituyentes Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-09-21 00:00:00.0, 2016-09-23 00:00:00.0 en BOGOTÁ, D.C. - Universidad javeriana",
+      "Productos asociados Nombre del producto: Acción colectiva y élites políticas en el ámbito local Tipo de producto: Producción técnica - Presentación de trabajo - Otro",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Ponente",
+      "22 Nombre del evento: ASBESTO: ¿UN PELIGRO SILENCIOSO? Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-09-13 00:00:00.0, 2018-09-13 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador , Ponente",
+      "22 Nombre del evento: ASBESTO: ¿UN PELIGRO SILENCIOSO? Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-09-13 00:00:00.0, 2018-09-13 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CARLOS GUERRERO BERNAL Rol en el evento: Organizador , Ponente"
+    ],
+    "fortalecimiento_o_soluci_n_de_asuntos_de_inter_s_social": [
+      "Apropiación social del conocimiento - Proceso de Apropiación Social del Conocimiento para el fortalecimiento o solución de asuntos de interés social: Nombre del producto: Semillero Acción Colectiva, Democracia Participativa y Problemas Públicos, Fecha de presentación: 2016 - Abril, Medio de verificación: https://pure.urosario.edu.co/es/organisations/collective-action-participatory-democracy-and-public-p, Licencia creative: Atribución-No Comercial, Formato: MS Excel (.xls/.xlsx), Proyecto vinculado: Observatorio de Redes y Acción Colectiva ORAC",
+      "Apropiación social del conocimiento - Proceso de Apropiación Social del Conocimiento para el fortalecimiento o solución de asuntos de interés social: Nombre del producto: Observatorio de Redes y Acción Colectiva ORAC, Fecha de presentación: 2016 - Marzo, Medio de verificación: https://www.urosario.edu.co/ORAC/sobre-el-observatorio, Licencia creative: Atribución-No Comercial, Formato: MS Excel (.xls/.xlsx), Proyecto vinculado: Observatorio de Redes y Acción Colectiva ORAC"
+    ],
+    "publicaciones_editoriales_no_especializadas": [
+      "Divulgación pública de la ciencia - Publicaciones editoriales no especializadas: cartillas, manual no especializado, periódicos, revistas, boletín, etc: Nombre del producto: El paro nacional y la movilización social en Colombia, Fecha de presentación: 2021 - Diciembre, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://urosario.edu.co/sites/default/files/2023-10/movilizaciones-en-colombia.pdf, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Observatorio de Redes y Acción Colectiva ORAC",
+      "Divulgación pública de la ciencia - Publicaciones editoriales no especializadas: cartillas, manual no especializado, periódicos, revistas, boletín, etc: Nombre del producto: Protesta social, la otra cara de Colombia, Fecha de presentación: 2021 - Octubre, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://repository.urosario.edu.co/handle/10336/34954, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Democracia y sociedad"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Using GIS to Estimate Population at Risk Because of Residence Proximity to Asbestos Processing Facilities in Colombia\" . En: Suiza INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH ISSN: 1660-4601 ed: Multidisciplinary Digital Publishing Institute (MDPI) v. 18 fasc. 24 p.1 - 17 ,2021, DOI: 10.3390/ijerph182413297",
+        "titulo": "Using GIS to Estimate Population at Risk Because of Residence Proximity to Asbestos Processing Facilities in Colombia",
+        "doi": "10.3390/ijerph182413297",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"La puesta en relato de la violencia bipartidista colombiana en la prensa extranjera\" . En: Colombia ANALISIS POLITICO ISSN: 0121-4705 ed: Universidad Nacionalde Colombia v. 35 fasc. p.131 - 158 ,2022, DOI: 10.15446/anpol.v35n105.107750 Palabras: mediatización, Colombia, Daniel Pécaut, Violencia,",
+        "titulo": "La puesta en relato de la violencia bipartidista colombiana en la prensa extranjera",
+        "doi": "10.15446/anpol.v35n105.107750",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Yugoslavia: el agitado corazón de los Balcanes\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 1 p.109 - 187 ,1996, DOI: N/A Palabras: Yugoslavia, Guerra, Intervencion, Sectores: Educación,",
+        "titulo": "Yugoslavia: el agitado corazón de los Balcanes",
+        "doi": "N/A",
+        "anio": "1996"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, HENRY VALLEJO, \"Mercosur: lo que es y lo que quiere ser\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 2 p.165 - 228 ,1996, DOI: N/A Palabras: Mercosur, Geopolítica, Sectores: Administración pública, defensa y seguridad social - Política económica y administración pública en general,",
+        "titulo": "Mercosur: lo que es y lo que quiere ser",
+        "doi": "N/A",
+        "anio": "1996"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, ANA CECILIA MEJIA, \"Cuba: las encrucijadas de la reforma económica\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 2 p.99 - 164 ,1996, DOI: N/A Palabras: Cuba, Reforma Económica, Sectores: Educación,",
+        "titulo": "Cuba: las encrucijadas de la reforma económica",
+        "doi": "N/A",
+        "anio": "1996"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, CARLA MENZA, JAIRO ANDRES PAREDES CAMPANA, LUZ MARIA RAMIREZ, HENRY VALLEJO, \"Política exterior del Brasil: ¿un país que juega como gran potencia?\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 3 p.15 - 76 ,1998, DOI: N/A Palabras: Brasil, Política Exterior, Sectores: Administración pública, defensa y seguridad social - Otro,",
+        "titulo": "Política exterior del Brasil: ¿un país que juega como gran potencia?",
+        "doi": "N/A",
+        "anio": "1998"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"La Unión Europea en el mundo de la postguerra fría: ambiciones y realidades\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 3 p.75 - 226 ,1998, DOI: N/A Palabras: Unión Europea, Posguerra fría, Geopolítica, Sectores: Educación,",
+        "titulo": "La Unión Europea en el mundo de la postguerra fría: ambiciones y realidades",
+        "doi": "N/A",
+        "anio": "1998"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Las elecciones: un instrumento de reingeniería política para la solución de los conflictos de carácter intra-estatal?\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 5 p.295 - 347 ,1999, DOI: N/A Palabras: Bosnia, Elecciones, Resolución de Conflictos, Sectores: Administración pública, defensa y seguridad social - Otro,",
+        "titulo": "Las elecciones: un instrumento de reingeniería política para la solución de los conflictos de carácter intra-estatal?",
+        "doi": "N/A",
+        "anio": "1999"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Une mise en perspective historique du conflit armé colombien\" . En: Francia Visages D¿Amérique Latine ISSN: 1954-9237 ed: v. N/A fasc. 3 p.80 - 88 ,2006, DOI: N/A Palabras: Conflicto armado colombiano, Historia,",
+        "titulo": "Une mise en perspective historique du conflit armé colombien",
+        "doi": "N/A",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Las singularidades de la formación de las guerrillas colombianas\" . En: Francia Visages D¿Amérique Latine ISSN: 1954-9237 ed: v. N/A fasc. 1 p.38 - 42 ,2004, DOI: N/A Palabras: Guerrillas colombianas, Historia,",
+        "titulo": "Las singularidades de la formación de las guerrillas colombianas",
+        "doi": "N/A",
+        "anio": "2004"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, MARIA DEL MAR BERMUDEZ, \"Les élections dans les opérations internationales de pacification: un instrument de réconciliation? Une réflexion sur la Bosnie\" . En: Francia CULTURES ET CONFLITS ISSN: 1777-5345 ed: Pepper-L'Harmattan v. N/A fasc. 40 p.129 - 162 ,1999, DOI: N/A Palabras: Operaciones internacionales de pacificación, Bosnia Herzegovina, Elecciones, Sectores: Administración pública, defensa y seguridad social - Servicios colectivos prestados por la administración pública en la esfera de la seguridad y orden público, incluso defensa civil,",
+        "titulo": "Les élections dans les opérations internationales de pacification: un instrument de réconciliation? Une réflexion sur la Bosnie",
+        "doi": "N/A",
+        "anio": "1999"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, HUGO EDUARDO RAMIREZ ARCOS, \"La justicia, la crítica y la justificación. Un análisis desde la perspectiva de la sociología pragmática\" . En: Colombia REVISTA COLOMBIANA DE SOCIOLOGIA ISSN: 0120-159X ed: Universidad Nacionalde Colombia v. 34 fasc. 1 p.41 - 73 ,2011, DOI: N/A Palabras: Acción colectiva, Sociología pragmática, Justicia,",
+        "titulo": "La justicia, la crítica y la justificación. Un análisis desde la perspectiva de la sociología pragmática",
+        "doi": "N/A",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, YANN BASSET, \"Pauvreté et clientélisme électoral en Colombie\" . En: Francia Ceriscope ISSN: 2115-4856 ed: v. 1 fasc. N/A p.1 - 6 ,2012, DOI: N/A",
+        "titulo": "Pauvreté et clientélisme électoral en Colombie",
+        "doi": "N/A",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"La fixation progressive d'une représentation floue de la violence colombienne sur la scène médiatique internationale\" . En: No Aplica HERMES ISSN: 1963-1006 ed: Cnrs Editions v. N/A fasc. 46 p.169 - 178 ,2006, DOI: 10.4267/2042/24071 Palabras: Violencia colombiana, Escena mediática internacional, Mediatización internacional, Acontecimientos mediáticos, Visibilidad internacional conflictos armados, Sectores: Administración pública, defensa y seguridad social - Otro,",
+        "titulo": "La fixation progressive d'une représentation floue de la violence colombienne sur la scène médiatique internationale",
+        "doi": "10.4267/2042/24071",
+        "anio": "2042"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Transformar a los espectadores en un público: un desafío en las campañas transnacionales de defensa de una causa\" . En: Colombia COLOMBIA INTERNACIONAL ISSN: 0121-5612 ed: Universidad De Los Andes Colombia v. N/A fasc. 76 p.195 - 228 ,2012, DOI: N/A Palabras: Activismo Político Transnacional, Espectadores distantes, Público internacional, Violencia colombiana, Francia,",
+        "titulo": "Transformar a los espectadores en un público: un desafío en las campañas transnacionales de defensa de una causa",
+        "doi": "N/A",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"El conflicto de Bosnia-Herzegovina y el acuerdo de Dayton: un análisis a partir de la escuela estructural de la negociación\" . En: Colombia ANALISIS POLITICO ISSN: 0121-4705 ed: Universidad Nacionalde Colombia v. N/A fasc. 36 p.21 - 38 ,1999, DOI: N/A Palabras: Conflicto Bosnia - Herzegovina, Acuerdo de Dayton, Negociación, Sectores: Educación,",
+        "titulo": "El conflicto de Bosnia-Herzegovina y el acuerdo de Dayton: un análisis a partir de la escuela estructural de la negociación",
+        "doi": "N/A",
+        "anio": "1999"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, JUAN PABLO ESPINOZA ARANGO, CARLOS ALBERTO FLOREZ, ALEJANDRO SANCHEZ, CARLOS CARBONELL, \"El retorno de los nacionalismos?\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 1 p.59 - 107 ,1996, DOI: N/A Palabras: Nacionalismo,",
+        "titulo": "El retorno de los nacionalismos?",
+        "doi": "N/A",
+        "anio": "1996"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, CARLA MENZA, CARLOS CARBONELL, NICOLAS CAMACHO, SILVIA JULIANA MERA, CLARA MARCELA VEGA, HILDEBRANDO SUESCUN, MARIA TERESA CASTILLO, CLAUDIA NAVARRO, TATIANA LOW, \"Rusia: ¿De potencia mundial a potencia regional?\" . En: Colombia OASIS OBSERVATORIO DE ANALISIS DE LOS SISTEMAS INTERNACIONALES ISSN: 1657-7558 ed: v. N/A fasc. 2 p.99 - 164 ,1996, DOI: N/A Palabras: Geopolítica, Posguerra fría, Rusia,",
+        "titulo": "Rusia: ¿De potencia mundial a potencia regional?",
+        "doi": "N/A",
+        "anio": "1996"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Nacionalismo, populismo y militarismo\" . En: Colombia HISTORIA CRITICA ISSN: 0121-1617 ed: UNIV ANDES v. N/A fasc. 13 p.60 - 67 ,1996, DOI: N/A Palabras: Nacionalismo, Populismo, Militarismo, América Latina, Sectores: Educación,",
+        "titulo": "Nacionalismo, populismo y militarismo",
+        "doi": "N/A",
+        "anio": "1996"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, \"Nuevos movimientos sociales: democracia participativa y acción social al final del milenio\" . En: Colombia COLOMBIA INTERNACIONAL ISSN: 0121-5612 ed: Universidad De Los Andes Colombia v. N/A fasc. 34 p.18 - 25 ,1996, DOI: N/A Palabras: Democrácia, Nuevos Movimientos Sociales, Sectores: Administración pública, defensa y seguridad social - Otro,",
+        "titulo": "Nuevos movimientos sociales: democracia participativa y acción social al final del milenio",
+        "doi": "N/A",
+        "anio": "1996"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CARLOS GUERRERO BERNAL, YANN BASSET, KAREN NATHALIA CERON STEEVENS, \"La política local en Riosucio (Chocó): ¿un caso de autoritarismo subnacional?\" . En: Colombia COLOMBIA INTERNACIONAL ISSN: 0121-5612 ed: Universidad De Los Andes Colombia v. 91 fasc. p.45 - 83 ,2017, DOI: https://dx.doi.org/10.7440/colombiaint91.2017.02",
+        "titulo": "La política local en Riosucio (Chocó): ¿un caso de autoritarismo subnacional?",
+        "doi": "https://dx.doi.org/10.7440/colombiaint91.2017.02",
+        "anio": "2017"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Libro resultado de investigación: JUAN CARLOS GUERRERO BERNAL, CLAUDIA BARRIL, MARION CARREL, ALICIA MARQUEZ, \"Le Public En Action. Usages Et Limites De La Notion D'Espace Public En Sciences Sociales\" En: Francia 2003. ed:L' Harmattan ISBN: 2747544265 v. pags. Palabras: Espacio público, Ciencias sociales, Areas: Ciencias Sociales -- Sociología -- Sociología,"
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro JUAN CARLOS GUERRERO BERNAL, \"El análisis cualitativo de textos asistido por computador\" Cultura De La Investigación Para Los Estudios Urbanos, Políticos E Internacionales . En: Colombia ISBN: 978-958-738-292-1 ed: Editorial Universidad del Rosario , v. , p.327 - 349 N/A ,2013 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro JUAN CARLOS GUERRERO BERNAL, Tipo: Capítulo de libro LUISA FERNANDA TRUJILLO PAREDES, Tipo: Capítulo de libro PEDRO NEL ROJAS OLIVEROS, Tipo: Capítulo de libro KAREN NATHALIA CERON STEEVENS, \"Procesos de democratización en el Bajo Atrato colombiano: una mirada desde los intersticios entre lo social y lo político\" Procesos Democráticos En Contextos De Violencia: México Y Colombia . En: Colombia ISBN: 978-958-738-557-1 ed: , v. , p.107 - 182 II ,2015 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas, Ciencias Sociales -- Sociología -- Sociología,",
+      "Tipo: Capítulo de libro JUAN CARLOS GUERRERO BERNAL, \"Identifier et interpréter une crise extrême. La communauté internationale face au conflit armé en Colombie\" Crises Extrêmes. Face Aux Massacres, Aux Guerres Civiles Et Aux Génocides . En: Francia ISBN: 9782707149800 ed: Editions La Decouverte , v. , p.136 - 150 NA ,2006 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro JUAN CARLOS GUERRERO BERNAL, \"Impliquer un public international. Appels pour une intervention humanitaire dans le conflit colombien\" Le Public En Action. Usages Et Limites De La Notion D'Espace Public En Sciences Sociales . En: Francia ISBN: 9782747544269 ed: L' Harmattan , v. , p.91 - 113 NA ,2003 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro JUAN CARLOS GUERRERO BERNAL, Tipo: Capítulo de libro ALICIA MARQUEZ, \"Problemas públicos. Controversias y aportes contemporáneos. Estudio introductorio\" Problemas públicos. Controversias y aportes contemporáneos . En: México ISBN: 978-607-9475-92-5 ed: , v. , p.9 - 54 ,2018 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro JUAN CARLOS GUERRERO BERNAL, Tipo: Capítulo de libro KAREN NATHALIA CERON STEEVENS, \"El desplazamiento forzado en Colombia: un fenómeno imperceptible transformado en problema público\" Problemas públicos. Controversias y aportes contemporáneos . En: México ISBN: 978-607-9475-92-5 ed: , v. , p.175 - 238 ,2018 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro JUAN CARLOS GUERRERO BERNAL, Tipo: Capítulo de libro FREDDY EDUARDO CANTE MALDONADO, Tipo: Capítulo de libro TATIANA CAROLINA GOMEZ DUQUE, Tipo: Capítulo de libro JOHANA ALEXANDRA TRUJILLO TERAN, \"El ecofeminismo en Colombia. Una aproximación a la construcción colectiva de conocimiento\" Feminismo y ambiente: un campo emergente en los estudios feministas de América Latina y el Caribe . En: Colombia ISBN: 978-987-813-196-2 ed: Consejo Latinoamericano de Ciencias Sociales, Clacso , v. , p.78 - 90 ,2022 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: JUAN CARLOS GUERRERO BERNAL, \"Dos meses de paro nacional: impases y desafíos\" En: Colombia. 2020. Razon Publica. ISSN: 1657-1002 p. 1 - 2 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: JUAN CARLOS GUERRERO BERNAL, \"La hora cero del asbesto en Colombia\" En: Colombia. 2019. DIVULGACION CIENTIFICA. ISSN: 2590-924X p. 109 - 113 v.03 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: JUAN CARLOS GUERRERO BERNAL, \"Las protestas a pesar de la cuarentena\" En: Colombia. 2020. Razon Publica. ISSN: 1657-1002 p. 2 - 3 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "documentos_trabajo": [
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "JUAN CARLOS GUERRERO BERNAL, \"Adapter Prospéro à l'analyse de corpus en espagnol\" En: Colombia. 2012. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "JUAN CARLOS GUERRERO BERNAL, \"Asbesto: ¿un peligro silencioso? Parte 2: Intentos de prohibición del uso de asbesto en Colombia\" En: Colombia. 2019. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "boletines": [
+      "Producción técnica - Impresa - Boletín: JUAN CARLOS GUERRERO BERNAL, \"Formas de protesta en Colombia durante el 2017\" Fecha de presentación: 2019-09-02 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://www.urosario.edu.co/Documentos/Facultad-de-Ciencia-Politica-Gobierno-y-Relacione/Observatorios/ORAC/Boletin-Formas-de-protesta.pdf. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Impresa - Boletín: JUAN CARLOS GUERRERO BERNAL, \"Mediatización de la protesta social en Colombia durante el 2019\" Fecha de presentación: 2019-08-06 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://repository.urosario.edu.co/items/a9b13698-b6bb-4545-b581-bf8106105f7e?_ga=2.77864212.1677165219.1724259129-1133990359.1724258452. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Impresa - Boletín: JUAN CARLOS GUERRERO BERNAL, \"Mediatización de la protesta social en Colombia durante el 2020\" Fecha de presentación: 2020-05-11 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://urosario.edu.co/sites/default/files/2023-10/meditacion-de-la-protesta-social_0.pdf. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Impresa - Boletín: JUAN CARLOS GUERRERO BERNAL, \"Mediatización de la protesta social en Colombia durante el 2021\" Fecha de presentación: 2021-09-06 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://urosario.edu.co/sites/default/files/2024-01/mediatizacion-de-la-protesta-social.pdf. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Impresa - Boletín: JUAN CARLOS GUERRERO BERNAL, \"Mediatización de la protesta social en Colombia durante el 2022\" Fecha de presentación: 2022-10-04 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://urosario.edu.co/sites/default/files/2024-04/mediatizacion-FP-2022.pdf. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Impresa - Boletín: JUAN CARLOS GUERRERO BERNAL, \"Mediatización de la protesta social en Colombia durante el 2023\" Fecha de presentación: 2023-06-06 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://repository.urosario.edu.co/server/api/core/bitstreams/8399d6e6-89d2-43ed-b0bd-37baf1daae07/content?_ga=2.80248343.1677165219.1724259129-1133990359.1724258452. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "traducciones": [
+      "Producción bibliográfica - Traducciones - Artículo: JUAN CARLOS GUERRERO BERNAL, FERNANDO CUBIDES, \"Los tópicos ambientales: entre controversias y conflictos. Ecología política y sociología pragmática en Francia\" En: Colombia. 2011. REVISTA COLOMBIANA DE SOCIOLOGIA. . Idioma original: . Idioma traducción: Francés. Autor: Francis Chateauraynaud. Nombre original: Les topiques environnementales entre controverses et conflits: écologie politique et sociologie pragmatique en France. fasc. 1. v.34. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "softwares": [
+      "Producción técnica - Softwares - Computacional",
+      "JUAN CARLOS GUERRERO BERNAL, Próspero, Nombre comercial: , contrato/registro: Programa creado y desarrollado en Francia por el GSPR. En Colombia se ha realizado la traducción de los diccionarios., . En: Colombia, ,2009, . plataforma: , . ambiente: Windows, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "productos_tecnol_gicos": [
+      "Producción técnica - Productos tecnológicos - Otro: JUAN CARLOS GUERRERO BERNAL, Scripts Python para recuperación automática de textos en la WEB, Nombre comercial: , contrato/registro: , . En: Colombia, ,2010, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "informes_de_investigaci_oacuten": [
+      "Producción técnica - Informes de investigación: JUAN CARLOS GUERRERO BERNAL, Asbesto: ¿un peligro silencioso? Parte 1: La prohibición y la regulación del uso del asbesto en el mundo . En: Colombia, ,2018, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Informes de investigación: JUAN CARLOS GUERRERO BERNAL, Asbesto: ¿un peligro silencioso? Parte 2: Intentos de prohibición del uso de asbesto en Colombia . En: Colombia, ,2019, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Informes de investigación: JUAN CARLOS GUERRERO BERNAL, Asbesto: ¿un peligro silencioso? Parte 1: La prohibición y la regulación del uso del asbesto en el mundo . En: Colombia, ,2017, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Redes transnacionales, acción colectiva y movimientos sociales Inicio: Noviembre 2008 Fin: Noviembre 2009 Duración 12 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Perfil Nacional del Asbesto - Retos y recomendaciones de política pública para mitigar los riesgos asociados al legado negativo del asbesto, a partir del dimensionamiento del problema en Colombia Inicio: Febrero 2018 Fin: Diciembre 2021 Duración Resumen Los asbestos son minerales que se clasifican en dos familias, anfíboles y serpentinas. Los anfíboles incluyen 5 formas mineralógicas (amosita, actinolita, antofilita, tremolita y crocidolita), y las serpentinas incluyen el crisotilo, que es el tipo de asbesto más usado a nivel mundial [1, 2]. Por sus características fisicoquímicas el asbesto ha sido utilizado en múltiples productos y en diversos sectores productivos [3, 4]. Todos los tipos de asbesto están clasificados como cancerígenos para los humanos (i.e., Cancerígenos Tipo I) y la exposición a este material causa enfermedades que incluyen el mesotelioma, cáncer de pulmón, cáncer de laringe, cáncer de ovario y asbestosis [5]. A pesar de los efectos negativos del asbesto en la salud humana, aún se comercializa en muchos países y actualmente solo 67 países, incluyendo recientemente a Colombia, lo han prohibido [6]. En el caso colombiano, el uso del asbesto empezó en 1942 cuando la primera planta de asbesto-cemento inició operaciones en el municipio de Sibaté, Cundinamarca [7]. En Colombia el consumo de este mineral se concentra en el sector de la construcción y el sector automotriz, a lo cual se suma la presencia de una mina de asbesto del tipo crisotilo ubicada en Campamento, Antioquia [8]. A pesar de la extensa historia del uso del asbesto en Colombia, las entidades gubernamentales que deberían vigilar el uso y comercialización del mineral (Ministerio de Salud y Protección Social, Ministerio de Ambiente y Desarrollo Sostenible, Ministerio de Trabajo, Ministerio de Minas y Energía y Ministerio de Comercio, Industria y Turismo) no tienen cifras confiables sobre la incidencia de enfermedades relacionadas con el asbesto en el país, ni sobre la población en riesgo; tampoco se hace una vigilancia epidemiológica, ni existen cifras oficiales sobre el comercio del asbesto en Colombia. Es decir, el conocimiento sobre la dimensión del problema del asbesto en el país es extremadamente limitado. Por lo tanto, este proyecto responde a una necesidad urgente de que el país reconozca y dimensione el problema del asbesto a partir de un mejor conocimiento de la magnitud y las características del mercado del asbesto, de las poblaciones en riesgo y de la evidencia científica acerca de los efectos en salud que pueden estar asociados con la exposición a este mineral. Teniendo en cuenta lo anterior, la academia puede hacer un aporte a la toma de decisiones por parte de los entes estatales, mediante el desarrollo de dos dimensiones centrales que hacen parte de este proyecto: 1 - Elaborar el PNA para Colombia, el cual constituye un insumo fundamental para que el país genere políticas públicas para enfrentar el problema del asbesto que sean basadas en la evidencia. 2 - Revisar el contenido, tanto de la Ley 1968 de 2019 como de las normativas actuales en materia de salud ocupacional, para establecer, a la luz del PNA previamente elaborado, cuáles son los principales retos y desafíos que el Estado colombiano tendrá que encarar en materia de política pública relacionada con la mitigación de los riesgos asociados al asbesto. Por lo tanto, con el dimensionamiento del problema del asbesto en Colombia y la identificación de los retos del Estado en materia de política pública, este proyecto pretende brindar información y conocimiento que permita hacia el futuro proteger mejor la salud de la población en general y de los trabajadores de industrias que antes usaban asbesto.",
+      "Tipo de proyecto: Investigación y desarrollo Observatorio de Redes y Acción Colectiva ORAC Inicio: Marzo 2016 Fin: Diciembre 2021 Duración Resumen El Observatorio de Redes y Acción Colectiva (ORAC) es un grupo de trabajo académico dentro de la Facultad de Ciencia Política, Gobierno y Relaciones Internacionales de la Universidad del Rosario, dedicado a la observación tanto de diferentes formas de acción colectiva de carácter reivindicativo, como de diversas modalidades de ejercicio de la democracia participativa en Colombia.",
+      "Tipo de proyecto: Investigación y desarrollo Democracia y sociedad Inicio: Febrero 2020 Fin: Diciembre 2023 Duración Resumen La línea de investigación Democracia y Sociedad se propone analizar la democracia en un sentido amplio que abarque tanto temas institucionales (enfoque clásico sobre el Estado, el régimen o el sistema político) y actores (gobernantes, clase política, partidos, ciudadanía, etc.) como procesos políticos (políticas públicas, movilizaciones sociales y ciudadanas, integraciones entre distintos niveles territoriales, etc.). Entendemos que la democracia supone un orden político abierto que articula el ámbito del gobierno a distintas esferas de la sociedad, y que el estudio de estas articulaciones ¿no sólo a nivel nacional sino también a escala subnacional¿ es fundamental para su funcionamiento y sostenimiento. Por ello, esta línea de investigación incluye entre sus intereses las relaciones de la política con la esfera judicial, los empresarios y gremios, así como con los actores sociales en general en cuantos portadores de demandas políticas. Si bien Colombia es nuestro principal campo de estudios, nos interesa estudiarla de forma comparativa, en particular con respecto a los países vecinos de América Latina",
+      "Tipo de proyecto: Investigación y desarrollo Política y Dinámicas Socioambientales Inicio: Febrero 2020 Fin: Diciembre 2023 Duración Resumen La necesidad de la línea se justifica en, como mínimo, las siguientes cuatro razones: La evidencia cada vez más clara en la literatura y en la práctica sobre la necesidad de considerar las cuestiones ambientales como centrales para entender y transformar la mayoría de los procesos sociales, en todos los niveles de gobernanza. La existencia de un cuerpo de profesores y profesoras de planta en la Facultad, distribuido en los tres programas, que tiene las cuestiones ambientales como foco central o relevante de sus agendas de investigación, docencia y/o extensión. Este hecho es algo poco común en las facultades de ciencias sociales, en Colombia, América Latina y el mundo, lo que brinda una excelente oportunidad para destacarnos como facultad en este ámbito. La creciente demanda de los estudiantes de pregrado y posgrado por a) recibir una formación profunda y sostenida en cuestiones socio-ambientales y su relación con la política en sus diferentes niveles; y b) encontrar espacios de discusión e investigación en estos temas. La creación de un énfasis en gobernanza ambiental en el ámbito de la nueva maestría de profundización en asuntos globales y procesos políticos de la Facultad.",
+      "Tipo de proyecto: Investigación y desarrollo VA Dinámicas y militantes de la movilización internacional: de los contextos locales a las arenas cosmopolitas. El caso colombiano Inicio: Agosto 2009 Fin proyectado: Mayo 2012 Fin: Julio 2011 Duración 36 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Acción colectiva y élites políticas en el ámbito local. Una perspectiva comparada sobre algunos procesos de democratización en Colombia y México. Inicio: Junio 2011 Fin proyectado: Mayo 2012 Fin: Diciembre 2012 Duración 12 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Dinámicas y militantes de la movilización internacional: de los contextos locales a las arenas cosmopolitas. El caso colombiano Inicio: Agosto 2009 Fin: Julio 2011 Duración Resumen Este proyecto tiene como objeto de estudio central la formación de ¿causas¿ en la escena internacional. El objetivo es analizar, a partir de una serie de casos relacionados con la realidad colombiana, cómo una \"causa\", inicialmente constituida en un contexto local, puede llegar a aparecer en \"arenas cosmopolitas\" a través de movilizaciones transnacionales. El término \"causa\" es entendido aquí no solo como una reivindicación defendida o sostenida por ciertos militantes, sino también como dispositivos interpretativos que proporcionan explicaciones sobre el estado de una situación o la evolución de un proceso. Vale la pena igualmente aclarar que las movilizaciones transnacionales tratadas aquí cubren un amplio espectro de figuras posibles, desde las alertas y las denuncias clásicas, hasta las controversias y las polémicas, pasando por distintas formas de crítica. Los trabajos académicos reconocidos sobre la militancia transnacional aplicados al caso colombiano son en la actualidad prácticamente inexistentes. Este proyecto pretende precisamente darles un mayor impulso y relevancia, partiendo de investigaciones que fueron emprendidas, en el marco de diferentes tesis doctorales, por varios de los investigadores colombianos suscritos a este proyecto.",
+      "Tipo de proyecto: Investigación y desarrollo EHESS - GSPR Inicio: Agosto 2009 Duración Resumen",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Motivos y Causas de las Movilizaciones Ciudadanas contra el Secuestro en Colombia. Inicio: Enero 2011 Fin: Diciembre 2013 Duración Resumen El objetivo principal de la investigación es analizar desde una perspectiva histórica, qué acontecimientos puntuales han abierto debates sobre secuestro en Colombia, a través de los cuales se le haya conferido al fenómeno un carácter de problema público. Este proyecto de investigación se desarrolla bajo la modalidad de una beca- pasantía para financiar al joven investigador Luis Carlos Olaya bajo la dirección del tutor Juan Carlos Guerrero Bernal. Se adjuntan soportes.",
+      "Tipo de proyecto: Investigación y desarrollo Reivindicaciones étnico-territoriales, élites políticas locales y elecciones. Una mirada alternativa a los procesos de democratización en Colombia Inicio: Enero 2014 Fin: Diciembre 2017 Duración Resumen Este proyecto encuentra su justificación en la necesidad de comprender las dinámicas democráticas en Colombia en una forma más compleja y cercana al terreno de lo que propone la mirada tradicional que se limita al campo político-institucional. Así, su principal objetivo es aportar una respuesta a la pregunta de cómo y hasta qué punto actores sociales, portadores de derechos étnico-territoriales, se articulan con unas élites políticas que se disputan el poder en escenarios locales, llegando incluso, en algunas circunstancias, a competir con dichas elites en contiendas electorales. Ahora bien, más allá de la justificación académica, este proyecto también resulta pertinente en términos de la consolidación de unas agendas de investigación que serán fundamentales para la próxima puesta en marcha del Doctorado en Estudios Políticos e Internacionales, así como en términos de la profundización de vínculos y relaciones con organizaciones sociales relevantes del Bajo Atrato y de la Sierra Nevada de Santa Marta."
+    ]
+  }
+}

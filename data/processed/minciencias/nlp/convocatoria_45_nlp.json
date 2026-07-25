@@ -1,0 +1,372 @@
+{
+  "convocatoria": "45",
+  "objetivo": "Aumentar la capacidad de investigación de los Centros e Institutos de Investigación, Centros de Desarrollo Tecnológico y Centros de Ciencia, mediante el fortalecimiento de capacidades de centros existentes y la creación de nuevos centros, que presenten propuestas integrales, las cuales deben contemplar tanto el fortalecimiento institucional y de capacidades de los Centros o Institutos.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior",
+      "rol": null,
+      "condicion": "Solo podrá participar en máximo un (1) proyecto como entidad ejecutora."
+    },
+    {
+      "tipo": "Centros e Institutos de Investigación",
+      "rol": null,
+      "condicion": "Solo podrá participar en máximo un (1) proyecto como entidad ejecutora."
+    },
+    {
+      "tipo": "Centros de Desarrollo Tecnológico",
+      "rol": null,
+      "condicion": "Solo podrá participar en máximo un (1) proyecto como entidad ejecutora."
+    },
+    {
+      "tipo": "Centros de Ciencia",
+      "rol": null,
+      "condicion": "Solo podrá participar en máximo un (1) proyecto como entidad ejecutora."
+    },
+    {
+      "tipo": "Entidades Territoriales",
+      "rol": null,
+      "condicion": "Solo podrá participar en máximo un (1) proyecto como entidad ejecutora."
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento de capacidades de centros",
+      "modalidad": null,
+      "descripcion_corta": "Fortalecimiento de capacidades de Centros e Institutos de Investigación, Centros de Desarrollo Tecnológico y Centros de Ciencia existentes, independientemente de su reconocimiento vigente."
+    },
+    {
+      "nombre": "Creación de nuevos centros",
+      "modalidad": null,
+      "descripcion_corta": "Creación de nuevos Centros e Institutos de Investigación, Centros de Desarrollo Tecnológico y Centros de Ciencia."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y con la información requerida.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ser una entidad elegible: Instituciones de Educación Superior, Centros e Institutos de Investigación, Centros de Desarrollo Tecnológico, Centros de Ciencia, o Entidades Territoriales.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si es Institución de Educación Superior, contar con personería jurídica vigente expedida por el Ministerio de Educación Nacional.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Demostrar la acreditación del adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) según la metodología del DNP (última medición), salvo que no haya sido objeto de medición en los dos años anteriores.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades proponentes de manera individual podrán participar en máximo un proyecto (uno para Fortalecimiento de capacidades o uno para Creación de nuevos centros).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Una misma entidad proponente (ejecutora) solo podrá participar en máximo un proyecto como entidad ejecutora.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente individual o al menos un miembro de la alianza debe tener y vincular al proyecto al menos un grupo de investigación categoría A1, A o B, adjuntando captura de pantalla del resultado de la convocatoria vigente en GrupLAC.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar la Carta de Aval y Modelo de Gobernanza (Anexo 1) debidamente diligenciada y firmada por el representante legal o apoderado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si se presenta apoderado, anexar los documentos que lo acrediten y faculten.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Modelo de Gobernanza debe incluir: estructura de coordinación, modelo de operación formal, mecanismos de coordinación técnica y gestión de adquisiciones.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los grupos de investigación categoría A1, A o B que participen deben estar registrados en el apartado 'Grupos' del formulario SIGP y en el documento técnico (Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cada miembro de la alianza debe cuantificar y reportar su aporte de contrapartida (especie o efectivo) en la carta aval, y debe coincidir con lo reportado en el SIGP.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Documento técnico (Anexo 2) de acuerdo con el contenido indicado en el numeral 12.1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Presupuesto (Anexo 3) con las condiciones financieras, soportado por estudio de mercado con cotizaciones o acto administrativo de precios de referencia.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el proyecto de inversión formulado en la Metodología General Ajustada (MGA) WEB en borrador, Tipología D – Convocatorias CTeI del SGR.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar Certificado de no financiación con otras fuentes de recursos, suscrito por el Representante Legal de la entidad territorial del lugar de ejecución.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta Aval del Comité de Ética de la Investigación o de Bioética (si aplica), con el acto administrativo que soporta la conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe contener los componentes de Fortalecimiento de capacidades de centros y Creación de nuevos centros en el numeral 14 del documento técnico.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe impactar 6 demandas territoriales, mínimo una por cada región del SGR.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La atención a las demandas territoriales debe estar registrada en la plataforma SIGP y en el Documento Técnico (Anexo 2) numerales 1 y 8.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Garantizar la completa coherencia entre la información consignada en el SIGP y el Anexo 2 - Documento Técnico.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para proyectos en la línea temática de Fortalecimiento de capacidades: adjuntar certificado de existencia y representación legal (centro independiente) o constancia de creación (centro dependiente).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se aceptará que las firmas de los representantes legales o apoderados en la Carta de Aval vengan en hojas diferentes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La información suministrada por la entidad proponente y sus aliados debe ser veraz y corresponder a la realidad.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de garantizar la total coherencia en la información registrada en el documento y los anexos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21. CRONOGRAMA, de la presente convocatoria."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto no se encuentre en el rango señalado en los presentes términos en el numeral 14. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 10.8 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender los retos estratégicos de Ciencia, Tecnología e Innovación a través de al menos una (1) de las demandas territoriales de los departamentos (al menos 1 región del SGR) objeto del proyecto."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y MINCIENCIAS informará a las instancias administrativas y judiciales competentes sobre esta situación."
+    },
+    {
+      "texto": "Cuando una misma entidad ostente al mismo tiempo la calidad de Proponente y Beneficiario en un mismo proyecto."
+    },
+    {
+      "texto": "Cuando se identifique que el mismo proyecto ha sido presentado por diferentes entidades proponentes."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos, o no cargue de uno o más documentos o certificados exigidos en los requisitos, o cargue de documentos sin la totalidad de las firmas."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Pertinencia e impacto del proyecto al desarrollo regional y las demandas territoriales",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la articulación del proyecto con las demandas territoriales del Plan de Convocatorias 2025-2026, según pertinencia e impacto definidos en la Ley 2056 de 2020."
+    },
+    {
+      "nombre": "Calidad técnico-científica y presupuestal del proyecto",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la calidad técnico-científica del proyecto, incluyendo estado del arte, definición del problema, metodología, objetivos, actividades, recursos, cronograma y resultados esperados."
+    },
+    {
+      "nombre": "Fortalecimiento de capacidades propias en materia de CTeI",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el lugar de ejecución según IDIC 2022 y el área del conocimiento a fortalecer según clasificación OCDE."
+    },
+    {
+      "nombre": "Idoneidad y trayectoria de la entidad proponente y de los aliados",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la categoría del grupo de investigación (A1, A, B) y la tipología de la entidad proponente (IES, centros de investigación, etc.)."
+    },
+    {
+      "nombre": "Sostenibilidad social y ambiental",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estrategia de sostenibilidad del proyecto, incluyendo roles, actividades, resultados a largo plazo y fuentes de financiamiento."
+    },
+    {
+      "nombre": "Enfoque diferencial",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la integración de actores con enfoque diferencial como talento humano a vincular o población beneficiaria."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "DOSCIENTOS MIL MILLONES DE PESOS M/CTE ($200.000.000.000 COP)",
+    "monto_total_cop": 200000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2025-2026",
+    "notas": "Monto distribuido en 4 proyectos: 3 de fortalecimiento de capacidades (hasta $60.000.000.000 COP total, cada uno hasta $20.000.000.000 COP) y 1 de creación de nuevos centros ($140.000.000.000 COP)."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 392,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 306,
+          "completion_tokens": 338
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1247,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 706,
+          "completion_tokens": 1181
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1697,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 830,
+          "completion_tokens": 1054
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4400,
+          "completion_tokens": 11994
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3688,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1405,
+          "completion_tokens": 2911
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9290,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3038,
+          "completion_tokens": 807
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11573,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3666,
+          "completion_tokens": 474
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "puede_sola_o_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior",
+          "rol": null,
+          "condicion": "Solo podrá participar en máximo un (1) proyecto como entidad ejecutora."
+        }
+      ],
+      "condiciones_pendientes": [],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como entidad ejecutora en esta convocatoria. Puede presentarse de forma individual o en alianza, pero debe cumplir con condiciones como no exceder el límite de un proyecto como ejecutora y contar con un grupo de investigación de alta categoría."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "puede_sola_o_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

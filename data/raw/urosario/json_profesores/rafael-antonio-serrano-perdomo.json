@@ -1,0 +1,553 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/rafael-antonio-serrano-perdomo",
+  "nombre": "Rafael Serrano",
+  "cargo_principal": "Profesor asociado de carrera",
+  "email": "rafael.serrano@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 4135",
+  "imagen": "https://research-hub.urosario.edu.co/file/n26924/rafael+antonio+serrano.JPG",
+  "afiliaciones": [
+    "Profesor asociado de carrera - Facultad de Economía - Universidad del Rosario",
+    "Investigador - Grupo de Investigación Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=35230957200",
+    "google_scholar": "https://scholar.google.com/citations?user=aW21O0cAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/38425af9-2334-410b-ada8-67a69deb69a3",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001491279",
+    "orcid": "http://orcid.org/0000-0003-4306-0903"
+  },
+  "areas_investigacion": [
+    "Mathematical finance",
+    "Optimal control"
+  ],
+  "formacion_academica": [
+    "2003, Matemático, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2005, Magíster en Matemáticas Con Énfasis en Matemáticas Financieras, Technische Universität Kaiserslautern",
+    "2011, Doctor of Philosophy in Mathematics, University of York"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Optimal investment with insurable background risk and nonlinear portfolio allocation frictions",
+      "fecha": "2025-1-15",
+      "enlace": "https://doi.org/10.1016/j.amc.2024.129023"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Existence of optimal controls for stochastic Volterra equations",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1051/cocv/2025020"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "ALM for insurers with multiple underwriting lines and portfolio constraints: a Lagrangian duality approach",
+      "fecha": "2024-6-1",
+      "enlace": "https://doi.org/10.1007/s40314-024-02740-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Climbing the income ladder: Search and investment in a regime-switching affine income model",
+      "fecha": "2023-12-1",
+      "enlace": "https://doi.org/10.1016/j.frl.2023.104330"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Utility maximization in a multidimensional semimartingale model with nonlinear wealth dynamics",
+      "fecha": "2021-3-1",
+      "enlace": "https://doi.org/10.1007/s11579-021-00296-z"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Optimal control of investment, premium and deductible for a non-life insurance company",
+      "fecha": "2021-11-1",
+      "enlace": "https://doi.org/10.1016/j.insmatheco.2021.07.005"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "PORTFOLIO ALLOCATION in A LEVY-TYPE JUMP-DIFFUSION MODEL with NONLIFE INSURANCE RISK",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.1142/S0219024921500059"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Martingale approach to optimal portfolio-consumption problems in Markov-modulated pure-jump models",
+      "fecha": "2015-4-3",
+      "enlace": "https://doi.org/10.1080/15326349.2014.999286"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A note on space–time Hölder regularity of mild solutions to stochastic cauchy problems in Lp-spaces",
+      "fecha": "2015-11-1",
+      "enlace": "https://doi.org/10.1214/14-BJPS245"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the LP formulation in measure spaces of optimal control problems for jump-diffusions",
+      "fecha": "2015-11-1",
+      "enlace": "https://doi.org/10.1016/j.sysconle.2015.08.008"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Backward Ornstein-Uhlenbeck Transition Operators and Mild Solutions of Non-Autonomous Hamilton-Jacobi Equations in Banach Spaces",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F49623e11-a0d0-430e-90e2-d56e976e7cbd"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "An alternative proof of the Aubin-Lions lemma",
+      "fecha": "2013-9-1",
+      "enlace": "https://doi.org/10.1007/s00013-013-0552-x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Optimal relaxed control of dissipative stochastic partial differential equations in Banach spaces",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1137/100788574"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "DYNAMIC PROGRAMMING FOR STOCHASTIC TARGET PROBLEMS, VISCOSITY SOLUTIONS AND HEDGING IN MARKETS WITH PORTFOLIO CONSTRAINTS AND LARGE INVESTORS",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/f642ff78-25b7-45ab-810f-b0d65b3a9d00"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "ECUACIONES DIFERENCIALES ESTOCÁSTICAS CON CONDICIÓN FINAL Y SOLUCIONES DE VISCOSIDAD DE EDPS SEMILINEALES DE SEGUNDO ORDEN",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e6fede0d-2de8-485c-8b96-8c560d404c21"
+    }
+  ],
+  "total_publicaciones": 15,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Modelación Estocástica de mercados financieros usando procesos Markov-modulados",
+      "fecha": "2013-02-01 - 2014-10-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2c098524-df44-4a14-b116-9197b442b5e3"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Modelos estocásticos de mercados financieros con saltos que dependen de tiempos inter-arribo",
+      "fecha": "2013-01-02 - 2014-07-10",
+      "enlace": "https://research-hub.urosario.edu.co/display/db19c25f-79d8-4990-9aaf-58f5e5f2a01d"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Optimal allocation, asset-liability matching and risk control for insurers with portfolio constraint and differential rates",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F295fa532-8941-4b0f-aca6-e9e3e5f7b2f6"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Utility maximization in multi-dimensional semi-martingale setting with non-linear wealth dynamics",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F59758dc7-e580-4530-8e9b-5dc277565350"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Optimización de portafolios bajo restricciones de pérdida esperada",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F89d4032d-a6c6-4477-9937-cf43fc22ee9d"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Optimización de portafolios en modelos estocásticos en tiempo continuo con funciones de utilidad rango-dependientes",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F875b8687-6789-4965-bdb5-b91e3302717c"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Selección óptima de portafolios bajo presencia de impuestos a ganacias de capital y tasas diferenciales",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3fb786b9-0850-4b02-bf87-532aaf074741"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "An accurate heston implementation with Usd-Cop Data"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis comparativo de la rentabilidad de empresas en las zonas francas : caso colombiano"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Aplicación de support vector machine al mercado colombiano"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cobertura de riesgo de tasa de interés en cupones de tasa flotante"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Condiciones de optimalidad para portafolios de inversión con funciones de utilidad rango-dependientes"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cálculo de CVA/DVA para swaps de tasa de interés IBR : una aplicación del modelo de tasa corta de Hull-white de un factor"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Dinamica del Default en los CDS soberanos de Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estrategias óptimas de inversión y consumo en un mercado con saltos alternados dependientes de los tiempos inter-arribo"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "How does the correlation between an agent’s income and financial market impact optimal portfolio allocation?"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Job search and distribution of wealth in a model of the labor market"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelación estocástica y trading algorítmico del spread entre acciones mediante procesos de reversión a la media"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelo de cascada sigma variante para la estructura a término de tasas de interés en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelos a fínes consistentes con aplicación en riesgos de longevidad: sector asegurador colombiano"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Numerical Solutions to PDE Representations of Derivatives with Bilateral Counterparty Risk and Funding Costs"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Selección óptima de portafolio para una compañía aseguradora"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Tarifación de un seguro paramétrico de clima con aplicación al sector agrícola"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "The leveraged buyout of Dell Inc."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Un enfoque teórico en tiempo continuo para modelos de equilibrio general dinámicos estocásticos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Una aproximacion al caso Interbolsa"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Valoración de riesgo de contraparte y CVA en portafolios de derivados de tasas de interés"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Valuación de bonos catastróficos para Colombia"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001491279"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0003-4306-0903"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=aW21O0cAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/38425af9-2334-410b-ada8-67a69deb69a3"
+    ],
+    "scopus_id": [
+      "35230957200"
+    ]
+  },
+  "id": "rafael-antonio-serrano-perdomo",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor asociado de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001491279",
+    "cod_rh": "0001491279",
+    "datos_generales": {
+      "Nombre": "Rafael Antonio Serrano Perdomo",
+      "Nombre en citaciones": "SERRANO PERDOMO, RAFAEL ANTONIO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)"
+    ],
+    "formacion_academica": [
+      "Doctorado University Of York Doctorado en Matemáticas Octubrede2006 - Noviembrede 2010",
+      "Maestría/Magister Kaiserslautern University Of Technology MSc Mathematics, specialization in mathematical finance and stochastics Octubrede2003 - Septiembrede 2005 Stochastic target problems and applications in finance",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA MATEMATICAS Juliode1997 - Abrilde 2003"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración Bloomberg University Premium Training Bloomberg (UPT) Juliode2015 - Juliode 2015",
+      "Extensión University Of York PhD Mathematics Enerode2007 - Juliode 2010",
+      "Extensión Kaiserslautern University Of Technology MSc Mathematics Mayode2004 - Mayode 2004"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: horas Semanales Julio de 2012 de",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 40 horas Semanales Enero de 2011 Julio de 2012 Actividades de docencia - Postgrado - Nombre del curso: Procesos estocásticos, 0 Enero 2011 - Pregrado - Nombre del curso: Procesos estocásticos,Probabilidad y Estadística, Cálculo Integral con Ecuaciones Diferenciales y Cálculo Vectorial , 0 Enero 2011 Actividades de investigación - Investigación y Desarrollo - Titulo: Programación lineal infinito-dimensional y soluciones de viscosidad en control estocástico singular y de impulsos y sus aplicaciones en finanzas Enero 2011 - Investigación y Desarrollo - Titulo: Valoración y cobertura y optimización de portafolios en mercados basados en procesos telegráficos Enero 2011 - Investigación y Desarrollo - Titulo: Control ergódico estacionario y existencia de soluciones locales de ecuaciones de evolución estocásticas en espacios de Banach Enero 2011 - Investigación y Desarrollo - Titulo: Existencia y caracterización de controles óptimos estocásticos usando el método de los momentos Enero 2011",
+      "University Of York Dedicación: 40 horas Semanales Enero de 2007 Diciembre de 2009 Actividades de docencia - Pregrado - Nombre del curso: Probability Theory, Analysis I, Applied Mathematics, Vector Calculus, 0 Enero 2007",
+      "UNIVERSIDAD SERGIO ARBOLEDA Dedicación: 30 horas Semanales Marzo de 2006 Septiembre de 2006 Actividades de docencia - Especialización - Nombre del curso: Algebra Lineal, 0 Marzo 2006 Julio 2006 Actividades de investigación - Investigación y Desarrollo - Titulo: Organizador del seminario de investigación Modelos financieros estocásticos Marzo 2006 - Investigación y Desarrollo - Titulo: Modelación matemática de mercados financieros incompletos Marzo 2006 Septiembre 2006",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA Dedicación: 10 horas Semanales Enero de 2006 Agosto de 2006 Actividades de docencia - Pregrado - Nombre del curso: Modelos financieros, 0 Enero 2006"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Economía y Negocios -- Economía"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Economía Financiera, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Beneficiario de la beca Dorothy Hodgkin Postgraduate Award,Bp y Engineering and Physical Science Research Council - Octubrede 2006",
+      "Beneficiario del programa crédito-beca,Colfuturo - Abrilde 2004",
+      "Student Travel Award,Society for Applied and Industrial Mathematics - Diciembrede 2009",
+      "Tesis de pregrado recibe mención meritoria,UNIVERSIDAD NACIONAL DE COLOMBIA - Juniode 2003"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Job search and distribution of wealth in a model of the labor market COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Marcen Eduardo Laguna Santofimio Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAFAEL ANTONIO SERRANO PERDOMO, The Leveraged Buyout of Dell Inc. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Pregrado en Finanzas y Comercio Internacional, 2014. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Felipe Uribe Sanchez Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, La estructura a plazos del riesgo interbancario COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2014. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Guillermo Andrés Cangrejo Jiménez Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Modelación estocástica y trading algorítmico del spread entre acciones mediante procesos de reversión a la media. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Gómez Giraldo Diego Alejandro Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAFAEL ANTONIO SERRANO PERDOMO, Una aproximacion al caso Interbolsa COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Pregrado en Finanzas y Comercio Internacional, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Tautiva Rodriguez Cristian Camilo Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Cobertura de riesgo de tasa de interés en cupones de tasa flotante. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Finanzas Cuantitativas, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): David Benavides Chamorro Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Modelo de cascada sigma variante para la estructura a término de tasas de interés en Colombia. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Finanzas Cuantitativas, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): LAURA NATALIA LÓPEZ RODRÍGUEZ Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Selección óptima de portafolio para una compañı́a aseguradora. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Finanzas Cuantitativas, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Camilo Andre Castillo Tarazona Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Aplicación de support vector machine al mercado colombiano. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Finanzas Cuantitativas, 2019. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Tutor(es)/Cotutor(es): HUGO EDUARDO RAMIREZ JAIME , RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Cálculo de CVA/DVA para swaps de tasa de interés IBR: una aplicación del modelo de tasa corta de Hull-white de un factor COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Finanzas Cuantitativas, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Felipe Ramírez Amaya Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Estrategias óptimas de inversión y consumo en un mercado con saltos alternados dependientes de los tiempos inter-arribo COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrés Felipe Cárdenas Torres Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Tarifación de un seguro paramétrico de clima con aplicación al sector agrícola. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Finanzas Cuantitativas, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Ana María Jiménez Montoya Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Dinamica del Default en los CDS soberanos de Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Gerson Fabián Ruge Rodríguez Tutor(es)/Cotutor(es): CARLOS ALBERTO CASTRO IRAGORRI , RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Condiciones de optimalidad para portafolios de inversión con funciones de utilidad rango-dependientes COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Mariam Pinto Heydler Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, A segmented Nelson and Siegel model for the term structure of interest rates COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Felipe Peña Rojas Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Numerical Solutions to PDE. Representations of Derivatives with Bilateral Counterparty Risk and Funding Costs. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Finanzas Cuantitativas, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Nicolás Torres Laserna Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Valuación de bonos catastróficos para Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Natalia Carolina Rincón Jaimes Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: RAFAEL ANTONIO SERRANO PERDOMO, Un enfoque en tiempo continuo para modelos de equilibrio general dinámicos estocásticos COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida DOCTORADO EN ECONOMÍA, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): JUAN CARLOS ZAMBRANO JURADO Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Modelos afines consistentes con aplicación en riesgos de longevidad: Sector Asegurador Colombiano COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Rodrigo Andrés Cristancho Castellanos Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, Valoración de riesgo de contraparte y CVA en portafolios de derivados de tasas de interés. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Eddie Sebastián Pinto Torres Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAFAEL ANTONIO SERRANO PERDOMO, An accurate implementation of Heston stochastic volatility model with USDCOP options data. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Finanzas Cuantitativas, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Javier Jaher Alfonso Lázaro Salcedo Tutor(es)/Cotutor(es): RAFAEL ANTONIO SERRANO PERDOMO, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Mathematical Finance Seminar Tipo de evento: Seminario Ámbito: Internacional Realizado el:2005-03-15 00:00:00.0, 2005-03-18 00:00:00.0 en Kaiserslautern - Kaiserslautern Instituciones asociadas Nombre de la institución: Technische Universität Kaiserslautern Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "1 Nombre del evento: Mathematical Finance Seminar Tipo de evento: Seminario Ámbito: Internacional Realizado el:2005-03-15 00:00:00.0, 2005-03-18 00:00:00.0 en Kaiserslautern - Kaiserslautern",
+      "Instituciones asociadas Nombre de la institución: Technische Universität Kaiserslautern Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "2 Nombre del evento: Conference on Analysis of Partial Differential Equations Tipo de evento: Otro Ámbito: Nacional Realizado el:2009-12-07 00:00:00.0, 2016-12-10 00:00:00.0 en Miami - Hilton Miami Downtown Instituciones asociadas Nombre de la institución: Society for Applied and Industrial Mathematics Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "2 Nombre del evento: Conference on Analysis of Partial Differential Equations Tipo de evento: Otro Ámbito: Nacional Realizado el:2009-12-07 00:00:00.0, 2016-12-10 00:00:00.0 en Miami - Hilton Miami Downtown",
+      "Instituciones asociadas Nombre de la institución: Society for Applied and Industrial Mathematics Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "3 Nombre del evento: 2do. Encuentro Internacional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2006-08-01 00:00:00.0, 2006-08-04 00:00:00.0 en BOGOTÁ, D.C. - Bogota Instituciones asociadas Nombre de la institución: UNIVERSIDAD SERGIO ARBOLEDA Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "3 Nombre del evento: 2do. Encuentro Internacional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2006-08-01 00:00:00.0, 2006-08-04 00:00:00.0 en BOGOTÁ, D.C. - Bogota",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD SERGIO ARBOLEDA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "4 Nombre del evento: Taller en Matemáticas financieras y Finanzas computacionales Tipo de evento: Taller Ámbito: Nacional Realizado el:2011-08-02 00:00:00.0, 2011-08-05 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "4 Nombre del evento: Taller en Matemáticas financieras y Finanzas computacionales Tipo de evento: Taller Ámbito: Nacional Realizado el:2011-08-02 00:00:00.0, 2011-08-05 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "5 Nombre del evento: Stochastic Analysis and Mathematical Finance Seminar Tipo de evento: Seminario Ámbito: Nacional Realizado el:2010-01-11 00:00:00.0, 2010-01-15 00:00:00.0 en York - University of York Instituciones asociadas Nombre de la institución: University Of York Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "5 Nombre del evento: Stochastic Analysis and Mathematical Finance Seminar Tipo de evento: Seminario Ámbito: Nacional Realizado el:2010-01-11 00:00:00.0, 2010-01-15 00:00:00.0 en York - University of York",
+      "Instituciones asociadas Nombre de la institución: University Of York Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "6 Nombre del evento: British Mathematics Colloquium Tipo de evento: Seminario Ámbito: Internacional Realizado el:2010-01-21 00:00:00.0, 2010-05-05 00:00:00.0 en Edinburgh - Edinburgh Instituciones asociadas Nombre de la institución: UNIVERSITY OF EDINBURGH Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "6 Nombre del evento: British Mathematics Colloquium Tipo de evento: Seminario Ámbito: Internacional Realizado el:2010-01-21 00:00:00.0, 2010-05-05 00:00:00.0 en Edinburgh - Edinburgh",
+      "Instituciones asociadas Nombre de la institución: UNIVERSITY OF EDINBURGH Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "7 Nombre del evento: International workshop on advanced optimization Tipo de evento: Taller Ámbito: Nacional Realizado el:2006-05-03 00:00:00.0, 2016-05-12 00:00:00.0 en BOGOTÁ, D.C. - Bogota Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "7 Nombre del evento: International workshop on advanced optimization Tipo de evento: Taller Ámbito: Nacional Realizado el:2006-05-03 00:00:00.0, 2016-05-12 00:00:00.0 en BOGOTÁ, D.C. - Bogota",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "8 Nombre del evento: ITN Summer School in Stochastic Analysis Tipo de evento: Seminario Ámbito: Nacional Realizado el:2009-08-10 00:00:00.0, 2009-08-21 00:00:00.0 en Manchester - the university of manchester Instituciones asociadas Nombre de la institución: University Of Manchester Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "8 Nombre del evento: ITN Summer School in Stochastic Analysis Tipo de evento: Seminario Ámbito: Nacional Realizado el:2009-08-10 00:00:00.0, 2009-08-21 00:00:00.0 en Manchester - the university of manchester",
+      "Instituciones asociadas Nombre de la institución: University Of Manchester Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "9 Nombre del evento: Coloquio Deparmento de Matemáticas y Seminario de procesos estocásticos Tipo de evento: Seminario Ámbito: Nacional Realizado el:2011-01-24 00:00:00.0, 2011-05-18 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "9 Nombre del evento: Coloquio Deparmento de Matemáticas y Seminario de procesos estocásticos Tipo de evento: Seminario Ámbito: Nacional Realizado el:2011-01-24 00:00:00.0, 2011-05-18 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "10 Nombre del evento: Probability at Warwick Young Researchers Workshop Tipo de evento: Taller Ámbito: Internacional Realizado el:2009-07-19 00:00:00.0, 2009-07-23 00:00:00.0 en Warwick - Warwick Instituciones asociadas Nombre de la institución: University Of Warwick Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "10 Nombre del evento: Probability at Warwick Young Researchers Workshop Tipo de evento: Taller Ámbito: Internacional Realizado el:2009-07-19 00:00:00.0, 2009-07-23 00:00:00.0 en Warwick - Warwick",
+      "Instituciones asociadas Nombre de la institución: University Of Warwick Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "11 Nombre del evento: Simposio de Actuaria Tipo de evento: Simposio Ámbito: Nacional Realizado el:2006-09-20 00:00:00.0, 2006-09-24 00:00:00.0 en BOGOTÁ, D.C. - Bogota Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "11 Nombre del evento: Simposio de Actuaria Tipo de evento: Simposio Ámbito: Nacional Realizado el:2006-09-20 00:00:00.0, 2006-09-24 00:00:00.0 en BOGOTÁ, D.C. - Bogota",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Organizador",
+      "12 Nombre del evento: Coloquio de Matemáticas Uniandes 2016-I Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-01-21 00:00:00.0, 2016-05-05 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Optimización de portafolios en modelos de mercados con saltos y dinámica de capital no-lineal Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "12 Nombre del evento: Coloquio de Matemáticas Uniandes 2016-I Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-01-21 00:00:00.0, 2016-05-05 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Optimización de portafolios en modelos de mercados con saltos y dinámica de capital no-lineal Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "13 Nombre del evento: Stochastic Models and Control 2015 Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-03-16 00:00:00.0, 2015-03-27 00:00:00.0 en Kaiserslautern - Productos asociados Nombre del producto: Utility maximization in pure-jump models driven by marked point processes and nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "13 Nombre del evento: Stochastic Models and Control 2015 Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-03-16 00:00:00.0, 2015-03-27 00:00:00.0 en Kaiserslautern -",
+      "Productos asociados Nombre del producto: Utility maximization in pure-jump models driven by marked point processes and nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "14 Nombre del evento: ICASQF 2016 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-06-14 00:00:00.0, 2016-06-19 00:00:00.0 en CARTAGENA DE INDIAS - Productos asociados Nombre del producto: Utility maximization in pure-jump models driven by marked point processes and nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "14 Nombre del evento: ICASQF 2016 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-06-14 00:00:00.0, 2016-06-19 00:00:00.0 en CARTAGENA DE INDIAS -",
+      "Productos asociados Nombre del producto: Utility maximization in pure-jump models driven by marked point processes and nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "15 Nombre del evento: Seminario de Sistemas Dinámicos Estocásticos de la Universidad Universidad Estatal de Campinas Tipo de evento: Seminario Ámbito: Internacional Realizado el:2015-02-09 00:00:00.0, 2015-02-13 00:00:00.0 en Campinas - Productos asociados Nombre del producto: Utility maximization in pure-jump models driven by marked point processes and nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDADE ESTADUAL DE CAMPINAS Tipo de vinculación Gestionadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "15 Nombre del evento: Seminario de Sistemas Dinámicos Estocásticos de la Universidad Universidad Estatal de Campinas Tipo de evento: Seminario Ámbito: Internacional Realizado el:2015-02-09 00:00:00.0, 2015-02-13 00:00:00.0 en Campinas -",
+      "Productos asociados Nombre del producto: Utility maximization in pure-jump models driven by marked point processes and nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDADE ESTADUAL DE CAMPINAS Tipo de vinculación Gestionadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "16 Nombre del evento: 6th Workshop Nonlinear PDEs and Financial Mathematics Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-03-23 00:00:00.0, 2015-03-27 00:00:00.0 en Karlsruhe - Productos asociados Nombre del producto: Martingale approach to utility maximization in jump models with differential rates and marked point processes Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: University of Applied Sciences Tipo de vinculación Gestionadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "16 Nombre del evento: 6th Workshop Nonlinear PDEs and Financial Mathematics Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-03-23 00:00:00.0, 2015-03-27 00:00:00.0 en Karlsruhe -",
+      "Productos asociados Nombre del producto: Martingale approach to utility maximization in jump models with differential rates and marked point processes Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: University of Applied Sciences Tipo de vinculación Gestionadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "17 Nombre del evento: XIII CLAPEM - Latin American Congress of Probability and Mathematical Statistics Tipo de evento: Congreso Ámbito: Nacional Realizado el:2014-09-22 00:00:00.0, 2014-09-26 00:00:00.0 en CARTAGENA DE INDIAS - Productos asociados Nombre del producto: Utility maximization in market models with non-linear wealth dynamics driven by marked point process Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "17 Nombre del evento: XIII CLAPEM - Latin American Congress of Probability and Mathematical Statistics Tipo de evento: Congreso Ámbito: Nacional Realizado el:2014-09-22 00:00:00.0, 2014-09-26 00:00:00.0 en CARTAGENA DE INDIAS -",
+      "Productos asociados Nombre del producto: Utility maximization in market models with non-linear wealth dynamics driven by marked point process Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "18 Nombre del evento: Rio de Janeiro: Research in Options 2017. Paper: Optimal Ivestment- Consupmtion for Insurers with differential rates Tipo de evento: Otro Ámbito: Internacional Realizado el:2017-11-20 00:00:00.0, 2017-11-30 00:00:00.0 en Río de Janeiro - Productos asociados Nombre del producto: Optimal Ivestment- Consupmtion for Insurers with differential rates Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: IMPA Tipo de vinculación Patrocinadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "18 Nombre del evento: Rio de Janeiro: Research in Options 2017. Paper: Optimal Ivestment- Consupmtion for Insurers with differential rates Tipo de evento: Otro Ámbito: Internacional Realizado el:2017-11-20 00:00:00.0, 2017-11-30 00:00:00.0 en Río de Janeiro -",
+      "Productos asociados Nombre del producto: Optimal Ivestment- Consupmtion for Insurers with differential rates Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: IMPA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "19 Nombre del evento: XXI Congreso Colombiano de Matemáticas. Paper: Optimal investment in a multi-dimensional semi-martingale model with nonlinear wealth dynamics Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Optimal investment in a multi-dimensional semi-martingale model with nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente",
+      "19 Nombre del evento: XXI Congreso Colombiano de Matemáticas. Paper: Optimal investment in a multi-dimensional semi-martingale model with nonlinear wealth dynamics Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Optimal investment in a multi-dimensional semi-martingale model with nonlinear wealth dynamics Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: RAFAEL ANTONIO SERRANO PERDOMO Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"Backward Ornstein-Uhlenbeck Transition Operators and Mild Solutions of Non-Autonomous Hamilton-Jacobi Equations in Banach Spaces\" . En: Canadá Journal Of Mathematics Research ISSN: 1916-9795 ed: v. 6 fasc. N/A p.55 - 76 ,2014, DOI: 10.5539/jmr.v6n4p55",
+        "titulo": "Backward Ornstein-Uhlenbeck Transition Operators and Mild Solutions of Non-Autonomous Hamilton-Jacobi Equations in Banach Spaces",
+        "doi": "10.5539/jmr.v6n4p55",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"On the LP formulation in measure spaces of optimal control problems for jump-diffusions\" . En: Países Bajos SYSTEMS CONTROL LETTERS ISSN: 0167-6911 ed: Elsevier v. 85 fasc. N/A p.33 - 36 ,2015, DOI: http://dx.doi.org/10.1016/j.sysconle.2015.08.008 Palabras: Control estocástico, Jump-diffusion, Linear programming, Occupation measure, Dual formulation, Viscosity solution,",
+        "titulo": "On the LP formulation in measure spaces of optimal control problems for jump-diffusions",
+        "doi": "http://dx.doi.org/10.1016/j.sysconle.2015.08.008",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, OSCAR JAVIER LOPEZ ALFONSO, \"MARTINGALE APPROACH TO OPTIMAL PORTFOLIO-CONSUMPTION PROBLEMS IN MARKOV-MODULATED PURE-JUMP MODELS\" . En: Reino Unido STOCHASTIC MODELS ISSN: 1532-6349 ed: TAYLOR & FRANCIS INC v. 31 fasc. N/A p.261 - 291 ,2015, DOI: 10.1080/15326349.2014.999286 Palabras: Jump-telegraph model, Markov-modulated, Martingale method, Optimal investment-consumption, Pure jump model, Regime switching, Utility maximization,",
+        "titulo": "MARTINGALE APPROACH TO OPTIMAL PORTFOLIO-CONSUMPTION PROBLEMS IN MARKOV-MODULATED PURE-JUMP MODELS",
+        "doi": "10.1080/15326349.2014.999286",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"A note on space-time Hölder regularity of mild solutions of stochastic Cauchy problems in Lp-spaces\" . En: Brasil BRAZILIAN JOURNAL OF PROBABILITY AND STATISTICS ISSN: 0103-0752 ed: Associação Brasileira de Estatística v. 29 fasc. 4 p.767 - 777 ,2015, DOI: 10.1214/14-BJPS245",
+        "titulo": "A note on space-time Hölder regularity of mild solutions of stochastic Cauchy problems in Lp-spaces",
+        "doi": "10.1214/14-BJPS245",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"Optimal relaxed control of dissipative stochastic PDEs in Banach spaces\" . En: Estados Unidos SIAM JOURNAL ON CONTROL AND OPTIMIZATION ISSN: 0363-0129 ed: SIAM PUBLICATIONS v. 51 fasc. N/A p.2664 - 2703 ,2013, DOI: 10.1137/100788574 Palabras: Relaxed control, Stochastic PDE, multiplicative cylindrical noise, Stochastic convolution, UMD type-2 Banach spaces, Young measures, Suslin control set,",
+        "titulo": "Optimal relaxed control of dissipative stochastic PDEs in Banach spaces",
+        "doi": "10.1137/100788574",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"Utility maximization in a multidimensional semimartingale model with nonlinear wealth dynamics\" . En: Colombia MATHEMATICS AND FINANCIAL ECONOMICS ISSN: 1862-9660 ed: SPRINGER HEIDELBERG v. 15 fasc. N/A p.775 - 809 ,2021, DOI: 10.1007/s11579-021-00296-z Palabras: Utility maximization, Nonlinear wealth, Portfolio choice, Martingale method, Convex duality, Semimartingale characteristics,",
+        "titulo": "Utility maximization in a multidimensional semimartingale model with nonlinear wealth dynamics",
+        "doi": "10.1007/s11579-021-00296-z",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"Portfolio Allocation in a Levy-Type Jump-Diffusion Model with Nonlife Insurance Risk\" . En: Colombia INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE ISSN: 0219-0249 ed: World Scientific v. 0 fasc. N/A p.1 - 34 ,2021, DOI: 10.1142/S0219024921500059",
+        "titulo": "Portfolio Allocation in a Levy-Type Jump-Diffusion Model with Nonlife Insurance Risk",
+        "doi": "10.1142/S0219024921500059",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"Optimal control of investment, premium and deductible for a non-life insurance company\" . En: Colombia INSURANCE MATHEMATICS ECONOMICS ISSN: 0167-6687 ed: Elsevier v. 0 fasc. N/A p.0 - 0 ,2021, DOI: 10.1016/j.insmatheco.2021.07.005.",
+        "titulo": "Optimal control of investment, premium and deductible for a non-life insurance company",
+        "doi": "10.1016/j.insmatheco.2021.07.005",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"Climbing the income ladder: Search and investment in a regime-switching affine income model\" . En: Colombia FINANCE RESEARCH LETTERS ISSN: 1544-6123 ed: ACADEMIC PRESS INC ELSEVIER SCIENCE v. 58 fasc. 104330 p.1 - 9 ,2023, DOI: 10.1016/j.frl.2023.104330",
+        "titulo": "Climbing the income ladder: Search and investment in a regime-switching affine income model",
+        "doi": "10.1016/j.frl.2023.104330",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"ALM for insurers with multiple underwriting lines and portfolio constraints: a Lagrangian duality approac\" . En: Colombia COMPUTATIONAL APPLIED MATHEMATICS ISSN: 2238-3603 ed: Birkhäuser Boston v. 43 fasc. p. - ,2024, DOI: 10.1007/s40314-024-02740-4",
+        "titulo": "ALM for insurers with multiple underwriting lines and portfolio constraints: a Lagrangian duality approac",
+        "doi": "10.1007/s40314-024-02740-4",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"Existence of optimal controls for stochastic Volterra equations\" . En: ESAIM CONTROL OPTIMISATION AND CALCULUS OF VARIATIONS ISSN: 1292-8119 ed: EDP SCIENCES S A v. 31 fasc. N/A p. - ,2025, DOI: 10.1051/cocv/2025020",
+        "titulo": "Existence of optimal controls for stochastic Volterra equations",
+        "doi": "10.1051/cocv/2025020",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: HUGO EDUARDO RAMIREZ JAIME, RAFAEL ANTONIO SERRANO PERDOMO, \"Optimal investment with insurable background risk and nonlinear portfolio allocation frictions\" . En: APPLIED MATHEMATICS AND COMPUTATION ISSN: 0096-3003 ed: Elsevier Science Inc. v. 485 fasc. N/A p. - ,2025, DOI: 10.1016/j.amc.2024.129023 Palabras: Portfolio allocation, Insurance demand, Background risk, Jump-diffusions, CRRA utility, Hamilton-Jacobi-Bellman equation, Differential rates, Separation theorem,",
+        "titulo": "Optimal investment with insurable background risk and nonlinear portfolio allocation frictions",
+        "doi": "10.1016/j.amc.2024.129023",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAFAEL ANTONIO SERRANO PERDOMO, \"An alternative proof of the Aubin-Lions lemma\" . En: Suiza ARCHIV DER MATHEMATIK ISSN: 1420-8938 ed: Birkhauser Verlag Basel v. 101 fasc. N/A p.253 - 257 ,2013, DOI: 10.1007/s00013-013-0552-x Palabras: Aubin-Lions Lemma, Compactness Lebesgue-Bochner spaces, Non-reflexive Banach spaces,",
+        "titulo": "An alternative proof of the Aubin-Lions lemma",
+        "doi": "10.1007/s00013-013-0552-x",
+        "anio": "2013"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Otro capítulo de libro publicado RAFAEL ANTONIO SERRANO PERDOMO, \"Ecuaciones diferenciales estocásticas y ecuaciones diferenciales parciales lineales de segundo orden\" Análisis Estocástico . En: Colombia ISBN: 0 ed: Universidad Nacionalde Colombia , v. , p.70 - 90 ,2003 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "documentos_trabajo": [
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"ECUACIONES DIFERENCIALES ESTOCÁSTICAS CON CONDICIÓN FINAL Y SOLUCIONES DE VISCOSIDAD DE EDPS SEMILINEALES DE SEGUNDO ORDEN\" En: Colombia. 2014. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"DYNAMIC PROGRAMMING FOR STOCHASTIC TARGET PROBLEMS, VISCOSITY SOLUTIONS AND HEDGING IN MARKETS WITH PORTFOLIO CONSTRAINTS AND LARGE INVESTORS\" En: Colombia. 2014. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"ALM for insurers with multiple underwriting lines and portfolio constraints: a Lagrangian duality approach\" En: Colombia. 2021. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"Martingale approach to optimal portfolio-consumption problems in Markov-modulated pure-jump models\" En: Colombia. 2018. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"Existence of optimal controls for stochastic Volterra equations\" En: Colombia. 2024. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, HUGO EDUARDO RAMIREZ JAIME, \"Optimal investment with insurable background risk and nonlinear portfolio allocation frictions\" En: Colombia. 2023. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, MARCEN EDUARDO LAGUNA SANTOFIMIO, \"Search and Wealth Distribution in a Frictional Labor Market Model\" En: Colombia. 2023. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"A note on space-time Holder regularity of mild solutions to stochastic Cauchy problems in Lp-spaces\" En: Colombia. 2014. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"On the LP formulation in measure spaces of optimal control problems for jump-diffusions\" En: Colombia. 2021. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, \"Optimal control of investment, premium and deductible for a non-life insurance company\" En: Colombia. 2020. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAFAEL ANTONIO SERRANO PERDOMO, MAURICIO JOSE JUNCA PELAEZ, \"Utility maximization in pure-jump models driven by marked point processes and nonlinear wealth dynamics\" En: Colombia. 2021. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: RAFAEL ANTONIO SERRANO PERDOMO, On backward stochastic differential equations and a generalization of the Feynman-Kac formula . En: Colombia, ,2003, finalidad: Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Demás trabajos - Demás trabajos: RAFAEL ANTONIO SERRANO PERDOMO, Optimal relaxed control of dissipative stochastic PDEs in Banach spaces . En: Inglaterra, ,2010, finalidad: Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Demás trabajos - Demás trabajos: RAFAEL ANTONIO SERRANO PERDOMO, Calculo estocástico y ecuaciones diferenciales estocásticas . En: Colombia, ,2005, finalidad: Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Demás trabajos - Demás trabajos: RAFAEL ANTONIO SERRANO PERDOMO, Ecuaciones diferenciales estocásticas con condición final y soluciones de viscosidad de ecuaciones diferenciales parciales de segundo orden semilineales . En: Colombia, ,2005, finalidad: Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Demás trabajos - Demás trabajos: RAFAEL ANTONIO SERRANO PERDOMO, On the compact embedding theorem for Banach-valued L-spaces . En: Colombia, ,2007, finalidad: Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Demás trabajos - Demás trabajos: RAFAEL ANTONIO SERRANO PERDOMO, Ornstein-Uhlenbeck transisiton operators in Banach spaces and mild solutions to Hamilton-Jacobi Bellman equations in Banach spaces associated to optimal control of non-autonomous stochastic PDEs . En: Colombia, ,2011, finalidad: Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ]
+  }
+}

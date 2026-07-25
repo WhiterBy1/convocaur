@@ -1,0 +1,32 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/viviana-angelica-sandoval-sanchez",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra",
+  "email": "",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n1946/Viviana+Sandoval+.jpeg",
+  "afiliaciones": [
+    "Profesor cátedra - Decanatura del Medio Universitario - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Educación",
+    "Prevención de la enfermedad",
+    "Promoción de la salud"
+  ],
+  "formacion_academica": [
+    "2014, Medica y Cirujana, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "libro",
+      "titulo": "Educación para la vida: Una apuesta de bienestar por la mente y el corazón de los jóvenes universitarios",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.12804/urosario9789587849226"
+    }
+  ],
+  "total_publicaciones": 1,
+  "id": "viviana-angelica-sandoval-sanchez",
+  "facultad_csv": "Decanatura del Medio Universitario",
+  "cargo_csv": "Profesor cátedra\n                        Profesor de docencia y práctica"
+}

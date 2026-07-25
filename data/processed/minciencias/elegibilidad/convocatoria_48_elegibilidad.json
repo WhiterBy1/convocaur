@@ -1,0 +1,61 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior",
+        "rol": null,
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+        "riesgo": "territorio",
+        "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+      },
+      {
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+        "riesgo": "acreditacion",
+        "nota": "Verificar vigencia de acreditacion institucional/programas."
+      },
+      {
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      },
+      {
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+        "riesgo": "experiencia",
+        "nota": "Validar experiencia acreditada en CTeI/regiones."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "": "{\n  \"puede_postularse\": true,\n  \"modo\": \"solo_en_alianza\",\n  \"rol_sugerido\": \"ejecutora\",\n  \"bloqueantes\": [],\n  \"condiciones_a_verificar\": [\n    \"Acreditación institucional vigente o programas acreditados afines a las líneas temáticas.\",\n    \"Experiencia acreditada en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.\",\n    \"Grupos de investigación categorizados por Minciencias.\",\n    \"Sede o domicilio en la región SGR (riesgo territorial).\"\n  ],\n  \"resumen\": \"La Universidad del Rosario (IES privada, sede Bogotá, actor SNCTI) es elegible pero debe postularse en alianza obligatoria. Se sugiere rol ejecutor. Se deben verificar acreditación, experiencia en regiones SGR, grupos Minciencias y posible presencia regional.\"\n}"
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  }
+}

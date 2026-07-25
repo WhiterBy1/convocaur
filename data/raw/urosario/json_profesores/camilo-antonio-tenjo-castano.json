@@ -1,0 +1,36 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/camilo-antonio-tenjo-castano",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia",
+  "email": "camilo.tenjo01@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n10126/tenjo_camilo.jpg",
+  "afiliaciones": [
+    "Profesor de docencia - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=YKKHLboAAAAJ",
+    "orcid": "https://orcid.org/0009-0000-2433-4441"
+  },
+  "areas_investigacion": [
+    "Biomedicina",
+    "Computer Vision",
+    "Deep Learning",
+    "Machine learning"
+  ],
+  "formacion_academica": [
+    "2013, Técnico Laboral en Diseño Industrial y Modelado 3D para Cnc, Centro Salesiano San Jose",
+    "2022, Ingeniero Biomédico, Escuela Colombiana de Ingenieria Julio Garavito - Bogotá D.C"
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0000-2433-4441"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=YKKHLboAAAAJ"
+    ]
+  },
+  "id": "camilo-antonio-tenjo-castano",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor de docencia"
+}

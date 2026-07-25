@@ -1,0 +1,33 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jorge-arturo-bustos-martinez",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "jorge.bustos@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n277/Bustos+Martinez+Jorge.jpg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "orcid": "https://orcid.org/0000-0003-1355-1592"
+  },
+  "areas_investigacion": [
+    "Cardiología",
+    "Patologías cardiacas"
+  ],
+  "perfil_profesional": "Médico especialista con amplia experiencia en el diagnóstico y manejo de patologías cardiacas en paciente hospitalizado y ambulatorio, durante el desarrollo del ejercicio profesional ha tenido la oportunidad de enfocarse de forma amplia en la realización de imágenes cardiacas y en el trato digno y humanizado a las personas que acuden a su servicio. Formado integralmente con un enfoque ético, responsable y respetuoso de la dignidad de la persona, la familia y de la relación médico paciente como ejes fundamentales del ejercicio profesional, en el marco del sistema y políticas nacionales y globales de atención en salud. Actualmente se desempeña en el cargo de Jefe de Cardiología Clínica de La Cardio Infantil.",
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Reporte de caso : aneurisma de arteria pulmonar asintomático"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0003-1355-1592"
+    ]
+  },
+  "id": "jorge-arturo-bustos-martinez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas"
+}

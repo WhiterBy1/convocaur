@@ -1,0 +1,101 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/veronica-maria-morales-burton",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "veronica.morales@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5056/Captura+de+pantalla+2025-10-20+135813.png",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001398459",
+    "orcid": "https://orcid.org/0000-0002-8181-7690"
+  },
+  "areas_investigacion": [
+    "Administración y economía en salud",
+    "Gastroenterología",
+    "Hepatología",
+    "Nutrición pediátrica"
+  ],
+  "perfil_profesional": "Verónica María Morales Burton es Médica Pediatra con especialización en Educación Médica y Maestría en Economía, Políticas y Administración en Salud del London School of Economics and Political Science. Cuenta con experiencia en el manejo de patologías de alta complejidad, incluyendo urgencias, trasplante y cardiopatías congénitas. Actualmente se desempeña como Líder del Departamento de Urgencias de Pediatría y participa como pediatra en hospitalización, urgencias y consulta externa en la Fundación Cardioinfantil – LaCardio. Posee experiencia en procesos administrativos para la sostenibilidad del sector salud con enfoque en calidad y seguridad del paciente, así como conocimiento en acreditación nacional e internacional. Destaca por su capacidad de liderazgo, trabajo en equipo y planeación estratégica.",
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Avoiding SARS-CoV-2 infection in healthcare workers: is behavioral change the answer?"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Síndrome inflamatorio multisistémico temporalmente asociado a la infección por COVID-19 en pacientes pediátricos de una institución de IV nivel"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001398459"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-8181-7690"
+    ]
+  },
+  "id": "veronica-maria-morales-burton",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001398459",
+    "cod_rh": "0001398459",
+    "datos_generales": {
+      "Nombre": "Veronica Maria Morales Burton",
+      "Nombre en citaciones": "MORALES BURTON, VERONICA MARIA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Maestría/Magister THE LONDON SCHOOL OF ECONOMICS AND POLITICL SCIENCE Health Economics, Policy and Management Diciembrede2018 - Juliode 2021 Avoiding COVID-19 infection in healthcare workers, is behaviour change the answer?",
+      "Especialización Boston University School of Medicine Pediatric Nutrition Marzode2017 - Septiembrede 2017",
+      "Especialización Universidad El Bosque - Escuela Colombiana De Medicina Especializacion en Pediatria Juniode2010 - Septiembrede 2013",
+      "Especialización UNIVERSIDAD EL BOSQUE ESPECIALIZACION EN DOCENCIA UNIVERSITARIA Enerode2015 - Marzode 2016 Analisis de las percepciones de los residentes de pediatri rotantes en el departamento de gastrohepatologia pediatrica de la FCI-IC, acerca del curriculo disenado para esta especialidad.",
+      "Pregrado/Universitario COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO MEDICINA Juniode2000 - Juniode 2007"
+    ],
+    "experiencia_profesional": [
+      "FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Dedicación: horas Semanales Octubre de 2013 de"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Pediatría",
+      "Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Salud Pública"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "PEDIATRIA, Activa: Si",
+      "SALUD PUBLICA, Activa: Si"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VERONICA MARIA MORALES BURTON, \"RETHINKING HEALTHCARE QUALITY AND PRESTIGE: IS THIS A MANAGER'S NUMBER ONE PROBLEM?\" . En: Colombia FRONTIERS IN PUBLIC HEALTH ISSN: 2296-2565 ed: FRONTIERS MEDIA SA v. 10 fasc. p.1 - 5 ,2022, DOI: 10.3389/fpubh.2022.863383",
+        "titulo": "RETHINKING HEALTHCARE QUALITY AND PRESTIGE: IS THIS A MANAGER'S NUMBER ONE PROBLEM?",
+        "doi": "10.3389/fpubh.2022.863383",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VERONICA MARIA MORALES BURTON, \"Pediatric diabetic ketoacidosis as type 1 diabetes debut with concurrent SARS-CoV-2 infection: A case report\" . En: Colombia SAGE OPEN MEDICAL CASE REPORTS ISSN: 2050-313X ed: Sage v. 10 fasc. p.1 - 4 ,2022, DOI: https://doi.org/10.1177/2050313X221097263",
+        "titulo": "Pediatric diabetic ketoacidosis as type 1 diabetes debut with concurrent SARS-CoV-2 infection: A case report",
+        "doi": "https://doi.org/10.1177/2050313X221097263",
+        "anio": "2022"
+      }
+    ]
+  }
+}

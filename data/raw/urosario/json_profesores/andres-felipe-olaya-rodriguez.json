@@ -1,0 +1,55 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/andres-felipe-olaya-rodriguez",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "andres.olaya@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n18004/prof_4552_20220128171312.png",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001787908"
+  },
+  "areas_investigacion": [
+    "Cirugía colorrectal",
+    "Cirugía de colon y recto",
+    "Cirugía general",
+    "Proctología"
+  ],
+  "perfil_profesional": "Andrés Felipe Olaya Rodríguez es cirujano general con subespecialización en Cirugía de Colon y Recto. Su perfil profesional se define por una triple pasión: la excelencia quirúrgica en su área de alta especialización, la investigación clínica y la docencia universitaria. Como cirujano, se dedica al manejo integral de las patologías colorrectales, aplicando técnicas de vanguardia y los más altos estándares médicos. Su compromiso con la investigación lo motiva a contribuir activamente al avance del conocimiento en su campo, buscando constantemente nuevas evidencias y mejores prácticas. Esta vocación investigativa se complementa con un genuino interés por la formación de nuevas generaciones de médicos, ejerciendo la docencia universitaria con el objetivo de compartir su experiencia y fomentar el pensamiento crítico. Su trayectoria refleja un equilibrio entre la práctica quirúrgica de precisión, la generación de conocimiento a través de la investigación y el legado formativo en la academia, siempre con el objetivo de mejorar los resultados y la calidad de vida de sus pacientes.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001787908"
+    ]
+  },
+  "id": "andres-felipe-olaya-rodriguez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001787908",
+    "cod_rh": "0001787908",
+    "datos_generales": {
+      "Nombre": "ANDRES FELIPE OLAYA RODRIGUEZ",
+      "Nombre en citaciones": "Andres Felipe Olaya",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Especialidad Médica FUNDACIÓN UNIVERSITARIA DE CIENCIAS DE LA SALUD - FUCS CIRUGIA GENERAL Juniode2017 - Juliode 2021",
+      "Pregrado/Universitario FUNDACIÓN UNIVERSITARIA DE CIENCIAS DE LA SALUD - FUCS MEDICINA Enerode2010 - Juniode 2015",
+      "Secundario COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Enerode1998 - Diciembrede 2010"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Otras Ciencias Médicas -- Otras Ciencias Médicas"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRES FELIPE OLAYA RODRIGUEZ, \"DISMINUCION DE COMPLICACIONES NEUROLOGICAS PERI-OPERATORIAS EN PACIENTES CON ENDARTERECTOMIA CAROTIDEA BAJO ANESTESIA REGIONAL\" . En: Colombia Acta Neurológica Colombiana ISSN: 0120-8748 ed: Editora Guadalupe Ltda. (Bogotá) v. 35 fasc. 3 p.130 - 139 ,2019, DOI: 10.22379/24224022260",
+        "titulo": "DISMINUCION DE COMPLICACIONES NEUROLOGICAS PERI-OPERATORIAS EN PACIENTES CON ENDARTERECTOMIA CAROTIDEA BAJO ANESTESIA REGIONAL",
+        "doi": "10.22379/24224022260",
+        "anio": "2019"
+      }
+    ]
+  }
+}

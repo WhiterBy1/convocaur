@@ -1,0 +1,84 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/francisco-javier-contreras-forero",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "francisco.contreras@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001624852"
+  },
+  "areas_investigacion": [
+    "Anestesia regional",
+    "Anestesiología",
+    "Dolor postoperatorio",
+    "Educación en salud",
+    "Investigación clínica"
+  ],
+  "perfil_profesional": "Francisco Javier Contreras Forero es médico anestesiólogo con formación en Educación para Profesionales de la Salud. Su trayectoria combina la práctica clínica en anestesiología con el desarrollo académico y la investigación en técnicas analgésicas innovadoras. Como especialista en anestesiología, ha demostrado especial interés en el estudio del déficit cognitivo postoperatorio y el manejo avanzado del dolor, con investigaciones que comparan la anestesia regional versus general. Su trabajo en técnicas innovadoras como el bloqueo del plano erector de la espalda y la anestesia subtenoniana con aguja curva ha recibido reconocimientos en congresos nacionales por su contribución al campo de la analgesia postoperatoria. Actualmente complementa su perfil clínico con estudios de posgrado en educación para la salud, orientando su carrera hacia la formación de nuevos profesionales en el área de anestesiología y reanimación.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001624852"
+    ]
+  },
+  "id": "francisco-javier-contreras-forero",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001624852",
+    "cod_rh": "0001624852",
+    "datos_generales": {
+      "Nombre": "Francisco Javier Contreras Forero",
+      "Nombre en citaciones": "CONTRERAS FORERO , FRANCISCO JAVIER",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Especialización UNIVERSIDAD AUTONOMA DE BUCARAMANGA Anestesiologia Juliode2014 - Juliode 2017 Incidencia del déficit cognitivo postoperatorio en anestesia regional y general en una institución de cuarto nivel en Bucaramanga (Santander, Colombia) en el año 2017",
+      "Especialización PONTIFICIA UNIVERSIDAD JAVERIANA Especialización en educación para profesionales de la salud Juliode2024 - Agostode 2025",
+      "Pregrado/Universitario UNIVERSIDAD INDUSTRIAL DE SANTANDER MEDICINA Enerode2007 - Diciembrede 2012"
+    ],
+    "experiencia_profesional": [
+      "UNIVERSIDAD AUTONOMA DE BUCARAMANGA Dedicación: horas Semanales Julio de 2014 Junio de 2017"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Anestesiología"
+    ],
+    "reconocimientos": [
+      "TERCER LUGAR como resumen destacado con su E-Póster. Efectividad analgésica del bloqueo del plano erector en el manejo del dolor postoperatorio.,Asociación colombiana de cirugía hepatopancreatobiliar - Noviembrede 2023",
+      "Tercer puesto en la categoria de poster con el tema: Anestesia Subtenoniana con aguja curva. Descripción de una nueva tecnica. Congreso Nacional Estudiantes de Anestesiologia.,SOCIEDAD COLOMBIANA DE ANESTESIOLOGÍA Y REANIMACIÓN (S.C.A.R.E) - Mayode 2011"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FRANCISCO JAVIER CONTRERAS FORERO, \"Estudio controlado aleatorio, efectividad analgésica del bloqueo del plano erector espinal en cirugía hepatopancreatobiliar.\" . En: Colombia ARCHIVOS DE MEDICINA ISSN: 1657-320X ed: v. 24 fasc. 2 p.1 - 11 ,2024, DOI: 10.30554/archmed.24.2.5087.2024",
+        "titulo": "Estudio controlado aleatorio, efectividad analgésica del bloqueo del plano erector espinal en cirugía hepatopancreatobiliar.",
+        "doi": "10.30554/archmed.24.2.5087.2024",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FRANCISCO JAVIER CONTRERAS FORERO, \"Incidencia del déficit cognitivo postoperatorio en anestesia regional y general en una institución de cuarto nivel en Bucaramanga (Santander, Colombia) en el año 2017\" . En: Colombia MEDUNAB ISSN: 2382-4603 ed: Universidad Autónoma de Bucaramanga. v. 23 fasc. 3 p.450 - 463 ,2020, DOI: 10.29375/01237047.3711",
+        "titulo": "Incidencia del déficit cognitivo postoperatorio en anestesia regional y general en una institución de cuarto nivel en Bucaramanga (Santander, Colombia) en el año 2017",
+        "doi": "10.29375/01237047.3711",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FRANCISCO JAVIER CONTRERAS FORERO, \"Importancia de la autopsia y del estudio de la placenta en la evaluación de la muerte fetal en el Hospital Universitario de Santander\" . En: Colombia ARCHIVOS DE MEDICINA ISSN: 2339-3874 ed: v. 16 fasc. 1 p.11 - 21 ,2016, DOI: 10.30554/archmed.16.1.1561.2016",
+        "titulo": "Importancia de la autopsia y del estudio de la placenta en la evaluación de la muerte fetal en el Hospital Universitario de Santander",
+        "doi": "10.30554/archmed.16.1.1561.2016",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FRANCISCO JAVIER CONTRERAS FORERO, \"Results in hepatopancreatobiliary surgery of erector spinal plane block\" . En: Países Bajos HPB ISSN: 1365-182X ed: ELSEVIER SCI LTD v. 26 fasc. 1 p.133 - 159 ,2024, DOI: 10.1016/j.hpb.2024.03.253",
+        "titulo": "Results in hepatopancreatobiliary surgery of erector spinal plane block",
+        "doi": "10.1016/j.hpb.2024.03.253",
+        "anio": "2024"
+      }
+    ]
+  }
+}

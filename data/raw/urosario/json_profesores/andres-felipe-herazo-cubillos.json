@@ -1,0 +1,56 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/andres-felipe-herazo-cubillos",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "andresf.herazo@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n23075/Andres-Herazo-Cubillos.jpg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001830067",
+    "orcid": "https://orcid.org/0009-0006-3456-8552"
+  },
+  "areas_investigacion": [
+    "Anestesia cardiovascular",
+    "Anestesiología"
+  ],
+  "perfil_profesional": "Andrés Felipe Herazo Cubillos es especialista en Anestesiología y Medicina Perioperatoria de la Universidad de La Sabana, con una subespecialización en Anestesia Cardiovascular y Torácica de la Universidad del Rosario. Actualmente se desempeña como Anestesiólogo Cardiotorácico en la Fundación Cardioinfantil - Instituto de Cardiología en Bogotá, institución de referencia nacional en el manejo de patologías cardiovasculares complejas. Previamente completó su fellowship en esta misma área en la Escuela de Medicina y Ciencias de la Salud de la Universidad del Rosario. Su formación médica de pregrado y especialización primaria también la realizó en la Universidad de La Sabana. Como investigador, ha contribuido con publicaciones científicas en revistas especializadas, como un reciente reporte de caso en BMC Infectious Diseases titulado \"Echoes from Macondo: managing disseminated ascariasis with extracorporeal membrane oxygenation therapy\", lo que evidencia su interés en la intersección entre la anestesia crítica, las complicaciones infecciosas y el soporte vital avanzado en el contexto perioperatorio cardiovascular. Su trayectoria profesional se centra en la anestesia de alta complejidad para procedimientos cardíacos y torácicos, integrando la práctica clínica en un entorno de excelencia quirúrgica con la formación académica especializada y la participación en actividades de investigación clínica.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001830067"
+    ],
+    "orcid": [
+      "https://orcid.org/0009-0006-3456-8552"
+    ]
+  },
+  "id": "andres-felipe-herazo-cubillos",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001830067",
+    "cod_rh": "0001830067",
+    "datos_generales": {
+      "Nombre": "Andrés Felipe Herazo Cubillos",
+      "Nombre en citaciones": "Andrés Felipe Herazo-Cubillos",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "ResearchGate",
+      "Linkedln"
+    ],
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Especialidad Médica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO ESPECIALIZACION EN ANESTESIA CARDIOTORACICA Febrerode2024 - Enerode 2025 Evaluación de los antifibrinolíticos tópicos en cirugía cardíaca: revisión sistemática, metaanálisis y análisis secuencial de ensayos",
+      "Especialidad Médica UNIVERSIDAD DE LA SABANA Anestesiología y Medicina Perioperatoria Febrerode2019 - de",
+      "Pregrado/Universitario UNIVERSIDAD DE LA SABANA MEDICINA Enerode2011 - Diciembrede 2017"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Anestesiología"
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/adrien-morel",
+  "nombre": "<p><strong>Adrien Morel</strong></p>",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "adrien.morel@urosario.edu.co",
+  "telefono": "(601) 2970200",
+  "imagen": "https://research-hub.urosario.edu.co/file/n15888/adrien.jpeg",
+  "afiliaciones": [
+    "Investigador - Geniuros - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=55867725900",
+    "google_scholar": "https://scholar.google.com/citations?user=oY4hL2sAAAAJ",
+    "pure": "https://pure.urosario.edu.co/es/persons/adrien-morel",
+    "orcid": "https://orcid.org/0000-0002-9654-6053"
+  },
+  "areas_investigacion": [
+    "Genetics",
+    "Orphan disease",
+    "cancer"
+  ],
+  "formacion_academica": [
+    "2010, Licencia en Ciencias, Tecnologia, Salud Mención Biología, Université Besançon",
+    "2012, Máster en Ciencias, Tecnologías, Salud, Université Besançon",
+    "2017, Doctorado en Ciencias de La Vida y La Salud, Université Besançon"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Genetic Structure of the Y-Chromosome in Colombia: An Analysis of Regional Diversity and Ancestry",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1002/ajhb.70171"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Refining rare disease variant discovery in an isolated Andean community through imputation-enhanced IBD and kinship inference from whole exome sequencing data",
+      "fecha": "2025-10-5",
+      "enlace": "https://doi.org/https://doi.org/10.1093/hmg/ddaf132"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Detection of a Novel Homozygous PEX5 Stop-Loss Variant Associated with Zellweger Syndrome in a Highly Endogamic Family",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.2147/TACG.S518636"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Integrating next-generation sequencing and artificial intelligence for the identification and validation of pathogenic variants in colorectal cancer",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.3389/fonc.2025.1568205"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The polygenic implication of clopidogrel responsiveness: Insights from platelet reactivity analysis and next-generation sequencing",
+      "fecha": "2024-7-1",
+      "enlace": "https://doi.org/10.1371/journal.pone.0306445"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional Analysis of BRCA1 3’UTR Variants Predisposing to Breast Cancer",
+      "fecha": "2024-5-23",
+      "enlace": "https://doi.org/10.2147/TACG.S444546"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Next-generation sequencing of host genetics risk factors associated with COVID-19 severity and long-COVID in Colombian population",
+      "fecha": "2024-4-11",
+      "enlace": "https://doi.org/10.1038/s41598-024-57982-3"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Linking genotype to trophoblast phenotype in preeclampsia and HELLP syndrome associated with STOX1 genetic variants",
+      "fecha": "2024-3-15",
+      "enlace": "https://doi.org/10.1016/j.isci.2024.109260"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Germline mutations of breast cancer susceptibility genes through expanded genetic analysis in unselected Colombian patients",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1186/s40246-024-00623-7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Phenotypic and molecular characterization of the largest worldwide cluster of hereditary angioedema type 1",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1371/journal.pone.0311316"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional Analysis of BRCA1 3’UTR Variants Predisposing to Breast Cancer",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.2147/TACG.S444546"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional analysis of CTLA4 promoter variant and its possible implication in colorectal cancer immunotherapy",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.3389/fmed.2023.1160368"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Pharmacogenomic profile of actionable molecular variants related to drugs commonly used in anesthesia: WES analysis reveals new mutations",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.3389/fphar.2023.1047854"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Performance Comparison of a Duplex Implementation of the CDC EUA 2019-nCoV Assay with the Seegene Allplex-SARS-CoV-2 Assay for the Detection of SARS-CoV-2 in Nasopharyngeal Swab Samples",
+      "fecha": "2022-9-21",
+      "enlace": "https://doi.org/10.3390/mps5050073"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Characterization of ADME Gene Variation in Colombian Population by Exome Sequencing",
+      "fecha": "2022-6-30",
+      "enlace": "https://doi.org/10.3389/fphar.2022.931531"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Association Between the LZTFL1 rs11385942 Polymorphism and COVID-19 Severity in Colombian Population",
+      "fecha": "2022-6-20",
+      "enlace": "https://doi.org/10.3389/fmed.2022.910098"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Preeclampsia, Natural History, Genes, and miRNAs Associated with the Syndrome",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.1155/2022/3851225"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Whole-exome sequencing in patients affected by Stevens-Johnson syndrome and toxic epidermal necrolysis reveals new variants potentially contributing to the phenotype",
+      "fecha": "2021-3-1",
+      "enlace": "https://doi.org/10.2147/PGPM.S289869"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A Novel Splice-Site Mutation in the ELN Gene Suggests an Alternative Mechanism for Vascular Elastinopathies",
+      "fecha": "2020-12-17",
+      "enlace": "https://doi.org/10.2147/TACG.S282240"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Identifying new potential genetic biomarkers for HELLP syndrome using massive parallel sequencing",
+      "fecha": "2020-10-1",
+      "enlace": "https://doi.org/10.1016/j.preghy.2020.09.003"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "DNA demethylation agent 5azadC downregulates HPV16 E6 expression in cervical cancer cell lines independently of TBX2 expression",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.3892/ol.2019.11158"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional evidence implicating NOTCH2 missense mutations in primary ovarian insufficiency etiology",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1002/humu.23667"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "5azadC treatment upregulates miR-375 level and represses HPV16 E6 expression",
+      "fecha": "2017-1-1",
+      "enlace": "https://doi.org/10.18632/oncotarget.17575"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Long-term storage and safe retrieval of human papillomavirus DNA using FTA elute cards",
+      "fecha": "2016-3-1",
+      "enlace": "https://doi.org/10.1016/j.jviromet.2015.12.010"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Molecular diagnosis of human papillomaviruses (HPV): What test(s) in clinical practice?",
+      "fecha": "2016-11-1",
+      "enlace": "https://doi.org/10.1016/j.jgyn.2016.09.007"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Methylation of human papillomavirus type 16 CpG sites at E2-binding site 1 (E2BS1), E2BS2, and the Sp1-binding site in cervical cancer samples as determined by high-resolution melting analysis-PCR",
+      "fecha": "2013-10-1",
+      "enlace": "https://doi.org/10.1128/JCM.01106-13"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2024-4-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/b51cb69b-48e5-472f-bded-d064c48a82df"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Determinación del perfil genómico de variantes patogénicas en pacientes con cáncer gástrico no seleccionado en la población colombiana",
+      "fecha": "2024-4-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/ed95a2bf-8050-41f4-ba3a-311975494400"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2023-9-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/ad95a3c4-803c-48fd-bee6-1a92945539f8"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Frecuencia de alteraciones germinales en genes de riesgo alto/moderado para riesgo de cáncer de mama hereditario, estudio multicéntrico en población no seleccionada",
+      "fecha": "2022-11-19",
+      "enlace": "https://research-hub.urosario.edu.co/display/e08af3ee-6ec0-49e9-ae2c-04d5cb2fc460"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Asociación de factores genéticos y no-genéticos con la severidad de la infección por sars-cov2 en población colombiana",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F27570d5c-bcc6-4eee-9a3a-c5972014a5b6"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Identificación de un nuevo factor de riesgo para el desarrollo de cáncer colorrectal en una muestra de afectados del Hospital Universitario Mayor Méderi",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F43c5b43c-f784-4ddb-901d-ff425ed2e209"
+    },
+    {
+      "tipo": "carta",
+      "titulo": "A novel mutation in KHDRBS1 in a patient affected by primary ovarian insufficiency",
+      "fecha": "2018-8-1",
+      "enlace": "https://doi.org/10.1111/cen.13749"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2023-11-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6a5d76c4-2a5e-44f6-a6ee-3b138a541e7d"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Identificación de un nuevo factor de riesgo para el desarrollo de cáncer colorrectal en una muestra de afectados del Hospital Universitario Mayor Méderi",
+      "fecha": "2021-11-12",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F415884c6-99fc-47d5-90d5-5a189b631b2b"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Asociación de factores genéticos y no-genéticos con la severidad de la infección por sars-cov2 en población colombiana",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/display/bda992cc-8210-483f-ad4c-bad2d7254a8e"
+    }
+  ],
+  "total_publicaciones": 36,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Genómica funcional para la descripción de mutaciones en el diagnóstico molecular del cáncer de colon y recto esporádico en población colombiana",
+      "fecha": "2021-01-01 - 2025-06-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9b1d027b-7cb7-4739-b64c-c3cafed6e0c6"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Implicación de la variación de la secuencia de la 3’UTR en el cáncer de seno.",
+      "fecha": "2021-11-23 - 2024-11-05",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F76a381d2-47ac-4cd7-b41a-0ad52ca0a8f8"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Genómica de fenotipos extremos de la miopía: herramienta para el diagnóstico de las enfermedades visuales",
+      "fecha": "2021-09-14 - 2023-09-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F70a29c37-34ab-4019-9ae5-3410d36b4281"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Genómica funcional para la descripción de mutaciones en el diagnóstico molecular del cáncer de seno esporádico en población Colombiana.",
+      "fecha": "2022-02-01 - 2027-06-18",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F32ab9a56-2956-4c61-9b3c-13ba38c0cc6a"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Implicaciones de variantes farmacogenómicas en la respuesta a fenitoína: hacia la medicina de precisión y la seguridad del paciente",
+      "fecha": "2025-05-31 - 2027-02-28",
+      "enlace": "https://research-hub.urosario.edu.co/display/b542a0ba-70ab-4128-a545-4def984e5c96"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Implicación del riesgo poligénico en la reactividad plaquetaria de pacientes con síndrome coronario agudo tratados con clopidogrel.",
+      "fecha": "2021-11-10 - 2025-06-20",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8bffc85c-3f6e-4b2e-8c04-e4f21cfa9463"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Un método para identificar enfermedades raras con investigación traslacional en aislados biogeográficos del departamento de Boyacá explorando la ancestría.",
+      "fecha": "2021-12-23 - 2024-11-26",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4828fc78-780d-4238-9285-c14e7272211b"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Factores genéticos asociados a la severidad clínica en población colombiana afectada por SARS-CoV-2.",
+      "fecha": "2022-02-01 - 2023-08-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F855508fe-b929-4eaf-b6e6-fc9d1f90ac01"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Impacto de los factores genéticos y no genéticos en la severidad de la infección por SARS-CoV-2: hacia la generación de un modelo de predicción de riesgo en población colombiana",
+      "fecha": "2021-03-01 - 2022-03-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7fe22aff-5bad-444b-a6ee-72364ab30c0b"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Genómica funcional para la identificación de biomarcadores genéticos aplicables al diagnóstico temprano de la preeclampsia",
+      "fecha": "2017-12-26 - 2019-12-26",
+      "enlace": "https://research-hub.urosario.edu.co/display/a23e860b-3fb8-4ef9-afae-2347dc3a0cc6"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Genómica funcional para la descripción de mutaciones germinales en el diagnóstico molecular del cáncer de colon y recto no seleccionado en población colombiana"
+    }
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/adrien-morel-25350/"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-9654-6053"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=oY4hL2sAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/adrien-morel"
+    ],
+    "scopus_id": [
+      "55867725900"
+    ]
+  },
+  "id": "adrien-morel",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera"
+}

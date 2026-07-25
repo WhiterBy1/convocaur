@@ -1,0 +1,57 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/nestor-sandoval",
+  "nombre": "",
+  "cargo_principal": "Profesor mérito",
+  "email": "nestor.sandoval@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n14654/N%C3%A9stor%2C+Sandoval.jpg",
+  "afiliaciones": [
+    "Profesor mérito - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=OE3S0zQAAAAJ&hl=es&oi=ao",
+    "orcid": "https://orcid.org/0000-0002-9020-0422 "
+  },
+  "areas_investigacion": [
+    "Cirugía Cardiovascular"
+  ],
+  "perfil_profesional": "El Dr. Sandoval es un renombrado cirujano cardiovascular y director del Instituto de Cardiopatías Congénitas en la Fundación Cardio Infantil en Bogotá, Colombia (2006-2024). Su formación incluye Cirugía General y Cardiovascular en la Universidad Javeriana y un fellowship en Cirugía Cardiovascular Pediátrica en la Universidad de Alabama en Birmingham. Ha ocupado roles destacados en diversas sociedades científicas internacionales, como Vicepresidente de la World Society for Pediatric and Congenital Heart Surgery, miembro de la junta directiva del International Quality Improvement Collaborative (IQIC) y Presidente de la Sociedad Latina de Cardiología Pediátrica y Cirugía Cardiovascular Pediátrica (2015-2017). A nivel académico, es profesor titular de cirugía en la Universidad del Rosario y dirige el programa de Cirugía Cardiovascular Pediátrica. Ha sido editor y autor de libros influyentes en su campo, con más de 290 publicaciones científicas y contribuciones importantes en textos de cirugía cardíaca, como el Kirklin J. Text Book of Cardiac Surgery (2025).",
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Access to paediatric cardiac surgery in Colombia: A population-based study",
+      "fecha": "2022-2-1",
+      "enlace": "https://doi.org/10.1093/ejcts/ezab404"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Identification of clinically relevant phenotypes in patients with Ebstein anomaly",
+      "fecha": "2018-3-1",
+      "enlace": "https://doi.org/10.1002/clc.22870"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Regional differences in congenital heart disease",
+      "fecha": "2017-3-1",
+      "enlace": "https://doi.org/10.1016/j.rccar.2016.06.012"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Differences by Altitude in the Frequency of Congenital Heart Defects in Colombia",
+      "fecha": "2016-12-1",
+      "enlace": "https://doi.org/10.1007/s00246-016-1464-x"
+    }
+  ],
+  "total_publicaciones": 4,
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-9020-0422"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=OE3S0zQAAAAJ&hl=es&oi=ao"
+    ]
+  },
+  "id": "nestor-sandoval",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor mérito"
+}

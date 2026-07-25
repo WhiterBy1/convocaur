@@ -1,0 +1,48 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/david-roberto-gonzalez-rodriguez",
+  "nombre": "",
+  "cargo_principal": "Profesor de cátedra posgrado",
+  "email": "davidro.gonzalez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n6380/Foto+David.png",
+  "afiliaciones": [
+    "Profesor de cátedra posgrado - Decanatura del Medio Universitario - Universidad del Rosario",
+    "Psicólogo estudiantil-docente - Decanatura del Medio Universitario - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "orcid": "https://orcid.org/0000-0001-5340-4752"
+  },
+  "areas_investigacion": [
+    "Aprendizaje",
+    "Educación emocional",
+    "Procesos de formación",
+    "Psicología"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "libro",
+      "titulo": "Educación para la vida: Una apuesta de bienestar por la mente y el corazón de los jóvenes universitarios",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.12804/urosario9789587849226"
+    }
+  ],
+  "total_publicaciones": 1,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Inteligencia emocional para lograr entornos más seguros y saludables. Power Emotions"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La Magia de las Emociones: Un camino de aprendizaje y crecimiento"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0001-5340-4752"
+    ]
+  },
+  "id": "david-roberto-gonzalez-rodriguez",
+  "facultad_csv": "Decanatura del Medio Universitario",
+  "cargo_csv": "Profesor de cátedra posgrado"
+}

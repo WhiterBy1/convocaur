@@ -1,0 +1,51 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/laura-bibiana-pineros-hernandez",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia y práctica ",
+  "email": "laurab.pineros@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n11306/laura+pi%C3%B1eros.jpg",
+  "afiliaciones": [
+    "Profesor de docencia y práctica - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "formacion_academica": [
+    "2019, Medica, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Uveitis and multiple sclerosis: potential common causal mutations",
+      "fecha": "2019-6-3",
+      "enlace": "https://doi.org/10.1007/s12035-019-1630-2"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "My life: bioethics, cinema and end of life care",
+      "fecha": "2018-9-10",
+      "enlace": "https://doi.org/10.15406/hpmij.2018.02.00106"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A combined linkage, microarray and exome analysis suggests MAP3K11 as a candidate gene for left ventricular hypertrophy",
+      "fecha": "2018-3-5",
+      "enlace": "https://doi.org/10.1186/s12920-018-0339-9"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Mi vida: cine, bioética y cuidados paliativos",
+      "fecha": "2020-10-22",
+      "enlace": "https://doi.org/10.12804/lm9789587844313"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "La clonación reproductiva: más allá de Frankenstein y el club de los clones",
+      "fecha": "2019-11-1",
+      "enlace": "https://doi.org/10.12804/lm9789587842654"
+    }
+  ],
+  "total_publicaciones": 5,
+  "id": "laura-bibiana-pineros-hernandez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor de docencia y práctica"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/karol-ximena-martinez-munoz",
+  "nombre": "Karol X. Martinez-Muñoz",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "karol.martinez@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 4239",
+  "imagen": "https://research-hub.urosario.edu.co/file/n13074/karol.jpg",
+  "afiliaciones": [
+    "Investigador - Grupo de Investigación en Derecho Privado - Universidad del Rosario",
+    "Profesor principal de carrera - Facultad de Jurisprudencia - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=55516890900",
+    "google_scholar": "https://scholar.google.com/citations?user=AgVV4L8AAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/68db37e0-ddd9-4e14-a7ca-0d1a5cb75d38",
+    "orcid": "http://orcid.org/0000-0001-5242-5973"
+  },
+  "areas_investigacion": [
+    "Bioderecho",
+    "Derecho civil",
+    "Derecho de familia"
+  ],
+  "formacion_academica": [
+    "2004, Abogada, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2006, Especialista en Derecho Procesal, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2008, Especialista en Negociacion, Conciliacion y Arbitraje - Conciliador, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2010, European Masters Degree en Historia y Comporacion de Las Instituciones Políticas y Jurídicas de Los, Università Degli Studi di Messina"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "La maternidad subrogada: tendencias de regulación en Latinoamérica",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.17151/jurid.2021.18.1.5"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La violencia intrafamiliar y de género. Una visión del caso colombiano",
+      "fecha": "2020-7-8",
+      "enlace": "https://doi.org/http://revistas.ustatunja.edu.co/index.php/piuris/article/view/1943"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La familia de crianza: una mirada comparada entre Estados Unidos y Colombia",
+      "fecha": "2020-6-28",
+      "enlace": "https://doi.org/10.18601/01234366.N39.05"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The Andean approach to stabilisation clauses",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1504/IJPL.2013.050528"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El contrato de maternidad subrogada: La experiencia estadounidense",
+      "fecha": "2012-12-1",
+      "enlace": "https://doi.org/10.4067/S0718-09502012000200003"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Colombia",
+      "fecha": "2023-5-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F25d04280-dbb8-4dc1-999c-b20fd3110e18"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "La constitucionalización del derecho de familia",
+      "fecha": "2022-3-30",
+      "enlace": "https://doi.org/10.12804/urosario9789587848663"
+    }
+  ],
+  "total_publicaciones": 7,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Ya son/apenas son 90 años: violencia patrimonial y económica bajo el imperio de la Ley 28 de 1932.",
+      "fecha": "2023-01-16 - 2024-10-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/ee8156c1-1a46-42fb-9535-12d51573ab06"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "El cuidado como derecho autónomo: ¿Hacia dónde vamos?"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El poder de los jueces de familia: un estudio crítico del parágrafo primero del artículo 281 del C.G.P."
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "http://orcid.org/0000-0001-5242-5973"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=AgVV4L8AAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/68db37e0-ddd9-4e14-a7ca-0d1a5cb75d38"
+    ],
+    "scopus_id": [
+      "55516890900"
+    ]
+  },
+  "id": "karol-ximena-martinez-munoz",
+  "facultad_csv": "Facultad de Jurisprudencia",
+  "cargo_csv": "Profesor principal de carrera"
+}

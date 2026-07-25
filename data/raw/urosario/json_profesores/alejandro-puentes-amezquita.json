@@ -1,0 +1,68 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/alejandro-puentes-amezquita",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "alejandro.puentes@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n13681/Alejandro+Puentes.jpg",
+  "afiliaciones": [
+    "Investigador - Grupo de Estudios Creativos de la Universidad del Rosario - Universidad del Rosario",
+    "Profesor principal de carrera - Facultad de Creación - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=uu3NGJQAAAAJ",
+    "pure": "https://pure.urosario.edu.co/es/persons/alejandro-puentes-amezquita",
+    "orcid": "https://orcid.org/0000-0002-3881-6326",
+    "otros": [
+      "https://www.youtube.com/embed/Yd2hgDRUTfM"
+    ]
+  },
+  "areas_investigacion": [
+    "Architecture",
+    "Design",
+    "Modular Robotics"
+  ],
+  "perfil_profesional": "Alejandro Puentes Amézquita is a full-time professor at Universidad del Rosario’s Faculty of Creative Studies where he explores new modes of interaction between people, materials and technology. As an architect, he leads Buró 3–an architectural design firm. He led the Planning and Design Group of Bogota’s Secretary of Education, worked as a Physical Designer at Local Projects, served as adjunct Faculty at Universidad de los Andes’ School of Architecture and Design, and was a founding partner of 4H–an architecture and urban design firm. He has won first place in design competitions such as the Colombian Pavilion for Expo Shanghai, the CAFAM Water Park, and the Music Practice Building for Universidad de los Andes. He earned his Master’s degree from NYU’s Interactive Telecommunications Program (ITP) and holds a BArch and a Minor in Economics from Universidad de los Andes.",
+  "formacion_academica": [
+    "2002, Arquitecto, Universidad de los Andes - Bogotá D.C.",
+    "2015, Máster of Professional Studies, New York University"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "La escucha mediada: un recurso para la acción social",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2c065395-9b34-4e21-8a6c-372fb157c137"
+    },
+    {
+      "tipo": "documento de conferencia",
+      "titulo": "Acoustic characterization of three archeological sites in the state of Guanajuato, Mexico",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1121/1.4800325"
+    }
+  ],
+  "total_publicaciones": 2,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Arquitectura especulativa y realidad aumentada: Exploraciones digitales para una ciudad mutable"
+    }
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/apuentes/"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-3881-6326"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=uu3NGJQAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/alejandro-puentes-amezquita"
+    ]
+  },
+  "id": "alejandro-puentes-amezquita",
+  "facultad_csv": "Facultad de Creación",
+  "cargo_csv": "Profesor principal de carrera"
+}

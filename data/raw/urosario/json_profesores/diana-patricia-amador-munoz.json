@@ -1,0 +1,435 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/diana-patricia-amador-munoz",
+  "nombre": "Diana Patricia Amador-Munoz",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "diana.amador@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3327",
+  "imagen": "https://research-hub.urosario.edu.co/file/n1052/Amador.png",
+  "afiliaciones": [
+    "Investigador  - Grupo de Neurociencias de la Universidad del Rosario (NEUROS) - Universidad del Rosario",
+    "Investigador - Instituto de Medicina Traslacional - IMT - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=56845785300",
+    "google_scholar": "https://scholar.google.com/citations?user=erdyFwEAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/91de8d8a-4178-44ce-8df1-d5723abf7fee",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001090429",
+    "orcid": "http://orcid.org/0000-0001-9984-4550"
+  },
+  "areas_investigacion": [
+    "Fisiología cardiovascular",
+    "Fisiología ocular",
+    "Medicina regenerativa"
+  ],
+  "perfil_profesional": "Médico Cirujano, Especialista en Gerencia de la Salud Pública de la Universidad del Rosario, Maestría en Ciencias Biomédicas de la Universidad de los Andes, PhD en Ciencias Biomédicas y Biológicas de la Universidad del Rosario. Posdoctorado en Medicina Pulmonar y Cuidado Critico en Brigham and Women's Hospital-Harvard Medical School. Ha trabajado en múltiples publicaciones científicas en revistas de alto impacto en colaboración con profesionales de universidades Internacionales como la Universidad de Harvard y Nanyang Technological University, y universidades nacionales como la Universidad de los Andes y la Universidad Nacional de Colombia. Es profesora principal de carrera del área de fisiología para los programas de medicina, enfermería e ingeniería biomédica de la Escuela de Medicina y Ciencias de la Salud. Trabaja con el centro de investigación en Neurociencia Neurovitae donde conduce investigaciones relacionadas con las respuestas del endotelio corneal a la lesión y el uso de modelos bioinformáticos para la descripción de nuevas respuestas fisiopatológicas en diferentes tejidos. En estos temas ha realizado aportes importantes como la descripción de proteínas no identificadas hasta ahora en el endotelio corneal humano y la profundización del patrón de pérdida de estas células en condiciones fisiológicas y en pacientes diabéticos. Fue galardonada con el premio institucional de excelencia docente del año 2021 en la categoría de profesor inspirador y reconocida como profesor representante de tutores pares 2022.",
+  "formacion_academica": [
+    "2002, Especialista en Salud Pública, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2002, Médica Cirujana, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2008, Magíster en Ciencias Biomédicas, Universidad de los Andes - Bogotá D.C.",
+    "2022, Doctora en Ciencias Biomédicas y Biológicas, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Real-time vectorcardiography simulator system",
+      "fecha": "2026-3-1",
+      "enlace": "https://doi.org/https://doi.org/10.1371/journal.pone.0345612"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Management of Acute Moderate Iron Poisoning with Oral Chelation and Antioxidant Therapy: A Case Report",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.3390/pharma4040023"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Estrategias dinámicas que ofrecen oportunidades para personalizar eficientemente el entorno educativo",
+      "fecha": "2022-8-3",
+      "enlace": "https://doi.org/10.12804/issne.2500-6150_10336.34522_ceap"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Diabetes Mellitus Type 1 has a Higher Impact on Corneal Endothelial Cell Density and Pachymetry than Diabetes Mellitus Type 2, Independent of Age: A Meta-Regression Model",
+      "fecha": "2022-8-1",
+      "enlace": "https://doi.org/10.1097/ICO.0000000000002841"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Surfactant Protein D Influences Mortality During Abdominal Sepsis by Facilitating Escherichia coli Colonization in the Gut",
+      "fecha": "2022-5-18",
+      "enlace": "https://doi.org/10.1097/CCE.0000000000000699"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "mTORC1 is a mechanosensor that regulates surfactant function and lung compliance during ventilator-induced lung injury",
+      "fecha": "2021-7-22",
+      "enlace": "https://doi.org/10.1172/jci.insight.137708"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "In silico and in vitro analysis of cation-activated potassium channels in human corneal endothelial cells.",
+      "fecha": "2020-6-17",
+      "enlace": "https://doi.org/10.1016/j.exer.2020.108114"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Co-Expression Network Analysis Identifies Possible Hub Genes in Aging of the Human Prefrontal Cortex",
+      "fecha": "2019-5-10",
+      "enlace": "https://doi.org/10.12804/revistas.urosario.edu.co/revsalud/a.7924"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Análisis de redes de coexpresión identifica posibles genes clave en el envejecimiento de la corteza prefrontal humana",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.12804/10.12804/revistas.urosario.edu.co/revsalud/a.7924"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Integrative analysis of global gene expression identifies opposite patterns of reactive astrogliosis in aged human prefrontal cortex",
+      "fecha": "2018-12-1",
+      "enlace": "https://doi.org/10.3390/brainsci8120227"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Proton Pump Inhibitors and Dementia: Physiopathological Mechanisms and Clinical Consequences",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/10.1155/2018/5257285"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Desarrollo profesoral: oportunidades y Desafíos en la Universidad del Rosario: Mesa de trabajo: Docencia de excelencia-formación profesoral",
+      "fecha": "2017-8-8",
+      "enlace": "https://doi.org/10.48713/10336_13619"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Zinc deficiency primes the lung for ventilator-induced injury",
+      "fecha": "2017-6-2",
+      "enlace": "https://doi.org/10.1172/jci.insight.86507"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El nervio periférico: Estructura y función",
+      "fecha": "2016-12-15",
+      "enlace": "https://research-hub.urosario.edu.co/display/cdca9590-8e87-4bf6-b0ae-62dba0f1b74b"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Bioética e investigación: análisis de caso de la epidemia por el virus del ébola en 2014",
+      "fecha": "2016-1-1",
+      "enlace": "https://doi.org/10.18359/rlbi.1943"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Broad spectrum immunomodulation using biomimetic blood cell margination for sepsis therapy",
+      "fecha": "2016-1-1",
+      "enlace": "https://doi.org/10.1039/c5lc01110h"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Isoflurane Ameliorates Acute Lung Injury by Preserving Epithelial Tight Junction Integrity",
+      "fecha": "2015-8-1",
+      "enlace": "https://doi.org/10.1097/ALN.0000000000000742"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Cultivo in vitro de endotelio corneal",
+      "fecha": "2011-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7d4a6ce9-fad7-4a4b-b7fa-61ffbb9f0d43"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Regeneración axónica",
+      "fecha": "2017-2-1",
+      "enlace": "https://doi.org/10.12804/tm9789587388060"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Microfluidic blood margination (μBM): A \"cell-based\" blood purification platform for broad spectrum immunomodulation in murine model of sepsis",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F90e904aa-ae86-4f98-90ca-192415e5d2dd"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Monitoring sepsis using electrical cell profiling in a mouse model",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5d1a0a39-f803-4308-b3c6-930222091f73"
+    },
+    {
+      "tipo": "comentario",
+      "titulo": "Corrigendum to “In silico and in vitro analysis of cation-activated potassium channels in human corneal endothelial cells” [Experimental Eye Research (Aug; 2020) 197:108114](S0014483520303730)(10.1016/j.exer.2020.108114)",
+      "fecha": "2021-10-1",
+      "enlace": "https://doi.org/10.1016/j.exer.2021.108757"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Microfluidic blood margination: a “cell-based” blood purification platform for broad spectrum immunomodulation in murine model of sepsis",
+      "fecha": "2014-10-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5c3d64f0-04fb-4bfe-9dea-22ff23e44a4d"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Monitoring sepsis using electrical cell profiling in a mouse model",
+      "fecha": "2014-10-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F408f7c83-5017-4d0c-b85d-e4d7a0df1aae"
+    }
+  ],
+  "total_publicaciones": 24,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Evaluación de requisitos técnicos y de usabilidad para el prototipo -Vectocardiógrafo",
+      "fecha": "2025-04-21 - 2026-10-20",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0677bd23-5dc9-4f78-b6c3-b404321022ac"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Canales de calcio involucrados con apoptosis del endotelio corneal en un modelo de hiperglicemia",
+      "fecha": "2017-03-01 - 2019-03-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3c12259b-368f-4f56-9dd5-4cd7a302f678"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Seguridad de los inhibidores de la bomba de protones y el riesgo de demencia: revisión de la literatura y mecanismos fisiopatológicos",
+      "fecha": "2017-06-01 - 2019-02-28",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F11ef653d-239f-4f30-8bfe-8167eacfaccd"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Determinación de perfiles de expresión de celulas del endotelio corneal.",
+      "fecha": "2017-01-01 - 2017-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/c4c1ce6c-473c-452e-9358-efd4a86e96ee"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Museo de patología virtual: Una herramienta para los estudiantes de medicina desarrollada para estudiar histopatología.",
+      "fecha": "2022-01-12 - 2024-01-12",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4a71abaa-7321-4b8a-9360-3a2f01d2cd84"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Diseño de un vectocardiógrafo para la enseñanza de grupos interdisciplinares",
+      "fecha": "2018-10-15 - 2019-10-14",
+      "enlace": "https://research-hub.urosario.edu.co/display/dd6d3674-682e-4cd3-958f-c49b67c8942d"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Premio a la Excelencia en Docencia",
+      "fecha": "2021"
+    }
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/diana-amador-mu%C3%B1oz-6b50564a/"
+    ],
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001090429"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0001-9984-4550"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=erdyFwEAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/91de8d8a-4178-44ce-8df1-d5723abf7fee"
+    ],
+    "scopus_id": [
+      "56845785300"
+    ]
+  },
+  "id": "diana-patricia-amador-munoz",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001090429",
+    "cod_rh": "0001090429",
+    "datos_generales": {
+      "Nombre": "Diana Patricia Amador Muñoz",
+      "Nombre en citaciones": "AMADOR-MUÑOZ, D.P",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Linkedln",
+      "Repositorios institucionales"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO DOCTORADO EN CIENCIAS BIOMÉDICAS Y BIOLÓGICAS Agostode2015 - Marzode 2022 Identificación de canales iónicos involucrados en la respuesta a la lesión del endotelio corneal",
+      "Maestría/Magister UNIVERSIDAD DE LOS ANDES Ciencias biomédicas Enerode2006 - Noviembrede 2008 TERAPIA PARA TRASTORNOS DEL ENDOTELIO CORNEAL USANDO HOJAS CELULARES CULTIVADAS EN UN MODELO ANIMAL (LEPORIDOS)",
+      "Especialización COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Especialización en innovación pedagógica Juliode2022 - Diciembrede 2023",
+      "Especialización COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Gerencia de la Salud Publica Enerode2002 - Noviembrede 2002",
+      "Pregrado/Universitario COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO MEDICINA Enerode1996 - Juniode 2002"
+    ],
+    "formacion_complementaria": [
+      "Otros Pontificia Universidad Católica De Chile Tópicos en biología regenerativa Noviembrede2008 - Diciembrede 2008",
+      "Otros COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO maestría Juniode2008 - Noviembrede 2008"
+    ],
+    "estancias_posdoctorales": [
+      "Pulmonary and critical care medicine Brigham And Women´S Hospital, Harvard University Pulmonary and critical care medicine Desde: Junio de 2013 Hasta: Agosto de 2015"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Agosto de 2009 de Actividades de docencia - Postgrado - Nombre del curso: Fisiología en cuidado intensivo, 1 Enero 2020 Enero - Pregrado - Nombre del curso: Fisiología humana , 105 Agosto 2009"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología)",
+      "Ciencias Médicas y de la Salud -- Biotecnología en Salud -- Biotecnología Relacionada con la Salud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "reconocimientos": [
+      "Premio a la excelencia en docencia,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Diciembrede 2021",
+      "Tutor par honorario,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Mayode 2022"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: DIANA PATRICIA AMADOR MUNOZ, DIPLOMADO DE PREPARACIÓN PARA RESIDENCIAS MEDICAS- CIENCIAS BÁSICAS, Finalidad: actualizacion del conocimiento en las areas de las ciencias basicas y clinicoquirurgucas para Medicos . En: Colombia ,2013, ,. participación: Docente , 10 semanas Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DIANA PATRICIA AMADOR MUNOZ, Titulo: Capacidad Predictiva de la Prueba de Course-Navette para Discriminar Riesgo Cardiometabólico: Comparación de Ocho Diferentes Ecuaciones en Niños y Adolescentes Colombianos, Estudio FUPRECOL Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN ACTIVIDAD FÍSICA Y SALUD Nombre del orientado: German Ariel Reina Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DIANA PATRICIA AMADOR MUNOZ, Titulo: Cardiorespiratory fitness and cardiometabolic risk factors in schoolchildren from Colombia: The FUPRECOL Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN ACTIVIDAD FÍSICA Y SALUD Nombre del orientado: Daza Romero, Fernando Alberto Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DIANA PATRICIA AMADOR MUNOZ, Titulo: Acute effects of high-intensity interval, resistance or combined exercise protocols on testosterone ¿ cortisol responses in inactive overweight individuals Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN ACTIVIDAD FÍSICA Y SALUD Nombre del orientado: Gina Paola Velasco Orjuela Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),"
+    ],
+    "par_evaluador": [
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: MOLECULAR NEUROBIOLOGY, 2024, Marzo",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Revista Universidad Nacional De Colombia, 2017, Noviembre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Primer Curso-Congreso Internacional de Ingeniería de Tejidos y Medicina Regenerativa Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-01-01 00:00:00.0, en BOGOTÁ, D.C. - Instituciones asociadas Nombre de la institución: Tissue Engineering and Regenerative Medicine International Society Tipo de vinculación Patrocinadora Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Organizador",
+      "1 Nombre del evento: Primer Curso-Congreso Internacional de Ingeniería de Tejidos y Medicina Regenerativa Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-01-01 00:00:00.0, en BOGOTÁ, D.C. -",
+      "Instituciones asociadas Nombre de la institución: Tissue Engineering and Regenerative Medicine International Society Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Organizador",
+      "2 Nombre del evento: V Seminario Internacional de Ingeniería Biomédica (SIB) y V Seminario Internacional de Procesamiento y Análisis de Imágenes Médicas (SIPAIM). Tipo de evento: Seminario Ámbito: Realizado el:2009-11-01 00:00:00.0, en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Fabricación en cultivo de hojas celulares de endotelio corneal Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Asistente",
+      "2 Nombre del evento: V Seminario Internacional de Ingeniería Biomédica (SIB) y V Seminario Internacional de Procesamiento y Análisis de Imágenes Médicas (SIPAIM). Tipo de evento: Seminario Ámbito: Realizado el:2009-11-01 00:00:00.0, en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Fabricación en cultivo de hojas celulares de endotelio corneal Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Asistente",
+      "3 Nombre del evento: dia de la investigación Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Fundación Cardioinfantil-Instituto de cardiologia Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Organizador",
+      "3 Nombre del evento: dia de la investigación Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Fundación Cardioinfantil-Instituto de cardiologia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Organizador",
+      "4 Nombre del evento: 50 años de tradición de excelencia de la Medicina en Colombia Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-01-01 00:00:00.0, en BOGOTÁ, D.C. - Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Organizador",
+      "4 Nombre del evento: 50 años de tradición de excelencia de la Medicina en Colombia Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-01-01 00:00:00.0, en BOGOTÁ, D.C. -",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Organizador",
+      "5 Nombre del evento: 1er Congreso de Ingeniería Biomédica y Bioingeniería Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-11-07 00:00:00.0, 2019-11-09 00:00:00.0 en MANIZALES - Auditorio Fundadores Universidad Autónoma de Manizales Productos asociados Nombre del producto: Identificación de dimorfismo sexual en el transcriptoma del endotelio de la córnea Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MANIZALES Tipo de vinculación Patrocinadora Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Ponente",
+      "5 Nombre del evento: 1er Congreso de Ingeniería Biomédica y Bioingeniería Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-11-07 00:00:00.0, 2019-11-09 00:00:00.0 en MANIZALES - Auditorio Fundadores Universidad Autónoma de Manizales",
+      "Productos asociados Nombre del producto: Identificación de dimorfismo sexual en el transcriptoma del endotelio de la córnea Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE MANIZALES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Ponente",
+      "6 Nombre del evento: I Congreso Internacional de Bioeconomía y Biotecnología Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-23 00:00:00.0, 2019-10-25 00:00:00.0 en PEREIRA - Productos asociados Nombre del producto: Análisis bioinformático identifica proteínas involucradas en el trasporte iónico del endotelio corneal y su rol en la fisiopatología tisular Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD TECNOLÓGICA DE PEREIRA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Ponente",
+      "6 Nombre del evento: I Congreso Internacional de Bioeconomía y Biotecnología Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-23 00:00:00.0, 2019-10-25 00:00:00.0 en PEREIRA -",
+      "Productos asociados Nombre del producto: Análisis bioinformático identifica proteínas involucradas en el trasporte iónico del endotelio corneal y su rol en la fisiopatología tisular Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD TECNOLÓGICA DE PEREIRA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA PATRICIA AMADOR MUNOZ Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Zinc deficiency primes the lung for ventilator-induced injury\" . En: Colombia IJCI INTERNATIONAL JOURNAL OF CLINICAL INVESTIGATION ISSN: 1590-7120 ed: Editrice DOCTOR'S v. 2 fasc. 11 p.86507 - 86507 ,2017, DOI: 10.1172/jci.insight.86507",
+        "titulo": "Zinc deficiency primes the lung for ventilator-induced injury",
+        "doi": "10.1172/jci.insight.86507",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Isoflurane Ameliorates Acute Lung Injury by Preserving Epithelial Tight Junction Integrity\" . En: Colombia ANESTHESIOLOGY ISSN: 0003-3022 ed: Lippincott Williams & Wilkins v. 123 fasc. 2 p.377 - 388 ,2015, DOI: 10.1097/ALN.0000000000000742",
+        "titulo": "Isoflurane Ameliorates Acute Lung Injury by Preserving Epithelial Tight Junction Integrity",
+        "doi": "10.1097/ALN.0000000000000742",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Broad spectrum immunomodulation using biomimetic blood cell margination for sepsis therapy\" . En: Estados Unidos LAB ON A CHIP ISSN: 1473-0189 ed: Royal Soc Chemistry v. 16 fasc. 4 p.688 - 699 ,2016, DOI: 10.1039/c5lc01110h",
+        "titulo": "Broad spectrum immunomodulation using biomimetic blood cell margination for sepsis therapy",
+        "doi": "10.1039/c5lc01110h",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Integrative Analysis of Global Gene Expression Identifies Opposite Patterns of Reactive Astrogliosis in Aged Human Prefrontal Cortex\" . En: Estados Unidos BRAIN SCIENCES ISSN: 2076-3425 ed: mdpi v. 8 fasc. N/A p.227 - 247 ,2018, DOI: 10.3390/brainsci8120227",
+        "titulo": "Integrative Analysis of Global Gene Expression Identifies Opposite Patterns of Reactive Astrogliosis in Aged Human Prefrontal Cortex",
+        "doi": "10.3390/brainsci8120227",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, LUISA MARINA MATHEUS MERINO, \"In silico and in vitro analysis of cation-activated potassium channels in human corneal endothelial cells\" . En: Estados Unidos EXPERIMENTAL EYE RESEARCH ISSN: 0014-4835 ed: Academic Press Ltd-Elsevier Science Ltd v. 197 fasc. p.108114 - ,2020, DOI: 10.1016/j.exer.2020.108114 Palabras: human corneal endothelial cells, gene expression,",
+        "titulo": "In silico and in vitro analysis of cation-activated potassium channels in human corneal endothelial cells",
+        "doi": "10.1016/j.exer.2020.108114",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Co-Expression Network Analysis Identifies Possible Hub Genes in Aging of the Human Prefrontal Cortex\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 17 fasc. 2 p.201 - 222 ,2019, DOI: 10.12804/10.12804/revistas.urosario.edu.co/revsalud/a.7924.",
+        "titulo": "Co-Expression Network Analysis Identifies Possible Hub Genes in Aging of the Human Prefrontal Cortex",
+        "doi": "10.12804/10.12804/revistas.urosario.edu.co/revsalud/a.7924",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"mTORC1 is a mechanosensor that regulates surfactant function and lung compliance during ventilator-induced lung injury\" . En: Estados Unidos JCI INSIGHT ISSN: 2379-3708 ed: AMER SOC CLINICAL INVESTIGATION INC v. N/A fasc. N/A p.137708 - 137708 ,2021, DOI: 10.1172/jci.insight.137708",
+        "titulo": "mTORC1 is a mechanosensor that regulates surfactant function and lung compliance during ventilator-induced lung injury",
+        "doi": "10.1172/jci.insight.137708",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Cultivo in vitro de endotelio corneal.\" . En: Colombia Revista Sociedad Colombiana De Oftalmología ISSN: 0120-0453 ed: v. 44 fasc. 3 p.213 - 222 ,2011, DOI:",
+        "titulo": "Cultivo in vitro de endotelio corneal.",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Bioética e investigación: análisis de caso de la epidemia por el virus del ébola en 2014\" . En: Colombia Revista Latinoamericana De Bioetica/Latinamerican Journal Of Bioethics ISSN: 1657-4702 ed: Universidad Militar Nueva Granada v. 17 fasc. NA p.124 - 149 ,2017, DOI: http://dx.doi.org/10.18359/rlbi.1943",
+        "titulo": "Bioética e investigación: análisis de caso de la epidemia por el virus del ébola en 2014",
+        "doi": "http://dx.doi.org/10.18359/rlbi.1943",
+        "anio": "1943"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA PATRICIA AMADOR MUNOZ, \"Proton Pump Inhibitors and Dementia: Physiopathological Mechanisms and Clinical Consequences\" . En: Colombia NEURAL PLASTICITY ISSN: 1687-5443 ed: John Wiley & Sons v. 2018 fasc. N/A p.1 - 9 ,2018, DOI: 10.1155/2018/5257285",
+        "titulo": "Proton Pump Inhibitors and Dementia: Physiopathological Mechanisms and Clinical Consequences",
+        "doi": "10.1155/2018/5257285",
+        "anio": "2018"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro DIANA PATRICIA AMADOR MUNOZ, \"Regeneración axónica\" El nervio periférico. Estructura y función . En: Colombia ISBN: 978-958-738-805-3 ed: Editorial De La Universidad Del Rosario , v. , p.156 - 194 NA ,2016 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),",
+      "Tipo: Otro capítulo de libro publicado DIANA PATRICIA AMADOR MUNOZ, \"Capítulo 6. Liquidos corporales y trastornos hemodinámicos\" Principios básicos de patología para fisioterapia . En: Colombia ISBN: 978-958-784-891-5 ed: , v. , p.113 - 129 1 ,2022 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),",
+      "Tipo: Otro capítulo de libro publicado DIANA PATRICIA AMADOR MUNOZ, \"Capítulo 17. Sistema renal y sus enfermedades\" Principios básicos de patología para fisioterapia volumen II . En: Colombia ISBN: 978-958-784-975-2 ed: , v. , p.153 - 177 1 ,2023 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),",
+      "Tipo: Capítulo de libro DIANA PATRICIA AMADOR MUNOZ, \"Roboética, neuroética e inmortalidad: desafios del transhumanismo\" Voces en Pantalla: Bioética y ciudadanías emergentes a través del cine . En: Colombia ISBN: 978-958-500-436-8 ed: , v. , p.325 - 387 ,2024 Areas: Ciencias Médicas y de la Salud -- Otras Ciencias Médicas -- Otras Ciencias Médicas,",
+      "Tipo: Capítulo de libro DIANA PATRICIA AMADOR MUNOZ, \"Capítulo 6:Líquidos corporales y trastornos hemodinámicos\" Principios básicos de patología para fisioterapia volumen II . En: Colombia ISBN: 978-958-784-975-2 ed: , v. , p.113 - 129 ,2022 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Patología,",
+      "Tipo: Capítulo de libro DIANA PATRICIA AMADOR MUNOZ, \"Capítulo 17: Sistema renal y sus enfermedades\" Principios básicos de patología para fisioterapia . En: Colombia ISBN: 978-958-784-891-5 ed: , v. , p.153 - 177 ,2023 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Patología,"
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: DIANA PATRICIA AMADOR MUNOZ, \"Estrategias dinámicas que ofrecen oportunidades para personalizar eficientemente el entorno educativo\" En: Colombia. 2022. Reflexiones Pedagógicas URosario. ISSN: 2500-5979 p. 1 - 7 v.34 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: DIANA PATRICIA AMADOR MUNOZ, \"Desarrollo profesoral: Oportunidades y desafíos en la Universidad del RosarioMesa de trabajo: Docencia de excelencia-formación profesoral\" En: Colombia. 2017. Reflexiones Pedagógicas URosario. ISSN: 2500-5979 p. 1 - 8 v.10 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),"
+    ],
+    "patentes": [
+      "Modelo de Utilidad",
+      "NC2022/0008625 - SISTEMA SIMULADOR DE VECTOCARDIOGRAMA, Institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO, Vía de solicitud: Via Tradicional En: Colombia, ,2022-06-21 00:00:00.0, . Nombre del solicitante de la patente: , . Gaceta Industrial de Publicación: 972,",
+      "Patente de invención",
+      ": NC2022/0008625 - SISTEMA SIMULADOR DE VECTOCARDIOGRAMA, Institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO, Vía de solicitud: Via Tradicional En: Colombia, ,2022-06-21 00:00:00.0, . Nombre del solicitante de la patente: , . Gaceta Industrial de Publicación: 972,",
+      "Patente en el Exterior",
+      "NC2022/0008625 - Sistema simulador de vectocardiograma, Institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO, Vía de solicitud: Via Tradicional En: Colombia, ,2022-06-21 00:00:00.0, . Nombre del solicitante de la patente: , . Gaceta Industrial de Publicación: PI972 30 de agosto 2022,"
+    ],
+    "prototipos": [
+      "Producción técnica - Prototipo - Industrial",
+      "DIANA PATRICIA AMADOR MUNOZ, Simulador de vectocardiograma, Nombre comercial: , contrato/registro: , . En: Colombia, ,2022, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),"
+    ],
+    "dise_o_industrial": [
+      "Producción técnica - Diseño Industrial",
+      "DIANA PATRICIA AMADOR MUNOZ, Sistema simulador de vectocardiograma, Nombre comercial: , contrato/registro: , . En: Colombia, ,2022, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),"
+    ],
+    "innovaci_n_de_proceso_o_procedimiento": [
+      "Producción técnica - Innovación de proceso o procedimiento: DIANA PATRICIA AMADOR MUNOZ, SISTEMA SIMULADOR DE VECTOCARDIOGRAMA, Nombre comercial: , contrato/registro: , . En: Colombia, ,2022, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Canales de calcio involucrados con apoptosis del endotelio corneal en un modelo de hiperglicemia Inicio: Enero 2017 Duración Resumen La diabetes mellitus es un trastorno metabólico caracterizado por hiperglicemia crónica que en el año 2014 ya afectaba a 422 millones de adultos en todo el mundo según el primer informe mundial publicado en abril de 2016 por la OMS (http://www.who.int/diabetes/global-report/es/), y cuya morbilidad hace parte de los temas de mayor impacto económico en el ámbito de la salud pública, incluida la salud visual, ya que se ha demostrado que se asocia a lesiones oculares características como retinopatía diabética, cataratas, queratopatía, glaucoma, cambios refractivos acelerados e incluso disfunción lagrimal. Desde el punto de vista de la córnea, se ha descrito en los pacientes diabéticos, mayor fragilidad epitelial, erosiones recurrentes, menor sensibilidad, reparación limitada, alteración de la función de barrera ocular y edema persistente en el estroma después de procedimientos quirúrgicos intraoculares; y se ha estimado que el espesor corneal total y el recuento de células endoteliales difiere significativamente entre sujetos diabéticos con menos de un año de enfermedad y aquellos con diabetes de larga data para un nivel de HbA1c de 7.5% lo que sugiere cambios morfológicos asociados a la enfermedad/hiperglicemia que se traducen en una menor capacidad funcional. Las células del endotelio corneal humano mantienen la claridad de la córnea, mediante un mecanismo electrolítico que favorece la deshidratación constante del tejido; y permiten que este lente, que constituye el principal elemento dióptrico del ojo, mantenga su transparencia y conserve su funcionalidad. En el ser humano, el endotelio corneal no prolifera después del nacimiento y la exposición constante a estrés oxidativo mediado por radiación UV determina un descenso progresivo del recuento celular, deterioro que se acelera en condiciones en las que un proceso degenerativo, como es el caso de las distrofias endoteliales secundarias a enfermedades metabólicas como la diabetes mellitus acelera la tasa de pérdida. Cuando la densidad celular llega a valores tan bajos como 500 cel/mm² (densidad normal 2500-3000 cel/ mm²), el agua se retiene en el estroma corneal y causa la opacidad suficiente para limitar de forma significativa la visión, para lo cual el único tratamiento disponible en la actualidad es el trasplante de córnea. La pérdida de células relacionada con las condiciones ya descritas, frecuentemente ocurre por apoptosis, un tipo de muerte celular que, a diferencia de la necrosis, produce involución celular con liberación controlada de sustancias intracelulares como enzimas y citoquinas. Los defectos en la continuidad endotelial suelen cubrirse por migración o agrandamiento de células vecinas, y pueden transformarse en células epitelio-mesenquimales en ese proceso. Aunqueaún no se conocen bien las razones por las que se activa la migración o el programa de muerte celular programada en el endotelio corneal humano, se ha asociado a cambios metabólicos, estrés mecánico, endotoxinas y deprivación de nutrientes. El primer paso para mejorar la condición visual de éstos pacientes es conocer y entender mejor los mecanismos fisiopatológicos involucrados en la migración y apoptosis de las células, como una base para buscar blancos susceptibles de ser intervenidos, en aras de reducir la perdida de células asociada a la enfermedad y/o promover la mitosis controlada para la recuperación de células dañadas o perdidas, y prolongar al máximo el periodo de calidad visual de los pacientes con diabetes mellitus."
+    ]
+  }
+}

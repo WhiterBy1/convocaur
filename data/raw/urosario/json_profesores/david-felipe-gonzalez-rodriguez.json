@@ -1,0 +1,115 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/david-felipe-gonzalez-rodriguez",
+  "nombre": "David Gonzalez",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "davidfeli.gonzalez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5903/david_gonzalez.jpg",
+  "afiliaciones": [
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57204809385",
+    "google_scholar": "https://scholar.google.com/citations?user=QXBHREsAAAAJ",
+    "pure": "https://pure.urosario.edu.co/es/persons/david-felipe-gonzalez-rodriguez",
+    "orcid": "https://orcid.org/0009-0005-2649-8278"
+  },
+  "areas_investigacion": [
+    "Actuadores suaves",
+    "Estructuras electroactivas",
+    "Estructuras multi-material",
+    "Manufactura aditiva",
+    "Materiales inteligentes",
+    "Prototipado rápido",
+    "Sensores flexibles",
+    "Visualización de modelos 3D"
+  ],
+  "formacion_academica": [
+    "2015, Ingeniero Mecánico, Universidad de los Andes - Bogotá D.C.",
+    "2017, Magíster en Ingeniería Mecánica, Universidad de los Andes - Bogotá D.C.",
+    "2020, Doctor of Philosophy, Purdue University"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Characterization of 3D printed pneumatic soft actuator",
+      "fecha": "2022-2-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.sna.2021.113337"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The development and characterization of carbon nanofiber/polylactic acid filament for additively manufactured piezoresistive sensors",
+      "fecha": "2022-10-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.addma.2022.102948"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Electromechanical characterization of a 3D printed dielectric material for dielectric electroactive polymer actuators",
+      "fecha": "2019-10-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.sna.2019.111565"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Functionalized thermoplastic polyurethane for FDM printing of piezoresistive sensors",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1115/SMASIS2021-67802"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "On the performance of additively manufactured CNF/PLA piezoresistive strain sensors",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1117/12.2582165"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "The effect of extrusion temperature and cycles on electrical resistivity in carbon nanofiber-modified PLA filament for multi-functional additive manufacturing",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1117/12.2557298"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "The effects of additive manufacturing and electric poling techniques on PVdF thin films: Towards 3D printed functional materials",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1115/SMASIS2020-2245"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "3D printed segmented flexible pneumatic actuator",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1115/SMASIS2019-5645"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "3-D printing of dielectric electroactive polymer actuators and characterization of dielectric flexible materials",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1115/SMASIS2018-8011"
+    }
+  ],
+  "total_publicaciones": 9,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Desarrollo de una interfaz multimodal para la implementación eficaz de caminadores inteligentes en escenarios de asistencia a la marcha en adultos mayores.",
+      "fecha": "2023-02-20 - 2025-11-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1a72afc8-bd6c-4645-bda0-ddbc1845d624"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0005-2649-8278"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=QXBHREsAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/david-felipe-gonzalez-rodriguez"
+    ],
+    "scopus_id": [
+      "57204809385"
+    ]
+  },
+  "id": "david-felipe-gonzalez-rodriguez",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/milton-murillo-pinto",
+  "nombre": "",
+  "cargo_principal": "Instructor",
+  "email": "milton.murillo@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n9531/Murillo+Pinto%2C+Milton.png",
+  "afiliaciones": [
+    "Instructor - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Psiquiatría"
+  ],
+  "formacion_academica": [
+    "2007, Médico y Cirujano, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2012, Especialista en Psiquiatria, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Efecto de las caídas intrahospitalarias sobre el tiempo total de hospitalización y el riesgo de reingreso en un hospital psiquiátrico de la ciudad de Bogotá entre enero de 2024 y enero de 2025"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Psicoeducación en trastornos de ansiedad: una revisión sistemática de alcance"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Representaciones sociales de la psiquiatría en los estudiantes de medicina de la Universidad del Rosario 2020"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Retos en el cuidado de un paciente con esquizofrenia, experiencias de las familias"
+    }
+  ],
+  "id": "milton-murillo-pinto",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Instructor"
+}

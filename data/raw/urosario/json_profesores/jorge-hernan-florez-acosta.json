@@ -1,0 +1,41 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jorge-hernan-florez-acosta",
+  "nombre": "",
+  "cargo_principal": "Profesor de cátedra posgrado",
+  "email": "jorge.florez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n13007/florez+acosta.JPG",
+  "afiliaciones": [
+    "Profesor de cátedra posgrado - Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57198778388",
+    "google_scholar": "https://scholar.google.com/citations?user=1w-ObqwAAAAJ&hl=es",
+    "orcid": "https://orcid.org/0000-0002-8000-4057",
+    "otros": [
+      "https://ideas.repec.org/e/pfl129.html"
+    ]
+  },
+  "areas_investigacion": [
+    "Econometría aplicada",
+    "Organización industrial",
+    "Política de la competencia"
+  ],
+  "identidad": {
+    "repec": [
+      "https://ideas.repec.org/e/pfl129.html"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-8000-4057"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=1w-ObqwAAAAJ&hl=es"
+    ],
+    "scopus_id": [
+      "57198778388"
+    ]
+  },
+  "id": "jorge-hernan-florez-acosta",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor de cátedra posgrado"
+}

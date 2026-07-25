@@ -1,0 +1,40 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/laura-pineros-chavez",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "laura.pineros@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n44399/silueta+mujer+hub.jpg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002355197",
+    "orcid": "https://orcid.org/0000-0002-4017-7877"
+  },
+  "areas_investigacion": [
+    "Pediatría"
+  ],
+  "perfil_profesional": "Laura Piñeros Chávez es Médica y Cirujana de la Universidad del Rosario, con especialización en Pediatría de la misma universidad. Su trayectoria profesional se ha desarrollado en la Universidad del Rosario desde 2007, inicialmente como estudiante de pregrado en Medicina y posteriormente como residente de Pediatría a partir de 2017.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002355197"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-4017-7877"
+    ]
+  },
+  "id": "laura-pineros-chavez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002355197",
+    "cod_rh": "0002355197",
+    "datos_generales": {
+      "Nombre": "Laura Piñeros Chavez",
+      "Nombre en citaciones": "PIÑEROS CHAVEZ, LAURA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    }
+  }
+}

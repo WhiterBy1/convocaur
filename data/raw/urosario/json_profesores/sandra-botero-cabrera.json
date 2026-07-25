@@ -1,0 +1,566 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/sandra-botero-cabrera",
+  "nombre": "Sandra Botero",
+  "cargo_principal": "Profesor asociado de carrera",
+  "email": "sandra.boteroc@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3776",
+  "imagen": "https://research-hub.urosario.edu.co/file/n2168/sandra_botero_UR.GIF",
+  "afiliaciones": [
+    "Profesor asociado de carrera - Escuela de Estudios Sociales, Políticos e Internacionales - Universidad del Rosario",
+    "Investigador - Grupo de Investigación de Estudios Políticos e Internacionales - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=56010545900",
+    "google_scholar": "https://scholar.google.com/citations?user=YCCKovQAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/cbe4edd6-0cd9-4126-9580-f0bfc4ed6373",
+    "cvlac": "http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000136000",
+    "orcid": "http://orcid.org/0000-0001-7027-075X"
+  },
+  "areas_investigacion": [
+    "Comparative judicial politics",
+    "Latin America",
+    "Law and politics"
+  ],
+  "perfil_profesional": "Sandra Botero is associate professor at the Faculty of International, Political and Urban Studies of the Universidad del Rosario. Professor Botero’s research has been published in the Journal of Latin American Politics, Latin American Research Review, Latin American Law Review, Comparative Politics and Law and Social Inquiry. She was awarded the 2016 Law and Society Association Dissertation Award for outstanding work in law and society.She is part of two collaborative research projects: one exploring the relationship between public opinion and high courts in Colombia, and another studying the dynamics between the Colombian Congress and Constitutional Court. She specializes in comparative judicial politics, courts and politics as well as comparative political behavior, with a focus on Latin America.",
+  "formacion_academica": [
+    "2004, Historiadora, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2008, Maestría en Estudios Latinoamericanos, University of Texas at Austin",
+    "2015, PhD en Ciencia Política, University of Notre Dame"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Shifting Frames: Actors and Digital Networks in Colombia’s Anti-Gender Mobilization",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1017/lap.2026.10052"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Beyond US Models of Judicial Behavior: Choosing Constitutional Judges in Chile and Colombia",
+      "fecha": "2025-5-1",
+      "enlace": "https://doi.org/10.1017/lsi.2025.24"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "¿Defensores del pueblo o del gobierno?",
+      "fecha": "2024-6-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/b5d9fd13-8e0c-484a-bf46-cb530bfd4f0a"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Tweeting Antagonism: (De)Polarizing Rhetoric and Tone in Colombia's 2022 Presidential Campaign",
+      "fecha": "2024-5-1",
+      "enlace": "https://doi.org/10.1017/lap.2024.14"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Jueces en tensión: la Corte Suprema argentina (2003-2023) y la Corte Constitucional colombiana (2002-2023) frente a la polarización",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1093/icon/moae076"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Paz y opinión pública en Colombia",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.30778/2022.66"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Colombia 2022: From the end of the war to the government of change",
+      "fecha": "2023-8-23",
+      "enlace": "https://doi.org/10.4067/s0718-090x2023005000114"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Por fin una terna de tres para la Fiscalía",
+      "fecha": "2023-10-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F26ed0b0e-e24a-4744-9834-72605091d35c"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Conceptualizar y medir la cultura legal: evidencia a partir de una encuesta a los jueces federales mexicanos",
+      "fecha": "2022-9-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ec303dee-482d-43c8-b330-a284b2bdaed8"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Conceptualizing and Measuring Legal Culture: Evidence from a Survey of Mexican Federal Judges Conceptualizar y medir la cultura legal",
+      "fecha": "2022-9-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8100268c-85d1-4bb8-9c33-aa764d7c89e6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The Limits of Judicialization: From Progress to Backlash in Latin America: From Progress to Backlash in Latin America",
+      "fecha": "2022-8-11",
+      "enlace": "https://doi.org/10.1017/9781009093859"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Corte al congreso: Poder judicial y trámite legislativo en colombia",
+      "fecha": "2021-9-1",
+      "enlace": "https://doi.org/10.25222/larr.757"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Free Expression and Judicial Power in Colombia, India, and South Africa",
+      "fecha": "2021-5-1",
+      "enlace": "https://doi.org/10.1017/lsi.2020.24"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Trust in Colombia’s Justicia Especial Para La Paz: Experimental Evidence",
+      "fecha": "2020-12-1",
+      "enlace": "https://doi.org/10.1177/1866802X20959509"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Trust in Colombia’s Justicia Especial Para La Paz: Experimental Evidence",
+      "fecha": "2020-11-26",
+      "enlace": "https://doi.org/10.1177/1866802X20959509"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Confianza, apoyo a la democracia y corrupción: una mirada a la Corte Constitucional en la opinión pública colombiana",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.29263/lar04.2020.02"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Under friendly fire: An experiment on partisan press, fragmented opposition and voting behavior",
+      "fecha": "2019-8-1",
+      "enlace": "https://doi.org/10.1016/j.electstud.2019.04.008"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Are all types of wrongdoing created equal in the eyes of voters?",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1080/17457289.2019.1651322"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Judges, litigants, and the politics of rights enforcement in Argentina",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/10.5129/001041518822263629"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El plebiscito y los desafíos políticos deconsolidar la paz negociada en Colombia",
+      "fecha": "2017-1-1",
+      "enlace": "https://doi.org/10.4067/s0718-090x2017000200369"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Says Who? An Experiment on Allegations of Corruption and Credibility of Sources",
+      "fecha": "2015-9-13",
+      "enlace": "https://doi.org/10.1177/1065912915591607"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Measuring governance: Implications of conceptual choices",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.1057/ejdr.2013.49"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Courts that Matter: Activists, Judges and the Politics of Rights Enforcement",
+      "fecha": "2023-11-1",
+      "enlace": "https://doi.org/10.1017/9781009281973"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Courts that Matter: Activists, Judges, and the Politics of Rights Enforcement",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1017/9781009281973"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "The Limits of Judicialization: From Progress to Backlash in Latin America",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1017/9781009093859"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Democracia en tiempos de clickbait",
+      "fecha": "2025-7-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3d904a85-2534-45dd-9980-e81bf9e5726e"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Movilización y cumplimiento: ¿pueden la sociedad civil y los tribunales incidir en el impacto de los fallos pro-derechos?",
+      "fecha": "2025-7-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7c1b3255-a0b7-41a0-ad3a-541c5c4be565"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Los derechos de la población trans e intersex en la Corte Constitucional de Colombia: movilización e impacto judicial entre 1991-2022",
+      "fecha": "2025-6-1",
+      "enlace": "https://doi.org/10.51438/DJgabriel2025"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "La confianza en la Justicia Especial para la Paz: una mirada desde la opinión pública",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.30778/2022.66"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Paz y opinión pública en Colombia",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.30778/2022.66"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Rodolfo Hernández, ¿el Trump colombiano?",
+      "fecha": "2023-8-1",
+      "enlace": "https://doi.org/10.12804/urosario9789585001428"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "The Politics of Judicial Impact in Social and Economic Rights Cases",
+      "fecha": "2023-3-22",
+      "enlace": "https://doi.org/10.1093/oxfordhb/9780197550021.013.15"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Working in New Political Spaces: The Checkered History of Latin American Judicialization",
+      "fecha": "2022-8-1",
+      "enlace": "https://doi.org/10.1017/9781009093859.001"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Working in New Political Spaces: The Checkered History of Latin American Judicialization",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1017/9781009093859.001"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Agents of neoliberalism? High Courts, Legal preferences and Rights in Latin America",
+      "fecha": "2017-1-1",
+      "enlace": "https://doi.org/10.9783/9780812294552-011"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Inequality and the Rule of Law: Ineffective Rights in Latin American Democracies",
+      "fecha": "2014-9-22",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7ee61515-ec73-4c23-8c79-d3523db96baa"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "LA ULTRADERECHA EN COLOMBIA: IDEAS Y LIDERAZGOS EN FORMACIÓN",
+      "fecha": "2023-11-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7f4f19d2-2ca0-4cea-aeee-c141ce9ab526"
+    }
+  ],
+  "total_publicaciones": 37,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Influencers y elecciones 2026",
+      "fecha": "2026-02-09 - 2027-02-09",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4340adbf-2055-4138-9e89-59b89b036af4"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Mujeres en los concejos colombianos: Un saldo en rojo.",
+      "fecha": "2021-04-01 - 2022-06-05",
+      "enlace": "https://research-hub.urosario.edu.co/display/d74c830c-5328-4db4-825d-4c688eb8af6b"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Política y derecho en América Latina: Nuevas preguntas, viejos desafíos",
+      "fecha": "2019-03-15 - 2020-08-18",
+      "enlace": "https://research-hub.urosario.edu.co/display/ae17b7a6-e1d8-4194-b0a5-6e8f0e9b30ad"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Legitimidad de la Justicia Especial para la Paz en la opinión pública colombiana",
+      "fecha": "2018-09-03 - 2020-03-03",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F33e2f815-5dd4-4475-bd80-f30d3ab667df"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Una golondrina no hace verano: mujeres y política electoral en las elecciones a la alcaldía en Cartagena (2007-2019) y Colombia (2019)"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000136000",
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000136000"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0001-7027-075X"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=YCCKovQAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/cbe4edd6-0cd9-4126-9580-f0bfc4ed6373"
+    ],
+    "scopus_id": [
+      "56010545900"
+    ]
+  },
+  "id": "sandra-botero-cabrera",
+  "facultad_csv": "Escuela de Estudios Sociales, Políticos e Internacionales",
+  "cargo_csv": "Profesor asociado de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000136000",
+    "cod_rh": "0000136000",
+    "datos_generales": {
+      "Categoría": "Investigador Junior (IJ) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Sandra Botero Cabrera",
+      "Nombre en citaciones": "BOTERO, SANDRA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Doctorado University Of Notre Dame Ciencia Política Agostode2009 - Agostode 2015 Courts that Matter: Judges, Litigants and the Politics of Rights Enforcement in Latin America",
+      "Maestría/Magister University Of Notre Dame Ciencia Política Agostode2009 - Agostode 2011",
+      "Maestría/Magister University of Texas At Austin Estudios Latinoamericanos Agostode2006 - Agostode 2008",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA HISTORIA Enerode1999 - Mayode 2004"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 273 horas Semestrales Agosto de 2017 de Actual Actividades de investigación - Investigación y Desarrollo - Titulo: Investigador principal Agosto 2017",
+      "Willamette University Dedicación: 40 horas Semanales Agosto de 2015 Julio de 2017"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas"
+    ],
+    "lineas_investigacion": [
+      "Democracia y Sociedad, Activa: Si"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SANDRA BOTERO CABRERA, Una golondrina no hace verano: mujeres y política electoral en las elecciones a la alcaldía en Cartagena (2007-2019) y Colombia (2019) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida CIENCIA POLITICA Y GOBIERNO, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Sofía Carrerá Martínez Tutor(es)/Cotutor(es): SANDRA BOTERO CABRERA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Relaciones Hombre-Máquina),",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: SANDRA BOTERO CABRERA, La revolución de los derechos LGBT en Colombia (1992-2022): redes de movilización legal y jueces constitucionales UNIVERSIDAD DE LOS ANDES Estado: Tesis concluida DOCTORADO EN ESTUDIOS INTERDISCIPLINARIOS SOBRE DESARROLLO, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Juliana Jaramillo Jaramillo Tutor(es)/Cotutor(es): SANDRA BOTERO CABRERA, Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD NACIONAL DE COLOMBIA, 2018, Junio"
+    ],
+    "ediciones_revisiones": [
+      "Producción técnica - Editoración o revisión - Libro: SANDRA BOTERO CABRERA, The Limits of Judicialization. From Progress to Backlash in Latin America, Nombre comercial: , contrato/registro: , . En: Reino Unido, ,2022, Cambridge University Press (North America) p.370 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción técnica - Editoración o revisión - Libro: SANDRA BOTERO CABRERA, Paz y opinión pública en Colombia, Nombre comercial: , contrato/registro: , . En: Colombia, ,2023, Universidad de los Andes p.280 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: XXXVI International Latin American Studies Association ¿LASA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-05-23 00:00:00.0, 2018-05-26 00:00:00.0 en Barcelona -",
+      "1 Nombre del evento: XXXVI International Latin American Studies Association ¿LASA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-05-23 00:00:00.0, 2018-05-26 00:00:00.0 en Barcelona -",
+      "2 Nombre del evento: Discutir cómo los efectos de la pandemia han impactado, desde diferentes ángulos, la democracia y las libertades. Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2020-05-06 00:00:00.0, 2020-05-06 00:00:00.0 en BOGOTÁ, D.C. - https://www.urosario.edu.co/Eventos-UR/Facultades-CPG-RI/El-fin-del-liberalismo-Libertades-capitalismo-y-de/ Productos asociados Nombre del producto: ¿EL FIN DEL LIBERALISMO? LIBERTADES, CAPITALISMO Y DEMOCRACIA DESPUÉS DEL COVID-19 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente magistral",
+      "2 Nombre del evento: Discutir cómo los efectos de la pandemia han impactado, desde diferentes ángulos, la democracia y las libertades. Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2020-05-06 00:00:00.0, 2020-05-06 00:00:00.0 en BOGOTÁ, D.C. - https://www.urosario.edu.co/Eventos-UR/Facultades-CPG-RI/El-fin-del-liberalismo-Libertades-capitalismo-y-de/",
+      "Productos asociados Nombre del producto: ¿EL FIN DEL LIBERALISMO? LIBERTADES, CAPITALISMO Y DEMOCRACIA DESPUÉS DEL COVID-19 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente magistral",
+      "3 Nombre del evento: CONVERSATORIO: \"CRISIS Y CAMBIO CONSTITUCIONAL: CHILE Y AMÉRICA LATINA\" Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2020-11-05 00:00:00.0, 2020-11-05 00:00:00.0 en BOGOTÁ, D.C. - https://www.urosario.edu.co/Eventos-UR/Facultades-CPG-RI/Conversatorio-Crisis-y-cambio-constitucional-Chile/ Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Organizador",
+      "3 Nombre del evento: CONVERSATORIO: \"CRISIS Y CAMBIO CONSTITUCIONAL: CHILE Y AMÉRICA LATINA\" Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2020-11-05 00:00:00.0, 2020-11-05 00:00:00.0 en BOGOTÁ, D.C. - https://www.urosario.edu.co/Eventos-UR/Facultades-CPG-RI/Conversatorio-Crisis-y-cambio-constitucional-Chile/",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Organizador",
+      "4 Nombre del evento: Dejusticia Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2020-11-26 00:00:00.0, 2020-11-26 00:00:00.0 en BOGOTÁ, D.C. - https://twitter.com/dejusticia/status/1330848069072662539?s=21 Productos asociados Nombre del producto: Paz y democracia, ¿Cómo fortalecer el apoyo democrático al acuerdo de paz? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente magistral",
+      "4 Nombre del evento: Dejusticia Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2020-11-26 00:00:00.0, 2020-11-26 00:00:00.0 en BOGOTÁ, D.C. - https://twitter.com/dejusticia/status/1330848069072662539?s=21",
+      "Productos asociados Nombre del producto: Paz y democracia, ¿Cómo fortalecer el apoyo democrático al acuerdo de paz? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente magistral",
+      "5 Nombre del evento: La historia detrás de la investigación crítica en América Latina: Amanazas hacia la democracia en Colombia Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2020-10-19 00:00:00.0, 2020-10-19 00:00:00.0 en No informado - https://www.ucis.pitt.edu/clas/content/charlemos Productos asociados Nombre del producto: Corte al Congreso: Poder Judicial y trámte legislativo en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "5 Nombre del evento: La historia detrás de la investigación crítica en América Latina: Amanazas hacia la democracia en Colombia Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2020-10-19 00:00:00.0, 2020-10-19 00:00:00.0 en No informado - https://www.ucis.pitt.edu/clas/content/charlemos",
+      "Productos asociados Nombre del producto: Corte al Congreso: Poder Judicial y trámte legislativo en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "6 Nombre del evento: Dabete El acuerdo de paz bajo la mirada de la opinión pública Tipo de evento: Otro Ámbito: Nacional Realizado el:2019-08-12 00:00:00.0, 2019-08-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes Productos asociados Nombre del producto: Negociación, participación política y justicia transicional Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "6 Nombre del evento: Dabete El acuerdo de paz bajo la mirada de la opinión pública Tipo de evento: Otro Ámbito: Nacional Realizado el:2019-08-12 00:00:00.0, 2019-08-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Productos asociados Nombre del producto: Negociación, participación política y justicia transicional Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "7 Nombre del evento: Latín American Studies Association Conference (LASA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-24 00:00:00.0, 2019-05-27 00:00:00.0 en Boston - Productos asociados Nombre del producto: \"Unas por otras¿: lessons from collaborative rights enforcement efforts by the Colombian, Argentinean and Indian highest courts\" Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "7 Nombre del evento: Latín American Studies Association Conference (LASA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-24 00:00:00.0, 2019-05-27 00:00:00.0 en Boston -",
+      "Productos asociados Nombre del producto: \"Unas por otras¿: lessons from collaborative rights enforcement efforts by the Colombian, Argentinean and Indian highest courts\" Tipo de producto: Producción técnica - Presentación de trabajo - Congreso",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "8 Nombre del evento: Understanding the Judiciary: Empirical studies on Courts Tipo de evento: Seminario Ámbito: Internacional Realizado el:2019-03-07 00:00:00.0, 2019-03-09 00:00:00.0 en Ciudad de México - CIDE-México D.F. Productos asociados Nombre del producto: Legitimidad, apoyo a la democracia y corrupción: una mirada a la Corte Constitucional colombiana en la opinión pública Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Centro de Investigación y Docencia Económicas CIDE Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "8 Nombre del evento: Understanding the Judiciary: Empirical studies on Courts Tipo de evento: Seminario Ámbito: Internacional Realizado el:2019-03-07 00:00:00.0, 2019-03-09 00:00:00.0 en Ciudad de México - CIDE-México D.F.",
+      "Productos asociados Nombre del producto: Legitimidad, apoyo a la democracia y corrupción: una mirada a la Corte Constitucional colombiana en la opinión pública Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Centro de Investigación y Docencia Económicas CIDE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "9 Nombre del evento: Congreso de la Asociación de Derecho y Sociedad (LSA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-30 00:00:00.0, 2019-06-03 00:00:00.0 en Washington, D.C. - Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Asistente",
+      "9 Nombre del evento: Congreso de la Asociación de Derecho y Sociedad (LSA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-30 00:00:00.0, 2019-06-03 00:00:00.0 en Washington, D.C. -",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Asistente",
+      "10 Nombre del evento: Midwest Political Science Association Conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-04-15 00:00:00.0, 2014-04-18 00:00:00.0 en Chicago - Productos asociados Nombre del producto: Types of Corruption and the Punishment of Corrupt Politicians: Experimental Evidence from Argentina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "10 Nombre del evento: Midwest Political Science Association Conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-04-15 00:00:00.0, 2014-04-18 00:00:00.0 en Chicago -",
+      "Productos asociados Nombre del producto: Types of Corruption and the Punishment of Corrupt Politicians: Experimental Evidence from Argentina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "11 Nombre del evento: Law and Society Association Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-06-14 00:00:00.0, 2016-06-17 00:00:00.0 en No informado - Productos asociados Nombre del producto: Evolving Patterns of Judicial Activism in Brazil and Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "11 Nombre del evento: Law and Society Association Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-06-14 00:00:00.0, 2016-06-17 00:00:00.0 en No informado -",
+      "Productos asociados Nombre del producto: Evolving Patterns of Judicial Activism in Brazil and Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "12 Nombre del evento: Latin American Studies Association Conference (LASA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-06-24 00:00:00.0, 2014-06-27 00:00:00.0 en Chicago - Productos asociados Nombre del producto: Judicial Impact and Court-Promoted Monitoring in Argentina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente magistral",
+      "12 Nombre del evento: Latin American Studies Association Conference (LASA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-06-24 00:00:00.0, 2014-06-27 00:00:00.0 en Chicago -",
+      "Productos asociados Nombre del producto: Judicial Impact and Court-Promoted Monitoring in Argentina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente magistral",
+      "13 Nombre del evento: Midwest Political Science Association Conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-08-11 00:00:00.0, 2014-08-14 00:00:00.0 en Chicago - Productos asociados Nombre del producto: Under Friendly Fire: Partisan Press, Political Fragmentation and Candidate Evaluations in Argentina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "13 Nombre del evento: Midwest Political Science Association Conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-08-11 00:00:00.0, 2014-08-14 00:00:00.0 en Chicago -",
+      "Productos asociados Nombre del producto: Under Friendly Fire: Partisan Press, Political Fragmentation and Candidate Evaluations in Argentina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "14 Nombre del evento: Latin American Studies Association Conference (LASA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-05-19 00:00:00.0, 2015-05-22 00:00:00.0 en San Juan - Productos asociados Nombre del producto: Conceptualizing and Measuring Legal Cultures: Insights from a Survey of Mexican Judges Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "14 Nombre del evento: Latin American Studies Association Conference (LASA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-05-19 00:00:00.0, 2015-05-22 00:00:00.0 en San Juan -",
+      "Productos asociados Nombre del producto: Conceptualizing and Measuring Legal Cultures: Insights from a Survey of Mexican Judges Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "15 Nombre del evento: American Political Science Association. APSA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-08-25 00:00:00.0, 2014-08-28 00:00:00.0 en No informado - Productos asociados Nombre del producto: High Courts and the Enforcement of Socioeconomic Rights Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente",
+      "15 Nombre del evento: American Political Science Association. APSA Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-08-25 00:00:00.0, 2014-08-28 00:00:00.0 en No informado -",
+      "Productos asociados Nombre del producto: High Courts and the Enforcement of Socioeconomic Rights Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: University Of Notre Dame Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SANDRA BOTERO CABRERA Rol en el evento: Ponente"
+    ],
+    "fortalecimiento_o_soluci_n_de_asuntos_de_inter_s_social": [
+      "Apropiación social del conocimiento - Proceso de Apropiación Social del Conocimiento para el fortalecimiento o solución de asuntos de interés social: Nombre del producto: Semillero Política y Derecho(s), Fecha de presentación: 2019 - Febrero, Medio de verificación: https://pure.urosario.edu.co/es/organisations/politics-and-laws-research-incubator, Licencia creative: Atribución-No Comercial, Formato: MS Excel (.xls/.xlsx), Proyecto vinculado: Legitimidad de la Justicia Especial para la Paz en la opinión pública colombiana"
+    ],
+    "publicaciones_editoriales_no_especializadas": [
+      "Divulgación pública de la ciencia - Publicaciones editoriales no especializadas: cartillas, manual no especializado, periódicos, revistas, boletín, etc: Nombre del producto: Colombia, una democracia con fallas, Fecha de presentación: 2023 - Diciembre, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://urosario.edu.co/revista-divulgacion-cientifica, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: El auge de la derecha contra los derechos y el (des)orden global en América Latina y más allá"
+    ],
+    "producciones_de_contenido_digital_audiovisual": [
+      "Divulgación pública de la ciencia - Producciones de contenido digital - Audiovisuales - Video: Nombre del producto: Live Class: ¿Habrá fraude en las elecciones presidenciales?, Fecha de presentación: 2022 - Mayo, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://www.youtube.com/watch?v=W4g4uJtagNU, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Mujeres en los concejos colombianos: Un saldo en rojo",
+      "Divulgación pública de la ciencia - Producciones de contenido digital - Audiovisuales - Cápsulas de video: Nombre del producto: Videocapsula Libro The limits of judicialization. From progress to backlash in Latin America, Fecha de presentación: 2022 - Noviembre, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://www.youtube.com/watch?v=kRGAIuQDopA&list=PLMEJZPZDFU2nOV3gKDsLgrK1DS0ygt5yq&index=3, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Legitimidad de la Justicia Especial para la Paz en la opinión pública colombiana"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"La reforma constitucional de 1936, el estado y las políticas sociales en Colombia\" . En: Colombia ANUARIO COLOMBIANO DE HISTORIA SOCIAL Y DE LA CULTURA ISSN: 0120-2456 ed: Universidad Nacionalde Colombia v. 33 fasc. p.85 - 109 ,2006, DOI:",
+        "titulo": "La reforma constitucional de 1936, el estado y las políticas sociales en Colombia",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, RODRIGO CASTRO CORNEJO, LAURA GAMBOA GUTIERREZ, DAVID NICKERSON, NARA PAVAO, \"Under friendly fire: An experiment on partisan press, fragmented opposition and voting behavior\" . En: Reino Unido ELECTORAL STUDIES ISSN: 0261-3794 ed: ELSEVIER SCI LTD v. 60 fasc. p.100 - 121 ,2019, DOI: 10.1016/j.electstud.2019.04.008",
+        "titulo": "Under friendly fire: An experiment on partisan press, fragmented opposition and voting behavior",
+        "doi": "10.1016/j.electstud.2019.04.008",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, NARA PAVAO, LAURA GAMBOA GUTIERREZ, RODRIGO CASTRO CORNEJO, \"Are all types of wrongdoing created equal in the eyes of voters?\" . En: Reino Unido JOURNAL OF ELECTIONS PUBLIC OPINION AND PARTIES ISSN: 1745-7289 ed: ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD v. 29 fasc. p.2 - 18 ,2019, DOI: 10.1080/17457289.2019.1651322",
+        "titulo": "Are all types of wrongdoing created equal in the eyes of voters?",
+        "doi": "10.1080/17457289.2019.1651322",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, KATHERINE BERSCH, \"Measuring Governance: Implications of Conceptual Choices\" . En: Reino Unido EUROPEAN JOURNAL OF DEVELOPMENT RESEARCH ISSN: 0957-8811 ed: Palgrave Macmillan Ltd. v. 26 fasc. p.124 - 141 ,2014, DOI: 10.1057/ejdr.2013.49",
+        "titulo": "Measuring Governance: Implications of Conceptual Choices",
+        "doi": "10.1057/ejdr.2013.49",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"Trust in Colombia¿s Justicia Especial Para La Paz: Experimental Evidence\" . En: Alemania JOURNAL OF POLITICS IN LATIN AMERICA ISSN: 1866-802X ed: Sage v. 12 fasc. p.300 - 322 ,2020, DOI: 10.1177/1866802X20959509",
+        "titulo": "Trust in Colombia¿s Justicia Especial Para La Paz: Experimental Evidence",
+        "doi": "10.1177/1866802X20959509",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"Free Expression and Judicial Power in Colombia, India, and South Africa\" . En: Estados Unidos LAW SOCIAL INQUIRY ISSN: 0897-6546 ed: Cambridge Univ Press v. 46 fasc. p.331 - 363 ,2021, DOI: 10.1017/lsi.2020.24",
+        "titulo": "Free Expression and Judicial Power in Colombia, India, and South Africa",
+        "doi": "10.1017/lsi.2020.24",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, LAURA GAMBOA GUTIERREZ, DAVID NICKERSON, RODRIGO CASTRO CORNEJO, NARA PAVAO, \"Says Who? An Experiment on Allegations of Corruption and Credibility of Sources\" . En: Estados Unidos POLITICAL RESEARCH QUARTERLY ISSN: 1065-9129 ed: Sage v. 68 fasc. 3 p.493 - 504 ,2015, DOI: 10.1177/1065912915591607",
+        "titulo": "Says Who? An Experiment on Allegations of Corruption and Credibility of Sources",
+        "doi": "10.1177/1065912915591607",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"Confianza, apoyo a la democracia y corrupción: una mirada a la Corte Constitucional en la opinión pública colombiana\" . En: Colombia Latin American Law Review ISSN: 2619-4880 ed: v. 4 fasc. p.25 - 45 ,2020, DOI: 10.29263/lar04.2020.02",
+        "titulo": "Confianza, apoyo a la democracia y corrupción: una mirada a la Corte Constitucional en la opinión pública colombiana",
+        "doi": "10.29263/lar04.2020.02",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): SANDRA BOTERO CABRERA, LAURA GAMBOA GUTIERREZ, \"Corte al Congreso: Poder judicial y trámite legislativo en Colombia\" . En: Estados Unidos LATIN AMERICAN RESEARCH REVIEW ISSN: 0023-8791 ed: Cambridge University Press v. 53 fasc. p.592 - 606 ,2021, DOI: 10.25222/larr.757",
+        "titulo": "Corte al Congreso: Poder judicial y trámite legislativo en Colombia",
+        "doi": "10.25222/larr.757",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"El plebiscito y los desafíos políticos de consolidar la paz negociada en Colombia\" . En: Chile REVISTA DE CIENCIA POLITICA ISSN: 0718-090X ed: PONTIFICIA UNIV CATOLICA CHILE, INST CIENCIA POLITICA v. 37 fasc. p.369 - 388 ,2017, DOI: 10.4067/s0718-090x2017000200369.",
+        "titulo": "El plebiscito y los desafíos políticos de consolidar la paz negociada en Colombia",
+        "doi": "10.4067/s0718-090x2017000200369",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, KARINA ANSOLABEHERE, \"Conceptualizar y medir la cultura legal: evidencia a partir de una encuesta a los jueces federales mexicanos\" . En: México POLITICA Y GOBIERNO ISSN: 1665-2037 ed: Centro de Investigacion y Docencia Economicas v. 29 fasc. p.1 - 30 ,2022, DOI:",
+        "titulo": "Conceptualizar y medir la cultura legal: evidencia a partir de una encuesta a los jueces federales mexicanos",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, SILVIA ALEJANDRA OTERO BAHAMON, \"COLOMBIA 2022: DEL FIN DE LA GUERRA AL GOBIERNO DEL CAMBIO\" . En: Chile REVISTA DE CIENCIA POLITICA ISSN: 0718-090X ed: PONTIFICIA UNIV CATOLICA CHILE, INST CIENCIA POLITICA v. 43 fasc. 2 p.223 - 254 ,2023, DOI: 10.4067/s0718-090x2023005000114",
+        "titulo": "COLOMBIA 2022: DEL FIN DE LA GUERRA AL GOBIERNO DEL CAMBIO",
+        "doi": "10.4067/s0718-090x2023005000114",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"Judges, Litigants and the Politics of Rights Enforcement in Argentina\" . En: Estados Unidos COMPARATIVE POLITICS ISSN: 0010-4159 ed: City University of New York v. 50 fasc. 2 p.169 - 187 ,2018, DOI: DOI: https://doi.org/10.5129/001041518822263629",
+        "titulo": "Judges, Litigants and the Politics of Rights Enforcement in Argentina",
+        "doi": "DOI:",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"Judges under stress: The Argentine Supreme Court (2003-2023) and the Colombian Constitutional Court (2002-2023) amid polarization\" . En: Reino Unido ICON INTERNATIONAL JOURNAL OF CONSTITUTIONAL LAW ISSN: 1474-2640 ed: Oxford Univ Press v. 22 fasc. 5 p.1424 - 1448 ,2024, DOI: 10.1093/icon/moae076",
+        "titulo": "Judges under stress: The Argentine Supreme Court (2003-2023) and the Colombian Constitutional Court (2002-2023) amid polarization",
+        "doi": "10.1093/icon/moae076",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"Beyond US Models of Judicial Behavior: Choosing Constitutional Judges in Chile and Colombia\" . En: Estados Unidos LAW SOCIAL INQUIRY ISSN: 0897-6546 ed: Cambridge Univ Press v. 50 fasc. 2 p.629 - 634 ,2025, DOI: 10.1017/lsi.2025.24",
+        "titulo": "Beyond US Models of Judicial Behavior: Choosing Constitutional Judges in Chile and Colombia",
+        "doi": "10.1017/lsi.2025.24",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SANDRA BOTERO CABRERA, \"Shifting Frames: Actors and Digital Networks in Colombia¿s Anti-Gender Mobilization\" . En: Estados Unidos LATIN AMERICAN POLITICS AND SOCIETY ISSN: 1531-426X ed: Cambridge Univ Press v. 0 fasc. p.1 - 19 ,2026, DOI: 10.1017/lap.2026.10052",
+        "titulo": "Shifting Frames: Actors and Digital Networks in Colombia¿s Anti-Gender Mobilization",
+        "doi": "10.1017/lap.2026.10052",
+        "anio": "2026"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Libro resultado de investigación: SANDRA BOTERO CABRERA, \"Courts that Matter. Activists, Judges, and the Politics of Rights Enforcement\" En: Reino Unido 2023. ed:Cambridge University Press ISBN: 9781009281973 v. pags. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"Agents of neoliberalism? High Courts, Legal Preferences and Rights in Latin America\" Latin America Since the Left Turn . En: Estados Unidos ISBN: 9780812249712 ed: , v. , p.214 - 240 ,2017 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"Inequality and the Rule of Law: Ineffective Rights in Latin American Democracies\" Reflections on Uneven Democracies: The Legacy of Guillermo O'Donnell . En: Estados Unidos ISBN: 9781421414607 ed: , v. , p.214 - 239 ,2014 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"Working in New Political Spaces: The Checkered History of Latin American Judicialization\" The Limits of Judicialization From Progress to Backlash in Latin America . En: Inglaterra ISBN: 9781009093859 ed: Cambridge University Press (North America) , v. , p.1 - 38 ,2022 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"Rodolfo Hernández, ¿el Trump colombiano?.\" Gustavo Petro vs. Rodolfo Hernández: ¿Dos populismos encontrados? . En: Colombia ISBN: 978-958-500-140-4 ed: , v. , p.39 - 56 39616 ,2023 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"The Politics of Judicial Impact in Social and Economic Rights Cases\" The Oxford Handbook of Economic and Social Rights . En: Inglaterra ISBN: 9780197550052 ed: , v. , p.225 - 256 ,2023 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"La confianza en la Justicia Especial para la Paz: una mirada desde la opinión pública\" Paz y opinión pública en Colombia . En: Colombia ISBN: 978-958-798-524-5 ed: Ediciones Uniandes (Bogotá ) , v. , p.183 - 198 ,2023 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"El plebiscito y los desafíos políticos de consolidar la paz negociada\" Paz y opinión pública en Colombia . En: Colombia ISBN: 978-958-798-524-5 ed: Ediciones Uniandes (Bogotá ) , v. , p.75 - 94 ,2023 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"Los derechos de la población trans e intersex en la Corte Constitucional de Colombia: movilización e impacto judicial entre 1991-2022\" El uso del derecho como herramienta de transformación en América Latina . En: Colombia ISBN: 978-628-7764-12-5 ed: , v. , p.439 - 490 ,2025 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"Movilización y cumplimiento: ¿pueden la sociedad civil y los tribunales incidir en el impacto de los fallos pro-derechos?\" Perspectivas sobre el (in) cumplimiento de decisiones internacionales en materia de derechos humanos . En: Colombia ISBN: 978-607-552-517-4 ed: , v. , p.77 - 97 ,2025 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Tipo: Capítulo de libro SANDRA BOTERO CABRERA, \"Democracia en tiempos de clickbait\" IMAGINAR LA DEMOCRACIA . En: Colombia ISBN: 978-628-7807-00-6 ed: , v. , p.153 - 158 ,2025 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Periódico de noticias: SANDRA BOTERO CABRERA, \"Más hoja de vida y menos entrevista: la solicitud para elegir al nuevo registrador\" En: Colombia. 2023. Magazín Dominical, Diario El Espectador. ISSN: 0122-2856 p. 1 - 1 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Periódico de noticias: SANDRA BOTERO CABRERA, \"La Constitución de 1991: un acuerdo que sigue cambiando al país\" En: Colombia. 2021. Razon Publica. ISSN: 1657-1002 p. 1 - 2 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Periódico de noticias: SANDRA BOTERO CABRERA, \"Por fin una terna de tres para la Fiscalía\" En: Colombia. 2023. Razon Publica. ISSN: 1657-1002 p. 1 - 2 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Columna de opinión: SANDRA BOTERO CABRERA, \"Cambios en la Registraduría: ¿y las mujeres?\" En: Colombia. 2023. Razon Publica. ISSN: 1657-1002 p. 1 - 2 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Periódico de noticias: SANDRA BOTERO CABRERA, \"¿Defensores del pueblo o del gobierno?\" En: Colombia. 2024. Razon Publica. ISSN: 1657-1002 p. 1 - 2 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: SANDRA BOTERO CABRERA, \"Corrupción: el dilema del elector\" En: Colombia. 2020. DIVULGACION CIENTIFICA. ISSN: 2590-924X p. 111 - 112 v.4 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: SANDRA BOTERO CABRERA, \"Estados Unidos: la derecha se toma el poder judicial\" En: Colombia. 2020. Razon Publica. ISSN: 1657-1002 p. 3 - 4 v.1 Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "documentos_trabajo": [
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "SANDRA BOTERO CABRERA, \"LA ULTRADERECHA EN COLOMBIA: IDEAS Y LIDERAZGOS EN FORMACIÓN\" En: Colombia. 2023. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "otra_producci_n_blibliogr_fica": [
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SANDRA BOTERO CABRERA, \"Uribe vs las altas cortes: una historia sin fin\" En: Colombia. 2020. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: SANDRA BOTERO CABRERA, \"Mujeres en los concejos colombianos: saldo en rojo\" En: Colombia. 2020. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SANDRA BOTERO CABRERA, \"Cómo se cuece el sancocho. Las causas del estallido colombiano\" En: Colombia. 2019. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SANDRA BOTERO CABRERA, \"Colombia is having its largest wave of protests in recent decades. Why?\" En: Colombia. 2019. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SANDRA BOTERO CABRERA, \"El dividendo agridulce de la paz truncada\" En: Colombia. 2019. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,",
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SANDRA BOTERO CABRERA, \"El dividendo agridulce de la paz truncada\" En: Colombia. 2019. p. Areas: Ciencias Sociales -- Ciencias Políticas -- Ciencias Políticas,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Legitimidad de la Justicia Especial para la Paz en la opinión pública colombiana Inicio: Septiembre 2018 Fin: Marzo 2020 Duración Resumen Una parte esencial de los acuerdos de paz firmados entre el gobierno colombiano y las FARC la constituye el sistema para la justicia transicional. El corazón de este sistema es la Justicia Especial para la Paz (JEP), específicamente el Tribunal para la Paz y las salas adjuntas. Este proyecto busca aprovechar la oportunidad única de estudiar las etapas iniciales de creación y funcionamiento de un tribunal nacional de alto perfil y amplia jurisdicción como la JEP para dar respuesta a dos preguntas inter-relacionadas y de relevancia teórica y empírica: ¿qué factores explican la legitimidad de los tribunales en los ojos de los ciudadanos? ¿Cómo construyen los individuos sus evaluaciones de las cortes? Propongo diseñar una encuesta que incluya dos experimentos creados especialmente para evaluar la importancia de distintos factores en la construcción de la legitimidad judicial. El fondo de arranque financiará parcialmente el costo de contratar la ejecución de la encuesta telefónica con una firma encuestadora. Este estudio hará una contribución importante a la literatura comparada pero también es relevante para la realidad nacional. Dada la controversia que rodea el proceso de paz en general, y la gestación de la JEP en particular, su legitimidad, independencia y capacidad de producir decisiones que sean aceptadas por el público son asuntos de crucial importancia para la implementación de los acuerdos de La Habana. Estudiar las etapas iniciales de esta corte de manera rigurosa contribuirá a construir una muy necesaria línea de base que permita poner en contexto y comprender mejor una institución que va a ser central para la dinámica política de los próximos años en Colombia",
+      "Tipo de proyecto: Investigación y desarrollo Política y derecho en América Latina: Nuevas preguntas, viejos desafíos Inicio: Marzo 2019 Fin: Junio 2020 Duración Resumen El estudio de la relación entre política y derecho en América Latina ha sido un campo fértil en años recientes. Aunque la región tiene una amplia tradición en el abordaje del estudio de las cortes, el derecho y el sistema judicial desde el derecho y desde la perspectiva sociológica, no es sino hasta recientemente que la ciencia política también ha demostrado interés por estos temas. Esto responde a las dinámicas políticas nacionales de la región: hasta los años 90, la gran mayoría de los países latinoamericanos se caracterizaban por tener sistemas judiciales que carecían de independencia y eran extensiones funcionales del ejecutivo. En décadas recientes, muchos de estos sistemas judiciales se han transformado en escenarios políticos de suprema importancia. Cada vez más los ciudadanos latinoamericanos ven en el derecho y en sus sistemas judiciales espacios donde discutir y elaborar política pública, y también donde debatir el alcance y el contenido de derechos humanos, socioeconómicos, políticos y civiles. La centralidad actual del derecho y de las cortes para las dinámicas políticas nacionales de América Latina es uno de los cambios políticos más importantes a nivel regional después de la tercera ola de democratización (Sieder, Schjolden, y Angell 2005; Couso, Huneeus, y Sieder 2010; Helmke y Rios- Figueroa 2011). El seminario propuesto reunirá en la Universidad del Rosario a académicos senior y junior que realizan investigación de punta alrededor de tres temas de alta relevancia actual en el campo del derecho y la política desde una perspectiva comparada: las causas y consecuencias del activismo judicial anti-corrupción, el impacto de la creciente judicialización de la política en el goce efectivo de derechos, y las dinámicas de movilización legal contrarias a los avances progresistas promovidos por las cortes. Estos son los tres grandes temas que marcarán la agenda de la literatura sobre política y derecho en América Latina durante los próximos años. El objetivo del seminario es doble: Primero, generar un espacio de presentación y discusión sobre los trabajos de investigación de los académicos invitados con proyección a la publicación de un volumen editado por Sandra Botero (Universidad del Rosario), Daniel Brinks (University of Texas at Austin) y Ezequiel González Ocantos (University of Oxford). Segundo, el seminario impulsará la creación de redes entre los asistentes, ya que el grupo continuará trabajando hacia la publicación del libro después de la reunión inicial en Bogotá. El apoyo de la Universidad del Rosario a esta iniciativa haría posible reunir en un mismo espacio a académicos de América Latina, Estados Unidos y Europa, lo que beneficiaría en especial a los académicos junior y senior de países latinoamericanos quienes tendrán la posibilidad de fortalecer lazos con pares de otros países y posicionarse como referentes en su país. De igual manera, el seminario brindará a la Universidad del Rosario como una institución líder en el país y en la región en el área del estudio interdisciplinar de la judicialización de la política. A modo de comparación, luego de financiar y albergar una conferencia similar que dio lugar al influyente volumen Courts in Latin America (Cambridge University Press, 2011), el Centro de Investigación y Docencia Económicas (CIDE) de México se posicionó como una institución clave para el estudio de temas relacionados con el estado de derecho y la justicia a nivel internacional.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Mujeres en los concejos colombianos: Un saldo en rojo Inicio: Abril 2021 Fin: Diciembre 2021 Duración Resumen Las mujeres están subrepresentadas en los cargos de elección popular en Colombia. Este proyecto se propone contribuir a la comprensión de este fenómeno investigando cuáles son los factores que explican la mayor o menor inclusión de las mujeres en los concejos municipales colombianos. Queremos explorar la relación que existe entre la inclusión de mujeres a nivel subnacional y algunas características del sistema electoral, niveles de conflicto en el municipio y así como particularidades de las estructuras internas de los partidos políticos. Para este fin planteamos un proyecto que se apoya en una combinación de análisis cuantitativo y cualitativo. Analizaremos los patrones de composición por sexo de los concejos municipales de Colombia para el periodo 2016-2024. Parte de la base de datos que hará posible este análisis ya existe (para el periodo 2020-2024), y la otra parte (2016-2020) será construida durante la vigencia de este proyecto. El análisis cuantitativo nos permitirá identificar la influencia que tienen algunas características del sistema electoral, la presencia de actores armados y la competitividad del distrito sobre la representación de las mujeres en los concejos municipales de Colombia. El análisis cuantitativo se complementará con un estudio de caso de la experiencia de las mujeres candidatas al Concejo de Bogotá. Mediante este componente cualitativo buscamos comprender la influencia de los factores organizacionales al interior de los partidos políticos (como la cultura institucional, la ideología y la existencia de programas de apoyo para candidatas) en el desempeño electoral de las mujeres al concejo en Bogotá.",
+      "Tipo de proyecto: Investigación y desarrollo El auge de la derecha contra los derechos y el (des)orden global en América Latina y más allá Inicio: Febrero 2023 Fin: Diciembre 2024 Duración Resumen A new global social order emerged with the millennium: an expansion of rights to those excluded historically, culturally, socially, economically, and politically. Women, BIPOC groups, LGBT+ communities, immigrants, the economically-disadvantaged, environmentally vulnerable populations, and victim-survivors of human rights violations won rights on the books, if not always in practice. Yet this veritable rights revolution unleashed a right-wing backlash to roll back rights, undermining the new social order, and replacing it with polarized and often violent conflict around the world. To explore who is behind the disorder provoked by the right-against- rights, where and why, and with what impact, this project crosses disciplinary (social sciences-humanities) and geographic (global north-global south) knowledge frontiers. It overcomes narrow political-institutional and global north approaches. By combining history, law, sociology, gender, and area studies, it broadens knowledge of, and develops strategies to reduce, the right-against-rights¿ threat of disorder on fragile democracies in Latin America and beyond."
+    ]
+  }
+}

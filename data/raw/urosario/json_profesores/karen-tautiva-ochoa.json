@@ -1,0 +1,45 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/karen-tautiva-ochoa",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra",
+  "email": "karen.tautiva@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5155/Foto+Karen+Tautuva.jpg",
+  "afiliaciones": [
+    "Profesor cátedra - Decanatura del Medio Universitario - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Educación emocional",
+    "Inteligencia emocional",
+    "Procesos cognitivos y de aprendizaje"
+  ],
+  "formacion_academica": [
+    "2007, Psicóloga, Universidad Santo Tomas - Bogotá D.C.",
+    "2011, Especialista en Psicología Clínica y Desarrollo Infantil, Universidad El Bosque - Bogotá D.C.",
+    "2012, Maestría en Psicología, Universidad El Bosque - Bogotá D.C.",
+    "2012, Magíster en Psicología, Universidad El Bosque - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Desarrollo de habilidades para la vida desde el currículo electivo en educación superior: el caso de medición de la empatía",
+      "fecha": "2023-3-1",
+      "enlace": "https://doi.org/10.48102/rieeb.2023.3.2.57"
+    }
+  ],
+  "total_publicaciones": 1,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Aprender a cuidar(se): programa educativo centrado en la conciencia y la regulación emocional para estudiantes de quinto y sexto semestre de medicina de la Universidad del Rosario mediante un workbook de trabajo autónomo virtual."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelo para el abordaje de la salud mental de los estudiantes en instituciones de educación superior"
+    }
+  ],
+  "id": "karen-tautiva-ochoa",
+  "facultad_csv": "Decanatura del Medio Universitario",
+  "cargo_csv": "Profesor cátedra"
+}

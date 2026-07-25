@@ -1,0 +1,62 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/ivan-felipe-rico-gutierrez",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia y práctica",
+  "email": "ivanf.rico@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n45257/rico.JPG",
+  "afiliaciones": [
+    "Profesor de docencia y práctica - Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=0jwlQ-AAAAAJ&hl=es",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001888412",
+    "orcid": "https://orcid.org/0009-0009-4550-5890"
+  },
+  "areas_investigacion": [
+    "Capital markets",
+    "Entrepreneurship",
+    "Financial modeling",
+    "Fintech",
+    "Valuation"
+  ],
+  "perfil_profesional": "Ingeniero Industrial de la Universidad de los Andes (Colombia), Magíster en Economía y Finanzas de la Universidad de Skövde (Suecia) y Doctorando en Dirección de Proyectos de la Universidad Benito Juárez (México). Formación complementaria en Big Data para Finanzas, Contabilidad NIIF, Estrategia Empresarial, Transformación Digital, Operaciones Bursátiles, Riesgo Crediticio Y Mentoría para Emprendimiento. Actual director de la Maestría en Finanzas de la Universidad del Rosario. 17 años de experiencia como docente de Finanzas en universidades como El Rosario, Javeriana, Sabana, Tadeo, EAN y UDES. Experiencia de 9 años en el sector financiero, principalmente como Comisionista de Bolsa. Experiencia adicional en los sectores editorial y educativo como director de Planeación Financiera en Legis Editores S.A. y director de Emprendimiento en la Fundación Universitaria Compensar. Emprendedor en proyectos de e-commerce, legaltech, sector inmobiliario y fintech. Consultor en valoración de empresas, Excel y modelaje financiero.",
+  "formacion_academica": [
+    "2002, Ingeniero Industrial, Universidad de los Andes - Bogotá D.C.",
+    "2004, Magíster en Finanzas, Högskolan I Skövde"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Differences Between Methicillin-susceptible Versus Methicillin-resistant Staphylococcus aureus Infections in Pediatrics"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación financiera del proyecto turistico cabañas ecoproductivas El Oso en el parque natural los nevados"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001888412"
+    ],
+    "orcid": [
+      "https://orcid.org/0009-0009-4550-5890"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=0jwlQ-AAAAAJ&hl=es"
+    ]
+  },
+  "id": "ivan-felipe-rico-gutierrez",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor de docencia y práctica",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001888412",
+    "cod_rh": "0001888412",
+    "datos_generales": {
+      "Nombre": "Ivan Felipe Rico Gutierrez",
+      "Nombre en citaciones": "RICO GUTIERREZ, IVAN FELIPE",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    }
+  }
+}

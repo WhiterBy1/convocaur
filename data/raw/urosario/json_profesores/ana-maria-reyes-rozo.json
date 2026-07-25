@@ -1,0 +1,54 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/ana-maria-reyes-rozo",
+  "nombre": "Ana-María Reyes-Rozo",
+  "cargo_principal": "Profesor de docencia y práctica ",
+  "email": "anamar.reyes@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n15494/Foto+perfil+AMRR.jpeg",
+  "afiliaciones": [
+    "Profesor de docencia y práctica - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=IXMf0J0AAAAJ&hl",
+    "orcid": "https://orcid.org/0000-0002-0659-2655"
+  },
+  "areas_investigacion": [
+    "Andragogy",
+    "Education",
+    "Informática educativa",
+    "Instructional design",
+    "Occupational health & safety",
+    "Occupational therapy (LCSH)"
+  ],
+  "perfil_profesional": "Terapeuta Ocupacional de la Universidad del Rosario, Especialista en Seguridad y Salud en el Trabajo de la Universidad Santo Tomás y Magíster en Informática Educativa de la Universidad de La Sabana. Profesora de docencia y práctica en el programa de Terapia Ocupacional, con experiencia en población trabajadora, abordando temas relacionados con salud mental y cultura organizacional. Experta en diseñar estrategias que promueven el bienestar en el entorno laboral, así como en programas de reincorporación ocupacional, retiro laboral y empleabilidad de personas con discapacidad. Brinda asesoría pedagógica enfocada en la creación de ambientes de aprendizaje innovadores y colaborativos, incluyendo el diseño instruccional especializado para entornos virtuales.",
+  "formacion_academica": [
+    "2019, Terapeuta Ocupacional, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2022, Magíster en Informatica Educativa, Universidad de La Sabana - Chia"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Estrategia Educativa desde el Conectivismo y Aprendizaje Basado en Problemas: Diseño de un Aula Virtual",
+      "fecha": "2023-8-17",
+      "enlace": "https://doi.org/10.47185/27113760.v4n1.100"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "BE BETTER TEST: Global Initiatives for the Critical Analysis of Competency Progression in Occupational Therapy Students: An Occupation-Centered Simulation Tool.",
+      "fecha": "2025-3-28",
+      "enlace": "https://doi.org/10.48713/10336_45170"
+    }
+  ],
+  "total_publicaciones": 2,
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-0659-2655"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=IXMf0J0AAAAJ&hl"
+    ]
+  },
+  "id": "ana-maria-reyes-rozo",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor de docencia y práctica"
+}

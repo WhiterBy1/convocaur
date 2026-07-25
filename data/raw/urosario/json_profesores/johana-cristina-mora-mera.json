@@ -1,0 +1,52 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/johana-cristina-mora-mera",
+  "nombre": "",
+  "cargo_principal": "Instructor",
+  "email": "johana.mora@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n4599/Mora+Mera%2C+Johana+Cristina.png",
+  "afiliaciones": [
+    "Instructor - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?hl=es&user=_dHV0ZYAAAAJ",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002005405",
+    "orcid": " https://orcid.org/0000-0001-7918-7864"
+  },
+  "areas_investigacion": [
+    "Desarrollo del Movimiento",
+    "Desarrollo del movimiento corporal humano",
+    "Fisioterapia",
+    "Masaje terapéutico",
+    "Práctica Integral de pediatría",
+    "Ventilación Mecánica"
+  ],
+  "perfil_profesional": "Johana Cristina Mora Mera es Fisioterapeuta con formación especializada en Neurodesarrollo y Pediatría, con una sólida trayectoria en el abordaje integral de pacientes pediátricos y neonatales. Cuenta con más de 10 años de experiencia en el área clínica y académica, enfocada en la atención de recién nacidos, niños con patologías neurológicas y oncológicas, así como en el manejo de alteraciones digestivas del lactante y asesoría en lactancia materna. Su práctica profesional se ha desarrollado principalmente en unidades de cuidado intensivo neonatal (UCIN), donde ha profundizado en la intervención fisioterapéutica temprana para la prevención y mitigación de secuelas del desarrollo. Además, ha incorporado un enfoque interdisciplinario centrado en la familia. Como docente universitaria, lleva una década formando profesionales en el área de fisioterapia pediátrica y neonatológica. Paralelamente, participa en procesos investigativos centrados en el impacto de la fisioterapia en el desarrollo infantil, con interés particular en la neuroplasticidad y la intervención temprana en contextos de alta complejidad.",
+  "formacion_academica": [
+    "2011, Fisioterapeuta, Corporacion Universitaria Iberoamericana - Bogotá D.C."
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002005405"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0001-7918-7864"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?hl=es&user=_dHV0ZYAAAAJ"
+    ]
+  },
+  "id": "johana-cristina-mora-mera",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Instructor",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002005405",
+    "cod_rh": "0002005405",
+    "datos_generales": {
+      "Nombre": "Johana Cristina Mora Mera",
+      "Nombre en citaciones": "Johana Cristina Mora Mera, Johana Mora",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    }
+  }
+}

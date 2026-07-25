@@ -1,0 +1,56 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/oscar-alejandro-cordoba-salgado",
+  "nombre": "Córdoba-Salgado, Oscar",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "oscar.cordoba@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n4922/Profe+HUB.jpeg",
+  "afiliaciones": [
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=35791703900",
+    "google_scholar": "https://scholar.google.com/citations?user=rod5HF4AAAAJ&hl=es",
+    "pure": "https://pure.urosario.edu.co/en/persons/oscar-alejandro-c%C3%B3rdoba-salgado/",
+    "orcid": "https://orcid.org/0000-0003-3405-4501"
+  },
+  "areas_investigacion": [
+    "Formación de terapeutas",
+    "Práctica deliberada",
+    "Psicología Clínica",
+    "Psicoterapia analítico funcional"
+  ],
+  "perfil_profesional": "Psicólogo de la Universidad Nacional de Colombia, Magister en Psicología clínica y Doctor en Psicología de la Universidad de los Andes. Profesor principal de carrera de la Universidad del Rosario, Bogotá, Colombia, del programa de psicología. Cuenta con 14 años de experiencia clínica en práctica privada. Docente y supervisor del área clínica por más de cinco años y con enfoque en la enseñanza del manejo de contingencias y terapias contextuales. Investigación y publicaciones en el área de formación a terapeutas e impacto de inequidades estructurales sobre la salud mental. Terapeuta certificado en práctica deliberada por la sociedad internacional de práctica deliberada y certificado como entrenador en Psicoterapia analítico funcional por la Universidad de Washington.",
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Longitudinal and bidirectional associations between posttraumatic stress disorder and emotional support among disaster-affected men and women",
+      "fecha": "2023-8-1",
+      "enlace": "https://doi.org/https://doi.org/10.1002/jts.22949"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A descriptive analysis of the interactions during clinical supervision",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.3389/fpsyg.2019.00669"
+    }
+  ],
+  "total_publicaciones": 2,
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0003-3405-4501"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=rod5HF4AAAAJ&hl=es"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/oscar-alejandro-c%C3%B3rdoba-salgado/"
+    ],
+    "scopus_id": [
+      "35791703900"
+    ]
+  },
+  "id": "oscar-alejandro-cordoba-salgado",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera"
+}

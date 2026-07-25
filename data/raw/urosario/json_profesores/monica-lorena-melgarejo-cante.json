@@ -1,0 +1,41 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/monica-lorena-melgarejo-cante",
+  "nombre": "",
+  "cargo_principal": "Docente clínico",
+  "email": "monica.melgarejo@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n16573/IMG_3667.jpg",
+  "afiliaciones": [
+    "Docente clínico - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?hl=es&authuser=2&user=sW_joq8AAAAJ",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/EnRecursoHumano/query.do",
+    "orcid": "https://orcid.org/my-orcid?orcid=0000-0002-4764-8424"
+  },
+  "areas_investigacion": [
+    "Cuidado crítico",
+    "Fisioterapia",
+    "Salud pública"
+  ],
+  "perfil_profesional": "Fisioterapeuta, Especialista en Cuidado Crítico y Magíster en Salud Pública, con más de 10 años de experiencia en el área de cuidados intensivos adulto. Mi trayectoria profesional se ha enfocado en la atención integral del paciente crítico, combinando la práctica clínica con la docencia y la investigación. En el ámbito académico, he participado como ponente en escenarios nacionales e internacionales. En la Universidad Manuela Beltrán abordé el tema “Manejo del paciente crítico en enfermedad COVID-19”, y como ponente internacional en la Universidad Estatal de Milagro (Ecuador), desarrollé la conferencia “Efectos de la posición prona en paciente COVID-19 despierto y no despierto”. Asimismo, he acompañado procesos de formación de estudiantes de pregrado, posgrado y de intercambio académico, fortaleciendo competencias clínicas en el contexto de la atención al paciente crítico. Mi trabajo investigativo se ha centrado en la relación entre actividad física, condición de salud y secuelas post-COVID-19 en profesionales de la salud. Mi tesis de maestría, titulada “Efectos de la actividad física y ejercicio físico en profesionales de la salud con síndrome post-COVID-19: revisión sistematizada de la literatura”, recibió Mención Meritoria por su aporte académico y científico. Además, obtuve certificación en concurso de trabajos de investigación en modalidad póster con el estudio “Percepción de salud con relación a la actividad y la condición física de los profesionales de la salud posterior a la infección por SARS-CoV-2 (COVID-19)”. Actualmente, formo parte del grupo de investigación CIMED de Mederi, participando en el desarrollo y proceso de publicación de investigaciones en el campo de la salud pública y las ciencias de la salud, contribuyendo a la generación de conocimiento basado en evidencia para el fortalecimiento de la práctica clínica y las políticas en salud.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/EnRecursoHumano/query.do"
+    ],
+    "orcid": [
+      "https://orcid.org/my-orcid?orcid=0000-0002-4764-8424"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?hl=es&authuser=2&user=sW_joq8AAAAJ"
+    ]
+  },
+  "id": "monica-lorena-melgarejo-cante",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/EnRecursoHumano/query.do",
+    "cod_rh": "",
+    "datos_generales": {}
+  }
+}

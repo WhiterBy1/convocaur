@@ -1,0 +1,273 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/fabian-sanchez-salazar",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "fabian.sanchez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n8818/SANCHEZ+SALAZAR+FABIAN.jpg",
+  "afiliaciones": [
+    "Director Maestría en Matemáticas Aplicadas y Ciencias de la Computación - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=JZVAUnkAAAAJ",
+    "pure": "https://pure.urosario.edu.co/es/persons/fabian-sanchez-salazar",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000512400",
+    "orcid": "https://orcid.org/0000-0003-1111-4436"
+  },
+  "areas_investigacion": [
+    "Ecuaciones diferenciales parciales",
+    "Machine learning",
+    "Modelamiento matemático"
+  ],
+  "perfil_profesional": "Professor Fabián Sánchez is a mathematician, with a Master’s and Ph.D. in Mathematics from the National University of Colombia. His research interests and experience include partial differential equations and artificial intelligence: machine learning and natural language processing. He has over 17 years of teaching experience at various universities in Bogotá and more than 7 years in academic program leadership roles. He is currently a full professor at the School of Engineering, Science and Technology at Universidad del Rosario El profesor Fabián Sánchez es matemático, con maestría y doctorado en Matemáticas de la Universidad Nacional de Colombia. Sus intereses y experiencia de investigación incluyen ecuaciones diferenciales parciales e inteligencia artificial: aprendizaje automático y procesamiento de lenguaje natural. Cuenta con más de 17 años de experiencia docente en diversas universidades de Bogotá y más de 7 años en cargos de dirección de programas académicos. Actualmente es profesor de planta en la Escuela de Ingeniería, Ciencia y Tecnología de la Universidad del Rosario.",
+  "formacion_academica": [
+    "2005, Matemático, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2008, Magíster en Ciencias Matemáticas, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2015, Doctor en Ciencias - Matemáticas, Universidad Nacional de Colombia - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Sobre el número de rotación en el círculo y el anillo",
+      "fecha": "2023-12-29",
+      "enlace": "https://doi.org/https://doi.org/10.18359/rfcb.6665"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Comparison of Modeling Methodologies for Inverters in Grid-Connected Mode, Controlled by Droop Scheme",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/c7183b3f-487c-4901-aff7-3db69ade9104"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Local Well-posedness of the reguralized rBO-ZK equation in Sobolev spaces of negative indices.",
+      "fecha": "2015-6-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ba716b7c-59e0-44df-b920-bf8cac759de0"
+    }
+  ],
+  "total_publicaciones": 3,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Dispositivo Robótico Vestible para la Correcta Postura Durante el Levantamiento de Carga (RoboLift)",
+      "fecha": "2026-02-02 - 2027-08-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F610a9e1c-bbbe-4d24-b1fd-82f10985c035"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "ECOTRACK - Herramienta digital de procesamiento de datos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Juristrack: herramienta digital para la gestión estratégica del proceso de transición al plan de estudios JU04 en la Facultad de Jurisprudencia de la Universidad del Rosario"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelado predictivo de la ocurrencia de focos de incendios forestales en Colombia mediante técnicas de machine learning"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Predicción del comportamiento de un índice bursátil usando Deep Learning y Procesamiento de Lenguaje Natural"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000512400"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0003-1111-4436"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=JZVAUnkAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/fabian-sanchez-salazar"
+    ]
+  },
+  "id": "fabian-sanchez-salazar",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000512400",
+    "cod_rh": "0000512400",
+    "datos_generales": {
+      "Nombre": "Fabián Sánchez Salazar",
+      "Nombre en citaciones": "SÁNCHEZ SALAZAR, FABIÁN",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Doctorado UNIVERSIDAD NACIONAL DE COLOMBIA DOCTORADO EN MATEMATICAS Febrerode2009 - Agostode 2015 El problema de Cauchy asociado a una ecuación del Tipo rBO-ZK",
+      "Maestría/Magister UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Maestria en Matemáticas Agostode2005 - Diciembrede 2008 Sobre Difeomorfismos Genéricos de Moser",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA MATEMATICAS Febrerode2001 - Noviembrede 2005 Algunas bifurcaciones en sistemas dinámicos de una y dos dimensiones"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración UNIVERSIDAD CENTRAL Gestión Universitaria Juliode2019 - Juliode 2019"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Agosto de 2023 de Actual Actividades de administración - Director de unidad - Cargo: Director del programa de Maestría en Matemáticas Aplicadas y Ciencias de la Computación. Co-Director Analítica de Datos y Mercados Agosto de 2023 Enero de Actividades de docencia - Postgrado - Nombre del curso: Aprendizaje Automático de Máquina 1 Opción de Grado 1 y 2, 15 Agosto 2023 Enero - Pregrado - Nombre del curso: Procesamiento de Lenguaje Natural, 15 Agosto 2023 Diciembre 2023",
+      "UNIVERSIDAD CENTRAL Dedicación: 40 horas Semanales Mayo de 2021 Julio de 2024 Actividades de administración - Director de unidad - Cargo: Director del Centro de Posgrados de la Facultad de Ingeniería y Ciencias Básicas. Director(e) Programa de Matemáticas Mayo de 2021 Julio de 2024 Actividades de docencia - Postgrado - Nombre del curso: Fundamentos de Estadística para Analítica de Datos Proyecto de Investigación Métodos Estadísticos para Analítica de Datos, 30 Mayo 2024 Julio 2024",
+      "UNIVERSIDAD CENTRAL Dedicación: 40 horas Semanales Abril de 2010 Julio de 2021 Actividades de administración - Director de unidad - Cargo: Director del Departamento de Matemáticas al cual esta adscrito el programa de pregrado en Matemáticas y las áreas de servicios en matemáticas. Manejo administrativo de los mismos, elaboración de documentos para registro calificado y demás procesos afínes Enero de 2017 Mayo de 2021 Actividades de docencia - Pregrado - Nombre del curso: Matemáticas 1 Matemáticas 2 Matemáticas 3 Cálculo Vectorial Cálculo Diferencial Algebra Lineal Ecuaciones Diferenciales Teoría de Números Análisis Funcional, 15 Abril 2010 Noviembre 2015",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA Dedicación: 8 horas Semanales Febrero de 2006 Marzo de 2014 Actividades de docencia - Pregrado - Nombre del curso: Cálculo Diferencial Cálculo Integral Cálculo Vectorial Ecuaciones Diferenciales Variable Compleja Elementos de Topólogia y Análisis Algebra Lineal, 40 Febrero 2006 Abril 2010",
+      "UNIVERSIDAD EXTERNADO DE COLOMBIA Dedicación: 20 horas Semanales Julio de 2007 Junio de 2013 Actividades de docencia - Pregrado - Nombre del curso: Matemáticas Básicas, Cálculo Diferencial, Cálculo Integral, Cálculo III, Algebra Lineal y Teoría de Juegos, Algebra Lineal. Cursos de álgebra básica, 25 Julio 2007",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 14 horas Semanales Febrero de 2007 Diciembre de 2007 Actividades de docencia - Pregrado - Nombre del curso: Cálculo Diferencial, Cálculo Integral, Cálculo Vectorial, Matemáticas Básicas, Algebra Lineal, 34 Febrero 2007 Diciembre 2007",
+      "UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Dedicación: 18 horas Semanales Junio de 2006 Junio de 2007 Actividades de docencia - Pregrado - Nombre del curso: Cálculo Vectorial, Cálculo Diferencial, Cálculo Integral, Ecuaciones Diferenciales, Matemáticas especiales., 35 Junio 2006 Junio 2007"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Matemática -- Matemáticas Puras",
+      "Ciencias Naturales -- Matemática -- Matemáticas Aplicadas",
+      "Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Portugués",
+        "habla": "Aceptable",
+        "escribe": "Aceptable",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Modelos matemáticos en electrónica, Activa: No",
+      "Ecuaciones Diferenciales Parciales de Evolución, Activa: Si",
+      "Inteligencia Artificial y Procesamiento y Análisis de Datos, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Beca para estudiantes sobresalientes de postgrado,UNIVERSIDAD NACIONAL DE COLOMBIA - de 2006",
+      "Beca Mazda,Fundación Mazda Para El Arte Y La Ciencia - Enerode 2012",
+      "Beca para estudios de doctorado en Colombia-Colciencias ,Ministerio de Ciencia, Tecnología e Innovación. - Enerode 2013"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: FABIAN SANCHEZ SALAZAR, ANALÍTICA PREDICTIVA APLICADA PARA LA CONSECUCIÓN DE NUEVOS CLIENTES: CASO DE ESTUDIO DAVIVIENDA CORREDORES UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): JOSE LEONARDO VERA MORENO JUAN CARLOS GONZALEZ SANDOVAL Javier Eduardo Rico Contreras Tutor(es)/Cotutor(es): FABIAN SANCHEZ SALAZAR, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: FABIAN SANCHEZ SALAZAR, PREDICCIÓN DE RESULTADOS DE ESTUDIANTES EN LAS PRUEBAS SABER 11 A PARTIR DE LA INFORMACIÓN ACADÉMICA DE SUS GRADOS ANTERIORES (9 Y 10) UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Jose Cristobal Molina Cortes jeisson edilberto lombana Juan Pablo Unda Orozco Tutor(es)/Cotutor(es): FABIAN SANCHEZ SALAZAR, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: FABIAN SANCHEZ SALAZAR, APLICACIÓN DE MODELOS DE MACHINE LEARNING EN EL PROCESAMIENTO Y ANÁLISIS DE INFORMACIÓN DE UN CONJUNTO DE DATOS DE UNA EMPRESA DE DISEÑO E IMPRESIÓN SOBRE PAPEL UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): FABIAN SANCHEZ SALAZAR, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: FABIAN SANCHEZ SALAZAR, MODELO PREDICTIVO PARA LA CLASIFICACIÓN DE EVENTOS CEREBROVASCULARES EN PACIENTES PEDRIÁTRICOS CON ANEMIA DE CELULAS FALCIFORMES UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): SINDY TATIANA CORDOBA CORDOBA Dina Constanza Toro Parra Tutor(es)/Cotutor(es): FABIAN SANCHEZ SALAZAR, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: FABIAN SANCHEZ SALAZAR, PROCESAMIENTO Y ANÁLISIS DE INFORMACIÓN USANDO TÉCNICAS DE MACHINE LEARNING Y PROCESAMIENTO DE LENGUAJE NATURAL EN UN CONJUNTO DE DATOS DE UNA EMPRESA DE FABRICACIÓN DE ENVASES PLÁSTICOS UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): David Andres Casilimas Calvo Jhon Alejandro Varón Robayo Tutor(es)/Cotutor(es): FABIAN SANCHEZ SALAZAR, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: FABIAN SANCHEZ SALAZAR, APLICACIÓN DE ALGORITMOS DE APRENDIZAJE AUTOMÁTICO A DIFERENTES CONJUNTOS DE DATOS IMPLEMENTADOS SOBRE UNA ARQUITECTURA ORIENTADA A BIG DATA ANALYTICS UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Wilder ramirez delgado Oscar Sebastián Deantonio Castillo Tutor(es)/Cotutor(es): FABIAN SANCHEZ SALAZAR, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: OPTIMIZACIÓN DE LA PLANIFICACIÓN PRODUCTIVA DE LA MEDIANA EMPRESA DURANTE UNA CRISIS MACROECONÓMICA Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: TRANSFORMADA DE FOURIER APLICADA AL ANÁLISIS DE LA ESTRUCTURA MICRÓSCOPICA DE LA MATERIA Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MATEMATICAS Nombre del orientado: WILLIAM DAVID PRADA BUITRAGO Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: ANÁLISIS DE SENTIMIENTOS: MATEMÁTICAS PARA DETECTAR TENDENCIAS SUICIDAS EN TWITTER Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MATEMATICAS Nombre del orientado: MARIBEL DUQUE LÓPEZ Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: CLASIFICACIÓN DE IMÁGENES DE MELANOMAS MEDIANTE REDES NEURONALES CONVOLUCIONALES: PRE-ENTRENAMIENTO VS APRENDIZAJE GUIADO POR DATOS ABIERTOS Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: RED NEURONAL PARA LA CLASIFICACIÓN DE INDIVIDUOS EN GRUPOS ÉTNICOS PARA EL CENSO POBLACIONAL DE COLOMBIA 2018 Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: APRENDIZAJE POR REFUERZO DE UN PARSER SEMÁNTICO ÓPTIMO EN DRT Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN MATEMÁTICAS APLICADAS Y CIENCIAS DE LA COMPUTACIÓN Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: IMPLEMENTACIÓN DE UN SISTEMA EMBEBIDO PARA LA CLASIFICACIÓN DE FUENTES DE RUIDO AMBIENTAL URBANO UTILIZANDO TÉCNICAS DE TINYML EN UN ENTORNO ACÚSTICO DE BOGOTÁ Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN MATEMÁTICAS APLICADAS Y CIENCIAS DE LA COMPUTACIÓN Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: PROTOTIPO DE UN MODELO DE OPTIMIZACIÓN DE RECURSOS PARA LA OPERACIÓN DEL CESO DE EDIFICIACIONES-DANE Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: DEMAND FORECASTING OF THE FAST MOVING CONSUMER GOODS BASED ON MODELING OF TIME SERIES AND DEEP LEARNING METHODS Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Jorge Tadeo Lozano programa académico MAESTRÍA EN MODELADO Y SIMULACIÓN Nombre del orientado: JOSE NICOLÁS VALBUENA Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: REDUCCIÓN DE DIMENSIONALIDAD: AUTOENCODERS VS PCA Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: ESPECIFICACIÓN SOBRE SISTEMAS DINÁMICOS ERGÓDICOS CON MEDIDA EXPANSIVA Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Pedagógica y Tecnológica de Colombia - UPTC - Sede Tunja programa académico Maestría en Matemáticas Nombre del orientado: GLORIA ESPERANZA SUAREZ PIRATOBA Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: OPTIMIZACIÓN DEL MODELO DE NEGOCIO DE LA EMPRESA \"DELEITE Y SABOR\" A PARTIR DE LA TRANSICIÓN EN LOS DATOS Y EL APOYO EN LA TRANSFERENCIA DE CONOCIMIENTO A LA SEGUNDA GENERACIÓN Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: SISTEMA INTELIGENTE DE DETECCIÓN DE ASENTAMIENTOS HUMANOS INFORMALES EN EL MUNICIPIO DE NEIVA HUILA EMPLEANDO APRENDIZAJE PROFUNDO Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN MATEMÁTICAS APLICADAS Y CIENCIAS DE LA COMPUTACIÓN Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: ANÁLISIS COMPARATIVO DE OPTIMIZACIÓN DE HIPERPARÁMETROS POR BÚSQUEDA EN GRILLA Y ALGORITMOS GENÉTICOS PARA FORECASTING DE XGBOOST EN VENTAS ONLINE Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: GENERACIÓN DE UN INDICADOR DE EXPERIENCIA BASADO EN COMENTARIOS Y RESEÑAS EN ESPAÑOL APLICANDO EL MODELO BERT Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: ELMER FELIPE CARMONA MONGUA Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: IDENTIFICACIÓN DE EVASORES DEL SISTEMA DE PROTECCIÓN SOCIAL USANDO REDES NEURONALES Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: AUTOMATIZACIÓN DE PROCESOS DE CUALIFICACIÓN IQAP MEDIANTE CHATBOT DE IA PARA INGRESO A UNIVERSIDADES INTERNACIONALES Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN MATEMÁTICAS APLICADAS Y CIENCIAS DE LA COMPUTACIÓN Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: Integración de Modelos Predictivos y de Procesamiento de Lenguaje Natural para la Evaluación del Riesgo Cardiovascular en Pacientes de la Fundación Santa Fe de Bogotá: Un Enfoque Práctico en Salud Cardiovascular Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: CONSTRUCCIÓN Y APLICACIÓN DE UNA LIBRERÍA PARA REDES NEURONALES RECURRENTES EN PYTHON Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MATEMATICAS Nombre del orientado: SANTIAGO GONZÁLEZ CRUZ Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: PREDICCIÓN DEL PRECIO DEL BITCOIN UTILIZANDO ALGORITMOS DE APRENDIZAJE PROFUNDO Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN MATEMÁTICAS APLICADAS Y CIENCIAS DE LA COMPUTACIÓN Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: INTRODUCCIÓN Y APLICACIONES A LA TEORÍA DE DISTRIBUCIONES Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MATEMATICAS Nombre del orientado: JUAN SEBASTIAN BLANCO PEÑA Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: EXPLORACIÓN DE TÉCNICAS DE MACHINE LEARNING PARA SEGMENTACIÓN DE CLIENTES EN UNA ENTIDAD FINANCIERA Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: JOSE SEBASTIAN ROA YOPASA Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: ESTRUCTURAR LA INFORMACIÓN A PARTIR DE HISTORIAS CLÍNICAS EN PDF Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD CENTRAL programa académico MAESTRÍA EN ANALÍTICA DE DATOS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: FABIAN SANCHEZ SALAZAR, Titulo: DISEÑO E IMPLEMENTACIÓN DE UN NUEVO MODELO DE ENSEÑANZA-APRENDIZAJE DE MÉTODOS CUANTITATIVOS EN LA FACULTAD DE ADMINISTRACIÓN DE EMPRESAS Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD EXTERNADO DE COLOMBIA programa académico Finanza, Gobierno y Relaciones Internacionales Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: Modelo de optimización para minimizar los tiempos de viaje de los usuarios en la troncal décima Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD CENTRAL programa académico MATEMATICAS Nombre del orientado: Cristian Valoyes Ayala Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: Entropía en Sistemas Dinámicos, equivalencia ergódica y principio variacional Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD CENTRAL programa académico MATEMATICAS Nombre del orientado: Francy Julieth Buitrago Ramírez Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: FABIAN SANCHEZ SALAZAR, Titulo: Aplicación del cálculo estocástico en la estimación de la tasa de interés IBR en Colombia Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD CENTRAL programa académico MATEMATICAS Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: XVI CONGRESO NACIONAL DE MATEMÁTICAS Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-07-16 00:00:00.0, 2007-07-19 00:00:00.0 en MEDELLÍN - Medellín Instituciones asociadas Nombre de la institución: ALCALDIA DE MEDELLIN Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente",
+      "1 Nombre del evento: XVI CONGRESO NACIONAL DE MATEMÁTICAS Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-07-16 00:00:00.0, 2007-07-19 00:00:00.0 en MEDELLÍN - Medellín",
+      "Instituciones asociadas Nombre de la institución: ALCALDIA DE MEDELLIN Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente",
+      "2 Nombre del evento: IX SIMPOSIO DE MATEMÁTICAS Y EDUCACIÓN MATEMÁTICA Tipo de evento: Simposio Ámbito: Nacional Realizado el:2019-02-08 00:00:00.0, 2019-02-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman) Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "2 Nombre del evento: IX SIMPOSIO DE MATEMÁTICAS Y EDUCACIÓN MATEMÁTICA Tipo de evento: Simposio Ámbito: Nacional Realizado el:2019-02-08 00:00:00.0, 2019-02-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman)",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "3 Nombre del evento: VI CONGRESO INTERNACIONAL DE MATEMÁTICA ASISTIDA POR COMPUTADOR Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-02-10 00:00:00.0, 2017-02-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman) Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "3 Nombre del evento: VI CONGRESO INTERNACIONAL DE MATEMÁTICA ASISTIDA POR COMPUTADOR Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-02-10 00:00:00.0, 2017-02-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman)",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "4 Nombre del evento: VII SIMPOSIO DE MATEMÁTICAS Y EDUCACIÓN MATEMÁTICA Tipo de evento: Otro Ámbito: Nacional Realizado el:2017-02-10 00:00:00.0, 2017-02-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman) Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "4 Nombre del evento: VII SIMPOSIO DE MATEMÁTICAS Y EDUCACIÓN MATEMÁTICA Tipo de evento: Otro Ámbito: Nacional Realizado el:2017-02-10 00:00:00.0, 2017-02-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman)",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "5 Nombre del evento: VIII CONGRESO INTERNACIONAL DE MATEMÁTICA ASISTIDA POR COMPUTADOR Tipo de evento: Otro Ámbito: Internacional Realizado el:2019-02-08 00:00:00.0, 2019-02-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman) Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "5 Nombre del evento: VIII CONGRESO INTERNACIONAL DE MATEMÁTICA ASISTIDA POR COMPUTADOR Tipo de evento: Otro Ámbito: Internacional Realizado el:2019-02-08 00:00:00.0, 2019-02-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman)",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "6 Nombre del evento: VII CONGRESO INTERNACIONAL DE MATEMÁTICA ASISTIDA POR COMPUTADOR Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-02-09 00:00:00.0, 2018-02-10 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman) Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "6 Nombre del evento: VII CONGRESO INTERNACIONAL DE MATEMÁTICA ASISTIDA POR COMPUTADOR Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-02-09 00:00:00.0, 2018-02-10 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman)",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "7 Nombre del evento: VIII SIMPOSIO DE MATEMÁTICAS Y EDUCACIÓN MATEMÁTICA Tipo de evento: Simposio Ámbito: Nacional Realizado el:2018-02-09 00:00:00.0, 2018-02-10 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman) Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "7 Nombre del evento: VIII SIMPOSIO DE MATEMÁTICAS Y EDUCACIÓN MATEMÁTICA Tipo de evento: Simposio Ámbito: Nacional Realizado el:2018-02-09 00:00:00.0, 2018-02-10 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño (Sede Federman)",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "8 Nombre del evento: IX SIMPOSIO EN OPTIMIZACIÓN Tipo de evento: Simposio Ámbito: Nacional Realizado el:2017-02-13 00:00:00.0, 2017-02-14 00:00:00.0 en BOGOTÁ, D.C. - Universidad Central Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "8 Nombre del evento: IX SIMPOSIO EN OPTIMIZACIÓN Tipo de evento: Simposio Ámbito: Nacional Realizado el:2017-02-13 00:00:00.0, 2017-02-14 00:00:00.0 en BOGOTÁ, D.C. - Universidad Central",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Organizador",
+      "9 Nombre del evento: Congreso Internacional de Ciencias Básicas e Ingenierías CICI 2018 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2018-08-05 00:00:00.0, 2018-08-07 00:00:00.0 en VILLAVICENCIO - Universidad de los LLanos-Sede Barcelona VIllavicencio-Meta Instituciones asociadas Nombre de la institución: Departamento De Investigaciones Universidad Central Tipo de vinculación Patrocinadora Participantes Nombre: ALONSO DE JESUS CHICA LEAL Rol en el evento: Ponente Nombre: CESAR AUGUSTO RODRIGUEZ DUQUE Rol en el evento: Ponente Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO DIAZ CONTRERAS Rol en el evento: Ponente",
+      "9 Nombre del evento: Congreso Internacional de Ciencias Básicas e Ingenierías CICI 2018 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2018-08-05 00:00:00.0, 2018-08-07 00:00:00.0 en VILLAVICENCIO - Universidad de los LLanos-Sede Barcelona VIllavicencio-Meta",
+      "Instituciones asociadas Nombre de la institución: Departamento De Investigaciones Universidad Central Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALONSO DE JESUS CHICA LEAL Rol en el evento: Ponente Nombre: CESAR AUGUSTO RODRIGUEZ DUQUE Rol en el evento: Ponente Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO DIAZ CONTRERAS Rol en el evento: Ponente",
+      "10 Nombre del evento: XXI CONGRESO COLOMBIANO DE MATEMÁTICAS Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en BOGOTÁ, D.C. - UNIVERSIDAD NACIONAL, BOGOTÁ Productos asociados Nombre del producto: Mal planteamiento del problema de Cauchy asociado a una ecuación del tipo rBO-ZK Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente",
+      "10 Nombre del evento: XXI CONGRESO COLOMBIANO DE MATEMÁTICAS Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en BOGOTÁ, D.C. - UNIVERSIDAD NACIONAL, BOGOTÁ",
+      "Productos asociados Nombre del producto: Mal planteamiento del problema de Cauchy asociado a una ecuación del tipo rBO-ZK Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente",
+      "11 Nombre del evento: Cuarto Congreso sobre tecnologías avanzadas de mecatrónica, diseño y manufactura AMDM2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-11-07 00:00:00.0, 2018-11-09 00:00:00.0 en MANIZALES - Universidad Autónoma de Manizales Instituciones asociadas Nombre de la institución: Departamento De Investigaciones Universidad Central Tipo de vinculación Patrocinadora Participantes Nombre: ALONSO DE JESUS CHICA LEAL Rol en el evento: Ponente Nombre: CESAR AUGUSTO RODRIGUEZ DUQUE Rol en el evento: Ponente Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO DIAZ CONTRERAS Rol en el evento: Ponente",
+      "11 Nombre del evento: Cuarto Congreso sobre tecnologías avanzadas de mecatrónica, diseño y manufactura AMDM2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-11-07 00:00:00.0, 2018-11-09 00:00:00.0 en MANIZALES - Universidad Autónoma de Manizales",
+      "Instituciones asociadas Nombre de la institución: Departamento De Investigaciones Universidad Central Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALONSO DE JESUS CHICA LEAL Rol en el evento: Ponente Nombre: CESAR AUGUSTO RODRIGUEZ DUQUE Rol en el evento: Ponente Nombre: FABIAN SANCHEZ SALAZAR Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO DIAZ CONTRERAS Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FABIAN SANCHEZ SALAZAR, \"Local well-posedness of the regularized rBO-ZK equation in Sobolev spaces of negative indices\" . En: Colombia INTERNATIONAL JOURNAL OF APPLIED MATHEMATICS ISSN: 1311-1728 ed: Diogenes Co. Ltd. v. 28 fasc. 4 p.391 - 402 ,2015, DOI: http://dx.doi.org/10.12732/ijam.v28i4.7",
+        "titulo": "Local well-posedness of the regularized rBO-ZK equation in Sobolev spaces of negative indices",
+        "doi": "http://dx.doi.org/10.12732/ijam.v28i4.7",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FABIAN SANCHEZ SALAZAR, \"On the Ill-Posedness of the Reguralized rBO-ZK Equation in Sobolev spaces H^s(R^2)\" . En: Colombia INTERNATIONAL JOURNAL OF APPLIED MATHEMATICS ISSN: 1314-8060 ed: Diogenes Co. Ltd. v. 36 fasc. 1 p.117 - 125 ,2023, DOI: 10.12732/ijam.v36i1.10",
+        "titulo": "On the Ill-Posedness of the Reguralized rBO-ZK Equation in Sobolev spaces H^s(R^2)",
+        "doi": "10.12732/ijam.v36i1.10",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FABIAN SANCHEZ SALAZAR, MIGUEL ANGEL PACHON HIGUERA, \"A note on the existence of solitary waves to the reguralized Benjamin-Ono Zakharov Kuznetsov (rBO-ZK) equation\" . En: Colombia INTERNATIONAL JOURNAL OF APPLIED MATHEMATICS ISSN: 1311-1728 ed: Diogenes Co. Ltd. v. 28 fasc. 5 p.557 - 565 ,2015, DOI: http://dx.doi.org/10.12732/ijam.v28i5.87",
+        "titulo": "A note on the existence of solitary waves to the reguralized Benjamin-Ono Zakharov Kuznetsov (rBO-ZK) equation",
+        "doi": "http://dx.doi.org/10.12732/ijam.v28i5.87",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FABIAN SANCHEZ SALAZAR, \"Sobre el número de rotación en el círculo y el anillo\" . En: Colombia Revista Facultad De Ciencias Básicas ISSN: 1900-4699 ed: Legis v. 12 fasc. 1 p.109 - 108 ,2023, DOI: 10.18359/rfcb.6665",
+        "titulo": "Sobre el número de rotación en el círculo y el anillo",
+        "doi": "10.18359/rfcb.6665",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FABIAN SANCHEZ SALAZAR, ALONSO DE JESUS CHICA LEAL, CESAR AUGUSTO RODRIGUEZ DUQUE, SERGIO ALEJANDRO DIAZ CONTRERAS, \"Comparison of Modeling Methodologies for Inverters in Grid-Connected Mode, Controlled by Droop Scheme\" . En: Colombia INTERNATIONAL JOURNAL OF APPLIED ENGINEERING RESEARCH ISSN: 0976-4259 ed: v. 13 fasc. p.14241 - 14253 ,2018, DOI:",
+        "titulo": "Comparison of Modeling Methodologies for Inverters in Grid-Connected Mode, Controlled by Droop Scheme",
+        "anio": "2018"
+      }
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: VADIM AZHMYAKOV, FABIAN SANCHEZ SALAZAR, LUZ ADRIANA GUZMAN TRUJILLO, \"On the Approximate Optimal Feedback Control for Dynamical Systems Modeled by Ordinary Differential Equations\" En: Colombia. 2023. 2022 8th International Conference on Control, Decision and Information Technologies (CoDIT). ISSN: 2576-3555 p. 1432 - 1435 v.1 Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Metodología para modelado, análisis y control para inversores de potencia en paralelo con un enfoque unificado Inicio: Enero 2018 Fin: Noviembre 2018 Duración Resumen Este proyecto de investigación propone una metodología para el modelado, análisis y control de inversores electrónicos conectados en paralelo y que operan en microrredes bajo el enfoque de un modelo unificado. En un solo modelo dinámico se integran las dinámicas de operación en isla y en red de dos inversores, con lo cual se espera proponer un solo controlador para las dos operaciones a partir del modelo unificado. Se aplicará la metodología con base a los dos inversores de una potencia inferior a 2KW, los cuales han sido diseñados, desarrollados y se encuentran operando en el laboratorio de microrred experimental UCentral."
+    ]
+  }
+}

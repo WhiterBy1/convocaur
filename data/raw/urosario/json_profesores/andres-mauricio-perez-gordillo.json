@@ -1,0 +1,252 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/andres-mauricio-perez-gordillo",
+  "nombre": "",
+  "cargo_principal": "Profesor asistente de carrera",
+  "email": "andresmau.perez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3217/andres-mauricio-perez-gordillo-hub.jpg",
+  "afiliaciones": [
+    "Profesor asistente de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57205553240",
+    "google_scholar": "https://scholar.google.com/citations?user=AteBIDIAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/andres-mauricio-perez-gordillo",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001634714",
+    "orcid": "https://orcid.org/0000-0001-5210-2816"
+  },
+  "areas_investigacion": [
+    "Aerodynamis",
+    "Biomass",
+    "Fluid dynamics",
+    "Rotors"
+  ],
+  "perfil_profesional": "Electromechanical engineer, master's in mechanical engineering, and Ph.D. in Engineering. His field of research is computational flow dynamics, mainly for aerodynamics focused on the energy performance of rotors used for aerial transport and wind turbines. He is also interested in using biomass as an alternative energy source and the Waste-to-Energy concept through thermochemical and biological methods.",
+  "formacion_academica": [
+    "2004, Ingeniero Electromecánico, Universidad Pedagógica y Tecnológica de Colombia, Uptc",
+    "2013, Magíster en Ingeniería Mecánica, Universidad de los Andes - Bogotá D.C.",
+    "2020, Doctor en Ingeniería, Universidad de los Andes - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Influence of the Reynolds Number on the Aerodynamic Performance of a Small Rotor",
+      "fecha": "2023-1-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F731dfb05-c278-493b-a280-7425643cab80"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Numerical and experimental estimation of the efficiency of a quadcopter rotor operating at hover",
+      "fecha": "2019-1-15",
+      "enlace": "https://doi.org/10.3390/en12020261"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Aerodynamic performance of a Quadcopter in Hover Flight with the Unsteady Vortex Lattice Method",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.2514/6.2023-3756"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Computational study of a small rotor at hover using CFD and UVLM",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.2514/6.2019-0597"
+    }
+  ],
+  "total_publicaciones": 4,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Evaluación del potencial energético de residuos industriales para aprovechamiento mediante digestión anaerobia.",
+      "fecha": "2022-09-26 - 2025-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F12177201-1039-4674-a365-830339ddd988"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Ruta metodológica de modelos de negocio basados en bioeconomía para la valorización de residuos orgánicos generados en la Vega, Cundinamarca",
+      "fecha": "2023-12-01 - 2026-08-26",
+      "enlace": "https://research-hub.urosario.edu.co/display/faacd4d8-2f40-4fab-859d-11fc95fb48ef"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis del Potencial Eólico en Zonas Rurales del Departamento de Boyacá para la Implementación de Sistemas de Generación Eléctrica a Pequeña Escala Utilizando Datos Satelital"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño de instalación tipo con microgeneradores eólicos para torres de telecomunicaciones de estaciones base 5G"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño de una microrred eléctrica conformada por un sistema fotovoltaico de autoconsumo y la estimación del recurso hídrico de la estación experimental José Celestino Mutis de la Universidad del Rosario"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño y construcción de un prototipo de álabe para un generador horizontal de baja potencia con aplicación en zonas no interconectadas de Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estudio de viabilidad técnica para la implementación de un sistema de almacenamiento térmico en un centro poblado de las zonas no interconectadas de la Región Caribe"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estudio de viabilidad técnica y económica para la implementación de una PCH de vórtice gravitacional con el fin de autogenerar energía"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación de usos alternativos a la combustión de gas en el sistema de TEA de los campos “A”, “B” y “C” operados por Hocol S.A."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Factibilidad técnico-económica para la inclusión de hidrógeno como fuente de energía renovable en reemplazo de grupos electrógenos en Zonas No Interconectadas (ZNI) de Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Geotermia de baja entalpía a partir de aguas asociada a la de producción crudo de un campo petrolero en la cuenca colombiana de los Llanos Orientales"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelo técnico y económico para la generación de energía eléctrica a partir de un patrón estadístico de zonas potenciales geotérmicas de alta entalpía en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Prediseño de lechadas de cemento utilizadas para pozos geotérmicos de alta entalpia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Propuesta de un sistema híbrido: la implementación de fuentes no convencionales de energía para un ejercicio efectivo en la soberanía marítima en el pacífico colombiano"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Viabilidad técnica para la co-digestión de residuos del cultivo de maíz y estiércol del cerdo en granjas porcícolas para la autogeneración eléctrica"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001634714"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0001-5210-2816"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=AteBIDIAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/andres-mauricio-perez-gordillo"
+    ],
+    "scopus_id": [
+      "57205553240"
+    ]
+  },
+  "id": "andres-mauricio-perez-gordillo",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor asistente de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001634714",
+    "cod_rh": "0001634714",
+    "datos_generales": {
+      "Nombre": "Andres Mauricio Pérez Gordillo",
+      "Nombre en citaciones": "PÉREZ GORDILLO, ANDRES MAURICIO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Doctorado UNIVERSIDAD DE LOS ANDES DOCTORADO EN INGENIERIA Juliode2015 - Noviembrede 2020 PERFORMANCE CHARACTERIZATION OF THE PROPULSION SYSTEM OF A QUADCOPTER IN HOVER",
+      "Maestría/Magister UNIVERSIDAD DE LOS ANDES MAESTRIA EN INGENIERIA MECANICA Juliode2010 - Marzode 2013 ESTUDIO COMPUTACIONAL DEL PROCESO DE REBURN DE BAGAZO DE CAÑA DE AZUCAR EN UNA CÁMARA DE COMBUSTIÓN DUAL",
+      "Pregrado/Universitario UNIVERSIDAD PEDAGÓGICA Y TECNOLÓGICA DE COLOMBIA UPTC Ingeniería Electromecánico Febrerode1998 - Juniode 2004"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 48 horas Semanales Enero de 2021 de",
+      "UNIVERSIDAD ECCI Dedicación: 48 horas Semanales Agosto de 2019 Noviembre de 2020",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: horas Semanales Agosto de 2011 Febrero de 2013"
+    ],
+    "areas_actuacion": [
+      "Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica",
+      "Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Aceptable",
+        "escribe": "Aceptable",
+        "lee": "Aceptable",
+        "entiende": "Aceptable"
+      }
+    ],
+    "reconocimientos": [
+      "Mejor tesis del programa de Magister en ingeniería mecánica entre las realizadas en el segundo semestre del año 2012,Capitulo De Ingenieros Mecánicos - Universidad De Los Andes - Abrilde 2013"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRES MAURICIO PEREZ GORDILLO, Factibilidad técnico-económica para la inclusión de hidrógeno como fuente de energía renovable en reemplazo de grupos electrógenos en Zonas No Interconectadas (ZNI) de Colombia. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ENERGÍAS RENOVABLES, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Camilo Andrés Herrera Calderon Daniel Sánchez Barbosa Tutor(es)/Cotutor(es): ANDRES MAURICIO PEREZ GORDILLO, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica, Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRES MAURICIO PEREZ GORDILLO, Estudio de viabilidad técnica y económica para la implementación de una PCH de vórtice gravitacional con el fin de autogenerar energía. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ENERGÍAS RENOVABLES, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Maria Fernanda Moncayo Pastas Tutor(es)/Cotutor(es): ANDRES MAURICIO PEREZ GORDILLO, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRES MAURICIO PEREZ GORDILLO, Estudio De Viabilidad Técnica Para La Implementación De Un Sistema De Almacenamiento Térmico En Un Centro Poblado De Las Zonas No Interconectadas De La Región Caribe COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ENERGÍAS RENOVABLES, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): ANDRES MAURICIO PEREZ GORDILLO, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRES MAURICIO PEREZ GORDILLO, Diseño Y Construcción De Un Prototipo Deálabe Para Un Generador Horizontal De Bajapotencia Con Aplicación En Zonas No Interconectadas De Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ENERGÍAS RENOVABLES, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): DAVID FELIPE OLAYA JIMENEZ OSCAR ORLANDO RUEDA ORREGO Tutor(es)/Cotutor(es): ANDRES MAURICIO PEREZ GORDILLO, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Aeroespacial,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRES MAURICIO PEREZ GORDILLO, VIABILIDAD TÉCNICA PARA LA CO - DIGESTIÓN DE RESIDUOS DEL CULTIVO DE MAÍZ Y ESTIÉRCOL DEL CERDO EN GRANJAS PORCÍCOLAS PARA LA AUTOGENERACIÓN ELÉCTRICA COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ENERGÍAS RENOVABLES, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): CARLOS JULIO GONZÁLEZ MEDINA Tutor(es)/Cotutor(es): ANDRES MAURICIO PEREZ GORDILLO, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRES MAURICIO PEREZ GORDILLO, Geotermia de baja entalpía a partir de aguas asociadas a la producción de crudo en la cuenca de los llanos orientales Colombianos COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ENERGÍAS RENOVABLES, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Diana Isabel Vargas Avila Tutor(es)/Cotutor(es): ANDRES MAURICIO PEREZ GORDILLO, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRES MAURICIO PEREZ GORDILLO, EVALUACIÓN DE USOS ALTERNATIVOS A LA COMBUSTIÓN DE GAS EN EL SISTEMA DE TEA DE LOS CAMPOS ¿A¿, ¿B¿ Y ¿C¿ OPERADOS POR HOCOL S.A. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ENERGÍAS RENOVABLES, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Federico Duplat Morales MIGUEL ÁNGEL MOLANO SAAVEDRA Tutor(es)/Cotutor(es): ANDRES MAURICIO PEREZ GORDILLO, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: ANDRES MAURICIO PEREZ GORDILLO, Titulo: Evaluación De Prefactibilidad Para El Aprovechameinto Energético, Mediante Gasificación, De Resiuos Vegetales Producidos En Una Finca De Flores En El Municipio De Madrid, Cundinamarca Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN ENERGÍAS RENOVABLES Nombre del orientado: Cindy Johana Rodríguez Martínez Palabras: Biomasa, Energías Renovables, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica, Sectores: Agricultura, pecuaria, silvicultura, explotación forestal - Producción vegetal,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: ANDRES MAURICIO PEREZ GORDILLO, Titulo: Modelado De Un Sistema Piloto De Generación De Hidrógeno Verde Mediante Electrólisis De Aguas Residuales, Utilizando Energía Solar Fotovoltaica Para El Aprovechamiento De Recursos Hidricos En Campos Petroleros Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN ENERGÍAS RENOVABLES Nombre del orientado: Juan Rozo, Hayder Rincón Palabras: Hidrógeno, Energías Renovables, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías, Sectores: Industrias extractivas - Extracción de petróleo y servicios correlacionados,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: ANDRES MAURICIO PEREZ GORDILLO, Titulo: Análisis Aerodinámico Del Modelo Generalizado Windsor A 2 Través De Simulaciones CFD Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD DE LOS ANDES programa académico MAESTRIA EN INGENIERIA MECANICA Nombre del orientado: Juan Sebastián Moreno Revelo Palabras: Aerodinámica, CFD, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: ANDRES MAURICIO PEREZ GORDILLO, Titulo: Metodología para determinar el potencial de reemplazo de combustible diésel por hidrógeno verde en zonas no interconectadas (ZNI) de Colombia Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN ENERGÍAS RENOVABLES Nombre del orientado: Claudia Jeanneth Lizarazo Sandoval, Daniel Gerardo Martínez Rojas Palabras: Hidrógeno, Energías Renovables, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: ANDRES MAURICIO PEREZ GORDILLO, Titulo: Estudio Experimental en túnel de viento de un modelo de ciclista en posición drops Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD DE LOS ANDES programa académico MAESTRIA EN INGENIERIA MECANICA Nombre del orientado: Iván Olarte Rodríguez Palabras: Aerodinámica, CFD, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Congreso Internacional en Eficiencia y Gestión Energética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-02-03 00:00:00.0, 2016-02-05 00:00:00.0 en CARTAGENA DE INDIAS - Universidad de Cartagena Productos asociados Nombre del producto: Estudio Experimental y Computacional de Reburn para Evaluar el Bagazo de Caña de Azúcar como Combustible para Reducción de Emisiones de NOx Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente Nombre: OMAR DARIO LOPEZ MEJIA Rol en el evento: Ponente",
+      "1 Nombre del evento: Congreso Internacional en Eficiencia y Gestión Energética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-02-03 00:00:00.0, 2016-02-05 00:00:00.0 en CARTAGENA DE INDIAS - Universidad de Cartagena",
+      "Productos asociados Nombre del producto: Estudio Experimental y Computacional de Reburn para Evaluar el Bagazo de Caña de Azúcar como Combustible para Reducción de Emisiones de NOx Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente Nombre: OMAR DARIO LOPEZ MEJIA Rol en el evento: Ponente",
+      "2 Nombre del evento: VIII Congreso Internacional de Ingenierías Mecánica y Mecatrónica y VI de Materiales, Energía y Medio Ambiente Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-04-26 00:00:00.0, 2017-04-28 00:00:00.0 en MEDELLÍN - Productos asociados Nombre del producto: Simulación Computacional de un Rotor de Cuadricóptero en Hover Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Gestionadora Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente Nombre: OMAR DARIO LOPEZ MEJIA Rol en el evento: Ponente",
+      "2 Nombre del evento: VIII Congreso Internacional de Ingenierías Mecánica y Mecatrónica y VI de Materiales, Energía y Medio Ambiente Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-04-26 00:00:00.0, 2017-04-28 00:00:00.0 en MEDELLÍN -",
+      "Productos asociados Nombre del producto: Simulación Computacional de un Rotor de Cuadricóptero en Hover Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente Nombre: OMAR DARIO LOPEZ MEJIA Rol en el evento: Ponente",
+      "3 Nombre del evento: AIAA Aviation Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en Denver - Sheraton Denver Downtown Hotel, Denver, Colorado Productos asociados Nombre del producto: Computational Study of the Wake of a Quadcopter Propeller in Hover Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Patrocinadora Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente",
+      "3 Nombre del evento: AIAA Aviation Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en Denver - Sheraton Denver Downtown Hotel, Denver, Colorado",
+      "Productos asociados Nombre del producto: Computational Study of the Wake of a Quadcopter Propeller in Hover Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente",
+      "4 Nombre del evento: XI Congreso Colombiano de Métodos Numéricos Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-08-16 00:00:00.0, 2017-08-18 00:00:00.0 en BUCARAMANGA - Universidad Industrial de Santander Productos asociados Nombre del producto: SIMULACION DEL ROTOR DE UN CUADRICOPTERO EN HOVER UTILIZANDO EL METODO DE RED DE VORTICES NO-ESTACIONARIO Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD INDUSTRIAL DE SANTANDER Tipo de vinculación Patrocinadora Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente Nombre: OMAR DARIO LOPEZ MEJIA Rol en el evento: Ponente",
+      "4 Nombre del evento: XI Congreso Colombiano de Métodos Numéricos Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-08-16 00:00:00.0, 2017-08-18 00:00:00.0 en BUCARAMANGA - Universidad Industrial de Santander",
+      "Productos asociados Nombre del producto: SIMULACION DEL ROTOR DE UN CUADRICOPTERO EN HOVER UTILIZANDO EL METODO DE RED DE VORTICES NO-ESTACIONARIO Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD INDUSTRIAL DE SANTANDER Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente Nombre: OMAR DARIO LOPEZ MEJIA Rol en el evento: Ponente",
+      "5 Nombre del evento: AIAA Aviation Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-06-12 00:00:00.0, 2023-06-16 00:00:00.0 en San Diego - Productos asociados Nombre del producto: Aerodynamic performance of a Quadcopter in Hover Flight with the Unsteady Vortex Lattice Method Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Patrocinadora Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente",
+      "5 Nombre del evento: AIAA Aviation Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-06-12 00:00:00.0, 2023-06-16 00:00:00.0 en San Diego -",
+      "Productos asociados Nombre del producto: Aerodynamic performance of a Quadcopter in Hover Flight with the Unsteady Vortex Lattice Method Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente",
+      "6 Nombre del evento: AIAA Aviation Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-06-25 00:00:00.0, 2018-06-29 00:00:00.0 en Atlanta - Productos asociados Nombre del producto: Experimental study of the effects of bio-inspired blades and 3D printing on the performance of a small propeller Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Gestionadora Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente",
+      "6 Nombre del evento: AIAA Aviation Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-06-25 00:00:00.0, 2018-06-29 00:00:00.0 en Atlanta -",
+      "Productos asociados Nombre del producto: Experimental study of the effects of bio-inspired blades and 3D printing on the performance of a small propeller Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente",
+      "7 Nombre del evento: AIAA SciTech Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-01-07 00:00:00.0, 2019-01-11 00:00:00.0 en San Diego - Manchester Grand Hyatt San Diego Productos asociados Nombre del producto: Computational Study of a Small Rotor at Hover Using CFD and UVLM Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Patrocinadora Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente",
+      "7 Nombre del evento: AIAA SciTech Forum Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-01-07 00:00:00.0, 2019-01-11 00:00:00.0 en San Diego - Manchester Grand Hyatt San Diego",
+      "Productos asociados Nombre del producto: Computational Study of a Small Rotor at Hover Using CFD and UVLM Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: American Institute of Aeronautics and Astronautics Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRES MAURICIO PEREZ GORDILLO Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRES MAURICIO PEREZ GORDILLO, OMAR DARIO LOPEZ MEJIA, \"Influence of the Reynolds Number on the Aerodynamic Performance of a Small Rotor\" . En: Colombia AEROSPACE ISSN: 2226-4310 ed: mdpi v. 10 fasc. p.1 - 22 ,2023, DOI: 10.3390/aerospace10020130 Palabras: Aerodinámica, CFD, Pequeños rotores, Drones,",
+        "titulo": "Influence of the Reynolds Number on the Aerodynamic Performance of a Small Rotor",
+        "doi": "10.3390/aerospace10020130",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRES MAURICIO PEREZ GORDILLO, \"Numerical and Experimental Estimation of the Efficiency of a Quadcopter Rotor Operating at Hover\" . En: Suiza ENERGIES ISSN: 1996-1073 ed: mdpi v. 12 fasc. NA p.261 - 280 ,2019, DOI: 10.3390/en12020261",
+        "titulo": "Numerical and Experimental Estimation of the Efficiency of a Quadcopter Rotor Operating at Hover",
+        "doi": "10.3390/en12020261",
+        "anio": "2019"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro ANDRES MAURICIO PEREZ GORDILLO, \"Comparison between Semiempirical and Computational Techniques in the Prediction of Aerodynamic Performance of the Rotor of a Quadcopter\" Aerial Robots: Aerodynamics, Control and Applications . En: Colombia ISBN: 978-953-51-3464-0 ed: , v. , p.81 - 99 1 ,2017 Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,"
+    ]
+  }
+}

@@ -1,0 +1,674 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/luis-eduardo-seijas-ruiz",
+  "nombre": "Luis E. Seijas",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "luis.seijas@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n12178/Seijas+Luis+Eduardo.jpg",
+  "afiliaciones": [
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=16305457300",
+    "google_scholar": "https://scholar.google.com/citations?user=vJay0nsAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/luis-eduardo-seijas-ruiz",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001997114",
+    "orcid": "https://orcid.org/0000-0002-1793-0867"
+  },
+  "areas_investigacion": [
+    "AIM",
+    "Computational chemistry",
+    "DFT",
+    "Information Theory",
+    "Machine learning",
+    "Materials informatic",
+    "Physical chemistry"
+  ],
+  "perfil_profesional": "I am a highly motivated and proactive professional with extensive experience in Applied Chemistry, specializing in Material Science and Physical Chemistry. With a Doctorate in this field, I have gained significant expertise in X-ray diffraction experiments, both in powder and single crystal forms. Additionally, I have hands-on experience in designing and coding advanced simulation methods and data analysis algorithms using Python and C/C++. My passion for physical chemistry and commitment to staying current with the latest industry developments have allowed me to excel in both research and academic settings.",
+  "formacion_academica": [
+    "2006, Licenciado en Química, Universidad de los Andes Merida- Venezuela",
+    "2011, Magíster en Química Aplicada, Universidad de los Andes Merida- Venezuela",
+    "2018, Doctor en Química Aplicada, Universidad de los Andes Merida- Venezuela"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Synthesis, Crystal Structure, Hirshfeld Surface Analysis, and DFT Calculations of Cesium Benzilate Monohydrate: Exploring the Importance of Noncovalent Interactions",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1155/joch/2659693"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Preparación y análisis cristalográfico de un nuevo cristal multicomponente con un ácido α-hidroxicarboxílico y una piridincarboxamida",
+      "fecha": "2025-5-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0fe4e7dd-7b3c-4710-a253-9c404bd56c5d"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A redefinition of global conceptual density functional theory reactivity indexes by means of the cubic expansions of the energy",
+      "fecha": "2025-3-28",
+      "enlace": "https://doi.org/10.1039/d5cp00994d"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "KLD: a program to elucidate the localization of the Fermi and Coulomb holes in molecular systems",
+      "fecha": "2024-8-1",
+      "enlace": "https://doi.org/10.1007/s00894-024-06070-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Computational evaluation of the oxidation of superoxide to molecular dioxygen mediated by NNNN-tetradentate copper complexes",
+      "fecha": "2024-12-2",
+      "enlace": "https://doi.org/10.1039/d4ra07126c"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Exploring the bonding in alkaline earth halides AeX− (Ae = Be-Ba, X = F-I) from Fermi hole localization and QTAIM perspectives",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1039/d4cp04332d"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Towards the construction of an accurate kinetic energy density functional and its functional derivative through physics-informed neural networks",
+      "fecha": "2023-6-5",
+      "enlace": "https://doi.org/10.1088/2399-6528/acd90e"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Exploring the Non-Covalent Bonding in Water Clusters",
+      "fecha": "2023-3-9",
+      "enlace": "https://doi.org/10.3390/ijms24065271"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Revisiting the bonding of the pentagonal-pyramidal C6H62+ and C6(CH3)62+ dications",
+      "fecha": "2023-11-22",
+      "enlace": "https://doi.org/10.1039/d3cp04247b"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A Theoretical Study of the C–X Bond Cleavage Mediated by Cob(II)Aloxime",
+      "fecha": "2023-10-26",
+      "enlace": "https://doi.org/10.3390/molecules27217283"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Two nickel (II) complexes with side chain isomeric ligands: L-leucine and L-isoleucine to study non-covalent interactions and metal-ligand bonding",
+      "fecha": "2022-3-29",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.molstruc.2022.132898"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A Theoretical Study of the C–X Bond Cleavage Mediated by Cob(II)Aloxime",
+      "fecha": "2022-11-1",
+      "enlace": "https://doi.org/10.3390/molecules27217283"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Síntesis, caracterización espectroscópica, análisis térmico y estudio por difracción de rayos-X de dos nuevos complejos: L-leucinato de Ni(II) y L-isoleucinato de Ni(II)",
+      "fecha": "2022-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/bc995583-17f9-4732-ae32-5dd01c41236b"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Synthesis, crystal structure, and non-covalent interactions in 4-hydrazinobenzoic acid hydrochloride",
+      "fecha": "2020-2-5",
+      "enlace": "https://doi.org/10.1016/j.molstruc.2019.127154"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "N-acetyl-5-isopropyl-2-tioxoimidazolidin-4-one: Synthesis, spectroscopic characterization, crystal structure, DFT calculations, Hirshfeld surface analysis and energy framework study",
+      "fecha": "2020-11-5",
+      "enlace": "https://doi.org/10.1016/j.molstruc.2020.128630"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A topological study of the haxacoordinated carbon in the pentagonal-pyramidal benzene and hexamethylbenzene dications",
+      "fecha": "2020-11-1",
+      "enlace": "https://doi.org/10.1016/j.cplett.2020.137912"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Solvent-free synthesis and crystal structure of rac-2-thiohydantoin-valine",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F33f9cf7c-2cd9-4240-b9b1-99bd02958246"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Structural characterization of 2-amino-2-oxoacetic acid by x-ray powder diffraction and quantum chemistry",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/af7ddcc3-a3b0-4d48-b5f4-55bef44eba82"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Crystal Structure Analysis and Topological Study of Non-covalent Interactions in 2,2-Biimidazole:Salicylic Acid 2:1 Co-crystal",
+      "fecha": "2017-4-1",
+      "enlace": "https://doi.org/10.1007/s10870-017-0679-x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the geometric and magnetic properties of the monomer, dimer and trimer of NiFe2O4",
+      "fecha": "2017-1-1",
+      "enlace": "https://doi.org/10.3233/JCM-160657"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Cooperative effects on the formation of supramolecular synthons of thiohydantoin derivatives",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.3233/JCM-140480"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Synthesis, crystal and supramolecular structure of rac-N-acetyl-2-thiohydantoin-asparagine",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F68972bd5-6e53-4e94-8d8a-bf7b088941c4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Investigating the stability of double head to tail dimers and ribbons in multicomponent crystals of cis-4-aminocyclohexanecarboxilic acid with water and oxalic acid",
+      "fecha": "2013-5-1",
+      "enlace": "https://doi.org/10.1021/cg3014392"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Synthesis, crystal structure analysis, small cluster geometries and energy study of (E)-Ethyl-4-(2-(thiofen-2-ylmethylene)hydrazinyl)benzoate",
+      "fecha": "2013-10-1",
+      "enlace": "https://doi.org/10.1007/s10870-013-0455-5"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Synthesis and crystal structure determination of hydantoin-l-proline",
+      "fecha": "2012-9-1",
+      "enlace": "https://doi.org/10.1007/s10870-012-0344-3"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Synthesis, crystal structure and hydrogen-bonding patterns in (RS)-1-carbamoyl pyrrolidine-2-carboxylic acid",
+      "fecha": "2012-4-1",
+      "enlace": "https://doi.org/10.1007/s10870-011-0259-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Cooperative efects on the formation of 4-methyloxycarbonyl-2-azetidinone clusters",
+      "fecha": "2012-1-1",
+      "enlace": "https://doi.org/10.3233/JCM-2012-0418"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the energetic and geometric description of the interaction between the isonipecotic and 1,1-cylobutanedicarboxilic acids",
+      "fecha": "2012-1-1",
+      "enlace": "https://doi.org/10.3233/JCM-2012-0417"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the crystal structures and hydrogen bond patterns in proline pseudopolymorphs",
+      "fecha": "2010-9-1",
+      "enlace": "https://doi.org/10.1154/1.3478557"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Study of the conversion of N-carbamoyl-L-proline to hydantoin-L-proline using powder synchrotron X-ray diffraction",
+      "fecha": "2010-1-1",
+      "enlace": "https://doi.org/10.1154/1.3503660"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Molecular and crystalline structures of three (S)-4-alkoxycarbonyl-2- azetidinones containing long alkyl side chains from synchrotron X-ray powder diffraction data",
+      "fecha": "2009-1-1",
+      "enlace": "https://doi.org/10.1107/S0108768109036386"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Redetermination of 1-carboxy-cyclo-hexan-1-aminium chloride",
+      "fecha": "2009-1-1",
+      "enlace": "https://doi.org/10.1107/S1600536808044243"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "(2S)-1-Carbamoylpyrrolidine-2-carboxylic acid",
+      "fecha": "2007-4-14",
+      "enlace": "https://doi.org/10.1107/S0108270107014102"
+    }
+  ],
+  "total_publicaciones": 33,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Metodología para le estimación robusta de la pérdida esperada en crédito de consumo mediante datos sintéticos y algoritmos de aprendizaje automático"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001997114"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-1793-0867"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=vJay0nsAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/luis-eduardo-seijas-ruiz"
+    ],
+    "scopus_id": [
+      "16305457300"
+    ]
+  },
+  "id": "luis-eduardo-seijas-ruiz",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001997114",
+    "cod_rh": "0001997114",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Junior (IJ) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Luis Eduardo Seijas Ruiz",
+      "Nombre en citaciones": "L. E. Seijas",
+      "Nacionalidad": "Venezolana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Linkedln"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado Universidad de los Andes Venezuela Doctorado en Química Aplicada, Mención Estudio de Materiales Septiembrede2012 - Diciembrede 2018 Estudio de sistemas moleculares unidos mediante enlaces de hidrógeno",
+      "Maestría/Magister Universidad de los Andes Venezuela Maestría en química aplicada, mención estudio de Materiales Abrilde2007 - Noviembrede 2011 Estudio teórico y cristalográfico de redes de enlaces de hidrógeno en sistemas moleculares orgánicos : derivados de [alfa]-aminoácidos naturales",
+      "Pregrado/Universitario Universidad de los Andes Venezuela Licenciatura en Química Febrerode2001 - Septiembrede 2006 Síntesis y caracterización estructural de derivados de la L-prolina"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración Universidad de Los Andes Componente docente básico del programa de actualización docente Abrilde2009 - Febrerode 2010",
+      "Otros Istituto Di Cristallografia PHARE 2009 A modular workshopon global PHAseRetrieval Abrilde2009 - Abrilde 2009",
+      "Otros Universidad de Los Andes ¿Caracterización de materiales poli-cristalinos mediante técnicas de difracción de rayos-X Noviembrede2005 - Noviembrede 2005",
+      "Otros IBM - Coursera Advanced Machine Learning and Signal Processing Abrilde2020 - Juniode 2020",
+      "Otros Microsoft Educator Centre 21st Century Learning Design (21CLD) Febrerode2020 - Abrilde 2020",
+      "Otros Istituto Di Cristallografia PHARE 2009 A modular workshopon global PHAseRetrieval Abrilde2009 - Abrilde 2009",
+      "Otros Instituto de Investigaciones Científicas - IVIC Estudios de adsorción, análisis térmico y micro calorimetría de polvo y sólidos porosos Diciembrede2005 - Diciembrede 2005",
+      "Otros JOHNS HOPKINS UNIVERSITY (on coursera) Python for Genomic Data Science Juniode2020 - Juliode 2020",
+      "Otros Istituto Di Cristallografia PHARE 2009 A modular workshopon global PHAseRetrieval Abrilde2009 - Abrilde 2009",
+      "Otros Universidad de los Andes Venezuela School on materials Application of the Organic Solid State SMAOSS Juliode2007 - Juliode 2007"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Julio de 2023 de Actividades de administración - Otro - Cargo: Coordinador de Educación Continua Julio de 2023 Enero de Actividades de docencia - Pregrado - Nombre del curso: Análisis numérico y computación científica , 33 Febrero 2024 Enero - Pregrado - Nombre del curso: Programación de computadores, 30 Julio 2023 Julio 2024 - Pregrado - Nombre del curso: Algoritmos y estructuras de datos, 60 Julio 2023 Enero",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 12 horas Semanales Marzo de 2023 Junio de 2023 Actividades de docencia - Pregrado - Nombre del curso: Programación de computadores, 25 Marzo 2023 Junio 2023 - Pregrado - Nombre del curso: Corner Stone Project, 23 Marzo 2023 Junio 2023",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Marzo de 2022 Febrero de 2023 Actividades de administración - Otra actividad técnico-científica relevante - Cargo: Investigador Postdoctoral Marzo de 2022 Febrero de 2023",
+      "Universidad de Guayaquil Dedicación: 40 horas Semanales Mayo de 2019 Junio de 2020 Actividades de docencia - Pregrado - Nombre del curso: Química Analítica 1, 60 Mayo 2019 Junio 2020 - Pregrado - Nombre del curso: Metodología de la Investigación, 45 Mayo 2019 Junio 2020 - Pregrado - Nombre del curso: Química 2, 40 Mayo 2019 Junio 2020 - Pregrado - Nombre del curso: Química Orgánica 2, 45 Mayo 2019 Junio 2020",
+      "Universidad de Los Andes Dedicación: 40 horas Semanales Octubre de 2009 Mayo de 2020 Actividades de administración - Miembro de comité asesor - Cargo: Consejero del Departamento de Química de la Facultad de Ciencias de la Universidad de Los Andes Septiembre de 2016 Mayo de 2018 Actividades de docencia - Pregrado - Nombre del curso: Teorías y métodos en química computacional, 15 Septiembre 2017 Febrero 2018 - Pregrado - Nombre del curso: Teorías y métodos en química computacional, 15 Septiembre 2017 Febrero 2018 - Docencia/Enseñanza de Graduación - Nombre del curso: Trabajo especial de Grado , 3 Junio 2015 Mayo 2018 - Pregrado - Nombre del curso: Química 21, 40 Marzo 2015 Mayo 2018 - Pregrado - Nombre del curso: Fisicoquimica 3, 40 Octubre 2013 Marzo 2014 - Pregrado - Nombre del curso: Fisicoquímica 2, 40 Marzo 2012 Septiembre 2013 - Pregrado - Nombre del curso: Laboratorio de Química General, 12 Octubre 2009 Febrero 2012 - Pregrado - Nombre del curso: Química 11, 40 Octubre 2009 Febrero 2012 Actividades de investigación - Investigación y Desarrollo - Titulo: Estudios de estructura cristalina y energética en los enlaces de hidrógeno de derivados de aminoácidos Febrero 2016 Marzo 2018 - Investigación y Desarrollo - Titulo: Estudio geométrico y energético de las interacciones entre el ácido hidantoin-DL-aspártico y la nicotinamida Enero 2015 Enero 2016 - Investigación y Desarrollo - Titulo: Evaluación de patrones y energías de enlaces de hidrógeno en cristales de derivados de aminoácidos naturales Junio 2010 Junio 2012"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Químicas -- Química Física",
+      "Ciencias Naturales -- Ciencias Químicas -- Química Orgánica",
+      "Ciencias Naturales -- Ciencias Físicas -- Física atómica, Molecular y Química"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Estudio de interacciones débiles en cristales orgánicos , Activa: Si",
+      "Machine learninig, Activa: Si",
+      "Estudio de la naturaleza del enlace Químico mediante teorías y métodos en química computacional, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Orden Luis María Rivas Dávila,Universidad de los Andes Venezuela - Noviembrede 2001",
+      "Programa Estimulo al Investigador,Universidad de los Andes Venezuela - Juliode 2009"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: LUIS EDUARDO SEIJAS RUIZ, Estudio geométrico y energético de las interacciones entre el ácido hidantoin-DL-aspártico y la nicotinamida Universidad de Los Andes Estado: Tesis concluida Licenciatura en Química, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): LUIS EDUARDO SEIJAS RUIZ, Areas: Ciencias Naturales -- Ciencias Químicas -- Química Física, Ciencias Naturales -- Ciencias Físicas -- Física atómica, Molecular y Química,",
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: LUIS EDUARDO SEIJAS RUIZ, Estudio teórico y computacional de un [2]-rotaxano construido a partir de una beta-ciclodextrina Universidad de Los Andes Estado: Tesis concluida Licenciatura en Química, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): LUIS EDUARDO SEIJAS RUIZ, Areas: Ciencias Naturales -- Ciencias Químicas -- Química Física,",
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: LUIS EDUARDO SEIJAS RUIZ, Estudio geométrico y energético del sistema 4-Dimetilaminopiridina-Ácido oxálico Universidad de Los Andes Estado: Tesis concluida Licenciatura en Química, 2015. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Tutor(es)/Cotutor(es): LUIS EDUARDO SEIJAS RUIZ, Areas: Ciencias Naturales -- Ciencias Químicas -- Química Física,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: REVISTA TENDENCIAS EN DOCENCIA E INVESTIGACIÓN EN QUÍMICA, 2021, Enero",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: REVISTA TENDENCIAS EN DOCENCIA E INVESTIGACIÓN EN QUÍMICA, 2019, Agosto"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Simposio Bogotano de Ciencias Computacionales Tipo de evento: Simposio Ámbito: Nacional Realizado el:2024-05-27 00:00:00.0, 2024-05-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque Productos asociados Nombre del producto: Predicción de la Energía de Enlace de Hidrógeno Mediante Aprendizaje Automático: Un Enfoque Basado en Densidad Electrónica y XGBoost Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "1 Nombre del evento: Simposio Bogotano de Ciencias Computacionales Tipo de evento: Simposio Ámbito: Nacional Realizado el:2024-05-27 00:00:00.0, 2024-05-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque",
+      "Productos asociados Nombre del producto: Predicción de la Energía de Enlace de Hidrógeno Mediante Aprendizaje Automático: Un Enfoque Basado en Densidad Electrónica y XGBoost Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "2 Nombre del evento: XXVI Congreso Latinoamericano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2006-10-16 00:00:00.0, 2006-10-20 00:00:00.0 en Ciudad de la Habana - Palacio de Convenciones de La Habana Productos asociados Nombre del producto: Estudio estructural por difracción de rayos-X de cristal único de los derivados N-carmbaoilo e hidantoina de la L-prolina Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Federación Latinoamericana de asociaciones químicas Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "2 Nombre del evento: XXVI Congreso Latinoamericano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2006-10-16 00:00:00.0, 2006-10-20 00:00:00.0 en Ciudad de la Habana - Palacio de Convenciones de La Habana",
+      "Productos asociados Nombre del producto: Estudio estructural por difracción de rayos-X de cristal único de los derivados N-carmbaoilo e hidantoina de la L-prolina Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Federación Latinoamericana de asociaciones químicas Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "3 Nombre del evento: XVIII International Conference on the Chemistry of the Organic Solid State Tipo de evento: Otro Ámbito: Internacional Realizado el:2007-07-08 00:00:00.0, 2007-07-13 00:00:00.0 en Libertador - Hotel Belenzate, Mérida, Venezuela Productos asociados Nombre del producto: On the crystal structures and hydrogen bond patterns in proline pseudo-polymorphs Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: International Union of CRYSTALLOGRAPHY Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "3 Nombre del evento: XVIII International Conference on the Chemistry of the Organic Solid State Tipo de evento: Otro Ámbito: Internacional Realizado el:2007-07-08 00:00:00.0, 2007-07-13 00:00:00.0 en Libertador - Hotel Belenzate, Mérida, Venezuela",
+      "Productos asociados Nombre del producto: On the crystal structures and hydrogen bond patterns in proline pseudo-polymorphs Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: International Union of CRYSTALLOGRAPHY Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "4 Nombre del evento: LVII Convención Anual de AsoVAC Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-11-18 00:00:00.0, 2007-11-23 00:00:00.0 en San Cristóbal - Universidad Nacional Experimental del Táchira Productos asociados Nombre del producto: Patrones de enlace de hidrógeno en derivados N-carbamoilo, hidantoinas y tiohidanotinas de aminoácidos naturales Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL EXPERIMENTAL DEL TACHIRA Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "4 Nombre del evento: LVII Convención Anual de AsoVAC Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-11-18 00:00:00.0, 2007-11-23 00:00:00.0 en San Cristóbal - Universidad Nacional Experimental del Táchira",
+      "Productos asociados Nombre del producto: Patrones de enlace de hidrógeno en derivados N-carbamoilo, hidantoinas y tiohidanotinas de aminoácidos naturales Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL EXPERIMENTAL DEL TACHIRA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "5 Nombre del evento: VII Congreso Venezolano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-11-06 00:00:00.0, 2005-11-10 00:00:00.0 en Libertador - Facultad de Ciencias, Universidad de Los Andes Productos asociados Nombre del producto: Estudio estructural de derivados de aminoácidos naturales: Estructura cristalina y molecular del N-carbamoiLo-L-prolina [C6H10N2O3] Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad de los Andes Venezuela Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "5 Nombre del evento: VII Congreso Venezolano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-11-06 00:00:00.0, 2005-11-10 00:00:00.0 en Libertador - Facultad de Ciencias, Universidad de Los Andes",
+      "Productos asociados Nombre del producto: Estudio estructural de derivados de aminoácidos naturales: Estructura cristalina y molecular del N-carbamoiLo-L-prolina [C6H10N2O3] Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad de los Andes Venezuela Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "6 Nombre del evento: VIII Congreso Venezolano de Química, UCV Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-06-24 00:00:00.0, 2007-06-28 00:00:00.0 en Caracas - Facultad de Ciencias, Universidad Central de Venezuela Productos asociados Nombre del producto: Síntesis y caracterización estructural de la hidantoina de L-cistina (C6H8N4O4S2) Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad central de Venezuela Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "6 Nombre del evento: VIII Congreso Venezolano de Química, UCV Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-06-24 00:00:00.0, 2007-06-28 00:00:00.0 en Caracas - Facultad de Ciencias, Universidad Central de Venezuela",
+      "Productos asociados Nombre del producto: Síntesis y caracterización estructural de la hidantoina de L-cistina (C6H8N4O4S2) Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad central de Venezuela Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "7 Nombre del evento: 11th European Powder Diffraction Conference (EPDIC-11) Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-09-19 00:00:00.0, 2008-09-22 00:00:00.0 en Warsaw - Warsaw, Polonia Productos asociados Nombre del producto: Molecular and Crystalline structures of decyl(S)-4-decyloxycarbonyl-2-azetidinone and (S)-4-hexadecyloxycabonyl-2-azetidinone Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: International Union of CRYSTALLOGRAPHY Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "7 Nombre del evento: 11th European Powder Diffraction Conference (EPDIC-11) Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-09-19 00:00:00.0, 2008-09-22 00:00:00.0 en Warsaw - Warsaw, Polonia",
+      "Productos asociados Nombre del producto: Molecular and Crystalline structures of decyl(S)-4-decyloxycarbonyl-2-azetidinone and (S)-4-hexadecyloxycabonyl-2-azetidinone Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: International Union of CRYSTALLOGRAPHY Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "8 Nombre del evento: IV Congreso Nacional sobre Didáctica de la Física Tipo de evento: Congreso Ámbito: Nacional Realizado el:2015-06-10 00:00:00.0, 2015-06-12 00:00:00.0 en Libertador - Hotel Venetur-Mérida Productos asociados Nombre del producto: Entendiendo el Concepto de Densidad de Estado Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad de los Andes Venezuela Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "8 Nombre del evento: IV Congreso Nacional sobre Didáctica de la Física Tipo de evento: Congreso Ámbito: Nacional Realizado el:2015-06-10 00:00:00.0, 2015-06-12 00:00:00.0 en Libertador - Hotel Venetur-Mérida",
+      "Productos asociados Nombre del producto: Entendiendo el Concepto de Densidad de Estado Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad de los Andes Venezuela Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "9 Nombre del evento: LVI Convención Anual de AsoVAC, Cumaná Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-11-19 00:00:00.0, 2006-11-24 00:00:00.0 en Cumana - Facultad de Ciencias, Universidad de Oriente Productos asociados Nombre del producto: Síntesis y caracterización espectroscópica del hidantoin l-cistina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad de Oriente, Venezuela Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "9 Nombre del evento: LVI Convención Anual de AsoVAC, Cumaná Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-11-19 00:00:00.0, 2006-11-24 00:00:00.0 en Cumana - Facultad de Ciencias, Universidad de Oriente",
+      "Productos asociados Nombre del producto: Síntesis y caracterización espectroscópica del hidantoin l-cistina Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad de Oriente, Venezuela Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "10 Nombre del evento: XI Congreso Venezolano de Química Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-06-16 00:00:00.0, 2013-06-20 00:00:00.0 en Caracas - Universidad Metropolitana, Caracas Productos asociados Nombre del producto: Comparación entre dos funcionales híbridos en el estudio de efectos cooperativos en cadenas supramoleculares de moléculas de 4-metiloxicarbonil-2-azetodinona Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad Metropolitana Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "10 Nombre del evento: XI Congreso Venezolano de Química Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-06-16 00:00:00.0, 2013-06-20 00:00:00.0 en Caracas - Universidad Metropolitana, Caracas",
+      "Productos asociados Nombre del producto: Comparación entre dos funcionales híbridos en el estudio de efectos cooperativos en cadenas supramoleculares de moléculas de 4-metiloxicarbonil-2-azetodinona Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad Metropolitana Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "11 Nombre del evento: VII Congreso Internacional De Docencia E investigación En Química Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-09-19 00:00:00.0, 2016-09-23 00:00:00.0 en Ciudad de México - Universidad Autónoma Metropolitana Azcapotzalco Productos asociados Nombre del producto: Análisis topológico en el estudio de efectos cooperativos en conglomerados pequeños de agua Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad Autónoma Metropolitana Unidad Azcapotzalco Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "11 Nombre del evento: VII Congreso Internacional De Docencia E investigación En Química Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-09-19 00:00:00.0, 2016-09-23 00:00:00.0 en Ciudad de México - Universidad Autónoma Metropolitana Azcapotzalco",
+      "Productos asociados Nombre del producto: Análisis topológico en el estudio de efectos cooperativos en conglomerados pequeños de agua Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad Autónoma Metropolitana Unidad Azcapotzalco Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "12 Nombre del evento: LV Convención Anual de AsovaC Tipo de evento: Otro Ámbito: Nacional Realizado el:2005-11-20 00:00:00.0, 2005-11-25 00:00:00.0 en Caracas - Facultad de Ciencias, Universidad Central de Venezuela Productos asociados Nombre del producto: Síntesis, análisis térmico y espectroscópico de derivados de la L-prolina Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad central de Venezuela Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "12 Nombre del evento: LV Convención Anual de AsovaC Tipo de evento: Otro Ámbito: Nacional Realizado el:2005-11-20 00:00:00.0, 2005-11-25 00:00:00.0 en Caracas - Facultad de Ciencias, Universidad Central de Venezuela",
+      "Productos asociados Nombre del producto: Síntesis, análisis térmico y espectroscópico de derivados de la L-prolina Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad central de Venezuela Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "13 Nombre del evento: IX Congreso Venezolano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2009-06-02 00:00:00.0, 2009-06-05 00:00:00.0 en Cumana - Facultad de Ciencias, Universidad de Oriente Productos asociados Nombre del producto: Síntesis y caracterización de derivados tiohidantoicos de los α-aminoácidos L-valina y L-leucina Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad de Oriente, Venezuela Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "13 Nombre del evento: IX Congreso Venezolano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2009-06-02 00:00:00.0, 2009-06-05 00:00:00.0 en Cumana - Facultad de Ciencias, Universidad de Oriente",
+      "Productos asociados Nombre del producto: Síntesis y caracterización de derivados tiohidantoicos de los α-aminoácidos L-valina y L-leucina Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad de Oriente, Venezuela Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "14 Nombre del evento: III Congreso de Fisicoquímica Teórica y computacional Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-12-02 00:00:00.0, 2010-12-04 00:00:00.0 en Caracas - Instituto Venezolano de investigaciones Científicas, IVIC Productos asociados Nombre del producto: Efectos cooperativos en la formación de santones supramoleculares de derivados de la tiohidantoina Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: INTEVEP S.A. Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "14 Nombre del evento: III Congreso de Fisicoquímica Teórica y computacional Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-12-02 00:00:00.0, 2010-12-04 00:00:00.0 en Caracas - Instituto Venezolano de investigaciones Científicas, IVIC",
+      "Productos asociados Nombre del producto: Efectos cooperativos en la formación de santones supramoleculares de derivados de la tiohidantoina Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: INTEVEP S.A. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "15 Nombre del evento: Primer Simposio Iberamericano de Química Orgánica SIBAAQOI Tipo de evento: Simposio Ámbito: Internacional Realizado el:2007-11-11 00:00:00.0, 2007-11-15 00:00:00.0 en Mar de plata - Mar de Plata Productos asociados Nombre del producto: Estructuras cristalinas y patrones de enlaces de hidrógeno en pseudo-polimorfos de la prolina Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Sociedad Argentina de Investigaciones en Química Orgánica Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "15 Nombre del evento: Primer Simposio Iberamericano de Química Orgánica SIBAAQOI Tipo de evento: Simposio Ámbito: Internacional Realizado el:2007-11-11 00:00:00.0, 2007-11-15 00:00:00.0 en Mar de plata - Mar de Plata",
+      "Productos asociados Nombre del producto: Estructuras cristalinas y patrones de enlaces de hidrógeno en pseudo-polimorfos de la prolina Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Sociedad Argentina de Investigaciones en Química Orgánica Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "16 Nombre del evento: V Congreso de Fisicoquímica Teórica y computacional Tipo de evento: Congreso Ámbito: Nacional Realizado el:2014-12-08 00:00:00.0, 2014-12-10 00:00:00.0 en Caracas - Instituto Venezolano de investigaciones Científicas, IVIC Productos asociados Nombre del producto: On the electron density localization in HF cyclic clusters Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Instituto Venezolano de Investigaciones Cientificas Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "16 Nombre del evento: V Congreso de Fisicoquímica Teórica y computacional Tipo de evento: Congreso Ámbito: Nacional Realizado el:2014-12-08 00:00:00.0, 2014-12-10 00:00:00.0 en Caracas - Instituto Venezolano de investigaciones Científicas, IVIC",
+      "Productos asociados Nombre del producto: On the electron density localization in HF cyclic clusters Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Instituto Venezolano de Investigaciones Cientificas Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "17 Nombre del evento: IV Congreso de Fisicoquímica Teórica y computacional Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-11-26 00:00:00.0, 2012-11-28 00:00:00.0 en Caracas - Instituto Venezolano de investigaciones Científicas, IVIC Productos asociados Nombre del producto: Efectos de la cooperatividad en la formación de conglomerados del 4-metiloxicarbonil-2-azetidinona Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: PDVSA INTEVEP Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "17 Nombre del evento: IV Congreso de Fisicoquímica Teórica y computacional Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-11-26 00:00:00.0, 2012-11-28 00:00:00.0 en Caracas - Instituto Venezolano de investigaciones Científicas, IVIC",
+      "Productos asociados Nombre del producto: Efectos de la cooperatividad en la formación de conglomerados del 4-metiloxicarbonil-2-azetidinona Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: PDVSA INTEVEP Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "18 Nombre del evento: VII Congreso Venezolano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-11-06 00:00:00.0, 2005-11-10 00:00:00.0 en Libertador - Facultad de Ciencias, Universidad de Los Andes Productos asociados Nombre del producto: Estudio estructural de derivados de aminoácidos naturales: Estructura cristalina y molecular del N-carbamoiLo-L-prolina [C6H10N2O3] Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Universidad de Los Andes Tipo de vinculación Patrocinadora Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente",
+      "18 Nombre del evento: VII Congreso Venezolano de Química Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-11-06 00:00:00.0, 2005-11-10 00:00:00.0 en Libertador - Facultad de Ciencias, Universidad de Los Andes",
+      "Productos asociados Nombre del producto: Estudio estructural de derivados de aminoácidos naturales: Estructura cristalina y molecular del N-carbamoiLo-L-prolina [C6H10N2O3] Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Universidad de Los Andes Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS EDUARDO SEIJAS RUIZ Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Síntesis y caracterización de los derivados N-carbamoilo e hidantoina de la L-prolina\" . En: Venezuela AVANCES EN QUIMICA ISSN: 1856-5301 ed: Universidad de los Andes v. 1 fasc. 2 p.3 - 7 ,2006, DOI: Palabras: aminoacidos, Difracción de rayos-X en muestras policristal, Hidantoinas,",
+        "titulo": "Síntesis y caracterización de los derivados N-carbamoilo e hidantoina de la L-prolina",
+        "doi": "Palabras:",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"Synthesis and Crystal Structure Determination of Hydantoin-L-Proline\" . En: Estados Unidos JOURNAL OF CHEMICAL CRYSTALLOGRAPHY ISSN: 1572-8854 ed: SPRINGER/PLENUM PUBLISHERS v. 42 fasc. N/A p.968 - 971 ,2012, DOI: 10.1007/s10870-012-0344-3 Palabras: Hydantoin, X-ray crystal structure, Hydrogen Bonds,",
+        "titulo": "Synthesis and Crystal Structure Determination of Hydantoin-L-Proline",
+        "doi": "10.1007/s10870-012-0344-3",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, JELEN RESTREPO, \"Synthesis, Crystal Structure Analysis, Small Cluster Geometries and Energy Study of (E)-Ethyl-4-(2-(thiofen-2-ylmethylene) hydrazinyl) benzoate\" . En: Estados Unidos JOURNAL OF CHEMICAL CRYSTALLOGRAPHY ISSN: 1572-8854 ed: SPRINGER/PLENUM PUBLISHERS v. 43 fasc. N/A p.544 - 549 ,2013, DOI: 10.1007/s10870-013-0455-5 Palabras: Hydrazone, Cooperativity effects , X-ray crystal structure, Hydrogen Bonds,",
+        "titulo": "Synthesis, Crystal Structure Analysis, Small Cluster Geometries and Energy Study of (E)-Ethyl-4-(2-(thiofen-2-ylmethylene) hydrazinyl) benzoate",
+        "doi": "10.1007/s10870-013-0455-5",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Investigating the Stability of Double Head to Tail Dimers and Ribbons in Multicomponent Crystals of cis-4-Aminocyclohexanecarboxilic Acid with Water and Oxalic Acid\" . En: Estados Unidos CRYSTAL GROWTH DESIGN ISSN: 1528-7505 ed: Amer Chemical Soc v. 13 fasc. 5 p.1849 - 1860 ,2013, DOI: 10.1021/cg3014392 Palabras: Cooperativity effects , Crystal Structure, aminoacids, synchrotron radiation, Supramolecular structure, Hydrogen Bonds,",
+        "titulo": "Investigating the Stability of Double Head to Tail Dimers and Ribbons in Multicomponent Crystals of cis-4-Aminocyclohexanecarboxilic Acid with Water and Oxalic Acid",
+        "doi": "10.1021/cg3014392",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Cooperative effects on the formation of supramolecular synthons of thiohydantoin derivatives\" . En: Países Bajos JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING ISSN: 1472-7978 ed: Sage v. 14 fasc. N/A p.5 - 16 ,2014, DOI: 10.3233/JCM-140480 Palabras: Cooperativity effects , DFT, Supramolecular structure, Hydrogen Bonds, thiohydantoin ,",
+        "titulo": "Cooperative effects on the formation of supramolecular synthons of thiohydantoin derivatives",
+        "doi": "10.3233/JCM-140480",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Synthesis, crystal and supramolecular structure of rac-N-acetyl-2- thiohydantoin-asparagine\" . En: Venezuela AVANCES EN QUIMICA ISSN: 1856-5301 ed: Universidad de los Andes v. 9 fasc. 1 p.3 - 6 ,2014, DOI: Palabras: thiohydantoin , X-ray crystal structure, Supramolecular structure, Hydrogen Bonds,",
+        "titulo": "Synthesis, crystal and supramolecular structure of rac-N-acetyl-2- thiohydantoin-asparagine",
+        "doi": "Palabras:",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Crystal Structure of 2-Thiohydantoin-L-Isoleucine Synthesized under Solvent-Free Conditions\" . En: Reino Unido MOLECULAR CRYSTALS AND LIQUID CRYSTALS ISSN: 1563-5287 ed: Taylor & Francis Ltd v. 607 fasc. N/A p.192 - 199 ,2015, DOI: 10.1080/15421406.2014.928433 Palabras: Solvent free synthesis, thiohydantoin , X-ray crystal structure, Hydrogen Bonds,",
+        "titulo": "Crystal Structure of 2-Thiohydantoin-L-Isoleucine Synthesized under Solvent-Free Conditions",
+        "doi": "10.1080/15421406.2014.928433",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"The performance of HF and DFT/B3LYP in the estimation of the radiative efficiencies of greenhouse gases\" . En: Países Bajos JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING ISSN: 1472-7978 ed: Sage v. 17 fasc. 1 p.187 - 197 ,2017, DOI: 10.3233/JCM-160672 Palabras: greenhouse gases, DFT, Radiative efficiency,",
+        "titulo": "The performance of HF and DFT/B3LYP in the estimation of the radiative efficiencies of greenhouse gases",
+        "doi": "10.3233/JCM-160672",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"On the geometric and magnetic properties of the monomer, dimer and trimer of NiFe2O4\" . En: Países Bajos JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING ISSN: 1472-7978 ed: Sage v. 17 fasc. 1 p.19 - 28 ,2017, DOI: 10.3233/JCM-160657 Palabras: Spin density, DFT, Ferrite, Magnetic properties,",
+        "titulo": "On the geometric and magnetic properties of the monomer, dimer and trimer of NiFe2O4",
+        "doi": "10.3233/JCM-160657",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"On the electron density localization in HF cyclic clusters\" . En: Países Bajos JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING ISSN: 1472-7978 ed: Sage v. 17 fasc. 1 p.5 - 18 ,2017, DOI: 10.3233/JCM-160656 Palabras: HF clusters, DFT, Cooperativity effects , Hydrogen Bonds,",
+        "titulo": "On the electron density localization in HF cyclic clusters",
+        "doi": "10.3233/JCM-160656",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"Crystal Structure Analysis and Topological Study of Non-covalent Interactions in 2,2-Biimidazole:Salicylic Acid 2:1 Co-crystal\" . En: Estados Unidos JOURNAL OF CHEMICAL CRYSTALLOGRAPHY ISSN: 1572-8854 ed: SPRINGER/PLENUM PUBLISHERS v. 47 fasc. N/A p.47 - 58 ,2017, DOI: 10.1007/s10870-017-0679-x Palabras: NCI analysis, DFT, Co-crystal, X-ray crystal structure, Hydrogen Bonds,",
+        "titulo": "Crystal Structure Analysis and Topological Study of Non-covalent Interactions in 2,2-Biimidazole:Salicylic Acid 2:1 Co-crystal",
+        "doi": "10.1007/s10870-017-0679-x",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"(2S)-1-Carbamoylpyrrolidine-2-carboxylic acid\" . En: Reino Unido ACTA CRYSTALLOGRAPHICA SECTION C CRYSTAL STRUCTURE COMMUNICATIONS ISSN: 0108-2701 ed: International Union of Crystallography v. 63 fasc. N/A p.303 - 305 ,2007, DOI: 10.1107/S0108270107014102 Palabras: N-Carbamoyl, Hydrogen Bonds, Crystal Structure,",
+        "titulo": "(2S)-1-Carbamoylpyrrolidine-2-carboxylic acid",
+        "doi": "10.1107/S0108270107014102",
+        "anio": "2007"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Non-covalent interactions in the multicomponent crystal of 1-amino­cyclo­pentane carb­oxy­lic acid, oxalic acid and water: a crystallographic and a theoretical approach\" . En: Reino Unido ACTA CRYSTALLOGRAPHICA SECTION B STRUCTURAL SCIENCE CRYSTAL ENGINEERING AND MATERIALS ISSN: 2052-5206 ed: INT UNION CRYSTALLOGRAPHY v. 73 fasc. N/A p.968 - 980 ,2017, DOI: 10.1107/S2052520617011775 Palabras: Supramolecular chemistry, DFT, Multicomponent Crystals, X-ray crystal structure, Hydrogen Bonds, aminoacids, NCI analysis,",
+        "titulo": "Non-covalent interactions in the multicomponent crystal of 1-amino­cyclo­pentane carb­oxy­lic acid, oxalic acid and water: a crystallographic and a theoretical approach",
+        "doi": "10.1107/S2052520617011775",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"Solvent-free synthesis and crystal structure of rac-2-Thiohydantoin-valine\" . En: Brasil PERIODICO TCHE QUIMICA ISSN: 2179-0302 ed: Tche Quimica Group v. 16 fasc. 31 p.347 - 352 ,2018, DOI: Palabras: Solvent free synthesis, thiohydantoin , X-ray crystal structure, Hydrogen Bonds,",
+        "titulo": "Solvent-free synthesis and crystal structure of rac-2-Thiohydantoin-valine",
+        "doi": "Palabras:",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Structural characterization of 2-amino-2-oxoacetic acid by X-ray powder diffraction and quantum chemistry\" . En: Brasil PERIODICO TCHE QUIMICA ISSN: 2179-0302 ed: Tche Quimica Group v. 16 fasc. 33 p.516 - 523 ,2019, DOI: Palabras: DFT, NCI analysis, powder diffraction, Hydrogen Bonds, X-ray crystal structure,",
+        "titulo": "Structural characterization of 2-amino-2-oxoacetic acid by X-ray powder diffraction and quantum chemistry",
+        "doi": "Palabras:",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, JELEN RESTREPO, NESTOR JOSE CUBILLAN ACOSTA, \"Synthesis, crystal structure, and non-covalent interactions in 4-hydrazinobenzoic acid hydrochloride\" . En: Países Bajos JOURNAL OF MOLECULAR STRUCTURE ISSN: 0022-2860 ed: Elsevier v. 1201 fasc. N/A p.127154 - 127154 ,2019, DOI: 10.1016/j.molstruc.2019.127154 Palabras: Phenylhydrazine hydrochloride, Crystal Structure, Hydrogen Bonds, NCI analysis,",
+        "titulo": "Synthesis, crystal structure, and non-covalent interactions in 4-hydrazinobenzoic acid hydrochloride",
+        "doi": "10.1016/j.molstruc.2019.127154",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"N-acetyl-5-isopropyl-2-tioxoimidazolidin-4-one: Synthesis, spectroscopic characterization, crystal structure, DFT calculations, Hirshfeld surface analysis and energy framework study\" . En: Países Bajos JOURNAL OF MOLECULAR STRUCTURE ISSN: 0022-2860 ed: Elsevier v. 1219 fasc. N/A p.128630 - 128630 ,2020, DOI: 10.1016/j.molstruc.2020.128630 Palabras: Hirshfeld surface analysis, Crystal Structure, DFT, NCI analysis, Hydrogen Bonds, Hydantoin,",
+        "titulo": "N-acetyl-5-isopropyl-2-tioxoimidazolidin-4-one: Synthesis, spectroscopic characterization, crystal structure, DFT calculations, Hirshfeld surface analysis and energy framework study",
+        "doi": "10.1016/j.molstruc.2020.128630",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, FERNANDO JAVIER TORRES ARROBA, JOSE RAMON MORA, \"A topological study of the haxacoordinated carbon in the pentagonal-pyramidal benzene and hexamethylbenzene dications\" . En: Países Bajos CHEMICAL PHYSICS LETTERS ISSN: 0009-2614 ed: Elsevier v. 758 fasc. N/A p.137912 - 137912 ,2020, DOI: 10.1016/j.cplett.2020.137912 Palabras: Atoms in molecules, Carbon hypercoordination, Electron localization function, Topological analysis,",
+        "titulo": "A topological study of the haxacoordinated carbon in the pentagonal-pyramidal benzene and hexamethylbenzene dications",
+        "doi": "10.1016/j.cplett.2020.137912",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Two conformational polymorphs of 4-methyl­hippuric acid\" . En: Estados Unidos ACTA CRYSTALLOGRAPHICA SECTION B STRUCTURAL SCIENCE CRYSTAL ENGINEERING AND MATERIALS ISSN: 2052-5206 ed: INT UNION CRYSTALLOGRAPHY v. 76 fasc. N/A p. 1077 - 1091 ,2020, DOI: 10.1107/S2052520620013773 Palabras: conformational polymorphism, DFT, Atoms in molecules, Hirshfeld surface analysis, NCI analysis, X-ray crystal structure,",
+        "titulo": "Two conformational polymorphs of 4-methyl­hippuric acid",
+        "doi": "10.1107/S2052520620013773",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"TDOS quantum mechanical visual analysis for single molecules\" . En: Canadá CANADIAN JOURNAL OF PURE & APPLIED SCIENCES ISSN: 1920-3853 ed: v. 15 fasc. 2 p.5239 - 5245 ,2021, DOI: Palabras: Densities of states, molecular orbital diagrams,",
+        "titulo": "TDOS quantum mechanical visual analysis for single molecules",
+        "doi": "Palabras:",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Combined DFT calculation, Hirshfeld surface analysis, and Energy framework study of non-covalent interactions in the crystal structure of (Z)-5-ethylidene-2-thiohydantoin determined by powder X-ray diffraction\" . En: Países Bajos JOURNAL OF MOLECULAR STRUCTURE ISSN: 0022-2860 ed: Elsevier v. 1236 fasc. N/A p.130361 - 130361 ,2021, DOI: 10.1016/j.molstruc.2021.130361 Palabras: powder diffraction, NCI analysis, Atoms in molecules, thiohydantoin , Topological analysis,",
+        "titulo": "Combined DFT calculation, Hirshfeld surface analysis, and Energy framework study of non-covalent interactions in the crystal structure of (Z)-5-ethylidene-2-thiohydantoin determined by powder X-ray diffraction",
+        "doi": "10.1016/j.molstruc.2021.130361",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Redetermination of 1-carboxy­cyclo­hexan-1-aminium chloride\" . En: Reino Unido ACTA CRYSTALLOGRAPHICA SECTION E STRUCTURE REPORTS ONLINE ISSN: 1600-5368 ed: International Union of Crystallography v. 65 fasc. N/A p.245 - 245 ,2008, DOI: 10.1107/S1600536808044243 Palabras: aminoacids, Crystal Structure, Hydrogen Bonds,",
+        "titulo": "Redetermination of 1-carboxy­cyclo­hexan-1-aminium chloride",
+        "doi": "10.1107/S1600536808044243",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Molecular and crystalline structures of three (S)-4-alkoxycarbonyl-2-azetidinones containing long alkyl side chains from synchrotron X-ray powder diffraction data\" . En: Reino Unido ACTA CRYSTALLOGRAPHICA SECTION B STRUCTURAL SCIENCE ISSN: 0108-7681 ed: International Union of Crystallography v. 65 fasc. N/A p.724 - 730 ,2009, DOI: 10.1107/S0108768109036386 Palabras: structure solution, powder diffraction, Hydrogen Bonds, beta-lactams,",
+        "titulo": "Molecular and crystalline structures of three (S)-4-alkoxycarbonyl-2-azetidinones containing long alkyl side chains from synchrotron X-ray powder diffraction data",
+        "doi": "10.1107/S0108768109036386",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, LUIS CIPRIANO RINCON HERNANDEZ, \"Two nickel (II) complexes with side chain isomeric ligands: L-leucine and L-isoleucine to study non-covalent interactions and metal-ligand bonding\" . En: Colombia JOURNAL OF MOLECULAR STRUCTURE ISSN: 0022-2860 ed: Elsevier v. 1261 fasc. N/A p.132898 - 132898 ,2022, DOI: 10.1016/j.molstruc.2022.132898",
+        "titulo": "Two nickel (II) complexes with side chain isomeric ligands: L-leucine and L-isoleucine to study non-covalent interactions and metal-ligand bonding",
+        "doi": "10.1016/j.molstruc.2022.132898",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"On the crystal structures and hydrogen bond patterns in proline pseudopolymorphs\" . En: Estados Unidos POWDER DIFFRACTION ISSN: 1945-7413 ed: Cambridge Univ Press v. 25 fasc. N/A p.235 - 240 ,2010, DOI: 10.1154/1.3478557",
+        "titulo": "On the crystal structures and hydrogen bond patterns in proline pseudopolymorphs",
+        "doi": "10.1154/1.3478557",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Síntesis, caracterización espectroscópica, análisis térmico y estudio por difracción de rayos-X de dos nuevos complejos: L-leucinato de Ni(II) y L-isoleucinato de Ni(II)\" . En: Venezuela AVANCES EN QUIMICA ISSN: 1856-5301 ed: Universidad de los Andes v. 17 fasc. 1 p.9 - 14 ,2022, DOI: Palabras: aminoacids, Difracción de rayos-X en muestras policristal,",
+        "titulo": "Síntesis, caracterización espectroscópica, análisis térmico y estudio por difracción de rayos-X de dos nuevos complejos: L-leucinato de Ni(II) y L-isoleucinato de Ni(II)",
+        "doi": "Palabras:",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, FERNANDO JAVIER TORRES ARROBA, LUIS CIPRIANO RINCON HERNANDEZ, \"A Theoretical Study of the C-X Bond Cleavage Mediated by Cob(II)Aloxime\" . En: Suiza MOLECULES ISSN: 1420-3049 ed: mdpi v. 27 fasc. 21 p.7283 - 7283 ,2022, DOI: 10.3390/molecules27217283 Palabras: DFT, Spin density, Topological analysis,",
+        "titulo": "A Theoretical Study of the C-X Bond Cleavage Mediated by Cob(II)Aloxime",
+        "doi": "10.3390/molecules27217283",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, LUIS CIPRIANO RINCON HERNANDEZ, FERNANDO JAVIER TORRES ARROBA, \"Exploring the Non-Covalent Bonding in Water Clusters\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 24 fasc. 6 p.5271 - 5271 ,2023, DOI: 10.3390/ijms24065271 Palabras: Source Function, Atoms in molecules, DFT, Electron localization function, QTAIM,",
+        "titulo": "Exploring the Non-Covalent Bonding in Water Clusters",
+        "doi": "10.3390/ijms24065271",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, LUIS CIPRIANO RINCON HERNANDEZ, FERNANDO JAVIER TORRES ARROBA, \"Towards the construction of an accurate kinetic energy density functional and its functional derivative through physics-informed neural networks\" . En: Estados Unidos JOURNAL OF PHYSICS COMMUNICATIONS ISSN: 2399-6528 ed: Institute Of Physics Publishing v. 7 fasc. p.061001 - 061001 ,2023, DOI: 10.1088/2399-6528/acd90e",
+        "titulo": "Towards the construction of an accurate kinetic energy density functional and its functional derivative through physics-informed neural networks",
+        "doi": "10.1088/2399-6528/acd90e",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, LUIS CIPRIANO RINCON HERNANDEZ, FERNANDO JAVIER TORRES ARROBA, \"Revisiting the bonding of the pentagonal-pyramidal C6H62+ and C6(CH3)62+ dications\" . En: Inglaterra PHYSICAL CHEMISTRY CHEMICAL PHYSICS ISSN: 1463-9084 ed: Royal Soc Chemistry v. 25 fasc. p.32922 - 32930 ,2023, DOI: 10.1039/D3CP04247B Palabras: DFT, Electron localization function, QTAIM, Topological analysis,",
+        "titulo": "Revisiting the bonding of the pentagonal-pyramidal C6H62+ and C6(CH3)62+ dications",
+        "doi": "10.1039/D3CP04247B",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, LUIS CIPRIANO RINCON HERNANDEZ, FERNANDO JAVIER TORRES ARROBA, \"KLD: a program to elucidate the localization of the Fermi and Coulomb holes in molecular systems\" . En: Colombia JOURNAL OF MOLECULAR MODELING ISSN: 0948-5023 ed: Springer v. 30 fasc. p.289 - 289 ,2024, DOI: 10.1007/s00894-024-06070-4 Palabras: DFT,",
+        "titulo": "KLD: a program to elucidate the localization of the Fermi and Coulomb holes in molecular systems",
+        "doi": "10.1007/s00894-024-06070-4",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, JORGE ISAAC ALI TORRES, FERNANDO JAVIER TORRES ARROBA, \"Computational evaluation of the oxidation of superoxide to molecular dioxygen mediated by NNNN-tetradentate copper complexes\" . En: Inglaterra RSC ADVANCES ISSN: 2046-2069 ed: Royal Soc Chemistry v. 14 fasc. p.38153 - 38161 ,2024, DOI: 10.1039/D4RA07126C Palabras: superoxide dismutase (SOD) enzyme, DFT, QTAIM,",
+        "titulo": "Computational evaluation of the oxidation of superoxide to molecular dioxygen mediated by NNNN-tetradentate copper complexes",
+        "doi": "10.1039/D4RA07126C",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, LUIS CIPRIANO RINCON HERNANDEZ, FERNANDO JAVIER TORRES ARROBA, \"Exploring the bonding in alkaline earth halides AeX− (Ae = Be¿Ba, X = F¿I) from Fermi hole localization and QTAIM perspectives\" . En: Reino Unido PHYSICAL CHEMISTRY CHEMICAL PHYSICS ISSN: 1463-9076 ed: Royal Soc Chemistry v. 27 fasc. 27 p.2333 - 2342 ,2024, DOI: 10.1039/D4CP04332D",
+        "titulo": "Exploring the bonding in alkaline earth halides AeX− (Ae = Be¿Ba, X = F¿I) from Fermi hole localization and QTAIM perspectives",
+        "doi": "10.1039/D4CP04332D",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, LUIS CIPRIANO RINCON HERNANDEZ, FERNANDO JAVIER TORRES ARROBA, \"A redefinition of global conceptual density functional theory reactivity indexes by means of the cubic expansions of the energy\" . En: Inglaterra PHYSICAL CHEMISTRY CHEMICAL PHYSICS ISSN: 1463-9076 ed: Royal Soc Chemistry v. 27 fasc. p.8174 - 8185 ,2025, DOI: 10.1039/D5CP00994D Palabras: DFT,",
+        "titulo": "A redefinition of global conceptual density functional theory reactivity indexes by means of the cubic expansions of the energy",
+        "doi": "10.1039/D5CP00994D",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Study of the conversion of N-carbamoyl-L-proline to hydantoin-L-proline using powder synchrotron X-ray diffraction\" . En: Estados Unidos POWDER DIFFRACTION ISSN: 1945-7413 ed: Cambridge Univ Press v. 25 fasc. 4 p.342 - 348 ,2010, DOI: 10.1154/1.3503660 Palabras: synchrotron radiation, Hydrogen Bonds, powder diffraction, structure solution,",
+        "titulo": "Study of the conversion of N-carbamoyl-L-proline to hydantoin-L-proline using powder synchrotron X-ray diffraction",
+        "doi": "10.1154/1.3503660",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: GERZON E. DELGADO ARCINIEGAS, LUIS EDUARDO SEIJAS RUIZ, \"Preparación y análisis cristalográfico de un nuevo cristal multicomponente con un ácido α-hidroxicarboxílico y una piridincarboxamida\" . En: Venezuela AVANCES EN QUIMICA ISSN: 1856-5301 ed: Universidad de los Andes v. 20 fasc. 2 p.53 - 58 ,2025, DOI:",
+        "titulo": "Preparación y análisis cristalográfico de un nuevo cristal multicomponente con un ácido α-hidroxicarboxílico y una piridincarboxamida",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Cooperative efects on the formation of 4-methyloxycarbonyl-2-azetidinone clusters\" . En: Países Bajos JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING ISSN: 1875-8983 ed: v. 12 fasc. N/A p.311 - 321 ,2012, DOI: 10.3233/JCM-2012-0418 Palabras: DFT, beta-lactams, Cooperativity effects , Hydrogen Bonds,",
+        "titulo": "Cooperative efects on the formation of 4-methyloxycarbonyl-2-azetidinone clusters",
+        "doi": "10.3233/JCM-2012-0418",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, \"On the energetic and geometric description of the interaction between the isonipecotic and 1,1-cylobutanedicarboxilic acids\" . En: Países Bajos JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING ISSN: 1472-7978 ed: Sage v. 12 fasc. N/A p.299 - 310 ,2012, DOI: 10.3233/JCM-2012-0417 Palabras: Co-crystal, Cooperativity effects , Hydrogen Bonds, aminoacids,",
+        "titulo": "On the energetic and geometric description of the interaction between the isonipecotic and 1,1-cylobutanedicarboxilic acids",
+        "doi": "10.3233/JCM-2012-0417",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS EDUARDO SEIJAS RUIZ, GERZON E. DELGADO ARCINIEGAS, \"Synthesis, Crystal Structure and Hydrogen-Bonding Patterns in (RS)-1-Carbamoyl Pyrrolidine-2-Carboxylic Acid\" . En: Estados Unidos JOURNAL OF CHEMICAL CRYSTALLOGRAPHY ISSN: 1572-8854 ed: SPRINGER/PLENUM PUBLISHERS v. 42 fasc. N/A p.388 - 393 ,2012, DOI: 10.1007/s10870-011-0259-4 Palabras: X-ray crystal structure, Hydrogen Bonds, N-Carbamoyl,",
+        "titulo": "Synthesis, Crystal Structure and Hydrogen-Bonding Patterns in (RS)-1-Carbamoyl Pyrrolidine-2-Carboxylic Acid",
+        "doi": "10.1007/s10870-011-0259-4",
+        "anio": "2012"
+      }
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo SINTESIS Y CARACTERIZACION ESTRUCTURAL DE LOS DERIVADOS N-CARBAMOILO E HIDANTOINA DE L-PROLINA Inicio: Octubre 2006 Fin: Julio 2008 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo ESTRUCTURAS CRISTALINA Y PATRONES DE ENLACE DE HIDRÓGENO EN PSEUDOS POLIMORFOS DE AMINOÁCIDOS Inicio: Diciembre 2008 Fin: Noviembre 2012 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo SÌNTESIS Y CARACTERIZACIÒN ESTRUCTURAL DE DERIVADOS DE AMINOÀCIDOS NATURALES Y SINTÈTICOS Inicio: Noviembre 2013 Fin: Octubre 2017 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo ESTUDIOS DE ESTRUCTURA CRISTALINA Y ENERGÉTICA EN LOS ENLACES DE HIDRÓGENO DE AMINOÁCIDOS Y SUS DERIVADOS Inicio: Julio 2015 Fin: Junio 2019 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo SÍNTESIS Y CARACTERIZACIÓN ESTRUCTURAL DE DERIVADOS DE AMINOÁCIDOS NATURALES Y SINTÉTICOS Inicio: Marzo 2015 Fin: Marzo 2019 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo ESTUDIO GEOMÉTRICO Y ENERGÉTICO DE LA INTERACCIÓN DEL ÁCIDO HIDANTOIN-DL-ASPÁRTICO Y LA NICOTINAMIDA Inicio: Abril 2015 Fin: Abril 2017 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Implementación de una nueva Línea de Investigación en Fisicoquímica Computacional Inicio: Enero 2022 Duración Resumen En la presente propuesta se contempla el desarrollo de dos proyectos de investigación: 1. Desarrollo de un programa de localización electrónica con capacidades multi-GPU El diseño de herramientas que permitan calcular y analizar los patrones de localización electrónica en sistemas moleculares y cristalinos representa un enorme reto debido a la complejidad de la dinámica electrónica asociada al comportamiento cuántico de estas partículas. En trabajos previamente publicados, los autores de la presente propuesta hemos reportado el desarrollo de un programa de localización electrónica que se basa en la extracción de la información contenida en la densidad condicional de pares a través de metodologías que se derivan de la teoría de la información (ver Int J Quantum Chem. 2018, e25763,doi.org/10.1002/qua.25763). Recursos computacionales necesarios: tiempo de cálculo en el HPC-UR, compiladores Intel y Python. 2. Ruptura de enlaces carbono-halógeno mediante Cob[II]aloxima Los enlaces carbono-halogeno (C¿X, X= Cl, Br, I) se encuentran presentes en una gran variedad de compuestos considerados como substancias altamente contaminantes y peligrosas. Es importante mencionar que dichos compuestos casi no ocurren de forma natural siendo su origen principalmente antropogénico en vista de que son ampliamente usados en diferentes actividades industriales. Precisamente el uso indiscriminado de estás substancias ha resultado en su acumulación a nivel global tanto en cuerpos de agua superficial como subterránea, por lo cual es indispensable el diseño de técnicas de degradación. Recientemente se ha propuesto a la dehalogenación reductiva como un método eficiente para la eliminación de compuestos halogenados en cuerpos de agua. Este método contempla el uso de Cob[n]almina (Vitamina B12) como catalizador, no obstante, los estudios reportados no han logrado descifrar cual es el rol exacto que esta macromolécula cumple en el proceso."
+    ]
+  }
+}

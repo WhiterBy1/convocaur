@@ -1,0 +1,47 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/laura-patricia-gutierrez-soriano",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "laurap.gutierrez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n7709/1705749948608.jpg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "orcid": "https://orcid.org/0000-0002-3074-8146"
+  },
+  "areas_investigacion": [
+    "Anestesia General",
+    "Anestesia Pediátrica",
+    "Cirugía de Tórax",
+    "Enfermedades estructurales del Corazón (Valvulares y Congénitas del adulto)",
+    "Sedación"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Abordaje transfusional intraoperatorio en pacientes llevados a trasplante hepático en la Fundación Cardioinfantil: estudio prospectivo"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Descripción del abordaje transfusional frente al sangrado intraoperatorio en cirugía cardíaca de adultos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estrategias de protección medular perioperatorias en pacientes llevados a corrección abierta de aneurismas de aorta toracoabdominal en la Fundación Cardioinfantil"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Transfusión de hemoderivados en pacientes pediátricos con soporte ECMO durante corrección de cardiopatía congénita"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-3074-8146"
+    ]
+  },
+  "id": "laura-patricia-gutierrez-soriano",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas"
+}

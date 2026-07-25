@@ -1,0 +1,423 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/eduar-barbosa-caro",
+  "nombre": "Eduar Barbosa Caro",
+  "cargo_principal": "Profesor asistente de carrera",
+  "email": "eduar.barbosa@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n1325/Barbosa+Caro+Eduar.JPG",
+  "afiliaciones": [
+    "Director Periodismo y Opinión Pública - Escuela de Estudios Sociales, Políticos e Internacionales - Universidad del Rosario",
+    "Profesor asistente de carrera - Escuela de Estudios Sociales, Políticos e Internacionales - Universidad del Rosario",
+    "Investigador - Grupo de Investigación Estudios sobre Identidad - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57191167517",
+    "google_scholar": "https://scholar.google.com/citations?user=IkiUHmsAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/49f693fd-49a1-40db-8043-d93ab6c2a885",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001477063",
+    "orcid": "https://orcid.org/0000-0003-0297-8224"
+  },
+  "areas_investigacion": [
+    "Comunicación",
+    "Educación virtual",
+    "Medios sociales",
+    "Periodismo",
+    "TIC"
+  ],
+  "perfil_profesional": "Eduar Barbosa Caro, es profesor asistente de carrera de la Escuela de Ciencias Humanas. Director del programa de Periodismo y Opinión pública y URosario Radio. Editor del Anuario Electrónico de Estudios en Comunicación Social \"Disertaciones\". Doctor (c) en Comunicación (Universidad de los Andes, Chile). Magíster en Comunicación y Comunicador Social - Periodista (Universidad del Norte, Colombia).",
+  "formacion_academica": [
+    "2012, Comunicador Social y Periodista, Fundacion Universidad del Norte - Barranquilla",
+    "2015, Magíster en Comunicación, Fundacion Universidad del Norte - Barranquilla"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Influence of audience feedback on editorial decisions of local digital newspapers: a comparative study between Chile, Peru and Colombia",
+      "fecha": "2024-9-4",
+      "enlace": "https://doi.org/https://doi.org/10.26441/RC23.2-2024-3490"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "De balas, política y medios informativos: análisis de la cobertura periodística de tiroteos escolares en The New York Times (1999-2018)",
+      "fecha": "2021-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F22645eb1-5f55-42d7-a149-cc22fc409123"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Paramilitarism and music in Colombia An analysis of the corridos paracos",
+      "fecha": "2019-10-21",
+      "enlace": "https://doi.org/10.1075/jlp.19019.bar"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Modelado y difusión de temas noticiosos en medios sociales: características y factores de la emergencia de noticias en un canal informativo de Twitter",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.32870/cys.v2019i0.6437"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Técnicas big data: Análisis de textos a gran escala para la investigación científica y periodística",
+      "fecha": "2016-1-1",
+      "enlace": "https://doi.org/10.3145/epi.2016.jul.12"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Trabajo en casa y comunicación: el caso de la agencia de marketing digital Netbangers en Colombia",
+      "fecha": "2022-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/b03a5b33-cdfa-4dbc-8576-69d2f2d009c9"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Contenidos audiovisuales y vacunación contra el COVID-19. El caso de MinSalud en Colombia",
+      "fecha": "2021-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F09ed88b9-f3a0-48fd-b4eb-fef09ceba7fe"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Titulares noticiosos y COVID-19: análisis de encuadres en la Revista Semana durante la pandemia",
+      "fecha": "2021-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/b252bdce-7f04-4e73-af87-1faa25c5e9ab"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "The United States in Cuban Media: Framing of America Related News in Granma's Internet Archives",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/feef8a41-2774-4733-9064-63bd1798ece9"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "University media in Ecuador: Types, functions and self-determination",
+      "fecha": "2018-10-24",
+      "enlace": "https://doi.org/10.1145/3284179.3284341"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Difusión de noticias en Twitter y medios sociales",
+      "fecha": "2017-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/b506b82c-1ec2-4ede-a6a2-048a514af080"
+    }
+  ],
+  "total_publicaciones": 11,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "A tiempo de ser recordados : crónicas de oficios en vía de extinción"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis de la cobertura mediática de cuatro tiroteos escolares letales en EE.UU. desde el diario The New York Times (1999-2018)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis del cubrimiento de la Revista Semana y el periódico El Tiempo al caso de la Comunidad del Anillo"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Así leemos Rock al Parque : un análisis al cubrimiento periodístico de Radioacktiva y Radiónica a través de Twitter"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cadenas invisibles: análisis de la cobertura periodística sobre tráfico de personas en el diario La Opinión (2018-2023)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cubrimiento informativo del automovilismo deportivo en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "De tierras, máquinas y tazas: un recorrido por el café especial colombiano"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El quepis bajo el brazo : las condiciones invisibles del piloto"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "En la cancha del periodismo: el camino de las periodistas deportivas hacía la difusión del fútbol femenino en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Entre oportunidades y capacidades : la inclusión educativa en Bogotá"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La sexta rama. Medios alternativos y Hip Hop en Bogotá"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Marcos noticiosos en el cubrimiento periodístico de temas de salud: Un análisis al periódico colombiano El Tiempo"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Mediación informativa en los desastres naturales: un acercamiento al cubrimiento de la avalancha de Mocoa"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Opinión pública y conflicto en Twitter: Semana en Vivo y el atentado a la Escuela General Santander"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Periodismo digital de opinión : un estudio de caso del videoblog La Pulla durante 2016-2018"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Propuestas de regulación de discursos de odio: un análisis de los casos de Chile, Colombia y Venezuela"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Re-existir como forma de vida. Crónicas arhuacas de naturaleza, ciudad e identidad indígena"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Síntomas de la corrupción empresarial en Colombia. El tratamiento periodístico de la cartelización del papel en El Tiempo y El Espectador (2014- 2016)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Tratamiento periodístico del ciclismo colombiano: un análisis al cubrimiento web del periódico El Diario durante 2017"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Trilogía teatral en un escenario llamado Colombia, Crónicas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Una radiografía al fútbol en Colombia: ¿por qué tantas deudas?"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Youtubers, mercado audivisual en la era digital"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001477063"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0003-0297-8224"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=IkiUHmsAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/49f693fd-49a1-40db-8043-d93ab6c2a885"
+    ],
+    "scopus_id": [
+      "57191167517"
+    ]
+  },
+  "id": "eduar-barbosa-caro",
+  "facultad_csv": "Escuela de Estudios Sociales, Políticos e Internacionales",
+  "cargo_csv": "Profesor asistente de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001477063",
+    "cod_rh": "0001477063",
+    "datos_generales": {
+      "Nombre": "Eduar Barbosa Caro",
+      "Nombre en citaciones": "BARBOSA CARO, EDUAR",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Doctorado Universidad de los Andes - Chile Doctorado en Comunicación Juniode2022 - de",
+      "Maestría/Magister Corporación Seminario Reformado Latinoamericano Maestría en Estudios Teológicos Abrilde2023 - de",
+      "Maestría/Magister FUNDACIÓN UNIVERSIDAD DEL NORTE MAESTRIA EN COMUNICACION Septiembrede2012 - Febrerode 2014 Difusión noticiosa y medios sociales: Un análisis de contenido a la difusión de temas noticiosos del periódico El Tiempo en Twitter durante el año 2013",
+      "Pregrado/Universitario FUNDACIÓN UNIVERSIDAD DEL NORTE COMUNICACION SOCIAL Y PERIODISMO Juliode2007 - Febrerode 2012 Oshun baila cumbia",
+      "Secundario SAN JOSE Enerode2002 - Juniode 2007"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración Universidad de Salamanca Estadística para investigadores - Prácticas con SPSS Juniode2019 - Juniode 2019",
+      "Otros FUNDACIÓN UNIVERSIDAD DEL NORTE Diplomado en Televidencia Crítica con Participación Ciudadana Septiembrede2010 - Marzode 2011"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 48 horas Semanales Agosto de 2017 de",
+      "Revista Disertaciones Dedicación: 40 horas Semanales Marzo de 2014 de Actual",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 3 horas Semanales Enero de 2017 Mayo de 2017",
+      "Amarthya Dedicación: 40 horas Semanales Abril de 2016 Enero de 2017",
+      "Panamericana Libreira y Papeleria S.A. Dedicación: 40 horas Semanales Marzo de 2015 Enero de 2016",
+      "FUNDACIÓN UNIVERSIDAD DEL NORTE Dedicación: 40 horas Semanales Marzo de 2014 Marzo de 2015",
+      "Netbangers S.A.S Dedicación: 40 horas Semanales Diciembre de 2012 Febrero de 2014",
+      "Alcaldia de Barranquilla Dedicación: 40 horas Semanales Junio de 2012 Julio de 2012",
+      "Fundación Fútbol con Corazón Dedicación: 40 horas Semanales Junio de 2011 Diciembre de 2011",
+      "Chris Kewish Fotografía Dedicación: 16 horas Semanales Enero de 2011 Diciembre de 2011"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, La sexta rama: medios alternativos y Hip Hop en Bogotá COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Diego Alonso López Rodríguez Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Relaciones Hombre-Máquina),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Análisis del cubrimiento de la Revista Semana y el periódico El Tiempo al caso de la Comunidad del Anillo COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Síntomas de la corrupción empresarial en Colombia. El tratamiento periodístico de la cartelización del papel en El Tiempo y El Espectador (2014- 2016) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Re-existir como forma de vida: crónicas arhuacas de naturaleza, ciudad e identidad indígena COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Programas de debate y construcción de opinión pública en Twitter: Semana en vivo y el atentado a la Escuela General Santander COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Entre oportunidades y capacidades: La inclusión educativa en Bogotá COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Youtubers, el nuevo mercado de la identidad COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Identidad nacional y ciclismo en Colombia: un análisis al cubrimiento web del periódico El Diario durante el año 2017 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Mediación informativa en los desastres naturales: un acercamiento al cubrimiento de la avalancha de Mocoa COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, A tiempo de ser recordados: crónicas de oficios en vía de extinción COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Trilogía teatral en un escenario llamado Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Análisis de la cobertura mediática de cuatro tiroteos escolares letales en EE.UU. desde el diario The New York Times (1999-2018) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Marcos noticiosos en el cubrimiento periodístico de temas de salud: un análisis al periódico colombiano El Tiempo COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Así leemos Rock al Parque: un análisis al cubrimiento de Radioacktiva y Radiónica a través de Twitter COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura Juliana Solorzano Rocha Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, Periodismo digital de opinión: un estudio de caso del videoblog La Pulla durante 2016-2018 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Ludiam Cifuentes / Liza Herrera Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: EDUAR BARBOSA CARO, El quepis bajo el brazo: las condiciones invisibles del piloto COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PERIODISMO Y OPINION PUBLICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Manuela Nariño Hoyos Tutor(es)/Cotutor(es): EDUAR BARBOSA CARO, Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Aciertos y retos para comunicar la ciencia en Colombia desde la esfera digital: una mirada a medios nativos y tradicionales Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Juan Daniel Ayazo Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Relaciones Hombre-Máquina),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Acceso a la información de personas con discapacidad visual a medios digitales de El Tiempo y El Espectador Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Laura Dayan Sánchez Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Relaciones Hombre-Máquina),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Diplomacia deportiva: un elemento identitario Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Katherine Andrea Rojas Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Relaciones Hombre-Máquina),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Privación de la libertad y maternidad en la cárcel El Buen Pastor Bogotá: una población olvidada por el Estado y estigmatizada por la sociedad Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Mariana Álvarez y Manuela Beltrán Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Relaciones Hombre-Máquina),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Soy migrante. Historias del sueño americano Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Ana María Moreno Forero Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Relaciones Hombre-Máquina),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Oculto en el cañón Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Silvia Corredor y Nicole Acuña Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: EDUAR BARBOSA CARO, Titulo: Representación de la música colombiana en el extranjero: Un análisis de contenido en ocho medios digitales latinoamericanos Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico Maestría en Estudios Sociales Nombre del orientado: Leidy Nataly Pimienta Gómez Areas: Ciencias Sociales -- Otras Ciencias Sociales -- Ciencias Sociales, Interdisciplinaria,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: La agenda temática e informativa en Twitter durante el Aislamiento Preventivo Obligatorio por la crisis del Coronavirus: políticos, medios y líderes de opinión en la pandemia 2020 Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Julia Sofía Martínez Estrada Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Disputas marítimas y sus efectos en los pescadores artesanales raizales Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: María José Mejía Jay Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: La Gastropolítica: un estudio de caso durante las elecciones locales en la ciudad de Bogotá de 2019 Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Elizabeth Manuela Prado Chicaiza Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: De tierras, máquinas y tazas: un recorrido por el café colombiano Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Sophia Salamanca Gómez Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: ¡Ay mi llanura! Historias de terror en los Llanos Orientales Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Kimberly Xiomara Ramírez Galindo Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Manos al agua Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Laura Garcia; Daniela Esquivel Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: El tratamiento informativo del movimiento animalista en cibermedios colombianos: un estudio cuantitativo sobre El Tiempo, El Espectador, Semana y El Colombiano (2014 - 2016) Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Susana Angulo Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Matices de la sexualidad: Revista Soho 2015 Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Diego Flórez Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Está de moda ser sostenible, está de moda reciclar Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: María Paula Muskus Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: EDUAR BARBOSA CARO, Titulo: La prevención del embarazo y del consumo de tabaco en adolescentes: un análisis de contenido de las campañas de comunicación del Ministerio de Salud y Protección Social de Colombia Tipo de trabajo presentado: Trabajo de grado/tesis en: CORPORACIÓN UNIVERSITARIA MINUTO DE DIOS - UNIMINUTO programa académico Maestría en Comunicación, Desarrollo y Cambio Social Nombre del orientado: Ricardo Ángel Urquijo Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Voz Populi Te Ve: El estudio de caso de un programa de infoentretenimiento en Colombia Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Leonardo Pulido y John Mira Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Interactividad de los cibermedios radiales en Villavicencio Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Angela Natalia Torres Herrera Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Influencers colombianos en el desarrollo de tendencias de moda: un análisis de los líderes de opinión en Instagram Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Alejandro Rivera Monsalve Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: CityNews, creación de nuevo medio Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Leidy Herrera y Angie Rangel Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Blanca Nieves y Doña Juana Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Julián Cáceres y Carlos Rincón Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Memorias hechas melodías Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Julieth Katherin Álvarez Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: La sinceridad de la ficción: La verdad del acontecimiento como conjunción entre periodismo y literatura Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Samuel Morales Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: ¿Literatura juvenil o clásicos?, los booktubers deciden Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: María Paula Hernández Barbosa Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: El costo de vivir en una casa gratis Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Daniel Alejandro Moreno Daza Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Ley 1774 de 2016: un refugio en medio del abandono Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: Katherin Castro Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: EDUAR BARBOSA CARO, Titulo: Cubrimiento mediático de las candidaturas presidenciales femeninas en Colombia durante la campaña de 2014 a partir de la teoría de encuadres Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico PERIODISMO Y OPINION PUBLICA Nombre del orientado: María José González Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Mediaciones, 2021, Marzo",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: Global Media Journal, 2019, Abril",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: CUADERNOS INFO, 2019, Junio",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Editorial: EDITORIAL UNIVERSIDAD DEL CAUCA , 2022, Diciembre",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Mediaciones, 2022, Agosto",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: CUADERNOS INFO, 2017, Julio",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: CHASQUI REVISTA LATINOAMERICANA DE COMUNICACION, 2021, Junio",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Investigación & Desarrollo, 2021, Febrero"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: VII Congreso Internacional Latina de Comunicación Social Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-12-07 00:00:00.0, 2015-12-11 00:00:00.0 en Santa Cruz de Tenerife - La Laguna (Tenerife) Productos asociados Nombre del producto: Medios sociales y difusión de noticias: los temas noticiosos en la cuenta de Twitter del periódico colombiano El Tiempo durante el año 2013 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LA LAGUNA Tipo de vinculación Gestionadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "1 Nombre del evento: VII Congreso Internacional Latina de Comunicación Social Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-12-07 00:00:00.0, 2015-12-11 00:00:00.0 en Santa Cruz de Tenerife - La Laguna (Tenerife)",
+      "Productos asociados Nombre del producto: Medios sociales y difusión de noticias: los temas noticiosos en la cuenta de Twitter del periódico colombiano El Tiempo durante el año 2013 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LA LAGUNA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "2 Nombre del evento: 1er Coloquio sobre Difusión de Innovaciones Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2014-07-29 00:00:00.0, en BOGOTÁ, D.C. - Bogotá (Colombia) Productos asociados Nombre del producto: Difusión noticiosa y medios sociales: perspectivas desde la Difusión de Innovaciones Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "2 Nombre del evento: 1er Coloquio sobre Difusión de Innovaciones Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2014-07-29 00:00:00.0, en BOGOTÁ, D.C. - Bogotá (Colombia)",
+      "Productos asociados Nombre del producto: Difusión noticiosa y medios sociales: perspectivas desde la Difusión de Innovaciones Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "3 Nombre del evento: VI Congreso Internacional Latina de Comunicación Social Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-12-02 00:00:00.0, 2014-12-05 00:00:00.0 en Santa Cruz de Tenerife - Productos asociados Nombre del producto: La Big data y los métodos computacionales para el análisis de contenidos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LA LAGUNA Tipo de vinculación Gestionadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "3 Nombre del evento: VI Congreso Internacional Latina de Comunicación Social Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-12-02 00:00:00.0, 2014-12-05 00:00:00.0 en Santa Cruz de Tenerife -",
+      "Productos asociados Nombre del producto: La Big data y los métodos computacionales para el análisis de contenidos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LA LAGUNA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "4 Nombre del evento: VII Congreso Latinoamericano de la Asociación Mundial para la Investigación en Opinión Pública (World Association for Public Opinion Research, WAPOR) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-10-12 00:00:00.0, 2016-10-14 00:00:00.0 en Monterrey - Universidad Autónoma de Nuevo León Productos asociados Nombre del producto: La construcción de la influencia en la ciberesfera latinoamericana: un análisis de los usuarios más influyentes de Twitter en Ecuador Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE NUEVO LEON Tipo de vinculación Gestionadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "4 Nombre del evento: VII Congreso Latinoamericano de la Asociación Mundial para la Investigación en Opinión Pública (World Association for Public Opinion Research, WAPOR) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-10-12 00:00:00.0, 2016-10-14 00:00:00.0 en Monterrey - Universidad Autónoma de Nuevo León",
+      "Productos asociados Nombre del producto: La construcción de la influencia en la ciberesfera latinoamericana: un análisis de los usuarios más influyentes de Twitter en Ecuador Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD AUTONOMA DE NUEVO LEON Tipo de vinculación Gestionadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "5 Nombre del evento: INTRACOM - Congreso Internacional de Investigación y Transferencia en Comunicación Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-12-05 00:00:00.0, 2022-12-09 00:00:00.0 en Santa Cruz de Tenerife - Productos asociados Nombre del producto: Medios y nacionalsocialismo en Colombia: análisis de la Revista Sigfrido (2011-2021) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "5 Nombre del evento: INTRACOM - Congreso Internacional de Investigación y Transferencia en Comunicación Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-12-05 00:00:00.0, 2022-12-09 00:00:00.0 en Santa Cruz de Tenerife -",
+      "Productos asociados Nombre del producto: Medios y nacionalsocialismo en Colombia: análisis de la Revista Sigfrido (2011-2021) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "6 Nombre del evento: CINCOMA - Congreso Internacional de Innovación en Comunicación y Medios Audiovisuales Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-09-29 00:00:00.0, en Alicante - Productos asociados Nombre del producto: Wokebranding: estrategias de marca, teoría crítica y marxismo cultural Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "6 Nombre del evento: CINCOMA - Congreso Internacional de Innovación en Comunicación y Medios Audiovisuales Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-09-29 00:00:00.0, en Alicante -",
+      "Productos asociados Nombre del producto: Wokebranding: estrategias de marca, teoría crítica y marxismo cultural Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "7 Nombre del evento: Congreso Hermes - Comunicación, medios audiovisuales y análisis en España y LATAM Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-03-24 00:00:00.0, en Las Palmas de Gran Canaria - Productos asociados Nombre del producto: Titulares noticiosos y COVID-19. Análisis de encuadres en medio de la pandemia. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "7 Nombre del evento: Congreso Hermes - Comunicación, medios audiovisuales y análisis en España y LATAM Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-03-24 00:00:00.0, en Las Palmas de Gran Canaria -",
+      "Productos asociados Nombre del producto: Titulares noticiosos y COVID-19. Análisis de encuadres en medio de la pandemia. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "8 Nombre del evento: XV Congreso de la Asociación Latinoamericana de Investigadores de la Comunicación. Desafíos y paradojas de la comunicación en América Latina: las ciudadanías y el poder Tipo de evento: Congreso Ámbito: Nacional Realizado el:2020-11-09 00:00:00.0, en MEDELLÍN - Productos asociados Nombre del producto: Trabajo en casa y comunicación: el caso de la agencia digital Netbangers en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "8 Nombre del evento: XV Congreso de la Asociación Latinoamericana de Investigadores de la Comunicación. Desafíos y paradojas de la comunicación en América Latina: las ciudadanías y el poder Tipo de evento: Congreso Ámbito: Nacional Realizado el:2020-11-09 00:00:00.0, en MEDELLÍN -",
+      "Productos asociados Nombre del producto: Trabajo en casa y comunicación: el caso de la agencia digital Netbangers en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "9 Nombre del evento: VII Congreso Internacional de la AE-IC 'Comunicación y Diversidad' Tipo de evento: Congreso Ámbito: Internacional Realizado el:2020-10-28 00:00:00.0, en Valencia - Productos asociados Nombre del producto: Quién es Nicolás Maduro? Un retrato del presidente venezolano a través de su cuenta en Instagram Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente",
+      "9 Nombre del evento: VII Congreso Internacional de la AE-IC 'Comunicación y Diversidad' Tipo de evento: Congreso Ámbito: Internacional Realizado el:2020-10-28 00:00:00.0, en Valencia -",
+      "Productos asociados Nombre del producto: Quién es Nicolás Maduro? Un retrato del presidente venezolano a través de su cuenta en Instagram Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: EDUAR BARBOSA CARO Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: EDUAR BARBOSA CARO, CAROLINA CASTILLO BOTERO, \"Un análisis de los periódicos digitales El Colombiano y El Periódico\" . En: Colombia Lumen ISSN: 2011-575X ed: UNIVERSIDAD DEL NORTE v. 11 fasc. N/A p.1 - ,2010, DOI:",
+        "titulo": "Un análisis de los periódicos digitales El Colombiano y El Periódico",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: EDUAR BARBOSA CARO, CARLOS EDMUNDO ARCILA CALDERON, \"Modelado y difusión de temas noticiosos en medios sociales: características y factores de la emergencia de noticias en un canal informativo de Twitter\" . En: Colombia Comunicacion y Sociedad ISSN: 0188-252X ed: Universidad de Guadalajara v. N/A fasc. p.1 - 21 ,2019, DOI: 10.32870/cys.v2019i0.6437",
+        "titulo": "Modelado y difusión de temas noticiosos en medios sociales: características y factores de la emergencia de noticias en un canal informativo de Twitter",
+        "doi": "10.32870/cys.v2019i0.6437",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: EDUAR BARBOSA CARO, JOHANNA RAMIREZ SUAVITA, \"Paramilitarism and Music in Colombia. An analysis of the corridos paracos\" . En: Colombia JOURNAL OF LANGUAGE AND POLITICS ISSN: 1569-2159 ed: JOHN BENJAMINS PUBLISHING CO v. N/A fasc. p.1 - 19 ,2019, DOI: 10.1075/jlp.19019.bar",
+        "titulo": "Paramilitarism and Music in Colombia. An analysis of the corridos paracos",
+        "doi": "10.1075/jlp.19019.bar",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: EDUAR BARBOSA CARO, CARLOS EDMUNDO ARCILA CALDERON, \"Técnicas big data: análisis de textos a gran escala para la investigación científica y periodística\" . En: España PROFESIONAL DE LA INFORMACION ISSN: 1386-6710 ed: El profesional de la Información v. 25 fasc. 4 p.623 - 631 ,2016, DOI: 10.3145/epi.2016.jul.12 Palabras: Topic modeling, Sentiment analysis, Modelamiento de temas, Minería de datos, Machine learning, Data mining, Big Data, Aprendizaje automático, Análisis de sentimiento,",
+        "titulo": "Técnicas big data: análisis de textos a gran escala para la investigación científica y periodística",
+        "doi": "10.3145/epi.2016.jul.12",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: EDUAR BARBOSA CARO, CAMILA GRANADOS PEREZ, \"De balas, política y medios informativos: análisis de la cobertura periodística de tiroteos escolares en The New York Times (1999-2018)\" . En: Colombia Análisis. Revista Colombiana de Humanidades ISSN: 2145-9169 ed: Departamento Publicaciones Universidad Santo Tomas v. 53 fasc. 98 p.1 - 40 ,2021, DOI: 10.15332/21459169.6312",
+        "titulo": "De balas, política y medios informativos: análisis de la cobertura periodística de tiroteos escolares en The New York Times (1999-2018)",
+        "doi": "10.15332/21459169.6312",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIA FRANCISCA GREENE GONZALEZ, EDUAR BARBOSA CARO, ROSA ELENA GAMARRA AMPRIMO, \"Influencia del feedback de las audiencias en las decisiones editoriales de diarios digitales locales: un estudio comparado entre Chile, Perú y Colombia\" . En: Perú REVISTA DE COMUNICACION ISSN: 2227-1465 ed: University of Piura v. 23 fasc. 2 p.143 - 169 ,2024, DOI: 10.26441/RC23.2-2024-3490 Palabras: Diarios digitales, Métricas, Feedback de las audiencias, Medios locales,",
+        "titulo": "Influencia del feedback de las audiencias en las decisiones editoriales de diarios digitales locales: un estudio comparado entre Chile, Perú y Colombia",
+        "doi": "10.26441/RC23.2-2024-3490",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL BARREDO IBANEZ, CARLOS EDMUNDO ARCILA CALDERON, EDUAR BARBOSA CARO, \"El perfil de los usuarios de Twitter más influyentes en Ecuador y la influencia del mensaje en la captación de seguidores\" . En: Portugal OBSERVATORIO ISSN: 1646-5954 ed: OberCom - Observatorio da Comunicacao v. 10 fasc. 4 p.219 - 230 ,2016, DOI: http://dx.doi.org/10.15847/obsOBS10420161004",
+        "titulo": "El perfil de los usuarios de Twitter más influyentes en Ecuador y la influencia del mensaje en la captación de seguidores",
+        "doi": "http://dx.doi.org/10.15847/obsOBS10420161004",
+        "anio": "2016"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro EDUAR BARBOSA CARO, \"Difusión de noticias en Twitter y medios sociales\" Analítica y visualización de datos en Twitter . En: España ISBN: 978-84-9116-964-2 ed: , v. , p.35 - 59 ,2017 Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,",
+      "Tipo: Capítulo de libro EDUAR BARBOSA CARO, \"The United States in Cuban Media: Framing of America Related News in Granma¿s Internet Archives\" Popular Representations of America in Non-American Media . En: Estados Unidos ISBN: 9781522593126 ed: , v. , p.55 - 80 ,2019 Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,",
+      "Tipo: Capítulo de libro EDUAR BARBOSA CARO, \"Titulares noticiosos y COVID-19: análisis de encuadres en la Revista Semana durante la pandemia\" Análisis de la comunicación aplicada: Artes, narrativas y medios en España y Latam . En: España ISBN: 9788470749292 ed: , v. , p.155 - 166 ,2021 Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Periodismo,",
+      "Tipo: Capítulo de libro EDUAR BARBOSA CARO, \"Contenidos audiovisuales y vacunación contra el COVID-19. El caso de MinSalud en Colombia\" De la universidad a la sociedad. Transferencia del conocimiento en el área de la comunicación . En: España ISBN: 978-84-1377-820-4 ed: , v. , p.187 - 208 ,2021 Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,",
+      "Tipo: Capítulo de libro EDUAR BARBOSA CARO, \"Trabajo en casa y comunicación: el caso de la agencia de marketing digital Netbangers en Colombia\" La comunicación digital como campo en construcción en la era de las transiciones sociales y tecnológicas, . En: Colombia ISBN: 978-958-5180-39-0 ed: Senal Editora Y Universidad De Medellin , v. , p.73 - 91 ,2022 Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,",
+      "Tipo: Capítulo de libro EDUAR BARBOSA CARO, \"Framing y cubrimiento periodístico de temas de salud: un análisis al periódico colombiano El Tiempo\" Comunicação digital, redes e processos de mudança . En: Colombia ISBN: 978-85-524-0272-5 ed: , v. , p.195 - ,2022 Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,",
+      "Tipo: Capítulo de libro EDUAR BARBOSA CARO, \"Wokebranding: estrategias de marca, teoría crítica y marxismo cultural\" NUEVAS PESQUISAS: LOS RUMBOS DE LA INVESTIGACIÓN EN COMUNICACIÓN . En: España ISBN: 978-84-1170-739-8 ed: Dykinson, S. L. , v. , p.7 - 12 ,2023 Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: EDUAR BARBOSA CARO, Clavos . En: Colombia, ,2013, finalidad: Libro de poesía ilustrada ganador de la bolsa de impresión de La Independiente - Feria de publicaciones Areas: Ciencias Sociales -- Periodismo y Comunicaciones -- Medios y Comunicación Social,"
+    ]
+  }
+}

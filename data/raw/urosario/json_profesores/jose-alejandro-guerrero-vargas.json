@@ -1,0 +1,413 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jose-alejandro-guerrero-vargas",
+  "nombre": "JA Guerrero-Vargas",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "joseal.guerrero@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n18186/Jose-Guerrero-Vargas-2.jpg",
+  "afiliaciones": [
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57208903464",
+    "google_scholar": "https://scholar.google.com/citations?user=c3kZPhMAAAAJ",
+    "pure": "https://pure.urosario.edu.co/es/persons/jose-alejandro-guerrero-vargas",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001178725",
+    "orcid": "https://orcid.org/0000-0002-7425-2097"
+  },
+  "areas_investigacion": [
+    "Biomechanics",
+    "Computational simulation",
+    "Finite Element Analysis",
+    "Mathematical modelling",
+    "Mechanobiology"
+  ],
+  "perfil_profesional": "Mechatronic Engineer, Master in Mechanical Engineering, PhD. in Mechanical and Mechatronics Engineering from the Universidad Nacional de Colombia and PhD. in Mechanical Engineering from the Universidade Federal de Minas Gerais, with experience in research, teaching and project development in computational simulation, finite element analysis, mathematical modeling, programming, reconstruction and processing of medical images, biomechanics and mechano-biology. Ingeniero Mecatrónico, Magíster en Ingeniería Mecánica, PhD. en Ingeniería Mecánica y Mecatrónica de la Universidad Nacional de Colombia y PhD. en Ingeniería Mecánica de la Universidad Federal de Minas Gerais, con experiencia en Investigación, docencia y desarrollo de proyectos en simulación computacional, análisis de elementos finitos, modelado matemático, programación, reconstrucción y procesamiento de imágenes médicas, biomecánica y mecanobiología.",
+  "formacion_academica": [
+    "2010, Ingeniero Mecatrónico, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2013, Magíster en Ingeniería - Ingeniería Mecánica, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2020, Doctor en Ingeniería Mecánica y Mecatrónica, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2020, Doctor en Ingeniería Mecánica, Universidade Federal de Minas Gerais (Ufmg)"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Correction of the curve of spee using clear aligner therapy: A finite element analysis of three lower anterior intrusion protocols",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1371/journal.pone.0341447"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The Role of Trabecular, Ligamentous-Intervertebral Disk and Facet Joints Systems: A Finite Element Analysis in the L4-S1 Vertebrae",
+      "fecha": "2025-3-1",
+      "enlace": "https://doi.org/10.1177/21925682241231525"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Finite element analysis of the influence of interdigitation pattern and collagen fibers on the mechanical behavior of the midpalatal suture",
+      "fecha": "2023-9-1",
+      "enlace": "https://doi.org/10.1007/s11517-023-02838-7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A new way of analyzing tooth movement using universal coordinate system geometry single point superposition in a 3D model",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.1590/2177-6709.28.4.e232333.oar"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Modelado del comportamiento mecánico de unión socket – muñón , en amputados de miembro inferior",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5e655e34-6aa4-4127-b627-89ef7bdf1adb"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Determinación del comportamiento mecánico de implantes de miembro inferior más usados en colombia",
+      "fecha": "2013-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/aa245668-1e83-498e-8674-f8daaa23e000"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Análisis biomecánico comparativo entre coronas individuales y restauraciones ferulizadas implanto soportadas mediante el uso del método de los elementos finitos",
+      "fecha": "2011-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8daa08e2-3497-4ff0-8d2d-3c69034fa905"
+    }
+  ],
+  "total_publicaciones": 7,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Dispositivo Robótico Vestible para la Correcta Postura Durante el Levantamiento de Carga (RoboLift)",
+      "fecha": "2026-02-02 - 2027-08-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F610a9e1c-bbbe-4d24-b1fd-82f10985c035"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Biomechanical stability assessment of stemless shoulder implants through a validated finite element analysis"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Physical-layer security and efficiency in wireless power transfer: a simulation-based comparative study of self-resonant coil geometries"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Simulación computacional de dinámica de fluidos para el análisis hemodinámico de la enfermedad coronaria"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Solución de los patrones de Turing empleando el método de los elementos finitos"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001178725"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-7425-2097"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=c3kZPhMAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/jose-alejandro-guerrero-vargas"
+    ],
+    "scopus_id": [
+      "57208903464"
+    ]
+  },
+  "id": "jose-alejandro-guerrero-vargas",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001178725",
+    "cod_rh": "0001178725",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Junior (IJ) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "José Alejandro Guerrero Vargas",
+      "Nombre en citaciones": "GUERRERO VARGAS, JOSÉ ALEJANDRO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado UNIVERSIDADE FEDERAL DE MINAS GERAIS Doutorado Engenharia Mecânica Agostode2015 - Octubrede 2019 Biomechanical and mechanobiological model of the midpalatal suture formation process, by computational simulation",
+      "Doctorado UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Doctorado en Ingeniería Mecánica y Mecatrónica Agostode2014 - Mayode 2020 Biomechanical and mechanobiological model of the midpalatal suture formation process, by computational simulation",
+      "Maestría/Magister UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Maestría en Ingeniería Mecánica Febrerode2010 - Marzode 2013 Modelado computacional de la influencia de factores mecánicos en el éxito de un minimplante dental de ortodoncia",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA INGENIERIA MECATRONICA Febrerode2005 - Marzode 2010 ANÁLISIS SÍSMICO DE LA CELDA 8BT2 DE SIEMENS S.A.",
+      "Secundario Colegio Antonio Nariño (H.H.Corazonistas) Febrerode1999 - Diciembrede 2004",
+      "Primaria Colegio Antonio Nariño (H.H.Corazonistas) Enerode1994 - Diciembrede 1998"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA INGENIERIA AGRICOLA Juniode2011 - Juliode 2011",
+      "Cursos de corta duración SERVICIO NACIONAL DE APRENDIZAJE SENA Variables y estructuras de control en la programación orientada a objetos: JAVA Septiembrede2009 - Septiembrede 2009",
+      "Cursos de corta duración UNIVERSIDAD ECCI Educación continuada Marzode2019 - Agostode 2019",
+      "Cursos de corta duración UNIVERSIDAD ECCI Virtualidad Juniode2020 - Juliode 2020",
+      "Cursos de corta duración UNIVERSIDAD ECCI Virtualidad Juniode2020 - Juliode 2020",
+      "Cursos de corta duración SERVICIO NACIONAL DE APRENDIZAJE SENA Educación continuada Septiembrede2018 - Noviembrede 2018",
+      "Cursos de corta duración Instituto ESSS Virtual Ansys Discovery Marzode2020 - Abrilde 2020"
+    ],
+    "estancias_posdoctorales": [
+      "Correção da mordida profunda com intrusão de dentes inferiores anteriores: comparação entre mecânicas tradicionais e alinhadores ortodônticos pelo método de elementos finitos Universidade Federal de Minas Gerais Faculdade de Odontologia Desde: Agosto de 2021 Hasta: Diciembre de 2022"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Julio de 2023 de Actividades de docencia - Pregrado - Nombre del curso: Procesamiento de Señales, 20 Julio 2023 Enero - Pregrado - Nombre del curso: Análisis Numérico y Computación Científica, 30 Julio 2023 Enero",
+      "UNIVERSIDAD ECCI Dedicación: 40 horas Semanales Junio de 2018 Julio de 2023 Actividades de docencia - Postgrado - Nombre del curso: Seminario de Investigación I, 15 Febrero 2023 Julio 2023 - Postgrado - Nombre del curso: Elementos Finitos Avanzados, 6 Agosto 2022 Julio 2023 - Pregrado - Nombre del curso: Electiva de profundización I: Fundamentos de elementos finitos , 15 Julio 2018 Julio 2023 - Pregrado - Nombre del curso: Estática, 30 Agosto 2018 Diciembre 2019 - Pregrado - Nombre del curso: Electiva de profundización III: Análisis de elementos finitos aplicados (Ansys Workbench), 24 Julio 2018 Julio 2023 - Pregrado - Nombre del curso: Diseño de máquinas I, 30 Agosto 2018 Diciembre 2018 Actividades de investigación - Investigación y Desarrollo - Titulo: Análisis biomecánico del cuerpo humano Julio 2018 Julio 2023",
+      "UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Dedicación: 12 horas Semanales Marzo de 2021 Junio de 2022 Actividades de docencia - Pregrado - Nombre del curso: Diseño por elementos finitos, 40 Marzo 2021 Junio 2022 - Pregrado - Nombre del curso: Métodos Numéricos, 15 Marzo 2021 Junio 2022",
+      "UNIVERSIDAD MILITAR NUEVA GRANADA Dedicación: 7 horas Semanales Agosto de 2020 Septiembre de 2020 Actividades de docencia - Postgrado - Nombre del curso: Elementos finitos, 6 Agosto 2020 Septiembre 2020",
+      "Universidad Militar Nueva Granada de Bogotá Dedicación: 6 horas Semanales Septiembre de 2018 Octubre de 2018 Actividades de docencia - Postgrado - Nombre del curso: Elementos Finitos, 10 Septiembre 2018 Octubre 2018",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Dedicación: 15 horas Semanales Agosto de 2008 Junio de 2018 Actividades de docencia - Pregrado - Nombre del curso: Taller de Proyecto Interdisciplinar (TPI), 10 Febrero 2015 Junio 2015 Actividades de investigación - Investigación y Desarrollo - Titulo: Métodos numéricos Agosto 2008 Marzo 2013",
+      "FUNDACIÓN UNIVERSIDAD DE AMÉRICA Dedicación: 40 horas Semanales Enero de 2013 Agosto de 2014 Actividades de investigación - Investigación y Desarrollo - Titulo: Líder grupo de Investigación Diseño Avanzado Enero 2013 - Pasantías - Titulo: Líder grupo de investigación - Investigación en energías alternativas IENA Enero 2013 Diciembre 2014",
+      "FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Dedicación: 10 horas Semanales Febrero de 2012 Noviembre de 2013 Actividades de docencia - Pregrado - Nombre del curso: Métodos numéricos, 8 Febrero 2012 - Pregrado - Nombre del curso: Circuitos electrónicos II Día - Noche, 36 Febrero 2012 - Pregrado - Nombre del curso: Seminario Técnico, 10 Febrero 2012",
+      "INGtegral Firma de Ingenieros SAS Dedicación: 10 horas Semanales Enero de 2012 Julio de 2013 Actividades de administración - Director de unidad - Cargo: Director de unidad Enero de 2012 de",
+      "Fundacion Universidad Incca De Colombia Dedicación: 40 horas Semanales Febrero de 2011 Junio de 2013 Actividades de administración - Cargo administrativo - Cargo: Cargo administrativo Agosto de 2011 Junio de 2013 Actividades de docencia - Pregrado - Nombre del curso: Taller de Investigación, 15 Febrero 2013 Junio 2013 - Pregrado - Nombre del curso: Procesos Industriales, 14 Febrero 2011 Diciembre 2011 - Pregrado - Nombre del curso: Neumática, 4 Febrero 2011 Junio 2013 - Pregrado - Nombre del curso: Análisis por elementos finitos, 10 Febrero 2011 Diciembre 2012 - Pregrado - Nombre del curso: Introducción a la Ingeniería, 30 Agosto 2011 Junio 2012 - Pregrado - Nombre del curso: Dinámica, 22 Agosto 2011 Diciembre 2011 Actividades de investigación - Investigación y Desarrollo - Titulo: Modelado Matemático Agosto 2011 Junio 2013 - Investigación y Desarrollo - Titulo: Automatización Agosto 2011 Junio 2013",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Dedicación: 15 horas Semanales Julio de 2011 Diciembre de 2011 Actividades de administración - Cargo administrativo - Cargo: Cargo administrativo Julio de 2011 Junio de 2012 Actividades de investigación - Investigación y Desarrollo - Titulo: Desarrollo plataforma para mecanizado de cinemática paralela de 5 grados de libertad Julio 2011 Junio 2012",
+      "Quasar Software Ltda Dedicación: 40 horas Semanales Octubre de 2009 Diciembre de 2009 Actividades de administración - Servicio Técnico Especializado - Cargo: Servicio Técnico Especializado Octubre de 2009 Diciembre de 2009"
+    ],
+    "areas_actuacion": [
+      "Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica",
+      "Ciencias Médicas y de la Salud -- Biotecnología en Salud -- Biotecnología Relacionada con la Salud",
+      "Ciencias Médicas y de la Salud -- Biotecnología en Salud -- Biomateriales (Relacionados con Implantes, Dispositivos, Sensores)",
+      "Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Información y Bioinformática"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Portugués",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Biomecánica, Activa: Si",
+      "Modelado matemático de la cavidad oral, Activa: Si",
+      "Programación, Activa: Si",
+      "Automatización, Activa: No",
+      "Simulación por elementos finitos, Activa: Si",
+      "Métodos numéricos, Activa: Si",
+      "Modelado matemático, Activa: Si",
+      "Modelamiento matemático en prótesis dentales, Activa: Si",
+      "Modelado computacional en columna, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Mención de Honor - Primer puesto muestra de máquinas y prototipos, Universidad Nacional de Colombia,UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA - Juniode 2009",
+      "2do mejor promedio de carrera,UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA - Marzode 2010",
+      "Calificación tesis de Maestría Meritoria,UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA - Abrilde 2013",
+      "Beneficiario beca COLCIENCIAS para estudios de doctorado, convocatoria 617. Primer puesto en examen de admisión al doctorado,UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA - Juliode 2014",
+      "Joven Investigador de Colciencias,UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA - Juliode 2010",
+      "Mejor trabajo de generación de productos de innovación y desarrollo,Hospital Universitario De La Samaritana - H.U.S. - Diciembrede 2021",
+      "Reconocimiento por el trabajo,UNIVERSIDAD ECCI - Diciembrede 2022",
+      "Docente mejor evaluado período 2023-1 Posgrados,UNIVERSIDAD ECCI - Juliode 2023"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Análisis del comportamiento biomecánico en movimientos de extensión, flexión y bipedestación de la región lumbosacro-pélvica (segmento L4 a fémur) mediante simulación computacional UNIVERSIDAD ECCI Estado: Tesis concluida INGENIERIA MECANICA, 2022. Dirigió como: Coturor/asesor, Persona(s) orientada(s): YONEL ALFREDO TORRES FAGUA Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Modelo computacional de la respuesta biomecánica del ligamento periodontal durante un procedimiento de expansión rápida del maxilar UNIVERSIDAD ECCI Estado: Tesis concluida INGENIERIA MECANICA, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Brayan Felipe Pinzón Garzón Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Análisis de esfuerzos estructurales presentes en una broca pdc, mediante la incorporación de la velocidad de rotación y carga dinámica, por medio del método de elementos finitos FUNDACIÓN UNIVERSIDAD DE AMÉRICA Estado: Tesis concluida INGENIERIA MECANICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Sebastián Montoya, Diego Zabala Tutor(es)/Cotutor(es): DIEGO FELIPE ZABALA MOSQUERA , JOSE ALEJANDRO GUERRERO VARGAS , JUAN SEBASTIAN MONTOYA SALAZAR, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica, Ingeniería y Tecnología -- Ingeniería de los Materiales -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Modelado del comportamiento mecánico de la rodilla humana con las patologías de mayor incidencia en Colombia. FUNDACIÓN UNIVERSIDAD DE AMÉRICA Estado: Tesis concluida INGENIERIA MECANICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Rafael Esteban Gómez, José Manuel Guerrero Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Determinación del comportamiento mecánico de las patologías de la articulación coxofemoral de mayor incidencia en Colombia. FUNDACIÓN UNIVERSIDAD DE AMÉRICA Estado: Tesis concluida INGENIERIA MECANICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): John Fredy Figueroa, Julio Herrera Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Determinación del comportamiento mecánico del tipo de prótesis de rodilla más usada en Colombia FUNDACIÓN UNIVERSIDAD DE AMÉRICA Estado: Tesis concluida INGENIERIA MECANICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Gustavo Andrés Contreras Pinilla, Rafael Andrés Amorteguí Amorteguí Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Determinación del comportamiento mecánico de implantes de miembro inferior más usados en Colombia FUNDACIÓN UNIVERSIDAD DE AMÉRICA Estado: Tesis concluida INGENIERIA MECANICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrés Felipe Reyes Florián, Manuel Andrés Tovar Tello Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Modelado del comportamiento mecánico de unión socket muñón, en amputados de miembro inferior FUNDACIÓN UNIVERSIDAD DE AMÉRICA Estado: Tesis concluida INGENIERIA MECANICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Diego Pataquiva Wilches Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Diseño de un horno industrial por concentración de energía solar, para el proceso de esterilización de alimentos FUNDACIÓN UNIVERSIDAD DE AMÉRICA Estado: Tesis concluida INGENIERIA MECANICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrés Libardo Calderón Mejía Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Análisis de la influencia de las cargas musculares en la biomecánica de la cavidad oral por medio del método de elementos finitos UNIVERSIDAD ECCI Estado: Tesis concluida INGENIERIA MECANICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrés Felipe Rodríguez Ramírez; Michael Alexander Romero Ramírez Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica, Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: JOSE ALEJANDRO GUERRERO VARGAS, Análisis por el método de los elementos finitos al comportamiento estructural de una prótesis de mano UNIVERSIDAD ECCI Estado: Tesis en curso Tecnología Mecánica Industrial, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): José Daniel Mancera Mora Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Análisis del comportamiento del material del cartílago de rodilla mediante el método de los elementos finitos UNIVERSIDAD ECCI Estado: Tesis concluida INGENIERIA MECANICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Cristian Alfredo Galindo Segura; Miguel Felipe Gómez Niño Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica, Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: JOSE ALEJANDRO GUERRERO VARGAS, Estudio Computacional del Efecto de Cargas Mecánicas en el Comportamiento Biomecánico de un Injerto Alveolar UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Estado: Tesis concluida Maestría en Ingeniería Mecánica, 2018. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Sandra Melisa Vélez Muriel Tutor(es)/Cotutor(es): DIEGO ALEXANDER GARZON ALVARADO , JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica, Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: JOSE ALEJANDRO GUERRERO VARGAS, Diseño y construcción de estructura modular para la ubicación de cámaras de captura de marcha humana UNIVERSIDAD ECCI Estado: Tesis concluida Tecnología Mecánica Industrial, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): José Andrés Sierra Quiñones; Edwin Estiven Pachón Roncancio; Brayan Felipe Pinzón Garzón Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Análisis biomecánico del efecto de las cargas de masticación en la estructura ósea de la cavidad oral, mediante simulación computacional UNIVERSIDAD ECCI Estado: Tesis concluida INGENIERIA MECANICA, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Alexander Alonso Ramírez, Jason Orlando Torres Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS, Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica, Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Simulación computacional de dinámica de fluidos para el análisis hemodinámico de la enfermedad coronaria COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MATEMÁTICAS APLICADAS Y CIENCIAS DE LA COMPUTACIÓN, 2025. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan José Zuluaga Patiño Tutor(es)/Cotutor(es): JOSE ALEJANDRO GUERRERO VARGAS,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Diseño, fabricación y caracterización de un dispositivo coadyuvante para el tratamiento hernias discales Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico MAESTRÍA EN INGENIERÍA - MATERIALES Y PROCESOS Nombre del orientado: Erika Rosero Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Errar (también) es de robots - en realidad virtual. Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MATEMÁTICAS APLICADAS Y CIENCIAS DE LA COMPUTACIÓN Nombre del orientado: Dana Isabel Acosta Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Diseño De Un Mezclador Estático Para JET A-1 Y Biodiésel Mediante El Uso De Una Herramienta De Análisis Fluido Dinámico Computacional Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD ECCI programa académico Maestría en Ingeniería Nombre del orientado: José Luis Orellano Lasprilla Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Novo método de sobreposição mandibular usando o programa Autodesk Inventor® para avaliação da acurácia do protocolo G8 da Invisalign® Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidade Federal de Minas Gerais programa académico Pós-graduação em odontologia Nombre del orientado: Rodrigo Xavier Silveira de Souza Areas: Ciencias Médicas y de la Salud -- Medicina Clínica -- Odontología, Cirugía Oral y Medicina Oral,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Análisis estático del modelo de una broca de perforación tipo PDC mediante el método de elementos finitos Tipo de trabajo presentado: en: FUNDACIÓN UNIVERSIDAD DE AMÉRICA programa académico INGENIERIA MECANICA Nombre del orientado: Juan Sebastían Rodríguez Velandia Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Diseño y fabricación de un adaptador tubular y un adaptador piramidal para prótesis transtibial, validado por: elementos finitos, ensayos mecánicos de compresión y flexión y finalmente pruebas en un usuario Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD ECCI programa académico INGENIERIA MECANICA Nombre del orientado: Carlos Augusto Blanco Sierra, Nelson Guillermo Manrique Celi, Daniel Enrique Romero Robayo Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Diseño de un motor rotativo por expansión de vapor Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD ECCI programa académico Maestría en Ingeniería Nombre del orientado: Alcides López Camelo Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Fabricación y análisis experimental de 2 turbinas eólicas de eje vertical, para identificar el diseño más eficiente según el potencial energético del viento en Bogotá Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD ECCI programa académico INGENIERIA MECANICA Nombre del orientado: Cesar David Cano Acevedo; Oscar David Cruz Bustos Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Diseño y simulación por medio de análisis de elementos finitos de una estructura portátil para el proceso de pre-mezclado de concreto Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD ECCI programa académico INGENIERIA MECANICA Nombre del orientado: Cesar Giovanni Arevalo Cabrera Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JOSE ALEJANDRO GUERRERO VARGAS, Titulo: Uso del método de los elementos finitos para la simulación del modelo hiperelástico en grandes deformaciones: Estudio del método y del modelo general de energía de deformación Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA programa académico Maestría en Ingeniería Mecánica Nombre del orientado: Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Otra: JOSE ALEJANDRO GUERRERO VARGAS, X Encuentro de semilleros de Investigación Redcolsi Nodo Bogotá-Cundinamarca en: Fundacion Universidad Incca De Colombia Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Visión Electrónica: Algo Más Que Un Estado Sólido, 2020, Julio",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: BIOMECHANICS AND MODELING IN MECHANOBIOLOGY, 2020, Febrero",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Asociación Colombiana Para El Avance De La Ciencia - Acac, 2020, Mayo",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: TECCIENCIA, 2022, Agosto",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: MEDICAL BIOLOGICAL ENGINEERING COMPUTING, 2023, Febrero",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación - Minciencias, 2022, Noviembre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: V Congreso Internacional de Ingeniería Mecánica y III de Ingeniería Mecatrónica Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-08-09 00:00:00.0, 2014-09-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Productos asociados Nombre del producto: Análisis biomecánico comparativo entre coronas individuales y restauraciones ferulizadas omplanto soportadas mediante el uso del método de los elementos finitos Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "1 Nombre del evento: V Congreso Internacional de Ingeniería Mecánica y III de Ingeniería Mecatrónica Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-08-09 00:00:00.0, 2014-09-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia",
+      "Productos asociados Nombre del producto: Análisis biomecánico comparativo entre coronas individuales y restauraciones ferulizadas omplanto soportadas mediante el uso del método de los elementos finitos Tipo de producto: Producción técnica - Presentación de trabajo - Congreso",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "2 Nombre del evento: Coloquio - Potencialidades industriales de La Quinua (Chenopodium quinua Willd.) y su capacidad de aporte a la economía colombiana y sus regiones Tipo de evento: Seminario Ámbito: Nacional Realizado el:2013-12-06 00:00:00.0, 2013-12-06 00:00:00.0 en Buenos Aires - Casa Eduardo Santos, Calle 10 No. 4-49 Barrio La Calendaria, Bogotá, D.C., Colombia Productos asociados Nombre del producto: Marco estratégico de la agroindustrialización de la Quinua en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente magistral",
+      "2 Nombre del evento: Coloquio - Potencialidades industriales de La Quinua (Chenopodium quinua Willd.) y su capacidad de aporte a la economía colombiana y sus regiones Tipo de evento: Seminario Ámbito: Nacional Realizado el:2013-12-06 00:00:00.0, 2013-12-06 00:00:00.0 en Buenos Aires - Casa Eduardo Santos, Calle 10 No. 4-49 Barrio La Calendaria, Bogotá, D.C., Colombia",
+      "Productos asociados Nombre del producto: Marco estratégico de la agroindustrialización de la Quinua en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente magistral",
+      "3 Nombre del evento: Coloquio - Potencialidades industriales de La Quinua (Chenopodium quinua Willd.) y su capacidad de aporte a la economía colombiana y sus regiones Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-12-06 00:00:00.0, 2013-12-06 00:00:00.0 en BOGOTÁ, D.C. - Casa Eduardo Santos, Calle 10 No. 4-49 Barrio La Calendaria, Bogotá, D.C., Colombia Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Organizador",
+      "3 Nombre del evento: Coloquio - Potencialidades industriales de La Quinua (Chenopodium quinua Willd.) y su capacidad de aporte a la economía colombiana y sus regiones Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-12-06 00:00:00.0, 2013-12-06 00:00:00.0 en BOGOTÁ, D.C. - Casa Eduardo Santos, Calle 10 No. 4-49 Barrio La Calendaria, Bogotá, D.C., Colombia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Organizador",
+      "4 Nombre del evento: VI Seminario de difusión de las actividades científicas y tecnológicas Tipo de evento: Seminario Ámbito: Nacional Realizado el:2013-10-02 00:00:00.0, 2013-10-02 00:00:00.0 en BOGOTÁ, D.C. - Cede los Cerros - Fundación Universidad de América Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente magistral",
+      "4 Nombre del evento: VI Seminario de difusión de las actividades científicas y tecnológicas Tipo de evento: Seminario Ámbito: Nacional Realizado el:2013-10-02 00:00:00.0, 2013-10-02 00:00:00.0 en BOGOTÁ, D.C. - Cede los Cerros - Fundación Universidad de América",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente magistral",
+      "5 Nombre del evento: Séptima jornada de Tecnología en Ingeniería Mecánica Tipo de evento: Simposio Ámbito: Nacional Realizado el:2013-05-06 00:00:00.0, 2013-05-08 00:00:00.0 en BOGOTÁ, D.C. - Auditorio Universidad Distrital - Sede Candelaria la nueva Productos asociados Nombre del producto: Implementación de un modelo matemático para la remodelación en tratamientos de rehabilitación oral Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "5 Nombre del evento: Séptima jornada de Tecnología en Ingeniería Mecánica Tipo de evento: Simposio Ámbito: Nacional Realizado el:2013-05-06 00:00:00.0, 2013-05-08 00:00:00.0 en BOGOTÁ, D.C. - Auditorio Universidad Distrital - Sede Candelaria la nueva",
+      "Productos asociados Nombre del producto: Implementación de un modelo matemático para la remodelación en tratamientos de rehabilitación oral Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Nombre de la institución: FUNDACIÓN UNIVERSIDAD DE AMÉRICA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "6 Nombre del evento: 8va Jornada de Investigación Red Samaritana Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2021-11-26 00:00:00.0, 2021-11-26 00:00:00.0 en BOGOTÁ, D.C. - Holiday Inn Bogotá Aeropuerto Productos asociados Nombre del producto: Análisis por elementos finitos del hueso cortical y trabecular en la evaluación biomecánica de la región lumbosacra L4 a S1 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD ECCI Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente Nombre: LEONARDO LAVERDE FRADE Rol en el evento: Ponente",
+      "6 Nombre del evento: 8va Jornada de Investigación Red Samaritana Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2021-11-26 00:00:00.0, 2021-11-26 00:00:00.0 en BOGOTÁ, D.C. - Holiday Inn Bogotá Aeropuerto",
+      "Productos asociados Nombre del producto: Análisis por elementos finitos del hueso cortical y trabecular en la evaluación biomecánica de la región lumbosacra L4 a S1 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ECCI Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente Nombre: LEONARDO LAVERDE FRADE Rol en el evento: Ponente",
+      "7 Nombre del evento: IX International Conference on Computational Bioengineering Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-04-11 00:00:00.0, 2022-04-13 00:00:00.0 en Lisboa - Instituto Superior Técnico Productos asociados Nombre del producto: Biomechanical response of the lumbosacral region L4-S1 during standing, flexion, and extension movements, considering the trabecular/cortical bone ratio in the vertebral body: a finite element analysis Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD ECCI Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "7 Nombre del evento: IX International Conference on Computational Bioengineering Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-04-11 00:00:00.0, 2022-04-13 00:00:00.0 en Lisboa - Instituto Superior Técnico",
+      "Productos asociados Nombre del producto: Biomechanical response of the lumbosacral region L4-S1 during standing, flexion, and extension movements, considering the trabecular/cortical bone ratio in the vertebral body: a finite element analysis Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ECCI Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "8 Nombre del evento: XIV Congreso Iberoamericano de Ingeniería Mecánica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-11-12 00:00:00.0, 2019-11-15 00:00:00.0 en CARTAGENA DE INDIAS - Hotel Hilton Cartagena Productos asociados Nombre del producto: Análisis biomecánico del efecto de las cargas de masticación en la estructura ósea de la cavidad oral, mediante simulación computacional Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD ECCI Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "8 Nombre del evento: XIV Congreso Iberoamericano de Ingeniería Mecánica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-11-12 00:00:00.0, 2019-11-15 00:00:00.0 en CARTAGENA DE INDIAS - Hotel Hilton Cartagena",
+      "Productos asociados Nombre del producto: Análisis biomecánico del efecto de las cargas de masticación en la estructura ósea de la cavidad oral, mediante simulación computacional Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ECCI Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "9 Nombre del evento: Primer Congreso de Ortodoncia UAN \"En Búsqueda de la Excelencia\" Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-10-19 00:00:00.0, 2017-10-20 00:00:00.0 en BOGOTÁ, D.C. - Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente magistral",
+      "9 Nombre del evento: Primer Congreso de Ortodoncia UAN \"En Búsqueda de la Excelencia\" Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-10-19 00:00:00.0, 2017-10-20 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente magistral",
+      "10 Nombre del evento: Congress on Numerical Methods in Engineering CMN2015 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-06-29 00:00:00.0, 2015-07-02 00:00:00.0 en Lisboa - Instituto Superior Técnico Productos asociados Nombre del producto: Determination of bone remodeling process in insertion procedures of dental implants and minimplants by finite element method Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "10 Nombre del evento: Congress on Numerical Methods in Engineering CMN2015 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-06-29 00:00:00.0, 2015-07-02 00:00:00.0 en Lisboa - Instituto Superior Técnico",
+      "Productos asociados Nombre del producto: Determination of bone remodeling process in insertion procedures of dental implants and minimplants by finite element method Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "11 Nombre del evento: XII Simpósio de Macânica Computacional SIMMEC Tipo de evento: Simposio Ámbito: Internacional Realizado el:2016-05-23 00:00:00.0, 2016-05-25 00:00:00.0 en Diamantina - Universidade Federal dos Vales do Jequitinhonha e Mucuri Productos asociados Nombre del producto: Comportamento mecânico da sutura palatina debido ao padrão de interdigitação Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDADE FEDERAL DE MINAS GERAIS Tipo de vinculación Patrocinadora Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente",
+      "11 Nombre del evento: XII Simpósio de Macânica Computacional SIMMEC Tipo de evento: Simposio Ámbito: Internacional Realizado el:2016-05-23 00:00:00.0, 2016-05-25 00:00:00.0 en Diamantina - Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+      "Productos asociados Nombre del producto: Comportamento mecânico da sutura palatina debido ao padrão de interdigitação Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDADE FEDERAL DE MINAS GERAIS Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JOSE ALEJANDRO GUERRERO VARGAS Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, JUAN JOSE CASTILLO TELLEZ, \"Análisis comparativo entre los métodos de diferencias finitas y elementos finitos aplicado a fenómenos de transferencia de calor\" . En: Colombia Tecknincca (Revista Virtual) ISSN: 2248-6984 ed: Universidad Incca de Colombia v. 1 fasc. 2 p.15 - 23 ,2011, DOI: Palabras: Diferencias Finitas, Elementos Finitos, Métodos Numéricos en Ingeniería., Transferencia de calor,",
+        "titulo": "Análisis comparativo entre los métodos de diferencias finitas y elementos finitos aplicado a fenómenos de transferencia de calor",
+        "doi": "Palabras:",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, \"Determinación del comportamiento mecánico de implantes de miembro inferior más usados en Colombia\" . En: Colombia Revista De Ciencias ISSN: 0121-1935 ed: Universidad del Valle v. 17 fasc. 2 p.163 - 172 ,2013, DOI:",
+        "titulo": "Determinación del comportamiento mecánico de implantes de miembro inferior más usados en Colombia",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, ANDRES LIBARDO CALDERON MEJIA, \"Diseño de un esterilizador industrial por concentración de energía solar, para alimentos enlatados\" . En: Colombia Revista de Investigación ISSN: 2011-639X ed: Editora Guadalupe Ltda. (Bogotá) v. 7 fasc. 1 p.67 - 77 ,2014, DOI: Palabras: Autoclave, Colector Solar, Elementos Finitos, Energía Solar, Esterilización de alimentos, Transferencia de calor,",
+        "titulo": "Diseño de un esterilizador industrial por concentración de energía solar, para alimentos enlatados",
+        "doi": "Palabras:",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, \"Modelado del comportamiento mecánico de unión socket - muñón, en amputados de miembro inferior\" . En: Colombia Elementos ISSN: 2248-5252 ed: v. 4 fasc. N/A p.77 - 85 ,2014, DOI: http://dx.doi.org/10.15765/e.v4i4.516",
+        "titulo": "Modelado del comportamiento mecánico de unión socket - muñón, en amputados de miembro inferior",
+        "doi": "http://dx.doi.org/10.15765/e.v4i4.516",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, DIEGO ALEXANDER GARZON ALVARADO, \"Influence of interdigitation and expander type in the mechanical response of the midpalatal suture during maxillary expansion\" . En: Países Bajos COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE ISSN: 0169-2607 ed: ELSEVIER IRELAND LTD v. 176 fasc. N/A p.195 - 209 ,2019, DOI: 10.1016/j.cmpb.2019.05.007 Palabras: Finite element analysis, Midpalatal suture, Maxillary expansion, Suture interdigitation, Biomechanics,",
+        "titulo": "Influence of interdigitation and expander type in the mechanical response of the midpalatal suture during maxillary expansion",
+        "doi": "10.1016/j.cmpb.2019.05.007",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, LUIS MIGUEL MENDEZ MORENO, \"Análisis biomecánico comparativo entre coronas individuales y restauraciones ferulizadas implanto soportadas mediante el uso del método de los elementos finitos\" . En: Colombia Revista Avances Investigacion En Ingenieria ISSN: 1794-4953 ed: Publicaciones Universidad Libre v. 8 fasc. 2 p.7 - 17 ,2011, DOI:",
+        "titulo": "Análisis biomecánico comparativo entre coronas individuales y restauraciones ferulizadas implanto soportadas mediante el uso del método de los elementos finitos",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, \"Análisis estático del modelo de una broca de perforación tipo PDC mediante el método de elementos finitos\" . En: Colombia Revista de Investigación ISSN: 2011-639X ed: Editora Guadalupe Ltda. (Bogotá) v. 6 fasc. 2 p.179 - 192 ,2013, DOI:",
+        "titulo": "Análisis estático del modelo de una broca de perforación tipo PDC mediante el método de elementos finitos",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, DIEGO ALEXANDER GARZON ALVARADO, \"Maxillary suture expansion: A mouse model to explore the molecular effects of mechanically-induced bone remodeling\" . En: Países Bajos JOURNAL OF BIOMECHANICS ISSN: 0021-9290 ed: ELSEVIER SCI LTD v. 108 fasc. N/A p.1 - 12 ,2020, DOI: 10.1016/j.jbiomech.2020.109880 Palabras: Molecular analysis, Biomarkers, Bone remodeling, Experimental model, Orthodontics, Maxillary suture expansion,",
+        "titulo": "Maxillary suture expansion: A mouse model to explore the molecular effects of mechanically-induced bone remodeling",
+        "doi": "10.1016/j.jbiomech.2020.109880",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, DIEGO ALEXANDER GARZON ALVARADO, SANDRA MELISA VELEZ MURIEL, \"Biomechanical behavior of an alveolar graft under maxillary therapies\" . En: Alemania BIOMECHANICS AND MODELING IN MECHANOBIOLOGY ISSN: 1617-7940 ed: SPRINGER HEIDELBERG v. 1 fasc. N/A p.1 - 1 ,2021, DOI: 10.1007/s10237-021-01460-6",
+        "titulo": "Biomechanical behavior of an alveolar graft under maxillary therapies",
+        "doi": "10.1007/s10237-021-01460-6",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, \"Finite element analysis of the influence of interdigitation pattern and collagen fibers on the mechanical behavior of the midpalatal suture\" . En: Alemania MEDICAL BIOLOGICAL ENGINEERING COMPUTING ISSN: 1741-0444 ed: SPRINGER HEIDELBERG v. 1 fasc. N/A p.1 - 11 ,2023, DOI: 10.1007/s11517-023-02838-7",
+        "titulo": "Finite element analysis of the influence of interdigitation pattern and collagen fibers on the mechanical behavior of the midpalatal suture",
+        "doi": "10.1007/s11517-023-02838-7",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, \"The Role of Trabecular, Ligamentous-Intervertebral Disk and Facet Joints Systems: A Finite Element Analysis in the L4-S1 Vertebrae\" . En: Estados Unidos GLOBAL SPINE JOURNAL ISSN: 2192-5682 ed: Sage v. 0 fasc. N/A p.0 - 0 ,2024, DOI: 10.1177/21925682241231525",
+        "titulo": "The Role of Trabecular, Ligamentous-Intervertebral Disk and Facet Joints Systems: A Finite Element Analysis in the L4-S1 Vertebrae",
+        "doi": "10.1177/21925682241231525",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JOSE ALEJANDRO GUERRERO VARGAS, \"A new way of analyzing tooth movement using universal coordinate system geometry single point superposition in a 3D model\" . En: Brasil DENTAL PRESS JOURNAL OF ORTHODONTICS ISSN: 2177-6709 ed: Dental Press International v. 28 fasc. 04 p.1 - 53 ,2023, DOI: 10.1590/2177-6709.28.4.e232333.oar",
+        "titulo": "A new way of analyzing tooth movement using universal coordinate system geometry single point superposition in a 3D model",
+        "doi": "10.1590/2177-6709.28.4.e232333.oar",
+        "anio": "2023"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro JOSE ALEJANDRO GUERRERO VARGAS, Tipo: Capítulo de libro JUAN CARLOS VANEGAS ACOSTA, Tipo: Capítulo de libro DIEGO ALEXANDER GARZON ALVARADO, Tipo: Capítulo de libro MARTIN CARMELO CASALE ROZO, \"Mechanobiology of Oral Implantable Devices\" Biomaterials Science And Engineering . En: Inglaterra ISBN: 978-953-307-609-6 ed: intech open , v. , p.309 - 336 ,2011 Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,",
+      "Tipo: Capítulo de libro JAVIER LAUREANO NINO BARRERA, Tipo: Capítulo de libro JOSE ALEJANDRO GUERRERO VARGAS, Tipo: Capítulo de libro MIGUEL CERROLAZA RIVAS, Tipo: Capítulo de libro ANGELICA MARIA RAMIREZ MARTINEZ, Tipo: Capítulo de libro DIEGO ALEXANDER GARZON ALVARADO, \"Finite element modeling of Turing Pattern formation: An application to appearance and location of dentinal tubules\" Numerical Methods and Advanced Simulation in Biomechanics and Biological Processes . En: Estados Unidos ISBN: 978-0-12-811718-7 ed: Elsevier - Academic Press , v. , p.77 - 94 ,2017 Areas: Ingeniería y Tecnología -- Ingeniería Mecánica -- Ingeniería Mecánica,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Diseño y construcción de dispositivo de arquitectura paralela para mecanizado en 5 ejes Inicio: Marzo 2011 Fin proyectado: Enero 2013 Fin: Enero 2013 Duración 24 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de la influencia de las patologías presentes en Colombia, en la distribución de los esfuerzos mecánicos sobre la articulación del hombro. Inicio: Agosto 2013 Fin: Enero 2015 Duración Resumen Análisis de la influencia de las patologías presentes en Colombia, en la distribución de los esfuerzos mecánicos sobre la articulación del hombro.",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de la influencia de patologías presentes en Colombia, en los esfuerzos mecánicos de la articulación del codo humano. Inicio: Agosto 2013 Fin: Febrero 2015 Duración Resumen Análisis de la influencia de patologías presentes en Colombia, en los esfuerzos mecánicos de la articulación del codo humano.",
+      "Tipo de proyecto: Investigación y desarrollo Determinación de la relación de la energía mecánica específica en superficie con la energía mecánica específica en fondo mediante la simulación por elementos finitos Inicio: Septiembre 2013 Fin: Febrero 2015 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de esfuerzos estructurales presentes en una broca pdc, mediante la incorporación de la velocidad de rotación y carga dinámica, por medio del método de elementos finitos Inicio: Abril 2013 Fin: Junio 2014 Duración Resumen Análisis de esfuerzos estructurales presentes en una broca pdc, mediante la incorporación de la velocidad de rotación y carga dinámica, por medio del método de elementos finitos",
+      "Tipo de proyecto: Investigación y desarrollo Diseño de una máquina para secado de la semilla de Quinua usando energía alternativa. Inicio: Mayo 2014 Fin: Mayo 2015 Duración Resumen Diseño de una máquina para secado de la semilla de Quinua usando energía alternativa.",
+      "Tipo de proyecto: Investigación y desarrollo Diseño de una máquina clasificadora por dimensiones de la semilla de quinua, usando energía alternativa. Inicio: Mayo 2014 Fin: Agosto 2015 Duración Resumen Diseño de una máquina clasificadora por dimensiones de la semilla de quinua, usando energía alternativa.",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de la influencia de las vibraciones en los esfuerzos mecánicos de los cortadores de una broca PDC. Inicio: Mayo 2014 Fin: Agosto 2015 Duración Resumen Análisis de la influencia de las vibraciones en los esfuerzos mecánicos de los cortadores de una broca PDC",
+      "Tipo de proyecto: Investigación y desarrollo Determinación de la distribución de esfuerzos mecánicos para una amputación trans-femoral, en la interfaz muñón-socket por medio del método de elementos finitos para sockets. Inicio: Mayo 2014 Fin: Agosto 2015 Duración Resumen Determinación de la distribución de esfuerzos mecánicos para una amputación trans-femoral, en la interfaz muñón-socket por medio del método de elementos finitos para sockets.",
+      "Tipo de proyecto: Investigación y desarrollo Modelado del comportamiento mecánico de la rodilla humana con las patologías de mayor incidencia en Colombia Inicio: Enero 2013 Fin proyectado: Septiembre 2013 Fin: Septiembre 2013 Duración 8 Resumen Modelado del comportamiento mecánico de la rodilla humana con las patologías de mayor incidencia en Colombia",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de esfuerzos mecánicos generados en las articulaciones de rodilla y cadera durante la trayectoria total de la marcha humana. Inicio: Mayo 2014 Fin: Agosto 2015 Duración Resumen Análisis de esfuerzos mecánicos generados en las articulaciones de rodilla y cadera durante la trayectoria total de la marcha humana.",
+      "Tipo de proyecto: Investigación y desarrollo Determinación de las fuerzas presentes en pacientes con amputación transfemoral, en la unión muñón - socket para la validación de los modelos realizados en la Universidad de América. Inicio: Mayo 2014 Fin: Agosto 2015 Duración Resumen Determinación de las fuerzas presentes en pacientes con amputación transfemoral, en la unión muñón - socket para la validación de los modelos realizados en la Universidad de América.",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización de la fuerza ejercida por un dispositivo disyuntor tipo Hyrax durante el procedimiento de expansión rápida del maxilar. Inicio: Febrero 2019 Fin: Diciembre 2019 Duración Resumen La Expansión Rápida del Maxilar (ERM) es una técnica comúnmente usada para tratar la deficiencia transversal del maxilar, en pacientes en crecimiento; hace uso de un dispositivo fijado a los dientes posteriores y, en algunos casos, cuenta con un apoyo relativo en la mucosa del paladar. Los cambios generados, debido a la aplicación de esta técnica, son producidos principalmente por la acción en la sutura medial palatina (Franchi, Baccetti, Lione, Fanucci, & Cozza, 2010); sin embargo, la técnica presenta algunas complicaciones como procesos de flexión alveolares (Lione, Franchi, & Cozza, 2013), inclinación dental de la región posterior en sentido vestibular (Ciambotti et al., 2001; Haas, 1970; Sun, Hueni, Tee, & Kim, 2011), etc. Entender la biomecánica presente durante el tratamiento permitirá optimizar aspectos como el diseño de los dispositivos disyuntores o generar recomendaciones para la ubicación de los mismos en clínica. Uno de los factores que influyen en la eficiencia de la técnica es la ubicación del dispositivo en la boca del paciente. Variables como la altura del tornillo con relación al paladar, la ubicación del dispositivo disyuntor a lo largo del eje anteroposterior, entre otros, afectan la cantidad de carga que se transmite desde el dispositivo hacia los puntos de anclaje. Este proyecto busca entender la influencia que tienen este tipo de aspectos en la transferencia de carga del dispositivo disyuntor a la cavidad oral. Inicialmente se evaluarán cuáles son los aspectos, desde un punto de vista de localización, que más influyen en el tratamiento. Luego se diseñará y construirá una estructura que permita medir la cantidad de carga transmitida desde el disyuntor bajo diferentes tipos de configuraciones (relacionadas con los aspectos definidos con anterioridad). La estructura tendrá en cuenta la diferencia de material presente entre el hueso y la sutura medial palatina para garantizar que se esté simulando un ambiente que corresponda al ambiente en el que se aplica el tratamiento. Finalmente se capturarán los valores de carga y se analizarán los resultados para caracterizar la carga que es transmitida.",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de la biomecánica del cuerpo humano mediante simulación computacional. Inicio: Noviembre 2018 Fin: Diciembre 2019 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Diseño y construcción de estructura modular para la ubicación de un sistema óptico para la captura de movimiento Inicio: Abril 2019 Fin: Diciembre 2019 Duración Resumen La Universidad ECCI cuenta con un laboratorio de biomecánica en donde pueden ser desarrollados análisis de las variables cinemáticas y cinéticas involucradas en el movimiento; en particular, allí se cuenta con un sistema de captura del movimiento del cuerpo mediante las cámaras Flex3, los módulos de conexión Optitrack y el software Motive. Este sistema permite realizar diferentes análisis como análisis de marcha, de patologías en tobillo, rodilla, entre otros. No obstante, para abordar este tipo de estudios se requieren tomas de muestras representativas y, debido a la localización del laboratorio, esta labor ha sido difícil de lograr. Por ello, este proyecto busca crear una estructura que permita llevar el sistema de captura a lugares donde la concurrencia de la población sea mayor y, de esta forma, incrementar el volumen de personas a las cuales se les hace la toma de datos. Se propone una estructura modular que satisfaga las condiciones espaciales y de iluminación que requiere el sistema de captura. El objetivo final será el poder llevar a cabo tomas de datos en la sede principal de la Universidad o en algunas de las sedes cercanas a ésta y, así, contribuir a las diferentes investigaciones, sobre este campo, que se desarrollan al interior de la institución. Inicialmente se llevará a cabo una revisión de la literatura para establecer el tipo de estructura modular y los posibles materiales en los que puede ser desarrollada. Luego, se hará una visita al laboratorio de biomecánica de la Universidad ECCI y se hará una revisión de la configuración recomendada de las cámaras por parte del fabricante; con esto se establecerán las condiciones espaciales y de iluminación que debe manejar la estructura para poder ser usada como espacio donde se tomen los datos. Una vez establecidos los parámetros de diseño se procederá a hacer el diseño de la estructura como tal. Para ello, se desarrollarán los cálculos estructurales (desde un punto de vista estático y de resistencia de materiales), se generarán los modelos CAD y se elaborarán los planos de construcción. Luego se procederá a la construcción de las piezas que conformarán la estructura modular y se programará una toma de datos en la sede principal o en alguna de las sedes cercanas. Finalmente se elaborarán los informes y los manuales de ensamble y manejo de la estructura. Este proyecto es propuesto por el semillero de investigación en diseño mecánico y bioingeniería (DIMBIO) asociado a la línea de investigación en diseño mecánico perteneciente al Grupo de Investigación en Diseño Mecánico y Materiales (GIDMyM).",
+      "Tipo de proyecto: Investigación y desarrollo Análisis por método de elementos finitos de tres segmentos vertebrales lumbo sacros L4-S1 Normales Inicio: Julio 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Determinación del comportamiento mecánico de las patologías de la articulación coxofemoral de mayor incidencia en Colombia. Inicio: Enero 2013 Fin proyectado: Septiembre 2013 Fin: Noviembre 2013 Duración 8 Resumen Determinación del comportamiento mecánico de las patologías de la articulación coxofemoral de mayor incidencia en Colombia.",
+      "Tipo de proyecto: Investigación y desarrollo Diseño de un horno industrial por concentración de energía solar, para el proceso de esterilización de alimentos Inicio: Junio 2012 Fin: Junio 2013 Duración Resumen Diseño de un autoclave industrial por concentración de energía solar, para el proceso de esterilización de alimentos",
+      "Tipo de proyecto: Investigación y desarrollo Determinación del rango de esfuerzos críticos para el funcionamiento de la articulación de la muñeca, por medio del método de elementos finitos. Inicio: Agosto 2013 Fin: Febrero 2015 Duración Resumen Determinación del rango de esfuerzos críticos para el funcionamiento de la articulación de la muñeca, por medio del método de elementos finitos.",
+      "Tipo de proyecto: Investigación y desarrollo Análisis biomecánico de la influencia del calzado deportivo en los esfuerzos presentes en extremidad inferior Inicio: Agosto 2013 Fin: Enero 2015 Duración Resumen Análisis biomecánico de la influencia del calzado deportivo en los esfuerzos presentes en extremidad inferior"
+    ]
+  }
+}

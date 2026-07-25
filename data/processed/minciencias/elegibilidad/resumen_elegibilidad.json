@@ -1,0 +1,26 @@
+[
+  {
+    "convocatoria": "48",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "45",
+    "puede_postularse": true,
+    "modo": "puede_sola_o_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "976",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como ejecutora. Sin embargo, debe verificar que cuenta con grupos de investigación categorizados en las áreas requeridas y que tiene presencia territorial en la región objetivo, ya que su sede principal está en Bogotá.",
+    "fuente": "reglas+llm"
+  }
+]

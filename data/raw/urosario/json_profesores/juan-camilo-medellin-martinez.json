@@ -1,0 +1,54 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/juan-camilo-medellin-martinez",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "juan.medellin@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n2279/luis+medellin.jpg",
+  "afiliaciones": [
+    "Profesor principal de carrera - Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=U8VrfOMAAAAJ&hl=es&oi=ao",
+    "pure": "https://pure.urosario.edu.co/en/persons/juan-camilo-medellin-martinez/",
+    "orcid": "https://orcid.org/0009-0006-9235-6929",
+    "otros": [
+      "https://ideas.repec.org/f/pme810.html",
+      "https://sites.google.com/view/juancamilomedellin/menu"
+    ]
+  },
+  "areas_investigacion": [
+    "International finance",
+    "Labor markets",
+    "Macroeconomics"
+  ],
+  "perfil_profesional": "Juan Camilo Medellín es doctor en economía de la Escuela de Economía de París, con maestría y pregrado de la Universidad de los Andes. Es Profesor Asistente en la Universidad del Rosario. Fue investigador y profesor en la Universidad Panteón Sorbona y asistente de investigación en Fedesarrollo.",
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Macro finanzas en economías emergentes",
+      "fecha": "2025-11-13 - 2028-11-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5e3c7c50-300f-496e-9af5-0a58e775da1f"
+    }
+  ],
+  "identidad": {
+    "repec": [
+      "https://ideas.repec.org/f/pme810.html"
+    ],
+    "curriculum": [
+      "https://sites.google.com/view/juancamilomedellin/menu"
+    ],
+    "orcid": [
+      "https://orcid.org/0009-0006-9235-6929"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=U8VrfOMAAAAJ&hl=es&oi=ao"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/juan-camilo-medellin-martinez/"
+    ]
+  },
+  "id": "juan-camilo-medellin-martinez",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor principal de carrera"
+}

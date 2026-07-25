@@ -1,0 +1,67 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mauricio-romero-steevens",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "mauricio.romero@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Docentes clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002211945"
+  },
+  "areas_investigacion": [
+    "Atención paliativa.",
+    "Cuidados paliativos",
+    "Medicina del dolor",
+    "Salud ocupacional"
+  ],
+  "perfil_profesional": "Mauricio Romero Steevens es Médico de la Universidad del Rosario, con especialización en Medicina del Dolor y Cuidados Paliativos de la misma universidad. Su trabajo de grado se enfocó en los factores de riesgo para burnout en profesionales de la salud que trabajan en cuidados paliativos. Se desempeña como especialista en el Hospital Universitario Mayor - Mederi. Anteriormente trabajó en el Hospital Militar de Oriente.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002211945"
+    ]
+  },
+  "id": "mauricio-romero-steevens",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002211945",
+    "cod_rh": "0002211945",
+    "datos_generales": {
+      "Nombre": "Mauricio Romero Steevens",
+      "Nombre en citaciones": "ROMERO STEEVENS, MAURICIO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Especialización COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO MEDICINA DEL DOLOR Y CUIDADOS PALIATIVOS Enerode2020 - Diciembrede 2022 FACTORES DE RIESGO PARA BURNOUT EN PROFESIONALES DE LA SALUD QUE TRABAJEN EN CUIDADOS PALIATIVOS, COLOMBIA, 2019",
+      "Pregrado/Universitario COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO MEDICINA Enerode2007 - Diciembrede 2014",
+      "Secundario Instituto Pedagógico Nacional Enerode1996 - Diciembrede 2006"
+    ],
+    "experiencia_profesional": [
+      "HOSPITAL UNIVERSITARIO MAYOR MEDERI Dedicación: 40 horas Semanales Febrero de 2022 de",
+      "Hospital Militar de Oriente Dedicación: 40 horas Semanales Enero de 2015 Enero de 2016"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Otros Temas de Medicina Clínica"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Alemán",
+        "habla": "Aceptable",
+        "escribe": "Aceptable",
+        "lee": "Aceptable",
+        "entiende": "Aceptable"
+      }
+    ]
+  }
+}

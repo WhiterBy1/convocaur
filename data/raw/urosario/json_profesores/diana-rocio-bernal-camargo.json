@@ -1,0 +1,934 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/diana-rocio-bernal-camargo",
+  "nombre": "Diana-Rocío Bernal-Camargo",
+  "cargo_principal": "Profesor titular de carrera",
+  "email": "diana.bernalc@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 4328",
+  "imagen": "https://research-hub.urosario.edu.co/file/n10819/diana+rocio+bernal.JPG",
+  "afiliaciones": [
+    "Profesor titular de carrera - Facultad de Jurisprudencia - Universidad del Rosario",
+    "Investigador - Grupo de Investigación en Derechos Humanos - Universidad del Rosario",
+    "Directora Maestría en Bioderecho y Bioética - Facultad de Jurisprudencia - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=55846208700",
+    "google_scholar": "https://scholar.google.com/citations?user=8JxX6q4AAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/8e6542c9-e988-4f89-8deb-9842bf219f6a",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000616583",
+    "orcid": "http://orcid.org/0000-0001-9345-2193"
+  },
+  "areas_investigacion": [
+    "Bioderecho",
+    "Bioetíca",
+    "Derechos humanos",
+    "Ética en investigación"
+  ],
+  "formacion_academica": [
+    "2004, Abogada, Universidad de Boyaca Uniboyaca - Tunja",
+    "2005, Especialista en Derecho y Nuevas Tecnologías Sobre La Vida, Universidad Externado de Colombia - Bogotá D.C.",
+    "2007, Especialista en Derechos Humanos, Universidad Complutense de Madrid",
+    "2007, Maestría en Bioética y Biojurídica, Universidad Rey Juan Carlos",
+    "2011, Doctora en Bioética y Biojurídica, Universidad Rey Juan Carlos"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Informed Consent as a Human Right in the Inter-American Human Rights System (IAHRS)",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1111/dewb.70005"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Scientific integrity: Perceptions and recommendations from a qualitative study with actors of the science, technology, and innovation system in Colombia",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1177/17470161251377473"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Recomendaciones para configurar un paradigma de integridad científica desde la ética de la virtud en educación superior",
+      "fecha": "2023-12-30",
+      "enlace": "https://doi.org/10.18270/rcb.v18i2.4406"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El derecho a la protección de datos personales en la investigación biomédica en Colombia: Una mirada desde el soft law y el hard law",
+      "fecha": "2022-6-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/ac820cbe-2dbf-4ac1-a401-e9955d08c363"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Pautas éticas para la reanimación cardiopulmonar en el contexto de la pandemia de COVID-19 en Colombia",
+      "fecha": "2020-8-27",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F121c116f-39f7-4a40-9b9c-02c8c9083129"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Pautas éticas para la asignación de recursos sanitarios escasos en el marco de la pandemia por COVID-19 en Colombia",
+      "fecha": "2020-5-11",
+      "enlace": "https://doi.org/10.30944/20117582.653"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Derecho al consumo informado: el caso de las bebidas azucaradas en Colombia",
+      "fecha": "2020-2-27",
+      "enlace": "https://doi.org/10.31260/repertmedcir.01217273.967"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El derecho a la protección de datos personales, tecnologías digitales y pandemia por COVID-19 en Colombia",
+      "fecha": "2020-10-26",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1343ca0f-42c3-4a9e-9f65-ce2e9d3467d8"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Learning legal ethics in the law clinics: ‘one hundred thousand housing law’ for offences against minors",
+      "fecha": "2019-7-3",
+      "enlace": "https://doi.org/10.1080/1460728x.2019.1702778"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Medicamentos biosimilares en Colombia: una revisión desde el consumo informado",
+      "fecha": "2018-5-1",
+      "enlace": "https://doi.org/10.12804/revistas.urosario.edu.co/revsalud/a.6772"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Abordaje desde la complejidad a las barreras en la prestación de servicios de salud a consumidores de sustancias psicoactivas: Estudio de caso en el modelo de salud Colombiano",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/10.21134/haaj.v18i2.334"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Los sujetos de especial protección: Construcción de una categoría jurídica a partir de la constitución política Colombiana de 1991",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/10.17151/jurid.2018.15.1.4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Kichwa-Otavalo migrations in Bogota",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.7440/res48.2014.04"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Explotación sexual de niños, niñas y adolescentes: modelo de intervención",
+      "fecha": "2013-12-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/cebeb94d-4245-4955-968c-6e0743d50a8a"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Bioprospecting in Colombia",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.11144/Javeriana.SC18-2.bc"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Biotecnología y sistemas de salud en los paises en vía de desarrollo",
+      "fecha": "2013-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/d1309822-23d4-4c63-ac62-df1e63d5a9b6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El acceso a recursos genéticos en pueblos indígenas y el Convenio de Diversidad Biológica",
+      "fecha": "2013-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F03a205d5-f161-4606-8eb5-95ecbaceee7c"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Protection of indigenous genetic resources in the inter-American and universal system of human rights",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1016/s0041-8633(13)71156-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Solidarity, international human rights declarations and bioethics: The case of the right to health of aboriginal Colombian peoples",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.4067/S1726-569X2013000100002"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Desplazamiento forzoso y derechos de las mujeres pertenecientes a comunidades afrodescendientes en Colombia\" .",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/bfc7c039-b611-478e-9d7a-7fbadccb71d0"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Representaciones sociales de los Derechos Humanos protegidos por el Derecho Internacional Humanitario: aproximaciones a partir de diferenciales semánticos",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/f3afb062-072b-4a99-b020-afd8570eba9f"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Representaciones sociales de los derechos humanos protegidos por el DIH: conceptualizaciones preliminares a un estudio analítico",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F286fc904-c654-4a55-b120-d32144774452"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Diagnóstico Genético: una visión desde el derecho y la bioética",
+      "fecha": "2009-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F23edec51-4a90-4798-88cc-cc50d630843a"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Jurisdicciones constitucional y especial indigena colombianas",
+      "fecha": "2009-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/a527e74c-b9b3-48ed-b73d-ab36e39d04a4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Técnicas de reproducción humana asistida, maternidad subrogada y derecho de familia",
+      "fecha": "2009-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F09b7ac39-85c3-4745-a9ae-baef72d233be"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Autonomía y libre determinación de los pueblos indígenas en el marcon del Estado Social de Derecho de la Constitución Política Colombiana de 1991",
+      "fecha": "2008-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2a3415d4-0fbb-4cf5-a8e2-03efd65479c2"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Existencia y legitimidad de la sociedad civil en la ciudad de Tunja",
+      "fecha": "2010-2-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F28c0f974-5d81-4a93-8c3f-28fca3e0f67e"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Claves para comprender la bioetica",
+      "fecha": "2007-7-23",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F06fdc8e3-9287-42a1-8ec3-58497fb63ec3"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Bioética y Biojurídica",
+      "fecha": "2006-12-18",
+      "enlace": "https://research-hub.urosario.edu.co/display/c313484e-5e75-4f7a-833a-d70a2ec65791"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Restricciones a los derechos humanos en el marco de emergencias sanitarias: de la ficción del cine a la pandemia por el virus SARS-CoV-2",
+      "fecha": "2022-7-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/edec5f9e-3681-43b4-9a2b-97797923e840"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Derechos Asociados a las células madre de cordón umbilical: cuestiones ético-legales",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.12804/urosario9789587846157"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Aproximación a los medicamentos biológicos: de la patente a la comercialización",
+      "fecha": "2020-1-29",
+      "enlace": "https://research-hub.urosario.edu.co/display/abd9b82e-ae5f-4716-beb5-4b60d68e59c6"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Técnicas de Procreación Humana Asistida: una mirada desde el bioderecho, la bioética y el cine",
+      "fecha": "2019-6-14",
+      "enlace": "https://doi.org/10.12804/lm9789587842654"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Bioprospección y el Acuerdo de Paz",
+      "fecha": "2018-8-2",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F35a90f14-6d90-4acf-839f-ad9ae95dba47"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Integridad e Investigación científica",
+      "fecha": "2015-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/af55171b-1b56-4384-b3cc-ec31edb1b068"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "La bioética en el contexto de la globalización",
+      "fecha": "2012-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/bd750ddf-1b37-4c67-b38d-6bd989375b27"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Vivificación del pluralismo en los procesos de integración suramericana",
+      "fecha": "2012-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F581c7d5f-4f96-4e4b-b5f8-bb58b5f85abe"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "El bebé medicamento: dos visiones de una misma realidad",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4da80d63-0427-427c-a894-1de1c8773872"
+    }
+  ],
+  "total_publicaciones": 38,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Regulación de Medicamentos de origen biológico en Colombia: un análisis desde la bioética y el derecho",
+      "fecha": "2014-11-03 - 2017-11-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1d649c6c-f632-4b7d-b51e-81bf16958600"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "El consentimiento informado en la recolección de muestras biológicas en hospitales universitarios del Distrito Capital",
+      "fecha": "2016-01-01 - 2016-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0df9c494-68c8-4aa7-9173-60b0c9a8791b"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Reconocimiento y ejercicio de los derechos de los migrantes indígenas no reconocidos en Bogotá D.C.",
+      "fecha": "2012-01-15 - 2013-01-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2f1f9c0a-b4e5-456e-9323-b2d6cc0b8c3e"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Modulos de formación para la Defensoría del Pueblo en trata de personas y explotación sexual de mujeres y niños",
+      "fecha": "2011-08-08 - 2011-09-05",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6568ce08-ee76-40f6-92ea-0bc1d4c77294"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Generación de recomendaciones en integridad científica-GREICI.",
+      "fecha": "2020-08-28 - 2023-05-28",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F36d66684-6bb8-4913-9422-2fe6e43543a5"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Tratamiento de muestras biológicas y datos personales en la investigación biomédica en Hospitales Universitarios en Bogotá D.C. de tercer y cuarto nivel",
+      "fecha": "2017-01-01 - 2021-05-27",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3dcc7201-16a4-4273-8bc4-1699323757da"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Herramientas para mejorar la prestación de servicios en consumo de sustancias psicoactivas",
+      "fecha": "2016-09-05 - 2017-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1d5ef8aa-e872-4ab3-b0a0-5482479d9f81"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Cine en la enseñanza de la bioética",
+      "fecha": "2016-01-01 - 2016-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/cf09ad8f-0510-414d-9883-82c6b1f2eb55"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Evaluación de los principios y normas que guían la evaluación de Ensayos Clínicos auspiciados por entidades internacionales en Comités de Ética en Investigación en Colombia.",
+      "fecha": "2014-11-01 - 2016-04-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/e096b4bd-3e93-4ab7-8d55-24bbedc46a54"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis estratégico y propuesta de modelo de negocio para la organización S.C.A.R.E."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Atención médica de adultos mayores desde un enfoque bioético: estudio de caso de una institución prestadora de servicios de salud en Bogotá DC"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desafíos y sesgos en la aprobación de ensayos clínicos con cannabis medicinal: un análisis de los avances a nivel internacional en esta materia y del Status Quo en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Disposición de embriones criopreservados: análisis de caso a la luz de la sentencia T 357 del 2022"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estancia académica internacional en el Programa Universitario de Bioética de la Universidad Nacional Autónoma de México"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estudio de caso del “derecho a la especial protección” de los habitantes de calle del Río Medellín"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implicaciones jurídicas, bioéticas y de gobernanza del ecosistema bioreproductivo de la maternidad subrogada en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Informe de pasantía para la maestría en bioética y bioderecho en el V Congreso Internacional de la Red Iberoamericana de la International Association of Bioethics (IAB): “Cuestiones bioéticas no resueltas en la evaluación de la investigación e innovación en salud basada en IA, tecnologías genéticas y datos personales”"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Investigación biomédica con preembriones humanos en proceso de reproducción asistida. Una propuesta de lineamientos legislativos sobre los principios y derechos mínimos involucrados"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La omisión legislativa: una mirada desde el caso de la práctica de la maternidad subrogada en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Manejo de gametos y embriones sobrantes en el contexto de las técnicas de reproducción humana asistida en España y Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Mujeres, ablación y derechos humanos. Una mirada a través del cine"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Pasantía en el Comité de Ética en Investigación de la Universidad del Rosario - Sala de Ciencias Sociales y Humanas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Pasantía profesional en servicio de Bioética Clínica"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Trata de personas y derechos humanos. Una mirada a través del cine"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Técnicas de procreación humana asistida en mujeres privadas de la libertad en Colombia: un análisis desde el bioderecho y la bioética"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000616583"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0001-9345-2193"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=8JxX6q4AAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/8e6542c9-e988-4f89-8deb-9842bf219f6a"
+    ],
+    "scopus_id": [
+      "55846208700"
+    ]
+  },
+  "id": "diana-rocio-bernal-camargo",
+  "facultad_csv": "Facultad de Jurisprudencia",
+  "cargo_csv": "Profesor titular de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000616583",
+    "cod_rh": "0000616583",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Senior (IS) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Diana Rocio BERNAL CAMARGO",
+      "Nombre en citaciones": "Diana Rocío Bernal",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)"
+    ],
+    "formacion_academica": [
+      "Doctorado UNIVERSIDAD REY JUAN CARLOS Doctorado En Bioetica y Biojuridica Septiembrede2005 - Mayode 2011 Derechos Humanos implicados en las investigaciones en recursos genéticos de pueblos indigenas colombianos: estrategias de protección",
+      "Maestría/Magister UNIVERSIDAD REY JUAN CARLOS Bioetica y Biojuridica Septiembrede2005 - Juniode 2007 Perspectiva bioética de la salud y su relación con otros derechos humanos en países en vía de desarrollo",
+      "Especialización UNIVERSIDAD COMPLUTENSE DE MADRID Derechos Humanos Enerode2005 - de 2006 Acceso a recursos genéticos y biológicos y al conocimiento tradicional en comunidades indigenas en el marco de los derechos humanos",
+      "Especialización UNIVERSIDAD EXTERNADO DE COLOMBIA Derecho y Nuevas Tecnologías Sobre La Vida Septiembrede2004 - Noviembrede 2005",
+      "Pregrado/Universitario UNIVERSIDAD DE BOYACÁ DERECHO Y CIENCIAS POLITICAS Enerode1999 - Diciembrede 2004",
+      "Perfeccionamiento UNIVERSIDAD COMPLUTENSE DE MADRID Derecho Internacional y Relaciones Internaciones: cuestiones actuales Juliode2009 - Juliode 2009",
+      "Perfeccionamiento Universidad Complutense de Madrid - Universidad Nacional de la Plata Sistemas europeo e interamericano de protección de los derechos humanos, características de cada uno, similitudes y diferencias Febrerode2008 - Febrerode 2008",
+      "Perfeccionamiento UNIVERSIDAD COMPLUTENSE DE MADRID Derechos Fundamentales y Globalizacion Juniode2007 - Juliode 2007"
+    ],
+    "estancias_posdoctorales": [
+      "Universidad Alfonso X El Sabio Bioética y Derecho Internacional de los Derechos Humanos Desde: Noviembre de 2013"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Julio de 2011 de Actividades de docencia - Pregrado - Nombre del curso: Bioetica y Derechos Humanos, 12 Enero 2012 Noviembre 2013 - Pregrado - Nombre del curso: Constitución y Democracia, 25 Agosto 2012 Noviembre 2012 - Postgrado - Nombre del curso: Grupos de especial protección protección constitucional y políticas públicas, 3 Agosto 2011 Noviembre 2013 Actividades de investigación - Investigación y Desarrollo - Titulo: Hacia un Observatorio de Agendas Ambientales en el Territorio CAR Agosto 2013 Febrero 2014 - Investigación y Desarrollo - Titulo: Reconocimiento y ejercicio de los derechos de los migrantes indígenas no reconocidos en Bogotá D.C Agosto 2012 Julio 2013 - Investigación y Desarrollo - Titulo: Acceso a recursos genéticos en Colombia Enero 2012 Diciembre 2012 - Investigación y Desarrollo - Titulo: trata de personas y delitos sexuales contra niños, niñas y adolescentes. Julio 2011 Diciembre 2011 - Investigación y Desarrollo - Titulo: Derechos Humanos Implicados en las Investigaciones en Recursos Genéticos Humanos de Pueblos Indígenas Colombianos Julio 2011 Diciembre 2011 - Investigación y Desarrollo - Titulo: Perspectiva bioética de la salud y su relación con otros derechos humanos en países en vía de desarrollo Julio 2011 Diciembre 2012",
+      "Corporacion Universitaria Republicana Dedicación: 40 horas Semanales Agosto de 2008 Julio de 2011 Actividades de administración - Miembro de consejo de centro - Cargo: Coordinadora General del Centro de Investigaciones Diciembre de 2009 Julio de 2011 Actividades de docencia - Pregrado - Nombre del curso: Electiva público: derechos humanos y derecho internacional de los derechos humanos, 20 Agosto 2008 Junio 2011 - Pregrado - Nombre del curso: Derecho Constitucional Colombiano, 40 Agosto 2008 Junio 2009 Actividades de investigación - Investigación y Desarrollo - Titulo: docente investigador Agosto 2008 Julio 2011",
+      "FUNDACIÓN UNIVERSITARIA LOS LIBERTADORES Dedicación: 9 horas Semanales Agosto de 2008 Diciembre de 2009 Actividades de docencia - Pregrado - Nombre del curso: Derechos Humanos, 20 Agosto 2008 Noviembre 2009 Actividades de investigación - Investigación y Desarrollo - Titulo: Representaciones sociales de los derechos humanos protegidos por el Derecho Internacional Humanitario Agosto 2008 Diciembre 2009",
+      "UNIVERSIDAD DE BOYACÁ Dedicación: 46 horas Semanales Agosto de 2006 Junio de 2008 Actividades de docencia - Pregrado - Nombre del curso: Bioetica y Etica Profesional, 20 Enero 2007 Junio 2008 - Pregrado - Nombre del curso: Derechos Humanos, 25 Agosto 2006 Junio 2008 Actividades de investigación - Investigación y Desarrollo - Titulo: Bioderecho en el contexto universitario Enero 2007 Diciembre 2007 - Investigación y Desarrollo - Titulo: Existencia y legitimidad de la Representación de la Sociedad Civil en la Ciudad de Tunja. Agosto 2006 Junio 2008"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Derecho -- Derecho",
+      "Ciencias Sociales -- Otras Ciencias Sociales -- Otras Ciencias Sociales",
+      "Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Ética",
+      "Ciencias Médicas y de la Salud -- Biotecnología en Salud -- Ética Relacionada con la Biomedicina"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Derechos Humanos Emergentes y Enfoque Diferencial, Activa: Si",
+      "Derechos Humanos Emergentes y Enfoque Diferencial, Activa: Si",
+      "ADMINISTRACIÓN PÚBLICA Y DERECHO ADMINISTRATIVO COLOMBIANO, Activa: No",
+      "Desarrollo, Justicia ambiental y grupos étnicos, Activa: Si",
+      "Políticas Públicas y Derechos Humanos., Activa: Si",
+      "Derecho y Familia, Activa: No",
+      "Etica Globalidad y Derecho, Activa: No",
+      "derecho publico, Activa: Si",
+      "JUSTICIA, DERECHO Y PROBLEMAS SOCIOJURÍDICOS Y POLÍTICOS CONTEMPORÁNEOS, Activa: Si"
+    ],
+    "reconocimientos": [
+      "PREMIO ANUAL AL MERITO INVESTIGATIVO,UNIVERSIDAD DE BOYACÁ - de 2008",
+      "Tesis Meritoria,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Mayode 2018"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Datos personales en salud COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Paula Andrea Arroyo Triviño Oscar David Rubio Vasquez Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Consentimiento Informado COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Alejandro Muriel Espinal Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Medicamentos biosimilares COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Manuel Alejandro Rosero Castillo Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Aborto COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Natalia Araque Mora Maria Angelica Naranjo Herrera Juliana Campo Arango Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, Atención médica de adultos mayores desde un enfoque bioético: estudio de caso de una institución prestadora de servicios de salud en Bogotá DC COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestria en Bioderecho y Bioética, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura Fontal Celis NATHALY CASTELLANOS ESPINOSA SIlvia Viviana Palomino Guerrero Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, Análisis multidimensional de la ablación genital femenina en menores de edad en colombia a partir de un caso clínico COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestria en Bioderecho y Bioética, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Maria Camila Gonzalez Correa Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, Disposición de embriones criopreservados: análisis de caso a la luz de la sentencia T-357 del 2022 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestria en Bioderecho y Bioética, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Daniel Andres Sotaquira Guaqueta Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Trata de personas y derechos humanos. Una mirada a través del cine COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Lina Tatiana Macea Davila Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, Violencia sexual hacia la mujer en el marco del Macrocaso 001: el cuerpo como escenario de conflicto, Auto No 19 de 2021 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestria en Derecho, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Leidi Juliana Delgado Rueda Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, XIV Competencia Internacional de Arbitraje Comercial Internacional COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Alejandro Baquero Sanz Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, Investigación Biomédica Con Pre-Embriones Humanos En Procesos De Reproducción Asistida. Una Propuesta De Lineamientos Legislativos Sobre Los Principios Y Derechos Mínimos Involucrados COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestria en Derecho, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Angela Maria Garcia Bolaños Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Mujeres, ablación y derechos humanos. Una mirada a través del cine COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Ana Maria Suarez Ladino Laura Andrea Guerrero Rivera Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Análisis jurisprudencial de la Corte Constitucional sobre Protección del derecho a la salud a través de tratamientos experimentales COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): paula valentina mesa velez Maria Camila Vega Castro Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Derechos humanos emergentes y salud COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Andres Felipe Agudelo Guerra Sirena Estefania Rosero Rivera Maria Monica Sanchez Sanchez Erika Milena Moscoso Espitia Laura Camila Vaca Tello LAURA JULIANA NIÑO FLOREZ Paulina Sanchez Calderon Tatiana Andrea Perez Albarracin Carmen Maria Martinez Lobo Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Protección al consumidor frente a los alimentos genéticamente modificados COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): PAULA ANDREA OLAYA RODRIGUEZ DEISSY JULIANA ANGULO BUITRAGO Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Consentimiento informado y ODS COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Jurisprudencia, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Alejandra Hernandez Ararat Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, TPHA en población carcelaria COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestria en Bioderecho y Bioética, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Kiefer Sneider Merchan Rodriguez Jhoana Melisa Peña Diaz Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Transplante de componentes anatómicos para extranjeros no residentes UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida DERECHO, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Sandra Viviana Martinez Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, ANÁLISIS INTERDISCIPLINAR DEL ACCESO A LA CIUDAD POR PARTE DE LA COMUNIDAD KICHWA Y EMBERA EN LA CIUDAD DE BOGOTÁ, BAJO LA MIRADA SOCIOLÓGICA, JURÍDICA Y ANTROPOLÓGICA COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): María Fernanda Jaramillo Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, ¿TIENE LA SENTENCIA C-355 DE 2006 CORRESPONDENCIA CON ALGUNA DE LAS TEORÍAS FEMINISTAS? COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Raisha Gamba, Karla Ibarra, Carolina Colmenares Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, La Adopción Irregular de Niños en Colombia ¿Una modalidad de trata de personas? COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura Melo Tovar, German Parra Pinzón, Laura Santos Galeano Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Tráfico de Órganos ¿Mito o Realidad? COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Nicolás Villareal Llano Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, UN ACERCAMIENTO A LA PROBLEMÁTICA DE LA EXPLOTACIÓN LABORAL EN LA MINERÍA ILEGAL COLOMBIANA COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Lina Quant, Vanessa Gutierrez Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Acceso a recursos genéticos en Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Natalia Ocampo, David Arciniegas Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, Discriminación de la población afrodescendiente del Departamento del Choco en el acceso a recursos naturales COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis en curso MAESTRÍA EN DERECHO, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Heidy Polania Franco Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: DIANA ROCIO BERNAL CAMARGO, Estudio de caso sobre el derecho a la especial protección de los habitantes de calle del río Medellín COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida DOCTORADO EN DERECHO, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Holmedo Pélaez Grisales Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Análisis sociojuridico del acceso a medicamentos para la IVE como derecho sexual y reproductivo en Colombia* COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura Carolina Lozano Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, EL IMPACTO SOCIO JURIDICO DE LA INFERTILIDAD Y LA RESPONSABILIDAD ETICA QUE TIENE EL DERECHO DE GARANTIZAR LA PROCREACION EN EL FUTURO COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Camilo Llano Raffo Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, El incesto en Colombia: desarrollo normativo y jurisprudencial Corporacion Universitaria Republicana Estado: Tesis concluida DERECHO Y CIENCIAS POLITICAS, 2009. Dirigió como: Tutor principal, Persona(s) orientada(s): Esperanza Rodriguez Calderón Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, La filiación Corporacion Universitaria Republicana Estado: Tesis concluida DERECHO Y CIENCIAS POLITICAS, 2009. Dirigió como: Tutor principal, Persona(s) orientada(s): Luz Dary Rodriguez Pereira Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Union marital de hecho Corporacion Universitaria Republicana Estado: Tesis concluida DERECHO Y CIENCIAS POLITICAS, 2009. Dirigió como: Tutor principal, Persona(s) orientada(s): Carolina Ortega Pereira Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA ROCIO BERNAL CAMARGO, La omisión legislativa: una mirada desde el caso de la practica de la maternidad subrogada en Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN DERECHO, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Diana Sthefania Muñoz Gomez Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: DIANA ROCIO BERNAL CAMARGO, PROBLEMAS BIOJURÍDICOS EN TORNO A LA DIGNIDAD Y LA JUSTICIA EN LA LEGALIZACIÓN DE LAS DROGAS - Un análisis a partir del consumidor habitante de calle UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis en curso DOCTORADO EN BIOETICA, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Edwin Secergio Trujillo Florián Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Medicamentos biosimilares, una solución para Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): JUAN DANIEL VALENCIA ECHEVERRI Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Análisis sociojuridico del acceso a medicamentos para la IVE como derecho sexual y reproductivo en Colombia* COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Lilian Marcela Caro Díaz Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA ROCIO BERNAL CAMARGO, Medicamentos Biológicos y Patentes Farmacéuticas, el Antagonismo entre los Beneficios de la Tecnología y el Negocio de la Salud Pública COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida JURISPRUDENCIA, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Daniel felipe Gaitán Peña Tutor(es)/Cotutor(es): DIANA ROCIO BERNAL CAMARGO, Areas: Ciencias Sociales -- Derecho -- Derecho ,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA ROCIO BERNAL CAMARGO, Titulo: Los derechos de las parejas homosexuales desde la jurisprudencia constitucional Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD MILITAR NUEVA GRANADA programa académico DERECHO Nombre del orientado: Ana Carolina Muete Valero Palabras: DERECHO CONSTITUCIONAL, derechos humanos, jurisdicción constitucional, Areas: Ciencias Sociales -- Derecho -- Derecho , Sectores: Administración pública, defensa y seguridad social - Servicios prestados por la administración pública en la esfera de la justicia,"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Asignación de becas: DIANA ROCIO BERNAL CAMARGO, Convocatoria para conformar un banco de elegibles del programa de movilidad internacional de investigadores e innovadores año 2013 en: Ministerio de Ciencia, Tecnología e Innovación. Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Datos complementarios - Participación en comités de evaluación - Otra: DIANA ROCIO BERNAL CAMARGO, Convocatoria 571-2012 \"Diálogos de Saberes\" en: Ministerio de Ciencia, Tecnología e Innovación. Palabras: diversidad étnica y cultural, Minorías étnicas, Afrodescendientes, derechos especiales, pueblos indígenas, Areas: Ciencias Sociales -- Otras Ciencias Sociales -- Ciencias Sociales, Interdisciplinaria, Sectores: Otros sectores - Otro,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Academia & Derecho. Revista Semestral, 2015, Enero",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD SANTO TOMÁS, SECCIONAL BUCARAMANGA, 2015, Marzo",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Universitas Estudiantes, 2012, Agosto",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Universitas Humanistica, 2012, Marzo",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación., 2012, Agosto",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Editorial: Universidad San Buenaventura, 2012, Octubre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación., 2012, Agosto",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación., 2012, Agosto",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Editorial: Universidad catolica de colombia, 2011, Octubre",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Pensamiento Jurídico, 2013, Junio",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: PRECEDENTE, 2012, Septiembre",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Diálogos De Saberes, 2012, Julio",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación., 2012, Agosto",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Entramado, 2011, Septiembre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación., 2012, Agosto",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación., 2012, Agosto",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Editorial: Departamento De Publicaciones De La Universidad Externado De Colombia, 2013, Julio",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD SANTO TOMÁS, SECCIONAL BUCARAMANGA, 2011, Noviembre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: VIII COLAD DERECHO REFORMA DEL ESTADO Y GOBERNABILIDAD FRENTE A LOS PROCESOS DE INTEGRACION LATINOAMERICANA Tipo de evento: Otro Ámbito: Internacional Realizado el:2009-09-21 00:00:00.0, 2009-09-25 00:00:00.0 en Santo Domingo - Universidad Autónoma de Santo Domingo Productos asociados Nombre del producto: LA DECLARACION DE BIOÉTICA Y DERECHOS HUMANOS: desafío para la enseñanza de los derechos humanos en el marco de la globalización Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Comité para el Estudio y Difusión del Derecho en América Latina CEDDAL Tipo de vinculación Patrocinadora Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento:",
+      "1 Nombre del evento: VIII COLAD DERECHO REFORMA DEL ESTADO Y GOBERNABILIDAD FRENTE A LOS PROCESOS DE INTEGRACION LATINOAMERICANA Tipo de evento: Otro Ámbito: Internacional Realizado el:2009-09-21 00:00:00.0, 2009-09-25 00:00:00.0 en Santo Domingo - Universidad Autónoma de Santo Domingo",
+      "Productos asociados Nombre del producto: LA DECLARACION DE BIOÉTICA Y DERECHOS HUMANOS: desafío para la enseñanza de los derechos humanos en el marco de la globalización Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Comité para el Estudio y Difusión del Derecho en América Latina CEDDAL Tipo de vinculación Patrocinadora Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento:",
+      "2 Nombre del evento: VIII JORNADAS SOBRE GLOBALIZACIÓN Y PENSAMIENTO CRÍTICO sobre ¿GLOBALIZACIÓN, DERECHOS DE LA MUJER Y MUJERES INMIGRANTES. EUROPA Y AMÉRICA LATINA, Tipo de evento: Otro Ámbito: Internacional Realizado el:2009-11-03 00:00:00.0, 2009-11-04 00:00:00.0 en Madrid - Universidad Complutense de Madrid Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: CENTRO DE ESTUDIOS DE LA MUJER DE LA UNIVERSIDAD DE SALAMANCA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "2 Nombre del evento: VIII JORNADAS SOBRE GLOBALIZACIÓN Y PENSAMIENTO CRÍTICO sobre ¿GLOBALIZACIÓN, DERECHOS DE LA MUJER Y MUJERES INMIGRANTES. EUROPA Y AMÉRICA LATINA, Tipo de evento: Otro Ámbito: Internacional Realizado el:2009-11-03 00:00:00.0, 2009-11-04 00:00:00.0 en Madrid - Universidad Complutense de Madrid",
+      "Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: CENTRO DE ESTUDIOS DE LA MUJER DE LA UNIVERSIDAD DE SALAMANCA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "3 Nombre del evento: Tercer Congreso Internacional de Bioética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-11-24 00:00:00.0, 2010-11-26 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Red Latinoamericana y del Caribe de Bioética de Unesco Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "3 Nombre del evento: Tercer Congreso Internacional de Bioética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-11-24 00:00:00.0, 2010-11-26 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque",
+      "Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Red Latinoamericana y del Caribe de Bioética de Unesco Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "4 Nombre del evento: Congreso de Países del Mercosur sobre bioética y derechos humanos Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-12-02 00:00:00.0, 2010-12-04 00:00:00.0 en Buenos Aires - Facultad de Medicina de la Universidad de Buenos Aires Productos asociados Nombre del producto: Recursos genéticos de pueblos indígenas en el desarrollo de la industria farmacéutica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Secretaría de Derechos Humanos del Ministerio de Justicia, Seguridad y Dere Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "4 Nombre del evento: Congreso de Países del Mercosur sobre bioética y derechos humanos Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-12-02 00:00:00.0, 2010-12-04 00:00:00.0 en Buenos Aires - Facultad de Medicina de la Universidad de Buenos Aires",
+      "Productos asociados Nombre del producto: Recursos genéticos de pueblos indígenas en el desarrollo de la industria farmacéutica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Secretaría de Derechos Humanos del Ministerio de Justicia, Seguridad y Dere Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "5 Nombre del evento: IX Congreso Latinoamericano y del Caribe de Bioética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-04-17 00:00:00.0, 2013-04-20 00:00:00.0 en Guanajuato - Universidad de Guanajuato Productos asociados Nombre del producto: Comités de ética y bioética en investigación para las Ciencias Sociales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Federación Latinoamericana y del Caribe de Bioética Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "5 Nombre del evento: IX Congreso Latinoamericano y del Caribe de Bioética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-04-17 00:00:00.0, 2013-04-20 00:00:00.0 en Guanajuato - Universidad de Guanajuato",
+      "Productos asociados Nombre del producto: Comités de ética y bioética en investigación para las Ciencias Sociales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Federación Latinoamericana y del Caribe de Bioética Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "6 Nombre del evento: VIII Congreso Latinoamericano y del Caribe de Bioética. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-06-23 00:00:00.0, 2011-06-25 00:00:00.0 en Santiago de Chile - Viña del Mar Productos asociados Nombre del producto: El protocolo de Nagoya y su incidencia en la protección de la biodiversidad: A propósito de la participación y protección de los pueblos indígenas de América Latina Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Federación Latinoamericana y del Caribe de Bioética Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "6 Nombre del evento: VIII Congreso Latinoamericano y del Caribe de Bioética. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-06-23 00:00:00.0, 2011-06-25 00:00:00.0 en Santiago de Chile - Viña del Mar",
+      "Productos asociados Nombre del producto: El protocolo de Nagoya y su incidencia en la protección de la biodiversidad: A propósito de la participación y protección de los pueblos indígenas de América Latina Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Federación Latinoamericana y del Caribe de Bioética Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "7 Nombre del evento: XII Encuentro nacional de la red de grupos, centros y semilleros de investigación jurídica y sociojurídica Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2012-10-10 00:00:00.0, 2012-10-12 00:00:00.0 en SANTA MARTA - Santa Marta Productos asociados Nombre del producto: CDB y Acceso a Recursos Genéticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Red de Grupros y Centros de Investigacion Juridica y Sociojuridica Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "7 Nombre del evento: XII Encuentro nacional de la red de grupos, centros y semilleros de investigación jurídica y sociojurídica Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2012-10-10 00:00:00.0, 2012-10-12 00:00:00.0 en SANTA MARTA - Santa Marta",
+      "Productos asociados Nombre del producto: CDB y Acceso a Recursos Genéticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Red de Grupros y Centros de Investigacion Juridica y Sociojuridica Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "8 Nombre del evento: 7 Congreso CEISAL. Memoria, Presente y Porvenir Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-06-12 00:00:00.0, 2013-06-15 00:00:00.0 en oporto - Universidad Fernando Pessoa Productos asociados Nombre del producto: Pluralismo y Derechos Humanos: retos y perspectivas para las sociedades contemporáneas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Consejo Europeo de Investigaciones Sociales de América Latina Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "8 Nombre del evento: 7 Congreso CEISAL. Memoria, Presente y Porvenir Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-06-12 00:00:00.0, 2013-06-15 00:00:00.0 en oporto - Universidad Fernando Pessoa",
+      "Productos asociados Nombre del producto: Pluralismo y Derechos Humanos: retos y perspectivas para las sociedades contemporáneas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Consejo Europeo de Investigaciones Sociales de América Latina Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "9 Nombre del evento: 1ER SIMPOSIO DE ACTUALIZACION SOBRE NORMATIVIDAD, REGULACION Y ASPECTOS JURIDICOS DE LA PRACTICA EN REPRODUCCION ASISTIDA Tipo de evento: Simposio Ámbito: Nacional Realizado el:2015-11-20 00:00:00.0, 2015-11-20 00:00:00.0 en Talca - CENTRO DE CONVENCIONES AR SEDE 113 Productos asociados Nombre del producto: Mitos y Realidades jurídicas de la procreación asistida Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Asociación de Centros Colombianos de Reproducción Humana Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "9 Nombre del evento: 1ER SIMPOSIO DE ACTUALIZACION SOBRE NORMATIVIDAD, REGULACION Y ASPECTOS JURIDICOS DE LA PRACTICA EN REPRODUCCION ASISTIDA Tipo de evento: Simposio Ámbito: Nacional Realizado el:2015-11-20 00:00:00.0, 2015-11-20 00:00:00.0 en Talca - CENTRO DE CONVENCIONES AR SEDE 113",
+      "Productos asociados Nombre del producto: Mitos y Realidades jurídicas de la procreación asistida Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Asociación de Centros Colombianos de Reproducción Humana Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "10 Nombre del evento: IV Congreso Internacional de Derechos Humanos Tipo de evento: Congreso Ámbito: Nacional Realizado el:2015-10-27 00:00:00.0, 2015-10-30 00:00:00.0 en TUNJA - Universidad Pedagógica y Tecnológica de Colombia Productos asociados Nombre del producto: Bioderecho Internacional Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "10 Nombre del evento: IV Congreso Internacional de Derechos Humanos Tipo de evento: Congreso Ámbito: Nacional Realizado el:2015-10-27 00:00:00.0, 2015-10-30 00:00:00.0 en TUNJA - Universidad Pedagógica y Tecnológica de Colombia",
+      "Productos asociados Nombre del producto: Bioderecho Internacional Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Universidad Pedagógica Y Tecnológica De Colombia - Uptc - Sede Tunja Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "11 Nombre del evento: III Curso Taller de Buena Práctica Clínica Tipo de evento: Taller Ámbito: Nacional Realizado el:2015-11-27 00:00:00.0, 2015-11-27 00:00:00.0 en Talca - Hospital Militar Central Productos asociados Nombre del producto: Regulaciones y aspectos legales en investigación con medicamentos Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "11 Nombre del evento: III Curso Taller de Buena Práctica Clínica Tipo de evento: Taller Ámbito: Nacional Realizado el:2015-11-27 00:00:00.0, 2015-11-27 00:00:00.0 en Talca - Hospital Militar Central",
+      "Productos asociados Nombre del producto: Regulaciones y aspectos legales en investigación con medicamentos Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "12 Nombre del evento: III Diálogo Nacional de Ética de la Investigación Tipo de evento: Otro Ámbito: Nacional Realizado el:2015-10-29 00:00:00.0, 2015-10-30 00:00:00.0 en Talca - Club Militar Productos asociados Nombre del producto: Integridad Científica Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Servicio Nacional de Aprendizaje Sena Sede Cali Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "12 Nombre del evento: III Diálogo Nacional de Ética de la Investigación Tipo de evento: Otro Ámbito: Nacional Realizado el:2015-10-29 00:00:00.0, 2015-10-30 00:00:00.0 en Talca - Club Militar",
+      "Productos asociados Nombre del producto: Integridad Científica Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Servicio Nacional de Aprendizaje Sena Sede Cali Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "13 Nombre del evento: Derecho y Ciudad: foro de discusión Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-10-23 00:00:00.0, 2015-10-24 00:00:00.0 en BOGOTÁ, D.C. - Salon Tequendama Productos asociados Nombre del producto: El derecho a la ciudad Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: El derecho a la ciudad desde la perspectiva de NNA Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "13 Nombre del evento: Derecho y Ciudad: foro de discusión Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-10-23 00:00:00.0, 2015-10-24 00:00:00.0 en BOGOTÁ, D.C. - Salon Tequendama",
+      "Productos asociados Nombre del producto: El derecho a la ciudad Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: El derecho a la ciudad desde la perspectiva de NNA Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD SANTO TOMAS SECCIONAL TUNJA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "14 Nombre del evento: I Congreso Internacional de Filosofía del Derecho, Argumentación e Interpretación Jurídica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-03-25 00:00:00.0, 2009-03-27 00:00:00.0 en BOGOTÁ, D.C. - Universidad Libre Instituciones asociadas Nombre de la institución: Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "14 Nombre del evento: I Congreso Internacional de Filosofía del Derecho, Argumentación e Interpretación Jurídica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-03-25 00:00:00.0, 2009-03-27 00:00:00.0 en BOGOTÁ, D.C. - Universidad Libre",
+      "Instituciones asociadas Nombre de la institución: Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "15 Nombre del evento: VI JORNADAS DE JOVENES INVESTIGADORES Tipo de evento: Otro Ámbito: Nacional Realizado el:2011-11-10 00:00:00.0, 2011-11-12 00:00:00.0 en Buenos Aires - Instituto de Investigaciones Gino Germani, Facultad de Ciencias Sociales Productos asociados Nombre del producto: Los recursos genéticos de los pueblos indígenas y el derecho al territorio Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BUENOS AIRES Tipo de vinculación Patrocinadora Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Asistente",
+      "15 Nombre del evento: VI JORNADAS DE JOVENES INVESTIGADORES Tipo de evento: Otro Ámbito: Nacional Realizado el:2011-11-10 00:00:00.0, 2011-11-12 00:00:00.0 en Buenos Aires - Instituto de Investigaciones Gino Germani, Facultad de Ciencias Sociales",
+      "Productos asociados Nombre del producto: Los recursos genéticos de los pueblos indígenas y el derecho al territorio Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BUENOS AIRES Tipo de vinculación Patrocinadora Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Asistente",
+      "16 Nombre del evento: 4ª JORNADA DE ACTUALIZACION EN DERECHO PENAL, Tipo de evento: Otro Ámbito: Nacional Realizado el:2002-10-03 00:00:00.0, 2002-10-04 00:00:00.0 en TUNJA - Universidad de Boyaca Productos asociados Nombre del producto: El Paradigma de la justicia social en el estado social de Derecho Tipo de producto: Producción bibliográfica - Artículo - Publicado en revista especializada Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BOYACÁ Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "16 Nombre del evento: 4ª JORNADA DE ACTUALIZACION EN DERECHO PENAL, Tipo de evento: Otro Ámbito: Nacional Realizado el:2002-10-03 00:00:00.0, 2002-10-04 00:00:00.0 en TUNJA - Universidad de Boyaca",
+      "Productos asociados Nombre del producto: El Paradigma de la justicia social en el estado social de Derecho Tipo de producto: Producción bibliográfica - Artículo - Publicado en revista especializada",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BOYACÁ Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "17 Nombre del evento: II Coloquio Internacional Las políticas públicas de las diversidades: identidades y emancipación Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-09-04 00:00:00.0, 2008-10-04 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "17 Nombre del evento: II Coloquio Internacional Las políticas públicas de las diversidades: identidades y emancipación Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-09-04 00:00:00.0, 2008-10-04 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "18 Nombre del evento: 12 Congreso de antropología. Simposio Antropología, Cultura y Bioética Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-10-10 00:00:00.0, 2007-10-13 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "18 Nombre del evento: 12 Congreso de antropología. Simposio Antropología, Cultura y Bioética Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-10-10 00:00:00.0, 2007-10-13 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "19 Nombre del evento: I Congreso Internacional de Derecho Constitucional Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-10-21 00:00:00.0, 2009-10-23 00:00:00.0 en BOGOTÁ, D.C. - Universidad Libre Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "19 Nombre del evento: I Congreso Internacional de Derecho Constitucional Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-10-21 00:00:00.0, 2009-10-23 00:00:00.0 en BOGOTÁ, D.C. - Universidad Libre",
+      "Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "20 Nombre del evento: Conflicto, desigualdad y cultural de paz: perspectivas desde el Sur Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-06-21 00:00:00.0, 2010-06-24 00:00:00.0 en Porto Alegre - Universidad Federal de Rio Grande do Sul Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Consejo Latinoamericano De Ciencias Sociales - Clacso Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "20 Nombre del evento: Conflicto, desigualdad y cultural de paz: perspectivas desde el Sur Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-06-21 00:00:00.0, 2010-06-24 00:00:00.0 en Porto Alegre - Universidad Federal de Rio Grande do Sul",
+      "Instituciones asociadas Nombre de la institución: Corporacion Universitaria Republicana Tipo de vinculación Patrocinadora Nombre de la institución: Consejo Latinoamericano De Ciencias Sociales - Clacso Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "21 Nombre del evento: VI Congreso Internacional de Bioética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-10-10 00:00:00.0, 2012-10-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Militar Nueva Granada Productos asociados Nombre del producto: La inclusión de las minorías étnicas: un reto para el futuro del diálogo entre la bioética y la biopolítica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD MILITAR NUEVA GRANADA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "21 Nombre del evento: VI Congreso Internacional de Bioética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-10-10 00:00:00.0, 2012-10-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad Militar Nueva Granada",
+      "Productos asociados Nombre del producto: La inclusión de las minorías étnicas: un reto para el futuro del diálogo entre la bioética y la biopolítica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD MILITAR NUEVA GRANADA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "22 Nombre del evento: Congreso internacional de filosofía política sobre Justicia Global. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-10-06 00:00:00.0, 2011-10-07 00:00:00.0 en BARRANQUILLA - Universidad de Norte Productos asociados Nombre del producto: Justicia global vs pluralismo jurídico: el caso de los pueblos indígenas y la defensa de sus recursos genéticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: FUNDACIÓN UNIVERSIDAD DEL NORTE Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "22 Nombre del evento: Congreso internacional de filosofía política sobre Justicia Global. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-10-06 00:00:00.0, 2011-10-07 00:00:00.0 en BARRANQUILLA - Universidad de Norte",
+      "Productos asociados Nombre del producto: Justicia global vs pluralismo jurídico: el caso de los pueblos indígenas y la defensa de sus recursos genéticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: FUNDACIÓN UNIVERSIDAD DEL NORTE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "23 Nombre del evento: 54 Congreso Internacional Americanista ¿Construyendo Diálogos en las Américas¿. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-07-15 00:00:00.0, 2012-07-20 00:00:00.0 en Viena - Universidad de Viena Productos asociados Nombre del producto: Desplazamiento forzado y mujeres pertenecientes a comunidades étnicas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Universidad De Viena Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "23 Nombre del evento: 54 Congreso Internacional Americanista ¿Construyendo Diálogos en las Américas¿. Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-07-15 00:00:00.0, 2012-07-20 00:00:00.0 en Viena - Universidad de Viena",
+      "Productos asociados Nombre del producto: Desplazamiento forzado y mujeres pertenecientes a comunidades étnicas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Nombre de la institución: Universidad De Viena Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "24 Nombre del evento: Dilemas éticos en investigación al comienzo de la vida. Técnicas de reproducción asistida Tipo de evento: Otro Ámbito: Nacional Realizado el:2015-09-17 00:00:00.0, 2015-09-17 00:00:00.0 en BOGOTÁ, D.C. - Secretaria Distrital de Salud Productos asociados Nombre del producto: Técnicas de reproducción humana asistida, maternidad subrogada y derecho Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "24 Nombre del evento: Dilemas éticos en investigación al comienzo de la vida. Técnicas de reproducción asistida Tipo de evento: Otro Ámbito: Nacional Realizado el:2015-09-17 00:00:00.0, 2015-09-17 00:00:00.0 en BOGOTÁ, D.C. - Secretaria Distrital de Salud",
+      "Productos asociados Nombre del producto: Técnicas de reproducción humana asistida, maternidad subrogada y derecho Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "25 Nombre del evento: VIII SEMINARIO INTERNACIONAL BIOETICA Y BIOJURIDICA Tipo de evento: Seminario Ámbito: Nacional Realizado el:2005-08-25 00:00:00.0, 2005-08-27 00:00:00.0 en TUNJA - Universidad de Boyacá Productos asociados Nombre del producto: Reflexiones Juridicas en torno a la bioética Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BOYACÁ Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Asistente",
+      "25 Nombre del evento: VIII SEMINARIO INTERNACIONAL BIOETICA Y BIOJURIDICA Tipo de evento: Seminario Ámbito: Nacional Realizado el:2005-08-25 00:00:00.0, 2005-08-27 00:00:00.0 en TUNJA - Universidad de Boyacá",
+      "Productos asociados Nombre del producto: Reflexiones Juridicas en torno a la bioética Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BOYACÁ Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Asistente",
+      "26 Nombre del evento: VI Taller de Ética en Investigación e Integridad Científica Tipo de evento: Taller Ámbito: Nacional Realizado el:2016-11-24 00:00:00.0, 2016-11-25 00:00:00.0 en CALI - UNIVERSIDAD SAN BUENAVENTURA Productos asociados Nombre del producto: Contextualizacion: retos y vacios juridicos de la normatividad nacional para investigacion Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Red de Comités de ética en investigación con humanos Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "26 Nombre del evento: VI Taller de Ética en Investigación e Integridad Científica Tipo de evento: Taller Ámbito: Nacional Realizado el:2016-11-24 00:00:00.0, 2016-11-25 00:00:00.0 en CALI - UNIVERSIDAD SAN BUENAVENTURA",
+      "Productos asociados Nombre del producto: Contextualizacion: retos y vacios juridicos de la normatividad nacional para investigacion Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Red de Comités de ética en investigación con humanos Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "27 Nombre del evento: II Seminario Internacional de Bioderecho Tipo de evento: Seminario Ámbito: Nacional Realizado el:2016-08-22 00:00:00.0, 2016-08-24 00:00:00.0 en BOGOTÁ, D.C. - Pontifica Universidad Javeriana Productos asociados Nombre del producto: Bancos de cordón umbilical: reflexiones desde el bioderecho\" Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "27 Nombre del evento: II Seminario Internacional de Bioderecho Tipo de evento: Seminario Ámbito: Nacional Realizado el:2016-08-22 00:00:00.0, 2016-08-24 00:00:00.0 en BOGOTÁ, D.C. - Pontifica Universidad Javeriana",
+      "Productos asociados Nombre del producto: Bancos de cordón umbilical: reflexiones desde el bioderecho\" Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "28 Nombre del evento: CONFERENCIA CIENTÍFICA INTEGRIDAD CIENTÍFICA Tipo de evento: Otro Ámbito: Nacional Realizado el:2016-05-27 00:00:00.0, 2016-05-27 00:00:00.0 en BOGOTÁ, D.C. - Instituto Nacional de Salud Productos asociados Nombre del producto: Integridad científica: una cuestión más allá de los comités de ética en investigación Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: INSTITUTO NACIONAL DE SALUD Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "28 Nombre del evento: CONFERENCIA CIENTÍFICA INTEGRIDAD CIENTÍFICA Tipo de evento: Otro Ámbito: Nacional Realizado el:2016-05-27 00:00:00.0, 2016-05-27 00:00:00.0 en BOGOTÁ, D.C. - Instituto Nacional de Salud",
+      "Productos asociados Nombre del producto: Integridad científica: una cuestión más allá de los comités de ética en investigación Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: INSTITUTO NACIONAL DE SALUD Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "29 Nombre del evento: 4 Foro de Bioética Clínica, Historia y Filosofía de la Medicina Tipo de evento: Otro Ámbito: Nacional Realizado el:2016-09-20 00:00:00.0, 2016-09-22 00:00:00.0 en BOGOTÁ, D.C. - Pontificia Universidad Javeriana Productos asociados Nombre del producto: Responsabilidad jurídica y responsabilidad ética: un análisis a partir de jurisprudencia sobre cirugías estéticas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "29 Nombre del evento: 4 Foro de Bioética Clínica, Historia y Filosofía de la Medicina Tipo de evento: Otro Ámbito: Nacional Realizado el:2016-09-20 00:00:00.0, 2016-09-22 00:00:00.0 en BOGOTÁ, D.C. - Pontificia Universidad Javeriana",
+      "Productos asociados Nombre del producto: Responsabilidad jurídica y responsabilidad ética: un análisis a partir de jurisprudencia sobre cirugías estéticas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "30 Nombre del evento: XXIV Congreso Internacional sobre Derecho y Genoma Humano Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-05-09 00:00:00.0, 2017-05-09 00:00:00.0 en Bilbao - UNIVERSIDAD DEL PAÍS VASCO Productos asociados Nombre del producto: Bancos de cordón umbilical en Colombia: una revisión a las prácticas de CI y protección de datos Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Instituciones asociadas Nombre de la institución: Universidad De Deusto De Bilbao Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "30 Nombre del evento: XXIV Congreso Internacional sobre Derecho y Genoma Humano Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-05-09 00:00:00.0, 2017-05-09 00:00:00.0 en Bilbao - UNIVERSIDAD DEL PAÍS VASCO",
+      "Productos asociados Nombre del producto: Bancos de cordón umbilical en Colombia: una revisión a las prácticas de CI y protección de datos Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación",
+      "Instituciones asociadas Nombre de la institución: Universidad De Deusto De Bilbao Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "31 Nombre del evento: CURSO - TALLER ¿INTRODUCCION A LA CONDUCTA RESPONSABLE EN INVESTIGACION¿ Tipo de evento: Taller Ámbito: Nacional Realizado el:2016-12-01 00:00:00.0, 2016-12-02 00:00:00.0 en BOGOTÁ, D.C. - Centro Dermatologico Federico Lleras Acosta Productos asociados Nombre del producto: Buenas practicas en investigacion, buenas practicas en laboratorio, buenas practicas clinicas. Uso de animales en investigacion Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: CORPORACIÓN CENTRO INTERNACIONAL DE ENTRENAMIENTO E INVESTIGACIONES MEDICAS - CIDEIM Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "31 Nombre del evento: CURSO - TALLER ¿INTRODUCCION A LA CONDUCTA RESPONSABLE EN INVESTIGACION¿ Tipo de evento: Taller Ámbito: Nacional Realizado el:2016-12-01 00:00:00.0, 2016-12-02 00:00:00.0 en BOGOTÁ, D.C. - Centro Dermatologico Federico Lleras Acosta",
+      "Productos asociados Nombre del producto: Buenas practicas en investigacion, buenas practicas en laboratorio, buenas practicas clinicas. Uso de animales en investigacion Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: CORPORACIÓN CENTRO INTERNACIONAL DE ENTRENAMIENTO E INVESTIGACIONES MEDICAS - CIDEIM Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "32 Nombre del evento: Annual Bioethics Conference: The Ethics of ¿Making Babies¿ Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-04-06 00:00:00.0, 2017-04-07 00:00:00.0 en Boston - HARVARD MEDICAL SCHOOL - HARVARD UNIVERSITY Productos asociados Nombre del producto: ASSISTED REPRODUCTIVE TECHNOLOGIES: a look from biolaw through the cinem Tipo de producto: Producción técnica - Presentación de trabajo - Otro Instituciones asociadas Nombre de la institución: Harvard Medical School Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "32 Nombre del evento: Annual Bioethics Conference: The Ethics of ¿Making Babies¿ Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-04-06 00:00:00.0, 2017-04-07 00:00:00.0 en Boston - HARVARD MEDICAL SCHOOL - HARVARD UNIVERSITY",
+      "Productos asociados Nombre del producto: ASSISTED REPRODUCTIVE TECHNOLOGIES: a look from biolaw through the cinem Tipo de producto: Producción técnica - Presentación de trabajo - Otro",
+      "Instituciones asociadas Nombre de la institución: Harvard Medical School Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "33 Nombre del evento: 5° Foro de Bioética Clínica y Humanidades en Salud Tipo de evento: Otro Ámbito: Nacional Realizado el:2018-09-20 00:00:00.0, 2018-09-21 00:00:00.0 en BOGOTÁ, D.C. - Universidad Javeriana Productos asociados Nombre del producto: Técnicas de Procreación Humana Asistida: ¿Requiere el país un tránsito de la jurisprudencia a la legislación? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "33 Nombre del evento: 5° Foro de Bioética Clínica y Humanidades en Salud Tipo de evento: Otro Ámbito: Nacional Realizado el:2018-09-20 00:00:00.0, 2018-09-21 00:00:00.0 en BOGOTÁ, D.C. - Universidad Javeriana",
+      "Productos asociados Nombre del producto: Técnicas de Procreación Humana Asistida: ¿Requiere el país un tránsito de la jurisprudencia a la legislación? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente magistral",
+      "34 Nombre del evento: 56º Congreso Internacional de Americanistas (ICA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-15 00:00:00.0, 2018-07-20 00:00:00.0 en Salamanca - Universidad de Salamanca Productos asociados Nombre del producto: Técnicas de procreación humana asistida y familias homoparentales: una mirada desde el enfoque de derechos humanos en América Latina y el Caribe. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad de Salamanca Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "34 Nombre del evento: 56º Congreso Internacional de Americanistas (ICA) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-15 00:00:00.0, 2018-07-20 00:00:00.0 en Salamanca - Universidad de Salamanca",
+      "Productos asociados Nombre del producto: Técnicas de procreación humana asistida y familias homoparentales: una mirada desde el enfoque de derechos humanos en América Latina y el Caribe. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad de Salamanca Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "35 Nombre del evento: Protección de Datos Personales Tipo de evento: Otro Ámbito: Nacional Realizado el:2017-10-12 00:00:00.0, 2017-10-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Organizador",
+      "35 Nombre del evento: Protección de Datos Personales Tipo de evento: Otro Ámbito: Nacional Realizado el:2017-10-12 00:00:00.0, 2017-10-12 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Organizador",
+      "36 Nombre del evento: EVENTO EDUCACIÓN JURÍDICA EN EL MARCO DE LA CELEBRACIÓN DE LOS 50 AÑOS DE LA FACULTAD DE DERECHO DE LA UNIVERSIDAD DE LOS ANDES Tipo de evento: Seminario Ámbito: Nacional Realizado el:2018-09-17 00:00:00.0, 2018-09-18 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes Productos asociados Nombre del producto: Panel 4 - Ética y formación jurídica Tipo de producto: Producción técnica - Presentación de trabajo - Otro Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "36 Nombre del evento: EVENTO EDUCACIÓN JURÍDICA EN EL MARCO DE LA CELEBRACIÓN DE LOS 50 AÑOS DE LA FACULTAD DE DERECHO DE LA UNIVERSIDAD DE LOS ANDES Tipo de evento: Seminario Ámbito: Nacional Realizado el:2018-09-17 00:00:00.0, 2018-09-18 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Productos asociados Nombre del producto: Panel 4 - Ética y formación jurídica Tipo de producto: Producción técnica - Presentación de trabajo - Otro",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "37 Nombre del evento: I Congreso internacional en Políticas públicas en defensa de la inclusión, la diversidad y el género Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-23 00:00:00.0, 2018-07-24 00:00:00.0 en Salamanca - Universidad de Salamanca Productos asociados Nombre del producto: Las técnicas de procreación asistida y la adopción igualitaria: un camino hacia el reconocimiento de las familias homoparentales en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad de Salamanca Tipo de vinculación Patrocinadora Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente",
+      "37 Nombre del evento: I Congreso internacional en Políticas públicas en defensa de la inclusión, la diversidad y el género Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-23 00:00:00.0, 2018-07-24 00:00:00.0 en Salamanca - Universidad de Salamanca",
+      "Productos asociados Nombre del producto: Las técnicas de procreación asistida y la adopción igualitaria: un camino hacia el reconocimiento de las familias homoparentales en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad de Salamanca Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA ROCIO BERNAL CAMARGO Rol en el evento: Ponente"
+    ],
+    "redes_conocimiento_especializado": [
+      "Nombre de la red Red Latinoamericana y del Caribe de Bioética de Unesco Tipo de red Real, Creada el:2011-01-10 00:00:00.0, en Buenos Aires con participantes"
+    ],
+    "publicaciones_editoriales_no_especializadas": [
+      "Divulgación pública de la ciencia - Publicaciones editoriales no especializadas: cartillas, manual no especializado, periódicos, revistas, boletín, etc: Nombre del producto: Sujetos de especial protección, Fecha de presentación: 2020 - Enero, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://urosario.edu.co/revista-divulgacion-cientifica/cultura-y-sociedad/sujetos-de-especial-proteccion, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Conocimiento universitario frente al DIH y sus representaciones desde los medios de comunicación a partir de las movilizaciones sociales más relevantes del año 2008"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, JULIO GONZALEZ HOFMANN, MARINA HOFMANN, \"El Paradigma de la justicia social en el estado social de Derecho\" . En: Colombia Revista Proyección Universitaria ISSN: 0120-5951 ed: EDICIONES UNIBOYACÁ v. 22 fasc. 1 p.91 - 141 ,2002, DOI: Palabras: Justicia, Sociedad, Estado Social, Sectores: Educación,",
+        "titulo": "El Paradigma de la justicia social en el estado social de Derecho",
+        "doi": "Palabras:",
+        "anio": "2002"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"Autonomía y libre determinación de los pueblos indígenas en el marcon del Estado Social de Derecho de la Constitución Política Colombiana de 1991\" . En: Colombia REVISTA REPUBLICANA ISSN: 1909-4450 ed: corporacion universitaria republicana v. 4-5 fasc. p.15 - 32 ,2008, DOI: Palabras: DERECHO CONSTITUCIONAL, diversidad étnica y cultural, jurisdicción indígena, jurisdicción constitucional,",
+        "titulo": "Autonomía y libre determinación de los pueblos indígenas en el marcon del Estado Social de Derecho de la Constitución Política Colombiana de 1991",
+        "doi": "Palabras:",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: EDUARDO ALFONSO RUEDA BARRERA, ANDREA CABALLERO DUQUE, DIANA ROCIO BERNAL CAMARGO, LILIAN TORREGROSA ALMONACID, EDILMA MARLEN SUAREZ CASTRO, FRITZ EDUARDO GEMPELER RUEDA, NORA BADOUI, \"Pautas éticas para la asignación de recursos sanitarios escasos en el marco de la pandemia por COVID-19 en Colombia\" . En: Colombia REVISTA COLOMBIANA DE CIRUGIA ISSN: 2011-7582 ed: asociacion colombiana de cirugia v. 35 fasc. 2 p.281 - 289 ,2020, DOI: 10.30944/20117582.653 Palabras: COVID-19, virus SRARS, coronavirus, infecciones por coronavirus, pandemias, ética médica, recursos en salud,",
+        "titulo": "Pautas éticas para la asignación de recursos sanitarios escasos en el marco de la pandemia por COVID-19 en Colombia",
+        "doi": "10.30944/20117582.653",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANA ISABEL GOMEZ CORDOBA, SINAY AREVALO LEAL, DIANA ROCIO BERNAL CAMARGO, \"El derecho a la protección de datos personales, tecnologías digitales y pandemia por COVID-19 en Colombia\" . En: España REVISTA DE BIOETICA Y DERECHO ISSN: 1886-5887 ed: Universitat de Barcelona, Observatorio de Bioetica y Derecho v. 50 fasc. N/A p.271 - 294 ,2020, DOI: Palabras: COVID-19, derecho a la protección de datos personales, principios éticos, derechos humanos, nuevas tecnologías, vigilancia epidemiológica,",
+        "titulo": "El derecho a la protección de datos personales, tecnologías digitales y pandemia por COVID-19 en Colombia",
+        "doi": "Palabras:",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, NANCY MILENA BERNAL CAMARGO, \"Derecho al consumo informado: el caso de las bebidas azucaradas en Colombia\" . En: Colombia Repertorio de Medicina y Cirugia ISSN: 0121-7372 ed: Fundación Universitaria de Ciencias de la Salud - FUCS v. 29 fasc. N/A p.84 - 92 ,2020, DOI: 10.31260/RepertMedCir.01217273.967 Palabras: derecho a la información, derecho a la salud, edulcolorantes, obesidad, protección al consumidor,",
+        "titulo": "Derecho al consumo informado: el caso de las bebidas azucaradas en Colombia",
+        "doi": "10.31260/RepertMedCir.01217273.967",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): EDUARDO ALFONSO RUEDA BARRERA, EDILMA MARLEN SUAREZ CASTRO, FRITZ EDUARDO GEMPELER RUEDA, LILIAN TORREGROSA ALMONACID, ANDREA CABALLERO DUQUE, DIANA ROCIO BERNAL CAMARGO, NORA BADOUI, \"Pautas éticas para la reanimación cardiopulmonar en el contexto de la pandemia de COVID-19 en Colombia\" . En: Colombia BIOMEDICA ISSN: 0120-4157 ed: INST NACIONAL SALUD - COLOMBIA v. 40 fasc. 2 p.180 - 187 ,2020, DOI: 10.7705/biomedica.5762 Palabras: guía de práctica clínica, infección por coronavirus, código de ética, reanimación cardiopulmonar,",
+        "titulo": "Pautas éticas para la reanimación cardiopulmonar en el contexto de la pandemia de COVID-19 en Colombia",
+        "doi": "10.7705/biomedica.5762",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, MARIA LUCIA TORRES VILLARREAL, \"Learning legal ethics in the law clinics: ¿one hundred thousand housing law¿ for offences against minors \" . En: Reino Unido LEGAL ETHICS ISSN: 1460-728X ed: Routledge v. 22 fasc. 1-2 p.103 - 108 ,2019, DOI: 10.1080/1460728x.2019.1702778",
+        "titulo": "Learning legal ethics in the law clinics: ¿one hundred thousand housing law¿ for offences against minors ",
+        "doi": "10.1080/1460728x.2019.1702778",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANA ISABEL GOMEZ CORDOBA, DIANA ROCIO BERNAL CAMARGO, \"El derecho a la protección de datos personales en la investigación biomédica en Colombia: Una mirada desde el soft law y el hard law\" . En: Chile REVISTA CHILENA DE DERECHO Y TECNOLOGIA ISSN: 0719-2584 ed: Universidad de Chile v. 11 fasc. 1 p.361 - 396 ,2022, DOI: 10.5354/0719-2584.2022.66319 Palabras: derechos emergentes, datos personales, ética en investigación, material biológico,",
+        "titulo": "El derecho a la protección de datos personales en la investigación biomédica en Colombia: Una mirada desde el soft law y el hard law",
+        "doi": "10.5354/0719-2584.2022.66319",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"TECNICAS DE REPRODUCCION HUMANA ASISTIDA, MATERNIDAD SUBROGADA Y DERECHO DE FAMILIA\" . En: Colombia REVISTA REPUBLICANA ISSN: 1909-4450 ed: corporacion universitaria republicana v. 6 fasc. N/A p.15 - 30 ,2009, DOI: Palabras: Derechos, Presunción de maternidad, Reproducción asistida, maternidad subrogada, Sectores: Educación - Educación superior,",
+        "titulo": "TECNICAS DE REPRODUCCION HUMANA ASISTIDA, MATERNIDAD SUBROGADA Y DERECHO DE FAMILIA",
+        "doi": "Palabras:",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"Jurisdicciones constitucional y especial indigena colombianas\" . En: Colombia Diálogos De Saberes ISSN: 0124-0021 ed: Universidad Libre - Bogotá v. 31 fasc. N/A p.245 - 262 ,2009, DOI: Palabras: Derechos, derechos especiales, jurisdicción constitucional, jurisdicción indígena, monismo jurídico, pluralismo jurídico, diversidad étnica y cultural, autonomía, principios fundamentales, derechos fundamentales,",
+        "titulo": "Jurisdicciones constitucional y especial indigena colombianas",
+        "doi": "Palabras:",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"Diagnóstico Genético: una visión desde el derecho y la bioética\" . En: Colombia REVISTA REPUBLICANA ISSN: 1909-4450 ed: corporacion universitaria republicana v. 7 fasc. 7 p.39 - 50 ,2009, DOI: Palabras: Bioetica, Pruebas Genéticas, Diagnóstico Genético,",
+        "titulo": "Diagnóstico Genético: una visión desde el derecho y la bioética",
+        "doi": "Palabras:",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, FERNANDO GARCIA LEGUIZAMON, ANYELA MORENO MARTINEZ, \"Representaciones sociales de los Derechos Humanos protegidos por el Derecho Internacional Humanitario: aproximaciones a partir de diferenciales semánticos\" . En: Colombia Revista Via Iuris ISSN: 1909-5759 ed: Fundación Universitaria Los Libertadores v. 8 fasc. N/A p.72 - 92 ,2010, DOI: 0 Palabras: Derecho Internacional Humanitario, diferencial semántico, derechos humanos, representaciones sociales,",
+        "titulo": "Representaciones sociales de los Derechos Humanos protegidos por el Derecho Internacional Humanitario: aproximaciones a partir de diferenciales semánticos",
+        "doi": "0",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"Desplazamiento forzoso y derechos de las mujeres pertenecientes a comunidades afrodescendientes en Colombia\" . En: Colombia REVISTA REPUBLICANA ISSN: 1909-4450 ed: corporacion universitaria republicana v. 8 fasc. N/A p.71 - 80 ,2010, DOI: Palabras: Conflicto armado, Desplazamiento forzoso , Minorías étnicas, derechos de las mujeres, Afrodescendientes,",
+        "titulo": "Desplazamiento forzoso y derechos de las mujeres pertenecientes a comunidades afrodescendientes en Colombia",
+        "doi": "Palabras:",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FERNANDO GARCIA LEGUIZAMON, DIANA ROCIO BERNAL CAMARGO, ANYELA MORENO MARTINEZ, \"Representaciones sociales de los derechos humanos protegidos por el DIH: conceptualizaciones preliminares a un estudio analítico\" . En: Colombia REVISTA REPUBLICANA ISSN: 1909-4450 ed: corporacion universitaria republicana v. 9 fasc. N/A p.52 - 70 ,2010, DOI: Palabras: Derecho Internacional Humanitario, derechos humanos, representaciones sociales, Conflicto armado,",
+        "titulo": "Representaciones sociales de los derechos humanos protegidos por el DIH: conceptualizaciones preliminares a un estudio analítico",
+        "doi": "Palabras:",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: FERNANDO GARCIA LEGUIZAMON, DIANA ROCIO BERNAL CAMARGO, ANYELA MORENO MARTINEZ, \"Representaciones sociales de los derechos humanos protegidos por el derecho internacional humanitario en estudiantes de la Fundación Universitaria Los Libertadores\" . En: Colombia Revista De Derecho ISSN: 0121-8697 ed: editorial universidad del norte v. 34 fasc. N/A p.207 - 238 ,2010, DOI: Palabras: derechos humanos, Derecho Internacional Humanitario, grupo focal, diferencial semántico, representaciones sociales, Sectores: Educación - Educación superior,",
+        "titulo": "Representaciones sociales de los derechos humanos protegidos por el derecho internacional humanitario en estudiantes de la Fundación Universitaria Los Libertadores",
+        "doi": "Palabras:",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, NANCY MILENA BERNAL CAMARGO, \"Biotecnología y sistemas de salud en los paises en vía de desarrollo\" . En: Colombia Repertorio de Medicina y Cirugia ISSN: 0121-7372 ed: Fundación Universitaria de Ciencias de la Salud - FUCS v. 22 fasc. 1 p.54 - 63 ,2013, DOI: 0 Palabras: Bioetica, Salud, biotecnología, cooperación, países en desarrollo,",
+        "titulo": "Biotecnología y sistemas de salud en los paises en vía de desarrollo",
+        "doi": "0",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN THOMAS ORDONEZ ROTH, FABIO ANDRES COLMENARES BURGOS, ANNE GINCEL COLLAZOS, DIANA ROCIO BERNAL CAMARGO, \"Migraciones de los Kichwas-Otavalo en Bogotá\" . En: Colombia REVISTA DE ESTUDIOS SOCIALES ISSN: 0123-885X ed: UNIV ANDES v. 48 fasc. N/A p.43 - 56 ,2014, DOI: http://dx.doi.org/10.7440/res48.2014.04 Palabras: Migración indígena, Redes migratorias, Kichwa-Otavalo, Colombia, Ecuador,",
+        "titulo": "Migraciones de los Kichwas-Otavalo en Bogotá",
+        "doi": "http://dx.doi.org/10.7440/res48.2014.04",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, ANTONIO VARON MEJIA, GLADYS ADRIANA BECERRA BARBOSA, KELLY CHAIB DE MARES, ENRIQUE SECO MARTIN, \"Explotación sexual de niños, niñas y adolescentes: modelo de intervención\" . En: Colombia REVISTA LATINOAMERICANA DE CIENCIAS SOCIALES NINEZ Y JUVENTUD ISSN: 1692-715X ed: Revista Latinoamericana de Ciencias Sociales v. 11 fasc. 2 p.617 - 632 ,2013, DOI: 10.11600/1692715x.11211260512 Palabras: Explotación sexual de NNA, Empoderamiento jurídico, Representación legal,",
+        "titulo": "Explotación sexual de niños, niñas y adolescentes: modelo de intervención",
+        "doi": "10.11600/1692715x.11211260512",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"La solidaridad y las declaraciones internacionales de derechos humanos y bioética: el caso del derecho a la salud de los pueblos indígenas colombianos\" . En: Chile ACTA BIOETHICA ISSN: 1726-569X ed: UNIV CHILE, CENTRO INTERDISCIPLINARIO ESTUDIOS BIOETICA v. 19 fasc. 1 p.9 - 18 ,2013, DOI: 10.4067/S1726-569X2013000100002 Palabras: Bioetica, Salud, derechos humanos, pueblos indígenas, solidaridad,",
+        "titulo": "La solidaridad y las declaraciones internacionales de derechos humanos y bioética: el caso del derecho a la salud de los pueblos indígenas colombianos",
+        "doi": "10.4067/S1726-569X2013000100002",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, LEONARDO GUIZA SUAREZ, \"Bioprospecting in Colombia\" . En: Colombia UNIVERSITAS SCIENTIARUM ISSN: 2027-1352 ed: Pontificia Universidad Javeriana v. 18 fasc. 3 p.153 - 164 ,2013, DOI: 10.11144/Javeriana.SC18-2.bc Palabras: bioprospecting, biologic resources, genetic resources, research permit, public policy, biopiracy, environmental authority, Nagoya Protocol, Decision 391,",
+        "titulo": "Bioprospecting in Colombia",
+        "doi": "10.11144/Javeriana.SC18-2.bc",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"El acceso a recursos genéticos en pueblos indígenas y el Convenio de Diversidad Biologica\" . En: Colombia Civilizar ISSN: 1657-8953 ed: Fondo de Publicaciones Universidad Sergio Arboleda v. 13 fasc. 24 p.47 - 62 ,2013, DOI: 0 Palabras: pueblos indígenas, Convenio Diversidad Biológica, Recursos Genéticos,",
+        "titulo": "El acceso a recursos genéticos en pueblos indígenas y el Convenio de Diversidad Biologica",
+        "doi": "0",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"Derechos Humanos Implicados en las Investigaciones en Recursos Genéticos Humanos en Pueblos Indígenas Colombianos\" . En: España REVISTA DE DERECHO Y GENOMA HUMANO LAW AND THE HUMAN GENOME REVIEW CATEDRA DE DERECHO Y GENOMA HUMANO FUNDACION BBV DIPUTACION FORAL DE BIZKAIA ISSN: 1134-7198 ed: Universidad de Deusto v. 46 fasc. p.253 - 276 ,2017, DOI: Palabras: bioprospecting, derechos humanos, genetic resources, pueblos indígenas,",
+        "titulo": "Derechos Humanos Implicados en las Investigaciones en Recursos Genéticos Humanos en Pueblos Indígenas Colombianos",
+        "doi": "Palabras:",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, ANDREA PADILLA MUNOZ, EDUARDO DIAZ AMADO, \"Retos éticos de la investigación sociojurídica: Una revisión a partir de buenas prácticas en artículos publicados\" . En: Colombia REVISTA ESTUDIOS SOCIO JURIDICOS ISSN: 0124-0579 ed: v. 20 fasc. N/A p.107 - 131 ,2017, DOI: http://dx.doi.org/10.12804/revistas.urosario.edu.co/sociojuridicos/a.6043",
+        "titulo": "Retos éticos de la investigación sociojurídica: Una revisión a partir de buenas prácticas en artículos publicados",
+        "doi": "http://dx.doi.org/10.12804/revistas.urosario.edu.co/sociojuridicos/a.6043",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, \"Protección de los recursos genéticos de los pueblos indígenas en los sistemas universal e interamericano de derechos humanos\" . En: Colombia BOLETIN MEXICANO DE DERECHO COMPARADO ISSN: 0041-8633 ed: Universidad Nacional Autónoma de México. v. 138 fasc. N/A p.909 - 937 ,2013, DOI: 0 Palabras: pueblos indígenas, Recursos Genéticos, Sistema Universal de Derechos Humanos, Sistema Interamericano de Derechos Humanos,",
+        "titulo": "Protección de los recursos genéticos de los pueblos indígenas en los sistemas universal e interamericano de derechos humanos",
+        "doi": "0",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, JULIO CESAR GAITAN BOHORQUEZ, EDGAR IVAN LEON ROBAYO, \"Medicamentos biosimilares en Colombia: una revision desde el consumo informado\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 2145-4507 ed: Universidad del Rosario, v. 16 fasc. 2 p.311 - 338 ,2018, DOI: http://dx.doi.org/10.12804/revistas.urosario.edu.co/revsalud/a.6772 Palabras: medicamentos biológicos, medicamentos biosimilares, consumo informado, derecho a la salud, agencias reguladoras de medicamentos, barreras de acceso a medicamentos,",
+        "titulo": "Medicamentos biosimilares en Colombia: una revision desde el consumo informado",
+        "doi": "http://dx.doi.org/10.12804/revistas.urosario.edu.co/revsalud/a.6772",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CLAUDIA FABIOLA REY SARMIENTO, DIANA ROCIO BERNAL CAMARGO, JOHAN ANDRES AVENDANO ARIAS, \"Abordaje desde la complejidad a las barreras en la prestación de servicios de salud a consumidores de sustancias psicoactivas: estudio de caso en el modelo de salud colombiano\" . En: España HEALTH AND ADDICTIONS SALUD Y DROGAS ISSN: 1988-205X ed: Instituto de Investigacion de Drogodependencias, Universidad Miguel Hernandez v. 18 fasc. 2 p.5 - 26 ,2018, DOI: http://dx.doi.org/10.21134/haaj.v18i2.334 Palabras: complejidad, barreras de acceso, consumo de sustancias psicoactivas, modelo de salud colombiano, enfoque de derechos humanos,",
+        "titulo": "Abordaje desde la complejidad a las barreras en la prestación de servicios de salud a consumidores de sustancias psicoactivas: estudio de caso en el modelo de salud colombiano",
+        "doi": "http://dx.doi.org/10.21134/haaj.v18i2.334",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA ROCIO BERNAL CAMARGO, ANDREA PADILLA MUNOZ, \"Los sujetos de especial protección: construcción de una categoría jurídica a partir de la constitución política colombiana de 1991\" . En: Colombia JURIDICAS ISSN: 1794-2918 ed: Universidad De Caldas v. 15 fasc. 1 p.46 - 64 ,2018, DOI: 10.17151/jurid.2018.15.1.4.",
+        "titulo": "Los sujetos de especial protección: construcción de una categoría jurídica a partir de la constitución política colombiana de 1991",
+        "doi": "10.17151/jurid.2018.15.1.4",
+        "anio": "2018"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Libro resultado de investigación: DIANA ROCIO BERNAL CAMARGO, MANUEL JOSE BERNAL GARCIA, \"Gerencia Social. Un Enfoque Integral Para La Gestión De Políticas Y Programas Sociales\" En: Colombia 2007. ed:Uniboyaca ISBN: 9789789589746 v. 0 pags. 274 Palabras: Etica, Bioetica, Biojuridica, Areas: Ciencias Sociales -- Derecho -- Derecho , Sectores: Educación, Salud humana,"
+    ],
+    "capitulos_libro": [
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, Tipo: Otro capítulo de libro publicado ANA ISABEL GOMEZ CORDOBA, Tipo: Otro capítulo de libro publicado MARIA ANDREA CONTRERAS NIETO, \"Integridad e Investigación científica\" Diálogos Nacionales Sobre Ética De La Investigación: Memorias 2013-2014 . En: Colombia ISBN: 978-958-8290-70-6 ed: Cinep Colciencias , v. , p.182 - 208 ,2015 Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Capítulo de libro DIANA ROCIO BERNAL CAMARGO, \"LA BIOETICA EN EL CONTEXTO DE LA GLOBALIZACION\" La Globalización Y Su Incidencia En El Ámbito Juridico Colombiano . En: Colombia ISBN: 978-958-35-0873-8 ed: Editorial Temis , v. , p.85 - 107 N/A ,2012 Palabras: Bioetica, globalización, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Capítulo de libro DIANA ROCIO BERNAL CAMARGO, Tipo: Capítulo de libro LEONARDO GUIZA SUAREZ, Tipo: Capítulo de libro ENRIQUE PRIETO RIOS, Tipo: Capítulo de libro PAOLA MORENO LATORRE, \"Bioprospección y el Acuerdo de Paz\" Útopía u oportunidad fallida. Análisis crítico del Acuerdo de Paz . En: Colombia ISBN: 978-958-738-927-2 ed: , v. , p.273 - 294 ,2017 Palabras: bioprospecting, Conflicto armado, biologic resources, genetic resources, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, Tipo: Otro capítulo de libro publicado JULIAN LOPEZ RIPPE, Tipo: Otro capítulo de libro publicado JUAN CAMILO LLANO RAFFO, \"Técnicas de Procreación Humana Asistida: una mirada desde el bioderecho, la bioética y el cine\" Conflictos, dilemas y paradojas: cine y bioética en el inicio de la vida. . En: Colombia ISBN: 978-958-784-264-7 ed: , v. , p.91 - 119 ,2019 Palabras: Bioderecho, Bioetica, cine, Reproducción asistida, Areas: Ciencias Sociales -- Derecho -- Derecho , Humanidades -- Otras Humanidades -- Otras Humanidades,",
+      "Tipo: Capítulo de libro DIANA ROCIO BERNAL CAMARGO, Tipo: Capítulo de libro JULIO CESAR GAITAN BOHORQUEZ, Tipo: Capítulo de libro EDGAR IVAN LEON ROBAYO, Tipo: Capítulo de libro DANIEL FELIPE GAITAN PENA, Tipo: Capítulo de libro MANUEL ALEJANDRO ROSERO CASTILLO, \"Aproximación a los medicamentos biológicos: de la patente a la comercialización\" Innovación y propiedad intelectual: tendencias siglo XXI . En: Colombia ISBN: 978-84-1336-685-2 ed: Tirant Lo Blanch , v. , p.373 - 404 ,2020 Palabras: medicamentos biológicos, propiedad intelectual, barreras de acceso a medicamentos, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, \"Derechos Asociados a las células madre de cordón umbilical: cuestiones ético-legales\" Debates contemporáneos sobre la propiedad . En: Colombia ISBN: 9789587846164 ed: , v. , p.189 - 216 ,2021 Palabras: Bioderecho, derecho a la protección de datos personales, material biológico, Areas: Ciencias Sociales -- Derecho -- Derecho , Sectores: Educación - Educación superior, Educación - Formación permanente y otras actividades de enseñanza, incluso educación a distancia y educación especial, Salud humana - Políticas, planeamiento y gestión en salud,",
+      "Tipo: Capítulo de libro DIANA ROCIO BERNAL CAMARGO, Tipo: Capítulo de libro ANA ISABEL GOMEZ CORDOBA, \"Restricciones a los derechos humanos en el marco de emergencias sanitarias: de la ficción del cine a la pandemia por el virus SARS-CoV-2\" Notas de viaje. Diálogos de bioética y cine en tiempos de pandemia . En: Colombia ISBN: 978-958-739-260-9 ed: Ediciones El Bosque , v. , p.163 - 189 ,2022 Palabras: COVID-19, derechos humanos, Sistema Universal de Derechos Humanos, Sistema Interamericano de Derechos Humanos, Areas: Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Ética, Ciencias Sociales -- Derecho -- Derecho , Sectores: Educación - Educación superior, Salud humana - Políticas, planeamiento y gestión en salud, Otros sectores - Otro,",
+      "Tipo: Capítulo de libro DIANA ROCIO BERNAL CAMARGO, \"Vivificación del pluralismo en los procesos de integración suramericana\" Conflitos Sociais E Perspectivas Da Paz . En: Brasil ISBN: 978-85-86225-70-3 ed: , v. , p.331 - 346 1 ,2012 Palabras: pluralismo jurídico, derechos humanos, solidaridad, Areas: Ciencias Sociales -- Derecho -- Derecho , Sectores: Administración pública, defensa y seguridad social - Política económica y administración pública en general,",
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, \"El bebé medicamento: dos visiones de una misma realidad\" Memorias Del Tercer Congreso Internacional De La Redbioetica Unesco Para America Latina Y El Caribe . En: Colombia ISBN: 978-958-739-013-1 ed: Ediciones Universidad El Bosque , v. , p.413 - 420 ,2010 Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, \"Biopolítica: una herramienta para el desarrollo y la inclusión de las minorías étnicas\" Las Políticas Públicas De Las Diversidades, Identidad Y Emancipación . En: Colombia ISBN: 958-719-370-9 ed: Unilibros Universidad Nacional De Colombia , v. , p.37 - 64 1 ,2009 Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, \"Existencia y legitimidad de la sociedad civil en la ciudad de Tunja\" Memorias Del Premio Al Mérito Investigativo De La Facultad De Ciencias De La Salud \"Manuel Elkin Patarroyo\" . En: Colombia ISBN: 978-958-8642-00-0 ed: Kimpres Ltda , v. , p.22 - 30 ,2010 Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, \"Bioética y derechos humanos: de la declaración a la realidad\" Problemas De La Filosofía Del Derecho, La Política Y La Argumentación Jurídica . En: Colombia ISBN: 978-958-98978-8-1 ed: Universidad Libre - Bogotá , v. , p.607 - ,2010 Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Tipo: Otro capítulo de libro publicado DIANA ROCIO BERNAL CAMARGO, \"Reflexiones jurídicas en torno de la bioética\" Historia Y Fundamentos De La Bioética: En Camino Hacia La Biopolítica . En: Colombia ISBN: 978-958-97454-7-2 ed: Centro De Estudios Sociales De La Universidad Nacional De Colombia , v. , p.16 - 33 ,2007 Areas: Ciencias Sociales -- Derecho -- Derecho ,"
+    ],
+    "informes_tecnicos": [
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DIANA ROCIO BERNAL CAMARGO, CLAUDIA FABIOLA REY SARMIENTO, Diseno y validacion cinco (5) herramientas que mejoran los servicios de tratamiento a las adicciones fundamentadas en el Sistema General de Seguridad Social en Salud y normatividad adicional aplicable., Nombre comercial: , contrato/registro: PO220001399, . En: Colombia, ,2016, 0 meses p.240 Areas: Ciencias Sociales -- Derecho -- Derecho ,"
+    ],
+    "concepto_t_cnico": [
+      "Producción técnica - Concepto técnico: DIANA ROCIO BERNAL CAMARGO, JUAN THOMAS ORDONEZ ROTH, Concepto de Constitucional Ley 1801 de 2016, artículos 43 y 44. Institución solicitante: Corte Constitucional . En: BOGOTÁ, D.C.. Fecha solicitud: Febrero - 2018 y Fecha de envío: Marzo - 2018. Número consecutivo del concepto: 0236 Areas: Ciencias Sociales -- Derecho -- Derecho , Sectores: Administración pública, defensa y seguridad social - Servicios prestados por la administración pública en la esfera de la justicia,"
+    ],
+    "informes_de_investigaci_oacuten": [
+      "Producción técnica - Informes de investigación: DIANA ROCIO BERNAL CAMARGO, LA CIUDAD DE LOS NIÑOS EN EL POT DE TUNJA . En: Colombia, ,2015, Areas: Ciencias Sociales -- Derecho -- Derecho ,",
+      "Producción técnica - Informes de investigación: DIANA ROCIO BERNAL CAMARGO, Informe Final ¿Reconocimiento y ejercicio de los derechos de los migrantes indígenas no reconocidos en Bogotá D.C.¿ . En: Colombia, ,2013, Areas: Ciencias Sociales -- Derecho -- Derecho ,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: DIANA ROCIO BERNAL CAMARGO, Perspectiva bioética del derecho a la ciudad . En: Colombia, ,2015, finalidad: Insumo teórico con miras a la construcción de una red en torno a la ciudad Areas: Ciencias Sociales -- Derecho -- Derecho ,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo El Bioderecho en el Contexto Universitario de Boyacá Inicio: Enero 2007 Fin proyectado: Diciembre 2007 Fin: Diciembre 2007 Duración 12 Resumen La Bioetica y la biojuridica son temas poco conocidos en el ambiente profesional, pero que tiene una fuerte tendencia en el medio social, la presente investigación pretende profundizar en el contexto del departamento de boyacá.",
+      "Tipo de proyecto: Investigación y desarrollo Bioprospección en Colombia Inicio: Febrero 2012 Fin proyectado: Marzo 2013 Fin: Abril 2013 Duración 12 Resumen El objetivo del proyecto es generar una base que permita identificar el estado de las investigaciones en acceso a recursos genéticos e investigación en diversidad biológica en el país.",
+      "Tipo de proyecto: Investigación y desarrollo Regulación de Medicamentos de origen biológico en Colombia: un análisis desde la bioética y el derecho Inicio: Febrero 2015 Fin: Diciembre 2015 Duración Resumen Acorde con la Organización Mundial de la Salud (OMS), el acceso equitativo a medicamentos, seguros y de calidad, constituye un factor de gran importancia para el goce los más altos estándares del derecho a la salud. Por esta razón, en la 61ª Asamblea Mundial de la Salud, se presenta la ¿Estrategia mundial y plan de acción sobre salud pública, innovación y propiedad intelectual¿, con el fin principal de ¿promover una nueva manera de concebir la innovación y el acceso a los medicamentos, así como proporcionar, sobre la base de las recomendaciones formuladas en el informe de la CIPIH, un marco a plazo medio que ofrezca una base más sólida y sostenible para las actividades de investigación y desarrollo en materia de salud orientadas por las necesidades y centradas en las enfermedades que afectan de manera desproporcionada a los países en desarrollo, así como proponer prioridades y objetivos claros de investigación y desarrollo y estimar las necesidades de financiación en esta esfera¿ (OMS, 2008) Acorde con los informes de la OMS, más de la tercera parte de la población mundial se encuentra en situación de desventaja frente al acceso regular a medicamentos esenciales y capaces de salvar la vida, muchos de los cuales son de aquellos gracias al desarrollo biotecnológico en el sector farmacéutico. Esta situación genera una brecha particular en la materia entre los llamados países desarrollados y países en vía de desarrollo. La necesidad de fijar políticas de protección de la población y de la propiedad intelectual en materia de acceso a medicamentos, ha sido objetivo de diferentes organizaciones en especial de la Unión Europea y la Comunidad Andina de Naciones, que en 2007 iniciaron un Acuerdo de Asociación en materia de Propiedad Intelectual en acceso a medicamentos. La pregunta de investigación se centra en ¿Cómo se resuelve actualmente la tensión entre, por una parte, el derecho de acceso a medicamentos de alta tecnología por parte de los usuarios de los servicios de salud y, por otra, las regulaciones derivadas de compromisos internacionales adquiridos por el país en materia de protección a la propiedad intelectual y de libre competencia?, de forma que el objetivo general pretende determinar si la política de Colombia coherente entre sí y con los lineamientos de la OMS y permite a los usuarios de los sistemas de salud el acceso real y efectivo a los medicamentos de alto costo como mecanismos para la consecución del derecho a los estándares más altos y de calidad de salud en la región.",
+      "Tipo de proyecto: Investigación y desarrollo LA CIUDAD DE LOS NIÑOS EN EL POT DE TUNJA Inicio: Enero 2015 Fin: Diciembre 2015 Duración Resumen La investigación pretende determinar en qué medida los niños tienen participación en la configuración del ordenamiento territorial, teniendo en cuenta su calidad de habitantes de la ciudad y de sujetos pasivos del discurso de la sostenibilidad. La idea de esta investigación nació a partir del conocimiento del proyecto internacional ¿La ciudad de los niños¿, inspirado por la obra de Francesco Tonucci, que se inició en Fano (Italia) en mayo de 1991 y trabaja hacia la aplicación de una nueva filosofía de gobierno de la ciudad que considera a los niños como parámetro y como garantía de las necesidades de todos los ciudadanos. A partir de tal experiencia significativa como ejemplo, se quiere identificar cual es el modelo de ciudad proyectada en los componentes general y urbano del POT de Tunja y determinar como corresponde frente a la ciudad idealizada por los niños, para lo cual se realizará una cartografía social que permita interpretar las tendencias que rigen la percepción que tienen los niños del territorio. También se analizará la normatividad que favorece o limita la participación de los niños en el ordenamiento territorial en Colombia y en el ámbito local, con el fin de formular propuestas para la futura incorporación de las percepciones de los niños y niñas en el proceso participativo de ordenamiento del territorio. La propuesta de investigación será desarrollada en la ciudad de Tunja, teniendo como población objetivo a niños entre los 5 a 12 años de diferentes estratos sociales. Se plantea una duración de un año para el proyecto de investigación, lapso durante el cual se pretende recolectar datos sobre percepciones de la ciudad de grupos de niños, para ser contrastados con el modelo de ciudad que se propone en el Plan de Ordenamiento Territorial.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Resolución de Conflictos en la Cuenca del Río Seco: Un enfoque desde los DDHH Inicio: Septiembre 2016 Fin: Julio 2017 Duración Resumen Se busca desarrollar una agenda interinstitucional para el fortalecimiento de los procesos de gobernanza y gobernabilidad en la cuenca del río Seco y otros directos al Magdalena, y por otro lado, alimentar la línea base, actualizar los contenidos y accesos y desarrollar una aplicación para dispositivos móviles del Observatorio Virtual de Agendas Interinstitucionales que se encuentra disponible en: http://www.observatorioambientalcar.co",
+      "Tipo de proyecto: Investigación y desarrollo Trata de personas y delitos sexuales contra niños, niñas y adolescentes. Inicio: Agosto 2011 Fin: Enero 2012 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Derechos Humanos Implicados en las Investigaciones en Recursos Genéticos Humanos de Pueblos Indígenas Colombianos Inicio: Julio 2011 Fin: Junio 2013 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Reconocimiento y ejercicio de los derechos de los migrantes indígenas no reconocidos en Bogotá D.C Inicio: Agosto 2012 Fin: Julio 2013 Duración Resumen El objetivo primordial de este proyecto es Identificar las necesidades de los miembros del grupo Embera no reconocidos como desplazados y de los miembros del grupo indígena Kichwa no pertenecientes al cabildo, ambos asentados en el Distrito Capital, con el fin de generar herramientas que les permita acceder a diferentes servicios para la atención de sus necesidades básicas. Adicionalmente, tenemos - Determinar las causas de la migración de los indígenas del pueblo Embera y los indígenas Kichwa - Examinar la percepción que tienen estos pueblos indígenas respecto de los mecanismos que les brinda el Distrito para el ejercicio de su derechos y las carencias que en ellos encuentran - Generar herramientas que les permita acceder a los servicios que ofrece el Distrito para indígenas reconocidos como desplazados y las personas migrantes que pertenecen al cabildo Kichwa.",
+      "Tipo de proyecto: Investigación y desarrollo Tratamiento de muestras biológicas y datos personales en la investigación biomédica en Hospitales Universitarios de III y IV Nivel en Bogotá D.C. Inicio: Enero 2016 Fin: Diciembre 2016 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Retos de la atención en salud sexual y reproductiva en el campo de la salud materna y neonatal Inicio: Mayo 2018 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Incidencia de la jurisdicción consitucional en la jurisdicción especial indígena respecto de los derechos de autonomía y libre determinación de los pueblos Inicio: Agosto 2008 Fin proyectado: Abril 2009 Fin: Febrero 2009 Duración 8 Resumen Este artículo hace una revisión respecto de la incidencia recíproca entre la jurisdicción constitucional y la jurisdicción especial indígena en relación con la autonomía y la libre determinación de los pueblos indígenas, en el marco de las discusiones de interaccionismo cultural: integracionismo cultural y pluriculturalismo. Los cual son el sustento sociológico del monismo y el pluralismo jurídico respectivamente, de donde se infiere que la situación actual de los sistemas verdaderamente pluralistas hacen uso de un diálogo intercultural e interdisciplinar entre las dos jurisdicciones para un mejor funcionamiento de ordenamiento jurídico en pro tanto de la estabilidad y la seguridad jurídica de la Constitución como de los derechos de las minorías étnicas en general. En este orden de ideas, la revisión presenta los antecedentes y la situación actual de la protección de la jurisdicción especial indígena en el contexto nacional e internacional, e igualmente se hace referencia a las principales posiciones jurisprudenciales en relación con la autonomía de la jurisdicción especial indígena, lo cual lleva a señalar que el punto de incidencia entre una y otra jurisdicción son los conceptos de diversidad, identidad y cosmovisión étnica ¿ por parte de la jurisdicción indígena- y del respeto a los principios y derechos fundamentales constitucionales ¿ por parte de la jurisdicción constitucional.",
+      "Tipo de proyecto: Investigación y desarrollo Evaluación de los principios y regulaciones que orientan las valoraciones de Ensayos Clínicos patrocinados por entidades internacionales en Comités de Ética de Investigación en Colombia Inicio: Noviembre 2014 Fin: Abril 2016 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Cine en la enseñanza de la bioética Inicio: Enero 2016 Fin: Junio 2016 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Protección de los derechos de los niños, niñas y adolescentes en los sistemas internacionales y regionales de derechos humanos Inicio: Diciembre 2009 Fin proyectado: Noviembre 2010 Fin: Junio 2011 Duración 12 Resumen El proyecto busca determinar la existencia y eficacia medidas, estrategias y garantias del sistema juridico internacional y lo sistemas regionales de derechyos humanos en relación con al protección para la proteccion de derechos de los niños, niñas y adolescentes",
+      "Tipo de proyecto: Investigación y desarrollo Conocimiento universitario frente al DIH y sus representaciones desde los medios de comunicación a partir de las movilizaciones sociales más relevantes del año 2008 Inicio: Febrero 2009 Fin proyectado: Diciembre 2009 Fin: Febrero 2010 Duración 10 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Nuevas tecnologias sobre la vida y su incidencia en el derecho de familia Inicio: Agosto 2008 Fin proyectado: Noviembre 2009 Fin: Noviembre 2009 Duración 15 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Perspectiva bioética de la salud y su relación con otros derechos humanos en países en vía de desarrollo Inicio: Junio 2011 Fin: Diciembre 2016 Duración 24 Resumen"
+    ]
+  }
+}

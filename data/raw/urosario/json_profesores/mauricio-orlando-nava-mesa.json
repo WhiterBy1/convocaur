@@ -1,0 +1,775 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mauricio-orlando-nava-mesa",
+  "nombre": "Mauricio O. Nava-Mesa",
+  "cargo_principal": "Profesor asociado de carrera",
+  "email": "mauricio.nava@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3354",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3984/Nava.jpg",
+  "afiliaciones": [
+    "Researcher (ResearchOrganization) - Instituto de Medicina Traslacional - IMT - Universidad del Rosario",
+    "Investigador  - Grupo de Neurociencias de la Universidad del Rosario (NEUROS) - Universidad del Rosario",
+    "Profesor asociado de carrera - Laboratorio de investigación en neurociencia básica (NeURos) - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=55352893900",
+    "google_scholar": "https://scholar.google.com/citations?user=4o01BwMAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/e19b70af-d1e7-4177-b1cf-f52ea516462c",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001468737",
+    "orcid": "http://orcid.org/0000-0001-8458-7862"
+  },
+  "areas_investigacion": [
+    "Alzheimer (LCSH)",
+    "Epilepsy (LCSH)",
+    "Memory (LCSH)",
+    "Neuroscience",
+    "Stress"
+  ],
+  "perfil_profesional": "Dr. Mauricio Nava Mesa is a medical doctor (MD) from the Universidad Nacional de Colombia, an institution where he also completed a master's degree in Physiology with an emphasis in Neurophysiology (meritorious thesis). Later, he completed a master's and a doctorate in Neurosciences at the University of Salamanca (Spain) (thesis with a mention of Summa Cum Laude), where he was trained as electrophysiologist. Currently, Dr. Nava is Associate Professor at the Universidad del Rosario- School of Medicine, a member of the Neuroscience Center (Neurovitae) and the Neuroscience research group (NEUROS) of the same institution. He teaches in the areas of basic neuroscience and psychopharmacology, in undergraduate programs of medicine, rehabilitation, and psychology, as well as a postgraduate professor in medical specialties such as Neurology, Psychiatry, Pain medicine, and in the doctorate of biomedical sciences. His main research projects included the physiology of the hippocampus and the opioid system, the stress effects on memory and the pathophysiology of neurodegenerative diseases such as Alzheimer's Disease. He has published his research in multiple international journals in the area of basic neurosciences and translational neuroscience, as well as participated in different congresses on neuroscience and neurology. Some of his papers are above 97% of views and citations in important journals such as Frontiers in Molecular Neurosciences and CNS Neurosciences and Therapeutics. He has been a visiting professor at European Universities and also performs collaborative network with multiple institutions in Europe, the United States, and Canada, as well as national universities.",
+  "formacion_academica": [
+    "2004, Médico Cirujano, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2008, Magíster en Fisiología, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2010, Máster Universitario en Neurociencias, Universidad de Salamanca",
+    "2011, Doctor en Neurociencias, Universidad de Salamanca"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Retinal and Vascular Findings in Optical Coherence Tomography in Healthy Cognitive Patients With Alzheimer Disease Biomarkers: A Systematic Review and Meta-Analysis",
+      "fecha": "2025-4-1",
+      "enlace": "https://doi.org/10.1097/WAD.0000000000000669"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Diagnostic Accuracy of Screening Tests for Diabetic Peripheral Neuropathy: An Umbrella Review",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1155/jdr/5902036"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "BOARD-FTD-PACC: a graphical user interface for the synaptic and cross-frequency analysis derived from neural signals",
+      "fecha": "2023-5-8",
+      "enlace": "https://doi.org/10.1186/s40708-023-00191-x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Role of Calcium Modulation in the Pathophysiology and Treatment of Alzheimer’s Disease",
+      "fecha": "2023-5-22",
+      "enlace": "https://doi.org/10.3390/ijms24109067"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Vitaminas B neurotrópicas y neuropatía periférica: estado del arte y acuerdo de expertos",
+      "fecha": "2023-12-11",
+      "enlace": "https://doi.org/0.22379/anc.v39i4.1201"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Vitaminas B neurotrópicas y neuropatía periférica: estado del arte y acuerdo de expertos",
+      "fecha": "2023-10-9",
+      "enlace": "https://doi.org/10.22379/anc.v39i4.1201"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Mechanisms of action of vitamin B1 (thiamine), B6 (pyridoxine), and B12 (cobalamin) in pain: a narrative review",
+      "fecha": "2022-2-14",
+      "enlace": "https://doi.org/10.1080/1028415X.2022.2034242"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Astrocytes as a Therapeutic Target in Alzheimer’s Disease–Comprehensive Review and Recent Developments",
+      "fecha": "2022-11-7",
+      "enlace": "https://doi.org/10.3390/ijms232113630"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "G-protein-gated inwardly rectifying potassium (kir3/ girk) channels govern synaptic plasticity that supports hippocampal-dependent cognitive functions in male mice",
+      "fecha": "2021-8-18",
+      "enlace": "https://doi.org/10.1523/JNEUROSCI.2849-20.2021"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Papel de las vitaminas B, tiamina, piridoxina y cianocobalamina en el dolor de espalda y otras condiciones musculoesqueléticas: revisión narrativa",
+      "fecha": "2021-11-21",
+      "enlace": "https://doi.org/10.1016/j.semerg.2021.01.010"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Guillain–Barré syndrome with bilateral facial diplegia secondary to severe acute respiratory syndrome coronavirus-2 infection: a case report",
+      "fecha": "2021-11-15",
+      "enlace": "https://doi.org/10.1186/s13256-021-03120-w"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Apparent False Lateralization of Seizure Onset by Scalp EEG in Temporal Lobe Epilepsy Associated with Cerebral Cavernous Malformation: A Case Report and Overview",
+      "fecha": "2020-8-24",
+      "enlace": "https://doi.org/10.3390/brainsci10090584"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Pathophysiological mechanisms of cognitive impairment and neurodegeneration by Toxoplasma gondii infection",
+      "fecha": "2020-6-12",
+      "enlace": "https://doi.org/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7349234/"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Update on safety profiles of vitamins B1, B6, and B12: A narrative review",
+      "fecha": "2020-12-20",
+      "enlace": "https://doi.org/10.2147/TCRM.S274122"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Acute Effects of Two Different Species of Amyloid-β on Oscillatory Activity and Synaptic Plasticity in the Commissural CA3-CA1 Circuit of the Hippocampus",
+      "fecha": "2020-12-19",
+      "enlace": "https://doi.org/10.1155/2020/8869526"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Herramientas para la evaluación integral de la función sexual en pacientes con esclerosis múltiple",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.1016/j.nrl.2020.04.028"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "B Vitamins in the nervous system: Current knowledge of the biochemical modes of action and synergies of thiamine, pyridoxine, and cobalamin",
+      "fecha": "2019-9-6",
+      "enlace": "https://doi.org/10.1111/cns.13207"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effect of Combined Diclofenac and B Vitamins (Thiamine, Pyridoxine, and Cyanocobalamin) for Low Back Pain Management: Systematic Review and Meta-analysis.",
+      "fecha": "2019-9-16",
+      "enlace": "https://doi.org/10.1093/pm/pnz216"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The opioid system in stress-induced memory disorders: From basic mechanisms to clinical implications in post-traumatic stress disorder and Alzheimer's disease",
+      "fecha": "2019-1-10",
+      "enlace": "https://doi.org/10.1016/j.pnpbp.2018.08.011"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Interaction Between Stress and Addiction: Contributions From Latin-American Neuroscience",
+      "fecha": "2018-12-21",
+      "enlace": "https://doi.org/10.3389/fpsyg.2018.02639"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Visual Features in Alzheimer’s Disease: From Basic Mechanisms to Clinical Overview",
+      "fecha": "2018-10-14",
+      "enlace": "https://doi.org/10.1155/2018/2941783"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Proton Pump Inhibitors and Dementia: Physiopathological Mechanisms and Clinical Consequences",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/10.1155/2018/5257285"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Involvement of Astrocytes in Alzheimer’s Disease from a Neuroinflammatory and Oxidative Stress Perspective",
+      "fecha": "2017-12-1",
+      "enlace": "https://doi.org/10.3389/fnmol.2017.00427"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Rapidly progressive cognitive impairment with neuropsychiatric symptoms as the initial manifestation of status epilepticus",
+      "fecha": "2017-1-1",
+      "enlace": "https://doi.org/10.1016/j.ebcr.2016.11.002"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Pulmonary Embolism Secondary to Inappropriate use of Oral Contraceptive Therapy",
+      "fecha": "2016-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e4d33e65-3cfa-48a6-8b86-4b55f4ffedee"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Usos terapéuticos potenciales de los antagonistas opioides: Fisiopatología y evidencia preclínica",
+      "fecha": "2015-1-1",
+      "enlace": "https://doi.org/10.15446/rcciquifa.v44n3.56284"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "GABAergic neurotransmission and new strategies of neuromodulation to compensate synaptic dysfunction in early stages of Alzheimer's disease",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.3389/fncel.2014.00167"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Amyloid-β induces synaptic dysfunction through G protein-gated inwardly rectifying potassium channels in the fimbria-CA3 hippocampal synapse",
+      "fecha": "2013-7-25",
+      "enlace": "https://doi.org/10.3389/fncel.2013.00117"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Divergent short- and long-term effects of acute stress in object recognition memory are mediated by endogenous opioid system activation",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1016/j.nlm.2013.09.002"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Embryonic amygdalar transplants in adult rats with motor cortex lesions: A molecular and electrophysiological analysis",
+      "fecha": "2011-12-1",
+      "enlace": "https://doi.org/10.3389/fneur.2011.00059"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "B vitamins on the nervous system: A focus on peripheral neuropathy",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.1016/b978-0-323-89835-5.00013-2"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Neurobiología del dolor: aspectos morfológicos y fisiológicos",
+      "fecha": "2022-3-31",
+      "enlace": "https://doi.org/10.12804/urosario9789587849257"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Medidas de prevención para el deterioro cognitivo del adulto mayor",
+      "fecha": "2021-7-1",
+      "enlace": "https://doi.org/10.12804/urosario9789587847147"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Sueño y ensoñación en el cine",
+      "fecha": "2019-6-1",
+      "enlace": "https://doi.org/10.2307/j.ctvpbnp0r.12"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Fisiología de la circulación encefálica",
+      "fecha": "2017-5-31",
+      "enlace": "https://doi.org/10.2307/j.ctt1t6p6sm.22"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Fisiopatología de la epilepsia",
+      "fecha": "2017-5-31",
+      "enlace": "https://doi.org/10.2307/j.ctt1t6p6sm.16"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Propiedades eléctricas de las neuronas",
+      "fecha": "2017-5-31",
+      "enlace": "https://doi.org/10.2307/j.ctt1t6p6sm.15"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Sinapsis",
+      "fecha": "2017-5-31",
+      "enlace": "https://doi.org/10.2307/j.ctt1t6p6sm.14"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Neurona y glía: aspectos estructurales y funcionales",
+      "fecha": "2017-4-30",
+      "enlace": "https://doi.org/10.2307/j.ctt1t6p6sm.13"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "GABAergic Neurotransmission and Alzheimer Disease: An Emerging Therapeutic Scenario?",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.2174/97816810858521170501"
+    }
+  ],
+  "total_publicaciones": 40,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Fármacos osteometabólicos en el tratamiento del síndrome de dolor regional complejo: Revisión sistemática. Orden interna",
+      "fecha": "2026-01-19 - 2027-01-19",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F925bde47-92b0-4dfb-b14e-0a12131be81e"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Revisión sistemática sobre métodos de evaluación en neuropatía periférica",
+      "fecha": "2022-04-20 - 2023-04-20",
+      "enlace": "https://research-hub.urosario.edu.co/display/c992e80c-e001-432e-a68a-1c0e349e94de"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Clonazepam como primera línea de manejo del estado epiléptico en adultos",
+      "fecha": "2020-11-01 - 2021-05-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9db36533-7b80-4ac2-80f9-bec2ee03ba3f"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Efectos inmunológicos de la infección de Toxoplasma y su relación con la Enfermedad de Alzheimer.",
+      "fecha": "2019-03-11 - 2020-12-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1a763d8c-7473-4bcc-8e98-dd521cea51a4"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Falsa lateralización epiléptica por EEG en epilepsia del lóbulo temporal asociada con malformación cavernosa cerebral.",
+      "fecha": "2019-07-01 - 2020-12-14",
+      "enlace": "https://research-hub.urosario.edu.co/display/e4db9e79-2597-49ae-b325-02f8d0c99496"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Interacción entre el estrés y las adicciones: Contribuciones de la Neurociencia Latinoamericana",
+      "fecha": "2018-07-01 - 2019-07-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F13877d7a-ef8c-4e23-b589-0dd1a5cc4840"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Seguridad de los inhibidores de la bomba de protones y el riesgo de demencia: revisión de la literatura y mecanismos fisiopatológicos",
+      "fecha": "2017-06-01 - 2019-02-28",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F11ef653d-239f-4f30-8bfe-8167eacfaccd"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Estudio de genes candidatos sobre la efectividad y seguridad de la medicación anticonvulsiva en un grupo de pacientes colombianos afectados de epilepsia",
+      "fecha": "2017-01-17 - 2018-12-14",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F01b98808-4bff-4f02-9315-fd92513f757a"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Efectos del péptido Beta Amiloide sobre la neurotransmisión septo-hipocampal. Análisis Neurofisiológico.",
+      "fecha": "2017-01-01 - 2018-12-09",
+      "enlace": "https://research-hub.urosario.edu.co/display/f5559b60-6ee3-469c-b60d-d6a1354c3e75"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Involvement of astrocytes in Alzheimer´s disease from a neuroinflammatory and oxidative stress perspective",
+      "fecha": "2017-06-01 - 2018-07-01",
+      "enlace": "https://research-hub.urosario.edu.co/display/d88aeea8-1dd7-45ac-92aa-a8e171d4fe72"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Efecto terapéutico de extractos cannabinoides (nativos) sobre estrés oxidativo y neurodegeneración en C. elegans",
+      "fecha": "2023-11-02 - 2025-11-02",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6d06f0b9-cc0f-443e-8c14-54ff91d25a6d"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Características visuales en la enfermedad de Alzheimer: desde los mecanismos básicos hasta la vigilancia clínica",
+      "fecha": "2018-01-11 - 2018-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/display/b2f37439-12b6-46df-b1a1-b029a1fc4f11"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Revisión sistemática sobre la combinación de las vitaminas del complejo B con diclofenaco para manejo del dolor",
+      "fecha": "2016-12-01 - 2018-12-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F094cb0fe-7d97-4eae-8456-68e81d684be5"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Actividad plástica y oscilatoria poblacional espontánea y provocada en conexiones neuronales en un modelo in vivo de enfermedad de Alzheimer"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Apparent false lateralization of seizure onset by scalp eeg in temporal lobe epilepsy associated with cerebral cavernous malformation: a case report and overview"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Naltrexona como tratamiento antidepresivo coadyuvante en pacientes con depresión y trastorno por consumo de alcohol. Revisión sistemática"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Rol de la Calcineurina en los procesos de Plasticidad Sináptica en modelos preclínicos de la enfermedad de Alzheimer: revisión sistemática"
+    }
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/mauricio-nava-mesa-66475079/"
+    ],
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001468737"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0001-8458-7862"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=4o01BwMAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/e19b70af-d1e7-4177-b1cf-f52ea516462c"
+    ],
+    "scopus_id": [
+      "55352893900"
+    ]
+  },
+  "id": "mauricio-orlando-nava-mesa",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor asociado de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001468737",
+    "cod_rh": "0001468737",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Senior (IS) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "mauricio orlando nava mesa",
+      "Nombre en citaciones": "NAVA MESA, MAURICIO ORLANDO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Linkedln",
+      "Repositorios institucionales"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado Universidad De Salamanca Neurociencias Septiembrede2008 - Enerode 2012",
+      "Maestría/Magister UNIVERSIDAD NACIONAL DE COLOMBIA Magister en Fisiología Enerode2006 - Noviembrede 2008 Efecto del bloqueo de receptores opiáceos sobre los cambios inducidos por el estrés agudo en la memoria de reconocimiento de objetos",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA MEDICINA Enerode1999 - Diciembrede 2004 N/A"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Abril de 2012 de Actual Actividades de docencia - Pregrado - Nombre del curso: Fisiología- Neurociencias, 0 Febrero 2007",
+      "Universidad De Castilla - La Mancha Dedicación: 40 horas Semanales Agosto de 2016 Octubre de 2016",
+      "Universidad De Salamanca Dedicación: 30 horas Semanales Abril de 2010 Octubre de 2010 Actividades de investigación - Investigación y Desarrollo - Titulo: Papel de la proteína NEDD 4-2 sobre la actividad glutamatergica en neuronas de hipocampo Abril 2010 Octubre 2010",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA Dedicación: 6 horas Semanales Marzo de 2007 Agosto de 2008 Actividades de docencia - Pregrado - Nombre del curso: Morfofisiología, 110 Marzo 2007 Agosto 2008",
+      "Centro de Salud de Nuncha- Casanare Dedicación: 48 horas Semanales Enero de 2005 Julio de 2005 Actividades de administración - Otro - Cargo: Servicio Social Obligatorio Enero de 2005 Julio de 2005"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias"
+    ],
+    "lineas_investigacion": [
+      "Neurociencia Básica, Activa: Si",
+      "Papel de la proteína NEDD 4-2 sobre la actividad glutamatergica en neuronas de hipocampo, Activa: No",
+      "Efectos del estrés sobre el procesamiento de la memoria, Activa: Si",
+      "Papel de Beta Amiloide sobre la actividad sináptica en el hipocampo como modelo in vitro de la Enfermedad de Alzheimer, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Tesis Doctoral con mención \"Sobresaliente Cum Laude\". Universidad de Salamanca, - Noviembrede 2011",
+      "Beca AUIP de movilidad para profesionales de Iberoamérica. Asociación Universitaria Iberoamericana de Postgrado, - Juliode 2008",
+      "Beca Santander ¿ Universidad de Salamanca para Posgrado Oficial. Curso 2008/2009. , - Agostode 2008",
+      "Tesis con mención de ¿Meritoria¿. Maestría en Fisiología. Universidad Nacional de Colombia. , - Octubrede 2008",
+      "Beneficiario programa Préstamo - Beca Universidad Nacional de Colombia con exención de pago del 100% por buen desempeño académico. Pregrado en Medicina, - Diciembrede 2004",
+      "Top Downloaded Article-whose paper was one of the most downloaded during its first 12 months of publication in: CNS: NEUROSCIENCE AND THERAPEUTICS,Wiley Online Library - Juniode 2022",
+      "PRIMER PUESTO- Trabajo en Curso- Premio Carlos Moreno a la Investigación- Centro de Neurociencia UR,Universidad del Rosario / DAFP / ESAP - Abrilde 2024"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: MAURICIO ORLANDO NAVA MESA, Escuela Internacional de Neurociencias COLNE- IBRO, Finalidad: Formación e integración de reconocidos investigadores nacionales e internacionales en el área de las Neurociencias, junto con alumnos de postgrado del país. . En: Colombia ,2019, ,International Brain Research Organization. participación: Docente , 1 semanas Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: MAURICIO ORLANDO NAVA MESA, ¿ACTIVIDAD PLÁSTICA Y OSCILATORIA POBLACIONAL ESPONTÁNEA Y PROVOCADA EN CONEXIONES NEURONALES EN UN MODELO IN VIVO DE ENFERMEDAD DE ALZHEIMER COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Doctorado en Ciencias Biomédicas, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Cécile Eugénie Gloria Gauthier Umaña Tutor(es)/Cotutor(es): FRANCISCO ALEJANDRO MUNERA GALARZA , MAURICIO ORLANDO NAVA MESA, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: MAURICIO ORLANDO NAVA MESA, Naltrexona como tratamiento antidepresivo coadyuvante en pacientes con depresión y trastorno por consumo de alcohol. Revisión sistemática de la literatura COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Psiquiatría, 2018. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Natalia Juliana Cala Cala Tutor(es)/Cotutor(es): MAURICIO ORLANDO NAVA MESA, Areas: Ciencias Médicas y de la Salud -- Medicina Clínica -- Psiquiatría,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: MAURICIO ORLANDO NAVA MESA, Falsa lateralización cerebral por EEG en epilepsia del temporal inducida por cavernoma COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Especializacion medico quirurgica en Neurología, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Mariana Gaviria Carrillo Tutor(es)/Cotutor(es): MAURICIO ORLANDO NAVA MESA, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: MAURICIO ORLANDO NAVA MESA, Rol de la Calcineurina en los procesos de Plasticidad Sináptica en modelos preclínicos de la enfermedad de Alzheimer: revisión sistemática COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Especialización en Epidemiología, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Santiago Moreno Hernández Tutor(es)/Cotutor(es): MAURICIO ORLANDO NAVA MESA, Areas: Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Epidemiología,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: MAURICIO ORLANDO NAVA MESA, Titulo: Autoantibody mediated damage to the brain Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico Doctorado Ciencias Biomedicas Nombre del orientado: María Teresa Arango Guerrero Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Inmunología,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: MAURICIO ORLANDO NAVA MESA, Titulo: EVALUACIÓN DEL EFECTO DEL EXTRACTO DE ZANTHOXYLUM MARTINICENSE SOBRE LA EXPRESIÓN DE APOE, LRP, GLAST Y GLT-1 EN MODELO DE ASTROCITOS Y EN RATONES 3X TG-AD Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico MAESTRIA EN NEUROCIENCIAS Nombre del orientado: Juan Guillermo López Cano Areas: Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Ciencias del Cuidado de la Salud y Servicios (Administración de Hospitales, Financiamiento),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: MAURICIO ORLANDO NAVA MESA, Titulo: \"Inducción de plasticidad a largo plazo en las entradas comisurales y determinación de su influencia sobre la entrada somatosensorial hacia la corteza motora primaria de las vibrisas de rata\". Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico Magister en Fisiología Nombre del orientado: Esteban Ramirez Areas: Ciencias Médicas y de la Salud -- Medicina Clínica -- Otros Temas de Medicina Clínica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: MAURICIO ORLANDO NAVA MESA, Titulo: CARACTERIZACIÓN ELECTROENCEFALOGRÁFICA DE LA RUTA SUBCORTICAL COLÍCULO SUPERIOR ¿ AMÍGDALA, VÍA TÁLAMO, DURANTE LA ASOCIACIÓN DE ESTÍMULOS CONDICIONADO E INCONDICIONADO Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico Maestria en Neurociencias Nombre del orientado: Melissa Cardenas Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: MAURICIO ORLANDO NAVA MESA, Titulo: EVALUACIÓN DEL EFECTO DE EXTRACTOS DE PLANTAS (FAMILIAS LAURACEAE Y RUTACEAE) CON POTENCIAL AGONISTA DE RECEPTORES NUCLEARES LXR SOBRE DIVERSOS CAMBIOS CELULARES, MOLECULARES Y TRANSCRIPCIONALES EN MODELOS DE ENFERMEDAD DE ALZHEIMER. Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico DOCTORADO CIENCIAS BIOMEDICAS - SEDE BOGOTÁ Nombre del orientado: Jonathan Muñoz Areas: Ciencias Médicas y de la Salud -- Biotecnología en Salud -- Biotecnología Relacionada con la Salud,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: MAURICIO ORLANDO NAVA MESA, Titulo: Efectos del estrés agudo sobre la reconsolidación de la memoria espacial y el patrón de expresión de la proteína c-Fos Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico Maestria en Neurociencias Nombre del orientado: Daniela Carolina Ballesteros Cadena Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: MAURICIO ORLANDO NAVA MESA, Titulo: PAPEL DE LOS CANALES GIRK, A NIVEL SINÁPTICO Y COMPORTAMENTAL, EN LA FUNCIONALIDAD HIPOCAMPAL DE UN MODELO MURINO DE ENFERMEDAD DE ALZHEIMER Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad De Castilla - La Mancha programa académico Escuela Internacional de Doctorado Nombre del orientado: Irene Sánchez Rodríguez Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: U, 2013, Noviembre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Society for Neuroscience Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-11-15 00:00:00.0, 2014-12-19 00:00:00.0 en Washington, D.C. - Washington Productos asociados Nombre del producto: Thalamo-cortical synchronization during sensory information processing in the vibrissal motor cortex in rats Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: International Brain Reaserch Organization IBRO Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "1 Nombre del evento: Society for Neuroscience Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-11-15 00:00:00.0, 2014-12-19 00:00:00.0 en Washington, D.C. - Washington",
+      "Productos asociados Nombre del producto: Thalamo-cortical synchronization during sensory information processing in the vibrissal motor cortex in rats Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: International Brain Reaserch Organization IBRO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "2 Nombre del evento: 15º Congreso Nacional de la Sociedad Española de NeuroCiencia Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-25 00:00:00.0, 2013-09-27 00:00:00.0 en BUCARAMANGA - Oviedo Productos asociados Nombre del producto: LA DISFUNCIÓN SINÁPTICA INDUCIDA POR EL PÉPTIDO AB-AMILOIDE EN LA SINAPSIS SEPTOHIPOCAMPAL FIMBRIA-CA3 IMPLICA A LOS CANALES GIRK Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Instituciones asociadas Nombre de la institución: Sociedad Española de Neurociencia Tipo de vinculación Patrocinadora Participantes Nombre: JAVIER YAJEYA PEREZ Rol en el evento: Ponente Nombre: JENNIFER MAYORDOMO CAVA Rol en el evento: Ponente magistral Nombre: JUANDEDIOS NAVARRO LOPEZ Rol en el evento: Organizador Nombre: LYDIA JIMENEZ DIAZ Rol en el evento: Ponente Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "2 Nombre del evento: 15º Congreso Nacional de la Sociedad Española de NeuroCiencia Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-25 00:00:00.0, 2013-09-27 00:00:00.0 en BUCARAMANGA - Oviedo",
+      "Productos asociados Nombre del producto: LA DISFUNCIÓN SINÁPTICA INDUCIDA POR EL PÉPTIDO AB-AMILOIDE EN LA SINAPSIS SEPTOHIPOCAMPAL FIMBRIA-CA3 IMPLICA A LOS CANALES GIRK Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación",
+      "Instituciones asociadas Nombre de la institución: Sociedad Española de Neurociencia Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JAVIER YAJEYA PEREZ Rol en el evento: Ponente Nombre: JENNIFER MAYORDOMO CAVA Rol en el evento: Ponente magistral Nombre: JUANDEDIOS NAVARRO LOPEZ Rol en el evento: Organizador Nombre: LYDIA JIMENEZ DIAZ Rol en el evento: Ponente Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "3 Nombre del evento: FEDERATION OF EUROPEAN NEUROSCIENCES SOCIETIES FORUM OF NEUROSCIENCES Tipo de evento: Otro Ámbito: Realizado el:2010-07-01 00:00:00.0, en Amsterdam - Productos asociados Nombre del producto: Navarro-Lopez J. D, Nava M, Sanabria A, Jimenez-Diaz L, De La Fuente A, Criado J. M., Riolobos A. S, Heredia M. and Yajeya J. Postsynaptic effects of amyloid-beta peptide on CA3 hippocampal neurons in the rat. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "3 Nombre del evento: FEDERATION OF EUROPEAN NEUROSCIENCES SOCIETIES FORUM OF NEUROSCIENCES Tipo de evento: Otro Ámbito: Realizado el:2010-07-01 00:00:00.0, en Amsterdam -",
+      "Productos asociados Nombre del producto: Navarro-Lopez J. D, Nava M, Sanabria A, Jimenez-Diaz L, De La Fuente A, Criado J. M., Riolobos A. S, Heredia M. and Yajeya J. Postsynaptic effects of amyloid-beta peptide on CA3 hippocampal neurons in the rat. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "4 Nombre del evento: MEMORIAS DEL VII SEMINARIO INTERNACIONAL EN NEUROCIENCIAS ACTA BIOL COLOMB Tipo de evento: Seminario Ámbito: Realizado el:2008-04-01 00:00:00.0, en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Nava, M. Múnera, A. Lamprea M. Efecto del bloqueo de receptores opiáceos sobre los cambios inducidos por el estrés agudo en la memoria de reconocimiento de objetos. Memorias del VII Seminario Internacional en Neurociencias. Acta biol. Colomb .Vol. 13 No. 2, 2008 233. ISBN: 1900-1649. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "4 Nombre del evento: MEMORIAS DEL VII SEMINARIO INTERNACIONAL EN NEUROCIENCIAS ACTA BIOL COLOMB Tipo de evento: Seminario Ámbito: Realizado el:2008-04-01 00:00:00.0, en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Nava, M. Múnera, A. Lamprea M. Efecto del bloqueo de receptores opiáceos sobre los cambios inducidos por el estrés agudo en la memoria de reconocimiento de objetos. Memorias del VII Seminario Internacional en Neurociencias. Acta biol. Colomb .Vol. 13 No. 2, 2008 233. ISBN: 1900-1649. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "5 Nombre del evento: MEMORIAS DEL XIII CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA Tipo de evento: Congreso Ámbito: Realizado el:, en Barcelona - Productos asociados Nombre del producto: Navarro-López, J, Nava M, Jiménez-Díaz L, de la Fuente A, Criado JM, Riolobos AS, Heredia M, Yajeya J. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "5 Nombre del evento: MEMORIAS DEL XIII CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA Tipo de evento: Congreso Ámbito: Realizado el:, en Barcelona -",
+      "Productos asociados Nombre del producto: Navarro-López, J, Nava M, Jiménez-Díaz L, de la Fuente A, Criado JM, Riolobos AS, Heredia M, Yajeya J. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "6 Nombre del evento: FEDERATION OF EUROPEAN NEUROSCIENCE SOCIETIES FORUM OF NEUROSCIENCE Tipo de evento: Otro Ámbito: Realizado el:2010-07-01 00:00:00.0, en Amsterdam - Productos asociados Nombre del producto: Nava M., Jimenez-Diaz L., De La Fuente A., Criado J. M., Riolobos A. S., Heredia M., Yajeya J. & Navarro-López J. D. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "6 Nombre del evento: FEDERATION OF EUROPEAN NEUROSCIENCE SOCIETIES FORUM OF NEUROSCIENCE Tipo de evento: Otro Ámbito: Realizado el:2010-07-01 00:00:00.0, en Amsterdam -",
+      "Productos asociados Nombre del producto: Nava M., Jimenez-Diaz L., De La Fuente A., Criado J. M., Riolobos A. S., Heredia M., Yajeya J. & Navarro-López J. D. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "7 Nombre del evento: FORUM OF THE FEDERATION OF EUROPEAN NEUROSCIENCE SOCIETIES Tipo de evento: Otro Ámbito: Realizado el:, en Amsterdam - Productos asociados Nombre del producto: Jimenez-Diaz L, Nava M, Heredia M, Riolobos A. S, De La Fuente A, Criado J. M, Yajeya J and Navarro-López J. D. Heterotopic amygdalar transplants in adult rats with motor cortex lesions: molecular and functional analysis. Publication ref.: FENS Abstr., vol.5, 040.9 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "7 Nombre del evento: FORUM OF THE FEDERATION OF EUROPEAN NEUROSCIENCE SOCIETIES Tipo de evento: Otro Ámbito: Realizado el:, en Amsterdam -",
+      "Productos asociados Nombre del producto: Jimenez-Diaz L, Nava M, Heredia M, Riolobos A. S, De La Fuente A, Criado J. M, Yajeya J and Navarro-López J. D. Heterotopic amygdalar transplants in adult rats with motor cortex lesions: molecular and functional analysis. Publication ref.: FENS Abstr., vol.5, 040.9 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "8 Nombre del evento: 8TH IBRO WORLD CONGRESS OF NEUROSCIENCE INTERNATIONAL BRAIN RESEARCH ORGANIZATION Tipo de evento: Congreso Ámbito: Realizado el:2011-07-01 00:00:00.0, en FLORENCIA - Productos asociados Nombre del producto: J. Mayordomo-Cava, M.O. Nava, J. Yajeya, J.D. Navarro-Lopez & L. Jimenez-Diaz Effect of amyloid-beta (25-35) on glutamate receptor subunit gene expression in rat hippocampal slices. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "8 Nombre del evento: 8TH IBRO WORLD CONGRESS OF NEUROSCIENCE INTERNATIONAL BRAIN RESEARCH ORGANIZATION Tipo de evento: Congreso Ámbito: Realizado el:2011-07-01 00:00:00.0, en FLORENCIA -",
+      "Productos asociados Nombre del producto: J. Mayordomo-Cava, M.O. Nava, J. Yajeya, J.D. Navarro-Lopez & L. Jimenez-Diaz Effect of amyloid-beta (25-35) on glutamate receptor subunit gene expression in rat hippocampal slices. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "9 Nombre del evento: MEMORIAS DEL XIV CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA REF P46 28 30 Tipo de evento: Congreso Ámbito: Realizado el:, en Salamanca - Productos asociados Nombre del producto: Nava Mesa MO, Jiménez-Díaz L , Mayordomo J, De La Fuente A, Criado J. M, Riolobos AS , Heredia M, Yajeya J & Navarro-López JD. Efectos Del Beta Amiloide (23-35) Sobre La Respuesta Inhibitoria Postsinaptica En Neuronas Piramidales De La Región Ca3 Del Hipocampo. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "9 Nombre del evento: MEMORIAS DEL XIV CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA REF P46 28 30 Tipo de evento: Congreso Ámbito: Realizado el:, en Salamanca -",
+      "Productos asociados Nombre del producto: Nava Mesa MO, Jiménez-Díaz L , Mayordomo J, De La Fuente A, Criado J. M, Riolobos AS , Heredia M, Yajeya J & Navarro-López JD. Efectos Del Beta Amiloide (23-35) Sobre La Respuesta Inhibitoria Postsinaptica En Neuronas Piramidales De La Región Ca3 Del Hipocampo. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "10 Nombre del evento: MEMORIAS DEL XIV CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA REF P47 28 30 Tipo de evento: Congreso Ámbito: Realizado el:, en Salamanca - Productos asociados Nombre del producto: Mayordomo Cava J, Navarro-López JD, Nava Mesa MO, Yajeya J, Jiménez-Díaz L. Cuantificación de los Niveles de mRNA de Subunidades de Receptores Glutamatérgicos en Rodajas Hipocampales de Rata Tras Su Exposicion Al Peptido B-Amiloide(25-35) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "10 Nombre del evento: MEMORIAS DEL XIV CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA REF P47 28 30 Tipo de evento: Congreso Ámbito: Realizado el:, en Salamanca -",
+      "Productos asociados Nombre del producto: Mayordomo Cava J, Navarro-López JD, Nava Mesa MO, Yajeya J, Jiménez-Díaz L. Cuantificación de los Niveles de mRNA de Subunidades de Receptores Glutamatérgicos en Rodajas Hipocampales de Rata Tras Su Exposicion Al Peptido B-Amiloide(25-35) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "11 Nombre del evento: Congreso Nacional Asociación Colombiana de Ciencias Biológicas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-10-16 00:00:00.0, 2013-10-17 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Bosque Productos asociados Nombre del producto: Modelos experimentales in vitro para el estudio de las enfermedades neurodegenerativas Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Universidad El Bosque - Escuela Colombiana De Medicina Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "11 Nombre del evento: Congreso Nacional Asociación Colombiana de Ciencias Biológicas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-10-16 00:00:00.0, 2013-10-17 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Bosque",
+      "Productos asociados Nombre del producto: Modelos experimentales in vitro para el estudio de las enfermedades neurodegenerativas Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Universidad El Bosque - Escuela Colombiana De Medicina Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "12 Nombre del evento: MEMORIAS DEL XIII CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA SEPT 2009 PG 190 Tipo de evento: Congreso Ámbito: Realizado el:2009-09-01 00:00:00.0, en Tarragona - Productos asociados Nombre del producto: Jiménez-Díaz L, Navarro-López, J, de la Fuente A, Criado JM, Nava M, Yajeya J, Riolobos AS, Heredia M, Caracterización Molecular Y Electrofisiológica De Neuronas Embrionarias Amigdalinas Transplantadas En La Corteza Motora De La Rata Adulta Que Inducen Recuperación Motora. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "12 Nombre del evento: MEMORIAS DEL XIII CONGRESO SOCIEDAD ESPANOLA DE NEUROCIENCIA SEPT 2009 PG 190 Tipo de evento: Congreso Ámbito: Realizado el:2009-09-01 00:00:00.0, en Tarragona -",
+      "Productos asociados Nombre del producto: Jiménez-Díaz L, Navarro-López, J, de la Fuente A, Criado JM, Nava M, Yajeya J, Riolobos AS, Heredia M, Caracterización Molecular Y Electrofisiológica De Neuronas Embrionarias Amigdalinas Transplantadas En La Corteza Motora De La Rata Adulta Que Inducen Recuperación Motora. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "13 Nombre del evento: IBRO WORLD CONGRESS OF NEUROSCIENCE INTERNATIONAL BRAIN RESEARCH ORGANIZATION Tipo de evento: Congreso Ámbito: Realizado el:2011-07-01 00:00:00.0, en FLORENCIA - Productos asociados Nombre del producto: M.O. Nava, L. Jimenez-Diaz, J. Mayordomo, A. Delafuente, J. Criado, A. Riolobos, M. Heredia, J. Yajeya & J.D. Navarro-López. Effects of amyloid-beta(25-35) on inhibitory fimbria-CA3 hippocampal synapse responses. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "13 Nombre del evento: IBRO WORLD CONGRESS OF NEUROSCIENCE INTERNATIONAL BRAIN RESEARCH ORGANIZATION Tipo de evento: Congreso Ámbito: Realizado el:2011-07-01 00:00:00.0, en FLORENCIA -",
+      "Productos asociados Nombre del producto: M.O. Nava, L. Jimenez-Diaz, J. Mayordomo, A. Delafuente, J. Criado, A. Riolobos, M. Heredia, J. Yajeya & J.D. Navarro-López. Effects of amyloid-beta(25-35) on inhibitory fimbria-CA3 hippocampal synapse responses. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Asistente",
+      "14 Nombre del evento: Society for Neuroscience Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-11-15 00:00:00.0, 2014-11-19 00:00:00.0 en Washington, D.C. - Washington Productos asociados Nombre del producto: GirK channel, a new target in early stages of Alzheimer Disease Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "14 Nombre del evento: Society for Neuroscience Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-11-15 00:00:00.0, 2014-11-19 00:00:00.0 en Washington, D.C. - Washington",
+      "Productos asociados Nombre del producto: GirK channel, a new target in early stages of Alzheimer Disease Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "15 Nombre del evento: XI Congreso Nacional/XXI seminario Internacional de Neurociencias-COLNE Tipo de evento: Congreso Ámbito: Nacional Realizado el:2018-04-26 00:00:00.0, 2018-04-28 00:00:00.0 en CALI - Universidad Externado de Colombia Productos asociados Nombre del producto: Beta Amyloid effects on synaptic and oscillatory activity in the CA3-CA1 circuit of the hippocampus Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "15 Nombre del evento: XI Congreso Nacional/XXI seminario Internacional de Neurociencias-COLNE Tipo de evento: Congreso Ámbito: Nacional Realizado el:2018-04-26 00:00:00.0, 2018-04-28 00:00:00.0 en CALI - Universidad Externado de Colombia",
+      "Productos asociados Nombre del producto: Beta Amyloid effects on synaptic and oscillatory activity in the CA3-CA1 circuit of the hippocampus Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "16 Nombre del evento: Society for Neuroscience Meeting 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-11-11 00:00:00.0, 2023-11-15 00:00:00.0 en Washington, D.C. - Walter E. Washington Convention Center in Washington, D.C Productos asociados Nombre del producto: A new graphical user interface for the synaptic ​ and cross-frequency analysis derived from brain signals Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "16 Nombre del evento: Society for Neuroscience Meeting 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-11-11 00:00:00.0, 2023-11-15 00:00:00.0 en Washington, D.C. - Walter E. Washington Convention Center in Washington, D.C",
+      "Productos asociados Nombre del producto: A new graphical user interface for the synaptic ​ and cross-frequency analysis derived from brain signals Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "17 Nombre del evento: XIII Congreso Nacional XIV Seminario Internacional de Neurociencias Tipo de evento: Congreso Ámbito: Nacional Realizado el:2023-04-20 00:00:00.0, 2023-04-22 00:00:00.0 en CALI - Auditorio Pontificia Universidad Javeriana de Cali Productos asociados Nombre del producto: Relación entre la actividad oscilatoria y sináptica del hipocampo en modelos in vivo Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Organizador , Ponente magistral",
+      "17 Nombre del evento: XIII Congreso Nacional XIV Seminario Internacional de Neurociencias Tipo de evento: Congreso Ámbito: Nacional Realizado el:2023-04-20 00:00:00.0, 2023-04-22 00:00:00.0 en CALI - Auditorio Pontificia Universidad Javeriana de Cali",
+      "Productos asociados Nombre del producto: Relación entre la actividad oscilatoria y sináptica del hipocampo en modelos in vivo Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Organizador , Ponente magistral",
+      "18 Nombre del evento: 11th FENS Forum of Neuroscience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-07 00:00:00.0, 2018-07-11 00:00:00.0 en Berlin - Berlín Productos asociados Nombre del producto: GirK channels modulation impairs LTP in hippocampal CA3-CA1 synapse in vitro Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "18 Nombre del evento: 11th FENS Forum of Neuroscience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-07 00:00:00.0, 2018-07-11 00:00:00.0 en Berlin - Berlín",
+      "Productos asociados Nombre del producto: GirK channels modulation impairs LTP in hippocampal CA3-CA1 synapse in vitro Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "19 Nombre del evento: XI congreso nacional XII seminario Internacional de Neurociencias Tipo de evento: Congreso Ámbito: Nacional Realizado el:2018-04-26 00:00:00.0, 2018-04-28 00:00:00.0 en BOGOTÁ, D.C. - Colegio Colombiano de Neurociencias- U Externado Productos asociados Nombre del producto: Efectos del peptido beta amiloide sobre la actividad oscilatoria y sinaptica en el hipocampo Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD EXTERNADO DE COLOMBIA Tipo de vinculación Gestionadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "19 Nombre del evento: XI congreso nacional XII seminario Internacional de Neurociencias Tipo de evento: Congreso Ámbito: Nacional Realizado el:2018-04-26 00:00:00.0, 2018-04-28 00:00:00.0 en BOGOTÁ, D.C. - Colegio Colombiano de Neurociencias- U Externado",
+      "Productos asociados Nombre del producto: Efectos del peptido beta amiloide sobre la actividad oscilatoria y sinaptica en el hipocampo Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EXTERNADO DE COLOMBIA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente magistral",
+      "20 Nombre del evento: 11th FENS Forum of Neuroscience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-07 00:00:00.0, 2018-07-11 00:00:00.0 en Berlin - Berlín Productos asociados Nombre del producto: Beta-Amyloid effects on synaptic and oscillatory activity in the CA3-CA1 circuit of the hippocampus Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente",
+      "20 Nombre del evento: 11th FENS Forum of Neuroscience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-07-07 00:00:00.0, 2018-07-11 00:00:00.0 en Berlin - Berlín",
+      "Productos asociados Nombre del producto: Beta-Amyloid effects on synaptic and oscillatory activity in the CA3-CA1 circuit of the hippocampus Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MAURICIO ORLANDO NAVA MESA Rol en el evento: Ponente"
+    ],
+    "redes_conocimiento_especializado": [
+      "Nombre de la red Neurociencia Tipo de red Real, Creada el:2013-02-01 00:00:00.0, en Ciudad Real con 3 participantes",
+      "Nombre de la red Neurofisiología Comportamental Tipo de red Real, Creada el:2012-02-01 00:00:00.0, en Salamanca con 3 participantes",
+      "Nombre de la red LatBrain Tipo de red Virtual, Creada el:2019-08-31 00:00:00.0, en Montevideo con participantes",
+      "Nombre de la red Colegio Colombiano de Neurociencia Tipo de red Virtual, Creada el:2006-08-01 00:00:00.0, en BOGOTÁ, D.C. con participantes"
+    ],
+    "fortalecimiento_o_soluci_n_de_asuntos_de_inter_s_social": [
+      "Apropiación social del conocimiento - Proceso de Apropiación Social del Conocimiento para el fortalecimiento o solución de asuntos de interés social: Nombre del producto: UR Senior, Fecha de presentación: 2021 - Marzo, Medio de verificación: https://educacioncontinuamkt.urosario.edu.co/curso-apreciacion-del-arte-un-paseo-por-la-pintura-univ, Licencia creative: Atribución, Formato: XHTML or HTML (.xhtml, .html), Proyecto vinculado: Apreciación del arte: un paseo por la pintura"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): MAURICIO ORLANDO NAVA MESA, ROGER LOPEZ BELLIDO, \"Efectos del Sistema Opioide sobre el Procesamiento de la Memoria. Evidencia Clínica y Experimental. Revista Colombiana de Medicina Física y Rehabilitación. Vol 19 No 2. Julio-Dic 2009. Pgs: 55-68. ISSN 0121-0041\" . En: Colombia Revista Colombiana De Medicina Física Y Rehabilitación ISSN: 0121-0041 ed: v. 19 fasc. 2 p.55 - 68 ,2009, DOI:",
+        "titulo": "Efectos del Sistema Opioide sobre el Procesamiento de la Memoria. Evidencia Clínica y Experimental. Revista Colombiana de Medicina Física y Rehabilitación. Vol 19 No 2. Julio-Dic 2009. Pgs: 55-68. ISSN 0121-0041",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, LYDIA JIMENEZ DIAZ, JAVIER YAJEYA PEREZ, JUANDEDIOS NAVARRO LOPEZ, \"Amyloid-β induces synaptic dysfunction through G protein-gated inwardly rectifying potassium channels in the fimbria-CA3 hippocampal synapse\" . En: Suiza FRONTIERS IN CELLULAR NEUROSCIENCE ISSN: 1662-5102 ed: FRONTIERS MEDIA SA v. 7 fasc. 117 p.1 - 12 ,2013, DOI:",
+        "titulo": "Amyloid-β induces synaptic dysfunction through G protein-gated inwardly rectifying potassium channels in the fimbria-CA3 hippocampal synapse",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, MARISOL LAMPREA, FRANCISCO ALEJANDRO MUNERA GALARZA, MUNERA ALEJANDRO, \"Divergent short- and long-term effects of acute stress in object recognition memory are mediated by endogenous opioid system activation\" . En: Estados Unidos NEUROBIOLOGY OF LEARNING AND MEMORY ISSN: 1074-7427 ed: ACADEMIC PRESS INC ELSEVIER SCIENCE v. 106 fasc. N/A p.185 - 192 ,2013, DOI: 10.1016/j.nlm.2013.09.002. Palabras: Estres, Memoria, Sistema Opiode,",
+        "titulo": "Divergent short- and long-term effects of acute stress in object recognition memory are mediated by endogenous opioid system activation",
+        "doi": "10.1016/j.nlm.2013.09.002",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): MAURICIO ORLANDO NAVA MESA, ANGELICA MARIA TELLEZ AREVALO, DANIEL ROJAS KOZHAKIN, CARLOS ALBERTO CALDERON OSPINA, \"Usos terapéuticos potenciales de los antagonistas opioides: Fisiopatología y evidencia preclínica\" . En: Colombia Revista Colombiana de Ciencias Quimico-Farmaceuticas ISSN: 0034-7418 ed: Universidad Nacionalde Colombia v. 44 fasc. 3 p.1 - 37 ,2015, DOI: 10.15446/rcciquifa.v44n3.56284",
+        "titulo": "Usos terapéuticos potenciales de los antagonistas opioides: Fisiopatología y evidencia preclínica",
+        "doi": "10.15446/rcciquifa.v44n3.56284",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, LYDIA JIMENEZ DIAZ, JAVIER YAJEYA PEREZ, JUANDEDIOS NAVARRO LOPEZ, \"GABAergic neurotransmission and new strategies of neuromodulation to compensate synaptic dysfunction in early stages of Alzheimer Disease\" . En: Suiza FRONTIERS IN CELLULAR NEUROSCIENCE ISSN: 1662-5102 ed: FRONTIERS MEDIA SA v. 8 fasc. 167 p.1 - 19 ,2014, DOI: 10.3389/fncel.2014.00167 Palabras: Memoria, Enfermedad de Alzheimer, Beta Amiloide, Sistema SeptoHipocampal,",
+        "titulo": "GABAergic neurotransmission and new strategies of neuromodulation to compensate synaptic dysfunction in early stages of Alzheimer Disease",
+        "doi": "10.3389/fncel.2014.00167",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Caso clínico: CAMILO ALBERTO DOMINGUEZ DOMINGUEZ, MAURICIO ORLANDO NAVA MESA, CARLOS ALBERTO CALDERON OSPINA, \"Pulmonary embolism secondary to inappropriate use of oral contraceptive therapy: a case report\" . En: Colombia REVISTA CUBANA DE FARMACIA ISSN: 0034-7515 ed: EditorialCiencias Médicas v. 50 fasc. 1 p.1 - 7 ,2016, DOI:",
+        "titulo": "Pulmonary embolism secondary to inappropriate use of oral contraceptive therapy: a case report",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JORGE FRAGA, JESUS HERNAN RODRIGUEZ QUINTANA, MAURICIO ORLANDO NAVA MESA, \"Rapidly progressive cognitive impairment with neuropsychiatric symptoms as the initial manifestation of status epilepticus\" . En: Estados Unidos EPILEPSY AND BEHAVIOR CASE REPORTS ISSN: 2213-3232 ed: Elsevier v. 7 fasc. N/A p.20 - 23 ,2016, DOI: 10.1016/j.ebcr.2016.11.002 Palabras: Deterioro cognitivo, Epilepsia,",
+        "titulo": "Rapidly progressive cognitive impairment with neuropsychiatric symptoms as the initial manifestation of status epilepticus",
+        "doi": "10.1016/j.ebcr.2016.11.002",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): RODRIGO ESTEBAN GONZALEZ REYES, MAURICIO ORLANDO NAVA MESA, JEINNY KARINA VARGAS SANCHEZ, \"Involvement of Astrocytes in Alzheimer's Disease from a Neuroinflammatory and Oxidative Stress Perspective\" . En: Suiza FRONTIERS IN MOLECULAR NEUROSCIENCE ISSN: 1662-5099 ed: FRONTIERS MEDIA SA v. 10 fasc. 427 p.1 - 20 ,2017, DOI: 10.3389/fnmol.2017.00427 Palabras: Enfermedad de Alzheimer,",
+        "titulo": "Involvement of Astrocytes in Alzheimer's Disease from a Neuroinflammatory and Oxidative Stress Perspective",
+        "doi": "10.3389/fnmol.2017.00427",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): GLORIA ORTIZ GUERRERO, DIANA PATRICIA AMADOR MUNOZ, CARLOS ALBERTO CALDERON OSPINA, MAURICIO ORLANDO NAVA MESA, \"Proton Pump Inhibitors and Dementia: Physiopathological Mechanisms and Clinical Consequences\" . En: Egipto NEURAL PLASTICITY ISSN: 1687-5443 ed: John Wiley & Sons v. 2018 fasc. n/a p.1 - 9 ,2018, DOI: https://doi.org/10.1155/2018/5257285",
+        "titulo": "Proton Pump Inhibitors and Dementia: Physiopathological Mechanisms and Clinical Consequences",
+        "doi": "https://doi.org/10.1155/2018/5257285",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LYDIA JIMENEZ DIAZ, MAURICIO ORLANDO NAVA MESA, MARGARITA HEREDIA, ADELAIDA RIOLOBOS, MARCELO GOMEZ ALVAREZ, CRIADO JOSEMARIA, ANTONIO DELAFUENTE, JAVIER YAJEYA PEREZ, JUANDEDIOS NAVARRO LOPEZ, \"Embryonic amygdalar transplants in adult rats with motor cortex lesions: a molecular and electrophysiological analysis. Frontiers in. Neurology. 2:59. doi: 10.3389/f\" . En: Estados Unidos FRONTIERS IN NEUROLOGY ISSN: 1664-2295 ed: FRONTIERS MEDIA SA v. 2 fasc. 59 p.1 - 9 ,2011, DOI:",
+        "titulo": "Embryonic amygdalar transplants in adult rats with motor cortex lesions: a molecular and electrophysiological analysis. Frontiers in. Neurology. 2:59. doi: 10.3389/f",
+        "doi": "10.3389/f\"",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANGELICA A. TORRES BERRIO, MAURICIO ORLANDO NAVA MESA, \"The opioid system in stress-induced memory disorders: From basic mechanisms to clinical implications in post-traumatic stress disorder and Alzheimer's disease\" . En: Países Bajos PROGRESS IN NEURO PSYCHOPHARMACOLOGY BIOLOGICAL PSYCHIATRY ISSN: 0278-5846 ed: Elsevier v. 88 fasc. N/A p.327 - 338 ,2018, DOI: 10.1016/j.pnpbp.2018.08.011 Palabras: Estres, Memoria, Sistema Opiode,",
+        "titulo": "The opioid system in stress-induced memory disorders: From basic mechanisms to clinical implications in post-traumatic stress disorder and Alzheimer's disease",
+        "doi": "10.1016/j.pnpbp.2018.08.011",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ALEJANDRA CERQUERA JARAMILLO, MAURICIO ORLANDO NAVA MESA, RODRIGO ESTEBAN GONZALEZ REYES, ALEJANDRA DE LA TORRE CIFUENTES, \"Visual Features in Alzheimer¿s Disease: From Basic Mechanisms to Clinical Overview\" . En: Colombia NEURAL PLASTICITY ISSN: 1687-5443 ed: John Wiley & Sons v. 2018 fasc. p.1 - 21 ,2018, DOI: https://doi.org/10.1155/2018/2941783 Palabras: Enfermedad de Alzheimer,",
+        "titulo": "Visual Features in Alzheimer¿s Disease: From Basic Mechanisms to Clinical Overview",
+        "doi": "https://doi.org/10.1155/2018/2941783",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): ANGELICA A. TORRES BERRIO, SANTIAGO CUESTA, SILVIA LOPEZ GUZMAN, MAURICIO ORLANDO NAVA MESA, \"Interaction Between Stress and Addiction: Contributions From Latin-American Neuroscience\" . En: Suiza FRONTIERS IN PSYCHOLOGY ISSN: 1664-1078 ed: FRONTIERS MEDIA SA v. 9 fasc. N/A p.1 - 17 ,2018, DOI: 10.3389/2018.02639 Palabras: Estres,",
+        "titulo": "Interaction Between Stress and Addiction: Contributions From Latin-American Neuroscience",
+        "doi": "10.3389/2018.02639",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): CARLOS ALBERTO CALDERON OSPINA, MAURICIO ORLANDO NAVA MESA, \"B Vitamins in the nervous system: Current knowledge of the biochemical modes of action and synergies of thiamine, pyridoxine, and cobalamin.\" . En: Estados Unidos CNS NEUROSCIENCE THERAPEUTICS ISSN: 1755-5949 ed: John Wiley & Sons v. 00 fasc. p.1 - 9 ,2019, DOI: 10.1111/cns.13207 Palabras: Vitamina B, neuropathy,",
+        "titulo": "B Vitamins in the nervous system: Current knowledge of the biochemical modes of action and synergies of thiamine, pyridoxine, and cobalamin.",
+        "doi": "10.1111/cns.13207",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, CARLOS ALBERTO CALDERON OSPINA, CARLOS EMILIO ARBELAEZ ARIZA, \"Effect of Combined Diclofenac and B Vitamins (Thiamine, Pyridoxine, and Cyanocobalamin) for Low Back Pain Management: Systematic Review and Meta-analysis\" . En: Inglaterra PAIN MEDICINE ISSN: 1526-4637 ed: Oxford Univ Press v. 0 fasc. N/A p.1 - 16 ,2019, DOI: 10.1093/pm/pnz216 Palabras: Vitamina B, Back Pain,",
+        "titulo": "Effect of Combined Diclofenac and B Vitamins (Thiamine, Pyridoxine, and Cyanocobalamin) for Low Back Pain Management: Systematic Review and Meta-analysis",
+        "doi": "10.1093/pm/pnz216",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): CARLOS ALBERTO CALDERON OSPINA, ANA MARIA PAEZ HURTADO, MAURICIO ORLANDO NAVA MESA, \"Update on Safety Profiles of Vitamins B1, B6, and B12: A Narrative Review\" . En: Nueva Zelanda THERAPEUTICS AND CLINICAL RISK MANAGEMENT ISSN: 1178-203X ed: Dove Medical Press Ltd v. 16 fasc. NA p.1275 - 1288 ,2020, DOI: 10.2147/TCRM.S274122",
+        "titulo": "Update on Safety Profiles of Vitamins B1, B6, and B12: A Narrative Review",
+        "doi": "10.2147/TCRM.S274122",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): GLORIA ORTIZ GUERRERO, RODRIGO ESTEBAN GONZALEZ REYES, ALEJANDRA DE LA TORRE CIFUENTES, MAURICIO ORLANDO NAVA MESA, \"Pathophysiological Mechanisms of Cognitive Impairment and Neurodegeneration by Toxoplasma gondii Infection\" . En: Suiza BRAIN SCIENCES ISSN: 2076-3425 ed: mdpi v. 10 fasc. 6 p.1 - 19 ,2020, DOI: 10.3390/brainsci10060369 Palabras: Enfermedad de Alzheimer, Deterioro cognitivo,",
+        "titulo": "Pathophysiological Mechanisms of Cognitive Impairment and Neurodegeneration by Toxoplasma gondii Infection",
+        "doi": "10.3390/brainsci10060369",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): MARIANA GAVIRIA, MAURICIO ORLANDO NAVA MESA, \"Herramientas para la evaluación integral de la función sexual en pacientes con esclerosis múltiple\" . En: España NEUROLOGIA ISSN: 0213-4853 ed: ELSEVIER ESPANA SLU v. 20 fasc. NA p.1 - 9 ,2020, DOI: 10.1016/j.nrl.2020.04.028",
+        "titulo": "Herramientas para la evaluación integral de la función sexual en pacientes con esclerosis múltiple",
+        "doi": "10.1016/j.nrl.2020.04.028",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Caso clínico: MARIANA GAVIRIA, JESUS HERNAN RODRIGUEZ QUINTANA, GLORIA ORTIZ GUERRERO, MAURICIO ORLANDO NAVA MESA, \"Apparent False Lateralization of Seizure Onset by Scalp EEG in Temporal Lobe Epilepsy Associated with Cerebral Cavernous Malformation: A Case Report and Overview\" . En: Suiza BRAIN SCIENCES ISSN: 2076-3425 ed: mdpi v. 10 fasc. 9 p.1 - 15 ,2020, DOI: 10.3390/brainsci10090584 Palabras: Epilepsia,",
+        "titulo": "Apparent False Lateralization of Seizure Onset by Scalp EEG in Temporal Lobe Epilepsy Associated with Cerebral Cavernous Malformation: A Case Report and Overview",
+        "doi": "10.3390/brainsci10090584",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CECILE EUGENIE GLORIA GAUTHIER UMANA, MARIO ANDRES VALDERRAMA MANRIQUE, FRANCISCO ALEJANDRO MUNERA GALARZA, MAURICIO ORLANDO NAVA MESA, \"Acute Effects of Two Different Species of Amyloid- β on Oscillatory Activity and Synaptic Plasticity in the Commissural CA3-CA1 Circuit of the Hippocampus\" . En: Estados Unidos NEURAL PLASTICITY ISSN: 1687-5443 ed: John Wiley & Sons v. 2020 fasc. NA p.1 - 13 ,2020, DOI: 10.1155/2020/8869526 Palabras: Beta Amiloide, Deterioro cognitivo, Enfermedad de Alzheimer, Memoria,",
+        "titulo": "Acute Effects of Two Different Species of Amyloid- β on Oscillatory Activity and Synaptic Plasticity in the Commissural CA3-CA1 Circuit of the Hippocampus",
+        "doi": "10.1155/2020/8869526",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): MAURICIO ORLANDO NAVA MESA, \"Papel de las vitaminas B, tiamina, piridoxina y cianocobalamina en el dolor de espalda y otras condiciones musculoesqueléticas: revisión narrativa\" . En: España SEMERGEN ISSN: 1138-3593 ed: Ediciones Doyma, S.L. v. 21 fasc. N/A p.1 - 9 ,2021, DOI: 10.1016/j.semerg.2021.01.010",
+        "titulo": "Papel de las vitaminas B, tiamina, piridoxina y cianocobalamina en el dolor de espalda y otras condiciones musculoesqueléticas: revisión narrativa",
+        "doi": "10.1016/j.semerg.2021.01.010",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, \"G-Protein-Gated Inwardly Rectifying Potassium (Kir3/GIRK) Channels Govern Synaptic Plasticity That Supports Hippocampal-Dependent Cognitive Functions in Male Mice\" . En: Estados Unidos JOURNAL OF NEUROSCIENCE ISSN: 0270-6474 ed: SOC NEUROSCIENCE v. 41 fasc. p.1 - 17 ,2021, DOI: 10.1523/JNEUROSCI.2849-20.2021",
+        "titulo": "G-Protein-Gated Inwardly Rectifying Potassium (Kir3/GIRK) Channels Govern Synaptic Plasticity That Supports Hippocampal-Dependent Cognitive Functions in Male Mice",
+        "doi": "10.1523/JNEUROSCI.2849-20.2021",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, \"Guillain-Barré syndrome with bilateral facial diplegia secondary to severe acute respiratory syndrome coronavirus-2 infection: a case report\" . En: Reino Unido JOURNAL OF MEDICAL CASE REPORTS ISSN: 1752-1947 ed: BioMed Central Ltd. v. 1 fasc. N/A p.1 - 6 ,2021, DOI: 10.1186/s13256-021-03120-w",
+        "titulo": "Guillain-Barré syndrome with bilateral facial diplegia secondary to severe acute respiratory syndrome coronavirus-2 infection: a case report",
+        "doi": "10.1186/s13256-021-03120-w",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): MAURICIO ORLANDO NAVA MESA, CARLOS ALBERTO CALDERON OSPINA, \"Mechanisms of action of vitamin B1 (thiamine), B6 (pyridoxine), and B12 (cobalamin) in pain: a narrative review\" . En: Reino Unido NUTRITIONAL NEUROSCIENCE ISSN: 1476-8305 ed: Taylor & Francis Ltd v. N/A fasc. p.1 - 19 ,2022, DOI: 10.1080/1028415X.2022.2034242",
+        "titulo": "Mechanisms of action of vitamin B1 (thiamine), B6 (pyridoxine), and B12 (cobalamin) in pain: a narrative review",
+        "doi": "10.1080/1028415X.2022.2034242",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, \"Astrocytes as a Therapeutic Target in Alzheimer's Disease-Comprehensive Review and Recent Developments\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 23 fasc. p.1 - 43 ,2022, DOI: 10.3390/ijms232113630",
+        "titulo": "Astrocytes as a Therapeutic Target in Alzheimer's Disease-Comprehensive Review and Recent Developments",
+        "doi": "10.3390/ijms232113630",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, \"BOARD-FTD-PACC: a graphical user interface for the synaptic and cross-frequency analysis derived from neural signals\" . En: Alemania BRAIN INFORMATICS ISSN: 2198-4018 ed: Springer Nature v. 10 fasc. 12 p.1 - 17 ,2023, DOI: 10.1186/s40708‑023‑00191‑x",
+        "titulo": "BOARD-FTD-PACC: a graphical user interface for the synaptic and cross-frequency analysis derived from neural signals",
+        "doi": "10.1186/s40708‑023‑00191‑x",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): MAURICIO ORLANDO NAVA MESA, \"Role of Calcium Modulation in the Pathophysiology and Treatment of Alzheimer's Disease\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1422-0067 ed: mdpi v. 24 fasc. p.1 - 42 ,2023, DOI: 10.3390/ijms24109067",
+        "titulo": "Role of Calcium Modulation in the Pathophysiology and Treatment of Alzheimer's Disease",
+        "doi": "10.3390/ijms24109067",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): CARLOS ALBERTO CALDERON OSPINA, MAURICIO ORLANDO NAVA MESA, LEONARDO PALACIOS SANCHEZ, \"Vitaminas B neurotrópicas y neuropatía periférica: estado del arte y acuerdo de expertos\" . En: Colombia Acta Neurológica Colombiana ISSN: 0120-8748 ed: Editora Guadalupe Ltda. (Bogotá) v. 39 fasc. 4 p.1 - 20 ,2023, DOI: 10.22379/anc.v39i4.1201.",
+        "titulo": "Vitaminas B neurotrópicas y neuropatía periférica: estado del arte y acuerdo de expertos",
+        "doi": "10.22379/anc.v39i4.1201",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MAURICIO ORLANDO NAVA MESA, CARLOS ALBERTO CALDERON OSPINA, MARIANA GAVIRIA CARRILLO, \"Diagnostic Accuracy of Screening Tests for Diabetic Peripheral Neuropathy: An Umbrella Review\" . En: Inglaterra JOURNAL OF DIABETES RESEARCH ISSN: 2314-6753 ed: John Wiley & Sons v. 4 fasc. N/A p.1 - 16 ,2024, DOI: 10.1155/jdr/5902036 Palabras: neuropathy, Neurociencia basica,",
+        "titulo": "Diagnostic Accuracy of Screening Tests for Diabetic Peripheral Neuropathy: An Umbrella Review",
+        "doi": "10.1155/jdr/5902036",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ALEJANDRA DE LA TORRE CIFUENTES, MAURICIO ORLANDO NAVA MESA, \"Retinal and Vascular Findings in Optical Coherence Tomography in Healthy Cognitive Patients With Alzheimer Disease Biomarkers: A Systematic Review and Meta-Analysis\" . En: Estados Unidos ALZHEIMER DISEASE ASSOCIATED DISORDERS ISSN: 0893-0341 ed: Lippincott Williams & Wilkins v. 39 fasc. N/A p.140 - 149 ,2025, DOI: 10.1097/WAD.0000000000000669 Palabras: Beta Amiloide, Deterioro cognitivo, Enfermedad de Alzheimer,",
+        "titulo": "Retinal and Vascular Findings in Optical Coherence Tomography in Healthy Cognitive Patients With Alzheimer Disease Biomarkers: A Systematic Review and Meta-Analysis",
+        "doi": "10.1097/WAD.0000000000000669",
+        "anio": "2025"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro MAURICIO ORLANDO NAVA MESA, Tipo: Capítulo de libro LYDIA JIMENEZ DIAZ, Tipo: Capítulo de libro JAVIER YAJEYA PEREZ, Tipo: Capítulo de libro JUANDEDIOS NAVARRO LOPEZ, \"GABAergic Neurotransmission and Alzheimer Disease: An Emerging Therapeutic Scenario?\" Frontiers In Clinical Drug Research - Cns And Neurological Disorders . En: Estados Unidos ISBN: 978-1-60805-776-4 ed: , v. , p.28 - 54 ,2013 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias, Sectores: Salud humana - Desarrollo de productos tecnológicos para la salud humana,",
+      "Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Fisiología de la circulación encefálica ..\" Actividades Integradoras del Aprendizaje por Sistemas, AIAS del sistema nervioso . En: Colombia ISBN: 978-958-738-865-7 ed: , v. , p.143 - 150 1 ,2017 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Tipo: Otro capítulo de libro publicado JUAN FERNANDO CEDIEL BECERRA, Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Neurona y glía: aspectos estructurales y funcionales.\" Actividades Integradoras del Aprendizaje por Sistemas, AIAS del sistema nervioso . En: Colombia ISBN: 978-958-738-865-7 ed: , v. , p.77 - 89 1 ,2017 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Sinapsis\" Actividades Integradoras del Aprendizaje por Sistemas, AIAS del sistema nervioso . En: Colombia ISBN: 978-958-738-865-7 ed: , v. , p.85 - 92 1 ,2017 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Tipo: Otro capítulo de libro publicado JUAN SEBASTIAN BOTERO MENESES, Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Fisiopatología de la epilepsia\" Actividades Integradoras del Aprendizaje por Sistemas, AIAS del sistema nervioso . En: Colombia ISBN: 978-958-738-865-7 ed: , v. , p.101 - 108 1 ,2017 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Propiedades eléctricas de las neuronas\" Actividades Integradoras del Aprendizaje por Sistemas, AIAS del sistema nervioso . En: Colombia ISBN: 978-958-738-865-7 ed: , v. , p.93 - 100 1 ,2017 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Sueño y ensoñación en el cine\" Neurociencia y cine . En: Colombia ISBN: 978-958-784-237-1 ed: , v. , p.179 - 197 ,2019 Palabras: sueño, Areas: Ciencias Médicas y de la Salud -- Otras Ciencias Médicas -- Otras Ciencias Médicas,",
+      "Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Neurobiología del dolor: aspectos morfológicos y fisiológicos\" Medicina del dolor y cuidado paliativo . En: Colombia ISBN: 978-958-784-923-3 ed: , v. , p.13 - 35 ,2022 Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Neurociencias,",
+      "Tipo: Capítulo de libro MAURICIO ORLANDO NAVA MESA, Tipo: Capítulo de libro CARLOS ALBERTO CALDERON OSPINA, \"B vitamins on the nervous system: A focus on peripheral neuropathy\" Vitamins and Minerals in Neurological Disorders . En: Inglaterra ISBN: 9780323915724 ed: Elsevier - Academic Press , v. , p.643 - 657 ,2023 Palabras: Neurociencia basica, Areas: Ciencias Médicas y de la Salud -- Medicina Clínica -- Neurología Clínica, Sectores: Salud humana - Cuidado a la salud de las poblaciones humanas,",
+      "Tipo: Otro capítulo de libro publicado MAURICIO ORLANDO NAVA MESA, \"Medidas de prevención para el deterioro cognitivo del adulto mayor\" Envejecer en el siglo XXI: Visiones multidimensionales de la vejez y el envejecimiento . En: Colombia ISBN: 978-958-784-713-0 ed: , v. , p.409 - 426 ,2021 Palabras: Enfermedad de Alzheimer, Memoria, Areas: Ciencias Médicas y de la Salud -- Medicina Clínica -- Geriatría,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Efectos del péptido Beta-amiloide sobre la neurotransmisión septohipocampal. Análisis Neurofisiológico. Inicio: Mayo 2015 Fin proyectado: Diciembre 2015 Fin: Mayo 2018 Duración 36 Resumen Los últimos hallazgos apoyan el concepto emergente de que los efectos del β-Amiloide (Aβ) en la enfermedad de Alzheimer (EA) inicialmente se centran en alterar sutilmente la función sináptica y, de este modo, preceden a la pérdida de sinapsis, la acumulación de placas, la formación de ovillos y la neurodegeneración. La existencia de un desequilibrio entre los sistemas excitatorios e inhibitorios en regiones relevantes para el aprendizaje y la memoria podría subyacer a este estado de disfunción sináptica previo a los déficits neurológicos de la EA. Dado que el sistema septohipocampal posee estrechas conexiones recíprocas de neuronas glutamatérgicas, colinérgicas y gabaérgicas, y sus interrelaciones influyen de forma directa en los procesos de aprendizaje y memoria, se ha propuesto que esta región se encuentra entre los centros cerebrales especialmente sensibles a sufrir daño durante el curso de la EA por efecto del Aβ. Los resultados previos que hemos obtenido en el laboratorio muestran que el Aβ tiene un efecto sobre las neuronas piramidales de CA3. También hemos comprobado la existencia de una respuesta compleja con componente excitatorio e inhibitorio, en la sinapsis septohipocampal fimbria/CA3. A partir de estos experimentos, pretendemos investigar los mecanismos por los que las formas tóxicas solubles del péptido Aβ afectan a la neurotransmisión (excitatoria e/o inhibitoria) en la sinapsis fimbria-CA3 del sistema septohipocampal.",
+      "Tipo de proyecto: Investigación y desarrollo Systematic review on screening methods in peripheral neuropathy Inicio: Diciembre 2022 Fin: Enero 2024 Duración Resumen Hay gran heterogeneidad en la literatura respecto a los métodos utilizados para realizar evaluación y tamizaje en pacientes con neuropatía periférica, incluyendo diferentes cuestionarios (por ejemplo, The Michigan Neuropathy Screening Instrument), evaluación en el examen físico (p. ejemplo. test motores y evaluación sensorial -pinprick sensation test, Semmes‐Weinstein monofilament test), así como diferentes métodos paraclínicos (test genéticos), anatomopatológicos y test de inmunohistoquimica e in vitro. Siguiendo la metodología Cochrane para revisiones sistemáticas de la literatura realizaremos un análisis y actualización de los métodos diagnósticos y de tamizaje para la evaluación de la neuropatía periférica según su etiología y utilidad actual. Así mismo, realizaremos un análisis de métodos novedosos o potenciales que se realizarán a futuro. Con esto, daremos mayor claridad, nivel de evidencia y relevancia de los diferentes métodos. Esta revisión sistemática determinará los métodos de tamizaje más utilizados en neuropatía, y se clasificará según su relevancia clínica y utilidad. Modelo de Investigación: Se realizará una revisión sistemática de la literatura de acuerdo con Preferred Reporting Items for Systematic Reviews and Meta-analyses declaration criteria and the current recommendations of the Cochrane Collaboration",
+      "Tipo de proyecto: Investigación y desarrollo EFECTO TERAPÉUTICO DE EXTRACTOS CANNABINOIDES (NATIVOS) SOBRE ESTRÉS OXIDATIVO Y NEURODEGENERACIÓN EN C. elegans Inicio: Noviembre 2023 Duración Resumen El estudio de los efectos de los cannabinoides sobre el organismo humano y de su posible actividad como agentes terapéuticos es actualmente un campo importante de investigación biomédico. Se ha reportado que diversos tipos de cannabinoides pueden tener efectos positivos en enfermedades del sistema nervioso, incluyendo enfermedades neurodegenerativas, actualmente incurables, como la Enfermedad de Alzheimer y Parkinson. Sin embargo, todavía no se han esclarecido los mecanismos de acción, sus principios activos específicos y las vías intra e intercelulares que puedan explicar los efectos benéficos de los cannabinoides. Es por este motivo que se hace necesario estudiar a fondo estos aspectos, al igual que los efectos sinérgicos que tienen varios de los componentes de los derivados cannabinoides en modelos preclínicos como el de Caenorhabditis elegans (C. elegans). Dicho nematodo es usado como modelo in vivo, y permite realizar tamizaje de moléculas promisorias para el estudio y tratamiento de enfermedades del sistema nervioso central (SNC). El objetivo de esta propuesta es evaluar y caracterizar extractos cannabinoides (provenientes de plantas nativas) con potencial uso terapéutico, en modelos in vivo de estrés oxidativo y neurodegeneración en C. elegans. Se usarán diferentes concentraciones de derivados cannabinoides de origen nativo y serán administrados a cepas silvestre y transgénicas de C. elegans, que presentan estrés oxidativo y muerte neuronal selectiva. Se evaluarán los efectos sobre la longevidad (en días), estrés oxidativo y neuroprotección in vivo. Como resultados, esperamos identificar compuestos con actividad neuroprotectora y antioxidante que pueda implementarse como coadyuvantes en el manejo de algunas enfermedades neurodegenerativas. Esperamos publicar nuestros resultados en revistas indexadas internacionales, y así mismo, ser un primer paso para realizar ensayos clínicos en humanos con dichos fitoterapéuticos o con algunos de sus componentes activos que esperamos identificar.",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollo de dispositivos de medición de movimiento de recuperación con carga y fatiga de antebrazo y muñeca. Inicio: Abril 2014 Fin: Marzo 2015 Duración Resumen Desarrollar un sistema que permita medir el movimiento del brazo, antebrazo y muñeca usando componentes electrónicos y validar los parámetros de funcionamiento usando individuos jóvenes con el propósito de utilizar el dispositivo en futuros estudios para el diagnóstico y seguimiento de la enfermedad de Parkinson y otras enfermedades del movimiento.",
+      "Tipo de proyecto: Investigación y desarrollo CARACTERIZACIÓN DE LOS POTENCIALES RELACIONADOS CON LA VOZ EN PACIENTES CON HIPOFONÍA SECUNDARIA A ENFERMEDAD DE PARKINSON Inicio: Enero 2016 Fin: Diciembre 2016 Duración Resumen Este estudio pretende hacer una caracterización de los potenciales relacionados con la voz (VRCP) en pacientes con hipofonía secundaria a la enfermedad de Parkinson (PD). Para tal fin, se compararán los componentes VRCP entre un grupo de pacientes y otro de controles pareados sanos. En cada uno de los grupos se estudiarán adicionalmente las diferencias en tal actividad cortical entre los sensores correspondientes al área motora suplementaria (SMA) y la corteza motora primaria (M1). Así, las comparaciones mencionadas serán analizadas mediante la prueba ANOVA. Los resultados permitirán estimar si se presentan cambios en VRCP asociados a la hipofonía en pacientes con PD.",
+      "Tipo de proyecto: Investigación y desarrollo Clonazepam como primera línea de manejo de Status Epileptico Inicio: Junio 2020 Fin: Mayo 2021 Duración Resumen Antecedentes: El estado epiléptico como urgencia neurológica conlleva implicaciones de alta morbilidad y mortalidad, con un alto consumo de recursos económicos. A pesar de lineamientos internacionales en su manejo inicial intrahospitalario, en Colombia no se encuentran resultados del uso de las benzodiacepinas disponibles. Objetivo: Describir la respuesta clínica, entendida como la terminación clínica o control de crisis epilépticas, en pacientes con estado epiléptico en quienes se utilizó clonazepam como tratamiento de primera línea. Materiales y métodos: Se realizará un estudio tipo serie de casos, a partir de la base de datos del medicamento controlado clonazepam, registrada en la Fundación Cardioinfantil-Instituto de Cardiología entre 2010 y 2018. Los resultados se presentarán como frecuencias absolutas y relativas para las variables cualitativas y como medianas y percentiles 25 y 75 para las cuantitativas. También se presentan según dos grupos de análisis: terminación clínica o progresión a refractariedad.",
+      "Tipo de proyecto: Investigación y desarrollo Revisión sistemática sobre la combinación de las vitaminas del complejo B con diclofenaco para manejo del dolor Inicio: Enero 2016 Fin: Febrero 2021 Duración Resumen Trabajo de revisión sistemática y metanalisis sobre el uso de las vitaminas B, específicamente tiamina, piridoxina y cianocobalamina para el manejo del dolor lumbar. Adicional, se realizará un trabajo de evaluación de su perfil de seguridad y la descripción de sus mecanismos de acción antinociceptivos. Se seleccionarán y evaluarán los artículos mediante la estrategia PICO y siguiendo la metodología Cochraine. Finalmente, se evaluará el papel de sinergia bioquimica entre dichas vitaminas a nivel del sistema nervioso central.",
+      "Tipo de proyecto: Investigación y desarrollo Falsa lateralización epiléptica por EEG en epilepsia del lóbulo temporal asociada con malformación cavernosa cerebral Inicio: Julio 2019 Fin: Diciembre 2020 Duración Resumen La falsa lateralización registrada por EEG es una entidad infrecuente, que ha sido reportada en pacientes con epilepsia del lóbulo temporal y en esclerosis del hipocampo. No ha sido reportado hasta el momento ningún caso de falsa lateralización en pacientes con malformaciones cavernomatosas cerebrales (cavernomas) en otras regiones. Los cavernomas están claramente relacionados como una causa de crisis epilépticas o de epilepsia. Dichos cavernomas consisten en una serie de vasos anormalmente configurados y friables, los cuales generan crisis ya sea por alterar el microambiente neuronal alrededor de la lesión (un mecanismo relevante para lesiones temporales y extratemporales) o por activar mecanismos de epileptogenesis en regiones cerebrales remotas pero conectadas desde el punto de vista anatómico y funcional (un mecanismo relevante para lesiones temporales). Revisaremos un raro caso de falta lateralización por EEG en un paciente con un cavernoma en el giro frontal a nivel parasagital izquierdo. Además, se discutirán los mecanismos fisiopatológicos relacionados con la falsa lateralización inducida por cavernomas.",
+      "Tipo de proyecto: Investigación y desarrollo Mejoría clinica luego de la estimulación cerebral profunda en el brazo anterior de la capsula interna y el striatum ventral para el manejo de dolor central postACV Inicio: Noviembre 2020 Fin: Mayo 2021 Duración Resumen El dolor central posterior al accidente cerebrovascular (CPSP) es una afección debilitante y refractaria que puede desarrollarse después de una lesión por accidente cerebrovascular que involucra vías centrales del dolor. La estimulación cerebral profunda (DBS) se ha utilizado para CPSP con un éxito limitado dirigido a la región gris periventricular (PVG) y la ventralis caudalis del tálamo (VC). Estas estructuras anatómicas clásicas pueden sufrir alteraciones importantes, lo que excluye la posibilidad de modularlas. Existe evidencia de un papel primordial del estriado ventral (VS) y el brazo anterior de la cápsula interna (ALIC) en la recompensa, el procesamiento y los componentes emocionales del dolor. En el presente proyecto, evaluaremos los efectos de dicha estimulación en el largo plazo de dos pacientes con CPSP severamente incapacitante intratable que se sometieron a DBS ALIC / VS unilateral.",
+      "Tipo de proyecto: Investigación y desarrollo Apreciación del arte: un paseo por la pintura Inicio: Marzo 2021 Fin: Mayo 2021 Duración Resumen Apreciación del arte: un paseo por la pintura"
+    ]
+  }
+}

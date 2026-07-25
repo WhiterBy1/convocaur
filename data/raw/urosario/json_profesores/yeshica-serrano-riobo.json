@@ -1,0 +1,69 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/yeshica-serrano-riobo",
+  "nombre": "",
+  "cargo_principal": "Profesor adjunto",
+  "email": "yeshica.serrano@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n2915/descarga-artguru.png",
+  "afiliaciones": [
+    "Profesor adjunto - Vicerrectoría Académica - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": " https://scholar.google.com/citations?hl=es&user=YSGFvT8AAAAJ",
+    "cvlac": " https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=000140 5629",
+    "orcid": " https://orcid.org/0000-0001-9903-9551"
+  },
+  "areas_investigacion": [
+    "Antropología política y jurídica",
+    "Estudios Interseccionales",
+    "Estudios de género",
+    "Etnomusicología"
+  ],
+  "perfil_profesional": "Doctora en Derecho, con maestría en Estudios Políticos e Internacionales y profesional de base en Antropología Social. Experta en diseño, implementación y evaluación de programas sociales con enfoque étnico, de género e intercultural. Amplia experiencia en investigación académica, docencia universitaria y acompañamiento a procesos políticos y organizativos de movimientos sociales y comunitarios. Cuenta con sólida trayectoria en la dirección de programas de financiación para la educación superior, así como en el fortalecimiento del acceso y la permanencia de grupos étnicos a la educación superior. Ha liderado equipos multiculturales en contextos complejos, con habilidades destacadas en articulación interinstitucional, coordinación intersectorial, pensamiento crítico y redacción académica. Ha realizado contribuciones científicas relevantes en antropología jurídica y política, patrimonio cultural y diálogo de saberes. Comprometida con la transformación social desde el trabajo colaborativo, la escucha activa y la construcción de conocimiento situado.",
+  "publicaciones": [
+    {
+      "tipo": "libro",
+      "titulo": "Narrativas y experiencias interculturales: Pedagogías y metodologías alternativas",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ad8846e8-a2b5-4893-bb96-d91ac74279ad"
+    }
+  ],
+  "total_publicaciones": 1,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Acción Colectiva e Interseccionalidad en la Red Nacional de Mujeres Afrocolombianas Kambirí"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Entre cantos y tambores: el rol de la música en la configuración de discursos identitarios en San Basilio de Palenque, Bolívar"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evolución del discurso en Twitter entre Juan Manuel Santos y Álvaro Uribe y sus aliados durante el proceso de paz 2012-2014"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Movimientos sociales y redes transnacionales: un estudio sobre la reivindicación de los derechos ambientales de Orellana y Sucumbíos (Ecuador) frente a Texaco (2003-2013)"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=000140 5629"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0001-9903-9551"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?hl=es&user=YSGFvT8AAAAJ"
+    ]
+  },
+  "id": "yeshica-serrano-riobo",
+  "facultad_csv": "Vicerrectoría Académica",
+  "cargo_csv": "Profesor adjunto",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=000140 5629",
+    "cod_rh": "000140",
+    "datos_generales": {}
+  }
+}

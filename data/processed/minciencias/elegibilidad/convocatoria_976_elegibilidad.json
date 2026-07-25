@@ -1,0 +1,62 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES)",
+        "rol": "Ejecutora",
+        "condicion": "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología. Debe contar con al menos una sede en un municipio de la región seleccionada."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología. Debe contar con al menos una sede en un municipio de la región seleccionada.",
+        "riesgo": "territorio",
+        "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+      },
+      {
+        "condicion": "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología. Debe contar con al menos una sede en un municipio de la región seleccionada.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología.",
+        "Debe contar con al menos una sede en un municipio de la región seleccionada."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como ejecutora. Sin embargo, debe verificar que cuenta con grupos de investigación categorizados en las áreas requeridas y que tiene presencia territorial en la región objetivo, ya que su sede principal está en Bogotá."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología.",
+      "Debe contar con al menos una sede en un municipio de la región seleccionada."
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como ejecutora. Sin embargo, debe verificar que cuenta con grupos de investigación categorizados en las áreas requeridas y que tiene presencia territorial en la región objetivo, ya que su sede principal está en Bogotá.",
+    "fuente": "reglas+llm"
+  }
+}

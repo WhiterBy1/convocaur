@@ -1,0 +1,34 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/gonzalo-ramirez-carrillo",
+  "nombre": "",
+  "cargo_principal": "Profesor de cátedra posgrado",
+  "email": "gonzalo.ramirez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Profesor de cátedra posgrado - Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Economía"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Divulgación de datos ambientales, sociales y de gobernanza: un componente a analizar en Latinoamérica y en el Mercado Integrado Latinoamericano"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El efecto de los instrumentos de cobertura en el valor económico agregado de las empresas colombianas"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Premio Docencia de Excelencia 'Juan Agustín Uricochea y Navarro'",
+      "fecha": "2014"
+    }
+  ],
+  "id": "gonzalo-ramirez-carrillo",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor de cátedra posgrado"
+}

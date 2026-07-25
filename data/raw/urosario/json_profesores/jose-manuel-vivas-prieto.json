@@ -1,0 +1,33 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jose-manuel-vivas-prieto",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "josem.vivas@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5362/Foto+HUB+profe+Vivas.jpg",
+  "afiliaciones": [
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=itXgKCsAAAAJ&hl",
+    "orcid": "https://orcid.org/0000-0002-3637-6881"
+  },
+  "areas_investigacion": [
+    "Atención Primaria de Salud",
+    "Docencia médica",
+    "Medicina familiar",
+    "Modelos de atención"
+  ],
+  "perfil_profesional": "Médico Cirujano egresado de la Universidad Nacional de Colombia, con especialización en Medicina Familiar de la Pontificia Universidad Javeriana y formación en Terapia Familiar Sistémica del Kensington Consultation Centre. Se desempeñó como Director Académico de Javesalud, Coordinador del programa de especialización en Medicina Familiar de la Pontificia Universidad Javeriana. Actualmente Profesor Principal de Carrera en la Escuela de Medicina y Ciencias de la Salud de la Universidad del Rosario, Bogotá, Colombia. Experiencia en investigación enfocada en medicina familiar, atención primaria, modelos de atención, docencia médica, trabajo clínico y comunitario, así como en procesos de acreditación. Manejo de programas de prevención y promoción de la salud, experiencia en prácticas formativas de pregrado y posgrado y en la relación docencia-servicio.",
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-3637-6881"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=itXgKCsAAAAJ&hl"
+    ]
+  },
+  "id": "jose-manuel-vivas-prieto",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera"
+}

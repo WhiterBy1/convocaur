@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+dist/
+build/
+*.tmp
+
+# Salidas personales del laboratorio (cada quien escribe aquí)
+laboratorio/**/salidas/**
+!laboratorio/**/salidas/.gitkeep

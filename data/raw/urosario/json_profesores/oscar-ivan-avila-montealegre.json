@@ -1,0 +1,60 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/oscar-ivan-avila-montealegre",
+  "nombre": "",
+  "cargo_principal": "Profesor de cátedra posgrado",
+  "email": "oscar.avila@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n17501/OscarAvila-0.JPG",
+  "afiliaciones": [
+    "Profesor de cátedra posgrado - Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=56288083500",
+    "google_scholar": "https://scholar.google.com/citations?user=AU8dvLoAAAAJ&hl=es&oi=ao",
+    "orcid": "https://orcid.org/0000-0002-0565-827X",
+    "otros": [
+      "https://ideas.repec.org/e/pvi165.html"
+    ]
+  },
+  "areas_investigacion": [
+    "Ciclos económicos internacionales",
+    "Comercio",
+    "Macroeconomía de la economía abierta"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Diagnóstico al sector agrícola con predominio exportador en el período 2002-2005",
+      "fecha": "2007-8-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4dc05441-eb65-48fd-8dbd-c571de67643a"
+    }
+  ],
+  "total_publicaciones": 1,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Incertidumbre, reformas, CDS soberanos y actividad económica real: evidencia empírica para Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Productividad sectorial y cambio estructural en América Latina"
+    }
+  ],
+  "identidad": {
+    "repec": [
+      "https://ideas.repec.org/e/pvi165.html"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-0565-827X"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=AU8dvLoAAAAJ&hl=es&oi=ao"
+    ],
+    "scopus_id": [
+      "56288083500"
+    ]
+  },
+  "id": "oscar-ivan-avila-montealegre",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor de cátedra posgrado"
+}

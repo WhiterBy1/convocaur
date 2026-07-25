@@ -1,0 +1,36 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/dora-myriam-suarez-villagran",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra posgrado",
+  "email": "doram.suarez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n211/Dora+Myriam.png",
+  "afiliaciones": [
+    "Profesor cátedra posgrado - Maestría en Gestión Estratégica de la Información e Innovación Digital - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=3jjo-64AAAAJ",
+    "orcid": "https://orcid.org/0009-0003-1187-0124"
+  },
+  "areas_investigacion": [
+    "Analítica de datos",
+    "Desarrollo Full Stack",
+    "Educación"
+  ],
+  "perfil_profesional": "Dora Suárez es una profesional especializada en análisis de datos y diseño de soluciones para la toma de decisiones. Posee una maestría en Estadística y experiencia en desarrollo Full Stack. Su experiencia abarca el diseño de arquitecturas de bases de datos relacionales y no relacionales, y es competente en el desarrollo de APIs eficientes, lo que le ha permitido trabajar eficazmente con datos. Además, tiene habilidades para crear interfaces de usuario dinámicas utilizando diversos frameworks de JavaScript. Cuenta con habilidades avanzadas en análisis de datos y uso de herramientas de inteligencia artificial, lo que le permite aportar soluciones innovadoras y efectivas en estos campos. Como investigadora, disfruta trabajar en proyectos que requieren un enfoque innovador y la creación de prototipos desde cero, desarrollos estadísticos a nivel matemático y de probabilidad junto con su implementación computacional. Ha tenido el privilegio de compartir sus conocimientos con estudiantes de pregrado y en cursos de especialización, ya que cree firmemente que la difusión del conocimiento es de suma importancia en su carrera profesional. Es cofundadora de la Fundación Círculos Colombianos de Aprendizaje y tiene especial interés en proyectos que contribuyan a resolver problemas sociales y ambientales, lo que la lleva a buscar oportunidades en organizaciones con objetivos claros relacionados con la crisis climática y problemas sociales graves.",
+  "formacion_academica": [
+    "2013, Estadistica, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2015, Estadistica Mestra, Universidade Federal de Pernambuco (Ufpe)"
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0003-1187-0124"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=3jjo-64AAAAJ"
+    ]
+  },
+  "id": "dora-myriam-suarez-villagran",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor cátedra posgrado"
+}

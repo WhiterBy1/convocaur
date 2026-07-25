@@ -1,0 +1,387 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/nicolas-guillermo-avilan-vargas",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "nicolasg.avilan@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n8252/avilan+vargas+nicolas.JPG",
+  "afiliaciones": [
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=25633619400",
+    "google_scholar": "https://scholar.google.es/citations?user=IJJmLyYAAAAJ&hl=es",
+    "pure": "https://pure.urosario.edu.co/es/persons/nicolas-guillermo-avilan-vargas",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000313211",
+    "orcid": "https://orcid.org/0000-0002-3425-0847"
+  },
+  "areas_investigacion": [
+    "Computational simulation",
+    "Data Science",
+    "Mathematical modelling",
+    "Quantum Computing",
+    "Theoretical physics"
+  ],
+  "perfil_profesional": "Doctor en Física, experto en matemáticas aplicadas e inteligencia artificial, con destacada experiencia en el diseño de cursos de posgrado en ciencia de datos y machine learning. Cuenta con una trayectoria de más de 15 años como profesor universitario en programas de pregrado y posgrado, desde el 2008. Ha liderado y participado en proyectos de investigación interdisciplinarios que han generado múltiples publicaciones internacionales. Sus principales intereses se relacionan con la computación cuántica, el modelamiento matemático, la simulación computacional, la ciencia de datos, la analítica de datos, la inteligencia artificial, la física teórica, la física computacional y la física matemática. Es apasionado por guiar a los estudiantes hacia el éxito académico y profesional.",
+  "formacion_academica": [
+    "2005, Físico, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2010, Magíster en Ciencias Física, Universidad de los Andes - Bogotá D.C.",
+    "2016, Doctor en Ciencias Física, Universidad de los Andes - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "FishEye Matlock: A Random Functional Encoding Mechanism for Secure Location Sharing",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1109/TLA.2025.11007191"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the singularity of the Yeh 4 × 4 transfer matrix formalism",
+      "fecha": "2020-5-20",
+      "enlace": "https://doi.org/10.1080/09500340.2020.1775905"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Dynamics of a round object moving along curved surfaces with friction",
+      "fecha": "2020-3-1",
+      "enlace": "https://doi.org/10.1119/10.0000310"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La espiral de Euler en la montaña rusa",
+      "fecha": "2019-5-6",
+      "enlace": "https://doi.org/https://doi.org/10.14483/23448350.14775"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Coupling the Sorkin-Johnston state to gravity",
+      "fecha": "2014-10-20",
+      "enlace": "https://doi.org/10.1103/PhysRevD.90.084036"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Nueva metodología física y matem_atica de evaluación del Holter",
+      "fecha": "2008-3-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/d5aebe6d-485e-406c-9f01-619dace7cc03"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Análisis de la monitoría fetal con la teoría de la probabilidad",
+      "fecha": "2004-12-30",
+      "enlace": "https://doi.org/https://doi.org/10.18597/rcog.570"
+    }
+  ],
+  "total_publicaciones": 7,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Aplicación del algoritmo de grover en búsquedas no estructuradas: análisis y comparación de la eficiencia de algoritmos de búsqueda con algoritmos cuánticos."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de una librería MLOps: versionamiento, trazabilidad y automatización del ciclo de vida de modelos en entornos Big Data"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000313211"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-3425-0847"
+    ],
+    "google_académico": [
+      "https://scholar.google.es/citations?user=IJJmLyYAAAAJ&hl=es"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/nicolas-guillermo-avilan-vargas"
+    ],
+    "scopus_id": [
+      "25633619400"
+    ]
+  },
+  "id": "nicolas-guillermo-avilan-vargas",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000313211",
+    "cod_rh": "0000313211",
+    "datos_generales": {
+      "Nombre": "Nicolás Guillermo Avilán Vargas",
+      "Nombre en citaciones": "AVILÁN VARGAS, NICOLÁS GUILLERMO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado UNIVERSIDAD DE LOS ANDES Doctorado en Física Enerode2011 - Abrilde 2016 Exploring the physics of the Sorkin-Johnston state: Renormalized stress-energy tensor, Hadamard and energy conditions",
+      "Maestría/Magister UNIVERSIDAD DE LOS ANDES MAESTRIA EN CIENCIAS- FISICA Enerode2008 - Marzode 2010 The Cosmological constant problem from the string theory point of view",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA FISICA Febrerode1997 - Septiembrede 2005 Propiedades Cosmologicas de Universos Sin Big-Bang"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 0 horas Semanales Enero de 2024 de",
+      "UNIVERSIDAD CENTRAL Dedicación: 44 horas Semanales Febrero de 2016 Julio de 2024 Actividades de docencia - Pregrado - Nombre del curso: Proyecto de Modelamiento I, 4 Febrero 2016 Mayo 2016",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 8 horas Semanales Enero de 2008 Diciembre de 2012 Actividades de docencia - Pregrado - Nombre del curso: Fisica I, Sección complementaria. Fisica II, Sección Complementaria. Fisica Experimental I Fisica Experimental II Física Moderna , 80 Enero 2008 Junio 2010",
+      "Instituto Colombiano para la Evaluación de la Educación Dedicación: 2 horas Semanales Enero de 2010 Noviembre de 2011 Actividades de docencia - Docencia/Enseñanza secundaria - Nombre del curso: Fundamentos de Física, 0 Enero 2010 Noviembre 2011"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos",
+      "Ciencias Naturales -- Matemática -- Matemáticas Aplicadas",
+      "Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación",
+      "Ciencias Naturales -- Ciencias Físicas -- Física de la Materia"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemán",
+        "habla": "Aceptable",
+        "escribe": "Deficiente",
+        "lee": "Aceptable",
+        "entiende": "Deficiente"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Portugués",
+        "habla": "Aceptable",
+        "escribe": "Deficiente",
+        "lee": "Aceptable",
+        "entiende": "Aceptable"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Métodos geométricos y algebráicos en física, Activa: Si",
+      "Caracterización de la estructura y dinámica cardiaca, Activa: No",
+      "Desarrollo de modelos computacionales de simulación de estructuras y dinámicas del cuerpo humano, Activa: No",
+      "Caracterización de la estructura y dinámica cardiaca, Activa: No",
+      "Modelado y simulación de efectos plasmónicos y magnetoplasmónicos, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Postulación a distinción meritoria,Universidad Jorge Tadeo Lozano - Enerode 2019"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Otro: NICOLAS GUILLERMO AVILAN VARGAS, Los experimentos mentales de la relatividad general, Finalidad: . En: Colombia ,2016, ,. participación: Docente , 1 semanas Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Modeling and Simulation of Light Interaction with Magnetoplasmonic Nanodiscs. UNIVERSIDAD CENTRAL Estado: Tesis concluida , 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, CONSTRUCCIÓN Y APLICACIÓN DE UNA LIBRERÍA PARA REDES NEURONALES RECURRENTES EN PYTHON. UNIVERSIDAD CENTRAL Estado: Tesis concluida MATEMATICAS, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Santiago González Cruz Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Aplicación de métodos de aprendizaje automático supervisado para la clasificación del impacto económico de mantenimientos en las unidades de bombero de dos plantas de transporte de hidrocarburos por tubería UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): LEIDY KARINA MUÑOZ BOHORQUEZ Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Evaluación de modelos predictivos de la progresión acelerada de la enfermedad renal crónica considerando el patrón longitudinal de presión arterial UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Guevara Luis Hermogenes Rojas Rodriguez Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Implementación de métodos supervisados de Machine Learning para identificar clientes con alta propensión a adquirir un crédito con fines agropecuarios en una entidad financiera. UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): NUBIA SUÁREZ TORRES DANIELA CASTAÑEDA LARRY TOBÓN Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Modelo predictivo basado en métodos supervisados de Machine Learning para mejorar la gestión de oferta académica del pregrado en Ingeniería de Sistemas de la Universidad Central. UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura Reinoso Andrés Quijano Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Análisis de sentimientos sobre tweets relacionados con la Educación Superior en Colombia aplicando los modelos de BERT multilengueje y BETO UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Monica Andrea Quiroga Rivera Karla Marcela Rodríguez Garzón ERIKA GINETH ESPINOSA TÉLLEZ Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Desarrollo de modelos predictivos de deserción de clientes en una startup de telecomunicacionesmediante algoritmos de machine learning y visualización en metabase. UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Yesid Bello David Correa Lina Torres Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Predicción del corrimiento al rojo de las galaxias mediante características fotométricas: Unanálisis comparativo de métodos de aprendizaje supervisado utilizando datos del ExperimentoEspectroscópico de Energía Oscura DESI. UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): JUAN JOSE PEDRAZA Erika Zambrano Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: NICOLAS GUILLERMO AVILAN VARGAS, ESPACIO-TIEMPO DE SITTER Y ANTI DE SITTER - CÁLCULO E INTERPRETACIÓN DE LOS KILLING UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida LICENCIATURA EN FISICA, 2020. Dirigió como: Coturor/asesor, Persona(s) orientada(s): CARLOS STIVEN GUZMÁN RAMÍREZ Tutor(es)/Cotutor(es): CESAR AURELIO HERRENO FIERRO , NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: NICOLAS GUILLERMO AVILAN VARGAS, EFECTO CASIMIR PREDICCIÓN Y ANÁLISIS UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida LICENCIATURA EN FISICA, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): David Julian Cañon Carrillo Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Generaci ́on de un indicador de experiencia basado en comentarios y rese ̃nas en espa ̃nol aplicando el modelo BERT UNIVERSIDAD CENTRAL Estado: Tesis concluida MAESTRÍA EN ANALÍTICA DE DATOS, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Elmer Felipe Carmona Mongua Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: NICOLAS GUILLERMO AVILAN VARGAS, Construcción GNS para la caracterización del enredamiento cuántico UNIVERSIDAD CENTRAL Estado: Tesis concluida MATEMATICAS, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): JAVIER CAMILO GARCIA MATOS Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: NICOLAS GUILLERMO AVILAN VARGAS, Análisis de la estabilidad de las ecuaciones de Friedmann UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida Licenciatura en física, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Nicolas Cuevas Cubillos Tutor(es)/Cotutor(es): CESAR AURELIO HERRENO FIERRO , NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: NICOLAS GUILLERMO AVILAN VARGAS, Transformada de Fourier aplicada al análisis de la estructura microscópica de la materia UNIVERSIDAD CENTRAL Estado: Tesis concluida MATEMATICAS, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): William David Prada Buitrago Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: NICOLAS GUILLERMO AVILAN VARGAS, COMPARACIÓN DE PROPIEDADES DINÁMICAS PARA SOLUCIONES DE AGUJERO NEGRO EN DIMENSIONES ESPACIO-TEMPORALES 3+1 Y 2+1 UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida Licenciatura en física, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Daniel Ricardo Rodríguez Garzón Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: NICOLAS GUILLERMO AVILAN VARGAS, MODOS NORMALES DE OSCILACIÓN EN ONDAS GRAVITACIONALES UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida Licenciatura en física, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Erick Camilo Gualteros Celis Tutor(es)/Cotutor(es): NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NICOLAS GUILLERMO AVILAN VARGAS, Modelling and Simulation of propagation of light in isotropic and anisotropic media with magneto-optic activity Universidad Jorge Tadeo Lozano Estado: Tesis concluida MAESTRÍA EN MODELADO Y SIMULACIÓN, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Bernardo Garibello Suan Tutor(es)/Cotutor(es): CESAR AURELIO HERRENO FIERRO , NICOLAS GUILLERMO AVILAN VARGAS, Areas: Ciencias Naturales -- Ciencias Físicas -- Óptica,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NICOLAS GUILLERMO AVILAN VARGAS, Titulo: Modelo computacional del problema de contacto en una prótesis de tobillo multiaxial Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Jorge Tadeo Lozano programa académico MAESTRÍA EN MODELADO Y SIMULACIÓN Nombre del orientado: John Fernando Sánchez Martínez Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NICOLAS GUILLERMO AVILAN VARGAS, Titulo: Modelamiento de las propiedades electrónicas y estructurales de materiales laminares: avances y perspectivas Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Jorge Tadeo Lozano programa académico MAESTRÍA EN MODELADO Y SIMULACIÓN Nombre del orientado: Alejandro Vergara Sánchez Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NICOLAS GUILLERMO AVILAN VARGAS, Titulo: Modelado del transporte electrónico en bicapas de Grafeno Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Jorge Tadeo Lozano programa académico MAESTRÍA EN MODELADO Y SIMULACIÓN Nombre del orientado: Mario Alejandro Bernal Ortiz Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: NICOLAS GUILLERMO AVILAN VARGAS, Titulo: Sistemas cuánticos abiertos. Implicaciones de las desigualdades de Bell en la información cuántica Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD DE NARIÑO programa académico FISICA Nombre del orientado: Jenny Patricia Concha Obando Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Partículas y Campos,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NICOLAS GUILLERMO AVILAN VARGAS, Titulo: Estudio Post-Newtoniano de las Ondas Gravitacionales en una Teoría de Gravedad Modificada de Cuarto Orden Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA programa académico Maestría en Ciencias - Astronomía Nombre del orientado: Sebastián Rueda Blanco Areas: Ciencias Naturales -- Ciencias Físicas -- Astronomía,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: CHAOS SOLITONS FRACTALS, 2020, Junio",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: MODERN PHYSICS LETTERS A, 2017, Mayo"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: POISSON 2010 - Poisson Geometry in Mathematics and Physics Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-07-20 00:00:00.0, 2010-07-30 00:00:00.0 en Río de Janeiro - Instituto Nacional de Matemática Pura e Aplicada Productos asociados Nombre del producto: Effective action in higher dimensional spacetime Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Instituto Nacional de Matemática Pura e Aplicada Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "1 Nombre del evento: POISSON 2010 - Poisson Geometry in Mathematics and Physics Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-07-20 00:00:00.0, 2010-07-30 00:00:00.0 en Río de Janeiro - Instituto Nacional de Matemática Pura e Aplicada",
+      "Productos asociados Nombre del producto: Effective action in higher dimensional spacetime Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Instituto Nacional de Matemática Pura e Aplicada Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "2 Nombre del evento: 5th ICTP - CLAF LATIN AMERICAN STRING SCHOOL Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-01-01 00:00:00.0, en São Paulo - Universidade Estadual Paulista Instituciones asociadas Nombre de la institución: Instituto De Física Teórica Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "2 Nombre del evento: 5th ICTP - CLAF LATIN AMERICAN STRING SCHOOL Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-01-01 00:00:00.0, en São Paulo - Universidade Estadual Paulista",
+      "Instituciones asociadas Nombre de la institución: Instituto De Física Teórica Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "3 Nombre del evento: XXI CONGRESO NACIONAL DE FÍSICA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-01-01 00:00:00.0, en BARRANQUILLA - Universidad del Atlántico Productos asociados Nombre del producto: Propiedades Cosmológicas de Universos sin Big-Bang Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Sociedad Colombiana De Física Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "3 Nombre del evento: XXI CONGRESO NACIONAL DE FÍSICA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-01-01 00:00:00.0, en BARRANQUILLA - Universidad del Atlántico",
+      "Productos asociados Nombre del producto: Propiedades Cosmológicas de Universos sin Big-Bang Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Sociedad Colombiana De Física Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "4 Nombre del evento: XXIII CONGRESO NACIONAL DE FÍSICA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2009-01-01 00:00:00.0, en SANTA MARTA - Universidad del Magdalena Productos asociados Nombre del producto: The Cosmological constant problem from the string theory point of view Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Instituciones asociadas Nombre de la institución: Sociedad Colombiana De Física Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "4 Nombre del evento: XXIII CONGRESO NACIONAL DE FÍSICA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2009-01-01 00:00:00.0, en SANTA MARTA - Universidad del Magdalena",
+      "Productos asociados Nombre del producto: The Cosmological constant problem from the string theory point of view Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación",
+      "Instituciones asociadas Nombre de la institución: Sociedad Colombiana De Física Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "5 Nombre del evento: Quantum Gravity in the Southern Cone VI Tipo de evento: Taller Ámbito: Internacional Realizado el:2013-09-11 00:00:00.0, 2017-07-14 00:00:00.0 en Marecias - Productos asociados Nombre del producto: Numerical study of the Sorkin-Johnston vacuum for a free massive scalar field Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Instituto de Física Teórica, Universidade Estadual Paulista Tipo de vinculación Gestionadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "5 Nombre del evento: Quantum Gravity in the Southern Cone VI Tipo de evento: Taller Ámbito: Internacional Realizado el:2013-09-11 00:00:00.0, 2017-07-14 00:00:00.0 en Marecias -",
+      "Productos asociados Nombre del producto: Numerical study of the Sorkin-Johnston vacuum for a free massive scalar field Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Instituto de Física Teórica, Universidade Estadual Paulista Tipo de vinculación Gestionadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "6 Nombre del evento: Escuela de Investigación CIMPA \"Álgebra, Combinatoria y Física\" Tipo de evento: Taller Ámbito: Internacional Realizado el:2014-01-20 00:00:00.0, 2014-01-31 00:00:00.0 en Valparaíso - Instituciones asociadas Nombre de la institución: Universidad de Valparaiso Tipo de vinculación Gestionadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "6 Nombre del evento: Escuela de Investigación CIMPA \"Álgebra, Combinatoria y Física\" Tipo de evento: Taller Ámbito: Internacional Realizado el:2014-01-20 00:00:00.0, 2014-01-31 00:00:00.0 en Valparaíso -",
+      "Instituciones asociadas Nombre de la institución: Universidad de Valparaiso Tipo de vinculación Gestionadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "7 Nombre del evento: Geometric, Algebraic and Topological Methods for Quantum Field Theory Tipo de evento: Taller Ámbito: Internacional Realizado el:2017-07-24 00:00:00.0, 2017-08-04 00:00:00.0 en VILLA DE LEYVA - Productos asociados Nombre del producto: Stress-Energy tensor on finite space-time regions Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "7 Nombre del evento: Geometric, Algebraic and Topological Methods for Quantum Field Theory Tipo de evento: Taller Ámbito: Internacional Realizado el:2017-07-24 00:00:00.0, 2017-08-04 00:00:00.0 en VILLA DE LEYVA -",
+      "Productos asociados Nombre del producto: Stress-Energy tensor on finite space-time regions Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "8 Nombre del evento: School and Conference on Noncommutative Geometry Tipo de evento: Taller Ámbito: Internacional Realizado el:2016-06-20 00:00:00.0, 2016-07-01 00:00:00.0 en VILLA DE LEYVA - Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Gestionadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "8 Nombre del evento: School and Conference on Noncommutative Geometry Tipo de evento: Taller Ámbito: Internacional Realizado el:2016-06-20 00:00:00.0, 2016-07-01 00:00:00.0 en VILLA DE LEYVA -",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "9 Nombre del evento: IIa Oficina de Física Estatística Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-11-30 00:00:00.0, 2015-12-02 00:00:00.0 en Brasilia - Universidade de Brasilia Productos asociados Nombre del producto: The Sorkin-Johnston state: Entropy for Quantum Fields in Spacetime Regions Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Centro Internacional de Física da Matéria Condensada Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "9 Nombre del evento: IIa Oficina de Física Estatística Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-11-30 00:00:00.0, 2015-12-02 00:00:00.0 en Brasilia - Universidade de Brasilia",
+      "Productos asociados Nombre del producto: The Sorkin-Johnston state: Entropy for Quantum Fields in Spacetime Regions Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Centro Internacional de Física da Matéria Condensada Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "10 Nombre del evento: Octava Escuela de Física Matemática Tipo de evento: Taller Ámbito: Internacional Realizado el:2016-05-23 00:00:00.0, 2016-05-27 00:00:00.0 en Budapest - Productos asociados Nombre del producto: Induced Gravity in Order to Satisfy Stress-Energy Conditions in 1+1 Finite Regions Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "10 Nombre del evento: Octava Escuela de Física Matemática Tipo de evento: Taller Ámbito: Internacional Realizado el:2016-05-23 00:00:00.0, 2016-05-27 00:00:00.0 en Budapest -",
+      "Productos asociados Nombre del producto: Induced Gravity in Order to Satisfy Stress-Energy Conditions in 1+1 Finite Regions Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "11 Nombre del evento: XIX SEMANA DE LA ENSEÑANZA DE LA FÍSICA 2016 Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-10-24 00:00:00.0, 2016-10-28 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Campos Cuánticos en Espacio-Tiempos Curvos Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "11 Nombre del evento: XIX SEMANA DE LA ENSEÑANZA DE LA FÍSICA 2016 Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-10-24 00:00:00.0, 2016-10-28 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Campos Cuánticos en Espacio-Tiempos Curvos Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "12 Nombre del evento: Geometric, Algebraic and Topological Methods for Quantum Field Theory Tipo de evento: Taller Ámbito: Internacional Realizado el:2013-07-15 00:00:00.0, 2013-07-27 00:00:00.0 en VILLA DE LEYVA - Productos asociados Nombre del producto: Sorkin-Johnston Vacuum: Prescription and progressorkin Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "12 Nombre del evento: Geometric, Algebraic and Topological Methods for Quantum Field Theory Tipo de evento: Taller Ámbito: Internacional Realizado el:2013-07-15 00:00:00.0, 2013-07-27 00:00:00.0 en VILLA DE LEYVA -",
+      "Productos asociados Nombre del producto: Sorkin-Johnston Vacuum: Prescription and progressorkin Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "13 Nombre del evento: Geometric, Algebraic and Topological Methods for Quantum Field Theory Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-07-20 00:00:00.0, 2015-07-31 00:00:00.0 en VILLA DE LEYVA - Productos asociados Nombre del producto: The coupling the Sorkin-Johnston State to Gravity Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "13 Nombre del evento: Geometric, Algebraic and Topological Methods for Quantum Field Theory Tipo de evento: Taller Ámbito: Internacional Realizado el:2015-07-20 00:00:00.0, 2015-07-31 00:00:00.0 en VILLA DE LEYVA -",
+      "Productos asociados Nombre del producto: The coupling the Sorkin-Johnston State to Gravity Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "14 Nombre del evento: School on Approaches to Quantum Gravity Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-02 00:00:00.0, 2013-09-09 00:00:00.0 en São Paulo - Instituciones asociadas Nombre de la institución: Unesp Tipo de vinculación Gestionadora Nombre de la institución: Instituto de Física Teórica, Universidade Estadual Paulista Tipo de vinculación Gestionadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "14 Nombre del evento: School on Approaches to Quantum Gravity Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-02 00:00:00.0, 2013-09-09 00:00:00.0 en São Paulo -",
+      "Instituciones asociadas Nombre de la institución: Unesp Tipo de vinculación Gestionadora Nombre de la institución: Instituto de Física Teórica, Universidade Estadual Paulista Tipo de vinculación Gestionadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente",
+      "15 Nombre del evento: South American Workshop on the Foundations of Quantum Theory and Cosmology Tipo de evento: Taller Ámbito: Internacional Realizado el:2014-11-03 00:00:00.0, 2014-11-07 00:00:00.0 en São Paulo - Productos asociados Nombre del producto: Coupling the Sorkin-Johnston State to Gravity Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Instituto de Física Teórica, Universidade Estadual Paulista Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "15 Nombre del evento: South American Workshop on the Foundations of Quantum Theory and Cosmology Tipo de evento: Taller Ámbito: Internacional Realizado el:2014-11-03 00:00:00.0, 2014-11-07 00:00:00.0 en São Paulo -",
+      "Productos asociados Nombre del producto: Coupling the Sorkin-Johnston State to Gravity Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Instituto de Física Teórica, Universidade Estadual Paulista Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Asistente , Ponente",
+      "16 Nombre del evento: Encuentro de Geometría y sus Aplicaciones Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2024-06-19 00:00:00.0, 2024-06-21 00:00:00.0 en BOGOTÁ, D.C. - Universidad Pedagógica Nacional Productos asociados Nombre del producto: Descifrando patrones: Geometría computacional como llave para el aprendizaje automático Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "16 Nombre del evento: Encuentro de Geometría y sus Aplicaciones Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2024-06-19 00:00:00.0, 2024-06-21 00:00:00.0 en BOGOTÁ, D.C. - Universidad Pedagógica Nacional",
+      "Productos asociados Nombre del producto: Descifrando patrones: Geometría computacional como llave para el aprendizaje automático Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "17 Nombre del evento: International School on Plasmonics, Magnetoplasmonics, and Applications ISPMA-2019 Tipo de evento: Taller Ámbito: Internacional Realizado el:2019-04-29 00:00:00.0, 2019-05-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Distrital Francisco José de Caldas Instituciones asociadas Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora Participantes Nombre: CESAR AURELIO HERRENO FIERRO Rol en el evento: Organizador Nombre: EDWIN HERRERA VASCO Rol en el evento: Organizador Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador Nombre: MARIO ZAPATA HERRERA Rol en el evento: Organizador Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Organizador",
+      "17 Nombre del evento: International School on Plasmonics, Magnetoplasmonics, and Applications ISPMA-2019 Tipo de evento: Taller Ámbito: Internacional Realizado el:2019-04-29 00:00:00.0, 2019-05-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Distrital Francisco José de Caldas",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: CESAR AURELIO HERRENO FIERRO Rol en el evento: Organizador Nombre: EDWIN HERRERA VASCO Rol en el evento: Organizador Nombre: JOSE AUGUSTO GALVIS ECHEVERRI Rol en el evento: Organizador Nombre: MARIO ZAPATA HERRERA Rol en el evento: Organizador Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Organizador",
+      "18 Nombre del evento: III Congreso Internacional de Matemáticas Aplicadas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-09-04 00:00:00.0, 2018-09-07 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque Productos asociados Nombre del producto: LA ESPIRAL DE EULER EN LA MONTAÑA RUSA Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "18 Nombre del evento: III Congreso Internacional de Matemáticas Aplicadas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-09-04 00:00:00.0, 2018-09-07 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque",
+      "Productos asociados Nombre del producto: LA ESPIRAL DE EULER EN LA MONTAÑA RUSA Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "19 Nombre del evento: III Congreso Internacional de Matemáticas Aplicadas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-09-04 00:00:00.0, 2018-09-07 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque Productos asociados Nombre del producto: UN MATEMÁTICO EN UN TURNO DE VIGILANCIA Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente",
+      "19 Nombre del evento: III Congreso Internacional de Matemáticas Aplicadas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-09-04 00:00:00.0, 2018-09-07 00:00:00.0 en BOGOTÁ, D.C. - Universidad El Bosque",
+      "Productos asociados Nombre del producto: UN MATEMÁTICO EN UN TURNO DE VIGILANCIA Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD CENTRAL Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NICOLAS GUILLERMO AVILAN VARGAS Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, NICOLAS GUILLERMO AVILAN VARGAS, INGRID LORENA PRIETO BOHORQUEZ, LUISA FERNADA ALVAREZ TOBIAN, SIGNED ESPERANZA PRIETO BOHORQUEZ, SANDRA CATALINA CORREA HERRERA, \"Comportamiento fractal del ventrículo izquierdo durante la dinámica cardiaca\" . En: Colombia REVISTA COLOMBIANA DE CARDIOLOGIA ISSN: 0120-5633 ed: Permanyer Publications Ltd v. 13 fasc. 3 p.165 - 170 ,2006, DOI:",
+        "titulo": "Comportamiento fractal del ventrículo izquierdo durante la dinámica cardiaca",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, LUISA FERNADA ALVAREZ TOBIAN, NICOLAS GUILLERMO AVILAN VARGAS, SIGNED ESPERANZA PRIETO BOHORQUEZ, ELKIN JAVIER CASADIEGO RINCON, SANDRA CATALINA CORREA HERRERA, \"Variabilidad de la dimensión fractal del árbol coronario izquierdo en pacientes con enfermedad arterial oclusiva severa. Dinámica fractal de la ramificación coronaria\" . En: Colombia REVISTA COLOMBIANA DE CARDIOLOGIA ISSN: 0120-5633 ed: Permanyer Publications Ltd v. 11 fasc. 4 p.185 - 192 ,2004, DOI:",
+        "titulo": "Variabilidad de la dimensión fractal del árbol coronario izquierdo en pacientes con enfermedad arterial oclusiva severa. Dinámica fractal de la ramificación coronaria",
+        "anio": "2004"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, SIGNED ESPERANZA PRIETO BOHORQUEZ, NICOLAS GUILLERMO AVILAN VARGAS, SANDRA CATALINA CORREA HERRERA, PEDRO ALFONSO BERNAL CANCHON, \"Nueva metodología física y matemática de evaluación del Holter\" . En: Colombia REVISTA COLOMBIANA DE CARDIOLOGIA ISSN: 0120-5633 ed: Permanyer Publications Ltd v. 15 fasc. 2 p.50 - 54 ,2008, DOI:",
+        "titulo": "Nueva metodología física y matemática de evaluación del Holter",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, SIGNED ESPERANZA PRIETO BOHORQUEZ, NICOLAS GUILLERMO AVILAN VARGAS, LUISA FERNADA ALVAREZ TOBIAN, SANDRA CATALINA CORREA HERRERA, \"Diagnóstico matemático de la monitoría fetal con la ley de Zipf-Mandelbrot y la teoría de los sistemas dinámicos aplicados a la fisiologóa cardiaca\" . En: Colombia REVISTA COLOMBIANA DE OBSTETRICIA Y GINECOLOGIA ISSN: 0034-7434 ed: Federacion Colombiana de Asociaciones de Obstetricia y Ginecologia- FECOLSOG v. 57 fasc. 2 p.19 - 26 ,2006, DOI:",
+        "titulo": "Diagnóstico matemático de la monitoría fetal con la ley de Zipf-Mandelbrot y la teoría de los sistemas dinámicos aplicados a la fisiologóa cardiaca",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NICOLAS GUILLERMO AVILAN VARGAS, JOSE MARIA ROLANDO ROLDAN GIRALDO, \"The cosmological constant problem from the point of view of string theory\" . En: Colombia JOURNAL OF COMMUNICATIONS AND NETWORKS ISSN: 1976-5541 ed: KOREAN INST COMMUNICATIONS SCIENCES (K I C S) v. 1011 fasc. N/A p.1 - 8 ,2010, DOI: N/A",
+        "titulo": "The cosmological constant problem from the point of view of string theory",
+        "doi": "N/A",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NICOLAS GUILLERMO AVILAN VARGAS, ANDRES FERNANDO REYES LEGA, \"Coupling the Sorkin-Johnston state to gravity\" . En: Colombia PHYSICAL REVIEW D ISSN: 2470-0010 ed: AMER PHYSICAL SOC v. 90 fasc. 145 p.840361 - 840366 ,2014, DOI: doi.org/10.1103/PhysRevD.90.084036",
+        "titulo": "Coupling the Sorkin-Johnston state to gravity",
+        "doi": "doi.org/10.1103/PhysRevD.90.084036",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NICOLAS GUILLERMO AVILAN VARGAS, JAVIER CAMILO GARCIA MATOS, \"La espiral de Euler en la montaña rusa\" . En: Colombia REVISTA CIENTIFICA ISSN: 0124-2253 ed: v. 2 fasc. 35 p.225 - 232 ,2019, DOI: 10.14483/23448350.14775",
+        "titulo": "La espiral de Euler en la montaña rusa",
+        "doi": "10.14483/23448350.14775",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NICOLAS GUILLERMO AVILAN VARGAS, GABRIEL MATEO MEJIA SEPULVEDA, FERNEY JAVIER RODRIGUEZ DUENAS, LUIS QUIROGA PUELLO, \"Dynamics of a round object moving along curved surfaces with friction\" . En: Colombia AMERICAN JOURNAL OF PHYSICS ISSN: 0002-9505 ed: AIP Publishing v. 88 fasc. 3 p.229 - 237 ,2020, DOI: 10.1119/10.0000310",
+        "titulo": "Dynamics of a round object moving along curved surfaces with friction",
+        "doi": "10.1119/10.0000310",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NICOLAS GUILLERMO AVILAN VARGAS, JOSE AUGUSTO GALVIS ECHEVERRI, BERNARDO GARIBELLO SUAN, CESAR AURELIO HERRENO FIERRO, \"On the singularity of the Yeh 4 × 4 transfer matrix formalism\" . En: Colombia JOURNAL OF MODERN OPTICS ISSN: 1362-3044 ed: Taylor & Francis Ltd v. 67 fasc. 9 p.832 - 836 ,2020, DOI: 10.1080/09500340.2020.1775905",
+        "titulo": "On the singularity of the Yeh 4 × 4 transfer matrix formalism",
+        "doi": "10.1080/09500340.2020.1775905",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NICOLAS GUILLERMO AVILAN VARGAS, JAVIER OSWALDO RODRIGUEZ VELASQUEZ, JUAN MANUEL TEJEIRO SARMIENTO, \"Propiedades Cosmológicas de Universos Sin Big-Bang\" . En: Colombia REVISTA COLOMBIANA DE FISICA ISSN: 0120-2650 ed: Pontificia Universidad Javeriana v. 38 fasc. 01 p.407 - 410 ,2006, DOI: Palabras: Cosmología, Ecuaciones de Campo, Relatividad General,",
+        "titulo": "Propiedades Cosmológicas de Universos Sin Big-Bang",
+        "doi": "Palabras:",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, NICOLAS GUILLERMO AVILAN VARGAS, DARIO ECHEVERRI ARCILA, \"Medidas fractales de arterias coronarias en un modelo experimental de reestenosis\" . En: Colombia REVISTA COLOMBIANA DE CARDIOLOGIA ISSN: 0120-5633 ed: Permanyer Publications Ltd v. 10 fasc. 2 p.65 - 72 ,2002, DOI:",
+        "titulo": "Medidas fractales de arterias coronarias en un modelo experimental de reestenosis",
+        "anio": "2002"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, NICOLAS GUILLERMO AVILAN VARGAS, PAOLA HINCAPIE PRIETO, \"Análisis de la monitoria fetal con la teoría de la probabilidad\" . En: Colombia REVISTA COLOMBIANA DE OBSTETRICIA Y GINECOLOGIA ISSN: 0034-7434 ed: Federacion Colombiana de Asociaciones de Obstetricia y Ginecologia- FECOLSOG v. 55 fasc. 4 p.267 - 278 ,2004, DOI: doi.org/10.18597/issn.0034-7434",
+        "titulo": "Análisis de la monitoria fetal con la teoría de la probabilidad",
+        "doi": "doi.org/10.18597/issn.0034-7434",
+        "anio": "2004"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, RUBEN ERNESTO CAYCEDO BELTRAN, NICOLAS GUILLERMO AVILAN VARGAS, SIGNED ESPERANZA PRIETO BOHORQUEZ, SANDRA CATALINA CORREA HERRERA, LUIS HEBER ULLOA GUERRERO, \"Medidas fractales de radiografías de tórax de pacientes con diferentes patologías\" . En: Colombia Revista Colombiana De Ciencias De La Salud ISSN: 2322-6617 ed: Universidad del Atlántico v. 4 fasc. 1 p.31 - 38 ,2006, DOI:",
+        "titulo": "Medidas fractales de radiografías de tórax de pacientes con diferentes patologías",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JAVIER OSWALDO RODRIGUEZ VELASQUEZ, PEDRO ALFONSO BERNAL CANCHON, NICOLAS GUILLERMO AVILAN VARGAS, SIGNED ESPERANZA PRIETO BOHORQUEZ, \"Diagnóstico Matemático de la monitoria fetal aplicando la ley de Zipf-Mandelbrot\" . En: Colombia REVISTA FACULTAD DE MEDICINA ISSN: 2357-3848 ed: Universidad Nacionalde Colombia v. 54 fasc. 2 p.96 - 107 ,2006, DOI:",
+        "titulo": "Diagnóstico Matemático de la monitoria fetal aplicando la ley de Zipf-Mandelbrot",
+        "anio": "2006"
+      }
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Modelado y simulación de sistemas multicapa con actividad magnética Inicio: Febrero 2018 Fin: Noviembre 2018 Duración Resumen Se estudia desde el punto de vista teórico el vínculo entre las propiedades plasmónicas y magneto-ópticas de estructuras multicapas continuas ultradelgadas, es decir de unos pocos nanómetros. Se considerarán materiales ferromagnéticos para analizar los efectos que distintas configuraciones de magnetización producen sobre los modos plasmónicos excitados, así como el efecto de estas resonancias plasmónicas sobre la respuesta magneto-óptica de las estructuras.",
+      "Tipo de proyecto: Investigación y desarrollo Control de la respuesta plasmónica de un arreglo de nanodiscos metálicos Inicio: Enero 2019 Fin: Diciembre 2020 Duración Resumen Cuando la luz interactúa con un metal, en la superficie de éste se excitan oscilaciones colectivas de densidad de carga eléctrica denominadas plasmones superficiales (modos plasmónicos), las cuales han demostrado una enorme cantidad de posibilidades prácticas como la miniaturización de los dispositivos ópticos a la escala nanométrica (nanofotónica) y el mejoramiento sin precedentes del desempeño de sensores bioquímicos, entre otros [1,2]. En este proyecto planteamos desarrollar una investigación en el campo de la interacción entre la luz y nanopartículas metálicas (nanodiscos) mediante el desarrollo de simulaciones computacionales que permitan diseñar arreglos ordenados de nanodiscos y así mismo obtener soluciones numéricas que permitan calcular parámetros estructurales y composicionales óptimos conducentes al control de la respuesta óptica. Para esto, se resolverán las ecuaciones de Maxwell sometidas a las condiciones de frontera propias del sistema de nanodiscos usando como herramienta computacional el método de diferencias finitas (Finite Differences Method). Desde el punto de vista computacional, se espera obtener una herramienta de cálculo de la respuesta óptica efectiva del sistema de nanodiscos a través de cantidades canónicas como las secciones transversales de dispersión (scattering), absorción y extinción en función de parámetros de entrada que definen la geometría (diámetro, altura y separación entre centros) y composición del arreglo de nanodiscos, así como las características de la luz incidente (longitud de onda, ángulo de incidencia y estado de polarización). Esta herramienta permitirá desarrollar estudios de optimización del arreglo de nanodiscos para el diseño de materiales con funcionalidades extraordinarias generadas por las interacciones plasmónicas entre las nanopartículas."
+    ]
+  }
+}

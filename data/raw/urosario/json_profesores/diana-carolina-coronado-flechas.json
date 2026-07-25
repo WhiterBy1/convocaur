@@ -1,0 +1,39 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/diana-carolina-coronado-flechas",
+  "nombre": "",
+  "cargo_principal": "Instructor",
+  "email": "diana.coronado@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n18180/CAROLINA+C.jpg",
+  "afiliaciones": [
+    "Instructor - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "orcid": "https://orcid.org/0000-0002-7425-7277"
+  },
+  "areas_investigacion": [
+    "Rehabilitación cardiaca",
+    "Rehabilitación pulmonar"
+  ],
+  "formacion_academica": [
+    "2005, Fisioterapeuta, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2010, Especialista en rehabilitación Cardiaca y Pulmonar, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Programa de educación intrahospitalaria en enfermedad pulmonar obstructiva crónica: Una estrategia para el automanejo",
+      "fecha": "2021-5-1",
+      "enlace": "https://doi.org/10.12804/revistas.urosario.edu.co/revsalud/a.10283"
+    }
+  ],
+  "total_publicaciones": 1,
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-7425-7277"
+    ]
+  },
+  "id": "diana-carolina-coronado-flechas",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Instructor"
+}

@@ -1,0 +1,493 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/raul-alberto-marino-zamudio",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "raul.marino@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n10047/Ra%C3%BAl+Alberto+Marino.jpg",
+  "afiliaciones": [
+    "Investigador - Grupo de Investigación de Estudios Políticos e Internacionales - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Estudios Sociales, Políticos e Internacionales - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57204358594",
+    "google_scholar": "https://scholar.google.com/citations?user=VBAWpOoAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/raul-alberto-marino-zamudio",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001343551",
+    "orcid": "https://orcid.org/0000-0001-5851-3405"
+  },
+  "areas_investigacion": [
+    "Energy and GHG modelling",
+    "Informal settlements upgrading",
+    "Sustainable Urban design",
+    "Urban Informatics",
+    "Urban planning"
+  ],
+  "perfil_profesional": "Profesor principal de la Facultad de Estudios Internacionales, Políticos y Urbanos de la Universidad del Rosario. Arquitecto de la Universidad Nacional de Colombia, magíster en Urban Design de la Universidad ETH de Zurich (Suiza) y doctor en Sostenibilidad Urbana de la University of Melbourne, Australia. Consultor en Sostenibilidad Urbana y Revitalización de Asentamientos Informales en Colombia, Indonesia y Etiopía. Investigador postdoctoral para el proyecto de cooperación internacional entre el gobierno de Australia e Indonesia \"Water Sensitive Cities in Indonesia\" y coordinador de taller de diseño urbano en Monash University. Consultor en Sostenibilidad Urbana para la Secretaría de Planeación de la Alcaldía de Bucaramanga. Ha sido profesor e investigador en la Universidad de La Salle, University of Melbourne, RMIT y Monash University (Australia).",
+  "formacion_academica": [
+    "2005, Arquitecto, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2008, Master of Advanced Studies Eth in Architecture, Specialized in Urban Transformation in Developing Te, Swiss Federal Institute of Technology Zürich",
+    "2020, Doctor en Filosofía, University of Melbourne"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Public spaces transformations in Latin America during Covid-19: Community Resilience and TacticalUrbanism in Bogota, Quito and Mexico City",
+      "fecha": "2024-9-1",
+      "enlace": "https://doi.org/10.6093/2723-9608/10290"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Assessment of public space potential for climate change adaptation in three Colombian cities: nature-based solutions and urban design guidelines",
+      "fecha": "2024-4-1",
+      "enlace": "https://doi.org/https://doi.org/10.2166/wpt.2024.089"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Public spaces transformations in Latin America during Covid19: Community resilience and Tactical Urbanism in Bogota, Quito and Mexico City",
+      "fecha": "2022-9-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/be8783b9-d171-4dbf-a83d-2100b2a629af"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Building climate resilient communities through Water Sensitive public space design and activation: Public parks program in Bucaramanga, Colombia: .",
+      "fecha": "2021-12-6",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F94eecb94-ae73-434a-b88e-6f9a772f4baa"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Participatory Public Space Design Strategies for Water Sensitive Cities: Experiences in Bogor, Indonesia.",
+      "fecha": "2017-8-8",
+      "enlace": "https://research-hub.urosario.edu.co/display/dea213b1-87f7-4522-945e-61b10717bc27"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "De la acrópolis a la agrópolis: estrategias en busca de una seguridad alimentaria y sostenibilidad ambiental",
+      "fecha": "2012-5-12",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F76887c7b-d376-4df2-9ee0-941f468b4e86"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Entre la modernidad y los cerros: Historias contadas de los Barrios San Diego y Parque Nacional, Bogotá",
+      "fecha": "2025-2-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/c7d9b72e-46f1-4a99-b61c-6fb4cc07e11b"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Ciudades Sensibles al Agua en Colombia: Cartilla para la adaptación de espacios públicos al cambio climático",
+      "fecha": "2024-2-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e779e52b-8c78-43a7-8baf-b128bab18de3"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Entre la modernidad y los cerros: Historias contadas de los Barrios San Diego y Parque Nacional",
+      "fecha": "2024-11-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F03e24fc0-6d69-4936-aa3d-8ef38f2f358a"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Memorias del Agua: Comunidad, territorio y arte urbano en la cuenca del Rio Tunjuelo, Bogotá, Colombia",
+      "fecha": "2023-12-1",
+      "enlace": "https://doi.org/10.48713/10336_42289"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Periferias centrales: patrimonio, ciudad y comunidad en los barrios Belén, Santa Barbara y Lourdes",
+      "fecha": "2023-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F350a5382-561c-477a-86f3-c433e5336f7b"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Nueva flexibilidad de la vivienda y el espacio público: ideas para una habitabilidad Post-Covid: New flexibility for housing and public spaces: Ideas for a PostCovid habitability",
+      "fecha": "2022-9-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/d1dc2564-cda8-4df7-bc3b-608fdcaa9146"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Retrospectiva 40/90: Memorias urbanas de la Ciudadela El Tunal y barrios obreros del Sur de Bogota",
+      "fecha": "2022-11-4",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7678aac5-76f8-41e3-a2a3-19e81ee948b7"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Retrospectiva 40/90: Memorias urbanas en la Ciudadela el Tunal y barrios obreros del sur de Bogotá",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.48713/10336_38050"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Building Climate-Resilient Communities Through Water-Sensitive Public Space Design and Activation: Public Parks Program in Bucaramanga, Colombia",
+      "fecha": "2025-1-4",
+      "enlace": "https://doi.org/10.1007/978-981-97-7521-7"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Impacts of COVID-19 lockdown restrictions on housing and public space use and adaptation: Urban proximity, public health, and vulnerability in three Latin American cities",
+      "fecha": "2021-6-7",
+      "enlace": "https://doi.org/10.1201/9781003181590"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Transition towards water sensitive cities in Colombia: Public spaces as platform for ecosystem´s services recovery",
+      "fecha": "2023-11-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F950ba756-d5f8-46a9-8777-01a68fbcc738"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Integrated residential household energy consumption and GHG emissions modelling at Metropolitan Scale",
+      "fecha": "2017-5-5",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F429ebb65-4658-4c3d-bdc4-084e6fb182c1"
+    },
+    {
+      "tipo": "documento de conferencia",
+      "titulo": "Jumping to the top: Catalysts for leapfrogging to a water sensitive city",
+      "fecha": "2018-10-17",
+      "enlace": "https://doi.org/10.1088/1755-1315/179/1/012034"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Enhancing disaster management and resilience to floods through exploratory scenario planning in Colombia: A toolkit for practitioners and communities",
+      "fecha": "2025-4-1",
+      "enlace": "https://doi.org/https://go.lincolninst.edu/toolkit-planning-colombia-wp-en.pdf"
+    }
+  ],
+  "total_publicaciones": 20,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Transición hacia ciudades sensibles al agua en Colombia: Espacios públicos como plataforma de recuperación de servicios ecosistémicos.",
+      "fecha": "2022-05-02 - 2023-12-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F909981e7-08c9-441f-a2d4-f0beffa84730"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Infraestructuras verdes en Medellín y Cartagena: análisis de la percepción ciudadana e impacto de políticas públicas en su adopción y funcionamiento"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2024"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001343551"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0001-5851-3405"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=VBAWpOoAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/raul-alberto-marino-zamudio"
+    ],
+    "scopus_id": [
+      "57204358594"
+    ]
+  },
+  "id": "raul-alberto-marino-zamudio",
+  "facultad_csv": "Escuela de Estudios Sociales, Políticos e Internacionales",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001343551",
+    "cod_rh": "0001343551",
+    "datos_generales": {
+      "Nombre": "RAUL ALBERTO MARINO ZAMUDIO",
+      "Nombre en citaciones": "MARINO ZAMUDIO, RAUL ALBERTO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Academia.edu",
+      "Linkedln"
+    ],
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado THE UNIVERSITY OF MELBOURNE PhD Urban Sustainability Abrilde2015 - Juliode 2020 Assessing the impact of urban form in the energy consumption and GHG emissions in Metropolitan Melbourne",
+      "Maestría/Magister Swiss Federal Insititute of Technology Master in Urban Transformations in Developing Territories Septiembrede2007 - Octubrede 2008 Energy Concepts for Tomorrow: Sustainable Urbanismo in Addis Abeba, Ethiopia",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA ARQUITECTURA Enerode2000 - Abrilde 2005 Laberinto - Exploracion Fenomenologica de Espacios Construidos"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración Universidad de La Salle ARQUITECTURA Juniode2011 - Juliode 2011",
+      "Cursos de corta duración Blekinge Institute of Technology Specialization in Integrated Urban Planning Agostode2009 - Noviembrede 2010",
+      "Cursos de corta duración JICA Hokkaido Center International training course in Regional Planning Septiembrede2011 - Noviembrede 2011"
+    ],
+    "estancias_posdoctorales": [
+      "Water Sensitive Cities in Indonesia MONASH UNIVERSITY Monash Sustainable Development Institute Desde: Agosto de 2018 Hasta: Agosto de 2020 Cuatro reportes de investigacion sobre el proyecto de cooperacion internacional \"Water Sensitive Cities in Indonesia\""
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Julio de 2021 de Actual Actividades de docencia - Pregrado - Nombre del curso: Diseño y Gestión Urbana, 18 Julio 2021 Diciembre 2021",
+      "Alcaldía De Bucaramanga Secretaria de Educacion Dedicación: 40 horas Semanales Octubre de 2020 Diciembre de 2021",
+      "Alcaldía de Bucaramanga Dedicación: 40 horas Semanales Enero de 2020 Junio de 2021",
+      "MONASH UNIVERSITY Dedicación: 40 horas Semanales Septiembre de 2017 Julio de 2019",
+      "THE UNIVERSITY OF MELBOURNE Dedicación: 15 horas Semanales Enero de 2015 Junio de 2017",
+      "Royal Melbourne Institute of Technology Dedicación: 6 horas Semanales Febrero de 2017 Junio de 2017",
+      "Universidad de La Salle Dedicación: 45 horas Semanales Junio de 2009 Junio de 2014",
+      "HIFAB International Dedicación: 35 horas Semanales Octubre de 2009 Julio de 2010",
+      "Oficina Internancional para las Migraciones UN Dedicación: 45 horas Semanales Marzo de 2009 Septiembre de 2009",
+      "Zurich Hochschule der Künste Dedicación: 30 horas Semanales Noviembre de 2007 Diciembre de 2007",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Dedicación: 40 horas Semanales Junio de 2006 Julio de 2007",
+      "Fernando Cortes y Cia. Dedicación: 35 horas Semanales Febrero de 2005 Octubre de 2005"
+    ],
+    "areas_actuacion": [
+      "Humanidades -- Arte -- Arquitectura y Urbanismo",
+      "Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemán",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Ciudades Sensibles al Agua en Colombia, Activa: Si",
+      "Habitat Marginal Urbano y Rural, Activa: Si",
+      "Planificacion Urbana y Regional Sostenible, Activa: Si",
+      "Ciudades Sensibles al Agua en Colombia, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Beca ESKAS Gobierno de Suiza para estudios de Maestria,State Secretariat for Education and Research SER (Switzerland) - Agostode 2007",
+      "Beca para Especializacion en Integrated Urban Planning ,Agencia Sueca de Cooperación para el Desarrollo - Marzode 2009",
+      "Beca para Especializacion en Regional Management and Developing,Japan International Cooperation Agency - Agostode 2010",
+      "Beca Etta-Becker-Donner del Österreichisches Lateinamerika Institut,Österreichisches Lateinamerika Institut - Mayode 2012",
+      "Exhibición: \"Addis Abeba-Energy Concepts for Tomorrow\" en Pabellón de Suiza en la XI Biennale de Venecia (Italia) 2008,XI Bienal de Arquitectura de Venecia, Italia - Septiembrede 2008",
+      "Beca Completa para Estudios de Doctorado Programa MSD-CSIRO Australia,THE UNIVERSITY OF MELBOURNE - Marzode 2014",
+      "Ganador de la Beca de Urbanismo Tactico - Festival de las Artes Valientes 2021 - IDARTES Bogota,Instituto Distrital de las Artes - Idartes - Agostode 2021",
+      "Ganador de la Beca Somos Parte - Fortalecimiento de Tejidos Sociales Comunitarios - SCRD Bogota,Secretaría de Cultura, Recreación y Deporte de Bogotá - Juniode 2022"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: RAUL ALBERTO MARINO ZAMUDIO, Cartografia Social, Finalidad: Taller de Cartografia Social como dinamizador de la participacion comunitaria . En: Colombia ,2014, ,Fundación Gilberto Alzate Avendaño. participación: Docente , 0 semanas Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: RAUL ALBERTO MARINO ZAMUDIO, Arte Urbano y Espacio Publico, Finalidad: Activacion del Arte Urbano como medio de resignificacion del Espacio Publico . En: Colombia ,2013, ,FUNDACIÓN UNIVERSIDAD DEL NORTE. participación: Docente , 0 semanas Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción técnica - Cursos de corta duración dictados - Especialización: RAUL ALBERTO MARINO ZAMUDIO, Urban Environments, Finalidad: Introduction to Urban environemental impacts of human activities, related to history, resources consumption and planning. . En: Australia ,2015, ,Universidad De Melbourne. participación: Docente , 12 semanas Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción técnica - Cursos de corta duración dictados - Especialización: RAUL ALBERTO MARINO ZAMUDIO, Morphological Mapping, Finalidad: Mapping techniques for urban morphology for urban analysis and policy . En: Australia ,2015, ,University Of Melbourne. participación: Docente , 12 semanas Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: RAUL ALBERTO MARINO ZAMUDIO, IBA Research Lab on New Social Housing, Finalidad: Analisis del impacto de las restricciones del Covid19 en el uso de la vivienda y el espacio publico . En: Austria ,2021, ,TU Wien: Technische Universität Wien. participación: Docente , 1 semanas Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: RAUL ALBERTO MARINO ZAMUDIO, Taller de Agricultura Urbana, Finalidad: Enseñanza de Tecnicas de Agricultura Urbana para Seguridad Alimenticia . En: Colombia ,2012, ,Corporaciión Regional De Antioquia. participación: Docente , 0 semanas Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Parque Industrial Ecoefience en Borde Urbano de Ocana Universidad de La Salle Estado: Tesis concluida , 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Camila Martinez Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Densificacion en Triangulo de Fenicia: Propuestas de Vivienda Flexible contra la gentrificacion Universidad de La Salle Estado: Tesis concluida , 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Felipe Cruz Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAUL ALBERTO MARINO ZAMUDIO, Estacion Intermodal en Bogota Universidad de La Salle Estado: Tesis concluida , 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Angelica Ayala Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Tumaco Distrito Especial Ecoturistico Universidad de La Salle Estado: Tesis concluida , 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Paola Ramirez Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Espacios para las Artes: Rehabilitacion Funcional de la Fabrica Andina, Bogota Universidad de La Salle Estado: Tesis concluida , 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Sebastian Torres Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Centro de Capapacitacion Integral y Comunitaria en Soacha Universidad de La Salle Estado: Tesis concluida , 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Diego Torres Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Vivienda Modular para Floricultores en Chia Universidad de La Salle Estado: Tesis concluida , 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Carolina Rincon Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RAUL ALBERTO MARINO ZAMUDIO, Promoción de infraestructuras verdes mediante políticas públicas como base para la sostenibilidad de edificaciones y el entorno territorial en la ciudad de Medellín y Cartagena. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN DERECHO Y GESTIÓN URBANÍSTICA, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Hover Emilio Martínez Rivera Josefina Sampayo Anaya Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Centro de Investigacion Ambiental en el Rio Tunjuelo Universidad de La Salle Estado: Tesis concluida , 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Karina Orozco Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Revitalizando Bazurto: Espacios Urbanos para el Comercio Sostenible Universidad de La Salle Estado: Tesis concluida , 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Manuel Cortes Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Complejo Agro Tecnologico Ganadero en Sopo, Colombia Universidad de La Salle Estado: Tesis en curso ARQUITECTURA, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Luis Buitrago Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Emergencia: Campamentos Temporales en Caso de Terremoto en Bogota, Colombia Universidad de La Salle Estado: Tesis en curso ARQUITECTURA, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Andres Mora Reyes Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Habitat Sostenible en la selva tropical Humedad para personas desplazadas en Choco Universidad de La Salle Estado: Tesis en curso ARQUITECTURA, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Johan Perea Cordoba Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Complejo Ecoturistico Emerawa Huayu en Guajira, Colombia Universidad de La Salle Estado: Tesis en curso ARQUITECTURA, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Diana Lucia Mendoza Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: RAUL ALBERTO MARINO ZAMUDIO, Puerto de Integracion Trinacional en Leticia, Colombia Universidad de La Salle Estado: Tesis en curso ARQUITECTURA, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Paola Lamprea Tutor(es)/Cotutor(es): RAUL ALBERTO MARINO ZAMUDIO, Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: RAUL ALBERTO MARINO ZAMUDIO, Titulo: Centro de Capapacitacion Integral y Comunitaria en Soacha Tipo de trabajo presentado: Proyecto de grado/Tesis en: MONASH UNIVERSITY programa académico Monash Sustainable Development Institute Nombre del orientado: Diego Torres Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Acreditación de programas: RAUL ALBERTO MARINO ZAMUDIO, Acreditacion de Alta Calidad programa de Arquitectura en: Universidad de La Salle Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Datos complementarios - Participación en comités de evaluación - Otra: RAUL ALBERTO MARINO ZAMUDIO, Evaluador EXAMEN ECAES 2013 enArquitectura en: Instituto Colombiano para la Evaluación de la Educación Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Actualidad Juridica / Universidad Del Norte, 2023, Junio",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Editorial: Revista OPERA, Universidad Externado de Colombia , 2023, Julio",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Revista De Estudios Patrimonio Cultural, 2021, Abril",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Revista De La Universidad Externado De Colombia / Universidad Externado De Colombia, 2022, Septiembre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: The idea of Creative City: the Urban Policy Debate, Krakow Tipo de evento: Otro Ámbito: Nacional Realizado el:, en MANIZALES - Univesidad de Economia de Cracovia Instituciones asociadas Nombre de la institución: Universidad de Economia de Cracovia Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador",
+      "1 Nombre del evento: The idea of Creative City: the Urban Policy Debate, Krakow Tipo de evento: Otro Ámbito: Nacional Realizado el:, en MANIZALES - Univesidad de Economia de Cracovia",
+      "Instituciones asociadas Nombre de la institución: Universidad de Economia de Cracovia Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador",
+      "2 Nombre del evento: Foro Internacional de Urbanismo y Participación Tipo de evento: Seminario Ámbito: Internacional Realizado el:2013-11-07 00:00:00.0, 2013-11-08 00:00:00.0 en Buenos Aires - Centro de Memoria y Reconciliacion Bogota Productos asociados Nombre del producto: Luchas por el territorio en America Latina: Geografias Radicales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad de La Salle Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador",
+      "2 Nombre del evento: Foro Internacional de Urbanismo y Participación Tipo de evento: Seminario Ámbito: Internacional Realizado el:2013-11-07 00:00:00.0, 2013-11-08 00:00:00.0 en Buenos Aires - Centro de Memoria y Reconciliacion Bogota",
+      "Productos asociados Nombre del producto: Luchas por el territorio en America Latina: Geografias Radicales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad de La Salle Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador",
+      "3 Nombre del evento: III Foro Internacional de Arte en Espacio Público Tipo de evento: Seminario Ámbito: Internacional Realizado el:2013-10-24 00:00:00.0, 2014-01-25 00:00:00.0 en Buenos Aires - Universidad del Norte Barranquilla Productos asociados Nombre del producto: El Arte Publico como manifiesto social en Latinomerica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DEL NORTE Tipo de vinculación Gestionadora Participantes Nombre: FLAVIA BARAR Rol en el evento: Ponente Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "3 Nombre del evento: III Foro Internacional de Arte en Espacio Público Tipo de evento: Seminario Ámbito: Internacional Realizado el:2013-10-24 00:00:00.0, 2014-01-25 00:00:00.0 en Buenos Aires - Universidad del Norte Barranquilla",
+      "Productos asociados Nombre del producto: El Arte Publico como manifiesto social en Latinomerica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DEL NORTE Tipo de vinculación Gestionadora",
+      "Participantes Nombre: FLAVIA BARAR Rol en el evento: Ponente Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "4 Nombre del evento: EURA 2012 Challenges to meet the Urban Europe Tipo de evento: Otro Ámbito: Internacional Realizado el:2012-10-12 00:00:00.0, 2012-10-16 00:00:00.0 en MANIZALES - Viena, Austria Instituciones asociadas Nombre de la institución: Universidad Tecnológica De Viena Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "4 Nombre del evento: EURA 2012 Challenges to meet the Urban Europe Tipo de evento: Otro Ámbito: Internacional Realizado el:2012-10-12 00:00:00.0, 2012-10-16 00:00:00.0 en MANIZALES - Viena, Austria",
+      "Instituciones asociadas Nombre de la institución: Universidad Tecnológica De Viena Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "5 Nombre del evento: Water Security and Climate Change Conference 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-11-21 00:00:00.0, 2023-11-23 00:00:00.0 en Santa Ana de los Ríos de Cuenca - Universidad de Cuenca, Ecuador Productos asociados Nombre del producto: ransition towards water-sensitive cities in Colombia: Public spaces as a platform for the recovery of ecosystem services Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Transition towards water-sensitive cities in Colombia: Public spaces as a platform for the recovery of ecosystem services Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente magistral",
+      "5 Nombre del evento: Water Security and Climate Change Conference 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-11-21 00:00:00.0, 2023-11-23 00:00:00.0 en Santa Ana de los Ríos de Cuenca - Universidad de Cuenca, Ecuador",
+      "Productos asociados Nombre del producto: ransition towards water-sensitive cities in Colombia: Public spaces as a platform for the recovery of ecosystem services Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Transition towards water-sensitive cities in Colombia: Public spaces as a platform for the recovery of ecosystem services Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente magistral",
+      "6 Nombre del evento: FORO - TALLER \"FINANCIAMIENTO DE PROYECTOS EN BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS Tipo de evento: Seminario Ámbito: Nacional Realizado el:2023-11-14 00:00:00.0, 2023-11-15 00:00:00.0 en BUCARAMANGA - Neomundo, Bucaramanga Productos asociados Nombre del producto: Ciudades Sensibles al Agua en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente magistral",
+      "6 Nombre del evento: FORO - TALLER \"FINANCIAMIENTO DE PROYECTOS EN BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS Tipo de evento: Seminario Ámbito: Nacional Realizado el:2023-11-14 00:00:00.0, 2023-11-15 00:00:00.0 en BUCARAMANGA - Neomundo, Bucaramanga",
+      "Productos asociados Nombre del producto: Ciudades Sensibles al Agua en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente magistral",
+      "7 Nombre del evento: World Sustainable Built Environment Conference 2024 Tipo de evento: Otro Ámbito: Nacional Realizado el:2024-06-12 00:00:00.0, 2024-06-14 00:00:00.0 en Melbourne - Melbourne, Australia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador",
+      "7 Nombre del evento: World Sustainable Built Environment Conference 2024 Tipo de evento: Otro Ámbito: Nacional Realizado el:2024-06-12 00:00:00.0, 2024-06-14 00:00:00.0 en Melbourne - Melbourne, Australia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador",
+      "8 Nombre del evento: International Water Association IWA Conference 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-09-13 00:00:00.0, 2023-09-15 00:00:00.0 en Arrondissement de Bordeaux - Centre de Congrès Cité Mondiale, Bordeaux, France Productos asociados Nombre del producto: Transition towards water-sensitive cities in Colombia: Public spaces as a platform for the recovery of ecosystem services Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente magistral",
+      "8 Nombre del evento: International Water Association IWA Conference 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-09-13 00:00:00.0, 2023-09-15 00:00:00.0 en Arrondissement de Bordeaux - Centre de Congrès Cité Mondiale, Bordeaux, France",
+      "Productos asociados Nombre del producto: Transition towards water-sensitive cities in Colombia: Public spaces as a platform for the recovery of ecosystem services Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente magistral",
+      "9 Nombre del evento: CONGRESO TALLER 2021 CIUDADES RESILIENTES IV ¿CAMBIO CLIMÁTICO, AGUA Y SALUD: CRISIS U OPORTUNIDAD¿ Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-09-22 00:00:00.0, 2021-09-24 00:00:00.0 en CARTAGENA DE INDIAS - Universidad de San Buenaventura ¿ Cartagena Productos asociados Nombre del producto: Ciudades Sensibles al Agua en Colombia: Transiciones Urbanas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente",
+      "9 Nombre del evento: CONGRESO TALLER 2021 CIUDADES RESILIENTES IV ¿CAMBIO CLIMÁTICO, AGUA Y SALUD: CRISIS U OPORTUNIDAD¿ Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-09-22 00:00:00.0, 2021-09-24 00:00:00.0 en CARTAGENA DE INDIAS - Universidad de San Buenaventura ¿ Cartagena",
+      "Productos asociados Nombre del producto: Ciudades Sensibles al Agua en Colombia: Transiciones Urbanas Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente",
+      "10 Nombre del evento: II FORO INTERNACIONAL \"Ordenamiento Territorial y Marino: Nuevas perspectivas desde una escala regional y global\" Tipo de evento: Seminario Ámbito: Internacional Realizado el:2021-11-05 00:00:00.0, 2021-11-06 00:00:00.0 en BOGOTÁ, D.C. - Comision de Ordenamiento Territorial / Congreso de la Republica de Colombia - Transmision Online Productos asociados Nombre del producto: Infraestrucutura verde y espacio publico: Potencial de recuperacion de servicios ecosistemicos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente magistral",
+      "10 Nombre del evento: II FORO INTERNACIONAL \"Ordenamiento Territorial y Marino: Nuevas perspectivas desde una escala regional y global\" Tipo de evento: Seminario Ámbito: Internacional Realizado el:2021-11-05 00:00:00.0, 2021-11-06 00:00:00.0 en BOGOTÁ, D.C. - Comision de Ordenamiento Territorial / Congreso de la Republica de Colombia - Transmision Online",
+      "Productos asociados Nombre del producto: Infraestrucutura verde y espacio publico: Potencial de recuperacion de servicios ecosistemicos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente magistral",
+      "11 Nombre del evento: 3rd International Symposium for Sustainable Landscape Development Tipo de evento: Simposio Ámbito: Nacional Realizado el:2018-11-14 00:00:00.0, 2018-11-16 00:00:00.0 en Kabupaten Bogor - IPB University Convention Centre, Bogor Productos asociados Nombre del producto: Jumping to the Top: Catalysts for Leapfrogging to a Water Sensitive City. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: MONASH UNIVERSITY Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "11 Nombre del evento: 3rd International Symposium for Sustainable Landscape Development Tipo de evento: Simposio Ámbito: Nacional Realizado el:2018-11-14 00:00:00.0, 2018-11-16 00:00:00.0 en Kabupaten Bogor - IPB University Convention Centre, Bogor",
+      "Productos asociados Nombre del producto: Jumping to the Top: Catalysts for Leapfrogging to a Water Sensitive City. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: MONASH UNIVERSITY Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "12 Nombre del evento: LANDac Annual International Conference 2021 ¿ ¿Land, Crisis and Resilience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-06-30 00:00:00.0, 2021-07-02 00:00:00.0 en Gemeente Utrecht - Universidad de Utrecht, Paises Bajos Productos asociados Nombre del producto: Building climate resilient communities through Water Sensitive public space design and activation: Public parks program in Bucaramanga, Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "12 Nombre del evento: LANDac Annual International Conference 2021 ¿ ¿Land, Crisis and Resilience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-06-30 00:00:00.0, 2021-07-02 00:00:00.0 en Gemeente Utrecht - Universidad de Utrecht, Paises Bajos",
+      "Productos asociados Nombre del producto: Building climate resilient communities through Water Sensitive public space design and activation: Public parks program in Bucaramanga, Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "13 Nombre del evento: World Sustainable Built Environment Conference Proceedings, Hong Kong Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-12 00:00:00.0, 2017-06-15 00:00:00.0 en Central and Western District - Hong Kong Convention and Exhibition Centre, Hong Kong Productos asociados Nombre del producto: Integrated Residential Household Energy Consumption and GHG Emissions Modelling at Metropolitan Scale. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "13 Nombre del evento: World Sustainable Built Environment Conference Proceedings, Hong Kong Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-12 00:00:00.0, 2017-06-15 00:00:00.0 en Central and Western District - Hong Kong Convention and Exhibition Centre, Hong Kong",
+      "Productos asociados Nombre del producto: Integrated Residential Household Energy Consumption and GHG Emissions Modelling at Metropolitan Scale. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "14 Nombre del evento: ECOCITY World Summit 2017 Melbourne Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-07-12 00:00:00.0, 2017-07-14 00:00:00.0 en Melbourne - Melbourne International Convention Centre Productos asociados Nombre del producto: Exploration of urban growth scenarios, energy consumption and GHG emissions for Metropolitan Melbourne Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "14 Nombre del evento: ECOCITY World Summit 2017 Melbourne Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-07-12 00:00:00.0, 2017-07-14 00:00:00.0 en Melbourne - Melbourne International Convention Centre",
+      "Productos asociados Nombre del producto: Exploration of urban growth scenarios, energy consumption and GHG emissions for Metropolitan Melbourne Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "15 Nombre del evento: Computers in Urban Management and Development Conference Proceedings, CUPUM 2017 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-07-12 00:00:00.0, 2017-07-15 00:00:00.0 en Adelaide - University of South Australia, Adelaide Productos asociados Nombre del producto: Metropolitan Melbourne residential transport: A VKT regression model to estimate energy consumption and GHG emissions in Melbourne Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "15 Nombre del evento: Computers in Urban Management and Development Conference Proceedings, CUPUM 2017 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-07-12 00:00:00.0, 2017-07-15 00:00:00.0 en Adelaide - University of South Australia, Adelaide",
+      "Productos asociados Nombre del producto: Metropolitan Melbourne residential transport: A VKT regression model to estimate energy consumption and GHG emissions in Melbourne Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "16 Nombre del evento: ICLEI Urban Research Symposium, ICLEI World Congress, Seoul, South Korea Tipo de evento: Simposio Ámbito: Internacional Realizado el:2015-04-08 00:00:00.0, 2015-04-12 00:00:00.0 en Dongdaemun-gu - Seoul Plaza and at the DDP, Productos asociados Nombre del producto: Assessing the impact of urban form in the energy consumption and GHG emissions in Metropolitan Melbourne: A bottom up modelling approach Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "16 Nombre del evento: ICLEI Urban Research Symposium, ICLEI World Congress, Seoul, South Korea Tipo de evento: Simposio Ámbito: Internacional Realizado el:2015-04-08 00:00:00.0, 2015-04-12 00:00:00.0 en Dongdaemun-gu - Seoul Plaza and at the DDP,",
+      "Productos asociados Nombre del producto: Assessing the impact of urban form in the energy consumption and GHG emissions in Metropolitan Melbourne: A bottom up modelling approach Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "17 Nombre del evento: Innovate 4 Cities: IPCC and UN Habitat Forum 2021 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-10-11 00:00:00.0, 2021-10-15 00:00:00.0 en The Hague - TU Delft Productos asociados Nombre del producto: Building Climate Resilient Communities through Water Sensitive Public Space Design and Activation: Public Parks Program In Bucaramanga, Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "17 Nombre del evento: Innovate 4 Cities: IPCC and UN Habitat Forum 2021 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-10-11 00:00:00.0, 2021-10-15 00:00:00.0 en The Hague - TU Delft",
+      "Productos asociados Nombre del producto: Building Climate Resilient Communities through Water Sensitive Public Space Design and Activation: Public Parks Program In Bucaramanga, Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "18 Nombre del evento: ADRC 2019 Australian Institute for Disaster Resilience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-08-27 00:00:00.0, 2019-08-29 00:00:00.0 en Melbourne - University of Melbourne / Melbourne Convention and Exhibition Centre Productos asociados Nombre del producto: Vulnerability of International Students in High-Rise Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "18 Nombre del evento: ADRC 2019 Australian Institute for Disaster Resilience Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-08-27 00:00:00.0, 2019-08-29 00:00:00.0 en Melbourne - University of Melbourne / Melbourne Convention and Exhibition Centre",
+      "Productos asociados Nombre del producto: Vulnerability of International Students in High-Rise Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "19 Nombre del evento: Foro Región Andina: Mi Municipio frente al Cambio Climático Tipo de evento: Simposio Ámbito: Nacional Realizado el:2021-11-24 00:00:00.0, 2021-11-24 00:00:00.0 en BOGOTÁ, D.C. - Red Colombiana de Municipios frente al Cambio Climático Productos asociados Nombre del producto: Ciudades de Bajo Carbono en Colombia: Retos y oportunidades Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente",
+      "19 Nombre del evento: Foro Región Andina: Mi Municipio frente al Cambio Climático Tipo de evento: Simposio Ámbito: Nacional Realizado el:2021-11-24 00:00:00.0, 2021-11-24 00:00:00.0 en BOGOTÁ, D.C. - Red Colombiana de Municipios frente al Cambio Climático",
+      "Productos asociados Nombre del producto: Ciudades de Bajo Carbono en Colombia: Retos y oportunidades Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Organizador , Ponente",
+      "20 Nombre del evento: GREAT ASIAN STREETS SYMPOSIUM / PACIFIC RIM COMMUNITY DESIGN NETWORK / STRUCTURES FOR INCLUSION Tipo de evento: Simposio Ámbito: Internacional Realizado el:2018-12-12 00:00:00.0, 2018-12-16 00:00:00.0 en Singapore - National University Singapore, Department of Architecture Productos asociados Nombre del producto: Participatory Public Space Design Strategies for Water Sensitive Cities: Experiences in Bogor, Indonesia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: MONASH UNIVERSITY Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "20 Nombre del evento: GREAT ASIAN STREETS SYMPOSIUM / PACIFIC RIM COMMUNITY DESIGN NETWORK / STRUCTURES FOR INCLUSION Tipo de evento: Simposio Ámbito: Internacional Realizado el:2018-12-12 00:00:00.0, 2018-12-16 00:00:00.0 en Singapore - National University Singapore, Department of Architecture",
+      "Productos asociados Nombre del producto: Participatory Public Space Design Strategies for Water Sensitive Cities: Experiences in Bogor, Indonesia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: MONASH UNIVERSITY Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "21 Nombre del evento: IV WPSC World Planning Schools Congress Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-07-03 00:00:00.0, 2016-07-08 00:00:00.0 en Río de Janeiro - Institute of Urban and Regional Research and Planning - IPPUR ¿ at the Federal University of Rio de Janeiro ¿ UFRJ Productos asociados Nombre del producto: Social Housing and ¿roll-with-it¿ Neoliberalism in South America and Australia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente",
+      "21 Nombre del evento: IV WPSC World Planning Schools Congress Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-07-03 00:00:00.0, 2016-07-08 00:00:00.0 en Río de Janeiro - Institute of Urban and Regional Research and Planning - IPPUR ¿ at the Federal University of Rio de Janeiro ¿ UFRJ",
+      "Productos asociados Nombre del producto: Social Housing and ¿roll-with-it¿ Neoliberalism in South America and Australia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: The University of Melbourne Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RAUL ALBERTO MARINO ZAMUDIO Rol en el evento: Ponente"
+    ],
+    "redes_conocimiento_especializado": [
+      "Nombre de la red EURA European Urban Research Association Tipo de red Real, Creada el:2008-07-18 00:00:00.0, en Viena con 123 participantes",
+      "Nombre de la red NSL Netzwerk Stadt und Landschaft ETH Zurich Tipo de red Real, Creada el:2007-06-12 00:00:00.0, en Zürich con 34 participantes"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAUL ALBERTO MARINO ZAMUDIO, \"Laboratorios Urbanos contra la Violencia: Parques Biblioteca Medellin\" . En: España Revista Neutra ISSN: 1138-1507 ed: v. 17 fasc. p.66 - 73 ,2009, DOI: Sectores: Desarrollo Urbano,",
+        "titulo": "Laboratorios Urbanos contra la Violencia: Parques Biblioteca Medellin",
+        "doi": "Sectores:",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAUL ALBERTO MARINO ZAMUDIO, \"De la Acropolis a la Agropolis: Estrategias en busca de una seguridad alimentaria y sostenibilidad ambiental\" . En: Colombia Revista De Trabajo Social ISSN: 0120-6877 ed: ediciones UniSalle v. 57 fasc. N/A p.97 - 116 ,2012, DOI:",
+        "titulo": "De la Acropolis a la Agropolis: Estrategias en busca de una seguridad alimentaria y sostenibilidad ambiental",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAUL ALBERTO MARINO ZAMUDIO, \"Pirate Urbanism: Tactic and Strategy in Self Settlements in Colombia\" . En: Suiza DISP ISSN: 0251-3625 ed: ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD v. 54 fasc. 1 p.67 - 69 ,2008, DOI:",
+        "titulo": "Pirate Urbanism: Tactic and Strategy in Self Settlements in Colombia",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAUL ALBERTO MARINO ZAMUDIO, \"Urbanismo Pirata: Tactica y Estrategia en Asentamiento Urbanos\" . En: Colombia Traza ISSN: 2216-0647 ed: Ed Universidad De La Salle v. 1 fasc. N/A p.89 - 95 ,2010, DOI:",
+        "titulo": "Urbanismo Pirata: Tactica y Estrategia en Asentamiento Urbanos",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAUL ALBERTO MARINO ZAMUDIO, \"Jumping to the top: catalysts for leapfrogging to a water sensitive city\" . En: Indonesia IJEMS (Indonesian Journal of Environmental Management and Sustainability) ISSN: 2598-6260 ed: v. N/A fasc. N/A p.94 - 99 ,2018, DOI:",
+        "titulo": "Jumping to the top: catalysts for leapfrogging to a water sensitive city",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RAUL ALBERTO MARINO ZAMUDIO, \"Assessment of public space potential for climate change adaptation in three Colombian cities: nature-based solutions and urban design guidelines\" . En: Reino Unido WATER PRACTICE AND TECHNOLOGY ISSN: 1751-231X ed: iwapublishing v. 19 fasc. 5 p.1696 - 1709 ,2024, DOI: 10.2166/wpt.2024.089",
+        "titulo": "Assessment of public space potential for climate change adaptation in three Colombian cities: nature-based solutions and urban design guidelines",
+        "doi": "10.2166/wpt.2024.089",
+        "anio": "2024"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Libro resultado de investigación: RAUL ALBERTO MARINO ZAMUDIO, \"Addis Through The Looking Glass\" En: Suiza 2008. ed: ISBN: 9789264063662 v. 0 pags. 189 Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: RAUL ALBERTO MARINO ZAMUDIO, \"Pulo Geulis Revitalization 2045: Urban Design and implementation roadmap\" En: Australia 2019. ed:Australia-Indonesia Centre - Monash University ISBN: 978-602-8519-93-9 v. pags. Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: RAUL ALBERTO MARINO ZAMUDIO, \"Situ Front City: Estrategy to transition towards Water Sensitive Cities\" En: Australia 2019. ed:Australia-Indonesia Centre - Monash University ISBN: 978-532-8519-93-9 v. pags. Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: RAUL ALBERTO MARINO ZAMUDIO, \"Nueva Flexibilidad de la vivienda y el espacio público: Ideas para una habitabilidad Post Covid19\" En: Colombia 2022. ed:BuroDAP ISBN: 978-628-95018-0-3 v. pags. Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: RAUL ALBERTO MARINO ZAMUDIO, \"Cities of Change\" En: Suiza 2010. ed:Birkhäuser Verlag ISBN: 978-3-0346-0090-3-E v. 1 pags. 256 Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: RAUL ALBERTO MARINO ZAMUDIO, \"Retrospectiva 40/90: MEMORIAS URBANAS EN LA CIUDADELA EL TUNAL Y BARRIOS OBREROS DEL SUR\" En: Colombia 2022. ed:Universidad del Rosario, ISBN: 978-958-49-7879-0 v. pags. Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: RAUL ALBERTO MARINO ZAMUDIO, \"Ciudades sensibles al agua en Colombia: cartilla para adaptación de espacios públicos al cambio climático\" En: Colombia 2024. ed:Universidad del Rosario, ISBN: 978-628-95018-1-0 v. pags. Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),"
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro RAUL ALBERTO MARINO ZAMUDIO, \"Impacts of COVID-19 Lockdown Restrictions on Housing and Public Space Use and Adaptation: Urban Proximity, Public Health, and Vulnerability in Three Latin American Cities\" COVID-19 Pandemic, Geospatial Information, and Community Resilience Global Applications and Lessons . En: Reino Unido ISBN: 9781003181590 ed: , v. , p.363 - 386 1 ,2021 Palabras: adaptaciòn cambio climatico , cambio climatico, infraestructura verde, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo), Sectores: Desarrollo Urbano,",
+      "Tipo: Capítulo de libro RAUL ALBERTO MARINO ZAMUDIO, \"Building Climate-Resilient Communities Through Water-Sensitive Public Space Design and Activation: Public Parks Program in Bucaramanga, Colombia\" Inclusive Cities and Global Urban Transformation. Infrastructures, Intersectionalities, and Sustainable Development . En: Colombia ISBN: 978-981-97-7521-7 ed: Springer Publishing Company, Inc. , v. , p.285 - 295 ,2025 Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),"
+    ],
+    "documentos_trabajo": [
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "RAUL ALBERTO MARINO ZAMUDIO, \"Enhancing disaster management andresilience to floods through exploratory scenario planning in Colombia: A toolkit for practitioners and communities\" En: Colombia. 2025. p. Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,"
+    ],
+    "libros_divulgacion": [
+      "Producción bibliográfica - Libro - Libros de divulgación y/o Compilación de divulgación: Nombre del libro: PERIFERIAS CENTRALES: Patrimonio, ciudad y comunidad en los barrios Belen, Santa Barbara y Lourdes, Bogota, Fecha de presentación: 2022 - Agosto, Isbn: 978-628-01-0157-6, Medio de divulgación: Electrónico, Lugar de publicación: Colombia, Editorial: Universidad del Rosario, , Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo),",
+      "Producción bibliográfica - Libro - Libros de divulgación y/o Compilación de divulgación: Nombre del libro: Memorias del Agua: Comunidad, territorio y arte urbano en la cuenca del Rio Tunjuelo, Bogota, Colombia, Fecha de presentación: 2023 - Diciembre, Isbn: 978-628-01-0157-6, Medio de divulgación: Electrónico, Lugar de publicación: Colombia, Editorial: Universidad del Rosario, , Areas: Ciencias Naturales -- Ciencias de la Tierra y Medioambientales -- Oceanografía, Hidrología y Recursos del Agua,"
+    ],
+    "manuales_y_gu_as_especializadas": [
+      "Producción bibliográfica - Libro - Manuales y Guías Especializadas: Nombre del libro: Challenges to Meet the Urban Europe: EURA 2012, Fecha de presentación: 2012 - Septiembre, Isbn: 58-88934-12-2, Medio de divulgación: Papel, Lugar de publicación: Austria, Editorial: TU Wien, Areas: Humanidades -- Arte -- Arquitectura y Urbanismo,"
+    ],
+    "cartas_mapas_y_similares": [
+      "Producción técnica - Cartas, mapas o similares - Mapa: RAUL ALBERTO MARINO ZAMUDIO, Urban Energy Online Mapping Tool, Nombre comercial: , contrato/registro: , . En: Australia, ,2017, Areas: Ciencias Sociales -- Geografía Social y Económica -- Estudios Urbanos (Planificación y Desarrollo), Sectores: Desarrollo Urbano,"
+    ],
+    "obras_o_productos": [
+      "Nombre del producto: Reimanginando nuestro parque local Tunal II: Urbanismo tactico y codise¿o comunitario, Disciplina: Humanidades -- Arte -- Otras artes, Fecha de creación: Febrero de 2022 INSTANCIAS DE VALORACIÓN DE LA OBRA Nombre del espacio o evento: Festival de las Artes Valienes 2021, Fecha de presentación: 2022-03-23, Entidad convocante 1:",
+      "Nombre del producto: Laboratorio Urban Mapping Agency, Disciplina: Humanidades -- Arte -- Arquitectura y Urbanismo, Fecha de creación: Marzo de 2014 INSTANCIAS DE VALORACIÓN DE LA OBRA Nombre del espacio o evento: , Fecha de presentación: , Entidad convocante 1:"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Bioasentamiento Humanos para una nueva ruralidad - Yopal, Casanare Inicio: Enero 2011 Fin proyectado: Enero 2014 Fin: Enero 2014 Duración 98 Resumen Proyecto Realizado con el apoyo del CIHDEP (Centro de Investigacion para el Habitat, Desarrollo y Paz) y el Osterrisches Latinamerikan Institut, de Viena, Austria.",
+      "Tipo de proyecto: Investigación y desarrollo Transición hacia ciudades sensibles al agua en Colombia: Espacios públicos como plataforma de recuperación de servicios ecosistémicos Inicio: Mayo 2021 Fin: Mayo 2022 Duración Resumen El proyecto analizara el funcionamiento de espacios públicos seleccionados en las 3 ciudades piloto (Bucaramanga, Cartagena y Bogotá) evaluando su desempeño actual respecto a la protección de los servicios ecosistémicos y su potencial para la incorporación de infraestructura verde orientada al agua, utilizando herramientas de análisis espacial geográfico en ArcGIS y otros programas de modelado de balance del agua urbano (AquaCycle). Se utilizarán propuestas de diseño urbano explorando el potencial de captación, tratamiento y reutilización de aguas lluvias y servidas en el contexto urbano, incorporando Infraestructura verde adecuada al lugar (fit-for-purpose) y elaboradas en talleres de co-diseño con actores y administraciones locales para incluir también el apoyo al desarrollo de política pública respecto al diseño urbano sensible al agua. El proyecto también recolectara información usando talleres y encuestas semiestructuradas de los actores más importantes en el manejo del ciclo del agua urbano (administraciones locales, secretarias, institutos, comunidades), como base del análisis del proceso de toma decisiones y especificaciones de diseño del espacio público, y como plataforma de discusión sobre la adopción de infraestructura verde orientada al agua en el diseño del espacio publico de las 3 ciudades seleccionadas como casos de estudio: Bucaramanga, Cartagena y Bogotá.",
+      "Tipo de proyecto: Investigación-Creación Arte urbano y espacio publico: Urbanismo tactico Emergente en Latinamerica Inicio: Octubre 2021 Duración Resumen"
+    ]
+  }
+}

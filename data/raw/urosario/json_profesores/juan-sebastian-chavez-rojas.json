@@ -1,0 +1,52 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/juan-sebastian-chavez-rojas",
+  "nombre": "",
+  "cargo_principal": "Director Emprendimiento",
+  "email": "juans.chavez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n14160/profe+Sebastian+EA.jpg",
+  "afiliaciones": [
+    "Director pregrado en Emprendimiento - Escuela de Administración - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=hzsqNOwAAAAJ&hl",
+    "orcid": "https://orcid.org/0009-0008-0090-8760"
+  },
+  "areas_investigacion": [
+    "Entrepreneurship",
+    "Growth",
+    "Innovation",
+    "Leadership (LCSH)",
+    "Strategy"
+  ],
+  "perfil_profesional": "Profesor de Docencia y Práctica, Director del Pregrado en Emprendimiento Diseñador Industrial de la Universidad Jorge Tadeo Lozano, MBA de la Universidad EAN con 13 años de experiencia en espacios de formación, apoyo y consolidación de emprendimientos de diversos sectores. Ha estado vinculado a programas e instituciones del ecosistema de emprendimiento como Corporación Ventures, Destapa Futuro de la Fundación Bavaria y Emprende País de la Fundación Bolivar Davivienda. Ganador de la beca “accelerating the accelerators” de Halloran Philanthropies en el marco del SOCAP 2013. Ha gestionado fondos de inversión de impacto y cooperación internacional para programas, proyectos e instituciones comprometidas con la superación de la pobreza en Colombia.",
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "B-wear"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Formulación Oficina de Innovación y Desarrollo Softteam S.A.S."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Histøria Recovery Center"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Vitality Senior Care envejecer en nuestros hogares con autonomia"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0008-0090-8760"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=hzsqNOwAAAAJ&hl"
+    ]
+  },
+  "id": "juan-sebastian-chavez-rojas",
+  "facultad_csv": "Escuela de Administración",
+  "cargo_csv": "Director Emprendimiento"
+}

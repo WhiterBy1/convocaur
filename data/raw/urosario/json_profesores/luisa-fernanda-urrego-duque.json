@@ -1,0 +1,176 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/luisa-fernanda-urrego-duque",
+  "nombre": "Luisa-Fernanda Urrego-Duque",
+  "cargo_principal": "Profesor asistente de carrera",
+  "email": "luisa.urrego@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 4030",
+  "imagen": "https://research-hub.urosario.edu.co/file/n12474/Urrego.jpg",
+  "afiliaciones": [
+    "Profesor asistente de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Investigador - Grupo de Investigación Educación en Ciencias Naturales y Matemáticas - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=LaJM_fcAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/aec35c34-e689-46b9-b6b3-686993492937",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000605700",
+    "orcid": "http://orcid.org/0000-0002-0742-2754"
+  },
+  "areas_investigacion": [
+    "Biología celular",
+    "Genética y neurociencias"
+  ],
+  "formacion_academica": [
+    "1998, Bacterióloga, Pontificia Universidad Javeriana - Bogotá",
+    "2006, Magíster en Biología, Pontificia Universidad Javeriana - Bogotá"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Variantes moleculares en el gen PARK2 en pacientes colombianos con enfermedad de Parkinson. Estudio piloto entre el 2013 y 2014",
+      "fecha": "2017-5-23",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F70c4bea7-613d-4944-afe3-5cce2b829786"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Frecuencia de la mutación p.Q829X del gen Otoferlina (OTOF) en población colombiana con sordera no sindrómica",
+      "fecha": "2012-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7b877cc3-1f88-416f-be1d-d3e59fb7da81"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "¿Qué son las AIAS?",
+      "fecha": "2014-10-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F49b4ae3d-428b-4a70-ae7f-bb9f4ddb4bac"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Genética de la Retinitis pigmentosa",
+      "fecha": "2003-11-20",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0c86aca5-aa38-4aef-9b47-45c4928d323b"
+    }
+  ],
+  "total_publicaciones": 4,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Del haz al envés: el concepto y la estrategia.",
+      "fecha": "2022-05-02 - 2024-03-29",
+      "enlace": "https://research-hub.urosario.edu.co/display/e49eddab-6c8a-4383-9c0a-2a1468182342"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "La Rúbrica PCB: un recurso innovador para la evaluación de presentaciones científicas en el aula",
+      "fecha": "2021-08-23 - 2021-12-17",
+      "enlace": "https://research-hub.urosario.edu.co/display/da709147-b2b5-4f62-8041-d3b068b952cc"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Detección de mutaciones en los genes PINK1, PARKIN y PJ1 en una uestra de pacientes institucionalizados con enfermedad de parkinson en Bogotá DC.",
+      "fecha": "2010-03-05 - 2017-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/display/e3bf1f92-f9a2-493f-9e56-a6d726afed6a"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2013"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000605700"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0002-0742-2754"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=LaJM_fcAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/aec35c34-e689-46b9-b6b3-686993492937"
+    ]
+  },
+  "id": "luisa-fernanda-urrego-duque",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor asistente de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000605700",
+    "cod_rh": "0000605700",
+    "datos_generales": {
+      "Nombre": "Luisa Fernanda Urrego Duque",
+      "Nombre en citaciones": "URREGO DUQUE, LUISA FERNANDA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Maestría/Magister PONTIFICIA UNIVERSIDAD JAVERIANA MAESTRIA EN BIOLOGIA Juniode2003 - Octubrede 2006 ESTUDIOS CLÍNICOS Y GENÉTICOS EN 100 INDIVIDUOS CON RETINITIS PIGMENTOSA"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Octubre de 2010 Junio de 2021 Actividades de administración - Otra actividad técnico-científica relevante - Cargo: Coordinadora de tutores pares Junio de 2018 Junio de 2021 Actividades de docencia - Pregrado - Nombre del curso: Biología celular y molecular, 30 Junio 2019 Mayo 2021 - Pregrado - Nombre del curso: Biología del comportamiento I, 30 Julio 2015 Junio 2021 - Pregrado - Nombre del curso: Biociencias, 140 Octubre 2010 Mayo 2021 Actividades de investigación - Investigación y Desarrollo - Titulo: Investigación en educación Junio 2019 Junio 2021",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA Dedicación: 40 horas Semanales Mayo de 2007 de Actividades de administración - Miembro de consejo de centro - Cargo: Investigadora Mayo de 2007 de Actividades de investigación - Investigación y Desarrollo - Titulo: Mayo 2007",
+      "PONTIFICIA UNIVERSIDAD JAVERIANA Dedicación: 40 horas Semanales Agosto de 2008 de",
+      "UNIVERSIDAD DE LA SABANA Dedicación: 2 horas Semanales Julio de 2006 Julio de 2007 Actividades de administración - Miembro de consejo de centro - Cargo: Profesor Cátedra Julio de 2006 Julio de 2007"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Biológicas -- Biología Celular y Microbiología",
+      "Ciencias Sociales -- Ciencias de la Educación -- Educación General (Incluye Capacitación, Pedagogía)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Portugués",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Biocomponentes, Activa: Si",
+      "Estrategias de enseñanza- aprendizaje, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Profesor Distinguido,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Mayode 2013"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Avances y Aplicaciones de la Biología Molecular Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-01-01 00:00:00.0, en BOGOTÁ, D.C. - Secretaría de Salud del Distrito Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora Participantes Nombre: LUISA FERNANDA URREGO DUQUE Rol en el evento: Organizador",
+      "1 Nombre del evento: Avances y Aplicaciones de la Biología Molecular Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-01-01 00:00:00.0, en BOGOTÁ, D.C. - Secretaría de Salud del Distrito",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUISA FERNANDA URREGO DUQUE Rol en el evento: Organizador"
+    ],
+    "fortalecimiento_o_soluci_n_de_asuntos_de_inter_s_social": [
+      "Apropiación social del conocimiento - Proceso de Apropiación Social del Conocimiento para el fortalecimiento o solución de asuntos de interés social: Nombre del producto: Educación e Innovación en Ciencias Naturales (EDIC), Fecha de presentación: 2021 - Septiembre, Medio de verificación: https://acortar.link/no8gXX, Licencia creative: Atribución-No Comercial, Formato: XHTML or HTML (.xhtml, .html), Proyecto vinculado: La Rúbrica PCB: un recurso innovador para la evaluación de presentaciones científicas en el aula"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUISA FERNANDA URREGO DUQUE, \"Frecuencia de la mutación p.Q829X del gen Otoferlina (OTOF) en población colombiana con sordera no sindrómica\" . En: Colombia UNIVERSITAS MEDICA ISSN: 2011-0839 ed: v. 53 fasc. 2 p.144 - 153 ,2012, DOI: Palabras: mutación, sordera,",
+        "titulo": "Frecuencia de la mutación p.Q829X del gen Otoferlina (OTOF) en población colombiana con sordera no sindrómica",
+        "doi": "Palabras:",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUISA FERNANDA URREGO DUQUE, MAGDA CAROLINA SANCHEZ CORREDOR, SERGIO ANDRES CASTANEDA GARZON, \"Variantes moleculares en el gen PARK2 en pacientes colombianos con enfermedad de Parkinson. Estudio piloto entre el 2013 y 2014\" . En: Colombia Médicas Uis ISSN: 0121-0319 ed: Universidad Industrial de Santander v. 30 fasc. 3 p.31 - 38 ,2017, DOI: 10.18273/revmed.v30n3-2017003 Palabras: mutación, neurona,",
+        "titulo": "Variantes moleculares en el gen PARK2 en pacientes colombianos con enfermedad de Parkinson. Estudio piloto entre el 2013 y 2014",
+        "doi": "10.18273/revmed.v30n3-2017003",
+        "anio": "2017"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro LUISA FERNANDA URREGO DUQUE, \"¿Qué son las AIAS?\" Actividades Integradoras Del Aprendizaje Por Sistemas, Aias. Manual Para La Facilitación En El Aula De Pequeños Grupos . En: Colombia ISBN: 978-958-738-525-0 ed: Editorial Universidad del Rosario , v. , p.33 - 36 1 ,2014 Palabras: AIAS, Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología Celular y Microbiología,"
+    ],
+    "libro_de_formaci_n": [
+      "Producción bibliográfica - Libro - Libros de formación: Nombre del libro: Actividades Integradoras del Aprendizaje por Sistemas, AIAS, Fecha de presentación: 2014 - Diciembre, Isbn: 978-958-738-525-0, Medio de divulgación: , Lugar de publicación: Colombia, Editorial: Universidad del Rosario, , Areas: Ciencias Sociales -- Ciencias de la Educación -- Educación General (Incluye Capacitación, Pedagogía),"
+    ],
+    "otra_producci_n_blibliogr_fica": [
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: LUISA FERNANDA URREGO DUQUE, \"Genética de la Retinitis Pigmentosa\" En: Colombia. 2003. p. Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología Celular y Microbiología,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: LUISA FERNANDA URREGO DUQUE, Poster . En: Colombia, ,2013, finalidad: Congreso ACCB Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología Celular y Microbiología,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo La Rúbrica PCB: un recurso innovador para la evaluación de presentaciones científicas en el aula Inicio: Septiembre 2021 Fin: Septiembre 2021 Duración Resumen Considerando que en la actualidad no existe un respaldo empírico confiable relacionado con el uso de rúbricas para la elaboración y la evaluación de presentaciones de calidad en ciencias básicas, se describe una propuesta de experimentación pedagógica innovadora, cuyo propósito es identificar el potencial de la rúbrica de presentaciones en Ciencias Básicas (PCB) -elaborada por los investigadores de este trabajo, a partir de referentes teóricos y de su experiencia en el aula de pequeños grupos-, como recurso apropiado de evaluación de presentaciones científicas. Para tal fin, se utilizarán diapositivas generadas por estudiantes de Medicina de primer semestre en el curso AIAS-Biociencias las cuales serán valoradas por expertos a la luz de la rúbrica PCB, posteriormente revisadas por estudiantes de pregrados en ciencias naturales quienes diligenciarán el cuestionario de información científica de los RAE (ICR) y, finalmente se determinará la correlación entre la calificación obtenida con la rúbrica y los resultados del cuestionario. De encontrar asociación entre las puntuaciones de PCB y de ICR habría respaldo empírico al papel de la rúbrica PCB como una guía para que los estudiantes elaboren presentaciones escritas de calidad a partir de las cuales, además, se obtenga información científica idónea. Así mismo, la rúbrica PCB será un recurso de aula provechoso para los profesores en tanto que, dispondrán de parámetros de evaluación con apoyo científico, trascendiendo así la intuición al momento de pautar las instrucciones para elaborar las presentaciones.",
+      "Tipo de proyecto: Investigación-Creación La Rúbrica PCB: un recurso innovador para la evaluación de presentaciones científicas en el aula Inicio: Septiembre 2021 Fin: Septiembre 2021 Duración Resumen",
+      "Tipo de proyecto: Investigación-Creación La Rúbrica PCB: un recurso innovador para la evaluación de presentaciones científicas en el aula Inicio: Septiembre 2021 Fin: Septiembre 2021 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Del haz al envés: el concepto y la estrategia Inicio: Abril 2022 Fin: Abril 2023 Duración Resumen Las experiencias de aula muestran que, ciertos conceptos retomados en las clases por los profesores, a los estudiantes les resultan poco familiares a pesar de que han sido abordados en cursos previos, lo que puede afectar la comprensión temática, la motivación y el desempeño académico de los participantes; dado esto, la propuesta que se presenta aquí, busca a partir de los conceptos biológicos recordados por los estudiantes de pregrado en biología, reconocer estrategias metodológicas asociadas a dicho aprendizaje. Para tal fin, se incluirán al menos 78 estudiantes de biología de diferentes universidades de Bogotá, quienes después de firmar el consentimiento informado, diligenciarán una encuesta virtual, diseñada por los investigadores, la cual permitirá reconocer: i. la información sociodemográfica de la población ii. Los conceptos recordados y iii. Las estrategias de aula desarrolladas en los cursos. Mediante un análisis factorial, se establecerá la correlación entre el nivel de recordación de los conceptos según la valoración dada por expertos, y las metodologías de aula seleccionadas por los sujetos de estudio. De encontrarse asociación entre los conceptos y las estrategias aludidas, los resultados de este estudio podrán ser implementados en las clases de biología, representando un aporte empírico y documentado, al reconocimiento de ambientes favorables para la apropiación de conocimientos y para la enseñanza de las ciencias naturales."
+    ]
+  }
+}

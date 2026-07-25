@@ -1,0 +1,692 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mario-fernando-jimenez-hernandez",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "mariof.jimenez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n18914/mario+fernando.jfif",
+  "afiliaciones": [
+    "Investigador líder - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57201595264",
+    "google_scholar": "https://scholar.google.com/citations?user=DbvpH9wAAAAJ",
+    "pure": "https://pure.urosario.edu.co/es/persons/mario-fernando-jimenez-hernandez",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001385649",
+    "orcid": "https://orcid.org/0000-0003-0965-277X"
+  },
+  "areas_investigacion": [
+    "Assistive and rehabilitation technology",
+    "Robotics control",
+    "Social Robotics"
+  ],
+  "perfil_profesional": "Doctorate in Electrical Engineering whit a focus on assistive and rehabilitation technologies, with a Master in Engineering of Industrial Control and undergraduate in Electronic Engineering. Experience in human-robot-environment interaction, mobile robotics, sensors, control systems, and embedded systems.",
+  "formacion_academica": [
+    "2005, Ingeniero Electrónico, Universidad de Ibague - Ibague",
+    "2012, Magíster en Ingeniería de Control Industrial, Universidad de Ibague - Ibague",
+    "2018, Doctor en Ingeniería Eléctrica, Universidade Federal do Espirito Santo (Ufes)"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Advanced Human-Robot Interaction with a Mobile Robot: Integrating Large Language Models into Robotics",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.procs.2025.07.139"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Exoesqueletos colombianos: el comienzo de una revolución",
+      "fecha": "2024-3-15",
+      "enlace": "https://doi.org/https://doi.org/10.12804/dvcn_10336.42362_num7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Multimodal Interaction Strategies for Walker-Assisted Gait: A Case Study for Rehabilitation in Post-Stroke Patients",
+      "fecha": "2024-3-1",
+      "enlace": "https://doi.org/10.1007/s10846-023-02031-w"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Automatic Silence Detection Employing Artificial Intelligence for Clinical Context Analyses",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1109/CIIBBI63846.2024.10785143"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "URHAND: Hand Prosthesis for Identifying Objects for Activities of Daily Living",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1109/TIM.2024.3470013"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Exploring NAO Robot Errors in Collaborative Work: An Assessment based on Identification, Analysis, and Troubleshooting",
+      "fecha": "2023-7-27",
+      "enlace": "https://doi.org/10.1109/ColBioCAS59270.2023.10281011"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Haptic Human-Robot Collaboration for Walker-Assisted Navigation Based on Admittance Controllers",
+      "fecha": "2023-5-1",
+      "enlace": "https://doi.org/10.1109/LRA.2023.3256924"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Overview of processing techniques for surface electromyography signals",
+      "fecha": "2023-4-8",
+      "enlace": "https://doi.org/https://doi.org/10.48550/arXiv.2304.04098"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "ASPEBI: A MATLAB Tool for Motion Analysis of Non-Specific Low Back Pain Patients",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.3991/ijoe.v19i18.43063"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Predicting Perceived Exhaustion in Rehabilitation Exercises Using Facial Action Units",
+      "fecha": "2022-9-1",
+      "enlace": "https://doi.org/10.3390/s22176524"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Desde el Fondo Nacional del Ahorro",
+      "fecha": "2022-2-11",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2588f802-d8bc-4b9d-bd9c-2a7912eb53bd"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Semi-Remote Gait Assistance Interface: A Joystick with Visual Feedback Capabilities for Therapists",
+      "fecha": "2021-5-19",
+      "enlace": "https://doi.org/10.3390/s21103521"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Bringing proxemics to walker-assisted gait: using admittance control with spatial modulation to navigate in confined spaces.: Bringing proxemics to walker-assisted gait",
+      "fecha": "2021-3-25",
+      "enlace": "https://doi.org/10.1007/s00779-021-01521-8"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Assistive locomotion device with haptic feedback for guiding visually impaired people",
+      "fecha": "2020-6-1",
+      "enlace": "https://doi.org/10.1016/j.medengphy.2020.04.002"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On human-in-the-loop CPS in healthcare: A cloud-enabled mobility assistance service",
+      "fecha": "2019-9-1",
+      "enlace": "https://doi.org/10.1017/S0263574719000079"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Admittance Controller with Spatial Modulation for Assisted Locomotion using a Smart Walker",
+      "fecha": "2019-6-14",
+      "enlace": "https://doi.org/10.1007/s10846-018-0854-0"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Plane-by-Plane Written, Low-Loss Polymer Optical Fiber Bragg Grating Arrays for Multiparameter Sensing in a Smart Walker",
+      "fecha": "2019-10-15",
+      "enlace": "https://doi.org/10.1109/JSEN.2019.2921419"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Polymer Optical Fiber-Based Sensor System for Smart Walker Instrumentation and Health Assessment",
+      "fecha": "2019-1-15",
+      "enlace": "https://doi.org/10.1109/JSEN.2018.2878735"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "A Command-Based Control Framework for Smart Walkers with Real-Time Position Estimation",
+      "fecha": "2025-10-14",
+      "enlace": "https://doi.org/https://doi.org/10.1109/ccac64704.2025.11259412"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Control Strategies for Human-Robot Interaction Applied to Smart Walkers",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-77588-8_9"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Control Strategies for Human–Robot–Environment Interaction in Assisted Gait with Smart Walkers",
+      "fecha": "2021-6-8",
+      "enlace": "https://doi.org/10.1007/978-3-030-79630-3_10"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Decision-Making Algorithm Based on Multiple Context-Aware Agents for Human-Robot Interaction",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/IJCNN64981.2025.11228520"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Solar Irradiance Forecasting Based on Neural Networks for Sequential Data Analysis",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-88854-0_11"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Cable-Driven Exosuit to Assist Affected Upper-Limb Users with Hemiparesis",
+      "fecha": "2024-10-23",
+      "enlace": "https://doi.org/https://doi.org/10.1109/BioRob60516.2024.10719697"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Cable-Driven Exosuit to Assist Affected Upper-Limb Users with Hemiparesis",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1109/BioRob60516.2024.10719697"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Transformer Neural Network Architecture for Forecasting of Colombian Solar Irradiance",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1109/ColCACI63187.2024.10666577"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "A novel multimodal cognitive interaction for walker-assisted rehabilitation therapies",
+      "fecha": "2019-6-1",
+      "enlace": "https://doi.org/10.1109/ICORR.2019.8779469"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Remote-Operated Multimodal Interface for Therapists during Walker-Assisted Gait Rehabilitation: A Preliminary Assessment",
+      "fecha": "2019-3-22",
+      "enlace": "https://doi.org/10.1109/HRI.2019.8673099"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "A therapist helping hand for walker-assisted gait rehabilitation: A pre-clinical assessment",
+      "fecha": "2019-10-1",
+      "enlace": "https://doi.org/10.1109/CCAC.2019.8920943"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Recognition of navigation commands for a smart walker through force sensors",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1007/978-981-13-2119-1_105"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Assistive Device for Guiding Visually Impaired People with Mobility Disorders",
+      "fecha": "2018-3-1",
+      "enlace": "https://doi.org/10.1145/3173386.3176910"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Towards a New Generation of Smart Devices for Mobility Assistance: CloudWalker, a Cloud-Enabled Cyber-Pbysical System",
+      "fecha": "2018-10-9",
+      "enlace": "https://doi.org/10.1109/BIOROB.2018.8488077"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Path following control for assistance robots",
+      "fecha": "2017-12-14",
+      "enlace": "https://doi.org/10.23919/RPIC.2017.8211612"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Método Computacional para la Medición automática del área de Quistes del parásito Toxoplasma gondii",
+      "fecha": "2015-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F12a84a7b-7747-4e35-a1f9-b15ab6b7b019"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Procesamiento y Análisis digital de imágenes biológicas para el reconocimiento automático de quistes de Toxoplasma gondii",
+      "fecha": "2015-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e4029041-784f-430d-8b65-00295a080b9d"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Electromyographic signals processing for robotic assistance tools in the rural population",
+      "fecha": "2014-9-30",
+      "enlace": "https://doi.org/10.1109/biorob.2014.6913869"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Strawberries collecting robot prototype in greenhouse hydroponic systems",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1109/STSIVA.2013.6644933"
+    },
+    {
+      "tipo": "documento de conferencia",
+      "titulo": "A Command-Based Control Framework for Smart Walkers with Real-Time Position Estimation",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/CCAC64704.2025.11259412"
+    },
+    {
+      "tipo": "comentario",
+      "titulo": "Correction to: Admittance Controller with Spatial Modulation for Assisted Locomotion using a Smart Walker (Journal of Intelligent &amp; Robotic Systems, (2019), 94, 3-4, (621-637), 10.1007/s10846-018-0854-0)",
+      "fecha": "2019-6-14",
+      "enlace": "https://doi.org/10.1007/s10846-018-0888-3"
+    }
+  ],
+  "total_publicaciones": 39,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Dispositivo Robótico Vestible para la Correcta Postura Durante el Levantamiento de Carga (RoboLift)",
+      "fecha": "2026-02-02 - 2027-08-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F610a9e1c-bbbe-4d24-b1fd-82f10985c035"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Sistema interactivo de fortalecimiento de capacidades para la transición a la vida adulta en jóvenes con discapacidad intelectual (FORTIVA)",
+      "fecha": "2024-01-15 - 2025-12-19",
+      "enlace": "https://research-hub.urosario.edu.co/display/bba30658-c25d-44eb-b418-820f006d9ec2"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Desarrollo de una interfaz multimodal para la implementación eficaz de caminadores inteligentes en escenarios de asistencia a la marcha en adultos mayores.",
+      "fecha": "2023-02-20 - 2025-11-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1a72afc8-bd6c-4645-bda0-ddbc1845d624"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Desarrollo de un sistema de reconocimiento de objetos para la prótesis de mano PrHand basado en machine learning.",
+      "fecha": "2022-05-17 - 2024-05-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F13c1ffea-cd34-4579-b2de-d7774cac3a4c"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Adquisición y análisis de datos cinemáticos de la marcha a partir de sensórica y sistema markerless e inteligencia artificial",
+      "fecha": "2024-04-08 - 2025-12-19",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F40fd0809-df83-446b-9891-a34c9445fcf0"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Inteligencia Artificial Aplicada a la Transcripción y Análisis de Pausas para el Análisis Lingüístico Clínico.",
+      "fecha": "2023-11-01 - 2024-11-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F98194df2-8ad0-4b5d-b2a2-322f62b2a231"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "A Brain-Computer Interface for labour market inclusion of people suffering severe upper-limb impairments"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Beyond perfection: about learning from errors, NAO, and the world of virtual reality"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estudio de percepción de un entrenamiento para uso de prótesis de mano a través de un juego serio"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Procesamiento de imágenes satelitales a través de algoritmos de aprendizaje profundo, uso del suelo y cobertura terrestre para la estimación de la demanda de tráfico 5G"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Protocolo de monitoreo para material particulado emitido en la obra del patio taller este en la ciudd de Neiva - Huila"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001385649"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0003-0965-277X"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=DbvpH9wAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/mario-fernando-jimenez-hernandez"
+    ],
+    "scopus_id": [
+      "57201595264"
+    ]
+  },
+  "id": "mario-fernando-jimenez-hernandez",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001385649",
+    "cod_rh": "0001385649",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Asociado (I) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "MARIO FERNANDO JIMENEZ HERNANDEZ",
+      "Nombre en citaciones": "JIMENEZ HERNANDEZ, MARIO FERNANDO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado Universidade Federal do Espírito Santo Ingeniería Eléctrica Diciembrede2015 - Diciembrede 2018 Human-Robot-Environment Interaction Strategies for Walker-Assisted Gait",
+      "Maestría/Magister UNIVERSIDAD DE IBAGUÉ INGENIERIA DE CONTROL INDUSTRIAL Febrerode2008 - Diciembrede 2012 DISEÑO DE UN CONTROLADOR PID PARA EL SISTEMA DE RECOLECCION DE UN ROBOT EXPLORADOR USANDO LOOP SHAPING ROBUSTO",
+      "Pregrado/Universitario UNIVERSIDAD DE IBAGUÉ INGENIERIA ELECTRONICA Febrerode1999 - Juniode 2005 Diseño e implementación de un sensor de humedad para café pergamino"
+    ],
+    "formacion_complementaria": [
+      "Otros UNIVERSIDAD DEL TOLIMA CCNA Marzode2005 - Diciembrede 2005"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Enero de 2021 de",
+      "UNIVERSIDAD EL BOSQUE Dedicación: 40 horas Semanales Julio de 2019 Diciembre de 2020",
+      "Ryerson University Dedicación: 40 horas Semanales Enero de 2019 Junio de 2019 Actividades de investigación - Investigación y Desarrollo - Titulo: Identifying the user of the SW using the force sensors signals to adapt the control parameters online. Enero 2019",
+      "UNIVERSIDAD EL BOSQUE Dedicación: 40 horas Semanales Enero de 2014 Febrero de 2016 Actividades de administración - Coordinador de programa - Cargo: COORDINADOR ACADÉMICO Mayo de 2104 de Actividades de docencia - Pregrado - Nombre del curso: SISTEMAS DE CONTROL TRANSDUCTORES AGRONICA, 40 Julio 2014 - Pregrado - Nombre del curso: SISTEMAS DE CONTROL TRANSDUCTORES AGRONICA, 40 Julio 2014 Noviembre 2014",
+      "FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Dedicación: 40 horas Semanales Agosto de 2010 Mayo de 2014 Actividades de administración - Coordinador de curso - Cargo: Cordinador de Investigación Enero de 2012 Mayo de 2014",
+      "Universidad Antonio Nariño - Sede Bogotá - U.A.N. Dedicación: 40 horas Semanales Agosto de 2010 Agosto de 2011 Actividades de administración - Coordinador de programa - Cargo: Coordinador de programa Agosto de 2010 Agosto de 2011 Actividades de docencia - Pregrado - Nombre del curso: CIRCUITOS DIGITALES I, 10 Febrero 2011 Mayo 2011 - Pregrado - Nombre del curso: Circuios II, 15 Agosto 2010 Agosto 2011",
+      "Corporacion Tecnologica Industrial Colombiana Dedicación: 40 horas Semanales Febrero de 2009 Julio de 2010",
+      "INSTRUCONT Dedicación: 6 horas Semanales Febrero de 2010 Junio de 2010",
+      "UNIVERSIDAD DE IBAGUÉ Dedicación: 16 horas Semanales Febrero de 2008 Diciembre de 2008",
+      "TELEMATICA Y COMUNICACIONES S.A. Dedicación: 48 horas Semanales Mayo de 2006 Enero de 2008",
+      "ELECTROCONTROLES Dedicación: 20 horas Semanales Noviembre de 2005 Abril de 2006",
+      "UNIVERSIDAD DE IBAGUÉ Dedicación: 20 horas Semanales Diciembre de 2003 Mayo de 2005"
+    ],
+    "areas_actuacion": [
+      "Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica",
+      "Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático",
+      "Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Automatización y Sistemas de Control"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Control y Automatización, Activa: Si",
+      "Tecnologías de Asistencia y Rehabilitación, Activa: Si",
+      "Biomedical signals processing , Activa: Si",
+      "Robotica, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Mejor paper de sesión,Conferencia Iberoamericana, Informática y Cibernética 2015 - Marzode 2015",
+      "Cinco Mejores tarabajos VIII Simpósio de Neuroengenharia ,Instituto Santos Dumont - Instituto Internacional de NeurociÃªncias - Noviembrede 2022",
+      "Tesis meritoria,UNIVERSIDAD EL BOSQUE - Diciembrede 2020",
+      "Tesis Meritoria,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Juliode 2023"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Plataforma virtual para la preparación de pacientes con autismo ante procedimiento de remoción de placa bacteriana en la consulta odonológica UNIVERSIDAD EL BOSQUE Estado: Tesis concluida BIOINGENIERÍA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Salomé Pérez García Edwin Juan David Suárez Giraldo Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Prototipo vestible para la detección de movimientos repetitivos en personas propensas a sufrir sindrome del tunel carpiano UNIVERSIDAD EL BOSQUE Estado: Tesis concluida BIOINGENIERÍA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Natalia Sanchéz Sanchéz Faissy Dajanny Fernández Fontecha Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Desarrollo de un sistema de detección de intención de movimiento para la adaptación de un caminador pasivo a activo UNIVERSIDAD EL BOSQUE Estado: Tesis concluida BIOINGENIERÍA, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Elio David Triana Rodríguez Diego Nicolas Jiménez Agudelo Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Desarrollo de un dispositivo que permita la realización de movimientos repetitivo en miembros superiores e inferiores UNIVERSIDAD EL BOSQUE Estado: Tesis concluida BIOINGENIERÍA, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Julian David Ramírez Ortega Nikolas Rodríguez Franco Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Monografía de conclusión de curso de perfeccionamiento/especialización: MARIO FERNANDO JIMENEZ HERNANDEZ, Guías para la elaboración de documentos en control e instrumentación, necesarios en el desarrollo de proyectos de ingeniería en sus etapas conceptual, básica y de detalle FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Estado: Tesis concluida INGENIERIA MECATRONICA, 2014. Dirigió como: Tutor principal, Persona(s) orientada(s): Nicolas Londoño Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Automatización y Sistemas de Control,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, A Brain-Computer Interface for labour market inclusion of people suffering severe upper-limb impairments COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Matemáticas Aplicadas y Ciencias de la Computación, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Lucas García Osorio Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Development of an adaptative human-robot interface based on physiological parameters to promote physical activity in sedentary participants COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): María Paula Insuasty Pineda Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: MARIO FERNANDO JIMENEZ HERNANDEZ, PROCESAMIENTO DE IMÁGENES SATELITALES A TRAVÉS DE ALGORITMOS DE APRENDIZAJE PROFUNDO, USO DEL SUELO Y COBERTURA TERRESTRE PARA LA ESTIMACIÓN DE LA DEMANDA DE TRÁFICO 5G COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Matemáticas Aplicadas y Ciencias de la Computación, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Alex Felipe Sarmiento Henriquez Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Beyond Perfection: About learning from errors, NAO, and the World of Virtual Reality COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Matemáticas Aplicadas y Ciencias de la Computación, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Dana Isabella Acosta Castillo Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Diseño y construcción de prototipo freidor y dispensador de alimentos precocidos con control automático FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Estado: Tesis concluida INGENIERIA MECATRONICA, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Jorge Leonardo Buitrago Pinto Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Automatización y Sistemas de Control,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Desarrollo de un sistema de visualización de información antropométrica para la identificación de parámetros de la marcha antes y después de la realización de la prueba de extensión en bípedo de los isquiotibiales (PEBI) UNIVERSIDAD EL BOSQUE Estado: Tesis concluida BIOINGENIERÍA, 2020. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Ronald Sebastian Cardenas Prieto Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Recuperación del lago cli a través de tecnologías mecánicas y biológicas con monitoreo automático de las variables fisicoquímicas principales para el cultivo de trucha arcoíris (Oncorhynchus Mykiss) UNIVERSIDAD EL BOSQUE Estado: Tesis concluida PROGRAMA DE BIOINGENIERIA, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Gabriela Barrero Echeverría Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Biotecnología Ambiental -- Biotecnología Ambiental,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Desarrollo de un sistema de monitoreo y control de variables ambientales para el cultivo orgánico de plantas medicinales en la Unidad Médica Ortegón con fines homeopáticos UNIVERSIDAD EL BOSQUE Estado: Tesis concluida PROGRAMA DE BIOINGENIERIA, 2014. Dirigió como: Tutor principal, Persona(s) orientada(s): Yuddy Alejandra Castro Ortegon Héctor Eduardo Romero Ramírez Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Biotecnología Ambiental -- Biotecnología Ambiental,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Desarrollo de un prototipo que usa el método de extrusión para la formación de encapsulados elaborados con alginato de sodio UNIVERSIDAD EL BOSQUE Estado: Tesis concluida PROGRAMA DE BIOINGENIERIA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Paula Camila Quintero Silva Tutor(es)/Cotutor(es): JOSE FRANCISCO IBLA GORDILLO , MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Biotecnología Ambiental -- Biotecnología Ambiental,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Desarrollo de un prototipo sembrador automatico de precision, de zanahoria (Daucus carota) Var. Chantenay para mediana producci\u0013on. UNIVERSIDAD EL BOSQUE Estado: Tesis concluida PROGRAMA DE BIOINGENIERIA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Erika Viviana Rueda Mojica Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Desarrollo de una cámara automatizada de plantulación de perejil (Petroselinum crispum) a partir de un sistema de control que regule temperatura, luminosidad y humedad relativa del sustrato UNIVERSIDAD EL BOSQUE Estado: Tesis concluida PROGRAMA DE BIOINGENIERIA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Manuela Alejandra Hernández Otálora y Maria Camila Matiz Gómez Tutor(es)/Cotutor(es): MARIO FERNANDO JIMENEZ HERNANDEZ, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería de Producción,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: Development of a mixed reality environment for the rehabilitation of people with impaired mobility using gait support strategies Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidade Federal do Espírito Santo programa académico Doutorado em Engenharia Elétrica Nombre del orientado: Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: Desarrollo del prototipo de un biorreactor para la elaboración de compostaje con control automático Tipo de trabajo presentado: en: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA programa académico INGENIERIA MECATRONICA Nombre del orientado: Yury Chavarro - Rowinson Diaz Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: DISEÑO E IMPLEMENTACIÓN DE UN MÓDULO PARA PRÁCTICAS DE LABORATORIO PARA LA OBTENCIÓN DEL MODELO Y EL DESARROLLO DE CONTROLADORES PARA MOTORES DC PARA LA UAN SEDE NEIVA Tipo de trabajo presentado: en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA ELECTRONICA Nombre del orientado: Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: Diseño electrónico de un circuito de control de velocidad y posición para carga de cajas de insonorizantes para vehículo Tipo de trabajo presentado: en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA ELECTRONICA Nombre del orientado: Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: Estratégia de Interação Multimodal Humano-Robô-Ambiente para a Marcha Assistida por Andador Robótico Tipo de trabajo presentado: Trabajo de grado/tesis en: Univesidade Federal do Espirito Santo programa académico Maestria en Ingeniería Eléctrica Nombre del orientado: Wandercleyson Marchiori Scheidegger Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: Prototipo a escala de una cama hospitalaria antiescaras para pacientes con lesiones medulares controlada por potenciales evocados en estado estacionario (SSVEP) Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD EL BOSQUE programa académico PROGRAMA DE BIOINGENIERIA Nombre del orientado: María José León Amaya, Jorge Leonardo Díaz Barragan Areas: Ingeniería y Tecnología -- Biotecnología Ambiental -- Biotecnología Ambiental,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: Fatigue Estimation For High-Intensity Exercises In Physical Rehabilitation Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico Maestría en Ingeniería Electrónica Nombre del orientado: Andrés Felipe Aguirre Fajardo Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: MARIO FERNANDO JIMENEZ HERNANDEZ, Titulo: Construcción de un prototipo de huerta hidropónica doméstica para el cultivo de espinaca Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD EL BOSQUE programa académico PROGRAMA DE BIOINGENIERIA Nombre del orientado: Gilberto Andrés Gómez Camargo Areas: Ingeniería y Tecnología -- Biotecnología Ambiental -- Biotecnología Ambiental,"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Otra: MARIO FERNANDO JIMENEZ HERNANDEZ, II Congreso Internacional Ingeniería Mecatrónica y Automatización en: Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Datos complementarios - Participación en comités de evaluación - Otra: MARIO FERNANDO JIMENEZ HERNANDEZ, IV Encuentro Interinstitucional de Semillero de Investigación. Siembra Investigación, recoge desarrollo en: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Datos complementarios - Participación en comités de evaluación - Otra: MARIO FERNANDO JIMENEZ HERNANDEZ, II Competencia De Robótica Móvil Uniagraria en: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Bogota Robotica Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2013-10-17 00:00:00.0, 2013-10-20 00:00:00.0 en BOGOTÁ, D.C. - Planetario Productos asociados Nombre del producto: La robotica, una herramienta para la agricultura Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Tipo de vinculación Gestionadora Nombre de la institución: Secretaria de las TICS - Alcaldía de Bogota. Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "1 Nombre del evento: Bogota Robotica Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2013-10-17 00:00:00.0, 2013-10-20 00:00:00.0 en BOGOTÁ, D.C. - Planetario",
+      "Productos asociados Nombre del producto: La robotica, una herramienta para la agricultura Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Tipo de vinculación Gestionadora Nombre de la institución: Secretaria de las TICS - Alcaldía de Bogota. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "2 Nombre del evento: Astrobiology Science Conference 2012 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-04-16 00:00:00.0, 2012-04-20 00:00:00.0 en Atlanta - GEORGIA TECH Productos asociados Nombre del producto: Trajectory Tracking Control System for the Locomotion of a Robotic Moon Regolith Collector Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Design and Constructions of a Miner Robot of Moon's Regolith Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: A Multi-Robot Distributed Intelligent System with Application to Mars Exploration Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Astrobiology Science Conference 2012 Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "2 Nombre del evento: Astrobiology Science Conference 2012 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-04-16 00:00:00.0, 2012-04-20 00:00:00.0 en Atlanta - GEORGIA TECH",
+      "Productos asociados Nombre del producto: Trajectory Tracking Control System for the Locomotion of a Robotic Moon Regolith Collector Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Design and Constructions of a Miner Robot of Moon's Regolith Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: A Multi-Robot Distributed Intelligent System with Application to Mars Exploration Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Astrobiology Science Conference 2012 Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "3 Nombre del evento: 5th IEEE RAS/EMBS. International Conference on Biomedical Robotics and Biomechatronics. BIOROB 2014 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-08-12 00:00:00.0, 2014-08-15 00:00:00.0 en São Paulo - Centro de convenciones Anhembi Productos asociados Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora Nombre de la institución: Polytechnic School University of São Paulo Tipo de vinculación Gestionadora Participantes Nombre: ANDRES ALBERTO RAMIREZ DUQUE Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "3 Nombre del evento: 5th IEEE RAS/EMBS. International Conference on Biomedical Robotics and Biomechatronics. BIOROB 2014 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-08-12 00:00:00.0, 2014-08-15 00:00:00.0 en São Paulo - Centro de convenciones Anhembi",
+      "Productos asociados Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora Nombre de la institución: Polytechnic School University of São Paulo Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ANDRES ALBERTO RAMIREZ DUQUE Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "4 Nombre del evento: AbSsiCon 2010 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-01-01 00:00:00.0, en HOUSTON TEXAS - League City, Texas Instituciones asociadas Nombre de la institución: Lunar and Planetary Institue Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Asistente",
+      "4 Nombre del evento: AbSsiCon 2010 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-01-01 00:00:00.0, en HOUSTON TEXAS - League City, Texas",
+      "Instituciones asociadas Nombre de la institución: Lunar and Planetary Institue Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Asistente",
+      "5 Nombre del evento: Primer Congreso Internacional de Astrobiologia Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-01-01 00:00:00.0, en BOGOTÁ, D.C. - Colegio Vermont, Bogota. Instituciones asociadas Nombre de la institución: Colegio Vermont Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Asistente",
+      "5 Nombre del evento: Primer Congreso Internacional de Astrobiologia Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-01-01 00:00:00.0, en BOGOTÁ, D.C. - Colegio Vermont, Bogota.",
+      "Instituciones asociadas Nombre de la institución: Colegio Vermont Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Asistente",
+      "6 Nombre del evento: Quinta Conferencia Iberoamericana de Complejidad, Informática y Cibernética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-03-10 00:00:00.0, 2015-03-13 00:00:00.0 en Orlando - Orlando, Florida Productos asociados Nombre del producto: Método Computacional para la Medición Automática del área de Quistes del Parásito Toxoplasma Gondii Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Método Computacional para la Medición Automática del área de Quistes del Parásito Toxoplasma Gondii Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Procesamiento y Análisis digital de imágenes biológicas para el reconocimiento automático de quistes de Toxoplasma gondii Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora Participantes Nombre: ARMANDO ALCIDES QUINONES QUINONES Rol en el evento: Ponente Nombre: GRACIELA JUEZ CASTILLO Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "6 Nombre del evento: Quinta Conferencia Iberoamericana de Complejidad, Informática y Cibernética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-03-10 00:00:00.0, 2015-03-13 00:00:00.0 en Orlando - Orlando, Florida",
+      "Productos asociados Nombre del producto: Método Computacional para la Medición Automática del área de Quistes del Parásito Toxoplasma Gondii Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Método Computacional para la Medición Automática del área de Quistes del Parásito Toxoplasma Gondii Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Procesamiento y Análisis digital de imágenes biológicas para el reconocimiento automático de quistes de Toxoplasma gondii Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ARMANDO ALCIDES QUINONES QUINONES Rol en el evento: Ponente Nombre: GRACIELA JUEZ CASTILLO Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "7 Nombre del evento: Quinta Conferencia Iberoamericana de Complejidad, Informática y Cibernética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-03-10 00:00:00.0, 2015-03-13 00:00:00.0 en Orlando - Orlando, Florida Productos asociados Nombre del producto: Procesamiento y Análisis digital de imágenes biológicas para el reconocimiento automático de quistes de Toxoplasma gondii Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Procesamiento y Análisis digital de imágenes biológicas para el reconocimiento automático de quistes de Toxoplasma gondii Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora Participantes Nombre: ARMANDO ALCIDES QUINONES QUINONES Rol en el evento: Ponente Nombre: GRACIELA JUEZ CASTILLO Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "7 Nombre del evento: Quinta Conferencia Iberoamericana de Complejidad, Informática y Cibernética Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-03-10 00:00:00.0, 2015-03-13 00:00:00.0 en Orlando - Orlando, Florida",
+      "Productos asociados Nombre del producto: Procesamiento y Análisis digital de imágenes biológicas para el reconocimiento automático de quistes de Toxoplasma gondii Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Procesamiento y Análisis digital de imágenes biológicas para el reconocimiento automático de quistes de Toxoplasma gondii Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ARMANDO ALCIDES QUINONES QUINONES Rol en el evento: Ponente Nombre: GRACIELA JUEZ CASTILLO Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "8 Nombre del evento: III Congreso Internacional de Ingeniería Mecatrónica CIIMA 2014 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-10-22 00:00:00.0, 2014-10-25 00:00:00.0 en BOGOTÁ, D.C. - Universidad Tecnologica de Bolivar Productos asociados Nombre del producto: Estación sostenible para indicación de radiación UV y zona verde de recarga de dispositivos móviles, ECOTree Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Procesamiento de señales de EMG con técnica de PSD para determinar los mandos de un manipulador robótico Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Universidad El Bosque - Escuela Colombiana De Medicina Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "8 Nombre del evento: III Congreso Internacional de Ingeniería Mecatrónica CIIMA 2014 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-10-22 00:00:00.0, 2014-10-25 00:00:00.0 en BOGOTÁ, D.C. - Universidad Tecnologica de Bolivar",
+      "Productos asociados Nombre del producto: Estación sostenible para indicación de radiación UV y zona verde de recarga de dispositivos móviles, ECOTree Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Procesamiento de señales de EMG con técnica de PSD para determinar los mandos de un manipulador robótico Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Universidad El Bosque - Escuela Colombiana De Medicina Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "9 Nombre del evento: II Congreso Internacional de Mecatronica CIIMA 2013 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-10-23 00:00:00.0, 2013-10-25 00:00:00.0 en CARTAGENA DE INDIAS - Universidad de la Salle Productos asociados Nombre del producto: Diseño de Controladores PID para Sistemas de Segundo Orden Usando Loop Shaping Robusto Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Diseño de Controladores PID para Sistemas de Segundo Orden Usando Loop Shaping Robusto Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Universidad de La Salle Tipo de vinculación Patrocinadora Participantes Nombre: ANDRES ALBERTO RAMIREZ DUQUE Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "9 Nombre del evento: II Congreso Internacional de Mecatronica CIIMA 2013 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-10-23 00:00:00.0, 2013-10-25 00:00:00.0 en CARTAGENA DE INDIAS - Universidad de la Salle",
+      "Productos asociados Nombre del producto: Diseño de Controladores PID para Sistemas de Segundo Orden Usando Loop Shaping Robusto Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Diseño de Controladores PID para Sistemas de Segundo Orden Usando Loop Shaping Robusto Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Universidad de La Salle Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRES ALBERTO RAMIREZ DUQUE Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "10 Nombre del evento: XVIII Simposio de Tratamiento de Señales, Imágenes y Visión Artificial - STSIVA 2013 Tipo de evento: Simposio Ámbito: Nacional Realizado el:2013-09-11 00:00:00.0, 2013-09-13 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño- Sede Circunvalar Bogota Productos asociados Nombre del producto: Strawberries Collecting Robot Prototype in Greenhouse Hydroponic System Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Strawberries Collecting Robot Prototype in Greenhouse Hydroponic System Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Strawberries Collecting Robot Prototype in Greenhouse Hydroponic System Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad Antonio Nariño - Sede Bogotá - U.A.N. Tipo de vinculación Patrocinadora Participantes Nombre: ANDRES ALBERTO RAMIREZ DUQUE Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "10 Nombre del evento: XVIII Simposio de Tratamiento de Señales, Imágenes y Visión Artificial - STSIVA 2013 Tipo de evento: Simposio Ámbito: Nacional Realizado el:2013-09-11 00:00:00.0, 2013-09-13 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño- Sede Circunvalar Bogota",
+      "Productos asociados Nombre del producto: Strawberries Collecting Robot Prototype in Greenhouse Hydroponic System Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Strawberries Collecting Robot Prototype in Greenhouse Hydroponic System Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Strawberries Collecting Robot Prototype in Greenhouse Hydroponic System Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad Antonio Nariño - Sede Bogotá - U.A.N. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRES ALBERTO RAMIREZ DUQUE Rol en el evento: Ponente Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "11 Nombre del evento: VII Jornada de Ingeniería: Espacio Para la Ciencia y la Tecnología Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-05-17 00:00:00.0, 2012-05-19 00:00:00.0 en FUSAGASUGÁ - Universidad de Cundinamarca Sede Fusagasuga Productos asociados Nombre del producto: ROBOTICA ESPACIAL: HERRAMIENTA PARA LA EDUCACIÓN Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE CUNDINAMARCA Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "11 Nombre del evento: VII Jornada de Ingeniería: Espacio Para la Ciencia y la Tecnología Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-05-17 00:00:00.0, 2012-05-19 00:00:00.0 en FUSAGASUGÁ - Universidad de Cundinamarca Sede Fusagasuga",
+      "Productos asociados Nombre del producto: ROBOTICA ESPACIAL: HERRAMIENTA PARA LA EDUCACIÓN Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE CUNDINAMARCA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "12 Nombre del evento: Simposio Regional de Electronica y Aplicaciones Industriales Tipo de evento: Simposio Ámbito: Realizado el:2005-01-01 00:00:00.0, en IBAGUÉ - Universidad de Ibague Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE IBAGUÉ Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "12 Nombre del evento: Simposio Regional de Electronica y Aplicaciones Industriales Tipo de evento: Simposio Ámbito: Realizado el:2005-01-01 00:00:00.0, en IBAGUÉ - Universidad de Ibague",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE IBAGUÉ Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "13 Nombre del evento: VI Congreso Nacional de Automatica Tipo de evento: Congreso Ámbito: Nacional Realizado el:2004-01-01 00:00:00.0, en IBAGUÉ - Universidad de Ibague Productos asociados Nombre del producto: Diseño y Calibración de un Sensor de Humedad Para Café Pergamino Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE IBAGUÉ Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "13 Nombre del evento: VI Congreso Nacional de Automatica Tipo de evento: Congreso Ámbito: Nacional Realizado el:2004-01-01 00:00:00.0, en IBAGUÉ - Universidad de Ibague",
+      "Productos asociados Nombre del producto: Diseño y Calibración de un Sensor de Humedad Para Café Pergamino Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE IBAGUÉ Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "14 Nombre del evento: II Competencia De Robótica Móvil Uniagraria Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-05-01 00:00:00.0, en BOGOTÁ, D.C. - Auditorio Principal Fundación Universitaria de Colombia Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "14 Nombre del evento: II Competencia De Robótica Móvil Uniagraria Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-05-01 00:00:00.0, en BOGOTÁ, D.C. - Auditorio Principal Fundación Universitaria de Colombia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "15 Nombre del evento: I Competencia de Robótica Móvil Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-04-01 00:00:00.0, en BOGOTÁ, D.C. - Auditorio Auxiliar Fundación Universitaria Agraria de Colombia Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "15 Nombre del evento: I Competencia de Robótica Móvil Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-04-01 00:00:00.0, en BOGOTÁ, D.C. - Auditorio Auxiliar Fundación Universitaria Agraria de Colombia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA AGRARIA DE COLOMBIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Organizador",
+      "16 Nombre del evento: 2023 IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - UNIVERSIDAD DEL ROSARIO Productos asociados Nombre del producto: Exploring NAO Robot Errors in Collaborative Work: An Assessment based on Identification, Analysis, and Troubleshooting Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Exploring NAO Robot Errors in Collaborative Work: An Assessment based on Identification, Analysis, and Troubleshooting Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "16 Nombre del evento: 2023 IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - UNIVERSIDAD DEL ROSARIO",
+      "Productos asociados Nombre del producto: Exploring NAO Robot Errors in Collaborative Work: An Assessment based on Identification, Analysis, and Troubleshooting Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Exploring NAO Robot Errors in Collaborative Work: An Assessment based on Identification, Analysis, and Troubleshooting Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "17 Nombre del evento: 14th Annual ACM/IEEE International Conference on Human Robot Interaction HRI 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-03-11 00:00:00.0, 2019-03-14 00:00:00.0 en Daegu - EXCO Convention Center Productos asociados Nombre del producto: Remote-operated multimodal interface for therapists during walker-assisted gait rehabilitation: a preliminary assessment Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "17 Nombre del evento: 14th Annual ACM/IEEE International Conference on Human Robot Interaction HRI 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-03-11 00:00:00.0, 2019-03-14 00:00:00.0 en Daegu - EXCO Convention Center",
+      "Productos asociados Nombre del producto: Remote-operated multimodal interface for therapists during walker-assisted gait rehabilitation: a preliminary assessment Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "18 Nombre del evento: 13th Annual ACM/IEEE International Conference on Human Robot Interaction HRI 2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-03-05 00:00:00.0, 2018-03-08 00:00:00.0 en Chicago - McCormick Place in Chicago Productos asociados Nombre del producto: Assistive Device for Guiding Visually Impaired People With Mobility Disorders Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Assistive Device for Guiding Visually Impaired People With Mobility Disorders Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Universidad Federal de Espirito Santo Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente Nombre: RICARDO C MELLO Rol en el evento: Ponente",
+      "18 Nombre del evento: 13th Annual ACM/IEEE International Conference on Human Robot Interaction HRI 2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-03-05 00:00:00.0, 2018-03-08 00:00:00.0 en Chicago - McCormick Place in Chicago",
+      "Productos asociados Nombre del producto: Assistive Device for Guiding Visually Impaired People With Mobility Disorders Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Assistive Device for Guiding Visually Impaired People With Mobility Disorders Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Universidad Federal de Espirito Santo Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente Nombre: RICARDO C MELLO Rol en el evento: Ponente",
+      "19 Nombre del evento: XXVI Brazilian Congress on Biomedical Engineering Tipo de evento: Otro Ámbito: Nacional Realizado el:2018-10-21 00:00:00.0, 2018-10-25 00:00:00.0 en Armação dos Búzios - Ataltico Buzios Hotel Productos asociados Nombre del producto: Recognition of Navigation Commands for a Smart Walker Through Force Sensors Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Recognition of Navigation Commands for a Smart Walker Through Force Sensors Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Universidade Federal do Espírito Santo Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "19 Nombre del evento: XXVI Brazilian Congress on Biomedical Engineering Tipo de evento: Otro Ámbito: Nacional Realizado el:2018-10-21 00:00:00.0, 2018-10-25 00:00:00.0 en Armação dos Búzios - Ataltico Buzios Hotel",
+      "Productos asociados Nombre del producto: Recognition of Navigation Commands for a Smart Walker Through Force Sensors Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Recognition of Navigation Commands for a Smart Walker Through Force Sensors Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Universidade Federal do Espírito Santo Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "20 Nombre del evento: 2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-06-24 00:00:00.0, 2019-06-28 00:00:00.0 en Toronto - Toronto, ON, Canada, Canada Productos asociados Nombre del producto: A Novel Multimodal Cognitive Interaction for Walker-Assisted Rehabilitation Therapies Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "20 Nombre del evento: 2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-06-24 00:00:00.0, 2019-06-28 00:00:00.0 en Toronto - Toronto, ON, Canada, Canada",
+      "Productos asociados Nombre del producto: A Novel Multimodal Cognitive Interaction for Walker-Assisted Rehabilitation Therapies Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "21 Nombre del evento: IEEE 4th Colombian Conference on Automatic Control (CCAC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-15 00:00:00.0, 2019-10-18 00:00:00.0 en MEDELLÍN - Universidad Nacional sede Medellin Productos asociados Nombre del producto: A Therapist Helping Hand for Walker-Assisted Gait Rehabilitation: A Pre-Clinical Assessment Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: A Therapist Helping Hand for Walker-Assisted Gait Rehabilitation: A Pre-Clinical Assessment Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "21 Nombre del evento: IEEE 4th Colombian Conference on Automatic Control (CCAC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-15 00:00:00.0, 2019-10-18 00:00:00.0 en MEDELLÍN - Universidad Nacional sede Medellin",
+      "Productos asociados Nombre del producto: A Therapist Helping Hand for Walker-Assisted Gait Rehabilitation: A Pre-Clinical Assessment Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: A Therapist Helping Hand for Walker-Assisted Gait Rehabilitation: A Pre-Clinical Assessment Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EL BOSQUE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente",
+      "22 Nombre del evento: BIOROB 2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-08-26 00:00:00.0, 2018-08-29 00:00:00.0 en Enschede - University of Twente, The Netherlands Productos asociados Nombre del producto: Towards a New Generation of Smart Devices for Mobility Assistance: CloudWalker, a Cloud-Enabled Cyber-Pbysical System. Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Towards a New Generation of Smart Devices for Mobility Assistance: CloudWalker, a Cloud-Enabled Cyber-Pbysical System. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Universidade Federal do Espirito Santo Tipo de vinculación Patrocinadora Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente Nombre: RICARDO C MELLO Rol en el evento: Ponente",
+      "22 Nombre del evento: BIOROB 2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-08-26 00:00:00.0, 2018-08-29 00:00:00.0 en Enschede - University of Twente, The Netherlands",
+      "Productos asociados Nombre del producto: Towards a New Generation of Smart Devices for Mobility Assistance: CloudWalker, a Cloud-Enabled Cyber-Pbysical System. Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Towards a New Generation of Smart Devices for Mobility Assistance: CloudWalker, a Cloud-Enabled Cyber-Pbysical System. Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Universidade Federal do Espirito Santo Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: MARIO FERNANDO JIMENEZ HERNANDEZ Rol en el evento: Ponente Nombre: RICARDO C MELLO Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Diseño y Calibración de un Sensor de Humedad Para Café Pergamino\" . En: Colombia Memorias Del Vi Congreso De La Asociación Colombiana De Automática ISSN: 9588-0283 ed: El Poira v. N/A fasc. N/A p.N/A - N/A ,2004, DOI:",
+        "titulo": "Diseño y Calibración de un Sensor de Humedad Para Café Pergamino",
+        "anio": "2004"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"URHAND: Hand Prosthesis for Identifying Objects for Activities of Daily Living\" . En: Estados Unidos IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT ISSN: 0018-9456 ed: Ieee v. 73 fasc. p.1 - 10 ,2024, DOI: 10.1109/TIM.2024.3470013",
+        "titulo": "URHAND: Hand Prosthesis for Identifying Objects for Activities of Daily Living",
+        "doi": "10.1109/TIM.2024.3470013",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Diseño y Construcción de un Prototipo de Secador Rotatorio Para Café Pergamino y Análisis de su Comportamiento Frente a un Secador de Capa Fija\" . En: Colombia I+E:Revista Ingeniería Electrónica Universidad De Ibagué ISSN: 2011-3781 ed: v. N/A fasc. N/A p.N/A - N/A ,2005, DOI:",
+        "titulo": "Diseño y Construcción de un Prototipo de Secador Rotatorio Para Café Pergamino y Análisis de su Comportamiento Frente a un Secador de Capa Fija",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, RICARDO C MELLO, \"Admittance Controller with Spatial Modulation for Assisted Locomotion using a Smart Walker\" . En: Suiza JOURNAL OF INTELLIGENT ROBOTIC SYSTEMS ISSN: 0921-0296 ed: Springer v. 94 fasc. N/A p.621 - 637 ,2019, DOI: 10.1007/s10846-018-0854-0 Palabras: Admittance control, Spatial modulation, Cognitive assistance, Haptic, Smart Walker,",
+        "titulo": "Admittance Controller with Spatial Modulation for Assisted Locomotion using a Smart Walker",
+        "doi": "10.1007/s10846-018-0854-0",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Polymer Optical Fiber Based Sensor System for Smart Walker Instrumentation and Health\" . En: Estados Unidos IEEE SENSORS JOURNAL ISSN: 1530-437X ed: Ieee v. 19 fasc. N/A p.567 - 574 ,2018, DOI: 10.1109/JSEN.2018.2878735 Palabras: Polymer optical fiber, oximetry, heart rate, Smart Walker, cloud robotics,",
+        "titulo": "Polymer Optical Fiber Based Sensor System for Smart Walker Instrumentation and Health",
+        "doi": "10.1109/JSEN.2018.2878735",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, RICARDO C MELLO, \"On Human-in-the-Loop CPS in Healthcare: A Cloud-Enabled Mobility Assistance Service\" . En: Estados Unidos ROBOTICA ISSN: 0263-5747 ed: Cambridge Univ Press v. 39 fasc. 9 p.1477 - 1493 ,2019, DOI: 10.1017/S0263574719000079 Palabras: Healthcare, Cyber-physical systems, Assistive robotics, Communication networks, QoE, QoS,",
+        "titulo": "On Human-in-the-Loop CPS in Healthcare: A Cloud-Enabled Mobility Assistance Service",
+        "doi": "10.1017/S0263574719000079",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): MARIO FERNANDO JIMENEZ HERNANDEZ, MAURICIO FELIPE MAULEDOUX MONROY, \"Design and Constructions of a Miner Robot of Moon's Regolith\" . En: Estados Unidos ASTROBIOLOGY ISSN: 1531-1074 ed: Mary Ann Liebert, Inc. v. 1 fasc. 1 p.1 - 1 ,2012, DOI: Palabras: Collector, Regolito, Robot, Sectores: Fabricación de máquinas, aparatos y materialies eléctricos,",
+        "titulo": "Design and Constructions of a Miner Robot of Moon's Regolith",
+        "doi": "Palabras:",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Plane-by-Plane Written, Low-Loss Polymer Optical Fiber Bragg Grating Arrays for Multiparameter Sensing in a Smart Walker\" . En: Suiza IEEE SENSORS JOURNAL ISSN: 1530-437X ed: Ieee v. 19 fasc. N/A p.9221 - 9228 ,2019, DOI: 10.1109/JSEN.2019.2921419 Palabras: plastic optical fibers, Smart Walker, sensors,",
+        "titulo": "Plane-by-Plane Written, Low-Loss Polymer Optical Fiber Bragg Grating Arrays for Multiparameter Sensing in a Smart Walker",
+        "doi": "10.1109/JSEN.2019.2921419",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, RICARDO C MELLO, \"Assistive locomotion device with haptic feedback for guiding visually impaired people\" . En: Colombia MEDICAL ENGINEERING PHYSICS ISSN: 1350-4533 ed: ELSEVIER SCI LTD v. 80 fasc. N/A p.18 - 25 ,2020, DOI: 10.1016/j.medengphy.2020.04.002 Palabras: haptic feedback, Admittance control, Smart Walker, visual impairment,",
+        "titulo": "Assistive locomotion device with haptic feedback for guiding visually impaired people",
+        "doi": "10.1016/j.medengphy.2020.04.002",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, RICARDO C MELLO, SERGIO DAVID SIERRA MARIN, CARLOS ANDRES CIFUENTES GARCIA, \"A Novel Multimodal Cognitive Interaction for Walker-Assisted Rehabilitation Therapies\" . En: Canadá IEEE INTERNATIONAL CONFERENCE ON REHABILITATION ROBOTICS ISSN: 1945-7901 ed: Ieee v. 2019 fasc. N/A p.905 - 910 ,2019, DOI: 10.1109/ICORR.2019.8779469",
+        "titulo": "A Novel Multimodal Cognitive Interaction for Walker-Assisted Rehabilitation Therapies",
+        "doi": "10.1109/ICORR.2019.8779469",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): MARIO FERNANDO JIMENEZ HERNANDEZ, \"Trajectory Tracking Control System for the Locomotion of a Robotic Moon Regolith Collector\" . En: Estados Unidos ASTROBIOLOGY ISSN: 1531-1074 ed: Mary Ann Liebert, Inc. v. 1 fasc. 1 p.1 - 1 ,2012, DOI:",
+        "titulo": "Trajectory Tracking Control System for the Locomotion of a Robotic Moon Regolith Collector",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, RICARDO C MELLO, \"Bringing proxemics to walker-assisted gait: using admittance control with spatial modulation to navigate in confined spaces.\" . En: Inglaterra PERSONAL AND UBIQUITOUS COMPUTING ISSN: 1617-4909 ed: Springer London v. 1 fasc. N/A p.1 - 19 ,2021, DOI: 10.1007/s00779-021-01521-8",
+        "titulo": "Bringing proxemics to walker-assisted gait: using admittance control with spatial modulation to navigate in confined spaces.",
+        "doi": "10.1007/s00779-021-01521-8",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SERGIO DAVID SIERRA MARIN, MARIO FERNANDO JIMENEZ HERNANDEZ, MARCELA CRISTINA MUNERA RAMIREZ, CARLOS ANDRES CIFUENTES GARCIA, \"Semi-Remote Gait Assistance Interface: A Joystick with Visual Feedback Capabilities for Therapists\" . En: Suiza SENSORS ISSN: 1424-8220 ed: mdpi v. 21 fasc. 10 p.1 - 18 ,2021, DOI: 10.3390/s21103521 Palabras: Rehabiltation, Admittance control, Assistive robotics, Control,",
+        "titulo": "Semi-Remote Gait Assistance Interface: A Joystick with Visual Feedback Capabilities for Therapists",
+        "doi": "10.3390/s21103521",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CARLOS ANDRES CIFUENTES GARCIA, MARCELA CRISTINA MUNERA RAMIREZ, MARIO FERNANDO JIMENEZ HERNANDEZ, \"Predicting Perceived Exhaustion in Rehabilitation Exercises Using Facial Action Units\" . En: Suiza SENSORS ISSN: 1424-8220 ed: mdpi v. 1 fasc. N/A p.1 - 22 ,2022, DOI: 10.3390/s22176524",
+        "titulo": "Predicting Perceived Exhaustion in Rehabilitation Exercises Using Facial Action Units",
+        "doi": "10.3390/s22176524",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SERGIO DAVID SIERRA MARIN, MARIO FERNANDO JIMENEZ HERNANDEZ, MARCELA CRISTINA MUNERA RAMIREZ, CARLOS ANDRES CIFUENTES GARCIA, \"Haptic Human-Robot Collaboration for Walker-Assisted Navigation Based on Admittance Controllers\" . En: Alemania IEEE ROBOTICS AND AUTOMATION LETTERS ISSN: 2377-3766 ed: Ieee v. 8 fasc. 5 p. 2622 - 2628 ,2023, DOI: 10.1109/LRA.2023.3256924",
+        "titulo": "Haptic Human-Robot Collaboration for Walker-Assisted Navigation Based on Admittance Controllers",
+        "doi": "10.1109/LRA.2023.3256924",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: PAULA ANDREA RUEDA GAITAN, MARIO FERNANDO JIMENEZ HERNANDEZ, ANDRES ALBERTO RAMIREZ DUQUE, EDITH PULIDO HERRERA, \"ASPEBI: A MATLAB Tool for Motion Analysis of Non-Specific Low Back Pain Patients.\" . En: Alemania INTERNATIONAL JOURNAL OF ONLINE AND BIOMEDICAL ENGINEERING ISSN: 2626-8493 ed: International Federation of Engineering Education Societies (IFEES) v. 19 fasc. 18 p.71 - 84 ,2023, DOI: 10.3991/ijoe.v19i18.43063",
+        "titulo": "ASPEBI: A MATLAB Tool for Motion Analysis of Non-Specific Low Back Pain Patients.",
+        "doi": "10.3991/ijoe.v19i18.43063",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Multimodal Interaction Strategies for Walker-Assisted Gait: A Case Study for Rehabilitation in Post-Stroke Patients\" . En: Suiza JOURNAL OF INTELLIGENT ROBOTIC SYSTEMS ISSN: 1573-0409 ed: Springer v. 110 fasc. 13 p.1 - 17 ,2024, DOI: 10.1007/s10846-023-02031-w",
+        "titulo": "Multimodal Interaction Strategies for Walker-Assisted Gait: A Case Study for Rehabilitation in Post-Stroke Patients",
+        "doi": "10.1007/s10846-023-02031-w",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Desde el Fondo Nacional del Ahorro\" . En: Colombia Nova Et Vetera ISSN: 2500-5103 ed: Escuela Superior de Administración Pública v. 7 fasc. 77 p.1 - 1 ,2022, DOI:",
+        "titulo": "Desde el Fondo Nacional del Ahorro",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Overview of processing techniques for surface electromyography signals\" . En: Estados Unidos Lligall: Revista Catalana D'Arxivística ISSN: 1130-5398 ed: v. N/A fasc. N/A p.1 - 11 ,2023, DOI: 10.48550/arXiv.2304.04098",
+        "titulo": "Overview of processing techniques for surface electromyography signals",
+        "doi": "10.48550/arXiv.2304.04098",
+        "anio": "2023"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Otro capítulo de libro publicado MARIO FERNANDO JIMENEZ HERNANDEZ, \"Recognition of Navigation Commands for a Smart Walker Through Force Sensors\" XXVI Brazilian Congress on Biomedical Engineering . En: Singapur ISBN: 978-981-13-2517-5 ed: Springer Publishing Company, Inc. , v. , p.689 - 694 70 ,2019 Palabras: Admittance control, Haptic, Smart Walker, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Tipo: Otro capítulo de libro publicado MARIO FERNANDO JIMENEZ HERNANDEZ, \"A Novel Multimodal Cognitive Interaction for Walker-Assisted Rehabilitation Therapies\" 2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR) . En: Colombia ISBN: 18920216 ed: IEEE Publications , v. , p.905 - 910 ,2019 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Tipo: Capítulo de libro SERGIO DAVID SIERRA MARIN, Tipo: Capítulo de libro MARIO FERNANDO JIMENEZ HERNANDEZ, Tipo: Capítulo de libro MARCELA CRISTINA MUNERA RAMIREZ, Tipo: Capítulo de libro CARLOS ANDRES CIFUENTES GARCIA, \"Control Strategies for Human Robot Environment Interaction in Assisted Gait with Smart Walkers\" Interfacing Humans and Robots for Gait Assistance and Rehabilitation . En: Suiza ISBN: 978-3-030-79630-3 ed: Springer Publishing Company, Inc. , v. , p.259 - 286 1 ,2021 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático,",
+      "Tipo: Capítulo de libro MARIO FERNANDO JIMENEZ HERNANDEZ, Tipo: Capítulo de libro ANDRES ALBERTO RAMIREZ DUQUE, \"Electromyographic Signals Processing for Robotic Assistance Tools in the Rural Population\" Biorob 2014 . En: Brasil ISBN: 978-1-4799-3127-9 ed: IEEE Publications , v. , p.758 - 762 1 ,2014 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Tipo: Otro capítulo de libro publicado MARIO FERNANDO JIMENEZ HERNANDEZ, Tipo: Otro capítulo de libro publicado GRACIELA JUEZ CASTILLO, \"Método Computacional para la Medición Automática del área de Quistes del Parásito Toxoplasma Gondii\" Quinta Conferencia Iberoamericana De Complejidad, Informática Y Cibernética - Memorias . En: Estados Unidos ISBN: 978-1-941763-18-6 ed: , v. , p.91 - 96 1 ,2015 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Tipo: Otro capítulo de libro publicado MARIO FERNANDO JIMENEZ HERNANDEZ, \"Towards a New Generation of Smart Devices for Mobility Assistance: CloudWalker, a Cloud-Enabled Cyber-Pbysical System\" 7th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics . En: Colombia ISBN: 978-1-5386-8183-1 ed: IEEE Publications , v. , p.439 - 444 ,2018 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,"
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Periódico de noticias: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Exoesqueletos colombianos: el comienzo de una revolución\" En: Colombia. 2024. DIVULGACION CIENTIFICA. ISSN: 2590-924X p. 110 - 115 v.07 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Desde el Fondo Nacional del Ahorro\" En: Colombia. 2022. Revista Nova Et Vetera. ISSN: 2422-2216 p. 1 - 1 v.7 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,",
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: MARIO FERNANDO JIMENEZ HERNANDEZ, \"Remote-Operated Multimodal Interface for Therapists during Walker-Assisted Gait Rehabilitation: A Preliminary Assessment\" En: Estados Unidos. 2019. ACM IEEE INTERNATIONAL CONFERENCE ON HUMAN ROBOT INTERACTION. ISSN: 2167-2148 p. 528 - 529 v.2019 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,"
+    ],
+    "prototipos": [
+      "Producción técnica - Prototipo - Industrial",
+      "MARIO FERNANDO JIMENEZ HERNANDEZ, Robot Excavador y Recolector de Regolito, Nombre comercial: , contrato/registro: , . En: Estados Unidos, ,2012, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Adquisición y análisis de datos cinemáticos de la marcha a partir de sensórica y sistema markerless e inteligencia artificial Inicio: Marzo 2024 Duración Resumen Actualmente no existe un estándar internacional reconocido para evaluar la salud del movimiento de una persona. Sin embargo, existen pruebas que analizan subcriterios o características particulares de los patrones de movimiento. Estas pruebas incluyen la Evaluación del Movimiento Funcional (FMS), el Sistema de Puntuación de Errores en el Aterrizaje (LESS), mediciones del rango de movimiento activo, la prueba de alcance sentado, la prueba de alcance detrás de la espalda y muchas más (2, 3). Por lo anterior, realizar tamizajes se hace inaccesible para gran parte de la población. La integración de métodos computacionales basados en inteligencia artificial (IA) indudablemente puede ser de gran ayuda para mejorar la precisión de los sistemas que utilizan Unidades de Medida Inercial y tecnología Markerless. Además, la IA puede contribuir al procesamiento de datos permitiendo análisis más detallados y sofisticados, y a la optimización de los algoritmos de seguimiento utilizados en la estimación de poses, entre otras aplicaciones.",
+      "Tipo de proyecto: Investigación y desarrollo Inteligencia Artificial Aplicada a la Transcripción y Análisis de Pausas para el Análisis Lingüístico Clínico Inicio: Noviembre 2023 Duración Resumen Las pausas pueden definirse como silencios no debidos a gestos articulatorios que tienen una duración de más de 200ms [1]. Existen varios tipos de pausas de acuerdo con su ubicación sintáctica: i) las pausas entre los hablantes: nos permiten indicar a nuestro interlocutor y cuando intervenir, ii) las pausas entre los enunciados: por lo general indican tiempos de procesamiento y planeación del discurso, iii) las pausas entre cláusulas: son fenómenos entonaciones de énfasis, y en el caso de los pacientes con dificultes del habla o el lenguaje, encontramos las pausas adicionales. que no deberían estar allí [2]. De acuerdo con los anterior las pausas son fenómenos normales en la mayoría de los casos, pero de acuerdo con su ubicación y duración constituyen marcadores diferenciales útiles para el diagnóstico clínico. Por otra parte, dentro del estado del arte, la mayoría de trabajos están asociados a lenguas anglosajonas, mostrando diferentes aportes desde otras lenguas [4¿6], pero que distan de nuestra lengua, el español. Esto hace que encontrar datos etiquetados con los cuales trabajar es más difícil, así como su evaluación en un contexto clínico como el que se pretende establecer en planteamientos futuros",
+      "Tipo de proyecto: Investigación y desarrollo DISEÑO DE UN SENSOR DE HUMEDAD PARA CAFE PERGAMINO Inicio: Febrero 2004 Fin proyectado: Enero 2005 Fin: Diciembre 2004 Duración 8 Resumen Se diseño un banco de flujo de aire con la instrumentación respectiva para controlar la temperatura y el fujo del aire de secado, al cual se le acoplo una salida para un secador de capa fija y otro secador rotatorio cada uno con un sensor cApacitivo diseñado para medir la humedad del cafe ne linea.",
+      "Tipo de proyecto: Investigación y desarrollo Diseño y Construcción de un Robot Recolector de Regolito Inicio: Septiembre 2011 Fin proyectado: Mayo 2012 Fin: Mayo 2012 Duración 10 Resumen Dentro de los objetivos de la NASA esta retomar la exploración espacial en la luna. Como apoyo a este fin, la NASA ha desarrollado una convocatoria para estudiantes de colegio o universidad denominada Competencia de Minería, la cual pretende promover el interés de las actividades en el espacio y en los campos de la Ciencia, Tecnología, Ingeniería y Matemáticas (STEM). La NASA se apoya en este evento para encontrar nuevas ideas y técnicas de excavación que puedan ser utilizadas en la superficie lunar. Para ello se participara del diseño y construcción de un robot recolector de regolito para en conjunto con el Instituto de Astrobiología Colombia, FESTO e INSUTEC.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Desarrollo control y mando de un robot excavador para recolectar regolito en un simulador de superficie lunar (SPIICA III) Inicio: Junio 2010 Fin: Mayo 2011 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Diseño y Construcción de un Prototipo de Secador Rotatorio Para Café Pergamino y Análisis de su Comportamiento Frente a un Secador de Capa Fija Inicio: Diciembre 2003 Fin: Diciembre 2004 Duración Resumen",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Desarrollo de un prototipo robótico para la aireación automática en estanque artíficial aplicado a piscicultura Inicio: Marzo 2012 Fin: Mayo 2014 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Evaluación de factores cinemáticos y electromiográficos del dolor lumbar inespecífico mecánico (DLIM) diferenciado por la prueba de extensión en bípedo de los isquiotibiales (PEBI) Inicio: Julio 2020 Duración Resumen El dolor lumbar afecta a 540 millones de personas alrededor del mundo, siendo éste la principal causa de ausencia laboral y de rehabilitación médica a nivel global, mientras que en el ámbito colombiano representa aproximadamente la 4a causa por discapacidad. El informe de carga global de enfermedad reporta que en 2015 fue el responsable de 60.1 millones de años vividos con discapacidad, con un incremento del 54% desde 1994, dándose un mayor incremento en los países de bajos ingresos y medianos ingresos. Una de las principales limitantes en el tratamiento del dolor lumbar, radica en que en un 85% de los casos, la causa que lo produce no es identificada en cuyos casos es catalogado como Dolor Lumbar Inespecífico Mecánico (DLIM). Como una alternativa al tratamiento de DLIM, el médico ortopedista Juan Manuel Herrera y el médico fisiatra Eduardo Antonio Reina diseñaron la Prueba de Extensión en Bípedo de los Isquiotibiales (PEBI) originalmente concebida para diferenciar el dolor lumbar de origen muscular del de origen arquitectónico. Esta prueba ha sido validada clínicamente a través de un estudio con una muestra de pacientes de 10 años, quienes presentaron PEBI positiva, es decir, la causa del dolor podría ser tipo muscular; concretamente, podrían presentar contractura muscular en los isquiotibiales. Estos pacientes fueron tratados con el protocolo de McKenzie con el cual hubo una negativización de la PEBI en un 100% de los casos. Pero a pesar de estos resultados prometedores y de la validación clínica de este signo, existe una ausencia de índices objetivos cuantificables que permitan evidenciar los cambios que presentan los pacientes que son diagnosticados con PEBI positiva. Teniendo en cuenta esto, en el presente proyecto se evalúan dos fuentes de información objetivas para la observación de los pacientes y la adquisición de un mayor entendimiento de los procesos que experimenta el paciente que lleva a cabo la PEBI. Específicamente, se propone la realización del estudio de la cinemática y la actividad muscular en pacientes con PEBI. La propuesta incluye la exploración de patrones en factores biomecánicos (velocidad de la marcha o ángulos de inflexión de las articulaciones inferiores) con unidades de medida inercial (IMU) colocadas en la zona lumbar y en los miembros inferiores del cuerpo humano. Asimismo, en este estudio se quiere explorar la relación entre el patrón muscular y el DLIM diagnosticado con la prueba PEBI mediante electromiografía de superficie. La ventaja radica en que el análisis electromiográfico permite obtener índices objetivos relacionados con la base electrofisiológica de la señal que no se pueden obtener de otra manera y que podrían confirmar la utilidad de dicha prueba diagnóstica.",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollo de un sistema de reconocimiento de objetos para la prótesis de mano PrHand basado en machine learning Inicio: Mayo 2022 Fin: Mayo 2024 Duración Resumen La falta de sensores de retroalimentación en los dispositivos prostéticos es un área de investigación de gran importancia a desarrollar para conseguir dispositivos más eficientes. Por eso, se plantea la integración de sensores de fuerza a la prótesis construida con tecnologías de robótica blanda llamada PrHand para el desarrollo de un sistema de control basado en la identificación de objetos por medio de modelos de Machine Learning.",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollo de una interfaz multimodal para la implementación eficaz de caminadores inteligentes en escenarios de asistencia a la marcha en adultos mayores Inicio: Febrero 2022 Duración Resumen Es necesario fomentar el desarrollo de herramientas tecnológicas que contribuyan en un modelo de atención integral en salud a mejorar la funcionalidad de personas con movilidad reducida, que enfoque los logros terapéuticos en coherencia con las necesidades y características de los usuarios. Así mismo, fortaleciendo las capacidades para promover la mayor autonomía e independencia posible en el marco de condiciones de vida digna. En este contexto, el presente proyecto busca desarrollar y validar un caminador robótico que sirva como dispositivo de asistencia a la marcha en adultos mayores. Esta plataforma robótica pretende mejorar la transferencia de tecnología a las soluciones convencionales ya existentes, a través de un módulo de fácil adaptación y bajo costo. Del mismo modo, pretende innovar en el desarrollo de estrategias de interacción entre el usuario, el robot (caminador robótico) y el ambiente, principalmente buscando una interacción natural, compensación funcional y que permita caminos de navegación personalizados en escenarios de asistencia a la marcha y de actividades de la vida diaria."
+    ]
+  }
+}

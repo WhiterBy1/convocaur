@@ -1,0 +1,356 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/juan-camilo-arias-uribe",
+  "nombre": "Juan Camilo Arias",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "juancamil.arias@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n23657/FOTOJCA1.png",
+  "afiliaciones": [
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57188987150",
+    "google_scholar": "https://scholar.google.com/citations?user=yWAfaiUAAAAJ&hl=en",
+    "pure": "https://pure.urosario.edu.co/es/persons/juan-camilo-arias-uribe",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001327160",
+    "orcid": "https://orcid.org/0000-0003-0414-9251"
+  },
+  "areas_investigacion": [
+    "Categorification",
+    "Lie Algebras",
+    "Quantum groups",
+    "Representation Theory"
+  ],
+  "perfil_profesional": "Juan Camilo Arias is faculty member at the School of Engenieering, Science, and Technology of Universidad del Rosario in Bogotá - Colombia. Before that, I was a postdoctoral fellow at Universidade de São Paulo (USP) in the Representation theory group of the Institute of Mathematics and Statistics under the supervision of Vyacheslav Futorny. Previous that, Juan Camilo was a lecturer at Universidad de los Andes and Universidad del Rosario, and a MinCiencias postdoctoral researcher. Juan Camilo obtained his Ph.D in 2018 at Universidad de los Andes under the supervision of Erik Backelin (Uniandes) and Kobi Kremnizer (Oxford). Its masters degree is from Universidad de los Andes under the supervision of Erik Backelin and he is mathematician from Universidad de Antioquia in Medellín - Colombia. Juan Camilo works in representation theory. In particular, he works on Lie algebras and quantum groups. Juan Camilo is also interested geometric and combinatorial incarnations of representation theoretical objects and their interactions with D-modules, Soergel bimodules and categorifications.",
+  "formacion_academica": [
+    "2011, Matemático, Universidad de Antioquia - Medellin",
+    "2014, Magíster en Matemáticas, Universidad de los Andes - Bogotá D.C.",
+    "2018, Doctorado en Matemáticas, Universidad de los Andes - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Crystal bases for reduced imaginary Verma modules of untwisted quantum affine algebras",
+      "fecha": "2024-10-1",
+      "enlace": "https://doi.org/10.1016/j.jalgebra.2023.09.007"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Projective and Whittaker functors on category O",
+      "fecha": "2021-5-15",
+      "enlace": "https://doi.org/10.1016/j.jalgebra.2021.01.024"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Derived counterparts of fusion categories of quantum groups",
+      "fecha": "2020-11-15",
+      "enlace": "https://doi.org/10.1016/j.jalgebra.2020.07.004"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Higher Auslander-Reiten sequences and t-structures",
+      "fecha": "2016-8-1",
+      "enlace": "https://doi.org/10.1016/j.jalgebra.2016.03.040"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "The category of reduced imaginary Verma modules",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1090/conm/829/16542"
+    }
+  ],
+  "total_publicaciones": 5,
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cohomologia de De Rham y dualidad de Poincare"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001327160"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0003-0414-9251"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=yWAfaiUAAAAJ&hl=en"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/juan-camilo-arias-uribe"
+    ],
+    "scopus_id": [
+      "57188987150"
+    ]
+  },
+  "id": "juan-camilo-arias-uribe",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001327160",
+    "cod_rh": "0001327160",
+    "datos_generales": {
+      "Nombre": "Juan Camilo Arias Uribe",
+      "Nombre en citaciones": "ARIAS, JUAN CAMILO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate"
+    ],
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado UNIVERSIDAD DE LOS ANDES Doctorado en Matemáticas Enerode2014 - Febrerode 2018 Derived counterparts of fusion categories of quantum groups",
+      "Maestría/Magister UNIVERSIDAD DE LOS ANDES MATEMATICAS Enerode2012 - Marzode 2014 Generalized Auslander-Reiten Theory and t-structures",
+      "Pregrado/Universitario UNIVERSIDAD DE ANTIOQUIA MATEMATICAS Agostode2006 - Diciembrede 2011 Morfismos Irreducibles"
+    ],
+    "formacion_complementaria": [
+      "Otros University Of Oxford Ph.D in Mathematics Febrerode2015 - Marzode 2015",
+      "Otros University Of Oxford Ph.D in Mathematics Enerode2016 - Agostode 2016"
+    ],
+    "estancias_posdoctorales": [
+      "Asistente posdoctoral UNIVERSIDAD DE LOS ANDES Posdoctorado Desde: Agosto de 2023 Hasta: Julio de 2024",
+      "Representations of Lie algebras and superalgebras Universidade do Sao Paulo Postdoctoral Fellow Desde: Marzo de 2022 Hasta: Julio de 2023",
+      "Categorías de fusión y álgebras de Hopf UNIVERSIDAD DE LOS ANDES Posdoctorado Desde: Junio de 2019 Hasta: Junio de 2020 Projective and Whittaker functors on category O"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 46 horas Semanales Agosto de 2024 de",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 10 horas Semanales Enero de 2017 Febrero de 2022 Actividades de docencia - Pregrado - Nombre del curso: Cálculo Diferencial, 37 Enero 2017 Mayo 2017",
+      "PONTIFICIA UNIVERSIDAD JAVERIANA Dedicación: 4 horas Semanales Agosto de 2021 Diciembre de 2021",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 4 horas Semanales Agosto de 2021 Diciembre de 2021",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 8 horas Semanales Enero de 2018 Diciembre de 2018",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 4 horas Semanales Agosto de 2016 Noviembre de 2016",
+      "UNIVERSIDAD DE ANTIOQUIA Dedicación: 10 horas Semanales Enero de 2011 Agosto de 2011 Actividades de docencia - Pregrado - Nombre del curso: Introducción al Cálculo, 0 Enero 2011 Junio 2011 - Pregrado - Nombre del curso: Introducción al Cálculo, 0 Julio 2011 Actividades de investigación - Pasantías - Titulo: Jovenes Investigadores Agosto 2009 Agosto 2010"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Matemática -- Matemáticas Puras"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Portugués",
+        "habla": "Aceptable",
+        "escribe": "Aceptable",
+        "lee": "Aceptable",
+        "entiende": "Aceptable"
+      }
+    ],
+    "lineas_investigacion": [
+      "Álgebra - Teoría de Representaciones, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Matricula de Honor,UNIVERSIDAD DE ANTIOQUIA - Marzode 2007",
+      "Matricula de Honor,UNIVERSIDAD DE ANTIOQUIA - Septiembrede 2007",
+      "Matricual de Honor,UNIVERSIDAD DE ANTIOQUIA - Marzode 2008",
+      "Matricula de Honor,UNIVERSIDAD DE ANTIOQUIA - Septiembrede 2008",
+      "Matricula de Honor,UNIVERSIDAD DE ANTIOQUIA - Septiembrede 2009",
+      "Matricula de Honor,UNIVERSIDAD DE ANTIOQUIA - Marzode 2010",
+      "Mención de Honor. Trabajo de pregrado,UNIVERSIDAD DE ANTIOQUIA - Diciembrede 2011",
+      "Beca doctoral Colciencias,UNIVERSIDAD DE LOS ANDES - Juliode 2014",
+      "Asistencia graduada doctoral,UNIVERSIDAD DE LOS ANDES - Enerode 2014",
+      "Postdoctoral fellowship FAPESP,University of São Paulo - Marzode 2022"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: JUAN CAMILO ARIAS URIBE, Introducción a los D-módulos, Finalidad: . En: Colombia ,2019, ,. participación: Docente , 1 semanas Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CAMILO ARIAS URIBE, A categorical approach to quantum computing UNIVERSIDAD DE LOS ANDES Estado: Tesis concluida Matemáticas, 2021. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Emilio Antonio Volpe Costa Asesor(es): CESAR NEYIT GALINDO GALINDO,Tutor(es)/Cotutor(es): JUAN CAMILO ARIAS URIBE, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CAMILO ARIAS URIBE, The Bernstein-Gelfand-Gelfand correspondence UNIVERSIDAD DEL VALLE Estado: Tesis concluida MATEMATICAS, 2024. Dirigió como: Tutor principal, Persona(s) orientada(s): Yuhad Olarte Ibrahim Tutor(es)/Cotutor(es): JUAN CAMILO ARIAS URIBE,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: JUAN CAMILO ARIAS URIBE, Cohomología de De Rham y la dualidad de Poincaré Universidad Nuestra Señora del Rosario de Bogotá Estado: Tesis concluida Matemáticas aplicadas y ciencias de la computación, 2025. Dirigió como: Tutor principal, Persona(s) orientada(s): Johan Santiago Caro Valencia Tutor(es)/Cotutor(es): JUAN CAMILO ARIAS URIBE,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN CAMILO ARIAS URIBE, Titulo: El problema de Frobenius para semigrupos numéricos generados por colas de sucesiones de la forma can-d Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD DE CORDOBA programa académico MAESTRÍA EN MATEMÁTICAS Nombre del orientado: Calixto José Rhenals Julio Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN CAMILO ARIAS URIBE, Titulo: A criterion of representability for functor over C^infty-schemes Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD DE ANTIOQUIA programa académico MAESTRIA EN MATEMATICAS Nombre del orientado: Cristian Danilo Olarte Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: JUAN CAMILO ARIAS URIBE, Titulo: Sobre la geometría de las representaciones de un carcaj Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD DE ANTIOQUIA programa académico MAESTRIA EN MATEMATICAS Nombre del orientado: Yenny Carolina Molano Castaño Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2014-12-01 00:00:00.0, 2014-12-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "1 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2014-12-01 00:00:00.0, 2014-12-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "2 Nombre del evento: V Encuentro Regional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2013-12-18 00:00:00.0, 2013-12-19 00:00:00.0 en MEDELLÍN - Universidad de Antioquia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "2 Nombre del evento: V Encuentro Regional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2013-12-18 00:00:00.0, 2013-12-19 00:00:00.0 en MEDELLÍN - Universidad de Antioquia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "3 Nombre del evento: MSRI Algebraic Topology Research School Tipo de evento: Seminario Ámbito: Internacional Realizado el:2013-06-17 00:00:00.0, 2013-06-28 00:00:00.0 en Berkeley - Mathematical Science Research Institute, MSRI Instituciones asociadas Nombre de la institución: University of California, Berkeley Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "3 Nombre del evento: MSRI Algebraic Topology Research School Tipo de evento: Seminario Ámbito: Internacional Realizado el:2013-06-17 00:00:00.0, 2013-06-28 00:00:00.0 en Berkeley - Mathematical Science Research Institute, MSRI",
+      "Instituciones asociadas Nombre de la institución: University of California, Berkeley Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "4 Nombre del evento: CIMPA Research School, Algebraic and Geometric Aspects in Representation Theory Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2013-02-25 00:00:00.0, 2013-03-09 00:00:00.0 en Curituba - Universidad Federal de Parana Instituciones asociadas Nombre de la institución: UNIVERSIDAD FEDERAL DE PARANÁ Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "4 Nombre del evento: CIMPA Research School, Algebraic and Geometric Aspects in Representation Theory Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2013-02-25 00:00:00.0, 2013-03-09 00:00:00.0 en Curituba - Universidad Federal de Parana",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD FEDERAL DE PARANÁ Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "5 Nombre del evento: Encuentro Regional de Matemáticas Tipo de evento: Encuentro Ámbito: Realizado el:2011-12-01 00:00:00.0, en MEDELLÍN - Productos asociados Nombre del producto: Morfismos Irreducibles Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "5 Nombre del evento: Encuentro Regional de Matemáticas Tipo de evento: Encuentro Ámbito: Realizado el:2011-12-01 00:00:00.0, en MEDELLÍN -",
+      "Productos asociados Nombre del producto: Morfismos Irreducibles Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "6 Nombre del evento: XVIII Congreso Colombiano de Matemáticas. Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-01-01 00:00:00.0, en BUCARAMANGA - Bucaramanga Instituciones asociadas Nombre de la institución: UNIVERSIDAD INDUSTRIAL DE SANTANDER Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "6 Nombre del evento: XVIII Congreso Colombiano de Matemáticas. Tipo de evento: Congreso Ámbito: Nacional Realizado el:2011-01-01 00:00:00.0, en BUCARAMANGA - Bucaramanga",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD INDUSTRIAL DE SANTANDER Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "7 Nombre del evento: XVII Coloquio Latinoamericano de Algebra Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-01-01 00:00:00.0, en MEDELLÍN - Medellín Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "7 Nombre del evento: XVII Coloquio Latinoamericano de Algebra Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-01-01 00:00:00.0, en MEDELLÍN - Medellín",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "8 Nombre del evento: Encuentro ALTENCOA4-2010, Algebra, teoría de números, combinatoria y aplicaciones Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2010-01-01 00:00:00.0, en MEDELLÍN - Tunja Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "8 Nombre del evento: Encuentro ALTENCOA4-2010, Algebra, teoría de números, combinatoria y aplicaciones Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2010-01-01 00:00:00.0, en MEDELLÍN - Tunja",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "9 Nombre del evento: Encuentro ALTENCOA -3 2008, Algebra, teorpia de núeros, combinatoria y aplicaciones. Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en MEDELLÍN - Universidad Industrial de Santander Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "9 Nombre del evento: Encuentro ALTENCOA -3 2008, Algebra, teorpia de núeros, combinatoria y aplicaciones. Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en MEDELLÍN - Universidad Industrial de Santander",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "10 Nombre del evento: La demostración del Último Teorema de Fermat Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-01-07 00:00:00.0, 2015-01-17 00:00:00.0 en MEDELLÍN - Universidad de Antioquia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "10 Nombre del evento: La demostración del Último Teorema de Fermat Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-01-07 00:00:00.0, 2015-01-17 00:00:00.0 en MEDELLÍN - Universidad de Antioquia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "11 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-11-23 00:00:00.0, 2015-11-26 00:00:00.0 en BOGOTÁ, D.C. - Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "11 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-11-23 00:00:00.0, 2015-11-26 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "12 Nombre del evento: XXI Congreso colombiano de Matemáticas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Productos asociados Nombre del producto: Some derived categories related with quantum groups Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "12 Nombre del evento: XXI Congreso colombiano de Matemáticas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-05 00:00:00.0, 2017-06-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia",
+      "Productos asociados Nombre del producto: Some derived categories related with quantum groups Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "13 Nombre del evento: Encuentro regional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-12-15 00:00:00.0, 2015-12-17 00:00:00.0 en MEDELLÍN - Universidad de Antioquia Productos asociados Nombre del producto: Sobre grupos cuánticos y categorías de fusión Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "13 Nombre del evento: Encuentro regional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-12-15 00:00:00.0, 2015-12-17 00:00:00.0 en MEDELLÍN - Universidad de Antioquia",
+      "Productos asociados Nombre del producto: Sobre grupos cuánticos y categorías de fusión Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "14 Nombre del evento: Encuentro Regional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-12-13 00:00:00.0, 2016-12-15 00:00:00.0 en MEDELLÍN - Universidad de Antioquia Productos asociados Nombre del producto: Combinatoria de grupos cuánticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "14 Nombre del evento: Encuentro Regional de Matemáticas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-12-13 00:00:00.0, 2016-12-15 00:00:00.0 en MEDELLÍN - Universidad de Antioquia",
+      "Productos asociados Nombre del producto: Combinatoria de grupos cuánticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "15 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-11-29 00:00:00.0, 2016-12-02 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "15 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-11-29 00:00:00.0, 2016-12-02 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "16 Nombre del evento: Seminario de Física y Matemáticas Tipo de evento: Seminario Ámbito: Nacional Realizado el:2017-04-28 00:00:00.0, 2017-04-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad de la Sabana Productos asociados Nombre del producto: De grupos a grupos cuánticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LA SABANA Tipo de vinculación Gestionadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "16 Nombre del evento: Seminario de Física y Matemáticas Tipo de evento: Seminario Ámbito: Nacional Realizado el:2017-04-28 00:00:00.0, 2017-04-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad de la Sabana",
+      "Productos asociados Nombre del producto: De grupos a grupos cuánticos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LA SABANA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "17 Nombre del evento: XX Congreso Colombiano de Matemáticas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-07-21 00:00:00.0, 2015-07-24 00:00:00.0 en MANIZALES - Universidad Nacional de Colombia - Manizales Productos asociados Nombre del producto: Higher Auslander-Reiten Theory Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE MANIZALES Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "17 Nombre del evento: XX Congreso Colombiano de Matemáticas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2015-07-21 00:00:00.0, 2015-07-24 00:00:00.0 en MANIZALES - Universidad Nacional de Colombia - Manizales",
+      "Productos asociados Nombre del producto: Higher Auslander-Reiten Theory Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE MANIZALES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "18 Nombre del evento: Seminario de Álgebra Tipo de evento: Seminario Ámbito: Internacional Realizado el:2017-05-26 00:00:00.0, 2017-05-26 00:00:00.0 en Manaus - Universidade Federal do Amazonas Productos asociados Nombre del producto: Derived categories of quantum groups Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "18 Nombre del evento: Seminario de Álgebra Tipo de evento: Seminario Ámbito: Internacional Realizado el:2017-05-26 00:00:00.0, 2017-05-26 00:00:00.0 en Manaus - Universidade Federal do Amazonas",
+      "Productos asociados Nombre del producto: Derived categories of quantum groups Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "19 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2017-11-28 00:00:00.0, 2017-12-01 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "19 Nombre del evento: Matemáticas por Estudiantes Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2017-11-28 00:00:00.0, 2017-12-01 00:00:00.0 en BOGOTÁ, D.C. - Universidad de los Andes",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Organizador",
+      "20 Nombre del evento: XXII Coloquio Latinoamericano de Álgebra Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-08-07 00:00:00.0, 2017-08-11 00:00:00.0 en Quito - Pontificia Universidad Católica del Ecuador Productos asociados Nombre del producto: Derived fusion category of a quantum group Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Pontificia Universidad Católica del Ecuador Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "20 Nombre del evento: XXII Coloquio Latinoamericano de Álgebra Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-08-07 00:00:00.0, 2017-08-11 00:00:00.0 en Quito - Pontificia Universidad Católica del Ecuador",
+      "Productos asociados Nombre del producto: Derived fusion category of a quantum group Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Pontificia Universidad Católica del Ecuador Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "21 Nombre del evento: XXVII Brazilian Algebra Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-07-15 00:00:00.0, 2024-07-19 00:00:00.0 en São Paulo - Universidade de São Paulo Productos asociados Nombre del producto: Combinatorics of Gelfand - Tsetlin modules Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: USP - Universidade de São Paulo Tipo de vinculación Gestionadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "21 Nombre del evento: XXVII Brazilian Algebra Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-07-15 00:00:00.0, 2024-07-19 00:00:00.0 en São Paulo - Universidade de São Paulo",
+      "Productos asociados Nombre del producto: Combinatorics of Gelfand - Tsetlin modules Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: USP - Universidade de São Paulo Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "22 Nombre del evento: XXIV Latin-American Colloquium of Algebra Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-07-22 00:00:00.0, 2024-07-26 00:00:00.0 en Santiago de Chile - Universidad Católica de Chile Productos asociados Nombre del producto: Soergel bimodules and the Schur - Weyl duality Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Pontificia Universidad catolica de Chile Tipo de vinculación Gestionadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "22 Nombre del evento: XXIV Latin-American Colloquium of Algebra Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-07-22 00:00:00.0, 2024-07-26 00:00:00.0 en Santiago de Chile - Universidad Católica de Chile",
+      "Productos asociados Nombre del producto: Soergel bimodules and the Schur - Weyl duality Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Pontificia Universidad catolica de Chile Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "23 Nombre del evento: Brazil - China Joint Mathematical Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-17 00:00:00.0, 2023-07-21 00:00:00.0 en Foz do Iguaçu - Productos asociados Nombre del producto: Crystal bases and imaginary Verma modules Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidade de São Paulo Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "23 Nombre del evento: Brazil - China Joint Mathematical Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-17 00:00:00.0, 2023-07-21 00:00:00.0 en Foz do Iguaçu -",
+      "Productos asociados Nombre del producto: Crystal bases and imaginary Verma modules Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidade de São Paulo Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "24 Nombre del evento: Workshop: Variedades exóticas y algo más Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2024-02-05 00:00:00.0, 2024-02-07 00:00:00.0 en CALI - Universidad del Valle Productos asociados Nombre del producto: Algebras de Lie y sus representaciones irreducibles Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DEL VALLE Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "24 Nombre del evento: Workshop: Variedades exóticas y algo más Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2024-02-05 00:00:00.0, 2024-02-07 00:00:00.0 en CALI - Universidad del Valle",
+      "Productos asociados Nombre del producto: Algebras de Lie y sus representaciones irreducibles Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DEL VALLE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "25 Nombre del evento: International workshop on representation theory, vertex and chiral algebras Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2022-03-14 00:00:00.0, 2022-04-22 00:00:00.0 en Río de Janeiro - IMPA Instituciones asociadas Nombre de la institución: IMPA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "25 Nombre del evento: International workshop on representation theory, vertex and chiral algebras Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2022-03-14 00:00:00.0, 2022-04-22 00:00:00.0 en Río de Janeiro - IMPA",
+      "Instituciones asociadas Nombre de la institución: IMPA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Asistente",
+      "26 Nombre del evento: ICTP Workshop on representation theory and applications Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-04-25 00:00:00.0, 2022-04-29 00:00:00.0 en São Paulo - ICTP - SAIFR Productos asociados Nombre del producto: Classical, quantum and categorical Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: ICTP South American Institute for Fundamental Research (ICTP-SAIFR) Tipo de vinculación Gestionadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "26 Nombre del evento: ICTP Workshop on representation theory and applications Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-04-25 00:00:00.0, 2022-04-29 00:00:00.0 en São Paulo - ICTP - SAIFR",
+      "Productos asociados Nombre del producto: Classical, quantum and categorical Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: ICTP South American Institute for Fundamental Research (ICTP-SAIFR) Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "27 Nombre del evento: Seminario de Álgebra (Brazilian algebraic geometry seminar) Tipo de evento: Seminario Ámbito: Internacional Realizado el:2022-10-05 00:00:00.0, 2022-10-05 00:00:00.0 en Río de Janeiro - IMPA Productos asociados Nombre del producto: A derived approach to fusion categories Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: IMPA Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "27 Nombre del evento: Seminario de Álgebra (Brazilian algebraic geometry seminar) Tipo de evento: Seminario Ámbito: Internacional Realizado el:2022-10-05 00:00:00.0, 2022-10-05 00:00:00.0 en Río de Janeiro - IMPA",
+      "Productos asociados Nombre del producto: A derived approach to fusion categories Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: IMPA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "28 Nombre del evento: Álgebra em Natal Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-09-05 00:00:00.0, 2022-09-09 00:00:00.0 en Natal - Universidade Federal do Rio Grande do Norte Productos asociados Nombre del producto: Some categories of representations and functors betweem them Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidade Federal do Rio Grande do Norte Tipo de vinculación Patrocinadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "28 Nombre del evento: Álgebra em Natal Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-09-05 00:00:00.0, 2022-09-09 00:00:00.0 en Natal - Universidade Federal do Rio Grande do Norte",
+      "Productos asociados Nombre del producto: Some categories of representations and functors betweem them Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidade Federal do Rio Grande do Norte Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "29 Nombre del evento: XXVI Brazilian Algebra Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-01-30 00:00:00.0, 2023-02-03 00:00:00.0 en Curituba - Universidade Federal do Paraná Productos asociados Nombre del producto: Crystal bases on imaginary Verma modules Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidade Federal Do Paraná Tipo de vinculación Gestionadora Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente",
+      "29 Nombre del evento: XXVI Brazilian Algebra Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-01-30 00:00:00.0, 2023-02-03 00:00:00.0 en Curituba - Universidade Federal do Paraná",
+      "Productos asociados Nombre del producto: Crystal bases on imaginary Verma modules Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidade Federal Do Paraná Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JUAN CAMILO ARIAS URIBE Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CAMILO ARIAS URIBE, \"Derived counterparts of fusion categories of quantum groups\" . En: Colombia JOURNAL OF ALGEBRA ISSN: 0021-8693 ed: ACADEMIC PRESS INC ELSEVIER SCIENCE v. 562 fasc. p.257 - 285 ,2020, DOI: 10.1016/j.jalgebra.2020.07.004",
+        "titulo": "Derived counterparts of fusion categories of quantum groups",
+        "doi": "10.1016/j.jalgebra.2020.07.004",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CAMILO ARIAS URIBE, ERIK BACKELIN, \"Projective and Whittaker functors on category O\" . En: Colombia JOURNAL OF ALGEBRA ISSN: 0021-8693 ed: ACADEMIC PRESS INC ELSEVIER SCIENCE v. 574 fasc. p.154 - 171 ,2021, DOI: 10.1016/j.jalgebra.2021.01.024",
+        "titulo": "Projective and Whittaker functors on category O",
+        "doi": "10.1016/j.jalgebra.2021.01.024",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): JUAN CAMILO ARIAS URIBE, CAMILO RENGIFO GUTIERREZ, \"Introducción a los D-módulos\" . En: Colombia Lecturas Matem´Aticas ISSN: 0120-1980 ed: Sociedad Colombiana de Matemáticas v. 42 fasc. 2 p.87 - 112 ,2021, DOI:",
+        "titulo": "Introducción a los D-módulos",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CAMILO ARIAS URIBE, VYACHESLAV FUTORNY, KAILASH C MISRA, \"Crystal bases for reduced imaginary Verma modules of untwisted quantum affine algebras\" . En: Colombia JOURNAL OF ALGEBRA ISSN: 0021-8693 ed: ACADEMIC PRESS INC ELSEVIER SCIENCE v. 655 fasc. p.1 - 25 ,2024, DOI: 10.1016/j.jalgebra.2023.09.007",
+        "titulo": "Crystal bases for reduced imaginary Verma modules of untwisted quantum affine algebras",
+        "doi": "10.1016/j.jalgebra.2023.09.007",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: VYACHESLAV FUTORNY, JUAN CAMILO ARIAS URIBE, ANDRE DE OLIVEIRA, \"The category of reduced imaginary Verma modules\" . En: CONTEMPORARY MATHEMATICS ISSN: 0271-4132 ed: American Mathematical Society v. 829 fasc. p.15 - 23 ,2025, DOI: 10.1090/conm/829/16542",
+        "titulo": "The category of reduced imaginary Verma modules",
+        "doi": "10.1090/conm/829/16542",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JUAN CAMILO ARIAS URIBE, ERIK BACKELIN, \"Higher Auslander-Reiten sequences and t-structures\" . En: Colombia JOURNAL OF ALGEBRA ISSN: 1090-266X ed: ACADEMIC PRESS INC ELSEVIER SCIENCE v. 459 fasc. N/A p.280 - 308 ,2016, DOI:",
+        "titulo": "Higher Auslander-Reiten sequences and t-structures",
+        "anio": "2016"
+      }
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: JUAN CAMILO ARIAS URIBE, CAMILO RENGIFO GUTIERREZ, \"Matemáticas por Estudiantes: una idea en movimiento\" En: Colombia. 2015. Hipotesis. Apuntes Cientificos Uniandinos (Online). ISSN: 1794-354X p. 28 - 29 v.19 Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/ana-maria-cifuentes-ruiz",
+  "nombre": "Ana-María Cifuentes-Ruiz",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "anamar.cifuentes@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n1275/Ana+Maria+Cifuentes.jpg",
+  "afiliaciones": [
+    "Investigador - Grupo de Estudios Creativos de la Universidad del Rosario - Universidad del Rosario",
+    "Profesor principal de carrera - Facultad de Creación - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "pure": "https://pure.urosario.edu.co/en/persons/ana-maria-cifuentes-ruiz",
+    "orcid": "https://orcid.org/0000-0002-2867-7684",
+    "otros": [
+      "https://www.youtube.com/embed/tFqVTkGxniM"
+    ]
+  },
+  "areas_investigacion": [
+    "Arte",
+    "Creación",
+    "Gestión Cultural",
+    "Historia",
+    "Patrimonio"
+  ],
+  "perfil_profesional": "Ana María Cifuentes es historiadora del arte y máster en museología de la Escuela del Museo del Louvre de París, con máster en curaduría de arte contemporáneo en la Sorbona. Su experiencia profesional articula la academia (docencia, dirección de programas) y la acción en el sector cultural-artístico y patrimonial desde la gestión cultural, la curaduría, la investigación, la museología. Actualmente es la directora del pregrado de Creación de la Facultad de Creación de la Universidad del Rosario en Bogotá, Colombia.",
+  "formacion_academica": [
+    "2006, Profesional en Historia del Arte, Ecole Du Louvre",
+    "2008, Magíster en Museología, Ecole Du Louvre",
+    "2009, Magíster en Historia Del Arte, Université Paris-Sorbonne"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "libro",
+      "titulo": "Manifiesto Crehacedor. Soberanías creativas en Colombia. Volumen 1",
+      "fecha": "2025-5-8",
+      "enlace": "https://doi.org/10.12804/urosario9789585004245"
+    }
+  ],
+  "total_publicaciones": 1,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Manifiesto Crehacedor. Soberanías creativas en Colombia. Volumen 1",
+      "fecha": "2021-08-30 - 2025-05-08",
+      "enlace": "https://research-hub.urosario.edu.co/display/e0b77bba-d48e-4a47-a4c1-1e860ce20680"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-2867-7684"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/ana-maria-cifuentes-ruiz"
+    ]
+  },
+  "id": "ana-maria-cifuentes-ruiz",
+  "facultad_csv": "Facultad de Creación",
+  "cargo_csv": "Profesor principal de carrera"
+}

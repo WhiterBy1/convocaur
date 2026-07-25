@@ -1,0 +1,712 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/daniel-orlando-diaz-lopez",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "danielo.diaz@urosario.edu.co",
+  "telefono": "2970200 ext. 4065",
+  "imagen": "https://research-hub.urosario.edu.co/file/n6231/Daniel+Orlando+Diaz.jpg",
+  "afiliaciones": [
+    "Investigador - Tecnología, Ingeniería, Ciencia y Matemáticas - TICMA - Universidad del Rosario",
+    "Director Maestría en Business Analytics - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=55951601000",
+    "google_scholar": "https://scholar.google.com/citations?user=JESWI-sAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/daniel-orlando-d%C3%ADaz-lopez",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521",
+    "orcid": "http://orcid.org/0000-0001-7244-2631"
+  },
+  "areas_investigacion": [
+    "AI",
+    "Blockchain",
+    "Cyberintelligence",
+    "Cybersecurity"
+  ],
+  "formacion_academica": [
+    "2009, Ingeniero en Electrónica y Telecomunicaciones, Universidad del Cauca - Popayan",
+    "2011, Máster Universitario en Nuevas Tecnologías en Informática Por La Universidad de Murcia, Universidad de Murcia",
+    "2016, Doctor Por La Universidad de Murcia 'Cum Laude', Doctor Internacional, Universidad de Murcia"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "SERDUX-MARCIM: Maritime Cyberattack simulation using Dynamic Modeling, Compartmental Models in Epidemiology and Agent-based Modeling",
+      "fecha": "2025-6-1",
+      "enlace": "https://doi.org/10.1007/s10207-025-00985-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "DEFENDIFY: defense amplified with transfer learning for obfuscated malware framework",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/10.1186/s42400-025-00396-z"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Cyber democracy in the digital age: Characterizing hate networks in the 2022 US midterm elections",
+      "fecha": "2024-10-1",
+      "enlace": "https://doi.org/10.1016/j.inffus.2024.102459"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "An NLP-Based Framework to Spot Extremist Networks in Social Media",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1155/2024/3380488"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Enhancing DevSecOps practice with Large Language Models and Security Chaos Engineering",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1007/s10207-024-00909-w"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the Way to Automatic Exploitation of Vulnerabilities and Validation of Systems Security through Security Chaos Engineering",
+      "fecha": "2023-1-5",
+      "enlace": "https://doi.org/https://doi.org/10.3390/bdcc7010001"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "ChaosXploit: A Security Chaos Engineering framework based on Attack Trees",
+      "fecha": "2022-6-27",
+      "enlace": "https://research-hub.urosario.edu.co/display/b7f33bcb-8c82-48cb-81d2-8a0d158f382c"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the Power of Social Networks to Analyze Threatening Trends",
+      "fecha": "2022-2-25",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F50d74c4a-6551-405f-a78a-52e282cebc4f"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Cyberprotection in IoT environments: A dynamic rule-based solution to defend smart devices",
+      "fecha": "2021-5-20",
+      "enlace": "https://doi.org/10.1016/j.jisa.2021.102878"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "MalSEIRS: Forecasting Malware Spread Based on Compartmental Models in Epidemiology",
+      "fecha": "2021-12-27",
+      "enlace": "https://doi.org/10.1155/2021/5415724"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Uncovering Cybercrimes in Social Media through Natural Language Processing",
+      "fecha": "2021-12-10",
+      "enlace": "https://doi.org/10.1155/2021/7955637"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "BlockSIEM: Protecting smart city services through a blockchain-based and distributed SIEM",
+      "fecha": "2020-8-18",
+      "enlace": "https://doi.org/10.3390/s20164636"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A Semantic Framework for the Design of Distributed Reactive Real-Time Languages and Applications",
+      "fecha": "2020-7-20",
+      "enlace": "https://doi.org/10.1109/ACCESS.2020.3010697"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "C3-sex: A conversational agent to detect online sex offenders",
+      "fecha": "2020-10-27",
+      "enlace": "https://doi.org/10.3390/electronics9111779"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "COSMOS: Collaborative, Seamless and Adaptive Sentinel for the Internet of Things",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F84e11109-b952-4c50-84cb-cc4bd8e8608c"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Using Reverse Engineering to Face Malware",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.16925/2357-6014.2019.02.02"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Building Malware Classificators usable by State Security Agencies",
+      "fecha": "2018-12-1",
+      "enlace": "https://doi.org/10.15332/iteckne.v15i2.2072"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Developing Secure IoT Services: A Security-Oriented Review of IoT Platforms",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1a85b258-caff-4e12-b334-3f0f35b86acd"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Open source intelligence (OSINT) as Support of Cybersecurity Operations: Use of OSINT in a Colombian Context and Sentiment Analysis",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/dc6b2982-eb1b-4bb2-ae02-bdbdfdbf40a4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Shielding IoT against cyber-attacks: An event-based approach using SIEM",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/bbba3a5e-f82d-411c-af58-6ddcad4fadaa"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Dynamic counter-measures for risk-based access control systems: An evolutive approach",
+      "fecha": "2016-2-1",
+      "enlace": "https://doi.org/10.1016/j.future.2014.10.012"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Managing XACML systems in distributed environments through Meta-Policies",
+      "fecha": "2015-2-1",
+      "enlace": "https://doi.org/10.1016/j.cose.2014.10.004"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Live digital, remember digital: State of the art and research challenges",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.1016/j.compeleceng.2013.11.008"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Software Tool of Planning Radio for Fixed Wireless Access Systems in Rural Environments",
+      "fecha": "2009-4-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9424337f-7d64-4a2c-8d56-01a9c54e828d"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Securing cloud-based military systems with Security Chaos Engineering and Artificial Intelligence",
+      "fecha": "2023-8-29",
+      "enlace": "https://doi.org/10.1145/3600160.3605076"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "FCTNLP: An architecture to fight cyberterrorism with natural language processing",
+      "fecha": "2022-6-27",
+      "enlace": "https://research-hub.urosario.edu.co/display/a6738b07-421c-4b0a-9453-ea9e49110c58"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "A Chatbot Proposal to Fight against Sexual Crimes",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e77e1b2c-34e2-44e5-bcd0-d03ddb592d5e"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "BSIEM-IoT: A blockchain-based and distributed SIEM for the Internet of Things",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/cdf29f8e-d53b-44ad-9f99-4b1ae426f7c2"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "C3-Sex: a Chatbot to Chase Cyber Perverts",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F84513175-faf8-40f9-8dfb-2c4b338994d1"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "The Academy as a Promoter of the National Cyber Defense Strategy",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/b5b84439-69d6-4d20-920c-ee20d3467135"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "REAL-T: Time Modularization in Reactive Distributed Applications",
+      "fecha": "2018-8-19",
+      "enlace": "https://research-hub.urosario.edu.co/display/e71e781e-169a-4fd1-9222-7251edc7d6d9"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Cuckoo + Machine Learning",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8a113f83-5668-46b4-9ab5-4f4293835f21"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Deepweb (TOR, honeypot)",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/afde2570-5dd6-4995-97a7-8302569df0aa"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Maltego Applied to the Colombian Context",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4559bf89-763f-4dd1-88a6-b1f8310a8513"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Open Source Search Analytics - Elasticsearch",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/f5a0a873-8127-412d-93af-24fbf1656d17"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Radare for reversing",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F025fc321-7ab3-49df-b0ae-fc0c379f656f"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "TRIS: A Three-Rings IoT Sentinel to Protect against Cyber-Threats",
+      "fecha": "2018-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ac6e1230-a9dc-4fbe-b8fb-1d85256a31d4"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Data Science Applied in Cybersecurity",
+      "fecha": "2017-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F656b589e-ba76-43b1-a54e-b57b4ee4fea7"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Offensive Web Testing Framework (OWTF)",
+      "fecha": "2017-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F147f9180-93d4-4a13-a7ca-10fafcfb4989"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Owasp Mobile Project and Internet of Things",
+      "fecha": "2017-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/ac5cae7c-856c-486b-8ece-1941ec024de6"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Owasp Seraphimdroid Project",
+      "fecha": "2017-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/edb1f1ce-17cb-4b2b-9ac0-d47892b64fcd"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "The Owasp Enterprise Security Api (ESAPI): Security Control Library",
+      "fecha": "2017-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F64e7c390-3caa-4904-8d69-04f89ca2061e"
+    },
+    {
+      "tipo": "comentario",
+      "titulo": "Correction: C3-Sex: A Conversational Agent to Detect Online Sex Offenders (Electronics, (2020), 9, 11, (1779), 10.3390/electronics9111779)",
+      "fecha": "2026-6-1",
+      "enlace": "https://doi.org/https://doi.org/10.3390/electronics15112455"
+    }
+  ],
+  "total_publicaciones": 43,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Desarrollo de capacidades de inteligencia cibernética para la prevención del delito",
+      "fecha": "2021-02-01 - 2022-07-05",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5f064c1c-33d6-451c-892e-833c4a582f2a"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Arquitectura de protección de privacidad de datos para modelos de lenguaje de gran tamaño (LLM) usando chatgpt"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "ChaosXploit: A Security Chaos Engineering framework based on Attack Trees"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Detección de anomalías en tráfico de red de Sistemas de Control Industrial soportada en algoritmos de machine learning"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "FCTNLP: Fighting cyberterrorism with natural language processing"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Resilient DevSecOps: leveraging large language models and chaos engineering for automated threat hypothesis validation"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Securing software development lifecycle using artificial intelligence and security chaos engineering"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2022"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0001-7244-2631"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=JESWI-sAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/daniel-orlando-d%C3%ADaz-lopez"
+    ],
+    "scopus_id": [
+      "55951601000"
+    ]
+  },
+  "id": "daniel-orlando-diaz-lopez",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521",
+    "cod_rh": "0001616521",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Asociado (I) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Daniel Orlando Diaz Lopez",
+      "Nombre en citaciones": "DIAZ LOPEZ, DANIEL ORLANDO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Doctorado UNIVERSIDAD DE MURCIA Doctorado en Informatica Octubrede2011 - Noviembrede 2015 Managing Access Control Systems in Distributed Environments with Dynamic Information Asset Protection",
+      "Maestría/Magister UNIVERSIDAD DE MURCIA Máster en Nuevas Tecnologías en Informática Septiembrede2010 - Juliode 2011 Evaluación de Propuestas de Movilidad con Protocolos MIP/SIP en un Entorno IMS",
+      "Pregrado/Universitario UNIVERSIDAD DEL CAUCA Ingeniería en Electrónica y Telecomunicaciones Juliode2003 - Marzode 2009 Radio Planning Software Tool for Fixed Wireless Access systems in rural environments"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 45 horas Semanales Agosto de 2019 de",
+      "ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Dedicación: 45 horas Semanales Agosto de 2016 Enero de 2019"
+    ],
+    "areas_actuacion": [
+      "Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones",
+      "Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Telecomunicaciones"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Portugués",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Seguridad para Internet de las Cosas (IoT), Activa: Si",
+      "Ethical hacking, Activa: Si",
+      "Seguridad de la Información, Activa: Si",
+      "Privacidad, Activa: Si",
+      "Seguridad en la construcción de software, Activa: Si",
+      "Ciberseguridad, Activa: Si",
+      "Ciberdefensa, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Doctor internacional. Calificación: Sobresaliente Cum Laude,UNIVERSIDAD DE MURCIA - Noviembrede 2015",
+      "Mención de honor en tecnologías de comunicaciones y redes inalámbricas,UNIVERSIDAD DE MURCIA - Juniode 2011",
+      "Mención de honor en redes inalámbricas,UNIVERSIDAD DE MURCIA - Juniode 2011",
+      "Beca de Master,Fundación Carolina - Juniode 2010",
+      "Media matrícula de honor por alto desempeño académico,UNIVERSIDAD DEL CAUCA - Mayode 2006",
+      "Matrícula de honor por alto desempeño académico,UNIVERSIDAD DEL CAUCA - Mayode 2005"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: DANIEL ORLANDO DIAZ LOPEZ, SEGURIDAD EN EL DESARROLLO DE SOFTWARE, Finalidad: Enseñanza teorico practica de mecanismos y controles de ciberseguridad y ciberdefensa . En: Colombia ,2016, ,ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO. participación: Docente , 18 semanas Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Cursos de corta duración dictados - Perfeccionamiento: DANIEL ORLANDO DIAZ LOPEZ, SEGURIDAD EN EL DESARROLLO DE SOFTWARE, Finalidad: Enseñanza del ciclo de desarrollo de software seguro y preparación para certificación CSSLP . En: Colombia ,2017, ,ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO. participación: Docente , 18 semanas Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Cursos de corta duración dictados - Perfeccionamiento: DANIEL ORLANDO DIAZ LOPEZ, SEGURIDAD INFORMATICA, Finalidad: Enseñanza teorico practica de mecanismos y controles de ciberseguridad y ciberdefensa . En: Colombia ,2017, ,ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO. participación: Docente , 18 semanas Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: DANIEL ORLANDO DIAZ LOPEZ, SEGURIDAD INFORMATICA, Finalidad: Enseñanza teorico practica de mecanismos y controles de ciberseguridad y ciberdefensa . En: Colombia ,2016, ,ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO. participación: Docente , 18 semanas Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, FCTNLP: Fighting cyberterrorism with natural language processing COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Pregrado en Matemáticas Aplicadas y Ciencias de la Computación, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrés Felipe Zapata Rozo Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación, Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DANIEL ORLANDO DIAZ LOPEZ, Securing software development lifecycle using Artificial Intelligence and Security Chaos Engineering COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Matemáticas Aplicadas y Ciencias de la Computación, 2023. Dirigió como: Tutor principal, Persona(s) orientada(s): Martín Steven Bedoya Rodríguez Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones, Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DANIEL ORLANDO DIAZ LOPEZ, Detección de anomalías en tráfico de red de Sistemas de Control Industrial soportada en algoritmos de machine learning COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Matemáticas Aplicadas y Ciencias de la Computación, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Miguel Angel Tristancho Muñoz Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones, Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, ChaosXploit: A Security Chaos Engineering framework based on Attack Trees COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Pregrado en Matemáticas Aplicadas y Ciencias de la Computación, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Sara Palacios Chavarro Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones, Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Seguridad en Internet de las cosas ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): DANIEL FELIPE TARQUINO, EDWIN SEBASTIAN GARCIA Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Seguridad para IoT: Solución para la gestión de eventos de seguridad en Arquitecturas de Internet de las Cosas (IoT) ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Nicolas Moreno, Andres Vega, Stefany Moron Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DANIEL ORLANDO DIAZ LOPEZ, Using data science to prevent cyberterrorist attacks over cyber critical infrastructure (CCI) ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Evaluation of a blockchain based solution for the security event management in IoT ecosystems ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Development of a system based on Artificial Intelligence able to interact with suspects of cybercrimes ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Development of a cyberweapon using Artificial Intelligence ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, SIEM: Plataforma para la detección de ataques informáticos en tiempo real a partir de eventos de seguridad ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): MARIA ALEJANDRA BLANCO, EDWIN CERON, NICOLAS GOMEZ Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Profiling criminals through Emotional Machine Learning ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Jossie Estaban Murcia, Sebastián Moreno Rodriguez Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Blockchain applied to cybersecurity challenges ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrés Felipe Pardo Mesa, Fabian Augusto Ardila Rodriguez Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Cyberintelligence for Internet of Things - Ciberinteligencia para Internet de las Cosas ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Useche Peláez David Esteban Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Intelligence of Open Sources applied to the Colombian context ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Ricardo Pinto, Martin Hernandez, Cristian Pinzón Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DANIEL ORLANDO DIAZ LOPEZ, Design and development of IOT devices for SMART HOME ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Estado: Tesis concluida INGENIERIA DE SISTEMAS, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Manuel Sanchez Tutor(es)/Cotutor(es): DANIEL ORLANDO DIAZ LOPEZ, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DANIEL ORLANDO DIAZ LOPEZ, Titulo: Diseño de una estrategia de gestión de relación con el ciudadano para el sector gobierno Tipo de trabajo presentado: Trabajo de grado/tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico MAESTRÍA EN GESTIÓN DE INFORMACIÓN Nombre del orientado: José David Reyes Muñoz Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DANIEL ORLANDO DIAZ LOPEZ, Titulo: Diseño de Datamart en las temáticas de producción e inversión de ciencia, tecnología e innovación en Colombia Tipo de trabajo presentado: Trabajo de grado/tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico MAESTRÍA EN GESTIÓN DE INFORMACIÓN Nombre del orientado: Jinneth Tique Ortiz Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DANIEL ORLANDO DIAZ LOPEZ, Titulo: CREACIÓN DE UN MODELO DE POLARIDAD EN REDES SOCIALES CON HERRAMIENTAS LIBRES: CASO DE ESTUDIO SECTOR ASEGURADOR EN COLOMBIA Tipo de trabajo presentado: Trabajo de grado/tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico MAESTRÍA EN GESTIÓN DE INFORMACIÓN Nombre del orientado: ANDRES CAMILO RAMIREZ GAITA Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DANIEL ORLANDO DIAZ LOPEZ, Titulo: USO DE ANALITICAS PARA PREDECIR LOS COMPUTADORES AFECTADOS POR MALWARE, EN UNA INSTITUCIÓN FINANCIERA EN COLOMBIA Tipo de trabajo presentado: Trabajo de grado/tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico MAESTRÍA EN GESTIÓN DE INFORMACIÓN Nombre del orientado: GERARDO MAYORGA GARCIA Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,"
+    ],
+    "consultorias": [
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Matriz de legislación aplicable., Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Documento con las políticas, estándares, y procedimientos que representen los mandatos y estrategias de la OTI, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Ejecutar acompañamiento especializado en las entidades, en seguridad, Interoperabilidad, datos abiertos, eficiencia administrativa y cero papel, servicios y participación, Nombre comercial: , contrato/registro: CONVENIO 671 DE 2013 PARA LA APROPIACIÓN DE GOBIERNO EN LÍNEA EN EL ESTADO, LA INDUSTRIA TI Y EL CIUDADANO, . En: Colombia, ,2014, 4 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Documento de Metodología de Análisis de Riesgos ajustado, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Software de apoyo al SGSI (AGGIL) parametrizado, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Diseñar el mapa estratégico de tal manera que a partir de la estrategia misional de cada entidad a acompañar se defina como se debe desarrollar el acompañamiento GEL y como se debe implementar la estrategia, que incluya los aspectos relacionados con seguridad, Nombre comercial: , contrato/registro: CONVENIO 671 DE 2013 PARA LA APROPIACIÓN DE GOBIERNO EN LÍNEA EN EL ESTADO, LA INDUSTRIA TI Y EL CIUDADANO, . En: Colombia, ,2013, 4 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Cuadro de mando de indicadores., Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Plan de Seguridad de la Información, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 198-2012 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2012, 2 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Documento de Revisión del Estado de Seguridad de la Información de la Oficina de Tecnología e Informática de la SIC., Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 198-2012 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2012, 2 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Plan de sensibilización y una transferencia de conocimiento que permita difundir y apropiar las directrices de la OTI en cuanto a seguridad de la información,, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Implementación de sistemas de análisis: DANIEL ORLANDO DIAZ LOPEZ, DORIS NATALIA RODRIGUEZ ESPITIA, MICHEL ANDRES RINCON CASTILLO, Parametrización del Software de apoyo al SGSI, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Documento de Revisión y Evaluación del Centro de Datos, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 198-2012 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2012, 2 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Plan General de Actualización Tecnológica, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 198-2012 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2012, 2 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Documento con la clasificación y procedimientos de rotulación de los activos de información de la OTI, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Identificar las necesidades de las Entidades a acompañar frente al cumplimiento de la Estrategia GEL con el fin de implementar esquemas de acompañamiento que potencialicen la implementación de la estrategia., Nombre comercial: , contrato/registro: CONVENIO 671 DE 2013 PARA LA APROPIACIÓN DE GOBIERNO EN LÍNEA EN EL ESTADO, LA INDUSTRIA TI Y EL CIUDADANO, . En: Colombia, ,2013, 4 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Estrategia para promover el conocimiento y uso de los trámites y servicios provistos por el Estado a través de medios electrónicos, Nombre comercial: , contrato/registro: CONVENIO 671 DE 2013 PARA LA APROPIACIÓN DE GOBIERNO EN LÍNEA EN EL ESTADO, LA INDUSTRIA TI Y EL CIUDADANO, . En: Colombia, ,2013, 4 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Plan operativo, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 198-2012 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2012, 2 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: DANIEL ORLANDO DIAZ LOPEZ, Documento con las actividades de configuración requeridas que eviten la fuga de información, Nombre comercial: , contrato/registro: CONTRATO INTERADMINISTRATIVO No. 152-2013 ENTRE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO Y CINTEL, . En: Colombia, ,2013, 5 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: 6TO SEMINARIO DE SEGURIDAD DE LA INFORMACION - E-HEALTH SECURITY Tipo de evento: Seminario Ámbito: Nacional Realizado el:2017-04-25 00:00:00.0, 2017-04-25 00:00:00.0 en BOGOTÁ, D.C. - ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO, Autopista Norte AK 45 No. 205-59, Bogota, Colombia Productos asociados Nombre del producto: Implementation of the standard PA-DSS (Payment Application Data Security Standard) in E-Health environments Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: NIST SP 800-64 (Security Considerations In The System Development Life Cycle): An approach to E-Health software development projects Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Security in E-Health systems using OASIS Web Service Security (WSS) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Application of privacy and anonymity techniques for medical data Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Using Trusted Computing and TPM (Trust Platform Module) in an E-Health scenario Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Risk Assessment for medical applications using Stride and Dread methodology Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: How to calculate the Attack Surface for E-Health applications using RASQ (Relative Attack Surface Quotient) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Organizador , Ponente , Ponente magistral",
+      "1 Nombre del evento: 6TO SEMINARIO DE SEGURIDAD DE LA INFORMACION - E-HEALTH SECURITY Tipo de evento: Seminario Ámbito: Nacional Realizado el:2017-04-25 00:00:00.0, 2017-04-25 00:00:00.0 en BOGOTÁ, D.C. - ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO, Autopista Norte AK 45 No. 205-59, Bogota, Colombia",
+      "Productos asociados Nombre del producto: Implementation of the standard PA-DSS (Payment Application Data Security Standard) in E-Health environments Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: NIST SP 800-64 (Security Considerations In The System Development Life Cycle): An approach to E-Health software development projects Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Security in E-Health systems using OASIS Web Service Security (WSS) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Application of privacy and anonymity techniques for medical data Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Using Trusted Computing and TPM (Trust Platform Module) in an E-Health scenario Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Risk Assessment for medical applications using Stride and Dread methodology Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: How to calculate the Attack Surface for E-Health applications using RASQ (Relative Attack Surface Quotient) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Organizador , Ponente , Ponente magistral",
+      "2 Nombre del evento: OWASP LATAM TOUR 2017 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-04-03 00:00:00.0, 2017-04-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Piloto de Colombia, Carrera 9 No. 45A - 44, Bogotá, Colombia Productos asociados Nombre del producto: Offensive Web Testing Framework (OWTF) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: OWASP Mobile Project and Internet of Things Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: OWASP SeraphimDroid Project Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: The OWASP Enterprise Security API (ESAPI): Security Control Library Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: The Open Web Application Security Project Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Organizador , Ponente , Ponente magistral",
+      "2 Nombre del evento: OWASP LATAM TOUR 2017 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-04-03 00:00:00.0, 2017-04-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Piloto de Colombia, Carrera 9 No. 45A - 44, Bogotá, Colombia",
+      "Productos asociados Nombre del producto: Offensive Web Testing Framework (OWTF) Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: OWASP Mobile Project and Internet of Things Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: OWASP SeraphimDroid Project Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: The OWASP Enterprise Security API (ESAPI): Security Control Library Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: The Open Web Application Security Project Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Organizador , Ponente , Ponente magistral",
+      "3 Nombre del evento: Bsides Cybersecurity Conference 2024 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-04-26 00:00:00.0, 2024-04-27 00:00:00.0 en MEDELLÍN - Facultad de Ingeniería, Universidad de Antioquia Productos asociados Nombre del producto: Analyzing Capacities and Drawbacks of Breach Attack Simulation (BAS) solutions Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Using Generative Adversarial Networks (GAN) to detect Cyber Threats Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente , Ponente magistral",
+      "3 Nombre del evento: Bsides Cybersecurity Conference 2024 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-04-26 00:00:00.0, 2024-04-27 00:00:00.0 en MEDELLÍN - Facultad de Ingeniería, Universidad de Antioquia",
+      "Productos asociados Nombre del producto: Analyzing Capacities and Drawbacks of Breach Attack Simulation (BAS) solutions Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Using Generative Adversarial Networks (GAN) to detect Cyber Threats Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente , Ponente magistral",
+      "4 Nombre del evento: Owasp Latam Tour 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-27 00:00:00.0, 2019-05-27 00:00:00.0 en BOGOTÁ, D.C. - Calle 74 # 14 - 25, Universidad Sergio Arboleda, Bogotá Productos asociados Nombre del producto: A Chatbot Proposal to Fight Against Sexual Crimes Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: The Academy as a Promoter of the National Cyber Defense Strategy Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD SERGIO ARBOLEDA Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente , Ponente magistral",
+      "4 Nombre del evento: Owasp Latam Tour 2019 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-27 00:00:00.0, 2019-05-27 00:00:00.0 en BOGOTÁ, D.C. - Calle 74 # 14 - 25, Universidad Sergio Arboleda, Bogotá",
+      "Productos asociados Nombre del producto: A Chatbot Proposal to Fight Against Sexual Crimes Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: The Academy as a Promoter of the National Cyber Defense Strategy Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD SERGIO ARBOLEDA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente , Ponente magistral",
+      "5 Nombre del evento: Bsides cybersecurity Conference 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-04-21 00:00:00.0, 2023-04-22 00:00:00.0 en BOGOTÁ, D.C. - Cl. 92 #11-51, Bogotá Productos asociados Nombre del producto: Empowering Cyber Intelligence with Natural Language Processing Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Securing systems with Chaos Engineering and Artificial Intelligence Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Microsoft Colombia Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente , Ponente magistral",
+      "5 Nombre del evento: Bsides cybersecurity Conference 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-04-21 00:00:00.0, 2023-04-22 00:00:00.0 en BOGOTÁ, D.C. - Cl. 92 #11-51, Bogotá",
+      "Productos asociados Nombre del producto: Empowering Cyber Intelligence with Natural Language Processing Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Securing systems with Chaos Engineering and Artificial Intelligence Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Microsoft Colombia Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente , Ponente magistral",
+      "6 Nombre del evento: VII Jornadas Nacionales de Investigación en Ciberseguridad (JNIC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-06-27 00:00:00.0, 2022-06-29 00:00:00.0 en Bilbao - Palacio Euskalduna Productos asociados Nombre del producto: ChaosXploit: A Security Chaos Engineering framework based on Attack Trees Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: ChaosXploit: A Security Chaos Engineering framework based on Attack Trees Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Nombre del producto: FCTNLP: An architecture to fight cyberterrorism with natural language processing Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Nombre del producto: FCTNLP: An architecture to fight cyberterrorism with natural language processing Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Fundación Tecnalia Tipo de vinculación Gestionadora Nombre de la institución: INCIBE (Instituto Nacional de Ciberseguridad de España S.A) Tipo de vinculación Gestionadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente",
+      "6 Nombre del evento: VII Jornadas Nacionales de Investigación en Ciberseguridad (JNIC) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-06-27 00:00:00.0, 2022-06-29 00:00:00.0 en Bilbao - Palacio Euskalduna",
+      "Productos asociados Nombre del producto: ChaosXploit: A Security Chaos Engineering framework based on Attack Trees Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: ChaosXploit: A Security Chaos Engineering framework based on Attack Trees Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Nombre del producto: FCTNLP: An architecture to fight cyberterrorism with natural language processing Tipo de producto: Producción técnica - Presentación de trabajo - Comunicación Nombre del producto: FCTNLP: An architecture to fight cyberterrorism with natural language processing Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Fundación Tecnalia Tipo de vinculación Gestionadora Nombre de la institución: INCIBE (Instituto Nacional de Ciberseguridad de España S.A) Tipo de vinculación Gestionadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente",
+      "7 Nombre del evento: 18th International Conference on Availability, Reliability and Security Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-08-29 00:00:00.0, 2023-09-01 00:00:00.0 en Benevento - Benevento, Italia Productos asociados Nombre del producto: Securing cloud-based military systems with Security Chaos Engineering and Artificial Intelligence Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Securing cloud-based military systems with Security Chaos Engineering and Artificial Intelligence Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: INDRA Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente",
+      "7 Nombre del evento: 18th International Conference on Availability, Reliability and Security Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-08-29 00:00:00.0, 2023-09-01 00:00:00.0 en Benevento - Benevento, Italia",
+      "Productos asociados Nombre del producto: Securing cloud-based military systems with Security Chaos Engineering and Artificial Intelligence Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Nombre del producto: Securing cloud-based military systems with Security Chaos Engineering and Artificial Intelligence Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: INDRA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Ponente",
+      "8 Nombre del evento: Cibersecurity Summer Bootcamp Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-07-17 00:00:00.0, 2018-07-28 00:00:00.0 en León - León, España Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente",
+      "8 Nombre del evento: Cibersecurity Summer Bootcamp Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-07-17 00:00:00.0, 2018-07-28 00:00:00.0 en León - León, España",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente",
+      "9 Nombre del evento: Conference OWASP Latam Tour Tipo de evento: Otro Ámbito: Nacional Realizado el:2018-05-10 00:00:00.0, 2018-05-11 00:00:00.0 en BOGOTÁ, D.C. - Escuela colombiana de ingeniería Julio Garavito Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente , Ponente",
+      "9 Nombre del evento: Conference OWASP Latam Tour Tipo de evento: Otro Ámbito: Nacional Realizado el:2018-05-10 00:00:00.0, 2018-05-11 00:00:00.0 en BOGOTÁ, D.C. - Escuela colombiana de ingeniería Julio Garavito",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente , Ponente",
+      "10 Nombre del evento: Feria de Tecnología de INATEL FETIN Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-09-26 00:00:00.0, 2018-09-28 00:00:00.0 en Santa Rita do Sapucaí - Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente",
+      "10 Nombre del evento: Feria de Tecnología de INATEL FETIN Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-09-26 00:00:00.0, 2018-09-28 00:00:00.0 en Santa Rita do Sapucaí -",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente",
+      "11 Nombre del evento: Cibersecurity Summer Bootcamp Tipo de evento: Otro Ámbito: Internacional Realizado el:2017-07-18 00:00:00.0, 2017-07-29 00:00:00.0 en León - León, España Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente",
+      "11 Nombre del evento: Cibersecurity Summer Bootcamp Tipo de evento: Otro Ámbito: Internacional Realizado el:2017-07-18 00:00:00.0, 2017-07-29 00:00:00.0 en León - León, España",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente",
+      "12 Nombre del evento: International Conference on Internet of Things: Systems, Management and Security Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-07-17 00:00:00.0, 2018-07-28 00:00:00.0 en Valencia - Productos asociados Nombre del producto: TRIS: A Three-Rings IoT Sentinel to Protect Against Cyber-Threats Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente , Ponente",
+      "12 Nombre del evento: International Conference on Internet of Things: Systems, Management and Security Tipo de evento: Otro Ámbito: Internacional Realizado el:2018-07-17 00:00:00.0, 2018-07-28 00:00:00.0 en Valencia -",
+      "Productos asociados Nombre del producto: TRIS: A Three-Rings IoT Sentinel to Protect Against Cyber-Threats Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente , Ponente",
+      "13 Nombre del evento: Feria de Tecnología de INATEL - FETIN Tipo de evento: Otro Ámbito: Internacional Realizado el:2016-10-26 00:00:00.0, 2016-10-28 00:00:00.0 en Santa Rita do Sapucaí - Santa Rita do Sapucaí Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente",
+      "13 Nombre del evento: Feria de Tecnología de INATEL - FETIN Tipo de evento: Otro Ámbito: Internacional Realizado el:2016-10-26 00:00:00.0, 2016-10-28 00:00:00.0 en Santa Rita do Sapucaí - Santa Rita do Sapucaí",
+      "Instituciones asociadas Nombre de la institución: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DANIEL ORLANDO DIAZ LOPEZ Rol en el evento: Asistente"
+    ],
+    "redes_conocimiento_especializado": [
+      "Nombre de la red HACKLAB BOGOTA Tipo de red Real, Creada el:2017-02-01 00:00:00.0, en BOGOTÁ, D.C. con participantes"
+    ],
+    "publicaciones_editoriales_no_especializadas": [
+      "Divulgación pública de la ciencia - Publicaciones editoriales no especializadas: cartillas, manual no especializado, periódicos, revistas, boletín, etc: Nombre del producto: MalSEIRS un modelo epidemiológico para predecir el comportamiento de virus informáticos, Fecha de presentación: 2022 - Abril, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://urosario.edu.co/revista-divulgacion-cientifica/ciencia-y-tecnologia/malseirs-un-modelo-epidemiologico-para-predecir, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Developing Cyber Intelligence Capacities for the Prevention of Crime",
+      "Divulgación pública de la ciencia - Publicaciones editoriales no especializadas: cartillas, manual no especializado, periódicos, revistas, boletín, etc: Nombre del producto: Algoritmos sofisticados para prevenir ciberdelitos, Fecha de presentación: 2021 - Abril, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://urosario.edu.co/revista-divulgacion-cientifica/ciencia-y-tecnologia/algoritmos-sofisticados-para-prevenir-ciberdelitos, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Developing Cyber Intelligence Capacities for the Prevention of Crime"
+    ],
+    "producciones_de_contenido_digital_audiovisual": [
+      "Divulgación pública de la ciencia - Producciones de contenido digital - Audiovisuales - Video: Nombre del producto: Hacking the Internet, Fecha de presentación: 2020 - Noviembre, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://www.youtube.com/watch?v=gjB7l6itWmA&list=PL0vATkTNKgo9NIY8oCL-pAfggflwHHA2O&index=14, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Emisiones en directo"
+    ],
+    "producci_n_de_estrategias_y_contenidos_transmedia": [
+      "Divulgación pública de la ciencia - Producción de estrategias y contenidos transmedia: Nombre del producto: Introducción a la Ciberseguridad, Fecha de presentación: 2021 - Abril, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://www.edx.org/learn/cybersecurity/universidad-del-rosario-introduccion-a-la-ciberseguridad, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Developing Cyber Intelligence Capacities for the Prevention of Crime",
+      "Divulgación pública de la ciencia - Producción de estrategias y contenidos transmedia: Nombre del producto: Redes de Computadores, Fecha de presentación: 2021 - Septiembre, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://www.edx.org/learn/computer-networking/universidad-del-rosario-redes-de-computadores?index=product&queryID=01e65eb864ff7a965342c518ccce19fe&position=1&results_level=first-level-results&term=redes+de+computadores&objectID=course-ebc9a296-fc6b-4a79-b3ad-64228b123da5&campaign=Redes+de+computador, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Developing Cyber Intelligence Capacities for the Prevention of Crime",
+      "Divulgación pública de la ciencia - Producción de estrategias y contenidos transmedia: Nombre del producto: Emisiones en Directo MACC, Fecha de presentación: 2020 - Agosto, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://www.youtube.com/playlist?list=PL0vATkTNKgo9NIY8oCL-pAfggflwHHA2O, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: Emisiones en directo"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Live digital, remember digital: State of the art and research challenges\" . En: Países Bajos COMPUTERS ELECTRICAL ENGINEERING ISSN: 0045-7906 ed: Elsevier v. 40 fasc. N/A p.109 - 120 ,2014, DOI: 10.1016/j.compeleceng.2013.11.008 Palabras: Logging systems, Security and Privacy, Internet of Things, Human Computer Interaction, Encryption,",
+        "titulo": "Live digital, remember digital: State of the art and research challenges",
+        "doi": "10.1016/j.compeleceng.2013.11.008",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"An NLP-Based Framework to Spot Extremist Networks in Social Media\" . En: Colombia COMPLEXITY ISSN: 1099-0526 ed: John Wiley & Sons v. 2024 fasc. 1 p.1 - 24 ,2024, DOI: 10.1155/2024/3380488",
+        "titulo": "An NLP-Based Framework to Spot Extremist Networks in Social Media",
+        "doi": "10.1155/2024/3380488",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Enhancing DevSecOps practice with Large Language Models and Security Chaos Engineering\" . En: Colombia INTERNATIONAL JOURNAL OF INFORMATION SECURITY ISSN: 1615-5270 ed: Springer v. 23 fasc. 6 p.3765 - 3788 ,2024, DOI: 10.1007/s10207-024-00909-w",
+        "titulo": "Enhancing DevSecOps practice with Large Language Models and Security Chaos Engineering",
+        "doi": "10.1007/s10207-024-00909-w",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Cyber democracy in the digital age: Characterizing hate networks in the 2022 US midterm elections\" . En: Colombia INFORMATION FUSION ISSN: 1566-2535 ed: Elsevier v. 110 fasc. p.1 - 16 ,2024, DOI: 10.1016/j.inffus.2024.102459",
+        "titulo": "Cyber democracy in the digital age: Characterizing hate networks in the 2022 US midterm elections",
+        "doi": "10.1016/j.inffus.2024.102459",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Managing XACML systems in distributed environments through Meta-Policies\" . En: Países Bajos COMPUTERS SECURITY ISSN: 0167-4048 ed: Elsevier Advanced Technology v. 48 fasc. N/A p.92 - 115 ,2015, DOI: 10.1016/j.cose.2014.10.004 Palabras: XACML, Access control systems, Distributed environments, SAML, Access control policy, Policy managment,",
+        "titulo": "Managing XACML systems in distributed environments through Meta-Policies",
+        "doi": "10.1016/j.cose.2014.10.004",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Dynamic counter-measures for risk-based access control systems: An evolutive approach\" . En: Países Bajos FUTURE GENERATION COMPUTER SYSTEMS THE INTERNATIONAL JOURNAL OF ESCIENCE ISSN: 0167-739X ed: Elsevier v. 1 fasc. N/A p.1 - 20 ,2014, DOI: 10.1016/j.future.2014.10.012 Palabras: ISO 27001, ISMS, Risk Management, Access control systems, Genetic algorithms, Counter-measures,",
+        "titulo": "Dynamic counter-measures for risk-based access control systems: An evolutive approach",
+        "doi": "10.1016/j.future.2014.10.012",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"HERRAMIENTA SOFTWARE DE PLANIFICACIÓN RADIO PARA SISTEMAS DE ACCESO INALÁMBRICO FIJO EN AMBIENTES RURALES\" . En: Colombia Gerencia Tecnologica Informatica - Gti ISSN: 1657-8236 ed: Division Editorial Y Publicaciones Universidad Industrial De Santander v. 8 fasc. 20 p.23 - 33 ,2009, DOI:",
+        "titulo": "HERRAMIENTA SOFTWARE DE PLANIFICACIÓN RADIO PARA SISTEMAS DE ACCESO INALÁMBRICO FIJO EN AMBIENTES RURALES",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Building malware classificators usable by State security agencies\" . En: Colombia REVISTA ITECKNE ISSN: 1692-1798 ed: v. 15 fasc. N/A p.107 - 121 ,2018, DOI:",
+        "titulo": "Building malware classificators usable by State security agencies",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, CLAUDIA PATRICIA SANTIAGO CELY, \"Shielding IoT against cyber-attacks: An event-based approach using SIEM\" . En: Colombia WIRELESS COMMUNICATIONS AND MOBILE COMPUTING ISSN: 1530-8677 ed: hindawi v. 2018 fasc. N/A p.1 - 18 ,2018, DOI: 10.1155/2018/3029638",
+        "titulo": "Shielding IoT against cyber-attacks: An event-based approach using SIEM",
+        "doi": "10.1155/2018/3029638",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, WILMER GARZON ALFONSO, LUIS DANIEL BENAVIDES NAVARRO, \"REAL-T: Time Modularization in Reactive Distributed Applications\" . En: Colombia COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE ISSN: 1865-0929 ed: Springer Nature v. 885 fasc. N/A p.113 - 127 ,2018, DOI: 10.1007/978-3-319-98998-3_9",
+        "titulo": "REAL-T: Time Modularization in Reactive Distributed Applications",
+        "doi": "10.1007/978-3-319-98998-3_9",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, CLAUDIA PATRICIA SANTIAGO CELY, \"Developing Secure IoT Services: A Security-Oriented Review of IoT Platforms\" . En: Colombia SYMMETRY BASEL ISSN: 2073-8994 ed: mdpi v. 10 fasc. N/A p.1 - 34 ,2018, DOI: 10.3390/sym10120669",
+        "titulo": "Developing Secure IoT Services: A Security-Oriented Review of IoT Platforms",
+        "doi": "10.3390/sym10120669",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Open source intelligence (OSINT) as support of cybersecurity operations. Use of OSINT in a colombian context and sentiment Analysis\" . En: Colombia Vínculos ISSN: 1794-211X ed: Fondo De Publicaciones De La Universidad Distrital v. 15 fasc. N/A p.195 - 214 ,2018, DOI: 10.14483/2322939X.13504",
+        "titulo": "Open source intelligence (OSINT) as support of cybersecurity operations. Use of OSINT in a colombian context and sentiment Analysis",
+        "doi": "10.14483/2322939X.13504",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"COSMOS: Collaborative, Seamless and Adaptive Sentinel for the Internet of Things\" . En: Suiza SENSORS ISSN: 1424-8220 ed: mdpi v. 19 fasc. N/A p.1 - 29 ,2019, DOI: 10.3390/s19071492",
+        "titulo": "COSMOS: Collaborative, Seamless and Adaptive Sentinel for the Internet of Things",
+        "doi": "10.3390/s19071492",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Using Reverse Engineering to Face Malware\" . En: Colombia INGENIERIA SOLIDARIA ISSN: 1900-3102 ed: v. 15 fasc. 2 p.1 - 26 ,2019, DOI: 10.16925/2357-6014",
+        "titulo": "Using Reverse Engineering to Face Malware",
+        "doi": "10.16925/2357-6014",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"A Semantic Framework for the Design of Distributed Reactive Real-Time Languages and Applications\" . En: Australia IEEE ACCESS ISSN: 2169-3536 ed: Ieee v. 8 fasc. N/A p.143862 - 143880 ,2020, DOI: 10.1109/ACCESS.2020.3010697 Palabras: Cybersecurity, Computer languages, Internet of Things, Programming, Real-time Systems, Semantics, Observers,",
+        "titulo": "A Semantic Framework for the Design of Distributed Reactive Real-Time Languages and Applications",
+        "doi": "10.1109/ACCESS.2020.3010697",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"C3-Sex: A Conversational Agent to Detect Online Sex Offenders\" . En: Suiza ELECTRONICS ISSN: 2079-9292 ed: mdpi v. 9 fasc. N/A p.1779 - 1802 ,2020, DOI: 10.3390/electronics9111779 Palabras: Chatbot, Online Child Sexual Abuse, Criminal Profiling, NLP (Natural Language Processing), LEAs (Law Enforcement Agencies),",
+        "titulo": "C3-Sex: A Conversational Agent to Detect Online Sex Offenders",
+        "doi": "10.3390/electronics9111779",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"BlockSIEM: Protecting Smart City Services through a Blockchain-based and Distributed SIEM\" . En: Suiza SENSORS ISSN: 1424-8220 ed: mdpi v. 20 fasc. N/A p.4636 - 4658 ,2020, DOI: 10.3390/s20164636 Palabras: Intrusion Detection System, Smart City, IoT security, Internet of Things, Blockchain, SIEM, Cybersecurity,",
+        "titulo": "BlockSIEM: Protecting Smart City Services through a Blockchain-based and Distributed SIEM",
+        "doi": "10.3390/s20164636",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Cyberprotection in IoT environments: A dynamic rule-based solution to defend smart devices\" . En: Reino Unido JOURNAL OF INFORMATION SECURITY AND APPLICATIONS ISSN: 2214-2126 ed: Elsevier v. 60 fasc. N/A p.1 - 13 ,2021, DOI: 10.1016/j.jisa.2021.102878 Palabras: Cybersecurity, IoT security, Internet of Things, Smart City,",
+        "titulo": "Cyberprotection in IoT environments: A dynamic rule-based solution to defend smart devices",
+        "doi": "10.1016/j.jisa.2021.102878",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"Uncovering Cybercrimes in Social Media through Natural Language Processing\" . En: Reino Unido COMPLEXITY ISSN: 1099-0526 ed: John Wiley & Sons v. 2021 fasc. N/A p.1 - 15 ,2021, DOI: 10.1155/2021/7955637 Palabras: Cybersecurity, LEAs (Law Enforcement Agencies), NLP (Natural Language Processing), Criminal Profiling, Smart City,",
+        "titulo": "Uncovering Cybercrimes in Social Media through Natural Language Processing",
+        "doi": "10.1155/2021/7955637",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"MalSEIRS: Forecasting Malware Spread Based on Compartmental Models in Epidemiology\" . En: Reino Unido COMPLEXITY ISSN: 1099-0526 ed: John Wiley & Sons v. 2021 fasc. N/A p.1 - 19 ,2021, DOI: 10.1155/2021/5415724 Palabras: Cybersecurity, Malware Analysis, Epidemiological model,",
+        "titulo": "MalSEIRS: Forecasting Malware Spread Based on Compartmental Models in Epidemiology",
+        "doi": "10.1155/2021/5415724",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"On the Power of Social Networks to Analyze Threatening Trends\" . En: Estados Unidos IEEE INTERNET COMPUTING ISSN: 1089-7801 ed: Ieee v. 26 fasc. 2 p.19 - 26 ,2022, DOI: 10.1109/MIC.2022.3154712 Palabras: Cyberdefense, HSM (Hostile Social Manipulation), LEAs (Law Enforcement Agencies), NLP (Natural Language Processing), Social Media,",
+        "titulo": "On the Power of Social Networks to Analyze Threatening Trends",
+        "doi": "10.1109/MIC.2022.3154712",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DANIEL ORLANDO DIAZ LOPEZ, \"On the Way to Automatic Exploitation of Vulnerabilities and Validation of Systems Security through Security Chaos Engineering\" . En: Suiza BIG DATA AND COGNITIVE COMPUTING ISSN: 2504-2289 ed: Multidisciplinary Digital Publishing Institute (MDPI) v. 7 fasc. 1 p.19 - 26 ,2022, DOI: 10.3390/bdcc7010001 Palabras: Cloud Managed Services, SCE (Security Chaos Engineering), Vulnerabilities Management, Attack trees,",
+        "titulo": "On the Way to Automatic Exploitation of Vulnerabilities and Validation of Systems Security through Security Chaos Engineering",
+        "doi": "10.3390/bdcc7010001",
+        "anio": "2022"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro DANIEL ORLANDO DIAZ LOPEZ, Tipo: Capítulo de libro WILMER GARZON ALFONSO, Tipo: Capítulo de libro LUIS DANIEL BENAVIDES NAVARRO, \"REAL-T: Time Modularization in Reactive Distributed Applications\" Communications in Computer and Information Science . En: Colombia ISBN: 978-3-319-98998-3 ed: Springer Verlag Publishing Company , v. , p.113 - 127 ,2018 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Otro capítulo de libro publicado DANIEL ORLANDO DIAZ LOPEZ, \"TRIS: a Three-Rings IoT Sentinel to protect against cyber-threats\" 2018 Fifth International Conference on Internet of Things: Systems, Management and Security . En: España ISBN: 978-1-5386-9586-9 ed: IEEE Publications , v. , p.1 - ,2018 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Capítulo de libro DANIEL ORLANDO DIAZ LOPEZ, \"FCTNLP: An architecture to fight cyberterrorism with natural language processing\" Actas de las VII Jornadas Nacionales de Investigación en Ciberseguridad (JNIC) 2022 . En: España ISBN: 978-84-88734-13-6 ed: , v. , p.130 - 137 ,2022 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Capítulo de libro DANIEL ORLANDO DIAZ LOPEZ, \"ChaosXploit: A Security Chaos Engineering framework based on Attack Trees\" Actas de las VII Jornadas Nacionales de Investigación en Ciberseguridad (JNIC) 2022 . En: España ISBN: 978-84-88734-13-6 ed: , v. , p.130 - 137 ,2022 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Capítulo de libro DANIEL ORLANDO DIAZ LOPEZ, \"Securing cloud-based military systems with Security Chaos Engineering and Artificial Intelligence\" ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security . En: Italia ISBN: 9798400707728 ed: ACM Press (Association of Computing Machinery) , v. , p.1 - 9 ,2023 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Capítulo de libro DANIEL ORLANDO DIAZ LOPEZ, \"C3-Sex: a Chatbot to Chase Cyber Perverts\" 2019 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech) . En: Japón ISBN: 978-1-7281-3024-8 ed: IEEE Publications , v. , p.50 - 57 ,2019 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Capítulo de libro DANIEL ORLANDO DIAZ LOPEZ, \"BSIEM-IoT: A Blockchain-Based and Distributed SIEM for the Internet of Things\" Applied Cryptography and Network Security Workshops . En: Colombia ISBN: 978-3-030-29729-9 ed: Springer Publishing Company, Inc. , v. , p.108 - 121 ,2019 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Capítulo de libro DANIEL ORLANDO DIAZ LOPEZ, \"TRIS: A Three-Rings IoT Sentinel to Protect Against Cyber-Threats\" 2018 Fifth International Conference on Internet of Things: Systems, Management and Security . En: España ISBN: 978-1-5386-9585-2 ed: IEEE Publications , v. , p.123 - 130 ,2018 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,"
+    ],
+    "informes_tecnicos": [
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, GARY COOPER MARTINEZ, Diagnóstico y Evaluación Tecnológica de la SSF, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, DORIS NATALIA RODRIGUEZ ESPITIA, GARY COOPER MARTINEZ, MICHEL ANDRES RINCON CASTILLO, Planeación de Seguridad de la Información, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, Plan Operativo de Proyecto - SSF 081, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, GARY COOPER MARTINEZ, DORIS NATALIA RODRIGUEZ ESPITIA, MICHEL ANDRES RINCON CASTILLO, Plan Operativo de Proyecto - UPRA, Nombre comercial: , contrato/registro: 195, . En: Colombia, ,2015, 0 meses p.35 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, DORIS NATALIA RODRIGUEZ ESPITIA, GARY COOPER MARTINEZ, MICHEL ANDRES RINCON CASTILLO, Definición de Políticas y Procedimientos, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, GARY COOPER MARTINEZ, Definición de Arquitecturas de TI para la Construcción del PETIC de la SSF, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, DORIS NATALIA RODRIGUEZ ESPITIA, GARY COOPER MARTINEZ, MICHEL ANDRES RINCON CASTILLO, Clasificación y Rotulación de Activos de Información, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, DORIS NATALIA RODRIGUEZ ESPITIA, GARY COOPER MARTINEZ, MICHEL ANDRES RINCON CASTILLO, Diseño e Implementación de Indicadores, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, GARY COOPER MARTINEZ, Plan Estratégico de las Tecnologías de la Información y las Comunicaciones (PETIC) de la SSF, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: DANIEL ORLANDO DIAZ LOPEZ, DORIS NATALIA RODRIGUEZ ESPITIA, GARY COOPER MARTINEZ, MICHEL ANDRES RINCON CASTILLO, Plan de Sensibilización y Capacitación, Nombre comercial: , contrato/registro: , . En: Colombia, ,2015, 0 meses p.0 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Plan Estratégico de Tecnología de la Información y Comunicación (PETIC) para la SSF Inicio: Octubre 2015 Fin: Diciembre 2015 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Cybersecurity Architecture for Incident Management Inicio: Enero 2018 Fin: Enero 2019 Duración Resumen Se desarrolló una arquitectura de seguridad para sistemas IoT que permite concebir un paradigma de seguridad holística para la protección de activos de información. Para ello se realizó: un desarrollo competencias en el diseño y construcción de dispositivos IoT con capacidades de sensorización y actuación; se implantó una solución de Sandboxing que apoyó procedimientos avanzados de ciberinteligencia en escenarios IoT; se implantaron herramientas de Threat Intelligence que permiten realizar analítica de malware considerando escenarios IoT; se implantó una solución que permite realizar monitoreo de trafico de Deep Web para la identificación de cibercrimenes; se construyó una solución para la compartición de información de amenazas (Threat Sharing) para la detección y prevención de incidentes de seguridad.",
+      "Tipo de proyecto: Investigación y desarrollo Diseño y construcción de herramientas reactivas con aplicaciones a middleware distribuido para el procesamiento de grandes volúmenes de datos (BigData) Inicio: Enero 2018 Fin: Enero 2019 Duración Resumen Este proyecto busca estudiar el paradigma de programación reactiva para diseñar nuevas herramientas de programación que permitan la construcción de middleware distribuido para aplicaciones de Bigdata. Este campo de investigación aún tiene múltiples preguntas abiertas, las cuales incluyen: 1. ¿Cómo podemos construir herramientas más eficientes para el procesamiento de grandes volúmenes de datos? 2. ¿Cuáles abstracciones de programación facilitan el desarrollo de middleware distribuido? 3. ¿Cómo se pueden implementar compiladores eficientes para este nuevo paradigma? 4. ¿Qué modelos formales permiten estudiar y demostrar propiedades y validez de los sistemas implementados? 5. ¿Qué mecanismos permiten evitar lapsus (ver definición de cliché en [9])? 6. ¿Qué nuevos patrones e idiomas de programación se necesitan para implementar estas herramientas? 7. ¿Qué mecanismos de modularización son óptimos para la construcción de estos nuevos sistemas? 2 1.2. Objetivos del programa y/o proyecto 1.2.1. Objetivo General A partir del paradigma de programación reactiva construir herramientas que faciliten el desarrollo de soluciones y middleware para el procesamiento de grandes volúmenes de datos (Big-Data). 1.2.2. Objetivos Específicos 1. Profundizar en el estudio y descubrimiento de la relación de formalismos, como lógica temporal y teoría de tipos, con la implementación de abstracciones eficientes en idiomas de programación distribuidos y concurrentes. 2. Estudiar la arquitectura y evolución de middleware distribuido utilizado en el desarrollo de aplicaciones para Bigdata. Haciendo la búsqueda de problemas, idiomas de programación y patrones implícitos de comunicación que nos permitan proponer nuevas abstracciones de lenguaje. 3. Diseñar abstracciones y lenguajes que nos permitan explícitamente modelar y construir software distribuido, y solucionar los problemas encontrados en las etapas anteriores. 4. Finalmente, para validar nuestras propuestas, modelaremos un subconjunto del lenguaje propuesto en alguno de los formalismos estudiados (o un nuevo formalismo de ser necesario), verificaremos propiedades que se mantienen con las nuevas abstracciones, construiremos una máquina virtual que soporte las abstracciones del lenguaje y un compilador para el mismo. Igualmente, en esta etapa realizaremos experimentos, de un alto contenido práctico, que simulan condiciones reales del software distribuido y analizaremos los resultados para verificar nuestras hipótesis.",
+      "Tipo de proyecto: Extensión y responsabilidad social CTI Emisiones en directo Inicio: Agosto 2020 Fin: Diciembre 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Developing Cyber Intelligence Capacities for the Prevention of Crime Inicio: Febrero 2021 Fin: Julio 2022 Duración Resumen Objetivo general: Investigar mecanismos avanzados para la protección del ciberespacio y la prevención de ciberdelitos los cuales utilicen tecnologías emergentes y representen una contribución en ámbitos tales como el perfilamiento de adversarios, el aseguramiento de infraestructura crítica cibernética y la protección de activos de información.",
+      "Tipo de proyecto: Investigación y desarrollo Cybersecurity for Democracy on US Congress elections 2022 Inicio: Agosto 2022 Fin: Enero 2023 Duración Resumen Develop cycles of data analysis and cyber intelligence on hostile activities associated with the midterm elections in the United States in November 2022. The scientific products derived from these activities allow to understand the behavior of threat agents using descriptive and predictive artificial intelligence models and describe their techniques and tactics. These data analytics results establish a baseline for designing and proposing countermeasures to protect digital democracy.",
+      "Tipo de proyecto: Investigación y desarrollo Convenio 671 de 2013 para la Apropiación de Gobierno en Línea en el Estado, la Industria y el Ciudadano Inicio: Agosto 2013 Fin: Diciembre 2013 Duración Resumen CONVENIO INTERADMINISTRATIVO No. 671 DE 2013 SUSCRITO ENTRE EL FONDO DE TECNOLOGÍAS DE LA INFORMACIÓN Y CINTEL",
+      "Tipo de proyecto: Investigación y desarrollo Apoyo a la Oficina de Tecnología e Informática de la Superintendencia de Industria y Comercio en el Desarrollo de las Actividades Planteadas por la Misma para el Mejoramiento de la Arquitectura Tecnológica de Procesamiento de Datos del Centro de Cómputo Inicio: Octubre 2012 Fin: Diciembre 2012 Duración Resumen APOYO A LA OFICINA DE TECNOLOGÍA E INFORMÁTICA DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO EN EL DESARROLLO DE LAS ACTIVIDADES PLANTEADAS POR LA MISMA PARA EL MEJORAMIENTO DE LA ARQUITECTURA TECNOLÓGICA DE PROCESAMIENTO DE DATOS DEL CENTRO DE CÓMPUTO (FASE 1) Y LAS ACTIVIDADES DEFINIDAS EN LA NORMA TÉCNICA NTC ISO/IEC 27001 PARA ESTRUCTURAR EL CICLO DE PLANIFICACIÓN DE UN SISTEMA DE GESTIÓN DE SEGURIDAD DE LA INFORMACIÓN SGSI (FASE 2)",
+      "Tipo de proyecto: Investigación y desarrollo Acompañamiento a la Oficina de Tecnología e Informática de la Superintendencia de Industria y Comercio en las Actividades Iniciales de Implementación de la Fase 2 del Sistema de Gestión de Seguridad de la Información Inicio: Mayo 2013 Fin: Septiembre 2013 Duración Resumen Prestar servicios profesionales de apoyo a la Oficina de Tecnología e Informática de la Superintendencia de Industria y Comercio en el desarrollo de las actividades iniciales definidas en la norma técnica colombiana NTC-ISO/IEC 27001 para estructurar el ciclo ¿hacer¿ del sistema de gestión de seguridad de la información.",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollar e implementar las fases de Planear y Hacer del ciclo PHVA de la implementación del Sistema de Gestión de Seguridad de la Información (SGSI), de conformidad con los estándares establecidos bajo la norma técnica colombiana NTC-ISO IEC 27001 Inicio: Abril 2015 Fin: Septiembre 2015 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Implantación de una solución SIEM (Security Information and Event Management System) para la protección de activos de información Inicio: Enero 2017 Fin: Diciembre 2017 Duración Resumen La gestión de la seguridad de la información y la protección de activos de información merecen una preocupación constante por parte de organizaciones que gestionan información de alta criticidad. Las soluciones tipo SIEM aportan en parte a resolver dicha situación por medio de funcionalidades de gestión de eventos de seguridad que permiten detectar incidentes de seguridad ocurridos o en progreso y de esa forma permitirles a las organizaciones generar acciones de contención o respuesta que disminuyan el impacto de un incidente. A pesar de la utilidad de estas soluciones, su aplicación en empresas medianas o pequeñas y en entidades sector público no ha sido posible debido principalmente al alto costo de una solución SIEM y la falta de habilidades técnicas requeridas para su despliegue, configuración y puesta en producción. Por medio del presente proyecto se busca generar un prototipo de solución SIEM que pueda ser utilizado en contextos reales para proteger activos de información crítica expuestos a amenazas de seguridad comunes, sin necesidad de que las organizaciones implementadoras tengan que realizar una gran inversión económica. Adicionalmente, se busca documentar dicho know-how con el fin de que se pueda difundir el aprendizaje obtenido y se pueda describir una posible aplicación de los resultados obtenidos en un escenario e-health.",
+      "Tipo de proyecto: Investigación y desarrollo COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things Inicio: Septiembre 2017 Fin: Marzo 2019 Duración Resumen En este proyecto de investigación se propone el desarrollo de centinelas adaptativos, transparentes y colaborativos para el IoE, como veremos más adelante, que implementen las siguientes cuatro fases de ciber defensa: I). La fase de prevención monitoriza continuamente los sistemas a proteger con la intención de descubrir cualquier vulnerabilidad o error de configuración y así establecer las acciones apropiadas para evitarlos. Incluso en un escenario ideal, sería irrealista considerar sistemas protegidos al 100%. Además, la coexistenciade decenas o centenas de dispositivos incrementa exponencialmente el riesgo de ataque, haciendo esta tarea de monitorización realmente compleja. II). Asumiendo que los sistemas monitorizados a proteger son (o serán) vulnerables, la fase de detección es responsable de identificar y reportar con precisión y rapidez cualquier incidente que implique la explotación de una vulnerabilidad o error de configuración, así como evidencias de actividades sospechosas de preparación para un futuro ataque (reconocimiento activo y pasivo, a veces conocidos también como ataques pasivos). III). Una vez que el incidente ha sido reportado, la fase de reacción debe proporcionar las contramedidas óptimas (eficaces y eficientes) para erradicar el ciber ataque, así como indicar el conjunto de acciones para recuperar y/o proteger el sistema a securizar de tal forma que éste vuelva al mismo estado seguro previo al incidente. IV). Por último, cuando el ataque ya ha sido erradicado y el sistema a proteger ha sido recuperado, la fase forense se encarga de analizar todas las fases anteriores para dilucidar aquello que no funcionó correctamente y evitar así un ataque similar en el futuro, proporcionando feedback a cada fase predecesora. Dicho feedback se utiliza para reconfigurar el sistema, de tal forma que sea más robusto frente a futuros ciber ataques."
+    ]
+  }
+}

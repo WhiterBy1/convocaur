@@ -1,0 +1,32 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/natalia-hernandez-medina",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "natalia.hernandezm@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n12184/silueta+mujer+hub.jpg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001694245"
+  },
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001694245"
+    ]
+  },
+  "id": "natalia-hernandez-medina",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001694245",
+    "cod_rh": "0001694245",
+    "datos_generales": {
+      "Nombre": "Natalia Hernández Medina",
+      "Nombre en citaciones": "HERNÁNDEZ MEDINA, NATALIA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    }
+  }
+}

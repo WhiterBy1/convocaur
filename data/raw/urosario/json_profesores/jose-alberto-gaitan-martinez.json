@@ -1,0 +1,44 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jose-alberto-gaitan-martinez",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra posgrado",
+  "email": "jose.gaitan@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n12151/jose+alberto+gaitan.jfif",
+  "afiliaciones": [
+    "Director Especialización en Derecho Comercial - Facultad de Jurisprudencia - Universidad del Rosario",
+    "Profesor cátedra posgrado - Facultad de Jurisprudencia - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Derecho comercial",
+    "Títulos valores"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Gobierno corporativo y protección jurídica de los accionistas minoritarios en las sociedades anónimas en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La firma digital"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Los títulos valores impropios y los documentos de legitimación"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Títulos valores a la luz de la ley 527 de 1999"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Premio Docencia de Excelencia 'Juan Agustín Uricochea y Navarro'",
+      "fecha": "2016"
+    }
+  ],
+  "id": "jose-alberto-gaitan-martinez",
+  "facultad_csv": "Facultad de Jurisprudencia",
+  "cargo_csv": "Profesor cátedra posgrado"
+}

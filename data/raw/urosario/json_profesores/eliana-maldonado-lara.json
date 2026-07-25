@@ -1,0 +1,81 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/eliana-maldonado-lara",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "eliana.maldonado@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n15042/1574880644333.jpg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001885882",
+    "orcid": "https://orcid.org/0000-0002-3888-6316"
+  },
+  "areas_investigacion": [
+    "Atención hospitalaria",
+    "Enfermedades infecciosas",
+    "Infectología",
+    "Medicina interna",
+    "Práctica clínica"
+  ],
+  "perfil_profesional": "Eliana Maldonado Lara es médica especialista en Medicina Interna e Infectología. Su formación incluye una especialización en Medicina Interna en la Fundación Universitaria San Martín y en Infectología en el Colegio Mayor de Nuestra Señora del Rosario. Ha desarrollado su labor como infectóloga en el Hospital Universitario Mayor - Méderi, donde aplica sus conocimientos en el manejo de enfermedades infecciosas complejas y contribuye a la atención de pacientes en el ámbito hospitalario. Su perfil profesional combina la experiencia en medicina interna con la expertise en el diagnóstico y tratamiento de infecciones, abordando casos que requieren un manejo integral y especializado. A lo largo de su carrera, ha mantenido un compromiso con la atención clínica de calidad y el manejo basado en evidencia de patologías infecciosas, participando en la atención de pacientes en un entorno universitario que integra la asistencia, la docencia y la investigación.",
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Envejecimiento en personas viviendo con VIH pertenecientes a un programa de atención integral en Bogotá D.C.",
+      "fecha": "2020-03-03 - 2023-08-03",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F71a2db72-a656-459a-9bbd-a024286bb738"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Caracterización de viremias detectables en una población con VIH de un programa especial en Bogotá – Colombia entre abril de 2022 y abril de 2023"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001885882"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-3888-6316"
+    ]
+  },
+  "id": "eliana-maldonado-lara",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001885882",
+    "cod_rh": "0001885882",
+    "datos_generales": {
+      "Nombre": "Eliana Maldonado Lara",
+      "Nombre en citaciones": "Eliana Maldonado Lara",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Especialidad Médica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Infectologia Juliode2016 - Septiembrede 2018",
+      "Especialidad Médica Fundacion Universitaria San Martin medicina interna Juniode2008 - Abrilde 2011",
+      "Pregrado/Universitario UNIVERSIDAD DE CALDAS medicina general Enerode2000 - Juniode 2006"
+    ],
+    "experiencia_profesional": [
+      "HOSPITAL UNIVERSITARIO MAYOR MEDERI Dedicación: 12 horas Semanales Agosto de 2010 de",
+      "HOSPITAL UNIVERSITARIO MAYOR MEDERI Dedicación: 12 horas Semanales Agosto de 2010 de"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Otros Temas de Medicina Clínica"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Caso clínico: ELIANA MALDONADO LARA, \"INFECCIÓN PULMONAR POR MYCOBACTERIUM ABSCESSUS COMPLEX\" . En: Colombia Revista Colombiana De Neumología ISSN: 0121-5426 ed: COORDINACIÓN EDITORIAL, COMERCIAL Y DE PRODUCCIÓN v. 32 fasc. NA p.47 - 51 ,2018, DOI: 10.30789/rcneumologia.v30.n1.2018.301",
+        "titulo": "INFECCIÓN PULMONAR POR MYCOBACTERIUM ABSCESSUS COMPLEX",
+        "doi": "10.30789/rcneumologia.v30.n1.2018.301",
+        "anio": "2018"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/clarena-zuluaga-arbelaez",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "clarena.zuluaga@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3876/Captura+de+pantalla+2025-12-17+115752.png",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001535294"
+  },
+  "areas_investigacion": [
+    "Amiloidosis cardíaca",
+    "Epidemiología clínica",
+    "Imagenología molecular",
+    "Medicina nuclear"
+  ],
+  "perfil_profesional": "Clarena Zuluaga Arbeláez es médica especialista en Epidemiología y en Medicina Nuclear, con una trayectoria que integra la práctica clínica de alta complejidad, la investigación y la docencia. Su formación dual le permite abordar el diagnóstico y seguimiento de enfermedades con una perspectiva tanto individual (Medicina Nuclear) como poblacional (Epidemiología). Realizó su especialización en Epidemiología en la Universidad del Rosario, donde desarrolló una investigación sobre el impacto de técnicas quirúrgicas en la recaída local del carcinoma de mama. Posteriormente, se especializó en Medicina Nuclear en la Fundación Universitaria Sanitas. Su práctica clínica se ha desarrollado en instituciones de III y IV nivel de complejidad, donde también participa en la formación de médicos de pregrado y posgrado. Como investigadora, ha publicado artículos en revistas especializadas nacionales e internacionales. Sus trabajos recientes incluyen estudios sobre la utilidad de la gammagrafía de perfusión miocárdica en la evaluación de riesgo cardiovascular en el trasplante hepático y la caracterización clínica de pacientes con amiloidosis cardíaca en Colombia, lo que evidencia su enfoque en la aplicación de la Medicina Nuclear a problemas clínicos complejos.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001535294"
+    ]
+  },
+  "id": "clarena-zuluaga-arbelaez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001535294",
+    "cod_rh": "0001535294",
+    "datos_generales": {
+      "Nombre": "Clarena Zuluaga Arbelaez",
+      "Nombre en citaciones": "ZULUAGA ARBELAEZ, CLARENA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Especialidad Médica FUNDACIÓN UNIVERSITARIA SANITAS ESPECIALIZACION EN MEDICINA NUCLEAR Agostode2014 - Septiembrede 2018",
+      "Especialización COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Epidemiologia Juliode2012 - Diciembrede 2014 Impacto de dos técnicas quirúrgicas sobre la recaída local del carcinoma de mama en pacientes de una clinica de Bogotá.",
+      "Pregrado/Universitario UNIVERSIDAD DEL QUINDÍO MEDICINA Enerode2001 - Juliode 2008"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Epidemiología",
+      "Ciencias Médicas y de la Salud -- Otras Ciencias Médicas -- Otras Ciencias Médicas"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CLARENA ZULUAGA ARBELAEZ, \"GAMMAGRAFÍA DE PERFUSION MIOCARDICA EN LA EVALUACIÓN DEL RIESGO CARDIOVASCULAR EN EL TRASPLANTE HEPÁTICO DE ADULTOS\" . En: Colombia REVISTA ESPAN OLA DE MEDICINA NUCLEAR E IMAGEN MOLECULAR SOCIEDAD ESPAN OLA DE MEDICINA NUCLEAR E IMAGEN MOLECULAR ISSN: 2253-8089 ed: v. 43 fasc. p.1 - 5 ,2024, DOI:",
+        "titulo": "GAMMAGRAFÍA DE PERFUSION MIOCARDICA EN LA EVALUACIÓN DEL RIESGO CARDIOVASCULAR EN EL TRASPLANTE HEPÁTICO DE ADULTOS",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CLARENA ZULUAGA ARBELAEZ, \"Clinical characterization of patients with cardiac amyloidosis in a referral center of Colombia\" . En: Colombia ARCHIVOS DE CARDIOLOGIA DE MEXICO ISSN: 1405-9940 ed: Instituto Nacional de Cardiologia Ignazio Chavez v. 94 fasc. 4 p.451 - 458 ,2024, DOI: 10.24875/ACM.23000236",
+        "titulo": "Clinical characterization of patients with cardiac amyloidosis in a referral center of Colombia",
+        "doi": "10.24875/ACM.23000236",
+        "anio": "2024"
+      }
+    ]
+  }
+}

@@ -1,0 +1,524 @@
+[
+  {
+    "reglas_porcentaje": [],
+    "montos_detectados": [],
+    "rubros_desde_tabla": [
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "Investigación Básica",
+        "descripcion": "1. Observación de los principios básicos."
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "Investigación Aplicada",
+        "descripcion": "3. Prueba experimental del concepto"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "Desarrollo tecnológico",
+        "descripcion": "5. Validación del desarrollo en entorno pertinente."
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "Innovación",
+        "descripcion": "8. Desarrollo completo y certificado"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "ACTIVIDAD DE I+D+i",
+        "descripcion": "TRL"
+      },
+      {
+        "rubro": "Etapa",
+        "descripcion": "MRL"
+      },
+      {
+        "rubro": "Aspectos básicos de manufactura",
+        "descripcion": "1"
+      },
+      {
+        "rubro": "Conceptos básicos de manufactura",
+        "descripcion": "2"
+      },
+      {
+        "rubro": "Desarrollo de la prueba de concepto de manufactura",
+        "descripcion": "3"
+      },
+      {
+        "rubro": "Capacidad de producción de la tecnología en entorno de laboratorio",
+        "descripcion": "4"
+      },
+      {
+        "rubro": "Capacidad de producción de componentes prototipo en entorno relevante",
+        "descripcion": "5"
+      },
+      {
+        "rubro": "Capacidad de producir un sistema o subsistema prototipo en entorno relevante de producción",
+        "descripcion": "6"
+      },
+      {
+        "rubro": "Capacidad de producir sistemas, subsistemas o componentes en un entorno representativo de producción",
+        "descripcion": "7"
+      },
+      {
+        "rubro": "Demostración de la capacidad de la línea piloto; Lista para comenzar la producción inicial a baja tasa.",
+        "descripcion": "8"
+      },
+      {
+        "rubro": "Demostración de producción de baja tasa; capacidad local para empezar la producción a tasa completa",
+        "descripcion": "9"
+      },
+      {
+        "rubro": "Demostración de la tasa completa de producción; Prácticas de producción ajustada en su lugar",
+        "descripcion": "10"
+      }
+    ],
+    "longitud_texto": 30407,
+    "tablas_detectadas": 18,
+    "nombre_documento": "Anexo 4. Niveles de Madurez Tecnológica.",
+    "subtipo_anexo": "tecnico",
+    "url_pdf": "https://minciencias.gov.co/sites/default/files/upload/convocatoria/anexo_4_niveles_de_madurez_tecnologica.pdf"
+  },
+  {
+    "reglas_porcentaje": [],
+    "montos_detectados": [],
+    "rubros_desde_tabla": [
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Título del proyecto",
+        "descripcion": "El título es la primera referencia del proyecto, por lo que debe describir el tema y el trabajo a realizar. Para ello es importante tener en cuenta el contenido de la propuesta y la finalidad que se busca cumplir con la ejecución del proyecto. Se recomienda utilizar un máximo de 250 caracteres para el título."
+      },
+      {
+        "rubro": "Eje temático y línea temática",
+        "descripcion": "Las propuestas presentadas podrán seleccionar un eje temático (Inteligencia Artificial o Tecnologías Aeroespaciales) y elegir una de las líneas temáticas pertenecientes a cada uno de los ejes descritos en los términos de referencia de la presente convocatoria."
+      },
+      {
+        "rubro": "Justificación del eje y la línea temática",
+        "descripcion": "Argumentar las razones por las cuales consideran que el proyecto se ajusta al eje y línea temática seleccionada. La justificación del eje y la línea temática debe ser de máximo 500 palabras."
+      },
+      {
+        "rubro": "Duración",
+        "descripcion": "Se debe determinar claramente el tiempo de duración del proyecto que para efectos de la presente convocatoria será de hasta dieciocho (18) meses."
+      },
+      {
+        "rubro": "Nivel de Madurez Tecnológica",
+        "descripcion": "Seleccionar el Nivel de Madurez Tecnológica o TRL (Technology Readiness Level) que se pretende alcanzar con la ejecución del proyecto, de acuerdo con sus alcances principales y en relación con sus resultados y productos esperados, indicar: ● TRL inicial ● TRL esperado al finalizar la ejecución"
+      },
+      {
+        "rubro": "Investigador Principal",
+        "descripcion": "La entidad ejecutora del proyecto debe registrar (PERFIL OBLIGATORIO PARA LA PRESENTE CONVOCATORIA) en el formulario electrónico el Investigador Principal, como mínimo se deberá registrar la siguiente información: ● Formación y experiencia profesional. ● El rol, la especialidad, función, actividad y tiempo de dedicación a la labor o función que desarrollará en el proyecto. Presentar la capacidad técnica. Esto significa, conocer su importancia estratégica y logros a partir de proyectos realizados anteriormente,"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Equipo de Trabajo Técnico - Científico",
+        "descripcion": "Especificar la(s) persona(s) responsable(s) y sus roles específicos en el desarrollo de las actividades científicas y técnicas del proyecto."
+      },
+      {
+        "rubro": "Equipo de Trabajo financiero- administrativo",
+        "descripcion": "Especificar la(s) persona(s) responsable(s) y sus roles específicos en el desarrollo de las actividades financieras y administrativas asociadas a la ejecución del proyecto."
+      },
+      {
+        "rubro": "Equipo de trabajo enfoque diferencial",
+        "descripcion": "Especificar la(s) persona(s) responsable(s) y sus roles específicos en el desarrollo de las actividades que cuenten con enfoque diferencial."
+      },
+      {
+        "rubro": "Nombre de la tecnología",
+        "descripcion": "El nombre de la tecnología puede presentarse de forma resumida, como una sigla, o con el nombre de la marca (registrada) en caso de que exista, o el nombre comercial que se espera o desea emplear"
+      },
+      {
+        "rubro": "Estado de desarrollo de la tecnología / innovación",
+        "descripcion": "En esta sección se describe el Estado de Desarrollo de la propuesta de tecnología o innovación, que haya demostrado su eficacia mediante pruebas piloto en entornos controlados y por tanto, posee el potencial de ser escalado para su validación en entorno operativo y comercial. El contenido del Estado de desarrollo de la tecnología o del producto debe ser de máximo 2000 palabras. Describir el prototipo, escalado, aclarando el tamaño, volumen o características actuales del equipo, dispositivo, proceso, entre otros."
+      },
+      {
+        "rubro": "Monto solicitado",
+        "descripcion": "La entidad ejecutora del proyecto debe registrar en el formulario electrónico cuál es el valor total del proyecto y discriminar allí el valor de financiación solicitado y el valor de contrapartida a aportar."
+      },
+      {
+        "rubro": "Grado de novedad y diferenciación",
+        "descripcion": "En este ítem, las entidades que hacen parte del proyecto deberán contestar las siguientes preguntas: · ¿Cuál es el valor agregado del proyecto presentado, con respecto a lo existente en el mercado? · ¿Cuál es la diferencia del proyecto postulado, cual es el mejoramiento de productos y servicios o nivelación con respecto a los competidores existentes en el mercado?."
+      },
+      {
+        "rubro": "Aplicaciones y usuarios",
+        "descripcion": "Se deberán detallar las comunidad que serán parte de este proyecto, que serían potenciales usuarios, especificando tipos de entidades, Asociaciones, Corporaciones, Cooperativas, Agremiaciones y Federaciones, Consejos Comunitarios de Comunidades Negras, regiones, territorios, entre otros, perfiles de usuarios finales. Describir el nombre de las organizaciones y los objetivos que ésta persigue, años de existencia, el número de personas que constituyen la organización y el número de personas que harán parte del proyecto."
+      },
+      {
+        "rubro": "Beneficios y ventajas para las comunidades y/u Organizaciones",
+        "descripcion": "● Descripción de los beneficios económicos, sociales, ambientales que generará la propuesta de solución, el que debe ser coherente con el público objetivo. ● Cuantificación objetiva y debidamente justificada, de la magnitud de los beneficios ● Identificación, cuantificación y relevancia (objetiva y"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Lugar de ejecución",
+        "descripcion": "Se debe determinar el lugar geográfico en el que se desarrollará el proyecto dentro del territorio nacional."
+      },
+      {
+        "rubro": "Área OCDE",
+        "descripcion": "De acuerdo con la clasificación de Áreas Científicas según la Organización para la Cooperación y el Desarrollo Económicos (OCDE), se identifican seis grandes áreas: 1- Ciencias Naturales; 2- Ingeniería y Tecnología; 3- Ciencias Médicas y de la Salud; 4- Ciencias Agrícolas; 5- Ciencias Sociales; 6- Humanidades. Se solicita que los proponentes indiquen a cuál de estas grandes áreas corresponde su propuesta."
+      },
+      {
+        "rubro": "Resumen del proyecto",
+        "descripcion": "Resumir en máximo de 500 palabras la información necesaria para explicar en qué consiste el problema, oportunidad o necesidad, cómo cree que lo resolverá, cuáles son las razones que justifican su ejecución y las herramientas que se utilizarán en el desarrollo del proyecto."
+      },
+      {
+        "rubro": "Descripción del problema, desafío u oportunidad identificado en las comunidades y/u Organizaciones.",
+        "descripcion": "Se deberá proporcionar información detallada sobre la problemática específica que se desea abordar en las comunidades y/u organizaciones en las regiones de interés. Esto puede incluir datos relevantes, estadísticas, análisis del contexto local y descripciones claras de los desafíos que enfrentan las comunidades u organizaciones en cuestión. El planteamiento del problema permite identificar la necesidad y/o oportunidad de realizar el estudio y debe ser formulado de manera clara y concreta permitiendo identificar la necesidad u oportunidad que se quiere suplir con el desarrollo del proyecto y la incertidumbre científico/tecnológica cuya solución o entendimiento contribuirá con la materialización de conocimiento disponible en un bien o servicio tangible a nivel prototipo o piloto. Se deberá evidenciar que existe un reto en la materialización de una solución teórica, que amerite una etapa de desarrollo y validación de la misma antes de implementarla. Para esta etapa es necesario revisar los antecedentes e importancia del tema a investigar, los estudios previos realizados a nivel nacional e internacional y la forma como el desarrollo de la presente investigación permitirá la materialización del conocimiento en un bien o servicio que satisfaga una necesidad en el mediano plazo. Para los proyectos de innovación deberá evidenciarse que existe un reto, necesidad u oportunidad que se suplirá con la solución desarrollada. Para esta etapa es necesario revisar las soluciones disponibles en el mercado y la necesidad identificada, y realizar un proceso de vigilancia tecnológica"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Propuesta de solución para las comunidades y/u Organizaciones",
+        "descripcion": "Se debe explicar por qué la aplicación de la Inteligencia Artificial o Tecnologías Aeroespaciales es una solución adecuada para abordar la problemática identificada. Esto implica demostrar cómo estas tecnologías pueden ofrecer beneficios tangibles y resolver eficazmente los desafíos específicos planteados, en comparación con otras posibles soluciones. Se deberá detallar la solución propuesta utilizando inteligencia artificial o Tecnologías Aeroespaciales. Esto incluye explicar el enfoque metodológico y técnicas de Inteligencia Artificial que se utilizarán, así como la forma en que se aplicarán en el contexto local para resolver la problemática identificada. Así mismo, se debe explicar cómo se involucrarán a las comunidades locales y/o a las organizaciones beneficiarias en el diseño e implementación de la solución propuesta."
+      },
+      {
+        "rubro": "Justificación",
+        "descripcion": "Factores que hacen necesario y pertinente la realización del proyecto"
+      },
+      {
+        "rubro": "Marco conceptual",
+        "descripcion": "Aspectos conceptuales y teóricos que contextualicen la pregunta o problema en una temática, así como otros aspectos que sean pertinentes a juicio de los proponentes."
+      },
+      {
+        "rubro": "Estado del arte",
+        "descripcion": "Un estado del arte debe contener entre otros elementos: 1.Análisis de la información científica disponible sobre el tema, con el objetivo de corroborar que existe en realidad un reto en la materialización de estas soluciones e identificar las principales tendencias, conceptos, atributos, procesos y productos que permitan evidenciar la novedad de la solución planteada. Para ello deberán realizarse búsquedas sistemáticas de la literatura científica que permita identificar los principales conceptos y tendencias en este campo. Recuerde que un estado del arte debe incluir a los autores más reconocidos en la temática y un análisis de los trabajos publicados en los últimos cinco años, al igual que describir los principales componentes y elementos de las soluciones existentes. 2. La manera como se ha abordado el tema en investigaciones y/o proyectos previos. En este caso se debe documentar los resultados y métodos utilizados en las investigaciones que más se acerquen al tema objeto de estudio y/o a los posibles prototipos o plantas pilotos desarrolladas o los productos, procesos o modelos organizacionales disponibles en el mercado o patentes de productos similares, de manera"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Objetivos (general y específicos)",
+        "descripcion": "Los objetivos definen lo que se pretende lograr con el desarrollo del proyecto y se convierten en una guía durante su ejecución pues definen el alcance del mismo. El objetivo general del proyecto es uno solo y debe establecer qué se pretende alcanzar con la propuesta. Los objetivos específicos definen los aspectos, fases y/o etapas principales que se necesitan para alcanzar el objetivo general."
+      },
+      {
+        "rubro": "Metodología propuesta",
+        "descripcion": "La metodología define el camino a seguir para alcanzar los objetivos propuestos, y debe identificar y describir el uso de métodos, procedimientos, técnicas analíticas cualitativas y cuantitativas que se utilizarán para alcanzar cada uno de los objetivos específicos. Se recomienda redactar la metodología por objetivo específico y definir para cada uno de ellos, el procedimiento, técnica o herramienta a utilizar; por ejemplo, observaciones, encuestas, entrevistas, diseños de experimentos, simulaciones, validaciones, pruebas, ensayos y otros, las variables a analizar cuando aplique y la información o datos que aspira a obtener y los resultados. El contenido del planteamiento de la metodología debe ser de máximo 2000 palabras."
+      },
+      {
+        "rubro": "Resultados esperados",
+        "descripcion": "Conocimiento generado en el cumplimiento de cada uno de los objetivos. En este ítem se deben diligenciar los resultados del proyecto y deben ser consistentes con los objetivos de la convocatoria."
+      },
+      {
+        "rubro": "Beneficios o productos esperados",
+        "descripcion": "Los proponentes deben identificar y describir los beneficios que se esperan lograr como resultado directo del proyecto. Estos beneficios pueden incluir mejoras en la calidad de vida de las comunidades involucradas, aumento de la eficiencia en los procesos organizacionales,"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Impacto ambiental",
+        "descripcion": "Identificar los efectos que tiene el desarrollo del proyecto ya sea positivos o negativos. En el caso de que el proyecto identifique un impacto ambiental negativo deberá identificar si es necesario obtener los permisos y autorizaciones ambientales emitidas por las autoridades competentes que habiliten el desarrollo del proyecto. Se recomienda establecer las acciones pertinentes para mitigar los impactos negativos ambientales identificados y anexar el respectivo permiso ambiental cuando aplique. En caso de no requerir un permiso para la ejecución del proyecto, se debe manifestar en el registro del proyecto los aspectos ambientales indicando cómo el desarrollo del proyecto da cumplimiento al concepto de desarrollo sostenible (Ley 99 de 1993 en el artículo 3º). Si un proyecto que requiere un permiso especial para su ejecución, no lo adjunta en la propuesta registrada en el SIGP, su propuesta podrá ser rechazada por incumplimiento de los requisitos establecidos por ley. El tamaño de la sección Impacto Ambiental del Proyecto es de máximo 500 palabras."
+      },
+      {
+        "rubro": "Impactos de los resultados en las comunidades y/u Organizaciones",
+        "descripcion": "Como impacto de los proyectos se espera un mayor valor agregado que se traduzca en mejores beneficios para las organizaciones o comunidades. Relacionar los posibles impactos esperados, que se lograrán en el mediano y largo plazo como resultado del conocimiento adquirido en el desarrollo tecnológico o innovación una vez finalice el proyecto. Es importante identificar para cada impacto, los indicadores cualitativos y cuantitativos verificables. Impactos en el conocimiento del campo de estudio; impactos sobre la productividad y la competitividad; impactos regionales; impactos en la calidad de vida de la población; impactos en las políticas públicas; otros que consideren pertinentes."
+      },
+      {
+        "rubro": "Estrategia de sostenibilidad",
+        "descripcion": "Describa las actividades qué se realizarán para construir un plan con la comunidad que permita generar, en el tiempo de implementación y posterior a este, condiciones para proyectar la sostenibilidad del proyecto en términos económicos, técnicos y sociales. Indique la posibilidad de qué otros actores, que no sean ejecutores de la propuesta, podrían vincular para acompañar el desarrollo del proyecto o"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Beneficios o productos esperados, entregables para las comunidades y/u Organizaciones",
+        "descripcion": "Los proponentes deben identificar y describir los productos que se espera que las comunidades locales obtengan como resultado directo del proyecto. Esto puede incluir mejoras en la calidad de vida, acceso a servicios básicos, fortalecimiento de capacidades, generación de empleo, entre otros. Es importante que estos beneficios estén claramente vinculados a las necesidades y prioridades identificadas por las propias comunidades y contribuyan a su desarrollo sostenible y bienestar general. Se solicita a los proponentes que identifiquen y describan los beneficios que se espera que las organizaciones involucradas en el proyecto obtengan como resultado directo del mismo. Esto puede incluir mejoras en la eficiencia operativa, optimización de recursos, desarrollo de capacidades institucionales, acceso a nuevas tecnologías, entre otros. Es fundamental que estos beneficios contribuyan al fortalecimiento y la sostenibilidad de las organizaciones en el cumplimiento de su misión y objetivos."
+      },
+      {
+        "rubro": "Estrategia de apropiación y uso de la tecnología desarrollada en las comunidades y/u Organizaciones",
+        "descripcion": "Se requiere que los proponentes presenten una descripción detallada de cómo planean garantizar que la tecnología desarrollada como parte del proyecto sea apropiada y utilizada de manera efectiva por las comunidades y/u organizaciones beneficiarias. Los proponentes deben explicar cómo se involucrarán activamente a las comunidades y/u organizaciones desde las etapas iniciales del proyecto hasta la implementación y más allá. Además, se espera que los proponentes aborden las barreras potenciales para la adopción de la tecnología, como la accesibilidad, la aceptabilidad cultural y la capacitación técnica. Es fundamental que la estrategia de apropiación y"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Componente de Estrategia de formación y uso de la Tecnología en las Comunidades",
+        "descripcion": "Cada propuesta de proyecto deberá incluir una Estrategia de formación y fortalecimiento de capacidades que promueva la apropiación social de conocimiento en las comunidades y organizaciones beneficiarias, con un énfasis especial en programación y matemáticas. Esta estrategia deberá estar claramente descrita en el contenido técnico-científico del proyecto y, como mínimo, contemplar los siguientes elementos: 1. Población objetivo o Incluir al menos 200 niños, niñas o jóvenes procedentes de la(s) comunidad(es) del área de influencia del proyecto. 2. Objetivo formativo o Desarrollar y reforzar competencias básicas en programación (lógica de programación, desarrollo de algoritmos) y matemáticas (resolución de problemas, pensamiento computacional), orientadas a la comprensión y el uso adecuado de la tecnología que se implemente. 3. Estructura de formación o Metodología: Describir la cantidad de sesiones la cuales deberán ser presenciales o híbridas (virtuales y presenciales), así como el enfoque pedagógico. o Duración total: Indicar las horas de formación previstas y su distribución en el tiempo. o Recursos didácticos y tecnológicos: Identificar las herramientas y materiales necesarios para la capacitación, asegurando su pertinencia y accesibilidad para la población objetivo. 4. Plan de evaluación y seguimiento o Definir indicadores que permitan medir la asistencia, la permanencia y la apropiación de los contenidos impartidos. o Establecer mecanismos de retroalimentación y mejoras continuas para garantizar la calidad y la eficacia de la estrategia formativa. 5. Articulación con los objetivos del proyecto o Explicar cómo esta iniciativa de formación contribuye a la sostenibilidad y adopción de la solución tecnológica desarrollada en el marco del proyecto. o Fomentar la vinculación de la comunidad educativa y/o semilleros de investigación para dar continuidad a las actividades más allá del periodo"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Propiedad Intelectual",
+        "descripcion": "Se refiere a las creaciones derivadas del intelecto humano en los terrenos industrial, científico, literario y artístico, los cuales son susceptibles de protección o reglamentación para su uso, apropiación o difusión. La generación de bienes susceptibles de ser protegidos por derechos de propiedad intelectual implica que, en la planeación y ejecución del proyecto, debe tenerse en cuenta quienes serán los titulares de estos derechos y cómo esto tiene influencia en el desarrollo del respectivo proyecto. La propuesta deberá incluir, como mínimo: ● Identificación preliminar de resultados susceptibles de protección. ● Indicación de los titulares propuestos de dichos resultados y criterios de distribución entre los ejecutores, en concordancia con lo previsto en los Términos de Referencia. ● Estrategia general de protección (indicando la figura de propiedad intelectual más adecuada: derecho de autor, patente, modelo de utilidad, diseño industrial, etc.) y eventual explotación de los resultados."
+      },
+      {
+        "rubro": "Riesgos del proyecto",
+        "descripcion": "En este ítem, se solicita registrar los principales riesgos que las entidades han identificado que podrían impactar en la ejecución del proyecto y las actividades o puntos de control para su mitigación. Esta información es necesaria para el seguimiento al proyecto. Para el caso de la evaluación de las propuestas, los evaluadores verificarán que los riesgos identificados permitan reducir la incertidumbre de alcanzar los objetivos planteados."
+      },
+      {
+        "rubro": "Cronograma",
+        "descripcion": "Relacionar las principales actividades a realizar en función de los objetivos específicos, la metodología, los resultados y acotarlas en un periodo de tiempo, de tal manera que permita observar toda la ejecución del proyecto y conocer el estado de avance. Es preciso tener en cuenta posibles contingencias y mostrar las actividades requeridas en forma coherente con las actividades descritas en la metodología."
+      },
+      {
+        "rubro": "Bibliografía",
+        "descripcion": "Relacionar las fuentes de información científica y/o tecnológica relevantes, vigentes y/o actualizadas que fueron consultadas y/o citadas en el texto del proyecto. Se recomienda utilizar fuentes reconocidas por la comunidad científica y tecnológica nacional o internacional y los"
+      },
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Presupuesto",
+        "descripcion": "El presupuesto del proyecto da el respaldo financiero a la propuesta y se convierte en una de las restricciones que acotan el alcance del proyecto, es por esta razón que debe estar directamente relacionado con cada una de las actividades definidas en la metodología y los recursos que se requieren para alcanzar los objetivos. En el formulario del proyecto, la entidad deberá registrar por vigencia fiscal los valores de la inversión en el proyecto enmarcados en los rubros descritos en el Anexo 4. Es importante registrar el proveedor cuando se realice compra a otras entidades y la justificación de porqué es necesario este rubro en el proyecto y su relación con la metodología y actividades propuestas. De igual manera se recomienda desglosar los rubros a detalle y no agrupar las inversiones en grandes rubros."
+      }
+    ],
+    "longitud_texto": 28131,
+    "tablas_detectadas": 10,
+    "nombre_documento": "Anexo 6: Contenido técnico de la propuesta del proyecto.",
+    "subtipo_anexo": "tecnico",
+    "url_pdf": "https://minciencias.gov.co/sites/default/files/upload/convocatoria/anexo_6._contenido_tecnico_de_la_propuesta_del_proyecto_1.pdf"
+  },
+  {
+    "reglas_porcentaje": [
+      {
+        "tipo_regla": "minimo_obligatorio_pct",
+        "valor_pct": 5,
+        "contexto_previo": "El conocimiento valor de este rubro debe corresponder como"
+      },
+      {
+        "tipo_regla": "minimo_obligatorio_pct",
+        "valor_pct": 7,
+        "contexto_previo": ". El valor de este formación y rubro debe corresponder como"
+      },
+      {
+        "tipo_regla": "maximo_pct",
+        "valor_pct": 50,
+        "contexto_previo": "los resultados. Este rubro sumado con el personal de apoyo"
+      }
+    ],
+    "montos_detectados": [],
+    "rubros_desde_tabla": [
+      {
+        "rubro": "Personal",
+        "descripcion": "Costo del personal y/o pago de honorarios de profesionales que realizarán labores directas y exclusivas para el desarrollo del proyecto y cuya participación sea necesaria para la obtención de los resultados. Este rubro sumado con el personal de apoyo no podrá ser mayor al 50% del total de los recursos solicitados en financiación. Independientemente del tipo de contratación del personal, siempre y cuando cumpla con la normatividad laboral vigente, los recursos deben valorarse y atender a la normatividad aplicable. Científico-técnico: Conformado por el Investigador Principal o Gerente del proyecto, Desarrolladores, coordinador y/o asesores nacionales que realiza actividades directas de Ciencia, Tecnología e Innovación en el proyecto encaminadas al alcance de los objetivos. Identifique el valor del personal por cada vigencia fiscal del proyecto. En el caso que se destinen recursos humanos directamente vinculados a las empresas, se deberá demostrar el tiempo destinado para el proyecto por medio de bitácora de seguimiento y presentación de responsabilidades directamente vinculadas con el proyecto. De apoyo: Conformado por auxiliares de investigación, personal de campo, estudiantes. etc., que realizan actividades indirectas de ciencia, tecnología e innovación."
+      },
+      {
+        "rubro": "Materiales e insumos",
+        "descripcion": "Incluye el costo de adquisición de los materiales, elementos de laboratorio y/o campo e insumos necesarios para el desarrollo del proyecto, que sean bienes consumibles durante la ejecución del mismo, que estén justificados en la metodología y no constituyan bienes de capital. Para la adquisición de insumos, bienes fungibles y demás elementos necesarios para el desarrollo de algunas actividades previstas, deben registrarse en el proyecto el listado detallado agrupado por categorías sobre las cuales la descripción debe dar cuenta de la necesidad y cantidad (Ej. consumibles, reactivos, herramientas, elementos de protección, controles e instrumentación, accesorios, material biológico, audiovisual, de laboratorio y de campo, entre otros). No se incluyen los materiales e insumos adquiridos previamente a la ejecución del proyecto o que no tengan relación con el proyecto."
+      },
+      {
+        "rubro": "Servicios tecnológicos",
+        "descripcion": "Pago de servicios tecnológicos nacionales o internacionales para la obtención de: modelos, metodologías, pruebas de laboratorio que sean requeridos para el desarrollo y obtención de resultados previstos por el proyecto, de manera cuantificable y verificable, y que estén claramente relacionados y valorados en el proyecto. Su ejecución debe ser realizada por persona jurídica especializada en el servicio tecnológico requerido."
+      },
+      {
+        "rubro": "Asesoría Especializada",
+        "descripcion": "Personal experto, nacional o internacional, que realiza actividades científicas y/o tecnológicas específicas, que son claves para el desarrollo del proyecto. Se debe explicar en forma clara el objetivo de la participación del experto y las diferentes tareas encomendadas con sus entregables (distribución de responsabilidades)."
+      },
+      {
+        "rubro": "Equipos especializados",
+        "descripcion": "Aquellos necesarios para el desarrollo del proyecto de I+D+i, los cuales pueden ser adquiridos a cualquier título. La financiación para compra de equipos nuevos deberá estar sustentada en la estricta necesidad de los mismos para el desarrollo del proyecto. Se incluye la instalación, servicios conexos y puesta en funcionamiento cuando así lo requieran. La alianza mínima deberá identificar en la carta de aval la disposición final y propiedad de los equipos adquiridos en el marco del proyecto de I+D+i."
+      },
+      {
+        "rubro": "Salidas de campo",
+        "descripcion": "Costos asociados al levantamiento de información en campo, desde fuentes primarias o secundarias para la consecución de los objetivos del proyecto"
+      },
+      {
+        "rubro": "Gastos de desplazamiento",
+        "descripcion": "Se refiere a los gastos de transporte (tiquetes nacionales e internacionales) y viáticos relacionados con las actividades propuestas en el componente científico- técnico del proyecto de I+D+i (capacitaciones, estancias cortas de máximo tres meses de duración en instituciones académicas nacionales o extranjeras y participación en eventos científicos). Estos gastos solo se cubren para personal del equipo científico autorizado por el Ministerio de Ciencia, Tecnología e Innovación. Se deberán relacionar los viajes estrictamente necesarios para la ejecución exitosa del proyecto y la generación de productos y resultados"
+      },
+      {
+        "rubro": "Capacitación",
+        "descripcion": "Formación y actualización del personal técnico de la entidad que participa en el proyecto para las actividades necesarias en su ejecución y la participación en cursos específicos. No se reconocen actividades logísticas, ni la capacitación ofrecida por personal directamente la entidad ejecutora. Tampoco los cursos ofrecidos a personal administrativo. Así como también los cursos de capacitación no mencionados en la metodología."
+      },
+      {
+        "rubro": "Estrategia de difusión y apropiación social del conocimiento",
+        "descripcion": "Contempla estrictamente los costos asociados a las actividades para la apropiación y uso de las tecnologías desarrolladas a las comunidades y la transferencia de conocimiento de los resultados esperados que se generen con el proyecto de investigación, desarrollo tecnológico o innovación. El valor de este rubro debe corresponder como MÍNIMO AL 5% DEL VALOR TOTAL DEL PROYECTO,LA UTILIZACIÓN DE ESTE RUBRO ES OBLIGATORIA."
+      },
+      {
+        "rubro": "Componente de formación y fortalecimiento de capacidades",
+        "descripcion": "Contempla estrictamente los costos asociados a las actividades para componente de formación y fortalecimiento de capacidades. El valor de este rubro debe corresponder como MÍNIMO AL 7% DEL VALOR TOTAL DEL PROYECTO,LA UTILIZACIÓN DE ESTE RUBRO ES OBLIGATORIA."
+      },
+      {
+        "rubro": "Bibliografía",
+        "descripcion": "Solo la relacionada con el proyecto de carácter científico o tecnológico. Se reconocerá en este rubro la suscripción a redes de información para consulta de bases de datos y redes especializadas necesarias para la ejecución del proyecto."
+      },
+      {
+        "rubro": "Prototipado y validación técnico- comercial",
+        "descripcion": "Costos asociados con la creación de un prototipo y su validación tanto técnica como comercial. El objetivo es desarrollar un modelo funcional de la tecnología o solución propuesta y someterlo a pruebas rigurosas para asegurar su eficacia y viabilidad en el mercado."
+      },
+      {
+        "rubro": "Adecuación de laboratorios y plantas piloto",
+        "descripcion": "Gastos destinados a adecuar laboratorios, parcelas y plantas piloto necesarios para la ejecución del proyecto, por un valor que no supere el 10% del total de los recursos solicitados en financiación. (no se reconoce la adecuación de oficinas, reordenamientos de “lay out” de la planta o distribución de planta, muebles de oficina, estantería entre otros)."
+      },
+      {
+        "rubro": "Empaquetamie nto técnico- comercial e",
+        "descripcion": "Incluye el ensamblaje y la coordinación de diferentes tecnologías para formar una solución integral. También incluye la preparación de la"
+      },
+      {
+        "rubro": "integración de tecnologías",
+        "descripcion": "tecnología para su introducción en el mercado, lo que puede incluir el diseño de empaques, manuales y otros elementos comerciales."
+      },
+      {
+        "rubro": "Escalamiento de la tecnología",
+        "descripcion": "Costos y actividades necesarias para llevar una tecnología desde un prototipo o piloto a una escala mayor de operación/producción, validándola en condiciones reales"
+      },
+      {
+        "rubro": "Certificaciones (normas sanitarias, eléctricas y otras técnicas en general).",
+        "descripcion": "Esto podría incluir certificaciones de seguridad, sanitarias, eléctricas y otros estándares técnicos que puedan ser necesarios para el mercado objetivo, sin incluir los gastos de implementación de dichas normas. (Se reconocerán si son una actividad necesaria para la ejecución o como resultado del proyecto y no el proyecto en sí mismo)."
+      },
+      {
+        "rubro": "Gastos de propiedad intelectual",
+        "descripcion": "Gastos de patentamiento de los resultados del proyecto o registro de propiedad industrial Nacional. Costos relacionados con los resultados del proyecto, tales como: búsqueda en el estado de la técnica, solicitud y demás actuaciones tendientes a la obtención de nuevas creaciones en Colombia y/o en el exterior (para acceder al beneficio por inversión en PI, en el exterior, específicamente patentes, se requiere que Colombia sea un país designado dentro de la solicitud PCT), tales como: redacción, traducciones para la solicitud, pago de tasas y asesoría legal. El rubro contempla los costos y actividades propias del registro ante la Superintendencia de Industria y Comercio y entidades autorizadas en materia de propiedad industrial y/o derechos de autor, una vez se han obtenido los resultados y se requiere realizar dicho trámite. En escenarios de cotitularidad, la propuesta deberá indicar de manera explícita cómo se coordinará la gestión, administración y sostenimiento de los derechos de propiedad intelectual derivados, en particular aquellos asociados a propiedad industrial que implican el pago de tasas de trámite y mantenimiento. Adicionalmente, considerando que la convocatoria contempla como producto la publicación de un artículo científico, la propuesta deberá prever la articulación entre la estrategia de protección y la estrategia de divulgación, de forma que se reduzcan riesgos de pérdida de novedad o afectación de la patentabilidad en eventuales solicitudes de patente u otros mecanismos de protección."
+      },
+      {
+        "rubro": "Vinculación Joven Investigador/In novador",
+        "descripcion": "Rubro con destinación específica para el apoyo a la vinculación de Jóvenes Investigadores e Innovadores según el numeral 10-DURACIÓN Y RECURSOS de los Términos de Referencia de esta convocatoria. La Entidad Ejecutora garantizará el pago de la beca pasantía del Joven Investigador e Innovador en los montos señalados en la presente convocatoria."
+      },
+      {
+        "rubro": "Apoyo económico estancias posdoctorales",
+        "descripcion": "Rubro con destinación específica para el apoyo a la vinculación de doctores de estancias posdoctorales según el numeral 10-DURACIÓN Y RECURSOS de los Términos de Referencia de esta convocatoria."
+      },
+      {
+        "rubro": "Apoyo económico estudiantes de maestría",
+        "descripcion": "Rubro con destinación específica para el apoyo a la vinculación de estudiantes de maestría según el numeral 10-DURACIÓN Y RECURSOS de los Términos de Referencia de esta convocatoria."
+      },
+      {
+        "rubro": "Semilleros de investigación",
+        "descripcion": "Rubro con destinación específica para el apoyo a semilleros de investigación en actividades formativas, desarrollo de ejercicios de investigación o prototipos iniciales, adquisición de insumos o herramientas necesarias para el trabajo investigativo, participación en eventos científicos, acciones de apropiación social del conocimiento, entre otros con el propósito de consolidar capacidades científicas en etapas tempranas y facilitar la articulación de los estudiantes con grupos de investigación y el ecosistema del Sistema Nacional de Ciencia, Tecnología e Innovación."
+      }
+    ],
+    "longitud_texto": 18130,
+    "tablas_detectadas": 5,
+    "nombre_documento": "Anexo 7: Rubros financiables.",
+    "subtipo_anexo": "finanzas",
+    "url_pdf": "https://minciencias.gov.co/sites/default/files/upload/convocatoria/anexo_7._rubros_financiables_1.pdf"
+  },
+  {
+    "reglas_porcentaje": [],
+    "montos_detectados": [],
+    "rubros_desde_tabla": [
+      {
+        "rubro": "Ítem",
+        "descripcion": "Descripción"
+      },
+      {
+        "rubro": "Título de la propuesta",
+        "descripcion": "El título es la primera referencia de la propuesta, por lo cual debe describir el tema y el trabajo a realizar. Para ello es importante tener en cuenta el contenido y la finalidad que se busca cumplir con la ejecución de la propuesta. Se recomienda utilizar un máximo de 250 caracteres para el título."
+      },
+      {
+        "rubro": "Resumen ejecutivo",
+        "descripcion": "Resumir en máximo 500 palabras la información necesaria para explicar en qué consiste el problema, oportunidad o necesidad, cómo cree que lo resolverá, cuáles son las razones que justifican su ejecución, y las herramientas que se utilizarán en el desarrollo del proyecto de investigación."
+      },
+      {
+        "rubro": "Palabras clave",
+        "descripcion": "Definir las palabras clave utilizadas en la presentación de la propuesta de investigación. (máximo 5)."
+      },
+      {
+        "rubro": "Articulación de la propuesta con las Misiones de la Política de Investigación e Innovación del Ministerio1",
+        "descripcion": "Describir la articulación de la propuesta con una o más de la/s Misiones de la Política de Investigación e Innovación Orientada por Misiones (PIIOM) del Ministerio."
+      },
+      {
+        "rubro": "Articulación de actores de Ciencia, Tecnología e Innovación durante la ejecución de la propuesta",
+        "descripcion": "La propuesta contempla la participación de actores del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTeI) promoviendo la eficiencia mediante un trabajo conjunto entre si."
+      },
+      {
+        "rubro": "Área OCDE",
+        "descripcion": "Incluir la gran área, el área y la disciplina en las que se articule el proyecto, de acuerdo con la Clasificación de Áreas Científicas según la Organización para la Cooperación y el Desarrollo Económicos (OCDE). Anexo 3."
+      },
+      {
+        "rubro": "Identificación y descripción del problema",
+        "descripcion": "Identificación y descripción del problema que se busca solucionar con la propuesta. El problema debe ir relacionado a un tema de interés a nivel nacional, teniendo en cuenta que los resultados deben tener relación directa con la solución planteada en el marco de la propuesta de I+D+i. El problema debe ser pertinente, claro, posible de abordar con los recursos y el tiempo dispuestos en la propuesta."
+      },
+      {
+        "rubro": "Antecedentes",
+        "descripcion": "Describir los antecedentes de la propuesta en relación con la identificación y descripción del problema."
+      },
+      {
+        "rubro": "Justificación",
+        "descripcion": "Describir los factores que hacen pertinente la realización de la propuesta y su contribución a la investigación. Realizar una justificación concisa, entre 500 y 1000 palabras."
+      },
+      {
+        "rubro": "Marco teórico",
+        "descripcion": "Describir de manera breve los aspectos teóricos que enmarcan el problema, necesidad u oportunidad abordado por la propuesta. En este apartado, se debe contextualizar el problema a partir del estudio de bases conceptuales, antecedentes o teorías previas, identificando brechas y nuevas oportunidades en el área de investigación."
+      },
+      {
+        "rubro": "Objetivos (general y específicos)",
+        "descripcion": "Los objetivos definen lo que se pretende lograr con el desarrollo del proyecto y se convierten en una guía durante su ejecución pues definen el alcance del mismo. El objetivo general es uno solo y debe establecer qué se pretende alcanzar. Los objetivos específicos definen los aspectos, fases y/o etapas principales que se necesitan para alcanzar el objetivo general."
+      },
+      {
+        "rubro": "Alcance de la propuesta",
+        "descripcion": "Describa el alcance de la propuesta teniendo en cuenta la articulación de la propuesta con una o más de la/s Misiones de la Política de Investigación e Innovación Orientada por Misiones (PIIOM) del Ministerio y con la línea temática y programa de formación al cual fue admitido."
+      },
+      {
+        "rubro": "Lugar de ejecución de la propuesta",
+        "descripcion": "Indique en su propuesta de investigación, desarrollo y/o innovación el lugar donde será desarrollada la propuesta."
+      },
+      {
+        "rubro": "Resultados esperados y productos I+D+i",
+        "descripcion": "Para el desarrollo del presente apartado se deben tener en cuenta los resultados en materia de Ciencia, Tecnología e Innovación. Estos resultados deben estar alineados con las tipologías de productos que se establecen en el Anexo No.1 de la convocatoria 957 de 20242. 1. Productos resultados de actividades de generación de nuevo conocimiento. 2. Productos resultados de actividades de desarrollo tecnológico e innovación. 3. Productos resultados de actividades de apropiación social del conocimiento y divulgación pública de la ciencia. 4. Productos de actividades relacionadas con la formación de recurso humano para CTel. Con base en este modelo, se debe indicar en este apartado los productos que se esperan obtener en la implementación de la propuesta de investigación, desarrollo tecnológico y/o innovación. Los productos declarados deberán ser acordes con el tiempo de ejecución de la maestría o doctorado y su alcance. Lo cual será considerado en el proceso de evaluación."
+      },
+      {
+        "rubro": "Bibliografía",
+        "descripcion": "Relacionar las fuentes de información científica y/o tecnológica relevantes, vigentes y/o actualizadas que fueron consultadas y/o citadas en el texto del proyecto. Se recomienda utilizar fuentes reconocidas por la comunidad científica y tecnológica nacional o internacional y los formatos APA, ISO o MLA para las citaciones. El proponente es responsable de realizar la"
+      }
+    ],
+    "longitud_texto": 8580,
+    "tablas_detectadas": 8,
+    "nombre_documento": "Anexo 2: Documento Técnico de la Propuesta",
+    "subtipo_anexo": "tecnico",
+    "url_pdf": "https://minciencias.gov.co/sites/default/files/upload/convocatoria/anexo_2_documento_tecnico_de_la_propuesta.pdf"
+  },
+  {
+    "reglas_porcentaje": [],
+    "montos_detectados": [],
+    "rubros_desde_tabla": [],
+    "longitud_texto": 21047,
+    "tablas_detectadas": 0,
+    "nombre_documento": "Anexo 10. Categorizacion IDIC",
+    "subtipo_anexo": "tecnico",
+    "url_pdf": "https://minciencias.gov.co/sites/default/files/upload/convocatoria/anexo_10._categorizacion_idic_2.pdf"
+  }
+]

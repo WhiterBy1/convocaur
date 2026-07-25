@@ -1,0 +1,395 @@
+{
+  "convocatoria": "976",
+  "objetivo": "Fortalecer la Investigación Aplicada, el Desarrollo Tecnológico y la Innovación en ciencias y tecnologías cuánticas e Inteligencia Artificial, contribuyendo al desarrollo ambiental, social y económico de las regiones en el marco de la Política de Investigación e Innovación Orientada por Misiones.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES)",
+      "rol": "Ejecutora",
+      "condicion": "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología. Debe contar con al menos una sede en un municipio de la región seleccionada."
+    },
+    {
+      "tipo": "Empresa Nacional",
+      "rol": "Aliada",
+      "condicion": "Micro, pequeña o mediana empresa constituida legalmente en Colombia, con ánimo de lucro, mínimo 2 años de constitución, experiencia en I+D+i en Inteligencia Artificial y/o Ciencia y Tecnologías Cuánticas. Domicilio principal en un municipio de la región."
+    },
+    {
+      "tipo": "Organización Local – Regional",
+      "rol": "Aliada",
+      "condicion": "Agremiaciones, Corporaciones, Federaciones, Consejos Comunitarios de Comunidades Negras, Asociaciones campesinas, Asociaciones agropecuarias, Cooperativas campesinas u otras organizaciones productivas rurales formalmente constituidas, mínimo 1 año. Deben identificar el problema y participar activamente en implementación y apropiación. Domicilio en un municipio de la región. No se consideran JAL, Fundaciones ni Cámaras de Comercio."
+    },
+    {
+      "tipo": "Entidad Colaboradora",
+      "rol": "Colaboradora",
+      "condicion": "Pueden ser otras entidades del SNCTI, Entidades Territoriales, otras Empresas Nacionales, otras Organizaciones Locales/Regionales, entidades colombianas o extranjeras con trayectoria en CTI, Centros e Institutos de Investigación, Centros de Desarrollo Tecnológico, Centros de Innovación y Productividad, Parques Científicos, Tecnológicos o de Innovación. No reciben financiación ni están obligadas a contrapartida. Las grandes empresas solo pueden participar como colaboradoras."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Gestión de la Biodiversidad y Bioeconomía",
+      "modalidad": "Inteligencia Artificial",
+      "descripcion_corta": "Desarrollo y aplicaciones de Tecnologías de IA para clasificar especies, monitorear ecosistemas y reforzar estrategias de conservación, fomentando la innovación colaborativa con conocimientos locales para transformar recursos biológicos en bienes o servicios de alto valor agregado."
+    },
+    {
+      "nombre": "Sistemas Agroalimentarios Inteligentes",
+      "modalidad": "Inteligencia Artificial",
+      "descripcion_corta": "Desarrollo y aplicaciones de Tecnologías de IA en agricultura de precisión, agroindustria, gestión de recursos hídricos y trazabilidad de productos, orientado a la soberanía alimentaria."
+    },
+    {
+      "nombre": "Energías Renovables y Transición Energética",
+      "modalidad": "Inteligencia Artificial",
+      "descripcion_corta": "Desarrollo y aplicaciones de Tecnologías de IA para el pronóstico, control y uso sostenible de fuentes limpias (solar, eólica, biomasa), complementada con modelos predictivos para la toma de decisiones en redes energéticas."
+    },
+    {
+      "nombre": "Tecnologías de IA para la Transformación Educativa en los Territorios",
+      "modalidad": "Inteligencia Artificial",
+      "descripcion_corta": "Desarrollo e implementación de tecnologías basadas en IA para apoyar el aprendizaje en áreas como matemáticas y programación, personalizando contenidos y reduciendo brechas tecnológicas en niños, adolescentes y adultos."
+    },
+    {
+      "nombre": "Gestión de Riesgos y Conservación de Fauna con IA",
+      "modalidad": "Inteligencia Artificial",
+      "descripcion_corta": "Desarrollo y aplicación de Tecnologías que integren modelos de IA para la detección temprana de desastres (inundaciones, incendios, deslizamientos) y la protección de especies silvestres en riesgo."
+    },
+    {
+      "nombre": "IA en Diagnóstico Médico y Medicina Personalizada",
+      "modalidad": "Inteligencia Artificial",
+      "descripcion_corta": "Desarrollo y aplicaciones de Tecnologías para el análisis de imágenes médicas, mejorando la precisión en el diagnóstico temprano de enfermedades y personalizando tratamientos según datos genómicos y clínicos."
+    },
+    {
+      "nombre": "Procesamiento Cuántico de la Información y Comunicaciones Seguras",
+      "modalidad": "Ciencia y Tecnologías Cuánticas",
+      "descripcion_corta": "Exploración y desarrollo de algoritmos y métodos que utilicen principios cuánticos para el procesamiento de información y comunicación."
+    },
+    {
+      "nombre": "Sensórica Cuántica y Metrología",
+      "modalidad": "Ciencia y Tecnologías Cuánticas",
+      "descripcion_corta": "Diseño y aplicación de tecnologías basadas en principios cuánticos para la detección, medición, trazabilidad y caracterización ultra precisa de fenómenos físicos, químicos o biológicos."
+    },
+    {
+      "nombre": "Energía Sostenible y Minerales Estratégicos",
+      "modalidad": "Ciencia y Tecnologías Cuánticas",
+      "descripcion_corta": "Aplicación de tecnologías cuánticas para transformar el modelo energético del país hacia uno más sostenible y eficiente, incluyendo el aprovechamiento de minerales estratégicos y soluciones para la circularidad."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3. 'DIRIGIDO A' de los TdR. La información registrada en el SIGP debe coincidir con la del Anexo 1.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar la inscripción del proyecto en el SIGP a través del formulario electrónico disponible en www.minciencias.gov.co, según el numeral 13.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas nacionales de la alianza deben acreditar experiencia directa en I+D+i en IA/Industria 4.0 o Ciencia y Tecnologías Cuánticas/Industria 4.0, adjuntando certificaciones de ejecución de mínimo 3 proyectos en los últimos 5 años y el Anexo 2 firmado.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de aval unificada y compromiso institucional (Anexo 1) firmada por todos los representantes legales de la alianza. Si firma apoderado, adjuntar documento que lo faculte.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La contrapartida debe ser mínimo el 20% del monto total solicitado para financiación, en dinero y/o especie, y registrarse en el SIGP.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas nacionales (micro, pequeñas y medianas) deben estar legalmente constituidas en Colombia con mínimo 2 años de constitución al cierre. Adjuntar certificado de Cámara de Comercio con vigencia no superior a 30 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Organizaciones locales/regionales deben estar legalmente constituidas con mínimo 1 año al cierre. Adjuntar certificado de Cámara de Comercio con vigencia no superior a 30 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar aval del comité de ética o bioética, especificando revisión ética del proyecto. Si ninguna entidad de la alianza tiene comité, solicitar aval a otra entidad. Adjuntar documento de creación y modificaciones del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias de trámite o existencia de permisos y licencias ambientales necesarios para la ejecución, según normatividad colombiana vigente (cuando aplique).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar Hoja de Vida del Investigador Principal según Anexo 3, firmada. El IP debe tener registro CvLAC actualizado al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 2 jóvenes investigadores e innovadores. Adjuntar Anexo 4 firmado, copia de cédula, diploma/acta de grado o certificado de culminación de estudios, y certificado de notas con promedio mínimo 3.8.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 1 doctor para estancias postdoctorales, con título de doctorado en áreas afines. Adjuntar copia del título o acta de grado, o certificación de sustentación aprobada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 2 estudiantes de maestría en programas afines. Adjuntar certificación de la universidad que acredite que están cursando la maestría.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 1 semillero de investigación con mínimo 10 estudiantes de pregrado de tercer semestre en adelante. Adjuntar documento de constitución del semillero, certificados de los estudiantes y Anexo 5 firmado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para enfoque diferencial (opcional): adjuntar certificado del Ministerio del Interior para pueblos étnicos, certificación de la Unidad para las Víctimas, certificación de la Oficina del Alto Comisionado para la Paz para reincorporación, o certificado de discapacidad según Resolución 1197.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "Presentar más de un proyecto con la misma empresa nacional o el mismo Investigador Principal."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos, o no cargar uno o más documentos o certificados exigidos en los requisitos."
+    },
+    {
+      "texto": "Presentar documentos subsanados cuya información no corresponda o no sea consistente con la registrada en el formulario/ficha de la plataforma SIGP."
+    },
+    {
+      "texto": "Haber quedado como financiable de las convocatorias No. 932, 934, 935, 948, 950, 963 de 2025 y 966, al cierre de la presente convocatoria (para el doctor que realiza la estancia postdoctoral)."
+    },
+    {
+      "texto": "Haber quedado como financiable de las convocatorias No. 932, 934, 935, 948, 950, 963 de 2025 y 966, al cierre de la presente convocatoria (para el Joven Investigador e Innovador)."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Análisis del problema",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la definición, caracterización y valoración de necesidades reales de la entidad beneficiaria, alineación con el eje temático y claridad de productos/servicios como solución."
+    },
+    {
+      "nombre": "Coherencia en la estructura del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la articulación y coherencia entre problema, objetivos, metodología, cronograma y productos esperados, así como alineación con el objetivo y alcance de la convocatoria."
+    },
+    {
+      "nombre": "Concordancia entre el presupuesto total, las actividades y los objetivos planteados del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia del presupuesto con objetivos, actividades, metodología y duración, y la justificación de rubros, cantidades y montos."
+    },
+    {
+      "nombre": "Coherencia, articulación y claridad de los resultados esperados",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad de resultados esperados, indicadores de medición, coherencia con objetivos y capacidad de evidenciar avance en disminución de incertidumbre tecnológica."
+    },
+    {
+      "nombre": "Alineación con las necesidades locales",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el proyecto aborda problemas específicos de regiones e impacta positivamente en desarrollo social y económico local."
+    },
+    {
+      "nombre": "Novedad de la tecnología",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si la tecnología es disruptiva, tiene potencial disruptivo o es tradicional, y si se justifica necesidad y valor agregado."
+    },
+    {
+      "nombre": "Fundamentación teórica del Proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la calidad y trayectoria del desarrollo tecnológico, sustentación del estado de madurez tecnológica de partida con validación a nivel de laboratorio."
+    },
+    {
+      "nombre": "Ventajas de la tecnología",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el análisis comparativo de la tecnología frente a otras existentes, evidenciando ventajas técnicas, funcionales o de desempeño."
+    },
+    {
+      "nombre": "Resultados esperados",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el impacto transformador de la tecnología en el problema social, cambios sostenibles a largo plazo y articulación con ecosistema de colaboración."
+    },
+    {
+      "nombre": "Sostenibilidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la viabilidad de la propuesta de sostenibilidad acorde con actividades, entregables y resultados, y potencial de implementación en otros contextos."
+    },
+    {
+      "nombre": "Estrategia de Apropiación Social del Conocimiento (ASC)",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estrategia de intercambio de conocimiento y apropiación de tecnologías por comunidades locales, con participación activa y sostenibilidad a largo plazo. Para proyectos de Inteligencia Artificial."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "VEINTICUATRO MIL MILLONES DE PESOS M/CTE ($ 24.000.000.000)",
+    "monto_total_cop": 24000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 14,
+    "contrapartida_pct_min": 20.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "Recursos totales distribuidos por eje temático: IA $16.000M, Cuánticas $8.000M. Contrapartida mínima 20% del monto solicitado."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2361,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 841,
+          "completion_tokens": 213
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13134,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3900,
+          "completion_tokens": 1249
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9197,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2754,
+          "completion_tokens": 2084
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4274,
+          "completion_tokens": 1200
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4634,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1640,
+          "completion_tokens": 339
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8082,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2707,
+          "completion_tokens": 1424
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4304,
+          "completion_tokens": 898
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES)",
+          "rol": "Ejecutora",
+          "condicion": "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología. Debe contar con al menos una sede en un municipio de la región seleccionada."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología. Debe contar con al menos una sede en un municipio de la región seleccionada.",
+          "riesgo": "territorio",
+          "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+        },
+        {
+          "condicion": "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología. Debe contar con al menos una sede en un municipio de la región seleccionada.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología.",
+          "Debe contar con al menos una sede en un municipio de la región seleccionada."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como ejecutora. Sin embargo, debe verificar que cuenta con grupos de investigación categorizados en las áreas requeridas y que tiene presencia territorial en la región objetivo, ya que su sede principal está en Bogotá."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe tener grupos de investigación categorizados A, A1, B o C según convocatoria 957-2024, registrados en SIGP, en áreas OCDE de Ciencias Naturales e Ingeniería y Tecnología.",
+        "Debe contar con al menos una sede en un municipio de la región seleccionada."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como ejecutora. Sin embargo, debe verificar que cuenta con grupos de investigación categorizados en las áreas requeridas y que tiene presencia territorial en la región objetivo, ya que su sede principal está en Bogotá.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

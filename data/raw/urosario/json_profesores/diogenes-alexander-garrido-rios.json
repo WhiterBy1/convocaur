@@ -1,0 +1,290 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/diogenes-alexander-garrido-rios",
+  "nombre": "Alexander Garrido",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "alexander.garrido@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n30380/garrido+diogenes.jpg",
+  "afiliaciones": [
+    "Profesor principal de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57203549108",
+    "google_scholar": "https://scholar.google.com/citations?hl=es&user=sX9ICvUAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/alexander-garrido/",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001060783 ",
+    "orcid": "https://orcid.org/0000-0003-0551-3254"
+  },
+  "areas_investigacion": [
+    "Logistics systems",
+    "Resilience",
+    "Supply chains"
+  ],
+  "perfil_profesional": "PhD in Engineering with emphasis in Logistics (UWarwick, UK). Master's degree in Economics (UNal, COL), and Bachelor's degree in Industrial Engineering (UDFJC, COL). Certificated in EMI-Skills® (UCambridge) and PMP® (PMI). Dr Garrido has taught undergraduate/graduate courses on Logistics, Production, Risk, and Analytics at various universities in Latin America. Since November 2024, Dr Garrido is full-time professor in the School of Engineering, Science and Technology at the Universidad del Rosario in Bogotá, D.C. , Colombia.",
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "A multi-echelon globalized agro-industrial supply chain under conditions of uncertainty: A two-stage fuzzy-possibilistic mixed-integer linear programming model",
+      "fecha": "2025-4-25",
+      "enlace": "https://doi.org/10.1016/j.eswa.2025.126569"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Zero-inventory plans, constant workforce, or hybrid approach? Analysing pure production strategies for enhancing factory resilience with demand variability",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1080/00207543.2024.2425771"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Obtaining the optimal origin-destination multimodal freight transportation network for the City of Bogotá",
+      "fecha": "2023-8-1",
+      "enlace": "https://doi.org/10.1016/j.rtbm.2023.101012"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Relocation of public healthcare network of a large city in the event of a major earthquake: a combined methodological analysis",
+      "fecha": "2022-3-22",
+      "enlace": "https://doi.org/10.1108/JHLSCM-04-2021-0040"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A simulation-based AHP approach to analyze the scalability of EHR systems using blockchain technology in healthcare institutions",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.1016/j.imu.2021.100576"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Beyond Brexit’s uncertainty: the foreseeable Britain’s innovative stagnation",
+      "fecha": "2018-9-10",
+      "enlace": "https://doi.org/10.1108/JES-06-2017-0166"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Enhancing the Operationalization of SCRES-Based Simulation Models with AI Algorithms: A Preliminary Exploratory Analysis",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-71993-6_6"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Preface",
+      "fecha": "2024-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/c148e2dd-2764-4002-a03e-1eb8d87e5257"
+    }
+  ],
+  "total_publicaciones": 8,
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001060783"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0003-0551-3254"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?hl=es&user=sX9ICvUAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/alexander-garrido/"
+    ],
+    "scopus_id": [
+      "57203549108"
+    ]
+  },
+  "id": "diogenes-alexander-garrido-rios",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001060783",
+    "cod_rh": "0001060783",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Junior (IJ) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Diogenes Alexander Garrido Rios",
+      "Nombre en citaciones": "GARRIDO RIOS, DIOGENES ALEXANDER",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Linkedln"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado WARWICK UNIVERSITY PhD in Engineering Octubrede2013 - Juniode 2018 A Mixed-Method Study on the Effectiveness of a Buffering Strategy in the Relationship between Risks and Resilience",
+      "Maestría/Magister UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Magíster En Economía Enerode1999 - Diciembrede 2003 Innovación y conocimiento en la industria: el caso de una empresa manufacturera.",
+      "Pregrado/Universitario UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS INGENIERIA INDUSTRIAL Enerode1991 - de 1997 Modelo de Calidad para el Programa de Ingeniería Industrial de la Universidad Distrital"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Noviembre de 2024 de",
+      "Tecnológico de Monterrey Dedicación: 40 horas Semanales Julio de 2022 Noviembre de 2024",
+      "UNIVERSIDAD MILITAR NUEVA GRANADA Dedicación: 40 horas Semanales Septiembre de 2007 Julio de 2022 Actividades de administración - Director de unidad - Cargo: Lideré loas asuntos administrativos y académicos de 6 Programas de Especialización y 2 Programas de Maestría adscritos a la Dirección de Posgrados de la Facultad de Ingeniería. Diciembre de 2010 Septiembre de 2012 - Director de unidad - Cargo: Me desempeñé como coordinador de los programas de Especialización en Gerencia Integral de Proyectos y Gerencia en Logística Integral. Septiembre de 2007 Octubre de 2012 Actividades de docencia - Docencia/Enseñanza de Graduación - Nombre del curso: Me desempeñé como docente de los cursos de Gerencia de Riesgos I y II en en el programa de Especialización en Gerencia Integral de Proyectos., 30 Octubre 2012 Octubre 2013 - Docencia/Enseñanza de Graduación - Nombre del curso: me desempeñé como docente del programa de Especialización en Gerencia en Logística Integral en el modulo de Logística de la Producción., 30 Febrero 2008 Octubre 2013 Actividades de investigación - Investigación y Desarrollo - Titulo: Resiliencia en las cadenas de suministros militares de pequeños países. Octubre 2013 Septiembre 2017 - Investigación y Desarrollo - Titulo: Administración de Proyectos bajo Incertidumbre Julio 2008 Noviembre 2009"
+    ],
+    "areas_actuacion": [
+      "Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías",
+      "Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería de Producción",
+      "Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Portugués",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Innovación Tecnológica en Empresas Industriales, Activa: No",
+      "Logística Militar, Activa: Si",
+      "Administración de riesgos en proyectos, Activa: Si",
+      "Cadenas de suministro resilientes, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Becario,Colfuturo - Juliode 2012",
+      "Becario,Ministerio de Ciencia, Tecnología e Innovación. - Noviembrede 2014",
+      "Académico visitante,Universidad De Harvard - Juniode 2009",
+      "Profesor visitante escuela de verano,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Juniode 2014",
+      "Scholarship holder,Newton Fund - Mayode 2017",
+      "Tesis Meritoria,UNIVERSIDAD MILITAR NUEVA GRANADA - Juliode 2021",
+      "Mejor Evaluación en la Encuesta de Opinión de Alumnos (ECOA) durante el semestre febrero-junio de 2024,Tecnológico de Monterrey - Agostode 2024",
+      "Tesis meritoría,UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS - Diciembrede 2024"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Otro: DIOGENES ALEXANDER GARRIDO RIOS, Análisis y minería de datos para la toma de decisiones, Finalidad: Curso introductorio sobre analítica de datos para estudiantes de ingenieria en el Departamento de Ingeniería y Ciencias en el Tecnológico de Monterrey (campus Monterrey). . En: México ,2022, ,Instituto Tecnológico y de Estudios Superiores de Monterrey. participación: Docente , 0 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Especialización: DIOGENES ALEXANDER GARRIDO RIOS, Logística de la Producción, Finalidad: Describir la forma cómo los sistemas de manufactura se integran con la administración de las operaciones en un el contexto de una cadena de suministros. . En: Colombia ,2013, ,UNIVERSIDAD MILITAR NUEVA GRANADA. participación: Docente , 0 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Especialización: DIOGENES ALEXANDER GARRIDO RIOS, Logística de Mercados, Finalidad: Establecer los vínculos entre la logística y la estrategia de marketing que implementan las empresas. . En: Colombia ,2018, ,UNIVERSIDAD MILITAR NUEVA GRANADA. participación: Docente , 0 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Otro: DIOGENES ALEXANDER GARRIDO RIOS, Foundations of Logistics, Finalidad: Estudiar los aspectos principales que afectan el desempeño de las cadenas de suministro/sistemas logísticos, desde un apespectiva global. . En: Colombia ,2018, ,UNIVERSIDAD MILITAR NUEVA GRANADA. participación: Docente , 0 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: DIOGENES ALEXANDER GARRIDO RIOS, Global Business Environment Module, Finalidad: Entender y evaluar cómo las decisiones comerciales de un negocio en un país son influenciadas por sus contrapartes en otros países. . En: Reino Unido ,2014, ,. participación: Docente , 0 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: DIOGENES ALEXANDER GARRIDO RIOS, Collaborative Planning, Forecasting, and Replenishment (CPFR), Finalidad: Provide the knowledge necessary to apply the main concepts in which a CPFR strategy can be applied in the context of supply chains. . En: Colombia ,2014, ,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO. participación: Docente , 1 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Especialización: DIOGENES ALEXANDER GARRIDO RIOS, Gerencia de riesgos en proyectos, Finalidad: Identificar, evaluar y gestionar los riesgos que afectan los proyectos. . En: Colombia ,2013, ,. participación: Docente , 6 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: DIOGENES ALEXANDER GARRIDO RIOS, Planeación y Control de la Producción, Finalidad: Modelos de planeación en sistemas de manufactura . En: Colombia ,2018, ,. participación: Docente , 16 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: DIOGENES ALEXANDER GARRIDO RIOS, Manufactura Moderna, Finalidad: Estudiar las características de los distintos modelos de manufactura descritos en la literatura . En: Colombia ,2018, ,UNIVERSIDAD MILITAR NUEVA GRANADA. participación: Docente , 16 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Otro: DIOGENES ALEXANDER GARRIDO RIOS, Optimización, Finalidad: Optimización es un curso de alto valor formativo que abre la puerta a uno de los campos más exigentes y con mayor aplicabilidad en los sectores industrial y de servicios. . En: Colombia ,2025, ,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO. participación: Docente , 0 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción técnica - Cursos de corta duración dictados - Otro: DIOGENES ALEXANDER GARRIDO RIOS, Cadenas de Suministros Colaborativas y Resilientes, Finalidad: El curso aborda la gestión estratégica y operativa de redes de suministro diseñadas para ser eficientes, flexibles y adaptables. . En: Colombia ,2025, ,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO. participación: Docente , 0 semanas Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIOGENES ALEXANDER GARRIDO RIOS, Análisis de la matriz modal de carga para la ciudad de Bogotá UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida MAESTRÍA EN GERENCIA LOGÍSTICA INTEGRAL, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Omar Leonardo Quintero Espinosa Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: DIOGENES ALEXANDER GARRIDO RIOS, Analítica de datos en el área de compensación y estructura para la empresa Medimás EPS S.A.S UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida INGENIERIA INDUSTRIAL, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Angie Tatiana Pico Gómez Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIOGENES ALEXANDER GARRIDO RIOS, Evaluación de la ubicación de la red de salud durante un evento sísmico: Un análisis metodológico combinado en el área metropolitana de Bogotá UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida MAESTRÍA EN GERENCIA LOGÍSTICA INTEGRAL, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Fabián Ernesto Pongutá Castro Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIOGENES ALEXANDER GARRIDO RIOS, Análisis de estrategias de promociones compuestas usando analítica en la Cadena Comercial OXXO S.A.S UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida INGENIERÍA INDUSTRIAL, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Esteban López Benavides Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIOGENES ALEXANDER GARRIDO RIOS, Análisis de servicio de aeropuerto ruta nacional en LATAM bajo la metodología de mejora continua UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida INGENIERÍA INDUSTRIAL, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Camila Alejandra Sierra Diaz Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIOGENES ALEXANDER GARRIDO RIOS, Análisis de la planta de producción de empaques en Laboratorios Chalvert S.A. bajo la metodología lean manufacturing UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida INGENIERÍA INDUSTRIAL, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Paula Alejandra Panche Panche Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Monografía de conclusión de curso de perfeccionamiento/especialización: DIOGENES ALEXANDER GARRIDO RIOS, Análisis comparativo de metodologías de proyectos en una empresa de tecnología UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida ESPECIALIZACIÓN EN GERENCIA INTEGRAL DE PROYECTOS, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Jency Carolina Ramírez Martínez Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Monografía de conclusión de curso de perfeccionamiento/especialización: DIOGENES ALEXANDER GARRIDO RIOS, Modelo de pronóstico de la demanda para la unidad de negocio laboratorio Farmacoop UNIVERSIDAD MILITAR NUEVA GRANADA Estado: Tesis concluida ESPECIALIZACIONEN GERENCIA LOGISTICA INTEGRAL, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Javier Murillo Zapata Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIOGENES ALEXANDER GARRIDO RIOS, Harold Andrey Ávila Chocontá UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Estado: Tesis concluida MAESTRIA EN INGENIERIA INDUSTRIAL, 2023. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DIOGENES ALEXANDER GARRIDO RIOS, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIOGENES ALEXANDER GARRIDO RIOS, Titulo: Diseño de un aplicativo para la gestión y control de inventarios de material de consumo para la empresa Serviwash-Grupo GMT SAS. Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD MILITAR NUEVA GRANADA programa académico INGENIERÍA INDUSTRIAL Nombre del orientado: Natalia Lucía Molina Trujillo - Sebastián López Quevedo Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: DIOGENES ALEXANDER GARRIDO RIOS, Titulo: Using Deep reinforcement learning to achieve fair dispatch of loads to carriers under uncertain demand and dynamic fleet size Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidade Federal de Minas Gerais programa académico Mestrado em Ciência da Computação Nombre del orientado: Marco Antônio Aburachid Tavares Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Concurso docente: DIOGENES ALEXANDER GARRIDO RIOS, Primer concurso público y abierto de méritos para la provisión de cargos en la planta de personal docente - 2019 en: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION LOGISTICS MANAGEMENT, 2021, Mayo",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: INFORMATICS IN MEDICINE UNLOCKED, 2021, Abril",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION LOGISTICS MANAGEMENT, 2020, Abril",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: INFORMACION TECNOLOGICA, 2020, Marzo",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: SCIENTIFIC REPORTS, 2024, Junio",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: INGENIARE, 2019, Marzo"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, ALCIDES DE JESUS PADILLA SIERRA, \"Beyond Brexit¿s Uncertainty: The foreseeable Britain¿s innovative stagnation\" . En: Reino Unido JOURNAL OF ECONOMIC STUDIES ISSN: 0144-3585 ed: Emerald Group Publishing Ltd v. 45 fasc. 4 p.773 - 790 ,2018, DOI: https://doi.org/10.1108/JES-06-2017-0166",
+        "titulo": "Beyond Brexit¿s Uncertainty: The foreseeable Britain¿s innovative stagnation",
+        "doi": "https://doi.org/10.1108/JES-06-2017-0166",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, \"A simulation-based AHP approach to analyze the scalability of EHR systems using blockchain technology in healthcare Institutions.\" . En: Países Bajos INFORMATICS IN MEDICINE UNLOCKED ISSN: 2352-9148 ed: Elsevier v. N/A fasc. N/A p.1 - 39 ,2021, DOI: 10.1016/j.imu.2021.100576",
+        "titulo": "A simulation-based AHP approach to analyze the scalability of EHR systems using blockchain technology in healthcare Institutions.",
+        "doi": "10.1016/j.imu.2021.100576",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, OSCAR YECID BUITRAGO SUESCUN, FABIAN ERNESTO PONGUTA CASTRO, \"Relocation of public healthcare network of a large city in the event of a major earthquake: a combined methodological analysis\" . En: Reino Unido JOURNAL OF HUMANITARIAN LOGISTICS AND SUPPLY CHAIN MANAGEMENT ISSN: 2042-6747 ed: Emerald publishing v. 12 fasc. 2 p.220 - 248 ,2022, DOI: 10.1108/JHLSCM-04-2021-0040 Palabras: Logística humanitaria, Localización de instalaciones de salud, Terremoto,",
+        "titulo": "Relocation of public healthcare network of a large city in the event of a major earthquake: a combined methodological analysis",
+        "doi": "10.1108/JHLSCM-04-2021-0040",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, NATALIA PARRADO LEON, JUAN CAMILO GAVIRIA HENAO, \"Resiliencia en Cadenas de Suministro Agroindustriales: Una Revisión Sistemática de la Literatura\" . En: Colombia Revista Avances Investigacion En Ingenieria ISSN: 1794-4953 ed: Publicaciones Universidad Libre v. 19 fasc. 2 p.1 - 24 ,2022, DOI: 10.18041/1794-4953/avances.2.7921 Palabras: Revisión sistemática de la literatura, Cadena de suministro agroindustrial, Análisis de riesgos, Resiliencia,",
+        "titulo": "Resiliencia en Cadenas de Suministro Agroindustriales: Una Revisión Sistemática de la Literatura",
+        "doi": "10.18041/1794-4953/avances.2.7921",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, MIGUEL ANGEL JALLER MARTELO, \"Obtaining the optimal origin-destination multimodal freight transportation network for the City of Bogotá\" . En: Países Bajos RESEARCH IN TRANSPORTATION BUSINESS AND MANAGEMENT ISSN: 2210-5395 ed: Elsevier v. 49 fasc. N/A p.1 - 17 ,2023, DOI: 10.1016/j.rtbm.2023.101012 Palabras: Transporte de carga origen-destino, Logística,",
+        "titulo": "Obtaining the optimal origin-destination multimodal freight transportation network for the City of Bogotá",
+        "doi": "10.1016/j.rtbm.2023.101012",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, \"Reactive scheduling in project management: Conceptual approach and practical applications\" . En: Colombia Revista Escuela De Administración De Negocios ISSN: 0120-8160 ed: Escuela De Administracion De Negocios Ean v. 74 fasc. N/A p.72 - 85 ,2013, DOI:",
+        "titulo": "Reactive scheduling in project management: Conceptual approach and practical applications",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, \"Zero-inventory plans, constant workforce, or hybrid approach? Analysing pure production strategies for enhancing factory resilience with demand variability\" . En: Reino Unido INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH ISSN: 0020-7543 ed: Taylor & Francis Ltd v. N/A fasc. N/A p.1 - 19 ,2024, DOI: 10.1080/00207543.2024.2425771 Palabras: Cadena de suministro resiliente,",
+        "titulo": "Zero-inventory plans, constant workforce, or hybrid approach? Analysing pure production strategies for enhancing factory resilience with demand variability",
+        "doi": "10.1080/00207543.2024.2425771",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, OSCAR YECID BUITRAGO SUESCUN, LINDSAY ALVAREZ POMAR, \"A multi-echelon globalized agro-industrial supply chain under conditions of uncertainty: A two-stage fuzzy-possibilistic mixed-integer linear programming model\" . En: Países Bajos EXPERT SYSTEMS WITH APPLICATIONS ISSN: 0957-4174 ed: Elsevier v. 270 fasc. 126569 p.1 - 41 ,2025, DOI: 10.1016/j.eswa.2025.126569 Palabras: Diseño de cadenas de suministro, Programación posibilística difusa, Cadena de suministro agroindustrial,",
+        "titulo": "A multi-echelon globalized agro-industrial supply chain under conditions of uncertainty: A two-stage fuzzy-possibilistic mixed-integer linear programming model",
+        "doi": "10.1016/j.eswa.2025.126569",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, \"Metodología de Valor Ganado EVM y CPM-PERT en el control presupuestal de un proyecto de inversión: Estudio de caso de un proyecto de la construcción\" . En: Colombia Notas Gerenciales ISSN: 1692-3235 ed: Pontificia Universidad Javeriana v. 20 fasc. p.60 - 66 ,2010, DOI: Palabras: Gestión Proyectos Estado del Arte Colombia,",
+        "titulo": "Metodología de Valor Ganado EVM y CPM-PERT en el control presupuestal de un proyecto de inversión: Estudio de caso de un proyecto de la construcción",
+        "doi": "Palabras:",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIOGENES ALEXANDER GARRIDO RIOS, \"An investigation into the foundations of the theory of constrains\" . En: Colombia Notas Gerenciales ISSN: 1692-3235 ed: Pontificia Universidad Javeriana v. 18 fasc. NA p.121 - 127 ,2008, DOI:",
+        "titulo": "An investigation into the foundations of the theory of constrains",
+        "anio": "2008"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Libro resultado de investigación: DIOGENES ALEXANDER GARRIDO RIOS, CARLOS DANIEL PATERNINA ARBOLEDA, \"Computational Logistics: 15th International Conference, ICCL 2024, Monterrey, Mexico, September 8?10, 2024, Proceedings\" En: Suiza 2024. ed:Springer-Verlag Berlin/Heidelberg ISBN: 978-3-031-71992-9 v. pags. Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,"
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro DIOGENES ALEXANDER GARRIDO RIOS, \"\"El Caso de Lumbre S.A.\"\" La Innovación Tecnológica En La Industria Manufacturera Colombiana . En: Colombia ISBN: 958-683-642-8 ed: Ceja , v. , p.265 - 290 ,2003 Palabras: Innovación tecnológica, gestión del conocimiento, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería de Producción, Ciencias Sociales -- Economía y Negocios -- Negocios y Management, Ciencias Sociales -- Economía y Negocios -- Economía, Sectores: Actividades de asesoramiento y consultoría a las empresas, Actividades de asesoramiento y consultoría a las empresas - Asesoramiento o consultoría jurídica, contábil, de opinión pública y en la gestión de empresas, Actividades de asesoramiento y consultoría a las empresas - Asesoramiento y consultoría en arquitectura e ingeniería,",
+      "Tipo: Capítulo de libro DIOGENES ALEXANDER GARRIDO RIOS, Tipo: Capítulo de libro FABIAN ERNESTO PONGUTA CASTRO, Tipo: Capítulo de libro WILSON ADARME JAIMES, \"Enhancing the Operationalization of SCRES-Based Simulation Models with AI Algorithms: A Preliminary Exploratory Analysis\" Computational Logistics: 15th International Conference, ICCL 2024, Monterrey, Mexico, September 8?10, 2024, Proceedings . En: Suiza ISBN: 978-3-031-71992-9 ed: Springer-Verlag Berlin/Heidelberg , v. , p.80 - 94 LNCS ,2024 Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería Industrial, Sectores: Logística de transporte, almacenamiento y comunicaciones,"
+    ],
+    "innovaci_n_de_proceso_o_procedimiento": [
+      "Producción técnica - Innovación de proceso o procedimiento: DIOGENES ALEXANDER GARRIDO RIOS, El Estado del Arte en la Gestión de Proyectos en Colombia: 1950-2007, Nombre comercial: , contrato/registro: , . En: Colombia, ,2007, Palabras: Gestión Proyectos Estado del Arte Colombia, Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Ingeniería de Producción, Ciencias Sociales -- Economía y Negocios -- Negocios y Management, Ciencias Sociales -- Economía y Negocios -- Economía, Sectores: Actividades de asesoramiento y consultoría a las empresas, Actividades de asesoramiento y consultoría a las empresas - Asesoramiento o consultoría jurídica, contábil, de opinión pública y en la gestión de empresas, Actividades de asesoramiento y consultoría a las empresas - Asesoramiento y consultoría en arquitectura e ingeniería,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: DIOGENES ALEXANDER GARRIDO RIOS, A Military Food Supply Chain in a Hostile Environment: A Case Study . En: Estados Unidos, ,2019, finalidad: Proceedings of the 2019 Winter Simulation Conference-Case Studies Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Demás trabajos - Demás trabajos: DIOGENES ALEXANDER GARRIDO RIOS, Resilience in the military supply chains in emerging nations . En: Inglaterra, ,2014, finalidad: To provide an overview of defence logistics in emerging nations. Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación-Creación El Estado del Arte en la Gestión de Proyectos en Colombia: 1950-2007 Inicio: Enero 2007 Fin: Diciembre 2007 Duración Resumen",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Supply chain simulation techniques Inicio: Julio 2017 Fin proyectado: Septiembre 2012 Fin: Septiembre 2018 Duración 14 Resumen Study how managers/practitioners can make better decisions upon which simulation technique is the best for analyzing problems in supply chains or logistics systems.",
+      "Tipo de proyecto: Investigación y desarrollo Programación reactiva en la administración de proyectos Inicio: Julio 2008 Duración Resumen La incertidumbre en los proyectos es usualmente un aspecto inevitable. Los gerentes de proyectos se previenen de ella gestionando oportunamente los riesgos conocidos en las fases previas a la ejecución del proyecto. Pese a estos esfuerzos, los riesgos no identificados o incontrolables pueden surgir durante la fase de ejecución del proyecto, lo cual afecta negativamente sus Indicadores Claves de Desempeño (ICD) y el objetivo propuesto. Bajo estas circunstancias, el gerente de proyecto es forzado a responder a los riesgos incontrolables o no identificados. Una revisión de la literatura actual sobre administración de proyectos, no proporciona ninguna orientación frente al tema.",
+      "Tipo de proyecto: Investigación y desarrollo Innovación y conocimiento en la industria: El caso de una empresa manufacturera Inicio: Marzo 2001 Fin: Agosto 2003 Duración Resumen El escenario que enfrentan las empresas plantea la existencia de un fuerte vínculo entre innovación tecnológica y desempeño competitivo. De este modo, la innovación tecnológica ha de considerarse la llave maestra capaz de permitir a las empresas el logro de ventajas competitivas en términos de reducir costos o diferenciar productos, a partir de la acumulación de conocimientos, la transferencia de tecnología y el aprovechamiento y desarrollo de capacidades tecnológicas duraderas en el tiempo. Este estudio caracteriza de manera detallada la innovación tecnológica en una empresa manufacturera del sector metalmecánico colombiano, ubicada en Bogotá D.C. Se efectúa el análisis de los procesos en los que se gesta la innovación, se explican sus resultados, se identifican los factores que la limitan e impulsan, así como sus efectos e impacto en la empresa. Adicionalmente se analiza la dinámica de creación y transmisión de conocimiento en la organización, la cual está asociada a la generación de innovaciones.",
+      "Tipo de proyecto: Investigación y desarrollo Diseño de una cadena de abastecimiento agroindustrial para derivados de cannabis cultivado en Colombia Inicio: Marzo 2020 Duración Resumen Frente a la debacle de los enfoques policivos y de criminalización del trafico ilegal de drogas en el mundo, el debate sobre la legalización de la producción y comercialización de este tipo de sustancias es en la actualidad un asunto en discusión en diferentes escenarios. Varios países en el mundo¿e.g. Canadá, Países bajos o Uruguay¿a partir de la experiencia negativa de la prohibición de venta de alcohol en los Estados Unidos en los años 20 y 30, y del posterior éxito con su legalización, han flexibilizado su posición inicial permitiendo la producción y comercialización controlada de drogas alucinógenas ¿blandas¿, tales como el Cannabis.Colombia no ha sido ajena a este cambio de perspectiva, y en la actualidad, el cultivo de Cannabis para fines medicinales y bajo supervisión estricta del Estado representa una oportunidad de negocios con un retorno superior a otras opciones de inversión con equivalente nivel de riesgo. Ello sin mencionar la coyuntura actual del país¿posconflicto¿que obliga a pensar en soluciones de política económica de largo plazo que contribuyan con la absorción de mano de obra abundante con escaso nivel de preparación.Este contexto plantea una circunstancia única de investigación con un notable impacto en el sector agro-industrial del país, allende de los procedimientos técnicos de obtención y fabricación de productos derivados del Cannabis, ampliamente descritos en la literatura: la planeación y diseño de la cadena de suministros para derivados de Cannabis. Grosso modo puede afirmarse que la cadena de suministros para derivados de Cannabis está compuesta por cultivos en ambientes controlados, plantas de procesamiento y obtención de derivados, almacenes, y una red de distribución. Por lo anterior, la presente investigación busca, a través de la aplicación de modelos matemáticos, abordar el problema de planeación y diseño de esta cadena de suministros en lo relativo a la determinación de sus niveles de producción, políticas de inventario y transporte más adecuadas.El objetivo en ultimas consiste en determinar las políticas (o configuraciones de la cadena) que minimicen el costo total de operación de esta cadena.Los resultados derivados de esta investigación pueden ser usados como instrumento de política pública para la planeación y desarrollo del sector agro-industrial del país."
+    ]
+  }
+}

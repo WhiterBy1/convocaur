@@ -1,0 +1,614 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/oliver-muller",
+  "nombre": "Oliver Müller / orcid.org/0000-0002-3723-8691",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "oliver.muller@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3488",
+  "imagen": "https://research-hub.urosario.edu.co/file/n776/Captura+de+pantalla+2026-03-24+120006.png",
+  "afiliaciones": [
+    "Investigador - E. C. Estudios en Ciencias del Comportamiento - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=36940825100",
+    "google_scholar": "https://scholar.google.com/citations?user=koViDIEAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/a20b9065-675b-45b2-887b-3a95bcc16756",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001344413",
+    "orcid": "http://orcid.org/0000-0002-3723-8691"
+  },
+  "areas_investigacion": [
+    "ERP",
+    "Event-related potentials",
+    "Language",
+    "Psycholinguistics (LCSH)"
+  ],
+  "perfil_profesional": "Oliver Müller is “profesor principal” in the Program of Psychology, teaching in the áreas of basic psychological processes and fundamentals of psychology. He is member of the research group Studies in Behavioral Sciences, working in the line of investigation on basic research in behavioral studies, having as his main interests cognitive neuroscience and psycholinguistics. In 2021, he assumed the role as director of the journal Avances en Psicologia Latinoamericana. He is co-author of several articles in international journals about investigations of the cognitive processes of reading in bilingual persona and schoolchildren, and of writing. He co-coordinated the researcher node in basic psychological processes of the Colombian Association of Faculties of Psychology (ASCOFAPSI) during the 2019-2020 period. He received the prize for teaching excellence “Juan Agustín Uricoechea y Navarro' at Rosario University.",
+  "formacion_academica": [
+    "1999, Psicólogo, Adam-Ries-Fachhochschule",
+    "2006, Doctor en Ciencias Sociales, Radboud Universiteit Nijmegen"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "¿Los escolares sordos profundos reconocen las palabras escritas del español usando la sílaba como una unidad de procesamiento cognitivo?",
+      "fecha": "2025-1-21",
+      "enlace": "https://doi.org/10.4151/S0718-09342025011701060"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Profoundly deaf school children recognize Spanish written words using the syllable as a unit of cognitive processing",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.4151/S0718-09342025011701060"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Naturaleza del input y procesamiento de la sílaba en palabras en la enfermedad de Parkinson",
+      "fecha": "2023-7-3",
+      "enlace": "https://doi.org/10.5209/rlog.83660"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effect of Emotional Word Processing on Communicative and Social Functioning in the Elderly",
+      "fecha": "2023-3-1",
+      "enlace": "https://doi.org/10.12804/revistas.urosario.edu.co/revsalud/a.10693"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Robot Proposal for Teaching-Learning Assistance of Deaf and Hard of Hearing Children",
+      "fecha": "2023-10-1",
+      "enlace": "https://doi.org/10.1109/ColBioCAS59270.2023.10280953"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "‘Robins’ enseña el español a niños y niñas sordos",
+      "fecha": "2022-5-12",
+      "enlace": "https://doi.org/10.12804/dvcn_10336.37600_num6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Evidencia para un efecto facilitador de la frecuencia silábica en la lectura de palabras en escolares hispanohablantes de 2ºy 5ºgrado",
+      "fecha": "2019-11-1",
+      "enlace": "https://doi.org/10.4067/s0718-48832019000200165"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Relación entre presión y posición de grafema a inicio y fin de palabra en la escritura imprenta a mano de palabras del español",
+      "fecha": "2019-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F05b9673d-c696-4355-a626-981c4cedeac8"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Masked constituent priming of English compounds in native and non-native speakers",
+      "fecha": "2016-9-13",
+      "enlace": "https://doi.org/10.1080/23273798.2016.1179770"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Métodos Experimentales de Estudio de la Percepción Temprana del Habla",
+      "fecha": "2014-6-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/cd5193f3-8be9-4a55-b54a-91ccd03ca81b"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La teoría lingüística de Noam Chomsky: del inicio a la actualidad",
+      "fecha": "2014-6-17",
+      "enlace": "https://doi.org/10.25100/lenguaje.v42i2.4985"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "La percepción del habla durante el primer año de vida",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.1016/s0120-0534(14)70002-0"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Los conceptos innatos en la obra de Chomsky: Definición y propuesta de un método empírico para su estudio",
+      "fecha": "2013-6-27",
+      "enlace": "https://research-hub.urosario.edu.co/display/bcc59307-62f9-4190-8447-3c49eb0eabf7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El efecto de lexicalidad en la decisión léxica a lo largo de la primaria",
+      "fecha": "2013-6-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/c636d968-3518-4f83-b4d0-a3ec9f4d4b3d"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Electrophysiological evidence for phonological priming in Spanish Sign Language lexical access",
+      "fecha": "2012-6-1",
+      "enlace": "https://doi.org/10.1016/j.neuropsychologia.2012.02.018"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Orthographic and associative neighborhood density effects: What is shared, what is different?",
+      "fecha": "2010-5-1",
+      "enlace": "https://doi.org/10.1111/j.1469-8986.2009.00960.x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Editorial: : Los primeros cuatro años de la nueva época (2004-2007)",
+      "fecha": "2009-11-4",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F68bdc623-d9ff-4896-b57e-694c59fc854e"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Access to lexical information in language comprehension: Semantics before syntax",
+      "fecha": "2006-1-1",
+      "enlace": "https://doi.org/10.1162/089892906775249997"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Chomsky's new clothes",
+      "fecha": "1999-12-1",
+      "enlace": "https://doi.org/10.1017/S0140525X99292229"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Comparison of Visual and Kinesthetic Motor Imagery for Upper Limb Activity",
+      "fecha": "2024-6-27",
+      "enlace": "https://doi.org/10.1007/978-3-031-63848-0_7"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Characterization of Electroencephalography (EEG) Responses to Musical Stimuli",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1109/CIIBBI63846.2024.10784971"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Effect of emotional processing of words on communicative and social functioning in the elderly",
+      "fecha": "2022-7-7",
+      "enlace": "https://research-hub.urosario.edu.co/display/ddffc7a9-4697-4adf-8017-c885a6f44b17"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "KINESTHESIC AND VISUAL IMAGERY OF MOVEMENTS MODULATE THE ALPHA RHYTHM",
+      "fecha": "2022-7-3",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F246ca002-965d-429f-bb45-c2bdf3f82e2c"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "¿Sueñan las inteligencias artificiales con ser autoras?",
+      "fecha": "2023-5-29",
+      "enlace": "https://doi.org/10.12804/revistas.urosario.edu.co/apl/a.13217"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "(Des)confianza y Ciencia",
+      "fecha": "2023-10-24",
+      "enlace": "https://doi.org/10.12804/revistas.urosario.edu.co/apl/a.13704"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "(Des)confianza y ciencia",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.12804/revistas.urosario.edu.co/apl/a.13704"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Nada nuevo: la plaga del plagio",
+      "fecha": "2022-9-9",
+      "enlace": "https://research-hub.urosario.edu.co/display/aa142a29-fe48-4c6a-b72d-7a519c536f94"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Cuarenta años de Avances en Psicología Latinoamericana",
+      "fecha": "2022-6-24",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4b52f323-524d-4667-bb21-f88a0e638a9c"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Continuidades en la revista Avances en Psicología Latinoamericana",
+      "fecha": "2021-10-4",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1ddef1d6-2b26-4cfb-ac3e-3af3416ca102"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "La ciencia en equipo: cambios de costumbres y lineamientos",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/display/f1ef54f7-4743-45be-bae6-e0ff0caf5f97"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Introduction to the special section \"psycholinguistics\"",
+      "fecha": "2011-12-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e502d923-172e-4c4b-ae06-e20eba1d6442"
+    }
+  ],
+  "total_publicaciones": 31,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Robot autónomo para apoyar el proceso de aprendizaje de la lectura a través de estrategias de juego dirigidas a niños sordos.",
+      "fecha": "2022-03-01 - 2023-12-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/bd7811f1-86b2-4b87-9839-24ba0ce80f19"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "La presión durante la escritura como medida de procesos cognitivos",
+      "fecha": "2016-01-01 - 2016-12-16",
+      "enlace": "https://research-hub.urosario.edu.co/display/c9344541-17db-4186-a6e7-61edba5e8b90"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Desarrollo de los efectos de la frecuencia silábica y de la lexicalidad en la lectura de niños escolares en Chile",
+      "fecha": "2015-08-01 - 2016-12-16",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F96ef9117-317c-4250-adbe-dcd3c8af55ea"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Procesamiento fonológico y ortográfico en la lectura del español: El caso de los pseudohomófonos",
+      "fecha": "2013-08-01 - 2015-11-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F82439dc8-3f92-4579-a82c-8295109c823a"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Análisis de redes fisiológicas a partir de análisis de señales EEG y PPG, empleando medidas de causalidad en un contexto de toma de decisión",
+      "fecha": "2024-08-01 - 2025-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/display/b3b3f4e2-38f6-4aae-befc-5ea66f892958"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Imaginería mental, una experiencia de movimiento",
+      "fecha": "2020-03-25 - 2021-12-02",
+      "enlace": "https://research-hub.urosario.edu.co/display/e3b98593-e1eb-456d-a6bf-2eff87376b98"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Morfología en bilingües castellano-alemán",
+      "fecha": "2012-01-09 - 2017-12-15",
+      "enlace": "https://research-hub.urosario.edu.co/display/cf01f69b-5bc6-47d2-8081-300466b881d9"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Desarrollo del efecto inhibitorio de la frecuencia silábica en la lectura de niños escolares",
+      "fecha": "2011-01-01 - 2011-12-16",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F452ed600-ecd5-4867-b7fc-4dea8dd16ceb"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis sobre el uso de las redes sociales y su efectividad en el apoyo al aprendizaje formal de una segunda lengua: una revisión bibliográfica"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Efectividad del tratamiento con neurofeedback en trastornos del estado del ánimo, ansiedad y fibromialgia: una revisión de literatura"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Efecto del procesamiento emocional de las palabras en el funcionamiento comunicativo y social en el adulto mayor"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El videojuego League of legends y su efecto en memoria de trabajo visual y solución de problemas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La efectividad de diferentes métodos de la enseñanza de la lecto-escritura en español. Una revisión de literatura"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "La influencia de factores educativos y familiares sobre el aprendizaje de una segunda lengua, y los efectos sobre la inteligencia y cognición"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Soledad y demencia : la relación bidireccional"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "InnovAcción en tiempos de transformación",
+      "fecha": "2021"
+    },
+    {
+      "premio": "Premio Docencia de Excelencia 'Juan Agustín Uricochea y Navarro'",
+      "fecha": "2018"
+    },
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2012"
+    }
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/oliver-m%C3%BCller-11436714/"
+    ],
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001344413"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0002-3723-8691"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=koViDIEAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/a20b9065-675b-45b2-887b-3a95bcc16756"
+    ],
+    "scopus_id": [
+      "36940825100"
+    ]
+  },
+  "id": "oliver-muller",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001344413",
+    "cod_rh": "0001344413",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Junior (IJ) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Oliver Müller NA",
+      "Nombre en citaciones": "MÜLLER, OLIVER",
+      "Nacionalidad": "Extranjero - otra",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Academia.edu",
+      "Repositorios institucionales"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado Radboud Universiteit Nijmegen Social Sciences Octubrede1999 - Enerode 2006 Retrieving semantic and syntactic word properties: ERP studies on the time course in language comprehension",
+      "Pregrado/Universitario Technische Univeristat zu Braunschweig Psicología Marzode1993 - Diciembrede 1999 Wie entstehen beim Sprechen flektierte Wörter? [¿Cómo se forman las palabras flexionadas cuando se habla?]"
+    ],
+    "estancias_posdoctorales": [
+      "investigador posdoctoral UNIVERSIDAD DE LA LAGUNA Psicología Desde: Octubre de 2005 Hasta: Diciembre de 2008 NA"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Marzo de 2009 de",
+      "UNIVERSIDAD DE LA LAGUNA Dedicación: 38 horas Semanales Septiembre de 2005 Diciembre de 2008",
+      "University Of Amsterdam Dedicación: 20 horas Semanales Julio de 2005 Agosto de 2005",
+      "Max Planck Institute for Psycholinguistics Dedicación: 38 horas Semanales Octubre de 1999 Junio de 2005"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales)",
+      "Humanidades -- Idiomas y Literatura -- Estudios Generales del Lenguaje"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemán",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Holandés",
+        "habla": "Bueno",
+        "escribe": "Aceptable",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Investigación básica en cognición, lenguaje y comportamiento, Activa: Si"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: OLIVER MÜLLER NA, El videojuego league of legends y su efecto en memoria de trabajo visual y solución de problemas COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PSICOLOGIA, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Jesús Eduardo Leyva-Rodriguez & Juan David Varela-García Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: OLIVER MÜLLER NA, Evolución del efecto de lexicalidad en escolares chilenos de educación básica UNIVERSIDAD DE BUENOS AIRES Estado: Tesis en curso Psicología Cognitiva, 2015. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Pamela Navarrete Suazo Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: OLIVER MÜLLER NA, La efectividad de diferentes métodos de la enseñanza de la lecto-escritura en español: Una revisión de literatura COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PSICOLOGIA, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Diana Carolina Piñeros López; Juanita Patiño Rodríguez Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: OLIVER MÜLLER NA, Efectividad del tratamiento con neurofeedback en trastornos del estado del ánimo, ansiedad y fibromialgia: Una revisión de literatura COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PSICOLOGIA, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura Barrera Ferro, Estefanía Gómez Olivella, Luisa Fernanda Prieto Lizarazo Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: OLIVER MÜLLER NA, Soledad y Demencia: La Relación Bidireccional COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PSICOLOGIA, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Catalina Platz Henao Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: OLIVER MÜLLER NA, La influencia de factores educativos y familiares sobre el aprendizaje de una segunda lengua, y los efectos sobre la inteligencia y cognición COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PSICOLOGIA, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Paola Andrea Novoa Rusinque Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales), Sectores: Educación - Educación preescolar y básica, Educación - Educación secundaria de formación general,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: OLIVER MÜLLER NA, Efecto del procesamiento emocional de las palabras en el funcionamiento comunicativo y social en el adulto mayor COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Ciencias de la Rehabilitación, 2018. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Maria Fernanda Lara Bernal Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Ciencias del Cuidado de la Salud y Servicios (Administración de Hospitales, Financiamiento),",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: OLIVER MÜLLER NA, La teoría lingüística de Noam Chomsky: revisión crítica centrada en el innatismo semántico y su estudio experimental UNIVERSIDAD DE BUENOS AIRES Estado: Tesis concluida Psicología Cognitiva, 2009. Dirigió como: Tutor principal, Persona(s) orientada(s): Leonardo Francisco Barón Birchenall Tutor(es)/Cotutor(es): EDITH LABOS , OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: OLIVER MÜLLER NA, Análisis sobre el Uso de las Redes Sociales y su Efectividad en el Apoyo al Aprendizaje Formal de una Segunda Lengua: Una Revisión Bibliográfica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida PSICOLOGIA, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Camilo Villarreal García Tutor(es)/Cotutor(es): OLIVER MULLER NA, Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: III ENCUENTRO NACIONAL DE SEMILLEROS DE INVESTIGACIÓN Y III CONGRESO INTERNACIONAL DE NEUROCIENCIA Y NEUROPSICOLOGÍA Tipo de evento: Otro Ámbito: Nacional Realizado el:2010-10-14 00:00:00.0, 2010-10-16 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Neurofisiología del Lenguaje: Introducción y un Proyecto sobre la Lectura del Español Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: RED COLOMB. DE SEMILLEROS DE INVESTIGACIÓN EN NEUROCIENCIA Y NEUROPSICOL. Tipo de vinculación Gestionadora Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "1 Nombre del evento: III ENCUENTRO NACIONAL DE SEMILLEROS DE INVESTIGACIÓN Y III CONGRESO INTERNACIONAL DE NEUROCIENCIA Y NEUROPSICOLOGÍA Tipo de evento: Otro Ámbito: Nacional Realizado el:2010-10-14 00:00:00.0, 2010-10-16 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Neurofisiología del Lenguaje: Introducción y un Proyecto sobre la Lectura del Español Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: RED COLOMB. DE SEMILLEROS DE INVESTIGACIÓN EN NEUROCIENCIA Y NEUROPSICOL. Tipo de vinculación Gestionadora",
+      "Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "2 Nombre del evento: VIII Coloquio Internacional sobre Investigación en Lenguas Extranjeras Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2016-06-01 00:00:00.0, 2016-06-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Sede Bogotá Productos asociados Nombre del producto: English Compound Processing in Native and Nonnative Speakers Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora Participantes Nombre: JORGE ELIECER BONILLA BENITEZ Rol en el evento: Ponente magistral Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente magistral Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente magistral",
+      "2 Nombre del evento: VIII Coloquio Internacional sobre Investigación en Lenguas Extranjeras Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2016-06-01 00:00:00.0, 2016-06-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Sede Bogotá",
+      "Productos asociados Nombre del producto: English Compound Processing in Native and Nonnative Speakers Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JORGE ELIECER BONILLA BENITEZ Rol en el evento: Ponente magistral Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente magistral Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente magistral",
+      "3 Nombre del evento: VII Encuentro de Investigadores en Ciencias del Comportamiento Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-04-08 00:00:00.0, 2016-04-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Sede Bogotá Productos asociados Nombre del producto: Procesamiento fonológico y ortográfico en la lectura del español: Efectos estratégicos para pseudohomófonos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Exploración sobre la variación de la presión de grafemas según su posición dentro de la palabra Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "3 Nombre del evento: VII Encuentro de Investigadores en Ciencias del Comportamiento Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2016-04-08 00:00:00.0, 2016-04-09 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Sede Bogotá",
+      "Productos asociados Nombre del producto: Procesamiento fonológico y ortográfico en la lectura del español: Efectos estratégicos para pseudohomófonos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Exploración sobre la variación de la presión de grafemas según su posición dentro de la palabra Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "4 Nombre del evento: 10TH INTERNATIONAL SYMPOSIUM OF PSYCHOLINGUISTICS Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-04-13 00:00:00.0, 2011-04-16 00:00:00.0 en San Sebastián - Productos asociados Nombre del producto: Handwriting processes involving phonology in the Alzheimer disease: A study using on-line measures Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Handwriting processes involving phonology in the Alzheimer disease: A study using on-line measures Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: SOCIEDAD ESPAÑOLA DE PSICOLOGÍA EXPERIMETNAL Tipo de vinculación Gestionadora Participantes Nombre: CARLOS J ALVAREZ Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "4 Nombre del evento: 10TH INTERNATIONAL SYMPOSIUM OF PSYCHOLINGUISTICS Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-04-13 00:00:00.0, 2011-04-16 00:00:00.0 en San Sebastián -",
+      "Productos asociados Nombre del producto: Handwriting processes involving phonology in the Alzheimer disease: A study using on-line measures Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Handwriting processes involving phonology in the Alzheimer disease: A study using on-line measures Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: SOCIEDAD ESPAÑOLA DE PSICOLOGÍA EXPERIMETNAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: CARLOS J ALVAREZ Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "5 Nombre del evento: XV CONGRESO COLOMBIANO DE PSICOLOGIA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2012-04-25 00:00:00.0, 2012-04-28 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: El efecto de la frecuencia silábica en la lectura de escolares de grados 2 a 5 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: El efecto de la frecuencia silábica en la lectura de escolares de grados 2 a 5 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Sociedad Colombiana de Psicología Tipo de vinculación Gestionadora Participantes Nombre: ALBA GALLO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "5 Nombre del evento: XV CONGRESO COLOMBIANO DE PSICOLOGIA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2012-04-25 00:00:00.0, 2012-04-28 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: El efecto de la frecuencia silábica en la lectura de escolares de grados 2 a 5 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: El efecto de la frecuencia silábica en la lectura de escolares de grados 2 a 5 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Sociedad Colombiana de Psicología Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ALBA GALLO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "6 Nombre del evento: XXXIII CONGRESO INTERAMERICANO DE PSICOLOGIA CIP 2011 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-06-26 00:00:00.0, 2011-06-30 00:00:00.0 en MEDELLÍN - Productos asociados Nombre del producto: Mediación conceptual entre primera y segunda lengua: Evidencia de priming de traducción Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Mediación conceptual entre primera y segunda lengua: Evidencia de priming de traducción Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Sociedad Interaméricana De Psicología Tipo de vinculación Gestionadora Participantes Nombre: ALBEIRO MIGUEL ANGEL RAMIREZ SARMIENTO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "6 Nombre del evento: XXXIII CONGRESO INTERAMERICANO DE PSICOLOGIA CIP 2011 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-06-26 00:00:00.0, 2011-06-30 00:00:00.0 en MEDELLÍN -",
+      "Productos asociados Nombre del producto: Mediación conceptual entre primera y segunda lengua: Evidencia de priming de traducción Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Mediación conceptual entre primera y segunda lengua: Evidencia de priming de traducción Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Sociedad Interaméricana De Psicología Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ALBEIRO MIGUEL ANGEL RAMIREZ SARMIENTO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "7 Nombre del evento: 11TH SYMPOSIUM OF PSYCHOLINGUISTICS Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-03-20 00:00:00.0, 2013-03-23 00:00:00.0 en San Miguel de Abona, Tenerife - Productos asociados Nombre del producto: Alzheimer disease, phonology and handwriting: Effects of the frequency of sublexical units using online measures Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Alzheimer disease, phonology and handwriting: Effects of the frequency of sublexical units using online measures Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: SOCIEDAD ESPAÑOLA DE PSICOLOGÍA EXPERIMETNAL Tipo de vinculación Gestionadora Participantes Nombre: CARLOS J ALVAREZ Rol en el evento: Ponente Nombre: JOHANA PERALTA Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: OLIVIA AFONSO Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "7 Nombre del evento: 11TH SYMPOSIUM OF PSYCHOLINGUISTICS Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-03-20 00:00:00.0, 2013-03-23 00:00:00.0 en San Miguel de Abona, Tenerife -",
+      "Productos asociados Nombre del producto: Alzheimer disease, phonology and handwriting: Effects of the frequency of sublexical units using online measures Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Alzheimer disease, phonology and handwriting: Effects of the frequency of sublexical units using online measures Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: SOCIEDAD ESPAÑOLA DE PSICOLOGÍA EXPERIMETNAL Tipo de vinculación Gestionadora",
+      "Participantes Nombre: CARLOS J ALVAREZ Rol en el evento: Ponente Nombre: JOHANA PERALTA Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: OLIVIA AFONSO Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "8 Nombre del evento: III Congreso de Psicología COLPSIC ASCOFAPSI Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-09-05 00:00:00.0, 2013-09-07 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Procesamiento de la sílaba en la escritura de personas con enfermedad de Parkinson Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Procesamiento de la sílaba en la escritura de personas con enfermedad de Parkinson Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO COLOMBIANO DE PSICÓLOGOS Tipo de vinculación Gestionadora Participantes Nombre: LEIDY JOHANNA RODRIGUEZ RIANO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "8 Nombre del evento: III Congreso de Psicología COLPSIC ASCOFAPSI Tipo de evento: Congreso Ámbito: Nacional Realizado el:2013-09-05 00:00:00.0, 2013-09-07 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Procesamiento de la sílaba en la escritura de personas con enfermedad de Parkinson Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Nombre del producto: Procesamiento de la sílaba en la escritura de personas con enfermedad de Parkinson Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO COLOMBIANO DE PSICÓLOGOS Tipo de vinculación Gestionadora",
+      "Participantes Nombre: LEIDY JOHANNA RODRIGUEZ RIANO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "9 Nombre del evento: XIV CONGRESO COLOMBIANO DE PSICOLOGIA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-04-28 00:00:00.0, 2010-05-01 00:00:00.0 en IBAGUÉ - Productos asociados Nombre del producto: Las manos que hablan: La investigación psicolingüística de lenguas de señas - un estudio con potenciales evocados Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Las manos que hablan: La investigación psicolingüística de lenguas de señas - un estudio con potenciales evocados Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Sociedad Colombiana de Psicología Tipo de vinculación Gestionadora Participantes Nombre: EVA GUTIERREZ Rol en el evento: Ponente Nombre: MANUEL CARREIRAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "9 Nombre del evento: XIV CONGRESO COLOMBIANO DE PSICOLOGIA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-04-28 00:00:00.0, 2010-05-01 00:00:00.0 en IBAGUÉ -",
+      "Productos asociados Nombre del producto: Las manos que hablan: La investigación psicolingüística de lenguas de señas - un estudio con potenciales evocados Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Las manos que hablan: La investigación psicolingüística de lenguas de señas - un estudio con potenciales evocados Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Sociedad Colombiana de Psicología Tipo de vinculación Gestionadora",
+      "Participantes Nombre: EVA GUTIERREZ Rol en el evento: Ponente Nombre: MANUEL CARREIRAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "10 Nombre del evento: II CONGRESO NACIONAL DE PSICOLOGIA COLPSIC Tipo de evento: Congreso Ámbito: Nacional Realizado el:2009-08-20 00:00:00.0, 2009-08-22 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Efectos de Vecinos Ortográficos y de Asociados en la Lectura de Palabras: Tiempos de Reacción y Potenciales Evocados Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Efectos de vecinos ortográficos y de asociación en la lectura de palabras: Tiempos de reacción y potenciales evocados Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: COLEGIO COLOMBIANO DE PSICÓLOGOS Tipo de vinculación Gestionadora Participantes Nombre: JON ANDONI DUNABEITIA Rol en el evento: Ponente Nombre: MANUEL CARREIRAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "10 Nombre del evento: II CONGRESO NACIONAL DE PSICOLOGIA COLPSIC Tipo de evento: Congreso Ámbito: Nacional Realizado el:2009-08-20 00:00:00.0, 2009-08-22 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Efectos de Vecinos Ortográficos y de Asociados en la Lectura de Palabras: Tiempos de Reacción y Potenciales Evocados Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Efectos de vecinos ortográficos y de asociación en la lectura de palabras: Tiempos de reacción y potenciales evocados Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: COLEGIO COLOMBIANO DE PSICÓLOGOS Tipo de vinculación Gestionadora",
+      "Participantes Nombre: JON ANDONI DUNABEITIA Rol en el evento: Ponente Nombre: MANUEL CARREIRAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "11 Nombre del evento: LABPHON 12 12TH CONFERENCE ON LABORATORY PHONOLOGY Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-07-08 00:00:00.0, 2010-07-10 00:00:00.0 en Albuquerque, NM - Productos asociados Nombre del producto: Electrophysiological correlates of Spanish Sign Language (LSE) processing: Evidence for semantic and phonological structure Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Association for Laboratory Phonology Tipo de vinculación Gestionadora Participantes Nombre: CRISTINA BAUS Rol en el evento: Ponente Nombre: EVA GUTIERREZ Rol en el evento: Ponente Nombre: MANUEL CARREIRAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "11 Nombre del evento: LABPHON 12 12TH CONFERENCE ON LABORATORY PHONOLOGY Tipo de evento: Otro Ámbito: Internacional Realizado el:2010-07-08 00:00:00.0, 2010-07-10 00:00:00.0 en Albuquerque, NM -",
+      "Productos asociados Nombre del producto: Electrophysiological correlates of Spanish Sign Language (LSE) processing: Evidence for semantic and phonological structure Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Association for Laboratory Phonology Tipo de vinculación Gestionadora",
+      "Participantes Nombre: CRISTINA BAUS Rol en el evento: Ponente Nombre: EVA GUTIERREZ Rol en el evento: Ponente Nombre: MANUEL CARREIRAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "12 Nombre del evento: VIII Encuentro de Investigadores en Ciencias del Comportamiento Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2017-04-21 00:00:00.0, 2017-04-22 00:00:00.0 en BOGOTÁ, D.C. - Universidad San Buenaventura Productos asociados Nombre del producto: Procesamiento morfológico de verbos alemanes en bilingües: Independencia del significado como en hablantes nativos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE SAN BUENAVENTURA - SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "12 Nombre del evento: VIII Encuentro de Investigadores en Ciencias del Comportamiento Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2017-04-21 00:00:00.0, 2017-04-22 00:00:00.0 en BOGOTÁ, D.C. - Universidad San Buenaventura",
+      "Productos asociados Nombre del producto: Procesamiento morfológico de verbos alemanes en bilingües: Independencia del significado como en hablantes nativos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE SAN BUENAVENTURA - SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: SILVIA BAQUERO CASTELLANOS Rol en el evento: Ponente",
+      "13 Nombre del evento: 16th World Congress ISPRM Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-07-03 00:00:00.0, 2022-07-07 00:00:00.0 en Lisboa - Lisbon Congress Centre Productos asociados Nombre del producto: Effect of emotional processing of words on communicative and social functioning in the elderly Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: International Society of Physical and Rehabilitation Medicine Tipo de vinculación Gestionadora Participantes Nombre: BLANCA JANETH HERNANDEZ JARAMILLO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: XIMENA PALACIOS ESPINOSA Rol en el evento: Ponente",
+      "13 Nombre del evento: 16th World Congress ISPRM Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-07-03 00:00:00.0, 2022-07-07 00:00:00.0 en Lisboa - Lisbon Congress Centre",
+      "Productos asociados Nombre del producto: Effect of emotional processing of words on communicative and social functioning in the elderly Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: International Society of Physical and Rehabilitation Medicine Tipo de vinculación Gestionadora",
+      "Participantes Nombre: BLANCA JANETH HERNANDEZ JARAMILLO Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: XIMENA PALACIOS ESPINOSA Rol en el evento: Ponente",
+      "14 Nombre del evento: 2023 IEEE Colombian Workshop BioCAS, ColBioCAS 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario, Sede Claustro Productos asociados Nombre del producto: Robot Proposal for Teaching-Learning Assistance of Deaf and Hard of Hearing Children Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: HERNAN ALFREDO BERNAL MUNOZ Rol en el evento: Ponente Nombre: KAREN AGUIA ROJAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: OSCAR JULIAN PERDOMO CHARRY Rol en el evento: Ponente Nombre: ROCIO MOLINA BEJAR Rol en el evento: Ponente Nombre: SARA CADAVID ESPINHA Rol en el evento: Ponente",
+      "14 Nombre del evento: 2023 IEEE Colombian Workshop BioCAS, ColBioCAS 2023 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario, Sede Claustro",
+      "Productos asociados Nombre del producto: Robot Proposal for Teaching-Learning Assistance of Deaf and Hard of Hearing Children Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: HERNAN ALFREDO BERNAL MUNOZ Rol en el evento: Ponente Nombre: KAREN AGUIA ROJAS Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente Nombre: OSCAR JULIAN PERDOMO CHARRY Rol en el evento: Ponente Nombre: ROCIO MOLINA BEJAR Rol en el evento: Ponente Nombre: SARA CADAVID ESPINHA Rol en el evento: Ponente",
+      "15 Nombre del evento: 16th World Congress ISPRM Tipo de evento: Otro Ámbito: Internacional Realizado el:2022-07-03 00:00:00.0, 2022-07-07 00:00:00.0 en Lisboa - Lisbon Congress Centre Productos asociados Nombre del producto: Kinesthesic and visual imagery of movements modulate the alpha rhythm Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: International Society of Physical and Rehabilitation Medicine Tipo de vinculación Gestionadora Participantes Nombre: DIEGO ALEJANDRO GONZALEZ CARMONA Rol en el evento: Ponente Nombre: KAREN CRISTINA JACOME DURAN Rol en el evento: Ponente Nombre: MARIA FERNANDA MANRIQUE Rol en el evento: Ponente Nombre: MARTHA ROCIO TORRES NARVAEZ Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "15 Nombre del evento: 16th World Congress ISPRM Tipo de evento: Otro Ámbito: Internacional Realizado el:2022-07-03 00:00:00.0, 2022-07-07 00:00:00.0 en Lisboa - Lisbon Congress Centre",
+      "Productos asociados Nombre del producto: Kinesthesic and visual imagery of movements modulate the alpha rhythm Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: International Society of Physical and Rehabilitation Medicine Tipo de vinculación Gestionadora",
+      "Participantes Nombre: DIEGO ALEJANDRO GONZALEZ CARMONA Rol en el evento: Ponente Nombre: KAREN CRISTINA JACOME DURAN Rol en el evento: Ponente Nombre: MARIA FERNANDA MANRIQUE Rol en el evento: Ponente Nombre: MARTHA ROCIO TORRES NARVAEZ Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "16 Nombre del evento: IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Taller Ámbito: Nacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Claustro Universidad del Rosario Productos asociados Nombre del producto: Robot Proposal for Teaching-Learning Assistance of Deaf and Hard of Hearing Children Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente magistral Nombre: HERNAN ALFREDO BERNAL MUNOZ Rol en el evento: Ponente magistral Nombre: KAREN AGUIA ROJAS Rol en el evento: Ponente magistral Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente magistral Nombre: OSCAR JULIAN PERDOMO CHARRY Rol en el evento: Ponente magistral Nombre: ROCIO MOLINA BEJAR Rol en el evento: Ponente magistral Nombre: SARA CADAVID ESPINHA Rol en el evento: Ponente magistral",
+      "16 Nombre del evento: IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Taller Ámbito: Nacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Claustro Universidad del Rosario",
+      "Productos asociados Nombre del producto: Robot Proposal for Teaching-Learning Assistance of Deaf and Hard of Hearing Children Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente magistral Nombre: HERNAN ALFREDO BERNAL MUNOZ Rol en el evento: Ponente magistral Nombre: KAREN AGUIA ROJAS Rol en el evento: Ponente magistral Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente magistral Nombre: OSCAR JULIAN PERDOMO CHARRY Rol en el evento: Ponente magistral Nombre: ROCIO MOLINA BEJAR Rol en el evento: Ponente magistral Nombre: SARA CADAVID ESPINHA Rol en el evento: Ponente magistral",
+      "17 Nombre del evento: VII Encuentro de Investigación CIMED Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2022-09-27 00:00:00.0, 2022-09-28 00:00:00.0 en BOGOTÁ, D.C. - Hotel Tequendema Productos asociados Nombre del producto: Imaginería motora visual y cinestésica modula el ritmo alf Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: HOSPITAL UNIVERSITARIO MAYOR MEDERI Tipo de vinculación Gestionadora Participantes Nombre: DIEGO ALEJANDRO GONZALEZ CARMONA Rol en el evento: Ponente Nombre: KAREN CRISTINA JACOME DURAN Rol en el evento: Ponente Nombre: MARIA FERNANDA MANRIQUE Rol en el evento: Ponente Nombre: MARTHA ROCIO TORRES NARVAEZ Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "17 Nombre del evento: VII Encuentro de Investigación CIMED Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2022-09-27 00:00:00.0, 2022-09-28 00:00:00.0 en BOGOTÁ, D.C. - Hotel Tequendema",
+      "Productos asociados Nombre del producto: Imaginería motora visual y cinestésica modula el ritmo alf Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: HOSPITAL UNIVERSITARIO MAYOR MEDERI Tipo de vinculación Gestionadora",
+      "Participantes Nombre: DIEGO ALEJANDRO GONZALEZ CARMONA Rol en el evento: Ponente Nombre: KAREN CRISTINA JACOME DURAN Rol en el evento: Ponente Nombre: MARIA FERNANDA MANRIQUE Rol en el evento: Ponente Nombre: MARTHA ROCIO TORRES NARVAEZ Rol en el evento: Ponente Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "18 Nombre del evento: ForoLing20: ¿Cuál es el estado actual de la investigación lingüística en Colombia? Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2018-10-01 00:00:00.0, 2018-10-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Bogotá Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente",
+      "18 Nombre del evento: ForoLing20: ¿Cuál es el estado actual de la investigación lingüística en Colombia? Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2018-10-01 00:00:00.0, 2018-10-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Bogotá",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: OLIVER MÜLLER NA Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: OLIVER MÜLLER NA, PETER HAGOORT, \"Access to lexical information in language comprehension: Semantics before syntax\" . En: Estados Unidos JOURNAL OF COGNITIVE NEUROSCIENCE ISSN: 0898-929X ed: MIT Press v. 18 fasc. 1 p.84 - 96 ,2006, DOI: doi:10.1162/089892906775249997",
+        "titulo": "Access to lexical information in language comprehension: Semantics before syntax",
+        "doi": "doi:10.1162/089892906775249997",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: EVA GUTIERREZ, OLIVER MÜLLER NA, CRISTINA BAUS, MANUEL CARREIRAS, \"Electrophysiological evidence for phonological priming in Spanish Sign Language lexical access\" . En: Países Bajos NEUROPSYCHOLOGIA ISSN: 0028-3932 ed: Elsevier v. 50 fasc. 7 p.1335 - 1346 ,2012, DOI: 10.1016/j.neuropsychologia.2012.02.018 Palabras: priming fonológico, lengua de señas, acceso léxico, edad de adquisición, Sectores: Educación - Formación permanente y otras actividades de enseñanza, incluso educación a distancia y educación especial,",
+        "titulo": "Electrophysiological evidence for phonological priming in Spanish Sign Language lexical access",
+        "doi": "10.1016/j.neuropsychologia.2012.02.018",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): LEONARDO BARON BIRCHENALL, OLIVER MÜLLER NA, EDITH LABOS, \"Los conceptos innatos en la obra de Chomsky: Definición y propuesta de un método empírico para su estudio\" . En: Colombia AVANCES EN PSICOLOGIA LATINOAMERICANA ISSN: 1794-4724 ed: Universidad del Rosario, v. 31 fasc. 2 p.324 - 343 ,2013, DOI: Palabras: conceptos innatos, estudio empírico, psicolingüística, análisis semántico de corpus,",
+        "titulo": "Los conceptos innatos en la obra de Chomsky: Definición y propuesta de un método empírico para su estudio",
+        "doi": "Palabras:",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: OLIVER MÜLLER NA, JON ANDONI DUNABEITIA, MANUEL CARREIRAS, \"Orthographic and associative neighborhood density effects: What is shared, what is different?\" . En: Estados Unidos PSYCHOPHYSIOLOGY ISSN: 1469-8986 ed: John Wiley & Sons v. 47 fasc. 3 p.455 - 466 ,2010, DOI: 10.1111/j.1469-8986.2009.00960.x Palabras: reconocimiento visual de palabras, representación semántica, asociación, vecinos ortográficos, lenguaje, potenciales relacionados con eventos, Sectores: Educación - Educación preescolar y básica,",
+        "titulo": "Orthographic and associative neighborhood density effects: What is shared, what is different?",
+        "doi": "10.1111/j.1469-8986.2009.00960.x",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SILVIA BAQUERO CASTELLANOS, ALBA GALLO, OLIVER MÜLLER NA, \"El efecto de lexicalidad en la decisión léxica a lo largo de la primaria\" . En: Colombia FORMA Y FUNCION ISSN: 0120-338X ed: Universidad Nacionalde Colombia v. 26 fasc. 1 p.73 - 88 ,2013, DOI: NA",
+        "titulo": "El efecto de lexicalidad en la decisión léxica a lo largo de la primaria",
+        "doi": "NA",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): LEONARDO BARON BIRCHENALL, OLIVER MÜLLER NA, OSCAR GALINDO, OSCAR JAVIER GALINDO CABALLERO, LEONARDO FRANCISCO BARON BIRCHENALL, \"Métodos experimentales de estudio de la percepción temprana del habla\" . En: Colombia REVISTA COLOMBIANA DE PSICOLOGIA ISSN: 0121-5469 ed: Universidad Nacionalde Colombia v. 23 fasc. 1 p.73 - 94 ,2014, DOI: NA Palabras: percepción del habla, adquisición del lenguaje, infancia, estudio empírico, psicolingüística,",
+        "titulo": "Métodos experimentales de estudio de la percepción temprana del habla",
+        "doi": "NA",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LEONARDO BARON BIRCHENALL, OSCAR GALINDO, OLIVER MÜLLER NA, OSCAR JAVIER GALINDO CABALLERO, LEONARDO FRANCISCO BARON BIRCHENALL, \"La percepción del habla durante el primer año de vida\" . En: España REVISTA LATINOAMERICANA DE PSICOLOGIA ISSN: 0120-0534 ed: FOUNDATION ADVANCEMENT PSYCHOLOGY v. 46 fasc. 1 p.12 - 23 ,2014, DOI: NA",
+        "titulo": "La percepción del habla durante el primer año de vida",
+        "doi": "NA",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): LEONARDO BARON BIRCHENALL, OLIVER MÜLLER NA, \"La teoría lingüística de Noam Chomsky: del inicio a la actualidad\" . En: Colombia Lenguaje ISSN: 0120-3479 ed: Universidad del Valle v. 42 fasc. 2 p.417 - 442 ,2014, DOI: NA",
+        "titulo": "La teoría lingüística de Noam Chomsky: del inicio a la actualidad",
+        "doi": "NA",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: JORGE ELIECER BONILLA BENITEZ, SILVIA BAQUERO CASTELLANOS, OLIVER MÜLLER NA, \"Masked constituent priming of English compounds in native and non-native speakers\" . En: Reino Unido LANGUAGE COGNITION AND NEUROSCIENCE ISSN: 2327-3801 ed: ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD v. 31 fasc. 8 p.1038 - 1054 ,2016, DOI: 10.1080/23273798.2016.1179770",
+        "titulo": "Masked constituent priming of English compounds in native and non-native speakers",
+        "doi": "10.1080/23273798.2016.1179770",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DAVID ANDRES HOYOS RONDON, SILVIA BAQUERO CASTELLANOS, OLIVER MÜLLER NA, \"Relación entre presión y posición de grafema a inicio y fin de palabra en la escritura imprenta a mano de palabras del español\" . En: Venezuela LENGUA Y HABLA ISSN: 2244-811X ed: Universidad de los Andes v. 23 fasc. 1 p.440 - 451 ,2019, DOI:",
+        "titulo": "Relación entre presión y posición de grafema a inicio y fin de palabra en la escritura imprenta a mano de palabras del español",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SILVIA BAQUERO CASTELLANOS, ALBA GALLO, OLIVER MÜLLER NA, \"Evidencia para un efecto facilitador de la frecuencia silábica en la lectura de palabras en escolares hispanohablantes de 2º y 5º grado\" . En: Chile RLA ISSN: 0033-698X ed: Universidad De Concepcion v. 57 fasc. 2 p.165 - 182 ,2019, DOI: 10.4067/S0718-48832019000200165",
+        "titulo": "Evidencia para un efecto facilitador de la frecuencia silábica en la lectura de palabras en escolares hispanohablantes de 2º y 5º grado",
+        "doi": "10.4067/S0718-48832019000200165",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIA FERNANDA LARA BERNAL, BLANCA JANETH HERNANDEZ JARAMILLO, OLIVER MÜLLER NA, XIMENA PALACIOS ESPINOSA, \"Effect of Emotional Word Processing on Communicative and Social Functioning in the Elderly\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 2145-4507 ed: Universidad del Rosario, v. 21 fasc. 1 p.1 - 19 ,2023, DOI: 10.12804/revistas.urosario.edu.co/revsalud/a.10693 Palabras: emoción, funcionamiento comunicativo, lenguaje, envejecimiento, adulto mayor,",
+        "titulo": "Effect of Emotional Word Processing on Communicative and Social Functioning in the Elderly",
+        "doi": "10.12804/revistas.urosario.edu.co/revsalud/a.10693",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LEIDY JOHANNA RODRIGUEZ RIANO, SILVIA BAQUERO CASTELLANOS, CARLOS J ALVAREZ, OLIVER MÜLLER NA, \"Naturaleza del input y procesamiento de la sílaba en palabras en la enfermedad de Parkinson\" . En: España REVISTA DE INVESTIGACION EN LOGOPEDIA ISSN: 2174-5218 ed: University of Castilla la Mancha v. 13 fasc. 2 p.1 - 11 ,2023, DOI: 10.5209/rlog.83660 Palabras: lenguaje, enfermedad de Parkinson, escritura, sílaba, neurociencia,",
+        "titulo": "Naturaleza del input y procesamiento de la sílaba en palabras en la enfermedad de Parkinson",
+        "doi": "10.5209/rlog.83660",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SILVIA BAQUERO CASTELLANOS, OLIVER MÜLLER NA, \"Los escolares sordos profundos reconocen las palabras escritas del español usando la sílaba como una unidad de procesamiento cognitivo\" . En: Chile REVISTA SIGNOS ISSN: 0718-0934 ed: EDICIONES UNIV VALPARAISO v. 58 fasc. 117 p.26 - 47 ,2025, DOI: 10.4151/S0718-09342025011701060 Palabras: lectura, sordera profunda, sílaba, efecto inhibidor de la frecuencia silábica, escolares,",
+        "titulo": "Los escolares sordos profundos reconocen las palabras escritas del español usando la sílaba como una unidad de procesamiento cognitivo",
+        "doi": "10.4151/S0718-09342025011701060",
+        "anio": "2025"
+      }
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: WERNER DEUTSCH, OLIVER MÜLLER NA, \"Chomsky's new clothes\" En: Estados Unidos. 1999. BEHAVIORAL AND BRAIN SCIENCES. ISSN: 0140-525X p. 1020 - 1020 v.22 Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),"
+    ],
+    "otra_producci_n_blibliogr_fica": [
+      "Producción bibliográfica - Otra producción bibliográfica - Introducción: OLIVER MÜLLER NA, \"Avances en Psicología Latinoamericana (ISSN 1794-4224)\" En: Colombia. 2011. p. Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: OLIVER MÜLLER NA, \"Avances en Psicología Latinoamericana (ISSN-e 2145-4515), volumen 41, fascículo 2, https://doi.org/10.12804/revistas.urosario.edu.co/apl/apl.v41i2; editorial: \"(Des)confianza y Ciencia\"\" En: Colombia. 2023. p. Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: OLIVER MÜLLER NA, \"Avances en Psicología Latinoamericana (ISSN-e 2145-4515), volumen 39, fascículo 2, https://doi.org/10.12804/revistas.urosario.edu.co/apl/apl.v39i2; editorial: \"La ciencia en equipo: cambios de costumbres y lineamientos\"\" En: Colombia. 2022. p. Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: OLIVER MÜLLER NA, \" Avances en Psicología Latinoamericana (ISSN-e 2145-4515), volumen 41, fascículo 1, https://doi.org/10.12804/revistas.urosario.edu.co/apl/apl.v41i1; editorial: \" ¿Sueñan las inteligencias artificiales con ser autoras?\"\" En: Colombia. 2023. p. Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: OLIVER MÜLLER NA, \"Avances en Psicología Latinoamericana (ISSN-e 2145-4515), volumen 40, fascículo 1, https://doi.org/10.12804/revistas.urosario.edu.co/apl/apl.v40i1; editorial: \"Cuarenta años de Avances en Psicología Latinoamericana\"\" En: Colombia. 2022. p. Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: OLIVER MÜLLER NA, \"Avances en Psicología Latinoamericana (ISSN-e 2145-4515), volumen 40, fascículo 2, https://doi.org/10.12804/revistas.urosario.edu.co/apl/apl.v40i2; editorial: \"Nada nuevo: la plaga del plagio\"\" En: Colombia. 2022. p. Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: OLIVER MÜLLER NA, \"Avances en Psicología Latinoamericana (ISSN-e 2145-4515), volumen 39, fascículo 1, https://doi.org/10.12804/revistas.urosario.edu.co/apl/apl.v39i1; editorial: \"Continuidades en la revista Avances en Psicología Latinoamericana\"\" En: Colombia. 2021. p. Areas: Ciencias Sociales -- Psicología -- Psicología (Incluye Terapias de Aprendizaje, Habla, Visual y Otras Discapacidades Físicas y Mentales),"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Morfología en bilingües castellano-alemán Inicio: Enero 2012 Fin: Diciembre 2017 Duración Resumen Aprovechando la diferencia en la complejidad morfológica del alemán y español, deseamos explorar fenómenos de interferencia cognitiva en hablantes de estas dos lenguas. Trabajaremos con hablantes nativos de alemán y español y con bilingües alemán-español y español-alemán a lo la largo de diferentes proyectos.¿Cómo la morfología del español (L1) interfiere o facilita el aprendizaje del alemán como L2?",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollo del efecto inhibitorio de la frecuencia silábica en la lectura de niños escolares Inicio: Enero 2009 Fin: Noviembre 2011 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollo de los efectos de la frecuencia silábica y de la lexicalidad en la lectura de niños escolares en Chile Inicio: Julio 2015 Fin: Diciembre 2016 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Imaginería mental una experiencia de movimiento Inicio: Marzo 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Procesamiento fonológico y ortográfico en la lectura del español: El caso de los pseudohomófonos Inicio: Agosto 2013 Fin proyectado: Julio 2014 Fin: Noviembre 2015 Duración 18 Resumen La lecto-escritura es una técnica sociocultural esencial en el mundo de hoy, que es necesaria para participar en los ámbitos de la educación, del trabajo y la sociedad en general. No obstante, todavía hay muchas preguntas abiertas acerca de los procesos neurocognitivos que subyacen a una lecto-escritura exitosa. Una de esas preguntas es en qué medida el leer y entender una palabra escrita depende del procesamiento de información viso-ortográfica, de información fonológica (la fonología estudia la representación cognitiva/mental de los sonidos) y de la relación entre estos dos tipos de información. Una manera en que se ha estudiado este asunto, y en que se centrará el presente proyecto, ha sido a través de los llamados pseudohomófonos. Estos son cadenas de letras que no existen como palabras escritas (no tienen forma ortográfica legal), pero cuya pronunciación corresponde a una palabra existente. Un ejemplo sería ¿bisita¿ que corresponde a la pronunciación de la palabra ¿visita¿. Ambas formas tienen la misma forma fonológica-fonética pero distinta ortografía, siendo una de éstas perteneciente al español escrito y la otra forma no. De esta manera, los pseudohomófonos permiten disociar ortografía de fonología e investigar la cuestión del uso de información ortográfica y fonológica."
+    ]
+  }
+}

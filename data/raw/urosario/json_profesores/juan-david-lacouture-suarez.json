@@ -1,0 +1,53 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/juan-david-lacouture-suarez",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "juan.lacouture@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3724/thumbnail_IMG_2400.png",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=7o_15ZwAAAAJ&hl=es&oi=ao",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002251996",
+    "orcid": "https://orcid.org/0000-0002-2395-2827"
+  },
+  "areas_investigacion": [
+    "Artroplastia de hombro",
+    "Cirugía de hombro y codo",
+    "Ortopedia",
+    "Trauma del miembro superior"
+  ],
+  "perfil_profesional": "Juan David Lacouture Suárez es médico ortopedista con subespecialización en cirugía de hombro y codo. Su práctica clínica, académica e investigativa está orientada al manejo integral de patologías complejas del miembro superior, con énfasis en artroscopia, artroplastia, trauma y cirugía reconstructiva del hombro. Se ha desempeñado como cirujano de hombro y codo en el Hospital Serena del Mar en Cartagena, una institución con vínculos académicos con la Fundación Santa Fe de Bogotá, y colabora activamente con grupos interdisciplinarios enfocados en atención de alta complejidad, docencia y producción científica. Su formación incluyó una subespecialidad en cirugía de hombro y codo en la Fundación Santa Fe de Bogotá, seguida de una rotación avanzada en artroscopia y artroplastia de hombro en Niza, Francia, donde se expuso a estándares quirúrgicos europeos. Mantiene colaboraciones estrechas con instituciones nacionales e internacionales, como el Hospital for Special Surgery (HSS), y participa en redes académicas en Europa y Latinoamérica. Sus principales intereses académicos abarcan la cirugía reconstructiva de hombro, las complicaciones y desenlaces en artroplastia, las fracturas complejas de húmero proximal, la inestabilidad glenohumeral y la evaluación de resultados clínicos y basados en valor. Ha contribuido con más de 37 publicaciones científicas indexadas sobre hombro y codo, que incluyen artículos originales, revisiones y capítulos técnicos, disponibles en plataformas como Google Scholar, PubMed y ResearchGate. Además, presenta regularmente sus investigaciones en congresos nacionales e internacionales, promoviendo el intercambio científico y la actualización de prácticas basadas en evidencia. Es miembro activo de la Sociedad Latinoamericana de Hombro y Codo (SLAHOC), miembro internacional de la Sociedad Europea de Hombro y Codo (SECEC), de la Sociedad Colombiana de Ortopedia y Traumatología (SCCOT) y de la Academia Nacional de Medicina. Su compromiso profesional se enfoca en la educación médica continua, el desarrollo de protocolos institucionales basados en evidencia y la implementación de modelos de atención centrados en el paciente y en el valor clínico.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002251996"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-2395-2827"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=7o_15ZwAAAAJ&hl=es&oi=ao"
+    ]
+  },
+  "id": "juan-david-lacouture-suarez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002251996",
+    "cod_rh": "0002251996",
+    "datos_generales": {
+      "Nombre": "Juan David Lacouture Suarez",
+      "Nombre en citaciones": "Juan David Lacouture",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar"
+    ],
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mateo-andres-diaz-quiroz",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia",
+  "email": "mateo.diaz@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n1315/mateo_diaz_quiroz.jpg",
+  "afiliaciones": [
+    "Profesor de docencia - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Salud pública"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Fatigue in multiple sclerosis: A scoping review of pharmacological and nonpharmacological interventions",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1177/20552173241312527"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Resilience and quality of life in patients who underwent mechanical ventilation due to COVID-19, one year after discharge: a cross-sectional study",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1186/s41687-024-00748-2"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Mutation profile of SARS-CoV-2 genome in a sample from the first year of the pandemic in Colombia",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.1016/j.meegid.2021.105192"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: Enfoque Traslacional",
+      "fecha": "2021-11-21",
+      "enlace": "https://research-hub.urosario.edu.co/display/e9f20c31-99fc-491c-9aa4-5211fc811ab5"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: Un enfoque traslacional",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/display/e2f565fb-e323-4934-ab6f-e13c8107e886"
+    }
+  ],
+  "total_publicaciones": 5,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Evaluación de la situación nutricional y el neurodesarrollo en niños de jardines infantiles de un barrio de Bogotá, Colombia",
+      "fecha": "2023-11-29 - 2025-12-29",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8b12bcc6-f743-4e55-b369-7f0604dbbdaf"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Tecnologías facilitadoras para la vacunación contra el Virus del Papiloma Humano en niñas de 9 a 17 años en Colombia - Piloto Huila",
+      "fecha": "2023-11-22 - 2025-11-15",
+      "enlace": "https://research-hub.urosario.edu.co/display/cb4f7a5b-23c0-4a4d-a2a9-f21285d8da26"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Un enfoque cultural del desarrollo infantil en las comunidades indígenas latinoamericanas",
+      "fecha": "2023-10-01 - 2025-10-12",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F98ccabf7-87f8-4e91-ac4d-6ad0ae0e39ea"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Funcionalidad y resilencia en pacientes con COVID19 después de requerir manejo con ventilación mecánica invasiva",
+      "fecha": "2021-09-01 - 2023-02-28",
+      "enlace": "https://research-hub.urosario.edu.co/display/d0f3bfc0-3711-4450-a38b-7f749a667c4a"
+    }
+  ],
+  "id": "mateo-andres-diaz-quiroz",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor de docencia"
+}

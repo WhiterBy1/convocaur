@@ -1,0 +1,92 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/cristhian-fabian-ruiz-ramos",
+  "nombre": "",
+  "cargo_principal": "Director UR STEAM",
+  "email": "cristhian.ruiz@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3131/fabian+ruiz.jpeg",
+  "afiliaciones": [
+    "Director UR STEAM - Escuela de Administración - Universidad del Rosario",
+    "Director de Desarrollo - Escuela de Administración - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=LMfE_ZAAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0009-0002-6907-887X"
+  },
+  "areas_investigacion": [
+    "Artifical Intelligence",
+    "Digital Strategy",
+    "Digital Transformation",
+    "Science and Technology"
+  ],
+  "perfil_profesional": "Ingeniero Mecánico y Ambiental de la Universidad de los Andes, con magíster en Ingeniería Industrial de la misma Universidad, con más de 15 años de experiencia en la intersección entre negocios, tecnología y consultoría estratégica. Lidera procesos de transformación digital con un enfoque estratégico y humano, orientados a generar valor organizacional sostenible en sectores públicos y privados.Desde su rol como Director de Desarrollo y de URSTEAM en la Escuela de Administración de la Universidad del Rosario, ha impulsado proyectos centrados en la adopción tecnológica, la gobernanza digital y la formación de líderes empresariales capaces de enfrentar entornos complejos, interdependientes y en constante disrupción, como los que plantea la Sociedad 5.0.Es un apasionado por construir puentes entre la academia y el ecosistema productivo, diseñando programas de alto impacto, liderando alianzas estratégicas y promoviendo soluciones colaborativas que integran tecnología, talento y propósito.Cree firmemente que el centro es lo humano, y que ¡solo conectando capacidades y conocimiento es posible transformar con sentido!",
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Actualización del sistema CRM con integración a los medios de atención"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Chatbot transportes seccional Cundinamarca y Amazonas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de un software basado en cloud computing para la optimización de la gestión de cargas laborales en el grupo de recursos humanos de la secretaría de educación departamental"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de una aplicación móvil de apoyo emocional para la comunidad Rosarista"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño e implementación de Chatbot con IA Generativa para la atención y orientación de los usuarios, en trámites judiciales realizados a través del aplicativo SIUGJ"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Fortalecimiento de la Ciberseguridad Institucional mediante la identificación de amenazas en Deep & Dark web"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación del trabajo híbrido y gestión del conocimiento en el área de tecnología de la Dirección General de Redeban"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelo probabilístico que evidencia los factores críticos de éxito para el desarrollo de un territorio inteligente en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Plataforma digital para la gestión de permisos de movilidad por Pico y Placa en Cali"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Proyecto Café Nariño Tecno Raíces"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Renovación del portal web para personas naturales en entidad financiera"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Sistema centralizado automatización de historias clínicas de trasplantes de órganos SICEHI"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Sistema de Conciliación Operativo Contable - SICOOPEC"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Sistema de Gestión del Conocimiento para optimizar la evaluación y ejecución de proyectos en la Vicepresidencia de Tecnología de Redeban"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0002-6907-887X"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=LMfE_ZAAAAAJ&hl=en"
+    ]
+  },
+  "id": "cristhian-fabian-ruiz-ramos",
+  "facultad_csv": "Escuela de Administración",
+  "cargo_csv": "Director UR STEAM"
+}

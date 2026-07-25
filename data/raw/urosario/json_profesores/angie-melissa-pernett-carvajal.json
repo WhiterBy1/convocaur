@@ -1,0 +1,38 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/angie-melissa-pernett-carvajal",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "angie.pernett@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n6358/Captura+de+pantalla+2025-11-24+082956.png",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000043633"
+  },
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000043633"
+    ]
+  },
+  "id": "angie-melissa-pernett-carvajal",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000043633",
+    "cod_rh": "0000043633",
+    "datos_generales": {
+      "Nombre": "angie melissa pernett carvajal",
+      "Nombre en citaciones": "PERNETT CARVAJAL, ANGIE MELISSA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Pregrado/Universitario FUNDACIÓN UNIVERSIDAD DEL NORTE MEDICINA Febrerode2008 - Diciembrede 2013"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Medicina General e Interna"
+    ]
+  }
+}

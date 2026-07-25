@@ -1,0 +1,45 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mauricio-hernandez-gonzalez",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra posgrado",
+  "email": "mauricio.hernandezg@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3030/mhcv.jpg",
+  "afiliaciones": [
+    "Profesor de cátedra posgrado - Escuela de Estudios Sociales, Políticos e Internacionales - Universidad del Rosario",
+    "Profesor cátedra posgrado - Maestría en Gestión Estratégica de la Información e Innovación Digital - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=128-xGUAAAAJ",
+    "orcid": "https://orcid.org/my-orcid?orcid=0009-0009-2240-3680"
+  },
+  "areas_investigacion": [
+    "Diseño de experiencia de usuario",
+    "Experiencia de usuario",
+    "Investigación de usuario",
+    "Usabilidad",
+    "e-commerce"
+  ],
+  "perfil_profesional": "Mauricio Hernández Gonzalez, tiene un pregrado en Diseño Gráfico de la Universidad Nacional de Colombia, una especialización en Organización y Acceso de Información de la AIIM, una especialización en Investigación y Planificación en UX de la Universitat Oberta de Catalunya y múltiples certificaciones en metodologías ágiles y usabilidad. Es experto en estrategia, diseño e implementación de productos y servicios digitales, utilizando marcos de trabajo como design thinking, lean startup y metodologías ágiles. Mauricio ha trabajado como Jefe de Usabilidad y Diseño en Casa Editorial El Tiempo, Jefe de Experiencia de Cliente Digital en Soluciones Bolívar, Gerente de Producto en Linkea, Head of Design en Soho y Product Design Manager en Anthology/Blackboard. Ha liderado equipos de UX/UI en diversos países y ha sido responsable de importantes rediseños y optimizaciones en plataformas digitales. En su trayectoria profesional, Mauricio ha sido reconocido por su capacidad para integrar la tecnología con las necesidades del negocio y del usuario, promoviendo metodologías centradas en el usuario y el pensamiento de diseño. Entre sus logros destacan la creación de procesos y metodologías para áreas de experiencia de cliente, la optimización de plataformas digitales y el liderazgo en proyectos de fintech, banca digital y comercio electrónico. Mauricio ha sido conferencista en eventos como el Día Mundial de la Usabilidad y Interaction Latin America, y ha sido profesor titular y jurado invitado en cursos de experiencia de usuario y arquitectura de información en universidades como la Escuela Colombiana de Ingeniería y la Universidad del Rosario.",
+  "formacion_academica": [
+    "2004, Diseñador Grafico, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2015, Especialista en Investigación y Planificación de Experiencia de Usuario, Universitat Oberta de Catalunya"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Transformando la cultura organizacional para la experiencia del cliente"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/my-orcid?orcid=0009-0009-2240-3680"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=128-xGUAAAAJ"
+    ]
+  },
+  "id": "mauricio-hernandez-gonzalez",
+  "facultad_csv": "Escuela de Estudios Sociales, Políticos e Internacionales",
+  "cargo_csv": "Profesor cátedra posgrado"
+}

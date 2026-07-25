@@ -1,0 +1,753 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/rodrigo-cabrera-perez",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "rodrigo.cabrerap@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n12112/RODRIGO_CABRERA.jfif",
+  "afiliaciones": [
+    "Investigador - Grupo de investigación en Hemodinamia y Función Vascular - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=55331152000",
+    "google_scholar": "https://scholar.google.com/citations?user=yu6a0SkAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/rodrigo-cabrera-perez",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001435405",
+    "orcid": "https://orcid.org/0000-0002-5731-1788"
+  },
+  "areas_investigacion": [
+    "Genetics (LCSH)",
+    "Molecular biology"
+  ],
+  "perfil_profesional": "Biólogo de la Universidad de los Andes, Doctor en Ciencias Biomédicas de Baylor College of Medicine. Beneficiario del programa de inserción de doctores a empresas en la Fundación Cardioinfantil en 2012, jefe del laboratorio de Biología Molecular de la Fundación Cardioinfantil desde 2015 y profesor principal de carrera de la Escuela de Medicina y Ciencias de la Salud desde 2020. Ha realizado Investigación en las bases genéticas de varias enfermedades del corazón, incluyendo cardiomiopatia Hipertrofica, síndrome de QT largo y cardiopatías congénitas.",
+  "formacion_academica": [
+    "2001, Biólogo, Universidad de los Andes - Bogotá D.C.",
+    "2011, Doctor en Biología Molecular y Celular, Baylor College of Medicine"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "A new in vitro pre-clinical method for testing SARS-CoV-2 nasopharyngeal swabs",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1038/s41598-025-21107-1"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Genetic Structure of the Y-Chromosome in Colombia: An Analysis of Regional Diversity and Ancestry",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1002/ajhb.70171"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Detection of High-Risk blaNDM-5-Positive Escherichia coli ST167 Clones in Singapore",
+      "fecha": "2025-10-6",
+      "enlace": "https://doi.org/https://doi.org/10.1093/cid/ciaf154"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Refining rare disease variant discovery in an isolated Andean community through imputation-enhanced IBD and kinship inference from whole exome sequencing data",
+      "fecha": "2025-10-5",
+      "enlace": "https://doi.org/https://doi.org/10.1093/hmg/ddaf132"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Plasmid dynamics driving carbapenemase gene dissemination in healthcare environments: a nationwide analysis of closed Enterobacterales genomes",
+      "fecha": "2025-10-28",
+      "enlace": "https://doi.org/https://doi.org/10.1038/s41467-025-64515-7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Detection of a Novel Homozygous PEX5 Stop-Loss Variant Associated with Zellweger Syndrome in a Highly Endogamic Family",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.2147/TACG.S518636"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Integrating next-generation sequencing and artificial intelligence for the identification and validation of pathogenic variants in colorectal cancer",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.3389/fonc.2025.1568205"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The polygenic implication of clopidogrel responsiveness: Insights from platelet reactivity analysis and next-generation sequencing",
+      "fecha": "2024-7-1",
+      "enlace": "https://doi.org/10.1371/journal.pone.0306445"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional Analysis of BRCA1 3’UTR Variants Predisposing to Breast Cancer",
+      "fecha": "2024-5-23",
+      "enlace": "https://doi.org/10.2147/TACG.S444546"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Germline mutations of breast cancer susceptibility genes through expanded genetic analysis in unselected Colombian patients",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1186/s40246-024-00623-7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Phenotypic and molecular characterization of the largest worldwide cluster of hereditary angioedema type 1",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1371/journal.pone.0311316"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional Analysis of BRCA1 3’UTR Variants Predisposing to Breast Cancer",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.2147/TACG.S444546"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Performance Comparison of a Duplex Implementation of the CDC EUA 2019-nCoV Assay with the Seegene Allplex-SARS-CoV-2 Assay for the Detection of SARS-CoV-2 in Nasopharyngeal Swab Samples",
+      "fecha": "2022-9-21",
+      "enlace": "https://doi.org/10.3390/mps5050073"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Next-generation sequencing of postmortem molecular markers to support for medicolegal autopsy",
+      "fecha": "2022-11-14",
+      "enlace": "https://doi.org/10.1016/j.fsir.2022.100300"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Structural modelling of kcnq1 and kcnh2 double mutant proteins, identified in two severe long qt syndrome cases, reveals new insights into cardiac channelopathies",
+      "fecha": "2021-12-1",
+      "enlace": "https://doi.org/10.3390/ijms222312861"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A Novel Splice-Site Mutation in the ELN Gene Suggests an Alternative Mechanism for Vascular Elastinopathies",
+      "fecha": "2020-12-17",
+      "enlace": "https://doi.org/10.2147/TACG.S282240"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Protocol to obtain targeted transcript sequence data from snake venom samples collected in the Colombian field",
+      "fecha": "2018-6-15",
+      "enlace": "https://doi.org/10.1016/j.toxicon.2018.03.009"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Identification of a New Candidate Locus for Ebstein Anomaly in 1p36.2",
+      "fecha": "2018-5-1",
+      "enlace": "https://doi.org/10.1159/000488820"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Identification of clinically relevant phenotypes in patients with Ebstein anomaly",
+      "fecha": "2018-3-1",
+      "enlace": "https://doi.org/10.1002/clc.22870"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Influencia del polimorfismo rs11549465 de HIF-1α en los niveles de hemoglobina y lactato en pacientes de cirugía cardiovascular",
+      "fecha": "2017-1-1",
+      "enlace": "https://doi.org/10.15446/revfacmed.v65n2.57337"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Semiconductor Whole Exome Sequencing for the Identification of Genetic Variants in Colombian Patients Clinically Diagnosed with Long QT Syndrome",
+      "fecha": "2016-8-1",
+      "enlace": "https://doi.org/10.1007/s40291-016-0207-2"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The outcome of free tissue transfers in patients with hematological diseases: 20-Year experiences in single microsurgical center",
+      "fecha": "2014-10-1",
+      "enlace": "https://doi.org/10.1002/micr.22243"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Schizosaccharomyces pombe Arc3 is a conserved subunit of the Arp2/3 complex required for polarity, actin organization, and endocytosis",
+      "fecha": "2011-6-1",
+      "enlace": "https://doi.org/10.1002/yea.1853"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Proteasome nuclear import mediated by Arc3 can influence efficient DNA damage repair and mitosis in schizosaccharomyces pombe",
+      "fecha": "2010-9-15",
+      "enlace": "https://doi.org/10.1091/mbc.E10-06-0506"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The eIF3 Interactome Reveals the Translasome, a Supercomplex Linking Protein Synthesis and Degradation Machineries",
+      "fecha": "2009-10-9",
+      "enlace": "https://doi.org/10.1016/j.molcel.2009.09.026"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Prolonged ethanol ingestion decreases alpha-mannosidase activity and induces its redistribution to the fluid phase in rat cauda epididymis.",
+      "fecha": "2003-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5fec1bb5-5eec-4165-a2a0-d07295598eaf"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A renin-like enzyme in rat luteal tissue: Evidence of local synthesis and its regulation during pregnancy",
+      "fecha": "1991-1-1",
+      "enlace": "https://doi.org/10.1677/joe.0.1280043"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Cyclical changes in plasma renin during the oestrous cycle in the rat: Synchronized effect of oestrogen and progesterone",
+      "fecha": "1989-1-1",
+      "enlace": "https://doi.org/10.1677/joe.0.1210261"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Changes during lactation in the renin-like enzyme concentration in rat luteal tissue",
+      "fecha": "1987-1-1",
+      "enlace": "https://doi.org/10.1530/acta.0.1160526"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A renin-like enzyme in luteal tissue",
+      "fecha": "1986-10-1",
+      "enlace": "https://doi.org/10.1016/0303-7207(86)90120-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Half life of circulating renin under different experimental conditions",
+      "fecha": "1977-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F938191cc-06c9-40c0-a118-feffdcd744a6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "'Chymotensin' - An angiotensin like substance released from human plasma by chymotrypsin",
+      "fecha": "1974-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4c49b40b-96e3-4d20-b3b4-a4ce9a94f5ac"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Circulating life of renin and the sustained pressor principle in normal, nephrectomized and ischemic kidney rats",
+      "fecha": "1974-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/b247fca4-6011-4806-ba8c-baa221c440c6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Renin releasing factor in a plasma albumin fraction.",
+      "fecha": "1972-7-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1b3b1ac8-0fe9-4245-86b5-0cc08a00adf6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Renin releasing activity of a blood plasma fraction",
+      "fecha": "1972-4-1",
+      "enlace": "https://doi.org/10.1007/BF02008312"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On a plasma albumin fraction with renin releasing activity.",
+      "fecha": "1972-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2b9fd98c-ad12-462d-bb39-27ca5f2eb123"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Release of renin by rat kidney slices.",
+      "fecha": "1970-10-1",
+      "enlace": "https://doi.org/10.1152/ajplegacy.1970.219.4.1036"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Renin production and release by rat kidney slices.",
+      "fecha": "1970-10-1",
+      "enlace": "https://doi.org/10.1152/ajplegacy.1970.219.4.1042"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2024-4-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/b51cb69b-48e5-472f-bded-d064c48a82df"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Determinación del perfil genómico de variantes patogénicas en pacientes con cáncer gástrico no seleccionado en la población colombiana",
+      "fecha": "2024-4-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/ed95a2bf-8050-41f4-ba3a-311975494400"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Identificación de Alelos de HLA-DRB1 y Epitopes asociados con Hepatitis Autoinmune Tipo 1 en Pacientes Adultos Mediante Tipificación Basada en Secuencia en Pacientes Colombianos",
+      "fecha": "2023-11-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F855eb4b2-8b17-40d2-9a83-c8dc618aade2"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Frecuencia de alteraciones germinales en genes de riesgo alto/moderado para riesgo de cáncer de mama hereditario, estudio multicéntrico en población no seleccionada",
+      "fecha": "2022-11-19",
+      "enlace": "https://research-hub.urosario.edu.co/display/e08af3ee-6ec0-49e9-ae2c-04d5cb2fc460"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Current events and projection of the genetic study of cardiovascular diseases in Colombia",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1016/s0120-5633(13)70016-0"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Understanding the genetic basis of coronary heart disease - Polymorphisms in angiotensin converting enzyme",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1016/s0120-5633(13)70071-8"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2023-11-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6a5d76c4-2a5e-44f6-a6ee-3b138a541e7d"
+    }
+  ],
+  "total_publicaciones": 45,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Implicación de la variación de la secuencia de la 3’UTR en el cáncer de seno.",
+      "fecha": "2021-11-23 - 2024-11-05",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F76a381d2-47ac-4cd7-b41a-0ad52ca0a8f8"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Verificación del desempeño (validación secundaria) de la prueba molecular de PCR en tiempo real (RT-qPCR) en la plataforma Vivalytic One®* (Vivalytic SARS-CoV-2) para la detección de SARS-CoV-2 en el punto de atención (POC)",
+      "fecha": "2024-01-15 - 2024-06-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6febf28f-3531-4bc3-bca5-d9ef39a77166"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Secuenciación dirigida por CRISPR y nanoporos para la genotificación de genes altamente polimórficos.",
+      "fecha": "2022-02-08 - 2024-02-08",
+      "enlace": "https://research-hub.urosario.edu.co/display/cc6d0988-8e8e-48ee-b3cc-734280e4117f"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Genómica de fenotipos extremos de la miopía: herramienta para el diagnóstico de las enfermedades visuales",
+      "fecha": "2021-09-14 - 2023-09-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F70a29c37-34ab-4019-9ae5-3410d36b4281"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Genómica funcional para la descripción de mutaciones en el diagnóstico molecular del cáncer de seno esporádico en población Colombiana.",
+      "fecha": "2022-02-01 - 2027-06-18",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F32ab9a56-2956-4c61-9b3c-13ba38c0cc6a"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Implicaciones de variantes farmacogenómicas en la respuesta a fenitoína: hacia la medicina de precisión y la seguridad del paciente",
+      "fecha": "2025-05-31 - 2027-02-28",
+      "enlace": "https://research-hub.urosario.edu.co/display/b542a0ba-70ab-4128-a545-4def984e5c96"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Implicación del riesgo poligénico en la reactividad plaquetaria de pacientes con síndrome coronario agudo tratados con clopidogrel.",
+      "fecha": "2021-11-10 - 2025-06-20",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8bffc85c-3f6e-4b2e-8c04-e4f21cfa9463"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Genómica funcional para la descripción de mutaciones en el diagnóstico molecular del cáncer de colon y recto esporádico en población colombiana",
+      "fecha": "2021-01-01 - 2025-06-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9b1d027b-7cb7-4739-b64c-c3cafed6e0c6"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Factores genéticos asociados a la severidad clínica en población colombiana afectada por SARS-CoV-2.",
+      "fecha": "2022-02-01 - 2023-08-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F855508fe-b929-4eaf-b6e6-fc9d1f90ac01"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Impacto de los factores genéticos y no genéticos en la severidad de la infección por SARS-CoV-2: hacia la generación de un modelo de predicción de riesgo en población colombiana",
+      "fecha": "2021-03-01 - 2022-03-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7fe22aff-5bad-444b-a6ee-72364ab30c0b"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Plataforma canal virtual de ventas (e-commerce y mobile) para la cadena de supermercados Delta con apoyo de inteligencia artificial"
+    }
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/rodrigo-cabrera-p%C3%A9rez-8962aa82/"
+    ],
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001435405"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-5731-1788"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=yu6a0SkAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/rodrigo-cabrera-perez"
+    ],
+    "scopus_id": [
+      "55331152000"
+    ]
+  },
+  "id": "rodrigo-cabrera-perez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001435405",
+    "cod_rh": "0001435405",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Senior (IS) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Rodrigo Cabrera Pérez",
+      "Nombre en citaciones": "CABRERA PÉREZ, RODRIGO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Doctorado BAYLOR COLLEGE OF MEDICINE Ciencias Biomédicas Agostode2003 - Diciembrede 2010 Arc3-Dependent Proteasome mobility is required for efficient DNA damage repair and Mitosis",
+      "Pregrado/Universitario UNIVERSIDAD DE LOS ANDES Ciencias Juliode1995 - Marzode 2001 Utilización de Técnicas Bioquímicas en Combinación para la Detección de Proteínas de Unión a Calcio en Plasmodium falciparum",
+      "Secundario COLEGIO ANGLO COLOMBIANO Juliode1989 - Juniode 1995",
+      "Primaria COLEGIO ANGLO COLOMBIANO Juliode1982 - Juniode 1989"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración Universidad De Rice Bioinformática Abrilde2008 - Agostode 2008"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Junio de 2020 de",
+      "UNIVERSITAT POMPEU FABRA Dedicación: 3 horas Semestrales Marzo de 2013 de Actividades de administración - Miembro de comité asesor - Cargo: Miembro de comité asesor Marzo de 2013 de",
+      "FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Dedicación: 40 horas Semanales Junio de 2012 de Actividades de administración - Miembro de comité asesor - Cargo: Miembro de comité asesor Junio de 2012 de - Miembro de comité asesor - Cargo: Miembro de comité asesor Junio de 2012 de Actividades de docencia - Especialización - Nombre del curso: Actualidad y proyección en la medicina molecular, 25 Agosto 2012 Octubre 2012",
+      "BAYLOR COLLEGE OF MEDICINE Dedicación: 20 horas Semanales Agosto de 2003 Diciembre de 2010 Actividades de administración - Miembro de comité asesor - Cargo: Miembro de comité asesor Marzo de 2006 Abril de 2006 Actividades de docencia - Postgrado - Nombre del curso: Biología Molecular de la Célula, 8 Junio 2010 Agosto 2010 - Postgrado - Nombre del curso: Biología Molecular de la Célula, 8 Junio 2008 Agosto 2008 - Postgrado - Nombre del curso: Tutorías Estudiantes de Primer año (NIH Initiative for Maximizing Student Diversity), 2 Agosto 2005 Junio 2006 - Postgrado - Nombre del curso: Asistente Docente para Interacciónes Moleculares, 4 Octubre 2004 Diciembre 2004 Actividades de investigación - Pasantías - Titulo: Bioquímica de la cromatina de los genes regulados por estrógeno Enero 2004 Marzo 2004 - Investigación y Desarrollo - Titulo: Biología Celular de la proteólisis mediada por el proteasoma 26S Abril 2004 Diciembre 2010 - Pasantías - Titulo: Caracterización bioquímica del receptor de sulfonilurea (SUR1) Octubre 2003 Diciembre 2003 - Pasantías - Titulo: Biología Celular de los receptores de estrógenos Agosto 2003 Octubre 2003",
+      "COLEGIO ANGLO COLOMBIANO Dedicación: 40 horas Semanales Julio de 2001 Julio de 2003 Actividades de docencia - Docencia/Enseñanza secundaria - Nombre del curso: Ciencias y Matemáticas, 30 Julio 2001 Julio 2003"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular",
+      "Ciencias Naturales -- Ciencias Biológicas -- Genética y Herencia"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica., Activa: Si",
+      "Cambios en la expresión génica en el corazón con Hipertrofia Ventricular Izquierda, Activa: Si",
+      "Supresores de tumores, Activa: No",
+      "Receptores Nucleares, Activa: No",
+      "Biología Estructural, Activa: No",
+      "Alteraciones genéticas en el cáncer de seno, Activa: No",
+      "Biología Celular del Proteasoma 26S, Activa: No",
+      "Expresión Génica, Activa: No"
+    ],
+    "reconocimientos": [
+      "Finalista para el premio Baylor Research Advocates for Student Scientists,BAYLOR COLLEGE OF MEDICINE - Noviembrede 2003",
+      "Premio para la asistencia a conferencia,American Society of Cell Biology - Diciembrede 2005",
+      "Primer lugar en presentación Lester and Sue Smith Breast Center Retreat,BAYLOR COLLEGE OF MEDICINE - Abrilde 2007",
+      "Tercer Puesto en Presentación MCB Graduate Student Symposium,BAYLOR COLLEGE OF MEDICINE - Mayode 2008",
+      "Premio Convocatoria Interna - Día de la Investigación,FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA - Juniode 2012"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: RODRIGO CABRERA PEREZ, Biología Molecular y Aplicación Clínica, Finalidad: Entrenar a personal de la salud en el uso de técnicas de Biología Molecular en diagnóstico e investigación . En: Colombia ,2017, ,FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA. participación: Docente , 8 semanas Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: RODRIGO CABRERA PEREZ, IDENTIFICACION DE MUTACIONES EN GENES ASOCIADOS A CANALOPATIAS HEREDITARIAS MEDIANTE ANALISIS EXOMICO UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Estado: Tesis concluida DOCTORADO EN CIENCIAS - BIOLOGIA, 2016. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Tutor(es)/Cotutor(es): RODRIGO CABRERA PEREZ, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: RODRIGO CABRERA PEREZ, Síntesis y Evaluación Histológica de Constructos Tridimensionales que Promueven la Interacción de Células Mesenquimales con Ectodermo Oral Embrionario, de Ratas Lewis, para la Obtención de Tejidos Similares a Dientes. PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida CIENCIAS BIOLOGICAS, 2012. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Lorenza Maria Jaramillo Tutor(es)/Cotutor(es): RODRIGO CABRERA PEREZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: RODRIGO CABRERA PEREZ, Efecto de JMJD2A y proteínas asociadas sobre la expresión génica y cambios morfológicos en cardiomiocitos hipertróficos para la identificación de posibles blancos terapéuticos UNIVERSIDAD DE LA SABANA Estado: Tesis concluida Doctorado en Biociencias , 2012. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Wendy Rosales Rada Tutor(es)/Cotutor(es): FERNANDO LIZCANO LOSADA , RODRIGO CABRERA PEREZ, Areas: Ciencias Naturales -- Otras Ciencias Naturales -- Otras Ciencias Naturales,",
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: RODRIGO CABRERA PEREZ, Pasantía Doctoral BAYLOR COLLEGE OF MEDICINE Estado: Tesis concluida Ciencias Biomédicas, 2005. Dirigió como: Tutor principal, Persona(s) orientada(s): Ryan Duren Tutor(es)/Cotutor(es): RODRIGO CABRERA PEREZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos dirigidos/Tutorías de otro tipo: RODRIGO CABRERA PEREZ, Pasantía Doctoral BAYLOR COLLEGE OF MEDICINE Estado: Tesis concluida Ciencias Biomédicas, 2006. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Yash Yoshi Tutor(es)/Cotutor(es): RODRIGO CABRERA PEREZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: RODRIGO CABRERA PEREZ, Análisis Genético Postmorten de Mutaciones asociadas a canalopatías cardiacas hereditarias en la población Colombiana UNIVERSIDAD NACIONAL DE COLOMBIA Estado: Tesis en curso Doctorado en Ciencias - Biología, Línea Biología, 2017. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Joseph Alape Ariza Tutor(es)/Cotutor(es): CLARA ISABEL BERMUDEZ SANTANA , RODRIGO CABRERA PEREZ, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: RODRIGO CABRERA PEREZ, Titulo: Análisis metagenómico del viroma intestinal en pacientes intrahospitalarios y de Unidad de Cuidados Intensivos de Bogotá, Colombia Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN CIENCIAS NATURALES Nombre del orientado: Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: RODRIGO CABRERA PEREZ, Titulo: Identification of non-model mammal species using the MinION DNA sequencer from Oxford Nanopore. Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD EAFIT programa académico MAESTRÍA EN BIOCIENCIAS Nombre del orientado: Sara Velásquez Restrepo Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: RODRIGO CABRERA PEREZ, Titulo: Síntesis y Evaluación Histológica de Constructos Tridimensionales que Promueven la Interacción de Células Mesenquimales con Ectodermo Oral Embrionario, de Ratas Lewis, para la Obtención de Tejidos Similares a Dientes. Tipo de trabajo presentado: en: PONTIFICIA UNIVERSIDAD JAVERIANA programa académico CIENCIAS BIOLOGICAS Nombre del orientado: Lorenza Maria Jaramillo Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Otra: RODRIGO CABRERA PEREZ, Comité Organizador 10 día de la Investigación en: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: 5to Congreso Internacional El Cuidado Cardiovascular y las Nuevas Tecnologías Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-26 00:00:00.0, 2013-09-27 00:00:00.0 en BOGOTÁ, D.C. - Bogotá Instituciones asociadas Nombre de la institución: Cleveland Clinic Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "1 Nombre del evento: 5to Congreso Internacional El Cuidado Cardiovascular y las Nuevas Tecnologías Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-09-26 00:00:00.0, 2013-09-27 00:00:00.0 en BOGOTÁ, D.C. - Bogotá",
+      "Instituciones asociadas Nombre de la institución: Cleveland Clinic Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "2 Nombre del evento: 45th American Society for Cell Biology Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2005-12-01 00:00:00.0, en San Francisco - Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: American Society of Cell Biology Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "2 Nombre del evento: 45th American Society for Cell Biology Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2005-12-01 00:00:00.0, en San Francisco -",
+      "Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: American Society of Cell Biology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "3 Nombre del evento: ASCB 50th Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-12-01 00:00:00.0, en Philadelphia - Philadelphia Productos asociados Nombre del producto: Proteasome nuclear import mediated by Arc3 can influence efficient DNA damage repair and mitosis in Schizosaccharomyces pombe Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: American Society of Cell Biology Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "3 Nombre del evento: ASCB 50th Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-12-01 00:00:00.0, en Philadelphia - Philadelphia",
+      "Productos asociados Nombre del producto: Proteasome nuclear import mediated by Arc3 can influence efficient DNA damage repair and mitosis in Schizosaccharomyces pombe Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: American Society of Cell Biology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "4 Nombre del evento: 46th American Society for Cell Biology Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2006-12-01 00:00:00.0, en San Diego - Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: American Society of Cell Biology Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "4 Nombre del evento: 46th American Society for Cell Biology Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2006-12-01 00:00:00.0, en San Diego -",
+      "Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: American Society of Cell Biology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "5 Nombre del evento: 4th Annual Lester and Sue Smith Breast Center Research Retreat Tipo de evento: Simposio Ámbito: Internacional Realizado el:2008-01-01 00:00:00.0, en Cleveland - Instituciones asociadas Nombre de la institución: Lester and Sue Smith Breast Care Center Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "5 Nombre del evento: 4th Annual Lester and Sue Smith Breast Center Research Retreat Tipo de evento: Simposio Ámbito: Internacional Realizado el:2008-01-01 00:00:00.0, en Cleveland -",
+      "Instituciones asociadas Nombre de la institución: Lester and Sue Smith Breast Care Center Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "6 Nombre del evento: 2nd Annual Breast Center Research Retreat Tipo de evento: Simposio Ámbito: Internacional Realizado el:2006-01-01 00:00:00.0, en Lake Conroe, TX - Instituciones asociadas Nombre de la institución: Lester and Sue Smith Breast Care Center Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "6 Nombre del evento: 2nd Annual Breast Center Research Retreat Tipo de evento: Simposio Ámbito: Internacional Realizado el:2006-01-01 00:00:00.0, en Lake Conroe, TX -",
+      "Instituciones asociadas Nombre de la institución: Lester and Sue Smith Breast Care Center Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "7 Nombre del evento: 1st Annual Breast Center Research Retreat Tipo de evento: Simposio Ámbito: Internacional Realizado el:2005-01-01 00:00:00.0, en Lake Conroe, TX - Instituciones asociadas Nombre de la institución: Lester and Sue Smith Breast Care Center Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "7 Nombre del evento: 1st Annual Breast Center Research Retreat Tipo de evento: Simposio Ámbito: Internacional Realizado el:2005-01-01 00:00:00.0, en Lake Conroe, TX -",
+      "Instituciones asociadas Nombre de la institución: Lester and Sue Smith Breast Care Center Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "8 Nombre del evento: Keystone Symposium on Ubiquitin and Signaling Tipo de evento: Simposio Ámbito: Internacional Realizado el:2007-02-01 00:00:00.0, en Big Sky, MT - Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Keystone Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "8 Nombre del evento: Keystone Symposium on Ubiquitin and Signaling Tipo de evento: Simposio Ámbito: Internacional Realizado el:2007-02-01 00:00:00.0, en Big Sky, MT -",
+      "Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Keystone Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "9 Nombre del evento: VI simposio andino de medicina y laboratorio. De la Genética a la Genómica: el nuevo diagnostico Tipo de evento: Simposio Ámbito: Nacional Realizado el:2015-08-28 00:00:00.0, 2015-08-29 00:00:00.0 en BOGOTÁ, D.C. - Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "9 Nombre del evento: VI simposio andino de medicina y laboratorio. De la Genética a la Genómica: el nuevo diagnostico Tipo de evento: Simposio Ámbito: Nacional Realizado el:2015-08-28 00:00:00.0, 2015-08-29 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "10 Nombre del evento: Primera jornada académica de Genetix secuenciación de siguiente generación: aplicaciones clínicas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-03-27 00:00:00.0, 2015-03-27 00:00:00.0 en BOGOTÁ, D.C. - Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "10 Nombre del evento: Primera jornada académica de Genetix secuenciación de siguiente generación: aplicaciones clínicas Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-03-27 00:00:00.0, 2015-03-27 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "11 Nombre del evento: 13 Día de la Investigación \"Retos y Métodos en Investigación Clínica\" Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-11-13 00:00:00.0, 2015-11-13 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: A. Desarrollo de un método para la identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Ponente",
+      "11 Nombre del evento: 13 Día de la Investigación \"Retos y Métodos en Investigación Clínica\" Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2015-11-13 00:00:00.0, 2015-11-13 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: A. Desarrollo de un método para la identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Ponente",
+      "12 Nombre del evento: VI International Symposium on HAI Antimicrobial Stewardship, a multidisciplinary approach Tipo de evento: Simposio Ámbito: Internacional Realizado el:2015-02-26 00:00:00.0, 2015-02-27 00:00:00.0 en BOGOTÁ, D.C. - Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "12 Nombre del evento: VI International Symposium on HAI Antimicrobial Stewardship, a multidisciplinary approach Tipo de evento: Simposio Ámbito: Internacional Realizado el:2015-02-26 00:00:00.0, 2015-02-27 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "13 Nombre del evento: 11 Día de la Investigación Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-11-15 00:00:00.0, en BOGOTÁ, D.C. - Bogotá Productos asociados Nombre del producto: Identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Fundación Cardio Infantil - F.C.I. Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "13 Nombre del evento: 11 Día de la Investigación Tipo de evento: Otro Ámbito: Nacional Realizado el:2013-11-15 00:00:00.0, en BOGOTÁ, D.C. - Bogotá",
+      "Productos asociados Nombre del producto: Identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Fundación Cardio Infantil - F.C.I. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "14 Nombre del evento: 10 Día de la Investigación Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-11-09 00:00:00.0, en BOGOTÁ, D.C. - Bogotá Productos asociados Nombre del producto: Caracterización de las proteínas asociadas a JMJD2A en el corazón humano. Descifrando los mecanismos moleculares de la hipertrofia ventricular izquierda. Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Fundación Cardio Infantil - F.C.I. Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "14 Nombre del evento: 10 Día de la Investigación Tipo de evento: Otro Ámbito: Nacional Realizado el:2012-11-09 00:00:00.0, en BOGOTÁ, D.C. - Bogotá",
+      "Productos asociados Nombre del producto: Caracterización de las proteínas asociadas a JMJD2A en el corazón humano. Descifrando los mecanismos moleculares de la hipertrofia ventricular izquierda. Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Fundación Cardio Infantil - F.C.I. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "15 Nombre del evento: 12 Día de la Investigación \"Consentimiento Informado: Retos Contemporaneos\" Tipo de evento: Otro Ámbito: Nacional Realizado el:2014-11-14 00:00:00.0, 2014-11-14 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: B. Detección de mutaciones en pacientes con diagnóstico clínico de SQTL por medio de secuenciación en semiconductores: Nuevas tecnologías para el diagnóstico genético Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: A. Desarrollo de un método para la identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica: Resultados preliminares. Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Gestionadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Ponente",
+      "15 Nombre del evento: 12 Día de la Investigación \"Consentimiento Informado: Retos Contemporaneos\" Tipo de evento: Otro Ámbito: Nacional Realizado el:2014-11-14 00:00:00.0, 2014-11-14 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: B. Detección de mutaciones en pacientes con diagnóstico clínico de SQTL por medio de secuenciación en semiconductores: Nuevas tecnologías para el diagnóstico genético Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: A. Desarrollo de un método para la identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica: Resultados preliminares. Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Ponente",
+      "16 Nombre del evento: Fourth International Fission Yeast Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-06-01 00:00:00.0, en Copenhagen - Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: University Of Copenhagen Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "16 Nombre del evento: Fourth International Fission Yeast Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2007-06-01 00:00:00.0, en Copenhagen -",
+      "Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: University Of Copenhagen Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "17 Nombre del evento: Molecular & Cellular Biology, R&D Workshop Seminar Series Tipo de evento: Seminario Ámbito: Nacional Realizado el:2007-01-01 00:00:00.0, en Houston - Instituciones asociadas Nombre de la institución: BAYLOR COLLEGE OF MEDICINE Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "17 Nombre del evento: Molecular & Cellular Biology, R&D Workshop Seminar Series Tipo de evento: Seminario Ámbito: Nacional Realizado el:2007-01-01 00:00:00.0, en Houston -",
+      "Instituciones asociadas Nombre de la institución: BAYLOR COLLEGE OF MEDICINE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "18 Nombre del evento: The Fourth International Symposium on COP9 Signalosome, Proteasome, and eIF3 Tipo de evento: Simposio Ámbito: Internacional Realizado el:2006-06-01 00:00:00.0, en New Haven, CT - Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Yale University Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "18 Nombre del evento: The Fourth International Symposium on COP9 Signalosome, Proteasome, and eIF3 Tipo de evento: Simposio Ámbito: Internacional Realizado el:2006-06-01 00:00:00.0, en New Haven, CT -",
+      "Productos asociados Nombre del producto: Regulation of the proteasome by Yin6/Int6 and an actin regulatory protein, Arc21 Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Yale University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "19 Nombre del evento: Graduate Student Research Symposium Tipo de evento: Simposio Ámbito: Internacional Realizado el:2008-01-01 00:00:00.0, en Houston - Instituciones asociadas Nombre de la institución: BAYLOR COLLEGE OF MEDICINE Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "19 Nombre del evento: Graduate Student Research Symposium Tipo de evento: Simposio Ámbito: Internacional Realizado el:2008-01-01 00:00:00.0, en Houston -",
+      "Instituciones asociadas Nombre de la institución: BAYLOR COLLEGE OF MEDICINE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "20 Nombre del evento: MCB Graduate Student Research Symposium Tipo de evento: Simposio Ámbito: Internacional Realizado el:2008-01-01 00:00:00.0, en Houston - Instituciones asociadas Nombre de la institución: BAYLOR COLLEGE OF MEDICINE Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "20 Nombre del evento: MCB Graduate Student Research Symposium Tipo de evento: Simposio Ámbito: Internacional Realizado el:2008-01-01 00:00:00.0, en Houston -",
+      "Instituciones asociadas Nombre de la institución: BAYLOR COLLEGE OF MEDICINE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Organizador",
+      "21 Nombre del evento: 7th World Congress of Pediatric Cardiology and Cardiac Surgery Tipo de evento: Otro Ámbito: Internacional Realizado el:2017-07-16 00:00:00.0, 2017-07-19 00:00:00.0 en ARMENIA - Productos asociados Nombre del producto: Identification of genetic variants and chromosomal abnormalities associated with Ebstein anomaly Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "21 Nombre del evento: 7th World Congress of Pediatric Cardiology and Cardiac Surgery Tipo de evento: Otro Ámbito: Internacional Realizado el:2017-07-16 00:00:00.0, 2017-07-19 00:00:00.0 en ARMENIA -",
+      "Productos asociados Nombre del producto: Identification of genetic variants and chromosomal abnormalities associated with Ebstein anomaly Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "22 Nombre del evento: IX Congreso Colombiano y XVI Congreso Iberoamericano de Bancos de Sangre y Medicina Transfusional Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-05-25 00:00:00.0, 2016-05-29 00:00:00.0 en MEDELLÍN - Productos asociados Nombre del producto: Estudio comparativo de los resultados confirmatorios para Infecciones Transmisibles por Transfusión antes y después de la actualización de la circular 0082 del Instituto Nacional de Salud Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: ALEJANDRA FONSECA CUEVAS Rol en el evento: Asistente Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "22 Nombre del evento: IX Congreso Colombiano y XVI Congreso Iberoamericano de Bancos de Sangre y Medicina Transfusional Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-05-25 00:00:00.0, 2016-05-29 00:00:00.0 en MEDELLÍN -",
+      "Productos asociados Nombre del producto: Estudio comparativo de los resultados confirmatorios para Infecciones Transmisibles por Transfusión antes y después de la actualización de la circular 0082 del Instituto Nacional de Salud Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALEJANDRA FONSECA CUEVAS Rol en el evento: Asistente Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "23 Nombre del evento: 3er Simposio Internacional de Cardiopatías Congénitas Fundación Cardioinfantil. Boston Childrens Hospital Tipo de evento: Simposio Ámbito: Internacional Realizado el:2016-04-22 00:00:00.0, 2016-04-23 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Characterization of Chromosomal Abnormalities and Mutations in Patients with Infrequent Congenital Heart Disease (ICHD): Towards a Genetic Diagnosis for Colombian Children Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "23 Nombre del evento: 3er Simposio Internacional de Cardiopatías Congénitas Fundación Cardioinfantil. Boston Childrens Hospital Tipo de evento: Simposio Ámbito: Internacional Realizado el:2016-04-22 00:00:00.0, 2016-04-23 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Characterization of Chromosomal Abnormalities and Mutations in Patients with Infrequent Congenital Heart Disease (ICHD): Towards a Genetic Diagnosis for Colombian Children Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "24 Nombre del evento: Segundo Congreso Colombiano de Bioquímica y Biología Molecular Tipo de evento: Otro Ámbito: Nacional Realizado el:2016-11-03 00:00:00.0, 2016-11-05 00:00:00.0 en MEDELLÍN - Productos asociados Nombre del producto: Diseño de primers de amplificación y secuenciación de Sanger para HLA-DRB1 mediante el uso de herramientas informáticas Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "24 Nombre del evento: Segundo Congreso Colombiano de Bioquímica y Biología Molecular Tipo de evento: Otro Ámbito: Nacional Realizado el:2016-11-03 00:00:00.0, 2016-11-05 00:00:00.0 en MEDELLÍN -",
+      "Productos asociados Nombre del producto: Diseño de primers de amplificación y secuenciación de Sanger para HLA-DRB1 mediante el uso de herramientas informáticas Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "25 Nombre del evento: Día de de la Investigación \"Transformando Políticas y Prácticas a Través de la Investigación\" Fundación Cardioinfantil-Instituto de Cardiología Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-11-10 00:00:00.0, 2016-11-11 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Evaluación del efecto antitrombótico del veneno de la serpiente Crotalus durissus cumanensis con fines a desarrollar tratamientos cardiovasculares Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Detección de cepa 027/NAP1/BI de Clostridium difficile por Biología Molecular en Fundación Cardioinfantil Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Diseño de iniciadores con herramientas informáticas para la tipificación por secuenciación de HLA-DRB1 Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Clasificación Fenotípica de la Anomalía de Ebstein Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: ALEJANDRA FONSECA CUEVAS Rol en el evento: Asistente Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "25 Nombre del evento: Día de de la Investigación \"Transformando Políticas y Prácticas a Través de la Investigación\" Fundación Cardioinfantil-Instituto de Cardiología Tipo de evento: Congreso Ámbito: Nacional Realizado el:2016-11-10 00:00:00.0, 2016-11-11 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Evaluación del efecto antitrombótico del veneno de la serpiente Crotalus durissus cumanensis con fines a desarrollar tratamientos cardiovasculares Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Detección de cepa 027/NAP1/BI de Clostridium difficile por Biología Molecular en Fundación Cardioinfantil Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Diseño de iniciadores con herramientas informáticas para la tipificación por secuenciación de HLA-DRB1 Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Clasificación Fenotípica de la Anomalía de Ebstein Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALEJANDRA FONSECA CUEVAS Rol en el evento: Asistente Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente",
+      "26 Nombre del evento: Genética del síndrome de Williams en una población colombiana Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-03-01 00:00:00.0, 2017-03-03 00:00:00.0 en BARRANQUILLA - Productos asociados Nombre del producto: Genética del síndrome de Williams en una población colombiana Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente , Ponente",
+      "26 Nombre del evento: Genética del síndrome de Williams en una población colombiana Tipo de evento: Congreso Ámbito: Nacional Realizado el:2017-03-01 00:00:00.0, 2017-03-03 00:00:00.0 en BARRANQUILLA -",
+      "Productos asociados Nombre del producto: Genética del síndrome de Williams en una población colombiana Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente , Ponente",
+      "27 Nombre del evento: European Human Genetics Conference in conjunction with the European Meeting on Psychosocial Aspects of Genetics Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-06-16 00:00:00.0, 2018-06-19 00:00:00.0 en Milan - MiCo Milan Productos asociados Nombre del producto: MULTIVARIATE ANALYSIS OF COMORBIDITIES IN CONGENITAL HEART DISEASE: MAKING SENSE OF PHENOTYPIC HETEROGENEITY Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente , Ponente",
+      "27 Nombre del evento: European Human Genetics Conference in conjunction with the European Meeting on Psychosocial Aspects of Genetics Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-06-16 00:00:00.0, 2018-06-19 00:00:00.0 en Milan - MiCo Milan",
+      "Productos asociados Nombre del producto: MULTIVARIATE ANALYSIS OF COMORBIDITIES IN CONGENITAL HEART DISEASE: MAKING SENSE OF PHENOTYPIC HETEROGENEITY Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente , Ponente",
+      "28 Nombre del evento: XV Congreso Colombiano & IX Internacional de Genética Humana 2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-09-26 00:00:00.0, 2018-09-29 00:00:00.0 en BARRANQUILLA - Hotel DANN CARLTON Barranquilla Productos asociados Nombre del producto: Identificación de defectos genéticos en subtipos definidos a partir del fenotipo de pacientes con Anomalía de Ebstein Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente , Ponente magistral",
+      "28 Nombre del evento: XV Congreso Colombiano & IX Internacional de Genética Humana 2018 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2018-09-26 00:00:00.0, 2018-09-29 00:00:00.0 en BARRANQUILLA - Hotel DANN CARLTON Barranquilla",
+      "Productos asociados Nombre del producto: Identificación de defectos genéticos en subtipos definidos a partir del fenotipo de pacientes con Anomalía de Ebstein Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: RODRIGO CABRERA PEREZ Rol en el evento: Asistente , Ponente magistral"
+    ],
+    "publicaciones_editoriales_no_especializadas": [
+      "Divulgación pública de la ciencia - Publicaciones editoriales no especializadas: cartillas, manual no especializado, periódicos, revistas, boletín, etc: Nombre del producto: https://urosario.edu.co/sites/default/files/2023-04/N-04-2020-issn-2590-924X.pdf, Fecha de presentación: 2020 - Diciembre, Ciudad: BOGOTÁ, D.C.-BOGOTÁ, D. C.-Colombia, Medio de verificación: https://urosario.edu.co/sites/default/files/2023-04/N-04-2020-issn-2590-924X.pdf, Ruta de circulación: Con cobertura sobre todo el territorio nacional, Proyecto vinculado: FORTALECIMIENTO DE CAPACIDADES INSTALADAS DE CIENCIA Y TECNOLOGÍA DE LA FUNDACIÓN CARDIOINFANTIL/UNIVERSIDAD DEL ROSARIO PARA ATENDER PROBLEMÁTICAS CON LA IDENTIFICACIÓN DE AGENTES BIOLÓGICOS DE ALTO RIESGO PARA LA SALUD HUMANA EN BOGOTÁ D.C. BOGOTÁ"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, MOISES WASSERMAN, \"Utilización de técnicas bioquímicas en combinación para la detección de proteínas de unión a calcio en plasmodium falciparum\" . En: Colombia REVISTA DE LA ACADEMIA COLOMBIANA DE CIENCIAS EXACTAS FISICAS Y NATURALES ISSN: 0370-3908 ed: ACAD COLOMB CIEN EXACTAS FISICAS NAT v. 27 fasc. 102 p.125 - 131 ,2003, DOI:",
+        "titulo": "Utilización de técnicas bioquímicas en combinación para la detección de proteínas de unión a calcio en plasmodium falciparum",
+        "anio": "2003"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, ASTRID MUNOZ, ASTRID GEOVANA MUNOZ ORTIZ, \"Actualidad y Proyección del Estudio Genético de las Enfermedades Cardiovasculares en Colombia\" . En: Colombia REVISTA COLOMBIANA DE CARDIOLOGIA ISSN: 0120-5633 ed: Permanyer Publications Ltd v. 20 fasc. 1 p.1 - 4 ,2013, DOI:",
+        "titulo": "Actualidad y Proyección del Estudio Genético de las Enfermedades Cardiovasculares en Colombia",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Entendiendo las bases genéticas de la enfermedad coronaria - Polimorfismos en la Enzima Convertidora de la Angotensina\" . En: Colombia REVISTA COLOMBIANA DE CARDIOLOGIA ISSN: 0120-5633 ed: Permanyer Publications Ltd v. 20 fasc. 5 p.285 - 286 ,2013, DOI:",
+        "titulo": "Entendiendo las bases genéticas de la enfermedad coronaria - Polimorfismos en la Enzima Convertidora de la Angotensina",
+        "anio": "2013"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LAURENCE BRILL, RODRIGO CABRERA PEREZ, ODED KLEIFELD, MICHAEL GLICKMAN, ERIC CHANG, DIETER WOLF, \"The eIF3 interactome reveals the translasome, a supercomplex linking protein synthesis and degradation machineries.\" . En: Estados Unidos MOLECULAR CELL ISSN: 1097-2765 ed: Cell Press v. 9 fasc. 36 p.141 - 152 ,2009, DOI: 10.1016/j.molcel.2009.09.026",
+        "titulo": "The eIF3 interactome reveals the translasome, a supercomplex linking protein synthesis and degradation machineries.",
+        "doi": "10.1016/j.molcel.2009.09.026",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: WENDY ROSALES RADA, DIANA HARLEIDY VARGAS TRUJILLO, RODRIGO CABRERA PEREZ, FERNANDO LIZCANO LOSADA, \"Histone Demethylase Increases In Cardiac Hypertrophy\" . En: Colombia EXPERIMENTAL AND CLINICAL CARDIOLOGY ISSN: 1205-6626 ed: Pulsus Group Inc. v. 20 fasc. 9 p.4790 - 4795 ,2014, DOI:",
+        "titulo": "Histone Demethylase Increases In Cardiac Hypertrophy",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Semiconductor Whole Exome Sequencing for the Identification of Genetic Variants in Colombian Patients Clinically Diagnosed with Long QT Syndrome\" . En: Colombia MOLECULAR DIAGNOSIS THERAPY ISSN: 1179-2000 ed: ADIS INT LTD v. 20 fasc. 4 p.353 - 362 ,2016, DOI: doi:10.1007/s40291-016-0207-2",
+        "titulo": "Semiconductor Whole Exome Sequencing for the Identification of Genetic Variants in Colombian Patients Clinically Diagnosed with Long QT Syndrome",
+        "doi": "doi:10.1007/s40291-016-0207-2",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, TEDDY VADAKKAN, JOEL OTERO, FRANCISCA KRIEGENBURG, R HARTMANN PETERSEN, MARY DICKINSON, ERIC CHANG, \"Proteasome nuclear import mediated by Arc3 can influence efficient DNA damage repair and mitosis in Schizosaccharomyces pombe.\" . En: Estados Unidos MOLECULAR BIOLOGY OF THE CELL ISSN: 1939-4586 ed: AMER SOC CELL BIOLOGY v. 21 fasc. 18 p.3125 - 3136 ,2010, DOI: 10.1091/mbc.E10-06-0506",
+        "titulo": "Proteasome nuclear import mediated by Arc3 can influence efficient DNA damage repair and mitosis in Schizosaccharomyces pombe.",
+        "doi": "10.1091/mbc.E10-06-0506",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIANA BURGOS ANGULO, RODRIGO CABRERA PEREZ, \"Influencia del polimorfismo rs11549465 de HIF-1α en los niveles de hemoglobina y lactato en pacientes de cirugía cardiovascular\" . En: Colombia REVISTA FACULTAD DE MEDICINA ISSN: 0120-0011 ed: Universidad Nacionalde Colombia v. 65 fasc. 2 p.253 - 260 ,2017, DOI: http://dx.doi.org/10.15446/revfacmed.v65n2.57337",
+        "titulo": "Influencia del polimorfismo rs11549465 de HIF-1α en los niveles de hemoglobina y lactato en pacientes de cirugía cardiovascular",
+        "doi": "http://dx.doi.org/10.15446/revfacmed.v65n2.57337",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, VICTOR MANUEL HUERTAS QUINONES, MARISOL CARRENO JAIMES, CARLOS MARTIN RESTREPO FERNANDEZ, ALBERTO GARCIA TORRES, NESTOR FERNANDO SANDOVAL REYES, KAREN JULIETH MORENO MEDINA, RODOLFO JOSE DENNIS VERANO, \"Identification of clinically relevant phenotypes in patients with Ebstein Anomaly\" . En: Colombia CLINICAL CARDIOLOGY ISSN: 1932-8737 ed: John Wiley & Sons v. 41 fasc. 3 p.343 - 348 ,2018, DOI: DOI: 10.1002/clc.22870",
+        "titulo": "Identification of clinically relevant phenotypes in patients with Ebstein Anomaly",
+        "doi": "DOI:",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ALEJANDRA FONSECA CUEVAS, RODRIGO CABRERA PEREZ, \"Protocol to obtain targeted transcript sequence data from snake venom samples collected in the Colombian field\" . En: Colombia TOXICON ISSN: 0041-0101 ed: Elsevier v. 148 fasc. N/A p.1 - 6 ,2018, DOI: https://doi.org/10.1016/j.toxicon.2018.03.009",
+        "titulo": "Protocol to obtain targeted transcript sequence data from snake venom samples collected in the Colombian field",
+        "doi": "https://doi.org/10.1016/j.toxicon.2018.03.009",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, CARLOS MARTIN RESTREPO FERNANDEZ, VICTOR MANUEL HUERTAS QUINONES, \"Identification of a New Candidate Locus for Ebstein Anomaly in 1p36.2\" . En: Colombia MOLECULAR SYNDROMOLOGY ISSN: 1661-8769 ed: Karger v. 9 fasc. 3 p.164 - 169 ,2018, DOI: doi: 10.1159/000488820",
+        "titulo": "Identification of a New Candidate Locus for Ebstein Anomaly in 1p36.2",
+        "doi": "doi:",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, JINFENG SUO, EVELIN YOUNG, ERIC CHANG, \"Schizosaccharomyces pombe Arc3 is a conserved subunit of the Arp2/3 complex required for polarity, actin organization and endocytosis\" . En: Estados Unidos YEAST ISSN: 1097-0061 ed: John Wiley & Sons v. 28 fasc. 6 p.495 - 503 ,2011, DOI: 10.1002/yea.1853",
+        "titulo": "Schizosaccharomyces pombe Arc3 is a conserved subunit of the Arp2/3 complex required for polarity, actin organization and endocytosis",
+        "doi": "10.1002/yea.1853",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Dilemas éticos de las investigaciones en genética, en el marco de las normativas colombianas que las regulan\" . En: Colombia Investigaciones En Seguridad Social Y Salud ISSN: 0124-1699 ed: Secretaria Distrital De Salud v. 19 fasc. 2 p.36 - 43 ,2018, DOI:",
+        "titulo": "Dilemas éticos de las investigaciones en genética, en el marco de las normativas colombianas que las regulan",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"A Novel Splice-Site Mutation in the ELN Gene Suggests an Alternative Mechanism for Vascular Elastinopathies\" . En: Colombia APPLICATION OF CLINICAL GENETICS ISSN: 1178-704X ed: Dove medical press v. 13 fasc. p.233 - 240 ,2020, DOI: 10.2147/TACG.S282240",
+        "titulo": "A Novel Splice-Site Mutation in the ELN Gene Suggests an Alternative Mechanism for Vascular Elastinopathies",
+        "doi": "10.2147/TACG.S282240",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Structural Modelling of KCNQ1 and KCNH2 Double Mutant Proteins, Identified in Two Severe Long QT Syndrome Cases, Reveals New Insights into Cardiac Channelopathies\" . En: Suiza INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES ISSN: 1661-6596 ed: mdpi v. 22 fasc. 23 p.1286 - 1300 ,2021, DOI: 10.3390/ijms222312861",
+        "titulo": "Structural Modelling of KCNQ1 and KCNH2 Double Mutant Proteins, Identified in Two Severe Long QT Syndrome Cases, Reveals New Insights into Cardiac Channelopathies",
+        "doi": "10.3390/ijms222312861",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Performance Comparison of a Duplex Implementation of the CDC EUA 2019-nCoV Assay with the Seegene Allplex-SARS-CoV-2 Assay for the Detection of SARS-CoV-2 in Nasopharyngeal Swab Samples\" . En: Suiza METHODS AND PROTOCOLS ISSN: 2409-9279 ed: Multidisciplinary Digital Publishing Institute (MDPI) v. 5 fasc. 73 p.1 - 10 ,2022, DOI: 10.3390/mps5050073",
+        "titulo": "Performance Comparison of a Duplex Implementation of the CDC EUA 2019-nCoV Assay with the Seegene Allplex-SARS-CoV-2 Assay for the Detection of SARS-CoV-2 in Nasopharyngeal Swab Samples",
+        "doi": "10.3390/mps5050073",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Next-generation sequencing of postmortem molecular markers to support for medicolegal autopsy\" . En: Países Bajos FORENSIC SCIENCE INTERNATIONAL REPORTS ISSN: 2665-9107 ed: Elsevier v. 6 fasc. Revista p.100300 - 100300 ,2022, DOI: 10.1016/j.fsir.2022.100300",
+        "titulo": "Next-generation sequencing of postmortem molecular markers to support for medicolegal autopsy",
+        "doi": "10.1016/j.fsir.2022.100300",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Germline mutations of breast cancer susceptibility genes through expanded genetic analysis in unselected Colombian patients\" . En: Colombia HUMAN GENOMICS ISSN: 1479-7364 ed: BMC v. 18 fasc. 1 p.68 - 68 ,2024, DOI:",
+        "titulo": "Germline mutations of breast cancer susceptibility genes through expanded genetic analysis in unselected Colombian patients",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"The polygenic implication of clopidogrel responsiveness: Insights from platelet reactivity analysis and next-generation sequencing\" . En: Colombia PLOS ONE ISSN: 1932-6203 ed: PUBLIC LIBRARY SCIENCE v. 19 fasc. 7 p.0306445 - 0306445 ,2024, DOI:",
+        "titulo": "The polygenic implication of clopidogrel responsiveness: Insights from platelet reactivity analysis and next-generation sequencing",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"Functional Analysis of BRCA1 3¿UTR Variants Predisposing to Breast Cancer\" . En: Colombia APPLICATION OF CLINICAL GENETICS ISSN: 1178-704X ed: Dove medical press v. 17 fasc. p.57 - 62 ,2024, DOI:",
+        "titulo": "Functional Analysis of BRCA1 3¿UTR Variants Predisposing to Breast Cancer",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODRIGO CABRERA PEREZ, \"P-IG-45 | The RHAG*01N.26 Variant Does Not Lead to Rh-Null but to Rh-Mod Phenotype: The Importance of Absorption and Elusion Assays\" . En: Colombia TRANSFUSION ISSN: 1537-2995 ed: John Wiley & Sons v. 63 fasc. 55 p.199 - 199 ,2023, DOI:",
+        "titulo": "P-IG-45 | The RHAG*01N.26 Variant Does Not Lead to Rh-Null but to Rh-Mod Phenotype: The Importance of Absorption and Elusion Assays",
+        "anio": "2023"
+      }
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: RODRIGO CABRERA PEREZ, \"Next-generation sequencing of postmortem molecular markers to support for medicolegal autopsy\" En: Países Bajos. 2022. FORENSIC SCIENCE INTERNATIONAL REPORTS. ISSN: 2665-9107 p. NA - NA v.6 Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,"
+    ],
+    "informes_tecnicos": [
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: RODRIGO CABRERA PEREZ, Informe de ejecución - Fortalecimiento de capacidades instaladas de Ciencia y Tecnología de la Fundación Cardioinfantil/Universidad del Rosario para atender problemáticas con la identificación de agentes biológicos de alto riesgo para la salud humana en Bogotá D.C. Bogotá, Nombre comercial: , contrato/registro: BPIN 2020000100105, . En: Colombia, ,2023, meses p.0 Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Informe técnico: RODRIGO CABRERA PEREZ, INFORME TÉCNICO DE AVANCE O FINAL DE PROGRAMAS Y PROYECTOS DE CTeI - Desarrollo de una plataforma de edición genómica, por técnica CRISPR-Cas9, para el tratamiento de enfermedades huérfanas asociadas a aneurismas de la aorta torácica., Nombre comercial: , contrato/registro: 726-2018, . En: Colombia, ,2023, meses p.0 Areas: Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Caracterización del Translasoma Inicio: Mayo 2007 Fin proyectado: Diciembre 2009 Fin: Octubre 2009 Duración 24 Resumen Caracterización del complejo proteico del Translasoma.",
+      "Tipo de proyecto: Investigación y desarrollo Influencia del polimorfismo rs11549465 de HIF-1 alfa en el desarrollo y respuesta a la anemia peri-operatoria en pacientes de cirugía cardiaca: ¿Personas naturalmente resistentes a la anemia? Inicio: Abril 2015 Fin: Septiembre 2016 Duración Resumen Objetivo general Describir la frecuencia del alelo T del polimorfismo rs11549465 de HIF 1 alfa en una muestra de pacientes de cirugía cardiaca programada y su relación con los niveles basales de hemoglobina y lactato. Objetivos específicos Describir la población de estudio según variables demográficas y clínicas. Determinar la prevalencia del alelo T del polimorfismo rs11549465 en la población estudiada. Evaluar si existen diferencias en los niveles de hemoglobina basal entre los pacientes de cirugía cardiaca portadores del alelo T y el alelo silvestre del polimorfismo rs11549465. Determinar si existen diferencias en el valor basal de lactato en los pacientes con el alelo T de rs11549465 y los pacientes con el alelo silvestre.",
+      "Tipo de proyecto: Investigación y desarrollo Determinación de la variabilidad genética, frecuencia, y aparición de cambios genéticos en HCMV en pacientes con sospecha de infección y enfermedad por HCMV resistente a tratamientos antivirales convencionales Inicio: Enero 2016 Duración Resumen Determinar la variabilidad genética, frecuencia, y aparición de cambios genéticos en HCMV en pacientes con sospecha de infección y enfermedad por HCMV resistente a tratamientos antivirales convencionales.",
+      "Tipo de proyecto: Investigación y desarrollo Identificación y validación funcional de nuevos genes y mutaciones asociados con aneurismas de aorta torácica de inicio temprano: hacia la descripción de nuevos marcadores moleculares y blancos terapéuticos de la enfermedad. Inicio: Septiembre 2018 Duración Resumen Las aortopatías son un grupo de enfermedades caracterizadas por aneurismas, dilatación y tortuosidad de la aorta. Entre ellas, el aneurisma de la aorta torácica (AAT) se ha asociado con índices considerables de mortalidad por su asociación con disección y ruptura. El AAT puede clasificarse como sindrómico, familiar no-sindrómico y esporádico. Se ha estimado que más del 20% de los AAT se presentan en enfermedades hereditarias como algunos síndromes asociados a disfunciones del tejido conectivo con daño aórtico, con presentación frecuente a edades tempranas de la vida. Entre estos, se incluyen anormalidades del sistema del arco aórtico como la tetralogía de Fallot y el trono arterioso. Estas enfermedades, que evidencian superposiciones fenotípicas, son causadas por mutaciones en diferentes genes. En las formas familiares no sindrómicas y esporádicas de AAT se han descrito variantes en algunos genes como MYH11, ACTA2, SLC2A10, NOTCH1 y TGFBR2. Varios estudios han demostrado y respaldan la secuenciación de siguiente generación (NGS) como una herramienta fundamental que permite la identificación de mutaciones relacionadas con el fenotipo, lo que in fine la convierte en una herramienta fundamental para el diagnóstico molecular temprano del AAT. Indudablemente, el descubrimiento de nuevos genes y mutaciones relacionadas con esta enfermedad es fundamental para que los pacientes afectados y sus familias se beneficien de asesoramiento genético y potenciales abordajes farmacogenéticos futuros. Sin embargo, los análisis genómicos a gran escala (e.g. NGS) han permitido encontrar mutaciones potencialmente causales en menos del 30% de los casos. Esta situación se relaciona, en buena parte, porque los estudios se han efectuado principalmente mediante el análisis de paneles limitados de genes candidato o por secuenciación de exoma carente de análisis bioinformáticos exhaustivos. En este marco, es coherente plantear que existen marcadores genéticos asociados al AAT que no han sido descubiertos, los cuales podrían identificarse mediante NGS y técnicas robustas de análisis computacional. Además, una buena parte de las mutaciones candidatas no se ha estudiado por ensayos funcionales in vitro que permitan una asociación definitiva con el fenotipo. En Colombia, no se han efectuado estudios genéticos poblacionales de AAT, lo que representa un foco de investigación pertinente que permitirá un mejor diagnóstico, pronóstico y potencial tratamiento futuro de estos pacientes. Además, permitiría la implementación de un asesoramiento genético más preciso. Por último, es importante señalar que en la FCI no existe en la actualidad un mecanismo sistematizado y eficiente que permita efectuar los análisis moleculares en estos pacientes, por lo que el desarrollo de este proyecto se inscribe en el marco de una necesidad de mejora institucional.",
+      "Tipo de proyecto: Investigación y desarrollo FORTALECIMIENTO DE CAPACIDADES INSTALADAS DE CIENCIA Y TECNOLOGÍA DE LA FUNDACIÓN CARDIOINFANTIL/UNIVERSIDAD DEL ROSARIO PARA ATENDER PROBLEMÁTICAS CON LA IDENTIFICACIÓN DE AGENTES BIOLÓGICOS DE ALTO RIESGO PARA LA SALUD HUMANA EN BOGOTÁ D.C. BOGOTÁ Inicio: Enero 2020 Fin: Noviembre 2023 Duración Resumen En 2014 se introdujo una tecnología de SMRTS de tercera generación conocida como Secuenciación por Nanoporos (Nanopore Sequencing o NS), la cual permite secuenciar moléculas individuales de ADN o ARN de manera directa con resultados en minutos. Más aún, tiene protocolos de preparación muestras y equipos portátiles que pueden utilizarse en campo, sin necesidad de contar si quiera con suministro eléctrico (Uno de los equipos de NS puede conectarse directamente al puerto USB de un computador portátil, Figura 3). Esta tecnología ha sido utilizada con éxito para la detección de los agentes causantes de sepsis (4) e infecciones respiratorias (5) con resultados superiores a los de las pruebas por PCR. Adicionalmente, esta tecnología fue capaz de obtener la secuencia del genoma completo de SARS-CoV-2 a partir de muestras de hisopado nasofaríngeo en apenas unas horas (6). En el contexto de brotes infecciosos en Colombia, esta tecnología podría 1) identificar de manera rápida un nuevo agente biológico, 2) Diagnosticarlo en casos sospechosos y personas expuestas sin requerir desarrollos o validaciones adicionales, y 3) Descartar casos con sintomatología sospechosa que tienen otra causa infecciosa. La plataforma de investigación metagenómica que proponemos desarrollar constará de 1) Un laboratorio central con un sistema de secuenciación de alta capacidad en el que se podrán procesar muestras de pacientes de manera masiva con el fin de detectar casos positivos y casos con sintomatología relacionada pero que en realidad son causados por otros agentes, 2) Un laboratorio de muestreo epidemiológico ubicado asociado a dos IPSs con alto flujo de infecciones respiratorias y sanguíneas para monitorear el panorama epidemiológico y 3) Un laboratorio móvil con la capacidad de llegar a cualquier lugar del país para estudiar brotes infecciosos que pueden transformarse en epidemias, incluyendo enfermedades nuevas y emergentes transmitidas por vectores y zoonosis.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Desarrollo de una plataforma de edición genómica, por técnica CRISPR-Cas9, para el tratamiento de enfermedades huérfanas asociadas a aneurismas de la aorta torácica. Inicio: Julio 2019 Fin: Diciembre 2023 Duración Resumen Los aneurismas aórticos representan una patología de alto riesgo para los pacientes, frecuentemente requiriendo cirugías de alta complejidad. Está claramente establecido que una proporción importante de los aneurismas aórticos torácicos están asociados con un grupo de enfermedades huérfanas de origen genético que afectan las proteínas que forman la matriz extracelular en el sistema circulatorio. Recientes avances en las tecnologías de edición genómica tienen el potencial de corregir defectos genéticos en muchas enfermedades de origen hereditario en las que una o pocas mutaciones son principalmente responsables del fenotipo. Sin embargo, los modelos actuales para evaluar la eficacia y seguridad de estas tecnologías tienen una serie de deficiencias debido a la complejidad de los tejidos donde se desarrollan la mayoría de las enfermedades. Por el contrario, las células que producen la matriz extracelular en la aorta tienen protocolos establecidos de cultivo y de introducción de proteínas y ácidos nucleicos, y forman un tejido de estructura simple que puede estudiarse de manera aislada sin tener que recurrir a modelos animales que pueden producir resultados no extrapolables a las enfermedades humanas. Adicionalmente, las mutaciones que causan los síndromes asociados a los aneurismas aórticos torácicos son generalmente dominantes y por lo tanto heterocigóticas y permiten la reparación por medio de edición genómica utilizando el alelo sano como molde. Por esta razón, llevamos a cabo un estudio in vitro para estudiar la viabilidad de corregir los defectos genéticos que causan estas enfermedades a partir de cultivos celulares y tejidos obtenidos de pacientes y determinar la eficiencia del diseño personalizado de herramientas de edición genómica y la posibilidad de observar efectos no deseados sobre el genoma de las células que se están estudiando. En este estudio logramos el desarrollo de la plataforma de forma completa con resultados prometedores.",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización de Arc3 y su papel en la mobilidad del Proteasoma 26S Inicio: Diciembre 2005 Fin proyectado: Diciembre 2010 Fin: Diciembre 2010 Duración 60 Resumen Caracterización de Arc3 y su papel en la mobilidad del Proteasoma 26S",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización de las proteínas asociadas a JMJD2A en el corazón humano. Descifrando los mecanismos moleculares de la hipertrofia ventricular izquierda. Inicio: Junio 2012 Fin proyectado: Mayo 2013 Fin: Marzo 2015 Duración 12 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización de Anormalidades Cromosómicas y Mutaciones en pacientes con Cardiopatías Congénitas Huérfanas: Hacia un diagnóstico genético para los niños de Colombia Inicio: Febrero 2016 Duración Resumen El desarrollo embrionario del corazón es un proceso complejo regulado por diversas vías de señalización a cargo de un numeroso grupo de genes. Un gran número de alteraciones cro-mosómicas y mutaciones, sumadas a factores ambientales, son capaces de alterar este pro-ceso resultando en el desarrollo de Cardiopatías Congénitas. La diversidad en sus orígenes y fenotipos genera un número importante de entidades patológicas con diferentes estrategias de manejo y cursos clínicos. Colombia reconoce gran parte de estas enfermedades como huérfanas, debido a su baja prevalencia y al impacto en la vida del paciente, constituyéndose en enfermedades de especial interés para el Ministerio de Salud. Sin embargo, el acceso de los pacientes a las herramientas diagnósticas en biología molecular, sigue estando limitado, no solo por la baja cobertura de estos servicios en el Plan Obligatorio de Salud, sino también por el desconocimiento por gran parte de los especialistas de las pruebas idóneas para este tipo de patologías, lo que ha llevado a que solo un pequeño número de pacientes tenga un diagnóstico desde el punto de vista molecular. Este abordaje es de vital importancia, no solo para el conocimiento de la fisiopatología de la enfermedad, sino también para realizar un adecuado asesoramiento genético en las familias afectadas, que permite establecer riesgos de recurrencia, identificar portadores y personas susceptibles de desarrollar la enfermedad. Con el presente trabajo se pretende identificar las anormalidades cromosómicas y mutacio-nes presentes en niños con Cardiopatías Congénitas huérfanas provenientes de diferentes regiones de Colombia. Adicionalmente, se busca fortalecer las capacidades de diagnóstico molecular en el país, y contribuir con la comunidad científica en la búsqueda de genes que permitan explicar los mecanismos moleculares asociados a estas patologías.",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización de la diversidad alélica en HLA-A, -B, y-DR por tipificación basada en secuenciación en pacientes en lista de espera para trasplante renal de la FCI: Entendiendo las causas de las desviaciones del equilibrio de Hardy-Weinberg observadas Inicio: Febrero 2015 Duración Resumen Las tecnologías utilizadas actualmente para determinar la compatibilidad en los genes del HLA entre donantes y receptores de trasplante renal fueron diseñadas para identificar los alelos clínicamente relevantes en poblaciones caucásicas de Europa y Norte América. Es posible que por la naturaleza polimórfica del HLA y a que la población mestiza colombiana es diferente, estas técnicas no tengan la capacidad de detectar otros alelos, y que la concordancia de los alelos entre donantes y receptores que se cree estar detectando no sea precisa. Estudios en Colombia en pacientes de trasplante renal utilizando estas tecnologías han encontrado un desequilibrio de Hardy-Weinberg en los genes del HLA con un número mayor de homocigotos para HLA-A,-B, y DR. En la población de lista de espera de trasplante renal de la Fundación Cardioinfantil (FCI), se ha observado el mismo fenómeno para HLA-A. Nuestra hipótesis es que existen variantes genéticas nativas de Colombia que no son detectadas por las técnicas desarrolladas para poblaciones extranjeras. Por esto, en este estudio se realizará la tipificación de HLA-A,-B, y- DR por medio de secuenciación en los pacientes receptores de trasplante renal de la FCI, y se comparara con la tecnología que se utiliza actualmente en la institución. Se espera que este estudio contribuya a describir la variación genética de HLA-A,-B, y ¿DR de la población colombiana, y que con este conocimiento se pueda llevar a cabo una mejor asignación de riñones para trasplante con mejores concordancias del HLA.",
+      "Tipo de proyecto: Investigación y desarrollo Detección de mutaciones en pacientes con diagnóstico clínico de SQTL por medio de secuenciación en semiconductores: Nuevas tecnologías para el diagnóstico genético Inicio: Julio 2014 Fin: Octubre 2015 Duración Resumen El Síndrome de QT largo (SQTL) es una patología hereditaria del sistema eléctrico del corazón. En la mayoría de los casos es causado por mutaciones en el ADN de los genes que codifican los canales iónicos en la membrana de los cardiomiocitos. Estas mutaciones están asociadas con una demora en la repolarización ventricular que se manifiesta en la clínica como palpitaciones, pre síncope, síncope o muerte súbita. El diagnóstico y manejo adecuado del Síndrome de QT Largo (SQTL) se beneficia demostrablemente de la identificación de la mutación causante de la enfermedad. Sin embargo, el número limitado de laboratorios capaces de realizar el análisis de ADN necesario para su identificación y el alto costo de la prueba hacen que su uso en el ámbito clínico sea muy limitado. La llegada de la secuenciación en semiconductores, hace posible pensar en el desarrollo de una prueba diagnóstica que permita identificar las mutaciones asociadas al SQTL de manera rápida y a un bajo costo. El presente proyecto pretende describir la frecuencia de mutaciones patogénicas en los genes KCNQ1, KCNH2, SCN5A, KCNE1 Y KCNE2 en pacientes con diagnóstico clínico de SQTL por medio de secuenciación en semiconductores. Inicialmente, se optimizarán las condiciones experimentales de aislamiento, amplificación y secuenciación de ADN a partir de muestras de ADN de sangre periférica de voluntarios sanos. Posteriormente, se determinara la prevalencia de mutaciones patogénicas asociadas a SQTL por medio de la tecnología de secuenciación en semiconductores con muestras de ADN provenientes de un grupo de pacientes diagnosticados con SQTL de la Fundación Cardioinfantil. Finalmente, se evaluará la concordancia entre la secuenciación en semiconductores para la identificación de mutaciones asociadas a SQTL y la secuenciación SOLiD. Se espera que los resultados de este estudio permitan identificar los beneficios y dificultades del uso de secuenciación en semiconductores como una primera aproximación hacia el diagnóstico genético de SQTL en Colombia y servir como base para el desarrollo e implementación de estas pruebas para otras enfermedades genéticas. Proyecto financiado con donaciones del programa de beneficios tributarios de Colciencias",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Evaluación del efecto antitrombótico del veneno de las serpientes Crotalusdurissuscumanensisy Bothropsatrox con fines a desarrollar tratamientos cardiovasculares Inicio: Abril 2015 Duración Resumen La trombosis es una causa importante de mortalidad y morbilidad en Colombia y en el mundo. La trombosis arterial representa una causa común de Infarto del Miocardio, Accidentes Cerebrovasculares y Enfermedad Arterial Periférica. Por su lado, los tromboembolismos venosos son responsables de la Trombosis Venosa Profunda y el Síndrome Post-Trombótico que muchas veces la acompaña, y de Embolismos Pulmonares, que ponen en riesgo la vida de los pacientes afectados o pueden llevar al desarrollo de una hipertensión pulmonar tromboembólicacrónica.Los venenos de serpientes han evolucionado para actuar de manera específica y selectiva en diferentes componentes fisiológicos que les permiten la captura y digestión de diferentes presas. La gran diversidad existente en las toxinas de estos venenos se debe a su modo de evolución, sujeto a la duplicación frecuente de genes codificantes para toxinas, lo cual en la mayoría de los casos se encuentra seguido por una diversificación funcional y estructural (Slowinski et al. 1997, Fry et al. 2003, Fry et al. 2009, Casewell et al. 2011). En casos de envenenamiento, especies pertenecientes a la familia Viperidae muestran una sintomatología asociada con trastornos a la coagulación. Su mecanismo de acción es el resultado de la acción directa o sinergística de toxinas como Metaloproteinasas, Lectinas tipo C, Fosfolipasas A2, Serinproteasas, Desintegrinas, L-amino oxidasas y Nucleotidasas (entre otros) en puntos específicos de la cascada de coagulación. Debido a la estructura, potencia y especificidad de los venenos de la familia Viperidae han sido de especial atención por su potencial terapéutico en el desarrollo de agentes para el tratamiento de enfermedades cardiovasculares (Joseph et al. 2004, Clemetson et al. 2007, Koh et al. 2012). Hoy en día se tiene información muy limitada acerca de los componentes de los venenos de serpientes de Colombia, su mecanismo de acción y su potencial terapéutico. Es necesario investigar las propiedades de estos venenos para determinar si tienen potencial terapéutico para el desarrollo de nuevos fármacos más eficaces y/o seguros que los existentes. Por otro lado, a pesar de que el único tratamiento disponible para envenenamiento por serpientes como C. durissus es la aplicación oportuna de un suero antiofídico, la investigación sobre la seguridad, eficacia y mecanismo de acción de dichas preparaciones es muy limitada. La poca investigación que se ha realizado en este campo muestra que los sueros antiofídicos pueden variar mucho de un laboratorio a otro y que pueden contrarrestar efectivamente la acción de algunas toxinas y no otras (Kasturiratne et al. 2008, Harrison et al. 2011). Esta falta de información no permite a los profesionales de la salud escoger los tratamientos más adecuados para sus pacientes ni a los desarrolladores de sueros antiofídicos enfrentar de manera rigurosa su continuo mejoramiento. Por esta razón, es muy importante hacer estudios comparativos de seguridad, eficacia y mecanismos de acción de los sueros antiofídicos disponibles en la actualidad.",
+      "Tipo de proyecto: Investigación y desarrollo Prueba de concepto de un método para la identificación de mutaciones asociadas a la MCH desarrollado en la FCI. Inicio: Agosto 2015 Duración Resumen La Miocardiopatía Hipertrófica (MCH) es la enfermedad cardiovascular más común de origen genético. Se manifiesta como un engrosamiento de las paredes de los ventrículos cardiacos y es un factor de riesgo para muerte súbita, fibrilación auricular y falla cardiaca. Adicionalmente, la MCH es la principal causa de muerte súbita de atletas durante la práctica del deporte. Actualmente en el país, el diagnóstico de esta enfermedad depende del análisis de imágenes obtenidas durante un chequeo médico. Sin embargo, esta metodología no proporciona resultados definitivos y muchas veces requiere de exámenes complementarios. Aún más dispendioso resulta determinar si familiares de un paciente con MCH van a desarrollar la enfermedad, ya que las manifestaciones clínicas pueden aparecer a cualquier edad. Actualmente se conocen los genes que presentan mutaciones en 65-70% de los pacientes con la enferme-dad, y se considera que el análisis de ADN es de utilidad para un diagnóstico preciso de MCH en pacientes y sus familiares. A pesar de la importancia de la identificación de las mutaciones causantes de MCH desde un punto de vista clínico, no existe la capacidad de llevar a cabo análisis de ADN para su diagnóstico en Colombia. De la misma forma, la ausencia de una herramienta diagnóstica en el país limita la capacidad de 1) identificar a los portadores y no portadores entre los familiares de un paciente con MCH y 2) investigar sobre la MCH a nivel de la población colombiana. Entre 2012 y 2015 se desarrolló un método para la secuenciación e identificación de mutaciones asociadas a la MCH en el grupo de hemodinamia y función vascular de la FCI, que muestra un rendimiento diagnóstico esperado comparable al reportado en la literatura. Debido a que constituía un desarrollo nuevo y era difícil determinar a priori las características analíticas de la prueba, este trabajo se realizó en muestras de voluntarios sanos para no exponer a pacientes a potenciales resultados falsamente positivos o negativos. Habiendo demostrado características analíticas adecuadas para la prueba, el presente estudio pretende hacer una prueba de concepto del método desarrollado para demostrar que tiene la capacidad de identificar mutaciones asociadas a la MCH en pacientes con diagnóstico clínico de la enfermedad.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Desarrollo de un método para la identificación de mutaciones asociadas a la Miocardiopatía Hipertrófica Inicio: Junio 2012 Fin: Julio 2015 Duración Resumen La Miocardiopatía Hipertrófica (MCH) es la enfermedad cardiovascular más común de origen genético. Se manifiesta como un engrosamiento de las paredes de los ventrículos cardiacos y es un factor de riesgo para muerte súbita, fibrilación auricular y falla cardiaca. Adicionalmente, la MCH es la principal causa de muerte súbita de atletas durante la práctica del deporte. Actualmente en el país, el diagnóstico de esta enfermedad depende del análisis de imágenes obtenidas durante un chequeo médico. Sin embargo, esta metodología no proporciona resultados definitivos y muchas veces requiere de exámenes complementarios. Aún más dispendioso resulta determinar si familiares de un paciente con MCH van a desarrollar la enfermedad, ya que las manifestaciones clínicas pueden aparecer a cualquier edad. Actualmente se conocen los genes que presentan mutaciones en 65-70% de los pacientes con la enfermedad, y se considera que el análisis de ADN es de utilidad para un diagnóstico preciso de MCH en pacientes y sus familiares. A pesar de la importancia de la identificación de las mutaciones causantes de MCH desde un punto de vista clínico, no existe la capacidad de llevar a cabo análisis de ADN para su diagnóstico en Colombia. De la misma forma, la ausencia de una herramienta diagnóstica en el país limita la capacidad de 1) identificar a los portadores y no portadores entre los familiares de un paciente con MCH y 2) investigar sobre la MCH a nivel de la población colombiana. En el presente trabajo, proponemos desarrollar un método para la secuenciación de los principales genes asociados a la MCH (MYH7 MYBPC3, TNNT2, TNNI3, TPM1 y MYL2) a partir de una muestra de sangre, con el fin de hacer más eficientes y precisos el diagnóstico y tratamiento de la enfermedad. Para este fin, se realizará un trabajo de laboratorio para optimizar las condiciones de un ensayo para la secuenciación de estos genes. Para evaluar la viabilidad de ofrecer un servicio diagnóstico a través de la secuenciación de genes asociados a la MCH, proponemos recolectar, como parte de este trabajo, estadísticas sobre los casos de MCH en los servicios de cardiología de los principales centros de salud del país a través de entrevistas periódicas sobre los diagnósticos de MCH. Se espera que el presente estudio sea el primero de su naturaleza en Colombia y sirva como modelo para el desarrollo de tecnologías de diagnóstico por medio de secuenciación de genes para otras enfermedades hereditarias."
+    ]
+  }
+}

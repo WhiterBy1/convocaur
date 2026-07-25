@@ -1,0 +1,48 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/andres-posada-cortazar",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra posgrado",
+  "email": "andres.posadac@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n31889/andresposada.jpg",
+  "afiliaciones": [
+    "Profesor cátedra posgrado - Maestría en Gestión Estratégica de la Información e Innovación Digital - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "orcid": "https://orcid.org/0009-0003-9238-416X"
+  },
+  "areas_investigacion": [
+    "Automatización de procesos",
+    "Data Science",
+    "Data Storytelling",
+    "Optimización de procesos",
+    "Visualización de datos"
+  ],
+  "perfil_profesional": "Andrés Posada cuenta con una amplia experiencia como consultor y asesor en la gestión colaborativa de proyectos para la transformación digital. Ha contribuido en la planeación, diseño, desarrollo e implementación de sistemas de apoyo tecnológico para la obtención, administración y visualización efectiva y dinámica de datos que facilitan la toma de decisión tanto en el sector público como el privado. Su experiencia como consultor en Naturgy Panamá y Chile consistió en liderar el diseño y desarrollo de un sistema propio de seguimiento y control de actividades que facilitara la planeación de proyectos de construcción y mantenimiento de estructuras eléctricas. Como asesor para la Presidencia de la República de Colombia el objetivo general consistía en dirigir, elaborar y diseñar páginas web interactivas cuyo objetivo principal fuera informar avances y logros en la gestión de proyectos gubernamentales. Participó activamente en el levantamiento de los principales requerimientos para clientes internos y externos, que incluyeron consejerías presidenciales, entidades de gobierno y agencias internacionales como el BID, CAF y UNESCO, para establecer la arquitectura y relacionamiento de los datos anclados a formularios diseñados para cada proyecto. Esto implicó comprender e interpretar adecuadamente cada necesidad de proyecto. Definir alcances y tiempos de entrega. Cada proyecto cerró su ciclo con la generación de tableros de control e infografías, que facilitaron el seguimiento y toma de decisiones por parte de los directores de cada proyecto. Cuenta con una Maestría en Ingeniería Industrial con énfasis en Investigación de Operaciones y Estadística de la Universidad de los Andes. Su interés principal se enfoca en el análisis y visualización de datos conducentes a la toma efectiva de decisiones.",
+  "formacion_academica": [
+    ", Ingeniero de Produccion Agroindustrial, Universidad de La Sabana - Bogotá D.C.",
+    "2013, Magíster en Ingeniería Industrial, Universidad de los Andes - Bogotá D.C."
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Fortalecer la estrategia de analítica de una empresa retail en Colombia, mediante la estructuración de productos analíticos para las verticales operacionales de la cadena de abastecimiento"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelo de BPM aplicado a la optimización del gobierno de datos en una empresa estatal en el sector de hidrocarburos en Colombia: el caso del Banco de Información Petrolera"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Optimización de ingresos, costos y gastos de un operador hotelero en Bogotá, a través del fortalecimiento de su estrategia analítica"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0003-9238-416X"
+    ]
+  },
+  "id": "andres-posada-cortazar",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor cátedra posgrado"
+}

@@ -1,0 +1,48 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/daniel-felipe-pardo-pinzon",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "danielf.pardo@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5969/daniel_felipe_pardo.jpeg",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100181"
+  },
+  "areas_investigacion": [
+    "Anestesia Cardiotorácica",
+    "Anestesiología"
+  ],
+  "perfil_profesional": "Daniel Felipe Pardo Pinzón es especialista en Anestesiología y en Anestesia Cardiotorácica de la Universidad del Rosario. Actualmente se desempeña como anestesiólogo en la Fundación Cardio infantil-Instituto de Cardiología, donde también ejerce como docente en los programas de postgrado de Anestesia y Anestesia Cardiotorácica. Anteriormente trabajó en Angiografía de Colombia. Como investigador, ha participado en estudios clínicos publicados en revistas especializadas, incluyendo investigaciones sobre factores de riesgo de convulsiones postoperatorias en cirugía cardíaca y comparación de regímenes de ventilación protectora durante ventilación monopulmonar.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100181"
+    ]
+  },
+  "id": "daniel-felipe-pardo-pinzon",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100181",
+    "cod_rh": "0002100181",
+    "datos_generales": {
+      "Nombre": "Daniel Felipe Pardo Pinzón",
+      "Nombre en citaciones": "PARDO PINZÓN , DANIEL FELIPE",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Especialidad Médica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Especialista en anestesia cardiotorácica Agostode2009 - Septiembrede 2010 Risk factors associated with postoperative seizures in patients undergoing cardiac surgery who received tranexamic acid: a case-control study. Montes FR, Pardo DF, Carreño M, Arciniegas C, Dennis RJ, Umaña JP. Ann Card Anaesth. 2012 Jan-Mar;15(1):6-12. doi: 10.4103/0971-9784.91467.",
+      "Especialidad Médica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Especialista en anestesiologia Juliode2006 - Agostode 2009 Comparison of two protective lung ventilatory regimes on oxygenation during one-lung ventilation: a randomized controlled trial. Montes FR, Pardo DF, Charrís H, Tellez LJ, Garzón JC, Osorio C. J Cardiothorac Surg. 2010 Nov 2;5:99. doi: 10.1186/1749-8090-5-99."
+    ],
+    "experiencia_profesional": [
+      "FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Dedicación: 48 horas Semanales Marzo de 2020 de Actividades de docencia - Pregrado - Nombre del curso: Postgrado de Anestesia y anestesia cardiotorácia. , 12 Marzo 2020 Enero",
+      "Angiografía de Colombia Dedicación: 48 horas Semanales Enero de 2011 Enero de 2019"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Ciencias del Cuidado de la Salud y Servicios (Administración de Hospitales, Financiamiento)"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/nancy-paola-sanz-villate",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "nancy.sanz@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n2074/Captura+de+pantalla+2025-10-20+131033.png",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005871"
+  },
+  "areas_investigacion": [
+    "Electrodiagnóstico",
+    "Enfermedades neuromusculares",
+    "Patología osteomuscular",
+    "Rehabilitación cardíaca"
+  ],
+  "perfil_profesional": "Médico especialista en medicina física y rehabilitación egresada de la universidad Nacional de Colombia, es médico cirujano de la universidad Pedagógica y tecnológica de Colombia. Cuenta con experiencia como fisiatra en IPS de tercer y cuarto nivel. Actualmente se desempeña como fisiatra en la Fundación Cardio infantil.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005871"
+    ]
+  },
+  "id": "nancy-paola-sanz-villate",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005871",
+    "cod_rh": "0000005871",
+    "datos_generales": {
+      "Nombre": "Nancy Paola Sanz Villate",
+      "Nombre en citaciones": "SANZ VILLATE, NANCY PAOLA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Andrología"
+    ]
+  }
+}

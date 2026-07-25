@@ -1,0 +1,832 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/andre-josafat-riveros-rivera",
+  "nombre": "Andre J. Riveros",
+  "cargo_principal": "Profesor asociado de carrera",
+  "email": "andre.riveros@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3409",
+  "imagen": "https://research-hub.urosario.edu.co/file/n14706/andre+riveros.JPG",
+  "afiliaciones": [
+    "Profesor asociado de carrera - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Investigador líder - Cannon - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=23570849800",
+    "google_scholar": "https://scholar.google.com/citations?user=u3WCX-MAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/54000549-a05f-4d24-8d7d-375af2a2f91a",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000002842",
+    "orcid": "http://orcid.org/0000-0001-7928-1885"
+  },
+  "areas_investigacion": [
+    "Animal behavior",
+    "Animal physiology",
+    "Cognitive ecology",
+    "Ecophysiology (LCSH)",
+    "Neuroethology"
+  ],
+  "perfil_profesional": "Su intereses de investigación se centran en entender cómo los animales adquieren, almacenan, procesan y utilizan información para tomar decisiones, y las consecuencias de la toma de decisiones para el individuo y para el grupo. Esta aproximación se enmarca en la llamada Ecología cognitiva, la cual integra herramientas y constructos teóricos de distintas ramas como la neurobiología, las ciencias cognitivas, la ecología conductual y la fisiología. Como modelo utiliza principalmente insectos, en especial abejas, hormigas y mariposas.",
+  "formacion_academica": [
+    "2003, Biólogo, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2009, Phd en Entomologia Aplicada, University of Arizona"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Circadian Activity Disruption in Cardiac Remodeling Patients Underlies Autonomic Dysfunction in Heart Failure",
+      "fecha": "2026-5-1",
+      "enlace": "https://doi.org/https://doi.org/10.3390/biomedicines14051054"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The flavonoid rutin protects against imidacloprid-induced osmotic and electric disruptions in Africanized honey bees",
+      "fecha": "2025-9-1",
+      "enlace": "https://doi.org/https://doi.org/10.1371/journal.pone.0331855"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Electrical characteristics of the extracellular fluid in the body segments of Apis mellifera bees",
+      "fecha": "2025-7-17",
+      "enlace": "https://doi.org/10.7717/peerj.19691"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Age and sex affect circadian patterns of cardiac autonomic function",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1038/s41598-025-18525-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Water homeostasis and extracellular fluid dynamics reveal imidacloprid disruption and rutin mitigation in honey bees",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1038/s41598-025-26833-0"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Extraction and Optical Analysis of the Extracellular Fluid from the Body Segments of Apis mellifera Bees",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1093/iob/obaf018"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Honey bee gut bacterial communities’ characterisation across different ecosystem qualities in the department of Boyacá, Colombia",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1080/00218839.2025.2559461"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Oral administration of phytochemicals protects honey bees against cognitive and motor impairments induced by the insecticide fipronil",
+      "fecha": "2024-3-1",
+      "enlace": "https://doi.org/10.1371/journal.pone.0300899"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Stimulus intensity and temporal configuration interact during bimodal learning and memory in honey bees",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1371/journal.pone.0309129"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Quantifying the Aerodynamic Power Required for Flight and Testing for Adaptive Wind Drift in Passion-Vine Butterflies Heliconius sara (Lepidoptera: Nymphalidae)",
+      "fecha": "2023-2-1",
+      "enlace": "https://doi.org/10.3390/insects14020112"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Temporal configuration and modality of components determine the performance of bumble bees during the learning of a multimodal signal",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.1242/jeb.245233"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The flavonoid rutin protects the bumble bee Bombus impatiens against cognitive impairment by imidacloprid and fipronil",
+      "fecha": "2022-9-1",
+      "enlace": "https://doi.org/10.1242/jeb.244526"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Honey bees respond to multimodal stimuli following the principle of inverse effectiveness",
+      "fecha": "2022-5-1",
+      "enlace": "https://doi.org/10.1242/jeb.243832"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The flavonoid kaempferol protects the fruit fly Drosophila melanogaster against the motor impairment produced by exposure to the insecticide fipronil",
+      "fecha": "2022-10-1",
+      "enlace": "https://doi.org/10.1242/jeb.244556"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Sublethal doses of glyphosate impair olfactory memory retention, but not learning in the honey bee (Apis mellifera scutellata)",
+      "fecha": "2021-8-1",
+      "enlace": "https://doi.org/10.1007/s10841-021-00335-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Stimulus-dependent learning and memory in the neotropical ant Ectatomma ruidum",
+      "fecha": "2021-5-1",
+      "enlace": "https://doi.org/10.1242/jeb.238535"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Learning of bimodal versus unimodal signals in restrained bumble bees",
+      "fecha": "2020-5-1",
+      "enlace": "https://doi.org/10.1242/jeb.220103"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Color-dependent learning in restrained Africanized honey bees",
+      "fecha": "2014-2-1",
+      "enlace": "https://doi.org/10.1242/jeb.091355"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Magnetic anisotropy and organization of nanoparticles in heads and antennae of neotropical leaf-cutter ants, Atta colombica",
+      "fecha": "2014-10-29",
+      "enlace": "https://doi.org/10.1088/0022-3727/47/43/435401"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Do leaf-cutter ants Atta colombica obtain their magnetic sensors from soil?",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.1007/s00265-013-1621-7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El Niño, Host Plant Growth, and Migratory Butterfly Abundance in a Changing Climate",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.1111/btp.12081"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Evolution of brain size in class-based societies of fungus-growing ants (Attini)",
+      "fecha": "2012-4-1",
+      "enlace": "https://doi.org/10.1016/j.anbehav.2012.01.032"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Decision-making and associative color learning in harnessed bumblebees (Bombus impatiens)",
+      "fecha": "2012-11-1",
+      "enlace": "https://doi.org/10.1007/s10071-012-0542-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Metabolic scaling in insects supports the predictions of the WBE model",
+      "fecha": "2011-6-1",
+      "enlace": "https://doi.org/10.1016/j.jinsphys.2011.01.011"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Brain allometry and neural plasticity in the bumblebee bombus occidentalis",
+      "fecha": "2010-6-1",
+      "enlace": "https://doi.org/10.1159/000306506"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Sensory allometry, foraging task specialization and resource exploitation in honeybees",
+      "fecha": "2010-5-1",
+      "enlace": "https://doi.org/10.1007/s00265-010-0911-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "El Niño and dry season rainfall influence hostplant phenology and an annual butterfly migration from Neotropical wet to dry forests",
+      "fecha": "2010-3-1",
+      "enlace": "https://doi.org/10.1111/j.1365-2486.2009.01986.x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Olfactory learning and memory in the bumblebee Bombus occidentalis",
+      "fecha": "2009-7-1",
+      "enlace": "https://doi.org/10.1007/s00114-009-0532-y"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Learning from learning and memory in bumblebees",
+      "fecha": "2009-1-1",
+      "enlace": "https://doi.org/10.4161/cib.2.5.9240"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Nesting biology of Euglossa dodsoni Moure (Hymenoptera: Euglossinae) in Panama",
+      "fecha": "2009-1-1",
+      "enlace": "https://doi.org/10.2317/JkES808.15.1"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Do leafcutter ants, Atta colombica, orient their path-integrated home vector with a magnetic compass?",
+      "fecha": "2008-4-1",
+      "enlace": "https://doi.org/10.1016/j.anbehav.2007.09.030"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Experimental evidence for a magnetic sense in Neotropical migrating butterflies (Lepidoptera: Pieridae)",
+      "fecha": "2006-1-1",
+      "enlace": "https://doi.org/10.1016/j.anbehav.2005.04.013"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Morphological constraints and nectar robbing in three Andean bumble bee species (Hymenoptera, Apidae, Bombini)",
+      "fecha": "2006-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/fb8a448d-6377-4c56-96ca-69bc61110ea2"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Magnetic Compasses in Insects",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1016/B978-0-12-809633-8.01251-6"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Intoxicación por superwarfarinas",
+      "fecha": "2013-8-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3d055e14-05d3-460f-a423-3208df6a7752"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Ambientes conductuales y plasticidad cebral: de la vida solitaria a la social",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F74e96ca0-c99a-4085-9070-46e26bed36ec"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Magnetic Compasses in Insects",
+      "fecha": "2010-1-1",
+      "enlace": "https://doi.org/10.1016/B978-0-08-045337-8.00075-9"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Migration, Orientation and Navigation: Magnetic Compasses in Insects",
+      "fecha": "2010-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4350e701-7352-4194-9e5e-2f5308332645"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Social brains and behavior: past and present",
+      "fecha": "2009-1-1",
+      "enlace": "https://doi.org/10.1007/s00265-015-2035-5"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Behavioral maturation and learning in the bumblebee Bombus occidentalis (Hymenoptera: Apidae)",
+      "fecha": "2006-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/d3369ef6-2619-45bf-b645-c459bf8ec2d6"
+    },
+    {
+      "tipo": "tesis",
+      "titulo": "Body size and the neural, cognitive and sensory basis of sociality in bees",
+      "fecha": "2009-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5d256a0d-cabc-484c-93c4-8ae3454b9e97"
+    },
+    {
+      "tipo": "revisión",
+      "titulo": "On Lilliputians and Brobdingnagians: From Bacteria to Blue Whales",
+      "fecha": "2007-1-1",
+      "enlace": "https://doi.org/10.1016/j.tree.2006.12.007"
+    }
+  ],
+  "total_publicaciones": 42,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Seguridad alimentaria y crisis de los polinizadores",
+      "fecha": "2018-08-01 - 2023-08-01",
+      "enlace": "https://research-hub.urosario.edu.co/display/f7914371-ace6-4211-8f87-3e0d3628a610"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Evaluación del efecto del remodelamiento cardíaco patológico sobre la circadianeidad de parámetros electrocardiográficos en pacientes con patologías cardiovasculares prevalentes",
+      "fecha": "2024-12-04 - 2026-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F463c36d1-aef4-4e98-8d96-182ac2ce39bb"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cardiac dynamics in the invasive snail Cornu aspersum (Müller, 1774)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cuesta arriba: integración de rutas en tres dimensiones por la hormiga arriera, Atta colombica"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Efecto de cambios ambientales en rasgos morfológicos y sensoriales asociados a la especialización de labores en la abeja de la miel Apis mellifera"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Efectos de la elevación sobre la alometría sensorial en la abeja de la miel, Apis mellifera"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación Sistemática del Flavonoide Rutina para Fortalecer la Resiliencia de la Abeja Africanizada (Apis mellifera) frente al Estrés por Plaguicidas y Patógenos."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Protección neurofarmacológica cognitiva de abejas expuesta a pesticidas: un papel para los fitoquímicos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Protección por metabolitos secundarios en el desarrollo de Apis mellifera contra el piretroide deltametrina"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Substrate texture modulates exploratory behavior and early foraging decisions in the carpenter ant Camponotus rufipes"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "The role of intensity, temporal synchrony, and biogenic amines for unimodal and multimodal integration during learning and memory of honey bees and bumble bees"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000002842"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0001-7928-1885"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=u3WCX-MAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/54000549-a05f-4d24-8d7d-375af2a2f91a"
+    ],
+    "scopus_id": [
+      "23570849800"
+    ]
+  },
+  "id": "andre-josafat-riveros-rivera",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor asociado de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000002842",
+    "cod_rh": "0000002842",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Senior (IS) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Andre Josafat Riveros Rivera",
+      "Nombre en citaciones": "RIVEROS RIVERA, ANDRE JOSAFAT",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Linkedln"
+    ],
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado University Of Arizona Insect Sciences Agostode2004 - Agostode 2009 Body size and the neural, cognitive and sensory basis of sociality in bees",
+      "Pregrado/Universitario UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA BIOLOGIA Enerode1997 - Juliode 2003 Mecanismos de Navegación en Atta colombica"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración University of Lund Sensory Ecology Octubrede2009 - Octubrede 2009",
+      "Cursos de corta duración Universidad El Bosque - Escuela Colombiana De Medicina Fisiología del ejercicio Mayode2014 - Mayode 2014",
+      "Extensión COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Formación profesoral Septiembrede2017 - Octubrede 2017",
+      "Extensión PONTIFICIA UNIVERSIDAD JAVERIANA Diplomado en Educación Médica Agostode2013 - Diciembrede 2013",
+      "Otros CORNELL UNIVERSITY -DYSON SCHOOL OF APPLIED ECONOMICS AND MANAGEMENT ADInstruments Crawdad Invertebrate Neurophysiology Course Enerode2014 - Enerode 2014"
+    ],
+    "estancias_posdoctorales": [
+      "Pharmacological Protection of Bees Against Pesticides ComisiÃ³n Fulbright Visiting scholar Desde: Agosto de 2019 Hasta: Enero de 2020",
+      "Multimodal learning in bumblebees University Of Arizona Research Associate Desde: Septiembre de 2012 Hasta: Octubre de 2012",
+      "Smithsonian Tropical Research Institute Postdoctoral Fellow Desde: Abril de 2011 Hasta: Agosto de 2012",
+      "Smithsonian Tropical Research Institute Latin American Scholar Award Desde: Septiembre de 2010 Hasta: Marzo de 2011",
+      "University Of Arizona Postdoctoral Research Associate Desde: Agosto de 2009 Hasta: Agosto de 2010"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Abril de 2017 de Actual Actividades de administración - Miembro de comité asesor - Cargo: Miembro de comité académico de pregrado Agosto de 2017 Enero de Actividades de docencia - Docencia/Enseñanza de Graduación - Nombre del curso: Seminario, 1 Agosto 2017 Diciembre 2017 - Pregrado - Nombre del curso: Fisiología Animal, 8 Agosto 2017 Diciembre 2017",
+      "University Of Arizona Dedicación: 5 horas Semanales Julio de 2012 de Actual",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Marzo de 2017 de Actual",
+      "PONTIFICIA UNIVERSIDAD JAVERIANA Dedicación: 40 horas Semanales Abril de 2013 Enero de 2017 Actividades de administración - Miembro de comité asesor - Cargo: Miembro de comité auxiliar de investigación Agosto de 2014 Agosto de 2016 - Miembro de comité asesor - Cargo: Coordinador del proceso de reforma del cuarto semestre de medicina Enero de 2014 Diciembre de 2015 Actividades de docencia - Pregrado - Nombre del curso: Fisiología Aplicada, 70 Enero 2016 Junio 2016 - Pregrado - Nombre del curso: Cerebro, Mente y Comportamiento, 80 Enero 2016 Junio 2016 - Pregrado - Nombre del curso: Fisiología Animal, 25 Enero 2016 Junio 2016 - Pregrado - Nombre del curso: Fisiología Animal, 25 Agosto 2016 Diciembre 2016 - Postgrado - Nombre del curso: Neurociencia de Sistemas, 8 Agosto 2016 Diciembre 2016 - Pregrado - Nombre del curso: Fisiología Aplicada, 70 Agosto 2016 Diciembre 2016 - Pregrado - Nombre del curso: Cerebro, Mente y Comportamiento, 75 Agosto 2016 Diciembre 2016 - Pregrado - Nombre del curso: Fisiología Animal, 25 Enero 2015 Mayo 2015 - Pregrado - Nombre del curso: Fisiología Aplicada, 70 Enero 2015 Junio 2015 - Pregrado - Nombre del curso: Fisiología Animal, 25 Julio 2015 Diciembre 2015 - Pregrado - Nombre del curso: Fundamentos Biológicos, 95 Enero 2015 Junio 2015 - Pregrado - Nombre del curso: Fundamentos Biológicos, 95 Julio 2015 Diciembre 2015 - Pregrado - Nombre del curso: Estructura y Función II, 100 Julio 2014 Diciembre 2014 - Pregrado - Nombre del curso: Fisiología Aplicada, 76 Julio 2014 Diciembre 2014 - Pregrado - Nombre del curso: Fisiología Aplicada, 60 Enero 2014 Mayo 2014 - Pregrado - Nombre del curso: Estructura y Función I, 100 Julio 2014 Diciembre 2014 - Pregrado - Nombre del curso: Estructura y Función I, 100 Enero 2014 Mayo 2014 - Pregrado - Nombre del curso: Estructura y Función II, 100 Enero 2014 Mayo 2014 - Pregrado - Nombre del curso: Estructura y Función I, 100 Agosto 2013 Diciembre 2013 - Pregrado - Nombre del curso: Fisiología Aplicada, 40 Agosto 2013 Diciembre 2013 - Pregrado - Nombre del curso: Estructura y Función II, 100 Agosto 2013 Diciembre 2013 Actividades de investigación - Investigación y Desarrollo - Titulo: Interpretation of sensory unimodal and multimodal signals by bees. Junio 2015",
+      "University Of Nevada Dedicación: 40 horas Semanales Noviembre de 2012 Diciembre de 2012 Actividades de investigación - Investigación y Desarrollo - Titulo: Effects of synchrony of individual components from multimodal signals on learning and memory Noviembre 2012 Diciembre 2012",
+      "University Of Arizona Dedicación: 40 horas Semanales Septiembre de 2012 Octubre de 2012 Actividades de investigación - Investigación y Desarrollo - Titulo: Multimodal vs. unimodal learning and memory in bumblebees Septiembre 2012 Octubre 2012",
+      "Universidad De Arizona Dedicación: 0 horas Semanales Enero de 2010 Julio de 2010",
+      "Usda-Ars Dedicación: 40 horas Semanales Enero de 2010 Enero de 2010 Actividades de investigación - Investigación y Desarrollo - Titulo: Magnetic compass in leaf-cutter ants Enero 2010 Enero 2010",
+      "University Of Arizona Dedicación: 20 horas Semanales Julio de 2007 Agosto de 2009 Actividades de investigación - Investigación y Desarrollo - Titulo: Multisensory convergence and mushroom body control pathways in bumblebees Julio 2007 Agosto 2009",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Mayo de 2006 Agosto de 2006 Actividades de investigación - Investigación y Desarrollo - Titulo: Brain correlates of social complexity in ants Mayo 2006 Agosto 2006",
+      "Universidad De Arizona Dedicación: 20 horas Semanales Mayo de 2005 Noviembre de 2005",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Mayo de 2005 Julio de 2005 Actividades de investigación - Investigación y Desarrollo - Titulo: Optimal migration in butterflies: trade-offs with immune function Mayo 2005 Julio 2005",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Agosto de 2003 Julio de 2004 Actividades de investigación - Investigación y Desarrollo - Titulo: Brain complexity and Behavior in Hymenoptera Agosto 2003 Julio 2004",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Abril de 2003 Julio de 2003 Actividades de investigación - Investigación y Desarrollo - Titulo: Locomotor mimicry in passion-vine butterflies and magnetic compass in migratory insects Abril 2003 Julio 2003",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Agosto de 2002 Noviembre de 2002 Actividades de investigación - Investigación y Desarrollo - Titulo: Experimental test for the use of magnetic information for orientation in two tropical hymenoptera Agosto 2002 Noviembre 2002",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Febrero de 2002 Octubre de 2002",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Mayo de 2002 Julio de 2002 Actividades de investigación - Pasantías - Titulo: Migratory behavior of butterflies Mayo 2002 Julio 2002",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Febrero de 2002 Abril de 2002 Actividades de investigación - Pasantías - Titulo: Relationship between brain development and social behavior in bees Febrero 2002 Abril 2002",
+      "Smithsonian Tropical Research Institute Dedicación: 40 horas Semanales Marzo de 2001 Junio de 2001 Actividades de investigación - Pasantías - Titulo: Reproductive biology and pollination ecology of Hybanthus prunifolius on BCI and Gigante Marzo 2001 Junio 2001",
+      "UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Dedicación: 8 horas Semanales Febrero de 2001 Junio de 2001"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento",
+      "Ciencias Naturales -- Ciencias Biológicas -- Ecología",
+      "Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Ecofisiologia de insectos, Activa: No",
+      "Alometría cerebral y capacidades cognitivas en insectos, Activa: No",
+      "Ecología sensorial y organización social en abejas, Activa: Si",
+      "Ecología de la migración de mariposas neotropicales, Activa: No",
+      "Evolución de sistemas sociales, Activa: No",
+      "Mecanismos de navegación en hormigas, Activa: Si",
+      "Mecanismos de aprendizaje y memoria en insectos, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Latin American Scholar Award,Smithsonian Tropical Research Institute - Septiembrede 2010",
+      "RF Chapman,University Of Arizona - Marzode 2009",
+      "Galileo Circle Scholarship,University Of Arizona - Octubrede 2008",
+      "Graduate Interdisciplinary Programs Showcase. Best Poster of the GIDP Insect Science,University Of Arizona - Noviembrede 2006",
+      "Mención Laureada,UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA - Marzode 2003",
+      "Mención meritoria,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Juliode 2020"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Otro: ANDRE JOSAFAT RIVEROS RIVERA, Instrucción en el curso \"Tropical Biology\", Finalidad: Instrucción sobre ecología cognitiva de la polinización . En: Panamá ,2012, ,Butler University. participación: Docente , 0 semanas Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Producción técnica - Cursos de corta duración dictados - Otro: ANDRE JOSAFAT RIVEROS RIVERA, Instrucción en el curso \"Introducción a la Ecología tropical\", Finalidad: El curso tiene como objetivo enseñar los conocimientos básicos sobre ecología tropical a estudiantes de diferentes regiones de Panamá. . En: Panamá ,2012, ,Smithsonian Tropical Research Institute. participación: Docente , 0 semanas Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Producción técnica - Cursos de corta duración dictados - Otro: ANDRE JOSAFAT RIVEROS RIVERA, Estudio teórico y trabajo de campo para \"Connecting Humans and Nature through Conservation experiences\", Finalidad: Mis sesiones teóricas y de campo estuvieron dirigidas a entrenar estudiantes de uso de insectos como modelos para estudiar el uso de información en animales y los efectos negativos de la exposición a pesticidas. . En: Panamá ,2012, ,. participación: Docente , 1 semanas Areas: Ciencias Naturales -- Ciencias Biológicas -- Conservación de la biodiversidad, Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento, Sectores: Desarrollo rural, Neurociencias, Educación - Educación preescolar y básica,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Trofalaxis y el uso de las sustancias derivadas de la glándula metapleural en Acromyrmex octospinosus para el control de Escovopsis sp PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida BIOLOGIA, 2015. Dirigió como: Tutor principal, Persona(s) orientada(s): Diana Sorany García Valderrama Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA , MARIA XIMENA RODRIGUEZ BOCANEGRA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Protección por metabolitos secundarios en el desarrollo de Apis mellifera contra el piretroide deltametrina COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Biología, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Valeria Velandia Romero Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología (Teórica, Matemática, Criobiología, Evolutiva),",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: ANDRE JOSAFAT RIVEROS RIVERA, Análisis del comportamiento circadiano de las manifestaciones electrocardiográficas en personas con remodelamiento cardíaco. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis en curso Doctorado en Ciencias Biomédicas y Biológicas, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Natalia Buitrago Ricaurte Asesor(es): ALAIN RIVEROS RIVERA,Tutor(es)/Cotutor(es): ALVARO DAVID ORJUELA CANON , ANDRE JOSAFAT RIVEROS RIVERA , HEILY CAROLINA RAMIREZ SANTANA, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Fisiología (Incluye Citología),",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRE JOSAFAT RIVEROS RIVERA, Efectos de la elevación sobre la alometría sensorial en Apis mellifera en una clina altitudinal (Cundinamarca, Colombia) UNIVERSIDAD NACIONAL DE COLOMBIA Estado: Tesis concluida MAESTRIA EN CIENCIAS - BIOLOGIA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Heidy Natalia Barragán Barrera Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Trabajos dirigidos/Tutorías - Iniciación Científica: ANDRE JOSAFAT RIVEROS RIVERA, Bimodal learning in the Africanized honeybee, Apis mellifera Smithsonian Tropical Research Institute Estado: Tesis concluida Short Term Fellowship, 2012. Dirigió como: Tutor principal, Persona(s) orientada(s): Christopher Jernigan Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Efecto del flavonol rutina en la regeneración de lombriz de tierra (Eisenia foetida) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Biología, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Maria Fernanda Cañón Ruiz Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRE JOSAFAT RIVEROS RIVERA, Efecto del flavonol rutina sobre la plasticidad estructural y funcional neuronal PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida MAESTRIA EN CIENCIAS BIOLOGICAS, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Lina María García Forero Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA , JHON JAIRO SUTACHAN RUBIO , SONIA ALBARRACIN CORDERO, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Cuesta arriba: integración de rutas en tres dimensiones por la hormiga arriera, Atta colombica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Biología, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): David Cardona Hurtado Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: ANDRE JOSAFAT RIVEROS RIVERA, Evaluación del efecto del kaempferol sobre el fenotipo parkinsoniano inducido por fipronil en Drosophial melanogaster UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Estado: Tesis concluida MAESTRIA EN NEUROCIENCIAS, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Daniela María Ramírez Moreno Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA , JULIETA TRONCOSO, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: ANDRE JOSAFAT RIVEROS RIVERA, Protección neurofarmacológica cognitiva de las abejas expuestas a pesticidas: un papel para los fitoquímicos COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Doctorado en Ciencias Biomédicas y Biológicas, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Lina María García Forero Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: ANDRE JOSAFAT RIVEROS RIVERA, Honey bee health screening using electrical impedance and optical spectroscopy COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis en curso Doctorado en Ciencias Biomédicas y Biológicas, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Pablo Hernández Benavides Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Físicas -- Física de Plasmas y Fluídos,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: ANDRE JOSAFAT RIVEROS RIVERA, The effect of stimulus intensity and synchrony on multimodal learning in bees COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Doctorado en Ciencias Biomédicas y Biológicas, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Oswaldo Gil Guevara Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, The role of ants in membracidae parental care PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida BIOLOGIA, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Maria Fernanda Castillo Montoya Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Evaluación de conductas fototácticas en el escorpión Chactas sp. PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida BIOLOGIA, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Daniel Gutiérrez Kemenes Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA , JHON JAIRO SUTACHAN RUBIO, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Efecto de cambios ambientales en rasgos morfológicos y sensoriales asociados a la especialización de labores en la abeja de la miel Apis mellifera COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Biología, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura María Herrera Gutiérrez Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología (Teórica, Matemática, Criobiología, Evolutiva),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Efectos de la elevación sobre la alometría sensorial en la abeja de la miel, Apis mellifera COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Biología, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Heidy Natalia Barragán Barrera Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología (Teórica, Matemática, Criobiología, Evolutiva),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Efecto de dos aminas biogénicas sobre el aprendizaje y la memoria del color en abejas melíferas africanizadas PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida BIOLOGIA, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Diana Consuelo Molina Jaramillo Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Evaluación del aprendizaje y memoria bimodal (olfativo y visual) en abejas (Apis mellifera) PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida BIOLOGIA, 2016. Dirigió como: Tutor principal, Persona(s) orientada(s): Angélica Sánchez Tovar Tutor(es)/Cotutor(es): ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Estandarización de metodología para el registro y evaluación de la variabilidad de frecuencia cardiaca in vivo del pez cebra (Danio rerio) PONTIFICIA UNIVERSIDAD JAVERIANA Estado: Tesis concluida BIOLOGIA, 2016. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Julian David Rivera Romero Tutor(es)/Cotutor(es): ALAIN RIVEROS RIVERA , ANDRE JOSAFAT RIVEROS RIVERA, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Evaluación del efecto del flavonol rutina sobre la expresión y la organización intracelular de proteínas asociadas a las sinapsis en neuronas corticales in vitro Tipo de trabajo presentado: Trabajo de grado/tesis en: PONTIFICIA UNIVERSIDAD JAVERIANA programa académico BIOLOGIA Nombre del orientado: Andrés Felipe Díaz Elajiek Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: A test of spatial proximity as a driver for social bond formation Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico Biología Nombre del orientado: Manuela Cardona Restrepo Areas: Ciencias Naturales -- Ciencias Biológicas -- Biología (Teórica, Matemática, Criobiología, Evolutiva),",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Social instability effects on courting behavioral and the formation of social bonds Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico BIOLOGÍA Nombre del orientado: Camilo Arenas Ríos Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Social integration of new individuals of stable social groups Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO programa académico Biología Nombre del orientado: Sofía Carolina Garrido Villegas Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Assessment of familiarity and mate preference in the formation of social relationships in guinea pigs Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico BIOLOGÍA Nombre del orientado: Ana María Romero Chacón Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Análisis proteómico de la abeja Apis mellifera expuesta al herbicida glifosato y al insecticida imidacloprid Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA programa académico DOCTORADO EN BIOTECNOLOGIA Nombre del orientado: Carlos Andrés Maya Aguirre Areas: Ciencias Naturales -- Matemática -- Matemáticas Puras,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Variación morfométrica de abejas africanizadas en un gradiente altitudinal de la cordillera oriental (Colombia) Tipo de trabajo presentado: Trabajo de grado/tesis en: PONTIFICIA UNIVERSIDAD JAVERIANA programa académico Ciencias Nombre del orientado: Rafael Leonardo Orjuela Parrado Areas: Ciencias Naturales -- Ciencias Biológicas -- Ecología,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Doctorado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Ecología cognitiva de abejas sin aguijón Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA programa académico Doctorado en Ciencias-Biología Nombre del orientado: Victor Manuel Solarte Cabrera Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: ANDRE JOSAFAT RIVEROS RIVERA, Titulo: Comparación del efecto neuromuscular del veneno de la serpiente cascabel Crotalus durissus cumanensis (Humboldt, 1811) en estado juvenil y adulto. Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD DEL MAGDALENA programa académico BIOLOGIA Nombre del orientado: Miguel Alfonso Arévalo Paez Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: Ministerio de Ciencia, Tecnología e Innovación., 2015, Diciembre",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: SOCIOBIOLOGY, 2014, Septiembre",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: ANIMAL BEHAVIOUR, 2014, Septiembre",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY, 2022, Enero",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: JOURNAL OF EXPERIMENTAL BIOLOGY, 2024, Junio",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: JOURNAL OF EXPERIMENTAL BIOLOGY, 2024, Junio",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: CURRENT OPINION IN INSECT SCIENCE, 2024, Abril",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: FRONTIERS IN ECOLOGY AND EVOLUTION, 2022, Julio",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: BMC ECOLOGY AND EVOLUTION, 2023, Enero",
+      "Ámbito: Internacional Par evaluador de: Material para publicación científica Revista: Proceedings Of The Royal Society Of London. Series B, Containing Papers Of A Biological Character, 2010,"
+    ],
+    "ediciones_revisiones": [
+      "Producción técnica - Editoración o revisión - Otro: ANDRE JOSAFAT RIVEROS RIVERA, Manual del curso de Gigante, Nombre comercial: , contrato/registro: , . En: Panamá, ,2013, Smithsonian Tropical Research Institute p.86 Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: IX International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-08-02 00:00:00.0, 2010-08-07 00:00:00.0 en Salamanca - Universidad de Salamanca Productos asociados Nombre del producto: Color conditioning of the proboscis extension response in bumblebees Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: National Science Foundation Tipo de vinculación Patrocinadora Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "1 Nombre del evento: IX International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-08-02 00:00:00.0, 2010-08-07 00:00:00.0 en Salamanca - Universidad de Salamanca",
+      "Productos asociados Nombre del producto: Color conditioning of the proboscis extension response in bumblebees Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: National Science Foundation Tipo de vinculación Patrocinadora Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "2 Nombre del evento: VIII International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2008-07-01 00:00:00.0, en Vancouver - University of British Columbia Productos asociados Nombre del producto: Learning, memoryretention and division of labor in the bumblebee Bombus occidentalis Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Learning, memory retention and the division of labor in the bumblebee Bombus occidentalis (Hymenoptera: Apidae) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "2 Nombre del evento: VIII International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2008-07-01 00:00:00.0, en Vancouver - University of British Columbia",
+      "Productos asociados Nombre del producto: Learning, memoryretention and division of labor in the bumblebee Bombus occidentalis Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Learning, memory retention and the division of labor in the bumblebee Bombus occidentalis (Hymenoptera: Apidae) Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "3 Nombre del evento: VIII International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-07-15 00:00:00.0, en Vancouver - Productos asociados Nombre del producto: Learning, memory retention and the division of labor in the bumblebee Bombus occidentalis Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: WULFILA GRONENBERG Rol en el evento: Asistente",
+      "3 Nombre del evento: VIII International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-07-15 00:00:00.0, en Vancouver -",
+      "Productos asociados Nombre del producto: Learning, memory retention and the division of labor in the bumblebee Bombus occidentalis Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: WULFILA GRONENBERG Rol en el evento: Asistente",
+      "4 Nombre del evento: Tenth International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-08-05 00:00:00.0, 2012-08-10 00:00:00.0 en Maryland - University of Maryland Productos asociados Nombre del producto: Color learning using the proboscis extension reflex protocol in restrained africanized honeybees Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Color learning using the proboscis extension reflex protocol in restrained africanized honeybees Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Multimodal learning in ants, species differences in Ectatomma Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Univeristy Of Maryland Tipo de vinculación Patrocinadora Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: CRISTOPHER JERNIGAN Rol en el evento: Nombre: MARC SEID Rol en el evento: Ponente Nombre: WILIAM WCISLO Rol en el evento:",
+      "4 Nombre del evento: Tenth International Congress of Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-08-05 00:00:00.0, 2012-08-10 00:00:00.0 en Maryland - University of Maryland",
+      "Productos asociados Nombre del producto: Color learning using the proboscis extension reflex protocol in restrained africanized honeybees Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Color learning using the proboscis extension reflex protocol in restrained africanized honeybees Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Multimodal learning in ants, species differences in Ectatomma Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Univeristy Of Maryland Tipo de vinculación Patrocinadora Nombre de la institución: International Society of Neuroethology Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: CRISTOPHER JERNIGAN Rol en el evento: Nombre: MARC SEID Rol en el evento: Ponente Nombre: WILIAM WCISLO Rol en el evento:",
+      "5 Nombre del evento: Congreso de la IUSSI (Seccion Bolivariana) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2005-09-07 00:00:00.0, 2005-09-09 00:00:00.0 en CALI - Universidad del Valle Productos asociados Nombre del producto: Evaluando la complejidad social: El uso de escalogramas en el análisis de sociedades animales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: International Society for the Study of Social Insects Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: WILIAM WCISLO Rol en el evento: Asistente",
+      "5 Nombre del evento: Congreso de la IUSSI (Seccion Bolivariana) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2005-09-07 00:00:00.0, 2005-09-09 00:00:00.0 en CALI - Universidad del Valle",
+      "Productos asociados Nombre del producto: Evaluando la complejidad social: El uso de escalogramas en el análisis de sociedades animales Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: International Society for the Study of Social Insects Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: WILIAM WCISLO Rol en el evento: Asistente",
+      "6 Nombre del evento: XVI Congress of the International Society for the Study of Social Insects Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-08-08 00:00:00.0, 2010-08-14 00:00:00.0 en Copenhagen - Centre for Social Evolution Productos asociados Nombre del producto: Foraging task specialization and sensory allometry in wild, hybridized and artificially selected honeybees Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: International Society for the Study of Social Insects Tipo de vinculación Patrocinadora Nombre de la institución: National Science Foundation Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "6 Nombre del evento: XVI Congress of the International Society for the Study of Social Insects Tipo de evento: Congreso Ámbito: Internacional Realizado el:2010-08-08 00:00:00.0, 2010-08-14 00:00:00.0 en Copenhagen - Centre for Social Evolution",
+      "Productos asociados Nombre del producto: Foraging task specialization and sensory allometry in wild, hybridized and artificially selected honeybees Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: International Society for the Study of Social Insects Tipo de vinculación Patrocinadora Nombre de la institución: National Science Foundation Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "7 Nombre del evento: III Congreso Colombiano de Zoologia Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-11-21 00:00:00.0, 2010-11-26 00:00:00.0 en MEDELLÍN - Centro de Convenciones Plaza Mayor Instituciones asociadas Nombre de la institución: Asociación Colombiana de Zoología Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento:",
+      "7 Nombre del evento: III Congreso Colombiano de Zoologia Tipo de evento: Congreso Ámbito: Nacional Realizado el:2010-11-21 00:00:00.0, 2010-11-26 00:00:00.0 en MEDELLÍN - Centro de Convenciones Plaza Mayor",
+      "Instituciones asociadas Nombre de la institución: Asociación Colombiana de Zoología Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento:",
+      "8 Nombre del evento: First Congress of the East Asian Federation of Ecological Societies Tipo de evento: Congreso Ámbito: Internacional Realizado el:2004-10-20 00:00:00.0, 2004-10-24 00:00:00.0 en Mopko - Productos asociados Nombre del producto: Experimental evidence for a magnetic sense in Neotropical migrating butterflies Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: East Asian Federation of Ecological Societies Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Asistente Nombre: EVANDRO G OLIVEIRA Rol en el evento: Asistente Nombre: ROBERT B SRYGLEY Rol en el evento: Ponente Nombre: ROBERT DUDLEY Rol en el evento: Asistente",
+      "8 Nombre del evento: First Congress of the East Asian Federation of Ecological Societies Tipo de evento: Congreso Ámbito: Internacional Realizado el:2004-10-20 00:00:00.0, 2004-10-24 00:00:00.0 en Mopko -",
+      "Productos asociados Nombre del producto: Experimental evidence for a magnetic sense in Neotropical migrating butterflies Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: East Asian Federation of Ecological Societies Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Asistente Nombre: EVANDRO G OLIVEIRA Rol en el evento: Asistente Nombre: ROBERT B SRYGLEY Rol en el evento: Ponente Nombre: ROBERT DUDLEY Rol en el evento: Asistente",
+      "9 Nombre del evento: Congreso Colombiano de Zoología Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-11-30 00:00:00.0, 2014-12-05 00:00:00.0 en CARTAGENA DE INDIAS - Centro de Convenciones de Cartagena Productos asociados Nombre del producto: Flores multimodales, mentes multimodales? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Consejo Profesional de Biolgía Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "9 Nombre del evento: Congreso Colombiano de Zoología Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-11-30 00:00:00.0, 2014-12-05 00:00:00.0 en CARTAGENA DE INDIAS - Centro de Convenciones de Cartagena",
+      "Productos asociados Nombre del producto: Flores multimodales, mentes multimodales? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Consejo Profesional de Biolgía Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "10 Nombre del evento: Gordon Research Conference: Neuroethology, Evolution and Behavior Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-08-14 00:00:00.0, 2011-08-19 00:00:00.0 en BOGOTÁ, D.C. - Stonehill College Productos asociados Nombre del producto: Learning and memory, experience, and brain plasticity in bumblebee Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Evolution of brain size in class-based societies Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Stonehill College Tipo de vinculación Patrocinadora Nombre de la institución: Smithsonian Tropical Research Institute Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: WILIAM WCISLO Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "10 Nombre del evento: Gordon Research Conference: Neuroethology, Evolution and Behavior Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-08-14 00:00:00.0, 2011-08-19 00:00:00.0 en BOGOTÁ, D.C. - Stonehill College",
+      "Productos asociados Nombre del producto: Learning and memory, experience, and brain plasticity in bumblebee Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Evolution of brain size in class-based societies Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Stonehill College Tipo de vinculación Patrocinadora Nombre de la institución: Smithsonian Tropical Research Institute Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: WILIAM WCISLO Rol en el evento: Nombre: WULFILA GRONENBERG Rol en el evento:",
+      "11 Nombre del evento: 7th Conference of Royal Institute of Navigation \"Orientation & Navigation. Birds, Humans & Other Animals Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-04-06 00:00:00.0, 2011-04-09 00:00:00.0 en Reading - University of Reading Productos asociados Nombre del producto: Biomimicry and the guidance systems of migratory insects Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Do leaf-cutter ants Atta colombica obtain their magnetic compass materials from soil? A behavioral assessment Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Do leaf-cutter ants Atta colombica obtain their magnetic compass materials from soil? The comparative FMR results Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Royal Institute of Navigation Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Asistente , Ponente Nombre: EVANDRO G OLIVEIRA Rol en el evento: Nombre: ROBERT B SRYGLEY Rol en el evento: Asistente Nombre: ROBERT DUDLEY Rol en el evento:",
+      "11 Nombre del evento: 7th Conference of Royal Institute of Navigation \"Orientation & Navigation. Birds, Humans & Other Animals Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-04-06 00:00:00.0, 2011-04-09 00:00:00.0 en Reading - University of Reading",
+      "Productos asociados Nombre del producto: Biomimicry and the guidance systems of migratory insects Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Do leaf-cutter ants Atta colombica obtain their magnetic compass materials from soil? A behavioral assessment Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Do leaf-cutter ants Atta colombica obtain their magnetic compass materials from soil? The comparative FMR results Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Royal Institute of Navigation Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Asistente , Ponente Nombre: EVANDRO G OLIVEIRA Rol en el evento: Nombre: ROBERT B SRYGLEY Rol en el evento: Asistente Nombre: ROBERT DUDLEY Rol en el evento:",
+      "12 Nombre del evento: 6th Conference of Royal Institute of Navigation \"Orientation & Navigation. Birds, Humans & Other Animals Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-04-02 00:00:00.0, 2008-04-04 00:00:00.0 en Reading - University of Reading Productos asociados Nombre del producto: Do leaf-cutter ants orient their path-integrated home vector with a magnetic compass? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Royal Institute of Navigation Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: ROBERT B SRYGLEY Rol en el evento:",
+      "12 Nombre del evento: 6th Conference of Royal Institute of Navigation \"Orientation & Navigation. Birds, Humans & Other Animals Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-04-02 00:00:00.0, 2008-04-04 00:00:00.0 en Reading - University of Reading",
+      "Productos asociados Nombre del producto: Do leaf-cutter ants orient their path-integrated home vector with a magnetic compass? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Royal Institute of Navigation Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: ROBERT B SRYGLEY Rol en el evento:",
+      "13 Nombre del evento: Organization for Tropical Studies Meeting Tipo de evento: Otro Ámbito: Internacional Realizado el:2013-06-23 00:00:00.0, 2013-11-27 00:00:00.0 en San José - Instituciones asociadas Nombre de la institución: Organization fro Tropical Studies Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: ROBERT B SRYGLEY Rol en el evento:",
+      "13 Nombre del evento: Organization for Tropical Studies Meeting Tipo de evento: Otro Ámbito: Internacional Realizado el:2013-06-23 00:00:00.0, 2013-11-27 00:00:00.0 en San José -",
+      "Instituciones asociadas Nombre de la institución: Organization fro Tropical Studies Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Nombre: ROBERT B SRYGLEY Rol en el evento:",
+      "14 Nombre del evento: IV Curso Internacional en Neurobiologia Tipo de evento: Otro Ámbito: Internacional Realizado el:2014-05-12 00:00:00.0, 2014-05-14 00:00:00.0 en BOGOTÁ, D.C. - Pontificia Universidad Javeriana Productos asociados Nombre del producto: Himenoptera Sociales como modelos en Neuroetologia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "14 Nombre del evento: IV Curso Internacional en Neurobiologia Tipo de evento: Otro Ámbito: Internacional Realizado el:2014-05-12 00:00:00.0, 2014-05-14 00:00:00.0 en BOGOTÁ, D.C. - Pontificia Universidad Javeriana",
+      "Productos asociados Nombre del producto: Himenoptera Sociales como modelos en Neuroetologia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "15 Nombre del evento: 1er Simposio de Neurociencias, Cognición y Sociedad Tipo de evento: Simposio Ámbito: Nacional Realizado el:2016-04-22 00:00:00.0, 2016-04-23 00:00:00.0 en BOGOTÁ, D.C. - Pontificia Universidad Javeriana Productos asociados Nombre del producto: Ecología cognitiva y cerebro social Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "15 Nombre del evento: 1er Simposio de Neurociencias, Cognición y Sociedad Tipo de evento: Simposio Ámbito: Nacional Realizado el:2016-04-22 00:00:00.0, 2016-04-23 00:00:00.0 en BOGOTÁ, D.C. - Pontificia Universidad Javeriana",
+      "Productos asociados Nombre del producto: Ecología cognitiva y cerebro social Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "16 Nombre del evento: 42 Congreso Colombiano de Entomología Tipo de evento: Congreso Ámbito: Nacional Realizado el:2015-07-29 00:00:00.0, 2015-07-31 00:00:00.0 en PASTO - Universidad Nacional de Colombia-Sede Medellín Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Asistente",
+      "16 Nombre del evento: 42 Congreso Colombiano de Entomología Tipo de evento: Congreso Ámbito: Nacional Realizado el:2015-07-29 00:00:00.0, 2015-07-31 00:00:00.0 en PASTO - Universidad Nacional de Colombia-Sede Medellín",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Asistente",
+      "17 Nombre del evento: IV Encuentro Colombiano sobre Abejas Silvestres Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2008-11-25 00:00:00.0, 2008-11-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia-Sede Bogotá Productos asociados Nombre del producto: Tamano corporal, ecologia sensorial y organizacion social en abejas Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "17 Nombre del evento: IV Encuentro Colombiano sobre Abejas Silvestres Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2008-11-25 00:00:00.0, 2008-11-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia-Sede Bogotá",
+      "Productos asociados Nombre del producto: Tamano corporal, ecologia sensorial y organizacion social en abejas Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "18 Nombre del evento: Symposium of Science Tipo de evento: Otro Ámbito: Nacional Realizado el:2005-07-12 00:00:00.0, 2005-07-13 00:00:00.0 en Panamá - Centro Tupper (Smithsonian Tropical Research Institute) Productos asociados Nombre del producto: Landmark and compass navigation in leaf-cutter ants Tipo de producto: Producción técnica - Presentación de trabajo - Simposio Instituciones asociadas Nombre de la institución: Smithsonian Tropical Research Institute Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente",
+      "18 Nombre del evento: Symposium of Science Tipo de evento: Otro Ámbito: Nacional Realizado el:2005-07-12 00:00:00.0, 2005-07-13 00:00:00.0 en Panamá - Centro Tupper (Smithsonian Tropical Research Institute)",
+      "Productos asociados Nombre del producto: Landmark and compass navigation in leaf-cutter ants Tipo de producto: Producción técnica - Presentación de trabajo - Simposio",
+      "Instituciones asociadas Nombre de la institución: Smithsonian Tropical Research Institute Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente",
+      "19 Nombre del evento: Entomological Society of America Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-11-10 00:00:00.0, 2013-11-13 00:00:00.0 en Austin - Austin Convention Center Productos asociados Nombre del producto: Multimodal learning in ants, species differences in Ectatomma Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Entomological Society Of America Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: MARC SEID Rol en el evento: Ponente",
+      "19 Nombre del evento: Entomological Society of America Annual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-11-10 00:00:00.0, 2013-11-13 00:00:00.0 en Austin - Austin Convention Center",
+      "Productos asociados Nombre del producto: Multimodal learning in ants, species differences in Ectatomma Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Entomological Society Of America Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: MARC SEID Rol en el evento: Ponente",
+      "20 Nombre del evento: Segundo Encuentro Colombiano sobre Abejas Silvestres Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2004-11-24 00:00:00.0, 2004-11-26 00:00:00.0 en BOGOTÁ, D.C. - Departamento de Biologia-Universidad Nacional de Colombia Productos asociados Nombre del producto: Limitantes morfologicos y comportamiento de robo en tres especies de abejorros del genero Bombus Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: EDGAR JAVIER HERNANDEZ Rol en el evento: Asistente Nombre: GUIOMAR NATES PARRA Rol en el evento: Ponente",
+      "20 Nombre del evento: Segundo Encuentro Colombiano sobre Abejas Silvestres Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2004-11-24 00:00:00.0, 2004-11-26 00:00:00.0 en BOGOTÁ, D.C. - Departamento de Biologia-Universidad Nacional de Colombia",
+      "Productos asociados Nombre del producto: Limitantes morfologicos y comportamiento de robo en tres especies de abejorros del genero Bombus Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: EDGAR JAVIER HERNANDEZ Rol en el evento: Asistente Nombre: GUIOMAR NATES PARRA Rol en el evento: Ponente",
+      "21 Nombre del evento: Cátedra de Sede Manuel Ancizar: Bases Biológicas del comportamiento Animal humano Tipo de evento: Otro Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Auditorio Leon de Greiff Productos asociados Nombre del producto: Ambientes conductuales y desarrollo cerebral: de la vida solitaria a la social Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "21 Nombre del evento: Cátedra de Sede Manuel Ancizar: Bases Biológicas del comportamiento Animal humano Tipo de evento: Otro Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Auditorio Leon de Greiff",
+      "Productos asociados Nombre del producto: Ambientes conductuales y desarrollo cerebral: de la vida solitaria a la social Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "22 Nombre del evento: Gordon Conference: Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-18 00:00:00.0, 2017-06-23 00:00:00.0 en PASTO - Les Diablerets Productos asociados Nombre del producto: Timing and composition of bimodal signals underlie diversity of performance during classical conditioning in restrained bumblebees Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente",
+      "22 Nombre del evento: Gordon Conference: Neuroethology Tipo de evento: Congreso Ámbito: Internacional Realizado el:2017-06-18 00:00:00.0, 2017-06-23 00:00:00.0 en PASTO - Les Diablerets",
+      "Productos asociados Nombre del producto: Timing and composition of bimodal signals underlie diversity of performance during classical conditioning in restrained bumblebees Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente",
+      "23 Nombre del evento: Animal Behavior Society Virtual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2020-07-28 00:00:00.0, 2020-07-31 00:00:00.0 en Glenview - Virtual Productos asociados Nombre del producto: The effect of stimulus intensity during multimodal learning in Africanized honey bees Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: OSWALDO GIL GUEVARA Rol en el evento: Ponente",
+      "23 Nombre del evento: Animal Behavior Society Virtual Meeting Tipo de evento: Congreso Ámbito: Internacional Realizado el:2020-07-28 00:00:00.0, 2020-07-31 00:00:00.0 en Glenview - Virtual",
+      "Productos asociados Nombre del producto: The effect of stimulus intensity during multimodal learning in Africanized honey bees Tipo de producto: Producción técnica - Presentación de trabajo - Congreso",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: OSWALDO GIL GUEVARA Rol en el evento: Ponente",
+      "24 Nombre del evento: IX Encuentro sobre abejas silvestres Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2018-12-03 00:00:00.0, 2018-12-07 00:00:00.0 en BOGOTÁ, D.C. - Centro de Convenciones Agora Productos asociados Nombre del producto: La sinapsis de la abeja perdida Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Organizador , Ponente magistral",
+      "24 Nombre del evento: IX Encuentro sobre abejas silvestres Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2018-12-03 00:00:00.0, 2018-12-07 00:00:00.0 en BOGOTÁ, D.C. - Centro de Convenciones Agora",
+      "Productos asociados Nombre del producto: La sinapsis de la abeja perdida Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Organizador , Ponente magistral",
+      "25 Nombre del evento: North American Pollinator Protection Campaign Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-22 00:00:00.0, 2019-10-24 00:00:00.0 en Washington, D.C. - U.S Department of Interior Productos asociados Nombre del producto: Pharmacological protection of bees against pesticides Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente",
+      "25 Nombre del evento: North American Pollinator Protection Campaign Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-22 00:00:00.0, 2019-10-24 00:00:00.0 en Washington, D.C. - U.S Department of Interior",
+      "Productos asociados Nombre del producto: Pharmacological protection of bees against pesticides Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente",
+      "26 Nombre del evento: I Congreso internacional de Nanoquímica, Nanofísica y Nanomedicina Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-08-21 00:00:00.0, 2019-08-23 00:00:00.0 en ARMENIA - Centro Metropolitano de Convenciones Productos asociados Nombre del producto: Perspectives on the biomedical use of the flavonol quercetin and its derivatives: A review on reported effects and gaps based on bioinformatics Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: CARLOS FABIAN MORANTES ARIZA Rol en el evento: Ponente Nombre: DANIELA MARIA RAMIREZ MORENO Rol en el evento: Ponente Nombre: DIANA CONSUELO MOLINA JARAMILLO Rol en el evento: Ponente Nombre: LINA MARIA GARCIA FORERO Rol en el evento: Ponente Nombre: MANUELA LONDONO BARRERA Rol en el evento: Ponente",
+      "26 Nombre del evento: I Congreso internacional de Nanoquímica, Nanofísica y Nanomedicina Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-08-21 00:00:00.0, 2019-08-23 00:00:00.0 en ARMENIA - Centro Metropolitano de Convenciones",
+      "Productos asociados Nombre del producto: Perspectives on the biomedical use of the flavonol quercetin and its derivatives: A review on reported effects and gaps based on bioinformatics Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente Nombre: CARLOS FABIAN MORANTES ARIZA Rol en el evento: Ponente Nombre: DANIELA MARIA RAMIREZ MORENO Rol en el evento: Ponente Nombre: DIANA CONSUELO MOLINA JARAMILLO Rol en el evento: Ponente Nombre: LINA MARIA GARCIA FORERO Rol en el evento: Ponente Nombre: MANUELA LONDONO BARRERA Rol en el evento: Ponente",
+      "27 Nombre del evento: Encuentro de Investigadores en Ciencias del Comportamiento Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2019-04-05 00:00:00.0, 2019-04-06 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Productos asociados Nombre del producto: Aprendizaje en la punta de una pipeta: promesas y retos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral",
+      "27 Nombre del evento: Encuentro de Investigadores en Ciencias del Comportamiento Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2019-04-05 00:00:00.0, 2019-04-06 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Productos asociados Nombre del producto: Aprendizaje en la punta de una pipeta: promesas y retos Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ANDRE JOSAFAT RIVEROS RIVERA Rol en el evento: Ponente magistral"
+    ],
+    "fortalecimiento_o_soluci_n_de_asuntos_de_inter_s_social": [
+      "Apropiación social del conocimiento - Proceso de Apropiación Social del Conocimiento para el fortalecimiento o solución de asuntos de interés social: Nombre del producto: Registro de Semillero en Ecología cognitiva, Fecha de presentación: 2018 - Octubre, Medio de verificación: https://pure.urosario.edu.co/es/organisations/cognitive-ecology-research-incubator-3, Licencia creative: Atribución-No Comercial, Formato: XHTML or HTML (.xhtml, .html), Proyecto vinculado: Seguridad alimentaria y crisis de los polinizadores"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, EDGAR JAVIER HERNANDEZ, GUIOMAR NATES PARRA, \"Morphological constraints and nectar robbing in three Andean bumble bee species, (Hymenoptera, Apidae, Bombini)\" . En: Colombia CALDASIA ISSN: 0366-5232 ed: INST CIENCIAS NATURALES, MUSEO HISTORIA NATURAL v. 28 fasc. 1 p.111 - 114 ,2006, DOI:",
+        "titulo": "Morphological constraints and nectar robbing in three Andean bumble bee species, (Hymenoptera, Apidae, Bombini)",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, \"Learning from learning and memory in bumblebees\" . En: Estados Unidos COMMUNICATIVE AND INTEGRATIVE BIOLOGY ISSN: 1942-0889 ed: TAYLOR &FRANCIS v. 2 fasc. N/A p.437 - 440 ,2009, DOI:",
+        "titulo": "Learning from learning and memory in bumblebees",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, OSWALDO GIL GUEVARA, \"Honey bees respond to multimodal stimuli following the principle of inverse effectiveness\" . En: Inglaterra JOURNAL OF EXPERIMENTAL BIOLOGY ISSN: 1477-9145 ed: COMPANY BIOLOGISTS LTD v. 225 fasc. 10 p.1 - 12 ,2022, DOI: 10.1242/jeb.243832",
+        "titulo": "Honey bees respond to multimodal stimuli following the principle of inverse effectiveness",
+        "doi": "10.1242/jeb.243832",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, \"Olfactory learning and memory in the bumblebee Bombus occidentals\" . En: Alemania SCIENCE OF NATURE ISSN: 1432-1904 ed: SPRINGER HEIDELBERG v. 96 fasc. 7 p.851 - 856 ,2009, DOI:",
+        "titulo": "Olfactory learning and memory in the bumblebee Bombus occidentals",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, DANIELA MARIA RAMIREZ MORENO, \"The flavonoid kaempferol protects the fruit fly Drosophila melanogaster against the motor impairment produced by exposure to the insecticide fipronil\" . En: Inglaterra JOURNAL OF EXPERIMENTAL BIOLOGY ISSN: 1477-9145 ed: COMPANY BIOLOGISTS LTD v. 225 fasc. 19 p.1 - 10 ,2022, DOI:",
+        "titulo": "The flavonoid kaempferol protects the fruit fly Drosophila melanogaster against the motor impairment produced by exposure to the insecticide fipronil",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, \"The flavonoid rutin protects the bumble bee Bombus impatiens against cognitive impairment by imidacloprid and fipronil\" . En: Colombia JOURNAL OF EXPERIMENTAL BIOLOGY ISSN: 1477-9145 ed: COMPANY BIOLOGISTS LTD v. 225 fasc. p.1 - 12 ,2022, DOI: 10.1242/jeb.244526",
+        "titulo": "The flavonoid rutin protects the bumble bee Bombus impatiens against cognitive impairment by imidacloprid and fipronil",
+        "doi": "10.1242/jeb.244526",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, \"Temporal configuration and modality of components determine the performance of bumble bees during the learning of a multimodal signal\" . En: Colombia JOURNAL OF EXPERIMENTAL BIOLOGY ISSN: 1477-9145 ed: COMPANY BIOLOGISTS LTD v. 226 fasc. 1 p.1 - 7 ,2023, DOI: 10.1242/jeb.245233",
+        "titulo": "Temporal configuration and modality of components determine the performance of bumble bees during the learning of a multimodal signal",
+        "doi": "10.1242/jeb.245233",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ROBERT B SRYGLEY, ROBERT DUDLEY, EDGAR JAVIER HERNANDEZ, ANDRE JOSAFAT RIVEROS RIVERA, \"Quantifying the Aerodynamic Power Required for Flight and Testing for Adaptive Wind Drift in Passion-Vine Butterflies Heliconius sara (Lepidoptera: Nymphalidae)\" . En: Colombia INSECTS ISSN: 2075-4450 ed: mdpi v. 14 fasc. 2 p.1 - 12 ,2023, DOI: 10.3390/14020112",
+        "titulo": "Quantifying the Aerodynamic Power Required for Flight and Testing for Adaptive Wind Drift in Passion-Vine Butterflies Heliconius sara (Lepidoptera: Nymphalidae)",
+        "doi": "10.3390/14020112",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LINA MARIA GARCIA FORERO, VALENTINA CAICEDO GARZON, ANDRE JOSAFAT RIVEROS RIVERA, \"Oral administration of phytochemicals protects honey bees against cognitive and motor impairments induced by the insecticide fipronil\" . En: Colombia PLOS ONE ISSN: 1932-6203 ed: PUBLIC LIBRARY SCIENCE v. 19 fasc. 3 p.1 - 17 ,2024, DOI: 10.1371/journal.pone.0300899",
+        "titulo": "Oral administration of phytochemicals protects honey bees against cognitive and motor impairments induced by the insecticide fipronil",
+        "doi": "10.1371/journal.pone.0300899",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, \"Sensory allometry, foraging task specialization and resource exploitation in honeybees\" . En: Estados Unidos BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY ISSN: 0340-5443 ed: Springer v. 64 fasc. 6 p.955 - 966 ,2010, DOI:",
+        "titulo": "Sensory allometry, foraging task specialization and resource exploitation in honeybees",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, EDGAR JAVIER HERNANDEZ, WILIAM WCISLO, \"Nesting biology of Euglossa dodsoni in Panama\" . En: Estados Unidos JOURNAL OF THE KANSAS ENTOMOLOGICAL SOCIETY ISSN: 0022-8567 ed: KANSAS ENTOMOLOGICAL SOC v. 82 fasc. N/A p.210 - 214 ,2009, DOI:",
+        "titulo": "Nesting biology of Euglossa dodsoni in Panama",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, \"Brain allometry and neural plasticity in the bumblebee Bombus occidentalis\" . En: Estados Unidos BRAIN BEHAVIOR AND EVOLUTION ISSN: 1421-9743 ed: Karger v. 75 fasc. 2 p.138 - 148 ,2010, DOI:",
+        "titulo": "Brain allometry and neural plasticity in the bumblebee Bombus occidentalis",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, BRIAN ENQUIST, \"Metabolic scaling in insects supports the predictions of the WBE model\" . En: Estados Unidos JOURNAL OF INSECT PHYSIOLOGY ISSN: 1879-1611 ed: Elsevier v. 57 fasc. 6 p.688 - 693 ,2011, DOI:",
+        "titulo": "Metabolic scaling in insects supports the predictions of the WBE model",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, MARC SEID, WILIAM WCISLO, \"Evolution of brain size in class-based societies of fungus-growing ants (Attini)\" . En: Inglaterra ANIMAL BEHAVIOUR ISSN: 1095-8282 ed: Academic Press Ltd-Elsevier Science Ltd v. 83 fasc. 4 p.1043 - 1049 ,2012, DOI:",
+        "titulo": "Evolution of brain size in class-based societies of fungus-growing ants (Attini)",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, \"Decision-making and associative color learning in harnessed bumblebees (Bombus impatiens)\" . En: Inglaterra ANIMAL COGNITION ISSN: 1435-9448 ed: SPRINGER HEIDELBERG v. 15 fasc. 6 p.1183 - 1193 ,2012, DOI:",
+        "titulo": "Decision-making and associative color learning in harnessed bumblebees (Bombus impatiens)",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ROBERT B SRYGLEY, ROBERT DUDLEY, EVANDRO G OLIVEIRA, ANDRE JOSAFAT RIVEROS RIVERA, \"Experimental evidence for a magnetic sense in Neotropical migrating butterflies (Lepidoptera: Pieridae).\" . En: Reino Unido ANIMAL BEHAVIOUR ISSN: 0003-3472 ed: Academic Press Ltd-Elsevier Science Ltd v. 71 fasc. 1 p.183 - 191 ,2006, DOI: http://dx.doi.org/10.1016/j.anbehav.2005.04.013",
+        "titulo": "Experimental evidence for a magnetic sense in Neotropical migrating butterflies (Lepidoptera: Pieridae).",
+        "doi": "http://dx.doi.org/10.1016/j.anbehav.2005.04.013",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): ANDRE JOSAFAT RIVEROS RIVERA, \"On Lilliputians and Brobdingnagians.\" . En: Estados Unidos TRENDS IN ECOLOGY EVOLUTION ISSN: 0169-5347 ed: Cell Press v. 22 fasc. 3 p.115 - 116 ,2007, DOI: http://dx.doi.org/10.1016/j.tree.2006.12.007",
+        "titulo": "On Lilliputians and Brobdingnagians.",
+        "doi": "http://dx.doi.org/10.1016/j.tree.2006.12.007",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, ROBERT B SRYGLEY, \"Do leaf-cutter ants Atta colombica orient their path-integrated, home vector with a magnetic compass?\" . En: Reino Unido ANIMAL BEHAVIOUR ISSN: 0003-3472 ed: Academic Press Ltd-Elsevier Science Ltd v. 75 fasc. 4 p.1273 - 1281 ,2008, DOI: http://dx.doi.org/10.1016/j.anbehav.2007.09.030 Palabras: navegación, path integration, orientación, hormigas, cognición,",
+        "titulo": "Do leaf-cutter ants Atta colombica orient their path-integrated, home vector with a magnetic compass?",
+        "doi": "http://dx.doi.org/10.1016/j.anbehav.2007.09.030",
+        "anio": "2007"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, DARCI ESQUIVEL, ELIANE WAJNBERG, ROBERT B SRYGLEY, \"Do leaf-cutter ants Atta colombica obtain their magnetic sensors from soil?\" . En: Estados Unidos BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY ISSN: 1432-0762 ed: Springer v. 68 fasc. NA p.55 - 62 ,2014, DOI: DOI 10.1007/s00265-013-1621-7 Palabras: hormigas, navegación, path integration,",
+        "titulo": "Do leaf-cutter ants Atta colombica obtain their magnetic sensors from soil?",
+        "doi": "DOI",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ROBERT B SRYGLEY, ROBERT DUDLEY, EVANDRO G OLIVEIRA, ANDRE JOSAFAT RIVEROS RIVERA, \"EL Niño, host plant growth, and migratory butterfly abundance in a changing climate\" . En: Costa Rica BIOTROPICA ISSN: 1744-7429 ed: John Wiley & Sons v. 46 fasc. 1 p.90 - 97 ,2014, DOI: 10.1111/btp.12081 Palabras: migración, navegación, cambio climático,",
+        "titulo": "EL Niño, host plant growth, and migratory butterfly abundance in a changing climate",
+        "doi": "10.1111/btp.12081",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CRISTOPHER JERNIGAN, WILIAM WCISLO, ANDRE JOSAFAT RIVEROS RIVERA, \"Color-dependent learning in restrained Africanized honey bees\" . En: Inglaterra JOURNAL OF EXPERIMENTAL BIOLOGY ISSN: 0022-0949 ed: COMPANY BIOLOGISTS LTD v. 217 fasc. p.337 - 343 ,2014, DOI: 10.1242/​jeb.091355 Palabras: abejas, aprendizaje, cognición, memoria,",
+        "titulo": "Color-dependent learning in restrained Africanized honey bees",
+        "doi": "10.1242/​jeb.091355",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ROBERT B SRYGLEY, ANDRE JOSAFAT RIVEROS RIVERA, DARCI ESQUIVEL, ELIANE WAJNBERG, \"Magnetic anisotropy and organization of nanoparticles in heads and antennae of neotropical leaf-cutter ants, Atta colombica\" . En: Colombia JOURNAL OF PHYSICS D APPLIED PHYSICS ISSN: 0022-3727 ed: IOP Publishing Ltd v. 47 fasc. 43 p.401 - 435 ,2014, DOI: 10.1088/0022-3727/47/43/435401",
+        "titulo": "Magnetic anisotropy and organization of nanoparticles in heads and antennae of neotropical leaf-cutter ants, Atta colombica",
+        "doi": "10.1088/0022-3727/47/43/435401",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, \"Learning of bimodal versus unimodal signals in restrained bumble bees\" . En: Colombia JOURNAL OF EXPERIMENTAL BIOLOGY ISSN: 1477-9145 ed: COMPANY BIOLOGISTS LTD v. 223 fasc. 10 p.1 - 10 ,2020, DOI: 10.1242/jeb.220103 Palabras: Bumble bees,",
+        "titulo": "Learning of bimodal versus unimodal signals in restrained bumble bees",
+        "doi": "10.1242/jeb.220103",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, MARC SEID, \"Stimulus-dependent learning and memory in the neotropical ant Ectatomma ruidum\" . En: Colombia JOURNAL OF EXPERIMENTAL BIOLOGY ISSN: 1477-9145 ed: COMPANY BIOLOGISTS LTD v. 224 fasc. 9 p.1 - 8 ,2021, DOI: 10.1242/jeb.238535 Palabras: aprendizaje, cognición, hormigas,",
+        "titulo": "Stimulus-dependent learning and memory in the neotropical ant Ectatomma ruidum",
+        "doi": "10.1242/jeb.238535",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ANDRE JOSAFAT RIVEROS RIVERA, MARISOL AMAYA MARQUEZ, \"Sublethal doses of glyphosate impair olfactory memory retention but not learning in the honey bee (Apis mellifera scutellata)\" . En: Colombia JOURNAL OF INSECT CONSERVATION ISSN: 1572-9753 ed: Springer v. 25 fasc. N/A p.1 - 5 ,2021, DOI: 10.1007/s10841-021-00335-6",
+        "titulo": "Sublethal doses of glyphosate impair olfactory memory retention but not learning in the honey bee (Apis mellifera scutellata)",
+        "doi": "10.1007/s10841-021-00335-6",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: ROBERT B SRYGLEY, ROBERT DUDLEY, EVANDRO G OLIVEIRA, RAFAEL AIZPRUA, NZ PELAEZ, ANDRE JOSAFAT RIVEROS RIVERA, \"El Nino and dry season rainfall influence host plant phenology and annual butterfly migration from Neotropical wet to dry forest\" . En: Estados Unidos GLOBAL CHANGE BIOLOGY ISSN: 1354-1013 ed: John Wiley & Sons v. 16 fasc. 3 p.936 - 945 ,2009, DOI:",
+        "titulo": "El Nino and dry season rainfall influence host plant phenology and annual butterfly migration from Neotropical wet to dry forest",
+        "anio": "2009"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Libro resultado de investigación: ANDRE JOSAFAT RIVEROS RIVERA, \"Body Size And The Neural Cognitive And Sensory Basis Of Sociality In Bees\" En: Estados Unidos 2009. ed:University of Arizona Press ISBN: 9781109270143 v. pags. Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,"
+    ],
+    "capitulos_libro": [
+      "Tipo: Otro capítulo de libro publicado ANDRE JOSAFAT RIVEROS RIVERA, \"Ambientes conductuales y desarrollo cerebral: de la vida solitaria a la social\" Bases Biologicas Del Comportamiento Animal Y Humano . En: Colombia ISBN: 978-958-719-347-3 ed: Editorial Universidad Nacional de Colombia , v. , p.15 - 25 ,2010 Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Tipo: Otro capítulo de libro publicado WULFILA GRONENBERG, Tipo: Otro capítulo de libro publicado ANDRE JOSAFAT RIVEROS RIVERA, \"Social brains and behavior: past and present\" Organization Of Insect Societies: From Genome To Sociocomplexity . En: Estados Unidos ISBN: 978-0-674-03125-8 ed: Harvard University Press , v. , p.377 - 401 ,2009 Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Tipo: Otro capítulo de libro publicado ANDRE JOSAFAT RIVEROS RIVERA, Tipo: Otro capítulo de libro publicado ROBERT B SRYGLEY, \"Magnetic compasses in insects\" Encylopedia Of Animal Behavior . En: Inglaterra ISBN: 978-0-08-045337-8 ed: Elsevier - Academic Press , v. , p.305 - 313 ,2010 Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Tipo: Otro capítulo de libro publicado MARIA JOSE FERNANDEZ SANCHEZ, Tipo: Otro capítulo de libro publicado ANDRE JOSAFAT RIVEROS RIVERA, \"Intoxicación por superwarfarinas\" Toxicología En Urgencias: Guía Práctica. Cápitulo 59 Intoxicación Alimentaria . En: Colombia ISBN: 978-958-9327-55-5 ed: Editorial M èdica Celsus , v. , p.363 - 370 ,2014 Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Tipo: Otro capítulo de libro publicado ANDRE JOSAFAT RIVEROS RIVERA, Tipo: Otro capítulo de libro publicado ROBERT B SRYGLEY, \"Magnetic compasses in insects\" Encyclopedia of Animal Behavior . En: Estados Unidos ISBN: 9780128132524 ed: Elsevier - Academic Press , v. , p.588 - 597 ,2019 Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento, Sectores: Educación - Formación permanente y otras actividades de enseñanza, incluso educación a distancia y educación especial,"
+    ],
+    "boletines": [
+      "Producción técnica - Impresa - Boletín: ANDRE JOSAFAT RIVEROS RIVERA, \"Entrevista: Margarita da la nota con André Riveros\" Fecha de presentación: 2021-07-22 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://www.radionacional.co/podcast/margarita-da-la-nota/margarita-da-la-nota-con-andre-josafat-riveros-rivera. Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Producción técnica - Impresa - Boletín: ANDRE JOSAFAT RIVEROS RIVERA, \"¿Por qué es necesario evitar la desaparición de las abejas?\" Fecha de presentación: 2018-04-18 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://www.urosario.edu.co/Periodico-NovaEtVetera/Medio-Ambiente/Por-que-es-necesario-evitar-la-desaparicion-de-la/#:~:text=%C2%BFPor%20qu%C3%A9%20es%20necesario%20evitar%20la%20desaparici%C3%B3n%20de%20las%20abejas%3F&text=Las%20abejas%20son%20actores%20centrales,las%20plantas%20que%20tienen%20flo. Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Producción técnica - Impresa - Boletín: ANDRE JOSAFAT RIVEROS RIVERA, \"Out of the Box. La Universidad del Rosario en Expociencia\" Fecha de presentación: 2018-11-27 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://youtu.be/ZSHrDr7CSrk?t=260. Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Producción técnica - Impresa - Boletín: ANDRE JOSAFAT RIVEROS RIVERA, \"En las alas y la memoria de las abejas está la seguridad alimentaria.\" Fecha de presentación: 2018-08-27 00:00:00.0. Ámbito: Nacional. Medio de divulgación . página webhttps://www.urosario.edu.co/Home-V3/Investigacion/Divulgacion-cientifica-Ed-02-2018/Ciencia-y-Tecnologia/En-las-alas-y-la-memoria-de-las-abejas/. Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,"
+    ],
+    "patentes": [
+      "Patente de invención",
+      "WO2021 - Compositions and methods for cognitive protection of pollinators against pesticides, Institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO, Vía de solicitud: Via Patent Cooperation Treaty (PCT) En: Estados Unidos, ,2020-09-06 00:00:00.0, . Nombre del solicitante de la patente: , . Gaceta Industrial de Publicación: ,",
+      "Patente en el Exterior",
+      "GB2204006.7 - Compositions and methods for cognitive protection of pollinators against pesticides, Institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO, Vía de solicitud: Via Patent Cooperation Treaty (PCT) En: Inglaterra, ,2022-03-22 00:00:00.0, . Nombre del solicitante de la patente: Arizona Board of Regents on behalf of University of Arizona, Colegio Mayor de Nuestra Señora del Rosario, Pontificia Universidad Javeriana, . Gaceta Industrial de Publicación: UK GB 2603069 B 14022024,"
+    ],
+    "productos_tecnol_gicos": [
+      "Producción técnica - Productos tecnológicos - Otro: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, CARLOS FABIAN MORANTES ARIZA, LINA MARIA GARCIA FORERO, Compositions and methods for cognitive protection of pollinators against pesticides, Nombre comercial: , contrato/registro: , . En: Reino Unido, ,2023, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento, Sectores: Agricultura, pecuaria, silvicultura, explotación forestal - Producción animal, incluso servicios veterinarios, Productos y servicios para la defensa y protección del medio ambiente, incluyendo el desarrollo sostenible., Desarrollo rural,",
+      "Producción técnica - Productos tecnológicos - Otro: ANDRE JOSAFAT RIVEROS RIVERA, Compositions and Methods for cognitive protection of pollinators against pesticides, Nombre comercial: , contrato/registro: , . En: Colombia, ,2022, Areas: Ciencias Naturales -- Ciencias Biológicas -- Zoología, Ornitología, Entomología, Ciencias Biológicas del Comportamiento,",
+      "Producción técnica - Productos tecnológicos - Otro: ANDRE JOSAFAT RIVEROS RIVERA, WULFILA GRONENBERG, CARLOS FABIAN MORANTES ARIZA, LINA MARIA GARCIA FORERO, Compositions and methods for cognitive protection of pollinators against pesticides, Nombre comercial: , contrato/registro: , . En: Estados Unidos, ,2020, Areas: Ciencias Naturales -- Ciencias Biológicas -- Conservación de la biodiversidad, Sectores: Productos y servicios para la defensa y protección del medio ambiente, incluyendo el desarrollo sostenible., Agricultura, pecuaria, silvicultura, explotación forestal - Producción animal, incluso servicios veterinarios, Desarrollo rural,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Brain correlates of social complexity in ants Inicio: Mayo 2006 Fin: Agosto 2006 Duración 0 Resumen Several changes at individual and group levels- have accompanied the emergence and evolution of social complexity. The nervous system, for instance, as the physical substrate of behavior presumably changed to allow individuals acquire and manipulate new information related with social life. Such relationships between brain and social life have been previously evaluated in vertebrates. However, highly complex societies also occur in some invertebrate taxa, in which factors driving social evolution are different. Those differences might be reflected in traits describing social complexity. In insects, for instance, evolution of social complexity involves two main factors: specialization of a worker caste and evolution of communication systems. The link between such factors of insect social complexity and brain structures has not been previously evaluated. In this project, I propose to test the hypothesis that different levels of social complexity in insects go along with morphological changes in brain structures. I will compare representative species of eight genera of fungus-growing ants (Hymenoptera: Attini) for which variation in social complexity and phylogenetic relations among the genera are well established. For brain comparisons, I will measure volumes of brain areas involving acquisition, processing and storing of different kinds of information. I predict an increase in the volume of particular areas as consequence of behavioral specialization (division of labor), and the increase on complexity of communication systems. Additionally, as communication in ants involves mainly chemical pheromones, I will analyze in more detail brain areas where chemical cues are represented. I predict an increase in the amount of the neural substrate devoted to chemical processing as the chemical communication becomes more complex.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Desarrollo de composiciones y mecanismos para la protección cognitiva de polinizadores Inicio: Junio 2019 Duración Resumen La desaparición de las abejas es un problema global con impactos económicos y ecológicos. Un elemento crítico en la desaparición lo juegan los pesticidas, que pueden generar efectos subletales sobre el sistema cognitivo. Las estrategias desde la academia se han dirigido principalmente a la recopilación de evidencia que pueda ser utilizada para la elaboración de políticas de uso de pesticidas. La aproximación nuestra incluye la protección farmacológica de las abejas. Este proyecto tiene como objetivo el desarrollo de experimentos que contribuyan como ejemplos para soportar reivindicaciones en el registro PCT \"Compositions and methods for cognitive protection of pollinators against pesticides.",
+      "Tipo de proyecto: Investigación y desarrollo Efecto altitudinal en la alometría sensorial de Apis mellifera Inicio: Agosto 2020 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Experimental test for use of Magnetic information for orientation in two tropical hymenoptera Inicio: Julio 2002 Fin: Septiembre 2002 Duración 3 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Correlations between brain anatomy and complex behavior in bumblebees Inicio: Enero 2005 Fin: Enero 2005 Duración 12 Resumen Insect societies are characterized by division of labor between specialized groups of individuals. Such specialization may depend on an individual's age or morphology. For example, honeybee foragers are older than nest workers ('nurses'), whereas in army ants soldiers are the largest individuals. Importantly, division of labor can be associated with cognitive specialization and brain development. For example, in honeybees, ants and wasps, a correlation exists between the tasks performed and the size of a specific brain structure, the so-called mushroom bodies (MB). MB underlie important behavioral functions such as learning and memory, which are more important for foragers than for nest worker: foragers rely on visual learning for navigation and the acquisition of spatial memories whereas nest workers ('nurses') do not rely on vision in their the dark environment. In several hymenoptera, such behavioral differences coincide with consistently larger visual MB-areas in foragers than in ¿nurses¿. We propose to analyze MB anatomy in bumblebees, which exhibit division of labor based mainly on body size. Larger bumblebees are more efficient foragers and better learners, and preliminary data indicate that they have bigger MBs. However, it is not known if foraging behavior or MB size also depend on the age of bumblebees, as it does in honey bees. We will analyze small, intermediate and large bumblebees (Bombus impatiens) from laboratory colonies. Newly emerged bees will be marked and measured in order to track the individual's age and behavioral repertoires. The bees' brains will then be dissected, fixed, stained and morphometrically examined.",
+      "Tipo de proyecto: Investigación y desarrollo Cognitive and Neural Basis of Insect Sociality Inicio: Agosto 2007 Fin: Agosto 2009 Duración Resumen Several changes ¿at individual and group levels- have accompanied the emergence and evolution of social complexity. The nervous system, for instance, as the physical substrate of behavior presumably changed to allow individuals to acquire and manipulate new information related with social life. Such relationships between brain and social life have been previously evaluated in vertebrates. However, highly complex societies also occur in some invertebrate taxa, in which factors driving social evolution are different. Those differences might be reflected in traits describing social complexity. In insects, for instance, evolution of social complexity involves two main factors: specialization of a worker caste and evolution of communication systems. The link between such factors of insect social complexity and neural and cognitive features has not been previously evaluated. Here, I propose to test the hypothesis that high levels of behavioral specialization in social insects go along with changes in neural morphology and cognitive features. As workers specialize on particular tasks, their overall behavioral repertoire will be reduced whereas their ability to perform the particular task will be refined. I therefore predict that some brain areas that support the workers¿ particular tasks will exhibit an increase, whereas an overall decrease of the relative total brain volume would be expected. Moreover, I predict an increase in cognitive performance of individuals specialized for tasks involving more information processing (e.g. foraging).",
+      "Tipo de proyecto: Investigación y desarrollo Color learning in bumblebees and honeybees Inicio: Agosto 2011 Fin: Agosto 2012 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Use of information by leaf-cutter ants Inicio: Mayo 2011 Duración Resumen The goal of this project is to evaluate the use of environmental signals by individual workers of leaf-cutter ants. The project focuses on the use of magnetic information during navigation, as well as on the association between social organization, use of information and brain development.",
+      "Tipo de proyecto: Investigación y desarrollo Interpretation of unimodal and multimodal information by bees Inicio: Octubre 2012 Fin: Diciembre 2014 Duración Resumen Many biological systems rely on the use of sensory multimodal rather than unimodal signals for communication. That multimodal displays entail high energetic costs but are very common in nature suggests that benefits surpass the costs. Also, that receivers of information have evolved to interpret such multimodal signals suggests benefits on their side. The goal of this project is to evaluate functional hypotheses suggesting that complex (multimodal) signals may enhance the acquisition, processing and retrieval of information. This project also aims to evaluate whether the animal model (namely the bumblebees) is able to interpret complex (multimodal) signals as unique configurations rather than simple sum of independent components.",
+      "Tipo de proyecto: Investigación y desarrollo Interpretation of sensory unimodal and multimodal signals by bees Inicio: Marzo 2015 Fin: Junio 2017 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Seguridad alimentaria y crisis de los polinizadores Inicio: Septiembre 2018 Fin: Enero 2024 Duración Resumen El proyecto aborda el problema de la seguridad alimentaria desde el punto de vista de la llamada crisis de polinizadores. En particular el proyecto se enfoca en el efecto subletal de los pesticidas en las abejas."
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/max-alexander-florez-cutiva",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "max.florez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002126143"
+  },
+  "areas_investigacion": [
+    "Diagnóstico por imágenes",
+    "Medicina nuclear",
+    "Radiología"
+  ],
+  "perfil_profesional": "Max Alexander Florez Cutiva se desempeña como profesional en el área de Radiología y Medicina Nuclear en la Fundación Cardioinfantil-Instituto de Cardiología, donde ha estado vinculado desde febrero de 2020.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002126143"
+    ]
+  },
+  "id": "max-alexander-florez-cutiva",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002126143",
+    "cod_rh": "0002126143",
+    "datos_generales": {
+      "Nombre": "Max Alexander Florez Cutiva",
+      "Nombre en citaciones": "Florez,Max",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "experiencia_profesional": [
+      "FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Dedicación: 46 horas Semanales Febrero de 2020 de"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Radiología, Medicina Nuclear y de Imágenes"
+    ]
+  }
+}

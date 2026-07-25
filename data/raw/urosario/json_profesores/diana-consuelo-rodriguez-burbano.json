@@ -1,0 +1,688 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/diana-consuelo-rodriguez-burbano",
+  "nombre": "Diana Consuelo Rodríguez Burbano",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "dianaco.rodriguez@urosario.edu.co",
+  "telefono": "2970200 ext. 3471",
+  "imagen": "https://research-hub.urosario.edu.co/file/n3601/BURBANO.jpg",
+  "afiliaciones": [
+    "Coordinador Maestría en Ingeniería Biomédica - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario",
+    "Profesor principal de carrera - Laboratorio de Investigación en Bioquímica y Nanotecnología aplicada a la Medicina (BioNanoMed) - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=37095933400",
+    "google_scholar": "https://scholar.google.com/citations?user=TyB9VBoAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/diana-consuelo-rodriguez-burbano",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001347746",
+    "orcid": "https://orcid.org/0000-0001-8732-6326"
+  },
+  "areas_investigacion": [
+    "Bioimaging",
+    "Biomedical applications",
+    "Electron trapping nano phosphors",
+    "Luminescent nanoparticles",
+    "Persistent luminescence",
+    "Radiotherapy"
+  ],
+  "perfil_profesional": "Chemist and Chemical Engineer graduated from Universidad de Los Andes (Bogota, Colombia). She obtained her PhD in Chemistry from Concordia University (Montreal, Canada). Her doctoral studies were funded through the ‘Convocatoria Nacional para estudios de Doctorado en el exterior (Convocatoria No. 568). Since 2019, she works as Principal Professor of the Biomedical Engineering Program of the School of Medicine and Health Sciences of the Universidad del Rosario. She is currently Co-Director of the Master in Biomedical Engineering, a program of Universidad del Rosario in agreement with the Escuela Colombiana de Ingeniería Julio Garavito. Classified as Junior Researcher (Minciencias, Colombia), she is the leader of the SyNERGIA research seedbed. Her research interests are oriented to the design, synthesis and characterization of luminescent nanoplatforms for biomedical applications. Her research projects as well as projects for the training of young scientist in research have been funded by Competitive Funds of Universidad del Rosario, Minciencias and L’Agence Universitaire de la Francophonie (AUF).",
+  "formacion_academica": [
+    "2007, Ingeniera Química, Universidad de los Andes - Bogotá D.C.",
+    "2008, Química, Universidad de los Andes - Bogotá D.C.",
+    "2017, Doctor of Philosophy - Chemistry, Concordia University"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Electrochemical and Optical Carbon Dots and Glassy Carbon Biosensors: A Review on Their Development and Applications in Early Cancer Detection",
+      "fecha": "2025-2-1",
+      "enlace": "https://doi.org/10.3390/mi16020139"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Electrochemical and Optical Carbon Dots and Glassy Carbon Biosensors: A Review on Their Development and Applications in Early Cancer Detection",
+      "fecha": "2025-1-25",
+      "enlace": "https://doi.org/10.3390/mi16020139"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Modification of Polymeric Scaffolds Made of PEG and Nanohydroxyapatite Embedded with Carbon Dots for Applications in Bone Tissue Regeneration",
+      "fecha": "2024-12-17",
+      "enlace": "https://doi.org/10.1007/978-3-031-49401-7_40"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Synthesis and Evaluation of the Potential Use of an Electro-Responsive Hydrogel for the Encapsulation of Carbon Dot-Curcumin Nanoplatforms",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-49401-7_41"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Fluorescent Carbon Dots Illuminate Hydrogen Peroxide Detection: A Promising Approach",
+      "fecha": "2023-7-1",
+      "enlace": "https://doi.org/10.1109/ColBioCAS59270.2023.10280969"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A Pedagogical Approach to Assemble and Characterize Paper-Based Triboelectric Nanogenerators",
+      "fecha": "2023-11-14",
+      "enlace": "https://doi.org/10.1021/acs.jchemed.3c00684"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Data Fusion Analysis for Determining Localization of Proteins Associated to Escherichia coli",
+      "fecha": "2022-7-27",
+      "enlace": "https://doi.org/10.1109/colcaci56938.2022.9905354"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A hands-on activity to teach the osmosis phenomenon",
+      "fecha": "2022-1-27",
+      "enlace": "https://doi.org/10.1152/advan.00186.2020"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The effects of lanthanide-doped upconverting nanoparticles on cancer cell biomarkers",
+      "fecha": "2018-8-14",
+      "enlace": "https://doi.org/10.1039/c8nr01451e"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Counting the photons: Determining the absolute storage capacity of persistent phosphors",
+      "fecha": "2017-7-28",
+      "enlace": "https://doi.org/10.3390/ma10080867"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Photoluminescent nanoplatforms in biomedical applications",
+      "fecha": "2016-3-3",
+      "enlace": "https://doi.org/10.1080/23746149.2016.1165629"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Persistent and Photostimulated Red Emission in CaS: Eu2+,Dy3+ Nanophosphors",
+      "fecha": "2015-4-1",
+      "enlace": "https://doi.org/10.1002/adom.201400562"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The near-IR photo-stimulated luminescence of CaS:Eu2+/Dy 3+ nanophosphors",
+      "fecha": "2014-1-14",
+      "enlace": "https://doi.org/10.1039/c3tc31909a"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Carbon Based Nanomaterials for pH and Glucose Optical Biosensing: Photostability in Aqueous Dispersion and Response Stabilization via Hydrogel Encapsulation",
+      "fecha": "2025-12-12",
+      "enlace": "https://doi.org/https://doi.org/10.1109/ColBioCAS66416.2025.11276164"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Tuberculosis Drug Discovery Estimation Process by Using Machine and Deep Learning Models",
+      "fecha": "2023-11-18",
+      "enlace": "https://doi.org/10.1007/978-3-031-48415-5_4"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Escherichia coli: Analysis of Features for Protein Localization Classification Employing Fusion Data: Analysis of Features for Protein Localization Classification Employing Fusion Data",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1007/978-3-031-29783-0_3"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Bioactivity Predictors for the Inhibition of Staphylococcus Aureus Quinolone Resistance Protein",
+      "fecha": "2022-11-23",
+      "enlace": "https://doi.org/10.1007/978-3-031-20611-5_3"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Encapsulación de puntos de carbono en un hidrogel basado en alginato: Prueba de concepto de liberación controlada de fármacos",
+      "fecha": "2021-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F93e5c78f-dd97-482d-a00a-57e2ad971471"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Protocolo para la evaluación de propiedades mecánicas y biológicas de scaffolds poliméricos de PEG con puntos de carbono embebidos en nanohidroxiapatita para aplicaciones en regeneración de tejido óseo",
+      "fecha": "2021-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/c3ef1476-19a6-4f3f-9ea7-77385bcbee18"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Síntesis de una nanoplataforma basada en puntos de carbono funcionalizados con curcumina",
+      "fecha": "2021-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/d71476bf-fc37-4896-9ef3-5d703319ff09"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Síntesis y caracterización de un hidrogel electroresponsivo para un sistema de liberación controlada de fármacos",
+      "fecha": "2021-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/d38f04f0-974f-43c5-8d34-f8393a2c6aad"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Carbon Based Nanomaterials for pH and Glucose Optical Biosensing: Photostability in Aqueous Dispersion and Response Stabilization via Hydrogel Encapsulation",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/ColBioCAS66416.2025.11276164"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Evaluation of Carbon-Based Fluorescent Nanoparticles as Potential Photosensitizers: Biological and Electrochemical Responses in Cancerous and Healthy Cell Models",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/ColBioCAS66416.2025.11276170"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "In Silico Molecular Docking Analysis of Nilotinib-Mediated Inhibition of Alpha-Synuclein Phosphorylation in Parkinson's Disease",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/ColBioCAS66416.2025.11276152"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Development of Green-Yellow Fluorescent Boron-Doped Carbon Dots as a Base Structure for Future Construction of Potential Cancer Theranostic Nanoplatform",
+      "fecha": "2024-1-4",
+      "enlace": "https://doi.org/10.1007/978-3-031-49407-9_50"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Evaluating Lanthanide-Doped Carbon Dots for Sensing Glucose and pH Within the Concentration Range of Clinical Interest",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1109/CIIBBI63846.2024.10785007"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Molecular Compounds Proposal for Drug-Resistant Tuberculosis in the Drug Discovery Process",
+      "fecha": "2023-8-28",
+      "enlace": "https://doi.org/10.1109/ColCACI59285.2023.10225875"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Nanotecnología aplicada a la sensibilización tumoral: una aproximación a la nanomedicina​",
+      "fecha": "2023-10-26",
+      "enlace": "https://research-hub.urosario.edu.co/display/e7b8fb32-621d-41fe-9067-29e884a87227"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: Enfoque Traslacional",
+      "fecha": "2021-11-21",
+      "enlace": "https://research-hub.urosario.edu.co/display/e9f20c31-99fc-491c-9aa4-5211fc811ab5"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: Un enfoque traslacional",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/display/e2f565fb-e323-4934-ab6f-e13c8107e886"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Desarrollo de una nano-plataforma basada en puntos carbono dopados con boro para su potencial aplicación en la terapia contra el cáncer por captura neutrónica",
+      "fecha": "2021-10-13",
+      "enlace": "https://research-hub.urosario.edu.co/display/a85fae18-7fb9-4995-9838-360e879e566e"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Desarrollo de una nano-plataforma basada en puntos de carbono co-dopados con N y Gd3+ como potencial agente radio-sensibilizante",
+      "fecha": "2021-10-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5c3c254a-e264-45cf-a560-01572f2d25ff"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Funcionalización de puntos de carbono dopados con gadolinio para su uso en radioterapia",
+      "fecha": "2021-10-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F63a4af53-d0b3-45f8-93f1-1c4aef1b265b"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Near-IR Triggered Photon Upconversion: Imaging, Detection, and Therapy",
+      "fecha": "2015-1-1",
+      "enlace": "https://doi.org/10.1016/B978-0-444-63481-8.00273-6"
+    },
+    {
+      "tipo": "documento de conferencia",
+      "titulo": "Evaluation of Carbon-Based Fluorescent Nanoparticles as Potential Photosensitizers: Biological and Electrochemical Responses in Cancerous and Healthy Cell Models: 2025 IEEE 4th Colombian BioCAS Workshop",
+      "fecha": "2025-12-12",
+      "enlace": "https://doi.org/https://doi.org/10.1109/ColBioCAS66416.2025.11276170"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Desarrollo de una nanoplataforma basada en puntos de carbono dopada con iones lantánidos como un agente radiosensibilizador en el tratamiento de glioblastoma en un modelo in vitro",
+      "fecha": "2023-5-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/c0d60c75-8acc-4947-a520-7ea62c4c8741"
+    }
+  ],
+  "total_publicaciones": 36,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Evaluación del efecto radiosenzibilizante de puntos de carbono dopados con iones lantánidos en células madre mesenquimales del glioblastoma obtenidas a partir de cultivo primario",
+      "fecha": "2025-11-17 - 2027-05-16",
+      "enlace": "https://research-hub.urosario.edu.co/display/d6c54834-88f5-47f6-adff-86fad740b9d5"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Determinación de perfiles metabolómicos de radio-sensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y glioma: un enfoque traslacional.",
+      "fecha": "2019-03-20 - 2026-07-18",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F461ea647-1332-4359-86a4-29e71b0d796b"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Herramientas de IA: El futuro de la investigación en medicina traslacional",
+      "fecha": "2024-10-15 - 2026-07-10",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F83f22a9b-6b1b-4a05-bf97-2ca7b0162f20"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Diseño de una unidad de detección y cuantificación de analitos presentes en fluido biosintético simulador de orina basado en colorimetría e IoT",
+      "fecha": "2025-06-04 - 2026-06-19",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F609b0978-a314-43e3-bf0a-efccb2c18eac"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Evaluación del potencial uso de nanopartículas fluorescentes a base de carbono como agentes fotosensibilizadores para terapia fotodinámica en el tratamiento de células cancerosas de piel",
+      "fecha": "2024-01-25 - 2025-01-24",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5b4cbfe3-45e1-4c4e-9465-cfae6e00e298"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Desarrollo de una nano plataforma radio sensibilizadora basada en puntos de carbono dopados con lantánidos para radioterapia",
+      "fecha": "2021-05-01 - 2023-04-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F582b7fbf-b027-4a9d-aba5-34f896ee7921"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Desarrollo de los componentes de un sistema de liberación controlada de medicamentos basado en un hidrogel electroresponsivo integrado por puntos de carbono funcionalizados con curcumina",
+      "fecha": "2020-11-15 - 2022-09-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F63c8bf23-53e2-4252-8bf3-9a919e2c9eeb"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Proyecto para el establecimiento de la línea de investigación: Nanomateriales para Aplicaciones Biomédicas Etapa 1. Establecimiento de los protocolos de síntesis de puntos de carbono para la obtención de imágenes por fluorescencia y resonancia magnética",
+      "fecha": "2019-09-20 - 2020-09-19",
+      "enlace": "https://research-hub.urosario.edu.co/display/e279e025-253f-4012-a038-71293023e261"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Ingeniería de proteínas aplicada a glicosiltransferasas",
+      "fecha": "2026-01-19 - 2026-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7281c8ba-3fd0-4b5f-a8f5-6fa32bb95cf7"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Nanotecnología aplicada a sensibilización tumoral: Una aproximación a nanomedicina.",
+      "fecha": "2024-01-15 - 2025-11-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/aa3a77d5-e57e-4b95-9825-594765d0db38"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Modificación de scaffolds poliméricos a base de PEG mediante la incorporación de puntos de carbono y nanohidroxipatita para aplicaciones de regeneración de tejidos óseos",
+      "fecha": "2022-01-17 - 2022-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/display/d14e49af-1a78-4582-9f05-10954cbd6ef8"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Método Alternativo para la Detección de Lactato en Solución Acuosa Basado en la Fluorescencia de los Puntos de Carbono.",
+      "fecha": "2021-09-01 - 2022-07-08",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F289dfdfc-623c-4014-9ac0-50ce3c43b9aa"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Encapsulación de puntos de carbono en un hidrogel basado en alginato: Prueba de concepto de liberación controlada de fármacos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación de la citotoxicidad de puntos de carbono (CD) en las líneas celulares tumorales U-87 Y MCF-7"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación del efecto citotóxico de puntos de carbono en células 3T3-l1 y VERO"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Fase inicial de una revisión sistemática de literatura sobre el uso de puntos de carbono en radioterapia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modificación de nanopartículas de hidroxiapatita con puntos de carbono para la fabricación de scaffolds multiescala"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Nanopartículas y radioterapia: estudio del posible efecto radiosensibilizador de puntos de carbono dopados con iones de Gadolinio en células derivadas de Glioblastoma (U87)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Nanopartículas y radioterapia: evaluación del potencial de una nanoplataforma dopada con iones lantánidos como un agente radiosensibilizador en el tratamiento de glioblastoma en un modelo in vitro"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Síntesis de puntos de carbono y revisión de su citotoxicidad en tumores de mama"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2023"
+    },
+    {
+      "premio": "Fondo de Innovación Pedagógica",
+      "fecha": "2021"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001347746"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0001-8732-6326"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=TyB9VBoAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/diana-consuelo-rodriguez-burbano"
+    ],
+    "scopus_id": [
+      "37095933400"
+    ]
+  },
+  "id": "diana-consuelo-rodriguez-burbano",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001347746",
+    "cod_rh": "0001347746",
+    "datos_generales": {
+      "Nombre": "Diana Consuelo Rodríguez Burbano",
+      "Nombre en citaciones": "Rodriguez Burbano, D.C.",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "Linkedln",
+      "Repositorios institucionales"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado Concordia University PhD Septiembrede2012 - Juniode 2017 Development of CaS:Eu2+/Dy3+ Persistent and NIR Photo-Stimulated Nanophosphors",
+      "Especialización COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Innovación Pedagógica Octubrede2023 - Octubrede 2024 Facilitando instrucciones con AInstructor: un enfoque tecnológico",
+      "Pregrado/Universitario UNIVERSIDAD DE LOS ANDES QUIMICA Agostode2004 - Septiembrede 2008 Determinacion de conductividades electroliticas de soluciones acuosas de lidocaina-HCl y procaina-HCl en funcion de la temperatura y la concentracion.",
+      "Pregrado/Universitario UNIVERSIDAD DE LOS ANDES INGENIERIA QUIMICA Enerode2001 - Septiembrede 2007 Exploracion sobre la sintesis y caracterizacion de nanotubos de carbono de pared sencilla."
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 46 horas Semanales Enero de 2019 de Actual Actividades de administración - Director de unidad - Cargo: Directora de la Maestría en Ingeniería Biomédica (Programa en Convenio: Universidad del Rosario - Escuela Colombiana de Ingeniería Julio Garavito) Septiembre de 2020 Enero de - Cargo administrativo - Cargo: Coordinación de Investigación e Internacionalización del Programa de Ingeniería Biomédica Abril de 2019 Agosto de 2020 Actividades de docencia - Postgrado - Nombre del curso: Nanomaterials for biomedical applications, 20 Enero 2020 Junio 2023 - Pregrado - Nombre del curso: Biofísica 1, 45 Agosto 2019 Diciembre 2023 Actividades de investigación - Investigación y Desarrollo - Titulo: Desarrollo de nanomateriales fotoluminiscentes para aplicacione biomédicas Abril 2019 Enero",
+      "UNIVERSIDAD SANTO TOMAS VILLAVICENCIO Dedicación: 40 horas Semanales Agosto de 2018 Diciembre de 2018 Actividades de administración - Otro - Cargo: Miembro activo de los comités de investigación y curricular del Área de Ciencias Básicas Agosto de 2018 Diciembre de 2018 Actividades de docencia - Pregrado - Nombre del curso: Química , 32 Agosto 2018 Diciembre 2018 - Pregrado - Nombre del curso: Química Orgánica, 20 Agosto 2018 Diciembre 2018",
+      "Concordia University Dedicación: 40 horas Semanales Agosto de 2010 Junio de 2017 Actividades de docencia - Pregrado - Nombre del curso: Química General 1(Chem 205) Química Genera 2 (Chem 206), 25 Agosto 2010 Diciembre 2016 Actividades de investigación - Investigación y Desarrollo - Titulo: Asistente de investigación (Lanthanide Research Group) Agosto 2010 Junio 2017",
+      "UNIVERSIDAD DE LOS ANDES Dedicación: 10 horas Semanales Agosto de 2008 Mayo de 2010 Actividades de docencia - Pregrado - Nombre del curso: Laboratorio de Fisicoquímica 1, 20 Enero 2010 Mayo 2010 - Pregrado - Nombre del curso: Laboratorio de Química Analítica 1, 26 Agosto 2009 Diciembre 2009 - Pregrado - Nombre del curso: Laboratorio de Fisicoquimica 1., 20 Enero 2009 Mayo 2009 - Pregrado - Nombre del curso: Laboratorio de quimica, 40 Enero 2009 Mayo 2009 - Pregrado - Nombre del curso: Laboratorio de fenomenos de transporte. , 10 Agosto 2008 Diciembre 2008 - Pregrado - Nombre del curso: Laboratorio de quimica, 20 Agosto 2008 Diciembre 2008"
+    ],
+    "areas_actuacion": [
+      "Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades)",
+      "Ingeniería y Tecnología -- Nanotecnología -- Nanoprocesos (Aplicaciones a Nanoescala)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Francés",
+        "habla": "Aceptable",
+        "escribe": "Aceptable",
+        "lee": "Aceptable",
+        "entiende": "Aceptable"
+      }
+    ],
+    "lineas_investigacion": [
+      "Síntesis de nanoparticulas inorgánicas (lantánidos), Activa: Si",
+      "Diseño de nanoplataformas fotoluminescentes para aplicaciones biológicas y biomédicas, Activa: Si",
+      "Biosensores, Activa: Si",
+      "Espectroscopia de luminescencia, Activa: Si",
+      "Caracterización de materiales en escala nano, Activa: Si"
+    ],
+    "reconocimientos": [
+      "Beca Colciencias para Estudios de Doctorado en el Exterior Convocatoria No. 568,Ministerio de Ciencia, Tecnología e Innovación. - Enerode 2013",
+      "Stanley G. French Graduate Fellowship ,Concordia University - Octubrede 2013",
+      "Concordia Accelerator Award,Concordia University - Agostode 2016",
+      "Profesora Distinguida,COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO - Diciembrede 2023",
+      "IEEE Senior Member,IEEE - Juniode 2024"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Evaluación de las propiedades mecánicas de un scaffold poroso compuesto de PEG y nanohidroxiapatita, con variaciones en la concentración de puntos de carbono COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DAVID LEONARDO BLANCO ESTUPINAN , DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Síntesis de una nanoplataforma basada en puntos de carbono funcionalizados con curcumina COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO , SANDRA ROCIO RAMIREZ CLAVIJO, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Fase inicial de una revisión sistemática de literatura sobre el uso de puntos de carbono en radioterapia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Alvaro José Borja Vega Asesor(es): ALEJANDRO OYONO ONDO MENDEZ,Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Síntesis y caracterización de un hidrogel electroresponsivo para un sistema de liberación controlada de fármacos COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Diseño de un dispositivo de irradiación para la simulación in vitro de las condiciones de exposición a fototerapia con luz UV a puntos de carbono COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): ALEJANDRO OYONO ONDO MENDEZ , DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Prueba de concepto para la detección de l-lactato en solución acuosa basado en la fluorescencia de los puntos de carbono COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Jessica Dayana Sánchez Fonseca Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA CONSUELO RODRIGUEZ BURBANO, Nanopartículas y radioterapia: evaluación del potencial de una nanoplataforma dopada con iones lantánidos como un agente radiosensibilizador en el tratamiento de glioblastoma en un modelo in vitro COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN INGENIERÍA BIOMÉDICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Mayerly Natalia Ochoa Paipilla Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Comparación del potencial radiosensibilizante de nanoplataformas basadas en puntos de carbono pasivadas con iones de alto número atómico para el tratamiento del cáncer COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2023. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Valentina Leguizamón Gutiérrez Tutor(es)/Cotutor(es): ALEJANDRO OYONO ONDO MENDEZ , DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: DIANA CONSUELO RODRIGUEZ BURBANO, Nanopartículas Y Radioterapia: Estudio del posible efecto radiosensibilizador de puntos de carbono dopados con iones Gd3+ en células derivadas de glioblastoma (U87) COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN INGENIERÍA BIOMÉDICA, 2018. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Laura Marcela Jimenez Gallego Tutor(es)/Cotutor(es): ALEJANDRO OYONO ONDO MENDEZ , DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica, Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades), Ciencias Naturales -- Ciencias Biológicas -- Bioquímica y Biología Molecular,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Desarrollo de una nanoplataforma basada en puntos de carbono dopados con boro para su potencial aplicación en la terapia contra el cáncer por captura neutrónica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Sergio Alejandro Barragán Sicua Tutor(es)/Cotutor(es): ALEJANDRO OYONO ONDO MENDEZ , DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Encapsulación de puntos de carbono en un hidrogel basado en alginato: Prueba de concepto de liberación controlada de fármacos COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Evaluación de la citotoxicidad de puntos de carbono en líneas tumurales U-87 y MCF-7 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Evaluación del efecto citotóxico de puntos de carbono en células 3T3-L1 y VERO COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Modificación de nanopartículas de Hidroxipatita con puntos de carbono para la fabricación de scaffolds multiescala COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Stefania Degiovanni Morales Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO , MARCELA CRISTINA MUNERA RAMIREZ, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Síntesis de puntos de carbono y revisión de su citotoxicidad en tumores de mama COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Ingeniería Biomédica, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Sttifany Marcela Barrera Holguín Tutor(es)/Cotutor(es): DIANA CONSUELO RODRIGUEZ BURBANO, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Detección de herramientas quirúrgicas en procedimientos de laparoscopia a través de Python Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Daniel Duarte Jiménez Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Protocolo de consulta de páginas WEB para la presentación de registros sanitarios de dispositivos médicos Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: David Pelaez Burbano Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Implementación de un sistema de evaluación y capacitación de limpieza y desinfección de equipos biomédicos en los servicios UCI y de II del Hospital Universitario San José de Popayán Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Julián David Albarracín Rojas Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Estrategia para la adquisición de desfibriladores basada en una evoluación integral de la tecnología Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Yenifer Camila Romero Gómez Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Desarrollo de guía piloto para determinar y optimizar las frecuencias de mantenimientos correctivos a las solicitudes que realizan los servicios hospitalarios en imagenología, salas de cirugía y unidad de cuidados intensivos en una clínica de cuarto nivel de complejidad Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Sergio Leonardo Barbón Landinez Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Manual de capacitación para personal del área de ingeniería clínica de institución prestadora de salud de alta complejidad Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Maria Camila Rodríguez Gómez Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Evaluación de la citotoxicidad de nanofibras de diferente origen en líneas celulares de cáncer de mama y linfocitos Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Tatiana Andrea Duarte Sandoval Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Procesamiento de espumas para regeneración ósea formadas a partir de hidroxiapatita, titanato de calcio y alúmina, y sus propiedades mecánicas y bioactividad Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Erika Lorena Rosero Alzate Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: DIANA CONSUELO RODRIGUEZ BURBANO, Titulo: Diseño de un sistema de medición de impedancia eléctrica para caracterización de líneas celulares Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Angélica María Acosta Villamil Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: CORPORACIÓN UNIVERSITARIA MINUTO DE DIOS - UNIMINUTO, 2020, Marzo",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD NACIONAL DE COLOMBIA, 2023, Octubre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: 14th Annual chemistry and biochemistry graduate research conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-11-25 00:00:00.0, 2011-11-25 00:00:00.0 en Montréal - Montreal, Quebec, Canada Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Organizador",
+      "1 Nombre del evento: 14th Annual chemistry and biochemistry graduate research conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2011-11-25 00:00:00.0, 2011-11-25 00:00:00.0 en Montréal - Montreal, Quebec, Canada",
+      "Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Organizador",
+      "2 Nombre del evento: 19th Annual chemistry and biochemistry graduate research conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-11-18 00:00:00.0, 2016-11-18 00:00:00.0 en Montréal - Montreal Productos asociados Nombre del producto: Development of CaS:Eu2+,Dy3+ photo-stimulated nanophosphors for biomedical applications. Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "2 Nombre del evento: 19th Annual chemistry and biochemistry graduate research conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-11-18 00:00:00.0, 2016-11-18 00:00:00.0 en Montréal - Montreal",
+      "Productos asociados Nombre del producto: Development of CaS:Eu2+,Dy3+ photo-stimulated nanophosphors for biomedical applications. Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "3 Nombre del evento: 27th Rare Earth Research Conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-06-22 00:00:00.0, 2014-06-26 00:00:00.0 en Sacramento - Squaw Valley Productos asociados Nombre del producto: Development of CaS:Eu2+/Dy3+ Persistent and NIR Photo-Stimulated Nanophosphors Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "3 Nombre del evento: 27th Rare Earth Research Conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-06-22 00:00:00.0, 2014-06-26 00:00:00.0 en Sacramento - Squaw Valley",
+      "Productos asociados Nombre del producto: Development of CaS:Eu2+/Dy3+ Persistent and NIR Photo-Stimulated Nanophosphors Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "4 Nombre del evento: Colloque annuel du CQMF Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-11-03 00:00:00.0, 2012-11-04 00:00:00.0 en Trois Rivieres - Trois Rivières Productos asociados Nombre del producto: Development of CaS:Eu2+, Dy3+ electron trapping nanophosphosr for biomedical applications Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Asistente",
+      "4 Nombre del evento: Colloque annuel du CQMF Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-11-03 00:00:00.0, 2012-11-04 00:00:00.0 en Trois Rivieres - Trois Rivières",
+      "Productos asociados Nombre del producto: Development of CaS:Eu2+, Dy3+ electron trapping nanophosphosr for biomedical applications Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Asistente",
+      "5 Nombre del evento: Phosphor Safari Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-11-27 00:00:00.0, 2016-12-01 00:00:00.0 en Hong Kong - Hong Kong Productos asociados Nombre del producto: Development of CaS:Eu2+,Dy3+ photo-stimulated nanophosphors for biomedical applications Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "5 Nombre del evento: Phosphor Safari Tipo de evento: Congreso Ámbito: Internacional Realizado el:2016-11-27 00:00:00.0, 2016-12-01 00:00:00.0 en Hong Kong - Hong Kong",
+      "Productos asociados Nombre del producto: Development of CaS:Eu2+,Dy3+ photo-stimulated nanophosphors for biomedical applications Tipo de producto: Producción técnica - Presentación de trabajo - Conferencia",
+      "Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "6 Nombre del evento: 15th Annual chemistry and biochemistry graduate research conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-11-23 00:00:00.0, 2012-11-23 00:00:00.0 en Montréal - Concordia University Productos asociados Nombre del producto: Development of CaS:Eu2+,Dy3+ photo-stimulated nanophosphor for biomedical applications Tipo de producto: Producción técnica - Presentación de trabajo - Congreso Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "6 Nombre del evento: 15th Annual chemistry and biochemistry graduate research conference Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-11-23 00:00:00.0, 2012-11-23 00:00:00.0 en Montréal - Concordia University",
+      "Productos asociados Nombre del producto: Development of CaS:Eu2+,Dy3+ photo-stimulated nanophosphor for biomedical applications Tipo de producto: Producción técnica - Presentación de trabajo - Congreso",
+      "Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "7 Nombre del evento: 82e Congrès de l'Acfas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-04-22 00:00:00.0, 2013-04-24 00:00:00.0 en CÚCUTA - Quebec Productos asociados Nombre del producto: Development of CaS:Eu2+, Dy3+ electron trapping nanophosphors for biomedical applications. Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Asistente",
+      "7 Nombre del evento: 82e Congrès de l'Acfas Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-04-22 00:00:00.0, 2013-04-24 00:00:00.0 en CÚCUTA - Quebec",
+      "Productos asociados Nombre del producto: Development of CaS:Eu2+, Dy3+ electron trapping nanophosphors for biomedical applications. Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: Concordia University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Asistente",
+      "8 Nombre del evento: 19 Día de la Investigación Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2021-11-09 00:00:00.0, 2021-11-12 00:00:00.0 en BOGOTÁ, D.C. - Fundación CardioInfantil Productos asociados Nombre del producto: Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: Enfoque Traslacional Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "8 Nombre del evento: 19 Día de la Investigación Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2021-11-09 00:00:00.0, 2021-11-12 00:00:00.0 en BOGOTÁ, D.C. - Fundación CardioInfantil",
+      "Productos asociados Nombre del producto: Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: Enfoque Traslacional Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN CARDIOINFANTIL-INSTITUTO DE CARDIOLOGÍA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "9 Nombre del evento: 2 Congreso Internacional de Ingeniería Biomédica y Bioingeniería Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-10-13 00:00:00.0, 2021-10-15 00:00:00.0 en BOGOTÁ, D.C. - Universidad de Los Andes Productos asociados Nombre del producto: Respuesta Fluorescente de Puntos de Carbono Dispersos en Solución Acuosa de L-Lactato Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Funcionalización de puntos de carbono dopados con gadolinio para su uso en radioterapia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: JESSICA DAYANA SANCHEZ FONSECA Rol en el evento: Ponente magistral Nombre: PAULA ANDREA WILCHES CASTELLANOS Rol en el evento: Ponente magistral",
+      "9 Nombre del evento: 2 Congreso Internacional de Ingeniería Biomédica y Bioingeniería Tipo de evento: Congreso Ámbito: Internacional Realizado el:2021-10-13 00:00:00.0, 2021-10-15 00:00:00.0 en BOGOTÁ, D.C. - Universidad de Los Andes",
+      "Productos asociados Nombre del producto: Respuesta Fluorescente de Puntos de Carbono Dispersos en Solución Acuosa de L-Lactato Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: Funcionalización de puntos de carbono dopados con gadolinio para su uso en radioterapia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: JESSICA DAYANA SANCHEZ FONSECA Rol en el evento: Ponente magistral Nombre: PAULA ANDREA WILCHES CASTELLANOS Rol en el evento: Ponente magistral",
+      "10 Nombre del evento: VI Encuentro de Jóvenes Semilleros: \"De la Oscuridad a la curación, innovación médica en acción\" Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2024-11-14 00:00:00.0, 2024-11-14 00:00:00.0 en BOGOTÁ, D.C. - Unisanitas Productos asociados Nombre del producto: Exploración de la nanomedicina como estrategia para la sensibilización tumoral Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA SANITAS Tipo de vinculación Patrocinadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: GABRIELA LOPEZ MOLINA Rol en el evento: Ponente magistral",
+      "10 Nombre del evento: VI Encuentro de Jóvenes Semilleros: \"De la Oscuridad a la curación, innovación médica en acción\" Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2024-11-14 00:00:00.0, 2024-11-14 00:00:00.0 en BOGOTÁ, D.C. - Unisanitas",
+      "Productos asociados Nombre del producto: Exploración de la nanomedicina como estrategia para la sensibilización tumoral Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSITARIA SANITAS Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: GABRIELA LOPEZ MOLINA Rol en el evento: Ponente magistral",
+      "11 Nombre del evento: IX Latin American Congress on Biomedical Engineering - XXVIII Brazilian Congress on Biomedical Engineering Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-10-24 00:00:00.0, 2022-10-28 00:00:00.0 en Florianópolis - Productos asociados Nombre del producto: Modification of Polymeric Scaffolds Maode of PEG and Nanohydroxyapatite embedded with carbon dots for Applications in Bone Tissue Regeneration Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Synthesis and Evaluation of the Potential Use of an Electroresponsive Hydrogel for the Encapsulation of Carbon Dot-Curcumin Nanoplatform Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Development of green-yellow fluorescent boron-doped carbon dots as base structure for future construction of potential cancer theranostics nanoplataform Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: International Federation for Medical and Biological Engineering IFMBE Tipo de vinculación Patrocinadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: DONALDO FABIO MERCADO CASTRO Rol en el evento: Ponente Nombre: JUAN SEBASTIAN BALLESTAS PINEDA Rol en el evento: Ponente Nombre: MARCELA CRISTINA MUNERA RAMIREZ Rol en el evento: Ponente Nombre: MAYERLY NATALIA OCHOA PAIPILLA Rol en el evento: Ponente Nombre: MICHELLE DAHYANA SOTO FLORIDO Rol en el evento: Ponente Nombre: NICOLAS JAVIER BONILLA FAJARDO Rol en el evento: Ponente magistral Nombre: PAULA ANDREA WILCHES CASTELLANOS Rol en el evento: Ponente Nombre: SANDRA ROCIO RAMIREZ CLAVIJO Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO BARRAGAN SICUA Rol en el evento: Ponente magistral Nombre: STEFANIA DEGIOVANNI MORALES Rol en el evento: Ponente magistral",
+      "11 Nombre del evento: IX Latin American Congress on Biomedical Engineering - XXVIII Brazilian Congress on Biomedical Engineering Tipo de evento: Congreso Ámbito: Internacional Realizado el:2022-10-24 00:00:00.0, 2022-10-28 00:00:00.0 en Florianópolis -",
+      "Productos asociados Nombre del producto: Modification of Polymeric Scaffolds Maode of PEG and Nanohydroxyapatite embedded with carbon dots for Applications in Bone Tissue Regeneration Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Synthesis and Evaluation of the Potential Use of an Electroresponsive Hydrogel for the Encapsulation of Carbon Dot-Curcumin Nanoplatform Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Development of green-yellow fluorescent boron-doped carbon dots as base structure for future construction of potential cancer theranostics nanoplataform Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: International Federation for Medical and Biological Engineering IFMBE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: DONALDO FABIO MERCADO CASTRO Rol en el evento: Ponente Nombre: JUAN SEBASTIAN BALLESTAS PINEDA Rol en el evento: Ponente Nombre: MARCELA CRISTINA MUNERA RAMIREZ Rol en el evento: Ponente Nombre: MAYERLY NATALIA OCHOA PAIPILLA Rol en el evento: Ponente Nombre: MICHELLE DAHYANA SOTO FLORIDO Rol en el evento: Ponente Nombre: NICOLAS JAVIER BONILLA FAJARDO Rol en el evento: Ponente magistral Nombre: PAULA ANDREA WILCHES CASTELLANOS Rol en el evento: Ponente Nombre: SANDRA ROCIO RAMIREZ CLAVIJO Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO BARRAGAN SICUA Rol en el evento: Ponente magistral Nombre: STEFANIA DEGIOVANNI MORALES Rol en el evento: Ponente magistral",
+      "12 Nombre del evento: VIII Jornada de Investigación en Cancer Tipo de evento: Otro Ámbito: Nacional Realizado el:2025-02-26 00:00:00.0, 2025-02-27 00:00:00.0 en BOGOTÁ, D.C. - Bogotá Productos asociados Nombre del producto: Evaluación del potencial radiosensibilizante de nanoplataformas basadas en puntos de carbono pasivadas con iones de alto número atómico para el tratamiento de cáncer. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente magistral",
+      "12 Nombre del evento: VIII Jornada de Investigación en Cancer Tipo de evento: Otro Ámbito: Nacional Realizado el:2025-02-26 00:00:00.0, 2025-02-27 00:00:00.0 en BOGOTÁ, D.C. - Bogotá",
+      "Productos asociados Nombre del producto: Evaluación del potencial radiosensibilizante de nanoplataformas basadas en puntos de carbono pasivadas con iones de alto número atómico para el tratamiento de cáncer. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente magistral",
+      "13 Nombre del evento: Semilleros de Investigación Inter-Universidades 2024-2 Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2024-11-07 00:00:00.0, 2024-11-07 00:00:00.0 en BOGOTÁ, D.C. - Universidad de Los Andes Productos asociados Nombre del producto: Exploración de la nanomedicina como estrategia para la radiosensibilización tumoral Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: JULIANA RAMIREZ PRIETO Rol en el evento: Ponente magistral",
+      "13 Nombre del evento: Semilleros de Investigación Inter-Universidades 2024-2 Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2024-11-07 00:00:00.0, 2024-11-07 00:00:00.0 en BOGOTÁ, D.C. - Universidad de Los Andes",
+      "Productos asociados Nombre del producto: Exploración de la nanomedicina como estrategia para la radiosensibilización tumoral Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE LOS ANDES Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: JULIANA RAMIREZ PRIETO Rol en el evento: Ponente magistral",
+      "14 Nombre del evento: 2024 3rd International Congress of Biomedical Engineering and Bioengineering (CIIBBI) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-11-06 00:00:00.0, 2024-11-08 00:00:00.0 en CALI - Productos asociados Nombre del producto: Evaluating Lanthanide-Doped Carbon Dots for Sensing Glucose and pH Within the Concentration Range of Clinical Interest Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente",
+      "14 Nombre del evento: 2024 3rd International Congress of Biomedical Engineering and Bioengineering (CIIBBI) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2024-11-06 00:00:00.0, 2024-11-08 00:00:00.0 en CALI -",
+      "Productos asociados Nombre del producto: Evaluating Lanthanide-Doped Carbon Dots for Sensing Glucose and pH Within the Concentration Range of Clinical Interest Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente",
+      "15 Nombre del evento: WORKSHOP INTERNACIONAL: Biomateriales y su Aplicación en la Ingeniería de Tejidos Tipo de evento: Taller Ámbito: Internacional Realizado el:2025-10-01 00:00:00.0, 2025-10-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia Productos asociados Nombre del producto: Radiosensitization of Primary Glioblastoma Cultures Using Lanthanide-Doped Carbon Dots: Enhancing the Efficacy of Conventional Radiotherapy Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente magistral",
+      "15 Nombre del evento: WORKSHOP INTERNACIONAL: Biomateriales y su Aplicación en la Ingeniería de Tejidos Tipo de evento: Taller Ámbito: Internacional Realizado el:2025-10-01 00:00:00.0, 2025-10-03 00:00:00.0 en BOGOTÁ, D.C. - Universidad Nacional de Colombia",
+      "Productos asociados Nombre del producto: Radiosensitization of Primary Glioblastoma Cultures Using Lanthanide-Doped Carbon Dots: Enhancing the Efficacy of Conventional Radiotherapy Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente magistral",
+      "16 Nombre del evento: 4th IEEE Colombian BioCAS (ColBioCAS) Workshop 2025 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2025-08-27 00:00:00.0, 2025-08-29 00:00:00.0 en ARMENIA - Universidad del Quindío Productos asociados Nombre del producto: Carbon Based Nanomaterials for pH and Glucose Optical Biosensing: Photostability in Aqueous Dispersion and Response Stabilization via Hydrogel Encapsulation Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: In Silico Molecular Docking Analysis of Nilotinib-Mediated Inhibition of Alpha- Synuclein Phosphorylation in Parkinson¿s Disease Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Evaluation of Carbon-Based Fluorescent Nanoparticles as Potential Photosensitizers: Biological and Electrochemical Responses in Cancerous and Healthy Cell Models Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Institute Of Electrical And Electronics Engineers-Ieee Tipo de vinculación Patrocinadora Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "16 Nombre del evento: 4th IEEE Colombian BioCAS (ColBioCAS) Workshop 2025 Tipo de evento: Congreso Ámbito: Nacional Realizado el:2025-08-27 00:00:00.0, 2025-08-29 00:00:00.0 en ARMENIA - Universidad del Quindío",
+      "Productos asociados Nombre del producto: Carbon Based Nanomaterials for pH and Glucose Optical Biosensing: Photostability in Aqueous Dispersion and Response Stabilization via Hydrogel Encapsulation Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: In Silico Molecular Docking Analysis of Nilotinib-Mediated Inhibition of Alpha- Synuclein Phosphorylation in Parkinson¿s Disease Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Nombre del producto: Evaluation of Carbon-Based Fluorescent Nanoparticles as Potential Photosensitizers: Biological and Electrochemical Responses in Cancerous and Healthy Cell Models Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Institute Of Electrical And Electronics Engineers-Ieee Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "17 Nombre del evento: VI Encuentro de Investigación CIMED Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2021-10-28 00:00:00.0, 2021-10-29 00:00:00.0 en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: un enfoque transnacional Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: HOSPITAL UNIVERSITARIO MAYOR MEDERI Tipo de vinculación Patrocinadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: ANDREA DEL PILAR HERNANDEZ RODRIGUEZ Rol en el evento: Ponente magistral Nombre: ANDRES FELIPE PATINO ALDANA Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: MARGARITA MARIA GARCIA GIRALDO Rol en el evento: Ponente Nombre: MATEO ANDRES DIAZ QUIROZ Rol en el evento: Ponente Nombre: MAYERLY NATALIA OCHOA PAIPILLA Rol en el evento: Ponente Nombre: MICHELLE DAHYANA SOTO FLORIDO Rol en el evento: Ponente Nombre: PAULA ANDREA WILCHES CASTELLANOS Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO BARRAGAN SICUA Rol en el evento: Ponente",
+      "17 Nombre del evento: VI Encuentro de Investigación CIMED Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2021-10-28 00:00:00.0, 2021-10-29 00:00:00.0 en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Determinación de perfiles metabolómicos de radiosensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y gliomas: un enfoque transnacional Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: HOSPITAL UNIVERSITARIO MAYOR MEDERI Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: ANDREA DEL PILAR HERNANDEZ RODRIGUEZ Rol en el evento: Ponente magistral Nombre: ANDRES FELIPE PATINO ALDANA Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: MARGARITA MARIA GARCIA GIRALDO Rol en el evento: Ponente Nombre: MATEO ANDRES DIAZ QUIROZ Rol en el evento: Ponente Nombre: MAYERLY NATALIA OCHOA PAIPILLA Rol en el evento: Ponente Nombre: MICHELLE DAHYANA SOTO FLORIDO Rol en el evento: Ponente Nombre: PAULA ANDREA WILCHES CASTELLANOS Rol en el evento: Ponente Nombre: SERGIO ALEJANDRO BARRAGAN SICUA Rol en el evento: Ponente",
+      "18 Nombre del evento: 2022 IEEE Colombian Conference on Applications of Computational Intelligence (ColCACI) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2022-07-27 00:00:00.0, 2022-07-29 00:00:00.0 en CALI - Productos asociados Nombre del producto: Data Fusion Analysis for Determining Localization of Proteins Associated to Escherichia coli Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "18 Nombre del evento: 2022 IEEE Colombian Conference on Applications of Computational Intelligence (ColCACI) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2022-07-27 00:00:00.0, 2022-07-29 00:00:00.0 en CALI -",
+      "Productos asociados Nombre del producto: Data Fusion Analysis for Determining Localization of Proteins Associated to Escherichia coli Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "19 Nombre del evento: I Encuentro Virtual de Estudiantes de Posgrados con Enfoque en Investigación en Cáncer Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2022-10-03 00:00:00.0, 2022-10-04 00:00:00.0 en BOGOTÁ, D.C. - Virtual Productos asociados Nombre del producto: Desarrollo de una nanoplataforma basada en puntos de carbono dopada con iones lantánidos como un agente radiosensibilizante en el tratamiento de glioblastoma en un modelo in vitro Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Gestionadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: MAYERLY NATALIA OCHOA PAIPILLA Rol en el evento: Ponente magistral",
+      "19 Nombre del evento: I Encuentro Virtual de Estudiantes de Posgrados con Enfoque en Investigación en Cáncer Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2022-10-03 00:00:00.0, 2022-10-04 00:00:00.0 en BOGOTÁ, D.C. - Virtual",
+      "Productos asociados Nombre del producto: Desarrollo de una nanoplataforma basada en puntos de carbono dopada con iones lantánidos como un agente radiosensibilizante en el tratamiento de glioblastoma en un modelo in vitro Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: MAYERLY NATALIA OCHOA PAIPILLA Rol en el evento: Ponente magistral",
+      "20 Nombre del evento: 2023 IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Organizador Nombre: FARUK FONTHAL RICO Rol en el evento: Organizador Nombre: JORGE IVAN MARIN HURTADO Rol en el evento: Organizador",
+      "20 Nombre del evento: 2023 IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Organizador Nombre: FARUK FONTHAL RICO Rol en el evento: Organizador Nombre: JORGE IVAN MARIN HURTADO Rol en el evento: Organizador",
+      "21 Nombre del evento: 2023 IEEE Colombian Conference on Applications in Computational Intelligence (ColCACI) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Productos asociados Nombre del producto: Molecular Compounds Proposal for Drug-Resistant Tuberculosis in the Drug Discovery Process Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente magistral Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "21 Nombre del evento: 2023 IEEE Colombian Conference on Applications in Computational Intelligence (ColCACI) Tipo de evento: Congreso Ámbito: Nacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Productos asociados Nombre del producto: Molecular Compounds Proposal for Drug-Resistant Tuberculosis in the Drug Discovery Process Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente magistral Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente",
+      "22 Nombre del evento: 2023 IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Productos asociados Nombre del producto: Fluorescent Carbon Dots Illuminate Hydrogen Peroxide Detection: A Promising Approach Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: JESSICA DAYANA SANCHEZ FONSECA Rol en el evento: Ponente magistral Nombre: NICOLAS JAVIER BONILLA FAJARDO Rol en el evento: Ponente Nombre: OSCAR JULIAN PERDOMO CHARRY Rol en el evento: Ponente",
+      "22 Nombre del evento: 2023 IEEE 3rd Colombian BioCAS Workshop Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Productos asociados Nombre del producto: Fluorescent Carbon Dots Illuminate Hydrogen Peroxide Detection: A Promising Approach Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: IEEE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: ALVARO DAVID ORJUELA CANON Rol en el evento: Ponente Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente Nombre: JESSICA DAYANA SANCHEZ FONSECA Rol en el evento: Ponente magistral Nombre: NICOLAS JAVIER BONILLA FAJARDO Rol en el evento: Ponente Nombre: OSCAR JULIAN PERDOMO CHARRY Rol en el evento: Ponente",
+      "23 Nombre del evento: Winter School - Nanotecnología aplicada en ciencias de la Salud Tipo de evento: Taller Ámbito: Nacional Realizado el:2021-01-18 00:00:00.0, 2021-01-23 00:00:00.0 en BOGOTÁ, D.C. - Virtual Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Organizador Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Organizador Nombre: LAURA VICTORIA RIVERA AMEZQUITA Rol en el evento: Organizador",
+      "23 Nombre del evento: Winter School - Nanotecnología aplicada en ciencias de la Salud Tipo de evento: Taller Ámbito: Nacional Realizado el:2021-01-18 00:00:00.0, 2021-01-23 00:00:00.0 en BOGOTÁ, D.C. - Virtual",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora",
+      "Participantes Nombre: ALEJANDRO OYONO ONDO MENDEZ Rol en el evento: Organizador Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Organizador Nombre: LAURA VICTORIA RIVERA AMEZQUITA Rol en el evento: Organizador",
+      "24 Nombre del evento: IX SIMPOSIO DE QUÍMICA APLICADA (IX SIQUIA ) Y I CONGRESO INTERNACIONAL DE NANOQUÍMICA, NANOFÍSICA Y NANOMEDICINA (I CINNN ), Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-08-21 00:00:00.0, 2019-08-23 00:00:00.0 en ARMENIA - Centro Metropolitano de Convenciones Productos asociados Nombre del producto: Luminiscencia persistente en aplicaciones biomédicas: Desarrollo de nanofósforos de CaS:Eu 2 ++/Dy 3 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DEL QUINDÍO Tipo de vinculación Patrocinadora Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente magistral",
+      "24 Nombre del evento: IX SIMPOSIO DE QUÍMICA APLICADA (IX SIQUIA ) Y I CONGRESO INTERNACIONAL DE NANOQUÍMICA, NANOFÍSICA Y NANOMEDICINA (I CINNN ), Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-08-21 00:00:00.0, 2019-08-23 00:00:00.0 en ARMENIA - Centro Metropolitano de Convenciones",
+      "Productos asociados Nombre del producto: Luminiscencia persistente en aplicaciones biomédicas: Desarrollo de nanofósforos de CaS:Eu 2 ++/Dy 3 Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DEL QUINDÍO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: DIANA CONSUELO RODRIGUEZ BURBANO Rol en el evento: Ponente magistral"
+    ],
+    "fortalecimiento_o_soluci_n_de_asuntos_de_inter_s_social": [
+      "Apropiación social del conocimiento - Proceso de Apropiación Social del Conocimiento para el fortalecimiento o solución de asuntos de interés social: Nombre del producto: Creación Semillero de Investigación SyNERGIA, Fecha de presentación: 2020 - Noviembre, Medio de verificación: https://pure.urosario.edu.co/en/organisations/research-incubator-synergy, Licencia creative: Atribución-No Comercial, Formato: XHTML or HTML (.xhtml, .html), Proyecto vinculado: Desarrollo de los componentes de un sistema de liberación controlada de medicamentos basado en un hidrogel electroresponsivo integrado por puntos de carbono funcionalizados con curcumina"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): DIANA CONSUELO RODRIGUEZ BURBANO, ANA MARIA IBARRA RUIZ, \"Photoluminescent nanoplatforms in biomedical applications\" . En: Canadá ADVANCES IN PHYSICS ISSN: 0001-8732 ed: Taylor & Francis Ltd v. 1 fasc. 2 p.194 - 225 ,2016, DOI: 10.1080/23746149.2016.1165629 Palabras: Nanopartículas fotoluminescentes, Nanopartículas de oro, Puntos cuánticos, Puntos de carbono, Bioimaging, Nanoplataformas teranósticas,",
+        "titulo": "Photoluminescent nanoplatforms in biomedical applications",
+        "doi": "10.1080/23746149.2016.1165629",
+        "anio": "2016"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA CONSUELO RODRIGUEZ BURBANO, \"The effects of lanthanide-doped upconverting nanoparticles on cancer cell biomarkers\" . En: Canadá NANOSCALE ISSN: 2040-3364 ed: Royal Soc Chemistry v. 10 fasc. p.14464 - 14471 ,2018, DOI: 10.1039/C8NR01451E",
+        "titulo": "The effects of lanthanide-doped upconverting nanoparticles on cancer cell biomarkers",
+        "doi": "10.1039/C8NR01451E",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA CONSUELO RODRIGUEZ BURBANO, HERNAN ALFREDO BERNAL MUNOZ, \"A hands-on activity to teach the osmosis phenomenon\" . En: Colombia ADVANCES IN PHYSIOLOGY EDUCATION ISSN: 1522-1229 ed: AMER PHYSIOLOGICAL SOC v. 46 fasc. 2 p.251 - 258 ,2022, DOI: 10.1152/advan.00186.2020",
+        "titulo": "A hands-on activity to teach the osmosis phenomenon",
+        "doi": "10.1152/advan.00186.2020",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA CONSUELO RODRIGUEZ BURBANO, \"A pedagogical approach to assemble and characterize paper-based triboelectric nanogeneratos\" . En: Colombia JOURNAL OF CHEMICAL EDUCATION ISSN: 1938-1328 ed: Amer Chemical Soc v. 100 fasc. p.4917 - 4924 ,2023, DOI: 10.1021/acs.jchemed.3c00684",
+        "titulo": "A pedagogical approach to assemble and characterize paper-based triboelectric nanogeneratos",
+        "doi": "10.1021/acs.jchemed.3c00684",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): PAULO CESAR CALVO ECHEVERRY, ALEJANDRO OYONO ONDO MENDEZ, DIANA CONSUELO RODRIGUEZ BURBANO, FARUK FONTHAL RICO, \"Electrochemical and Optical Carbon Dots and Glassy Carbon Biosensors: A Review on Their Development and Applications in Early Cancer Detection\" . En: Colombia MICROMACHINES ISSN: 2072-666X ed: mdpi v. 16 fasc. p.139 - 176 ,2025, DOI: 10.3390/mi16020139 Palabras: Carbon dots, Biosensores,",
+        "titulo": "Electrochemical and Optical Carbon Dots and Glassy Carbon Biosensors: A Review on Their Development and Applications in Early Cancer Detection",
+        "doi": "10.3390/mi16020139",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA CONSUELO RODRIGUEZ BURBANO, \"Counting the photons: Determining the absolute storage capacity of persistent phosphors\" . En: Canadá MATERIALS ISSN: 1996-1944 ed: mdpi v. 10 fasc. 8 p.867 - 880 ,2017, DOI: 10.3390/ma10080867 Palabras: Persistencia luminescente, Aluminato de estroncio, Capacidad de almacenimiento, Sulfuro de calcio, Tierras raras,",
+        "titulo": "Counting the photons: Determining the absolute storage capacity of persistent phosphors",
+        "doi": "10.3390/ma10080867",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA CONSUELO RODRIGUEZ BURBANO, \"Persistent and photostimulated red emission in CaS:Eu2+,Dy3+ nanophosphors\" . En: Canadá ADVANCED OPTICAL MATERIALS ISSN: 2195-1071 ed: John Wiley & Sons v. 3 fasc. 4 p.551 - 557 ,2015, DOI: 10.1002/adom.201400562 Palabras: Nanofósforos, Lantánidos, Luminiscencia, Luminiscencia Fotoestimulada, Termoluminiscencia,",
+        "titulo": "Persistent and photostimulated red emission in CaS:Eu2+,Dy3+ nanophosphors",
+        "doi": "10.1002/adom.201400562",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: DIANA CONSUELO RODRIGUEZ BURBANO, \"The near-IR photo-stimulated luminescence of CaS:Eu2+/Dy3+ nanophosphors\" . En: Canadá JOURNAL OF MATERIALS CHEMISTRY C ISSN: 2050-7534 ed: Royal Soc Chemistry v. 2 fasc. N/A p.228 - 231 ,2014, DOI: 10.1039/c3tc31909a",
+        "titulo": "The near-IR photo-stimulated luminescence of CaS:Eu2+/Dy3+ nanophosphors",
+        "doi": "10.1039/c3tc31909a",
+        "anio": "2014"
+      }
+    ],
+    "capitulos_libro": [
+      "Tipo: Otro capítulo de libro publicado DIANA CONSUELO RODRIGUEZ BURBANO, \"Near-IR Triggered Photon Upconversion: Imaging, Detection, and Therapy.\" Handbook On The Physics And Chemistry Of Rare Earths, Vol 41&Nbsp . En: Países Bajos ISBN: 978-0-44-453591-7 ed: Elsevier Science Bv , v. , p.273 - 347 ,2015 Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades), Ciencias Naturales -- Otras Ciencias Naturales -- Otras Ciencias Naturales,",
+      "Tipo: Capítulo de libro DIANA CONSUELO RODRIGUEZ BURBANO, Tipo: Capítulo de libro OSCAR JULIAN PERDOMO CHARRY, Tipo: Capítulo de libro ALVARO DAVID ORJUELA CANON, \"Bioactivity Predictors for the Inhibition of Staphylococcus Aureus Quinolone Resistance Protein\" Communications in Computer and Information Science . En: Colombia ISBN: 978-3-031-20610-8 ed: Springer Publishing Company, Inc. , v. , p.31 - 40 ,2022 Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Computación,",
+      "Tipo: Capítulo de libro SERGIO ALEJANDRO BARRAGAN SICUA, Tipo: Capítulo de libro MICHELLE DAHYANA SOTO FLORIDO, Tipo: Capítulo de libro PAULA ANDREA WILCHES CASTELLANOS, Tipo: Capítulo de libro ALEJANDRO OYONO ONDO MENDEZ, Tipo: Capítulo de libro DIANA CONSUELO RODRIGUEZ BURBANO, \"Development of green-yellow fluorescent boron-doped carbon dots as a base structure for future construction of potential cancer theranostic nano platform\" IFMBE Proceedings 100 . En: Suiza ISBN: 978-3-031-49406-2 ed: , v. , p.496 - 505 ,2024 Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Tipo: Capítulo de libro NICOLAS JAVIER BONILLA FAJARDO, Tipo: Capítulo de libro MAYERLY NATALIA OCHOA PAIPILLA, Tipo: Capítulo de libro MICHELLE DAHYANA SOTO FLORIDO, Tipo: Capítulo de libro SANDRA ROCIO RAMIREZ CLAVIJO, Tipo: Capítulo de libro DONALDO FABIO MERCADO CASTRO, Tipo: Capítulo de libro MARCELA CRISTINA MUNERA RAMIREZ, Tipo: Capítulo de libro DIANA CONSUELO RODRIGUEZ BURBANO, \"Synthesis and Evaluation of the Potential Use of an Electro-Responsive Hydrogel for the Encapsulation of Carbon Dot-Curcumin Nanoplatforms\" 9th Latin American Congress on Biomedical Engineering and 28th Brazilian Congress on Biomedical Engineering - Proceedings of CLAIB and CBEB 2022¿Volume 1 . En: Colombia ISBN: 978-3-031-49400-0 ed: Springer Publishing Company, Inc. , v. , p.405 - 415 ,2024 Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Tipo: Capítulo de libro STEFANIA DEGIOVANNI MORALES, Tipo: Capítulo de libro JUAN SEBASTIAN BALLESTAS PINEDA, Tipo: Capítulo de libro ALEJANDRO OYONO ONDO MENDEZ, Tipo: Capítulo de libro DIANA CONSUELO RODRIGUEZ BURBANO, Tipo: Capítulo de libro MARCELA CRISTINA MUNERA RAMIREZ, \"Modification of Polymeric Scaffolds Made of PEG and Nanohydroxyapatite Embedded with Carbon Dots for Applications in Bone Tissue Regeneration\" 9th Latin American Congress on Biomedical Engineering and 28th Brazilian Congress on Biomedical Engineering - Proceedings of CLAIB and CBEB 2022¿Volume 1 . En: Colombia ISBN: 978-3-031-49400-0 ed: Springer Publishing Company, Inc. , v. , p.396 - 404 ,2024 Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),",
+      "Tipo: Capítulo de libro ALVARO DAVID ORJUELA CANON, Tipo: Capítulo de libro DIANA CONSUELO RODRIGUEZ BURBANO, Tipo: Capítulo de libro OSCAR JULIAN PERDOMO CHARRY, \"Data Fusion Analysis for Determining Localization of Proteins Associated to Escherichia coli\" IEEE Colombian Conference on Applications in Computational Intelligence (ColCACI) . En: Colombia ISBN: 978-1-6654-7470-2 ed: IEEE Publications , v. , p.1 - 5 ,2022 Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Tipo: Capítulo de libro DIANA CONSUELO RODRIGUEZ BURBANO, Tipo: Capítulo de libro ALVARO DAVID ORJUELA CANON, \"Tuberculosis Drug Discovery Estimation Process by Using Machine and Deep Learning Models\" Applications of Computational Intelligence - 6th IEEE Colombian Conference, ColCACI 2023, Revised Selected Papers . En: Colombia ISBN: 9783031484148 ed: IEEE Publications , v. , p.43 - 53 ,2023 Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Tipo: Capítulo de libro DIANA CONSUELO RODRIGUEZ BURBANO, \"Molecular Compounds Proposal for Drug-Resistant Tuberculosis in the Drug Discovery Process\" Molecular Compounds Proposal for Drug-Resistant Tuberculosis in the Drug Discovery Process . En: Colombia ISBN: 979-8-3503-1659-9 ed: IEEE Publications , v. , p.1 - 5 ,2023 Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,"
+    ],
+    "textos_no_cientificos": [
+      "Producción bibliográfica - Otro artículo publicado - Revista de divulgación: MAYERLY NATALIA OCHOA PAIPILLA, ALEJANDRO OYONO ONDO MENDEZ, DIANA CONSUELO RODRIGUEZ BURBANO, \"Desarrollo de una nanoplataforma basada en puntos de carbono dopada con iones lantánidos como un agente radiosensibilidzaodr en el tratamiento de glioblastoma en un modelo in vitro\" En: Colombia. 2023. REVISTA COLOMBIANA DE CANCEROLOGIA. ISSN: 0123-9015 p. 179 - 180 v.27 Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades),"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Establecimiento de los protocolos de síntesis de puntos de carbono para la obtención de imágenes por fluoresencia y resonancia magnética Inicio: Septiembre 2019 Fin: Septiembre 2020 Duración Resumen Los puntos de carbono se describen como nanopartículas a base de carbono, con un promedio de tamaño inferior a los 10 nm, que presentan grupos funcionales orgánicos de interés biológico, y que se caracterizan por exhibir fluorescencia. Debido a su tamaño, su superficie y sus propiedades ópticas, el uso de estas nanopartículas está siendo explorado en diferentes campos de la nanomedicina. Este proyecto busca establecer los protocolos de síntesis de puntos de carbono con propiedades de emisión en diferentes longitudes de onda. Adicionalmente, se explorará la incorporación del ion Gd3+, como dopante, para generar puntos de carbono que pueden ser utilizados como sondas luminiscentes para obtención de imágenes por fluorescencia y agentes de contraste para la generación de imágenes por resonancia magnética.",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollo de los componentes de un sistema de liberación controlada de medicamentos basado en un hidrogel electroresponsivo integrado por puntos de carbono funcionalizados con curcumina Inicio: Octubre 2020 Duración Resumen El presente proyecto busca desarrollar los componentes de un sistema controlado de liberación de medicamentos basado en un hidrogel electroresponsivo. Este material servirá como vehículo encapsulador de puntos de carbono cuya superficie se modificará con la adición de curcumina, un compuesto fenólico cuya actividad contra numerosos tipos de cáncer ha sido reportada.",
+      "Tipo de proyecto: Investigación y desarrollo Modificación de scaffolds poliméricos a base de PEG mediante la incorporación de puntos de carbono y nanohidroxipatita para aplicaciones de regeneración de tejidos óseos Inicio: Enero 2022 Duración Resumen Las fallas óseas representan un gran problema en la ingeniería y la medicina debido a las complejidades clínicas y las necesidades mecánicas y biológicas del tejido a regenerar. Los injertos óseos figuran la solución mas implementada en la actualidad, no obstante, presentan una serie de limitaciones en el tratamiento de defectos óseos de gran tamaño. Es por esto que, se ha impulsado la búsqueda de nuevas tecnologías más efectivas para el tratamiento, tales como el uso de estructuras porosas tridimensionales, llamadas scaffolds, con propiedades físicas y químicas similares al tejido natural, que representan una alternativa confiable para el tratamiento regenerativo del hueso. Los scaffolds por medio de su estructura porosa permiten el recambio de nutrientes, la vascularización y la migración celular, lo que facilita su uso como guía para mejorar la osteoconducción y osteoinducción del tejido. La hidroxipatita es un material que se encuentran naturalmente en el componente mineral del hueso, facilitando la bioactividad y por ende la incorporación del material en el organismo. Por otra parte, los avances en el uso de la nanotecnología y nanomateriales en el campo médico, como por ejemplo los materiales a escala nanométrica como los puntos de carbono, han ganado fuerza en su implementación como promotores del mejoramiento de propiedades biológicas y mecánicas gracias a sus excelentes propiedades de biocompatibilidad, luminiscencia, estabilidad coloidal y sus grupos funcionales que mejoran la resistencia mecánica de la estructura. Este proyecto tiene como objetivo el mejoramiento de las propiedades biológicas y mecánicas de scaffolds poliméricos de polietilengilcol con puntos de carbono embebidos en nanohidroxipatita, con el fin de evaluar la viabilidad de estas estructuras en aplicaciones de regeneración en tejidos óseos. La metodología por implementar se divide en dos partes, la síntesis de la espuma y las nanopartículas, y la caracterización preliminar de sus propiedades morfológicas, biológicas y mecánicas, con el objetivo de determinar la efectividad de la estructura en el sitio del defecto. Se espera que con el uso de esto dos materiales en conjunto se incrementen las interacciones biológicas de la estructura y se optimicen las propiedades mecánicas de carga, favoreciendo la funcionalidad de la espuma.",
+      "Tipo de proyecto: Investigación, desarrollo e Innovación Evaluación del potencial uso de nanopartículas fluorescentes a base de carbono como agentes fotosensibilizadores para terapia fotodinámica en el tratamiento de células cancerosas de piel Inicio: Enero 2024 Duración Resumen Con el fin de buscar alternativas que mejoren la eficacia de la terapia fotodinámica para el cáncer de piel no-melanoma, se propone evaluar el potencial uso de las nanopartículas fluorescentes a base de carbono como agente fotosensibilizador en terapia fotodinámica in vitro de células cancerosas de piel, mediante técnicas de viabilidad celular y bioimpedancia. Para este propósito se estudiará la capacidad de generación de ROS de puntos de carbono que ya han mostrado propiedades radiosensibilizantes de tumores radioresistentes. Además, se pretende evaluar el comportamiento eléctrico de las células cancerosas mediante espectroscopia por impedancia eléctrica. Este proyecto no solo beneficia a los pacientes al proporcionar una opción de tratamiento más efectiva, sino que también contribuye al conocimiento científico en el campo de la oncología y promovería avances en el diagnóstico y tratamiento temprano del cáncer de piel no-melanoma.",
+      "Tipo de proyecto: Investigación y desarrollo Método Alternativo para la Detección de Lactato en Solución Acuosa Basado en la Fluorescencia de los Puntos de Carbono Inicio: Septiembre 2021 Fin: Agosto 2022 Duración Resumen La medición de niveles de L-lactato constituye un paso importante en el diagnóstico clínico y la medicina deportiva. Actualmente, este procedimiento puede ser realizado a través de sensores basados en sistemas electroquímicos, demandando un alto costo económico y medio ambiental, además, de infraestructura robusta para ubicar estos equipos en laboratorios y el talento humano necesario para ello. La presente propuesta pretende establecer un método alternativo para la medición de concentración de L-lactato, a partir de las propiedades de fluorescencia que poseen los puntos de carbono(PCs) y el desarrollo de un sistema que a partir del uso de visión por computador sea posible estimar esta concentración, obteniendo la posibilidad de tener un sistema de bajo costo y portable. Básicamente, se plantean dos fases: una primera basada en la síntesis y caracterización de puntos de carbono para la detección de L-lactato y el análisis de sus propiedades ópticas; y una segunda fase que se encargará del desarrollo de una integración hardware-software, empleando técnicas de visión por computador. El objetivo es que, a partir de imágenes generadas por la fluorescencia generada bajo estimulación de luz ultravioleta de los PCs dispersos en una solución acuosa de L-lactato, la concentración de este analito pueda ser estimada. Dentro de los resultados esperados está, principalmente, un prototipo de sistema para la estimación de concentración de nivel de L-lactato portable y de bajo costo.",
+      "Tipo de proyecto: Investigación y desarrollo Determinación de perfiles metabolómicos de radio-sensibilidad y optimización de la radioterapia usando nanopartículas en tumores tiroideos y glioma: un enfoque Traslacional Inicio: Marzo 2019 Fin: Octubre 2022 Duración Resumen Conscientes del impacto que tiene el cáncer de tiroides y el glioblastoma en la calidad de vida de los pacientes, y los costos que representa para el sistema de salud su tratamiento, con este proyecto se propone un enfoque de investigación en Medicina Traslacional, utilizanod la investigación básica para generar un metodología de medicina personalizada, que permita identificar el tratamiando por radioterapia más adecuado para cada paciente con alguno de estos tipos tumorales. Para ello, se propone combinar la metabolómica con las estrategias de determinación in vitro de la radiosensibilidad tumoral para establecer una correlacion entre el perfil metabolómico de los tumores obtenidos de pacientes con cáncer diferenciado de tiroides (papilar y folicular) o gliomas, con su respuesta al tratamiento con radiaciones ionizantes. De forma complementaria, se propone utilizar herramientas de modelamiento y simulación matemática para identificar las caracterísiticas óptimas de nanopartículas construidas con elementos de alto número atómico (Z), que permitan optimizar la terapia con radiaciones ionizantes en pacientes con tumores que presenten perfiles metabolómicos de resistencia al tratamiento.",
+      "Tipo de proyecto: Investigación y desarrollo Nanotecnología aplicada a sensibilización tumoral: Una aproximación a nanomedicina Inicio: Enero 2024 Duración Resumen La radioterapia es un tratamiento clave para algunas formas de cáncer, ya que utiliza radiaciones ionizantes (rayos X, gamma o partículas de alta energía) para eliminar células tumorales residuales tras una cirugía. La radiación induce la destrucción del ADN, causando daño celular directo. Sin embargo, su efectividad se ve limitada por la radiorresistencia de algunos tumores y el daño a tejido sano adyacente, lo que hace necesario el desarrollo de nuevas estrategias para mejorar su eficacia. Una alternativa prometedora es el uso de radiosensibilizadores moleculares, que amplifican in situ la dosis de radiación, permitiendo reducir la cantidad necesaria y minimizando efectos tóxicos en tejidos sanos. Además, los tumores sólidos suelen presentar hipoxia isquémica, lo que activa el factor inducible por hipoxia (HIF) y favorece un metabolismo anaerobio. Esto genera cambios genéticos y metabólicos que aumentan la resistencia a la apoptosis, reduciendo la efectividad de tratamientos como la radioterapia, que depende de la generación de especies reactivas de oxígeno y el daño directo al ADN. Ante estas limitaciones, la nanotecnología surge como una alternativa innovadora. La incorporación de elementos de alto número atómico en estructuras nanométricas permite la re-emisión de radiación secundaria, aumentando la efectividad de la radioterapia. En este contexto, los puntos de carbono destacan como agentes terapéuticos por su baja toxicidad, alta reproducibilidad, excreción renal eficiente y acumulación selectiva en tejido tumoral tras la administración sistémica. Estos nanomateriales pueden ser funcionalizados con elementos como iones lantánidos, que potencian el daño celular y mejoran la eficacia terapéutica, o metales de transición, que incrementan la producción de especies reactivas de oxígeno, promoviendo la apoptosis sin aumentar la dosis administrada. En este marco, los semilleros Si-Bio y SyNERGIA han desarrollado investigaciones multidisciplinarias en síntesis, caracterización y evaluación biocompatible de puntos de carbono dopados con iones lantánidos (Gd3⁺ y Yb3⁺). Los estudios preliminares han mostrado su potencial efecto radiosensibilizador en líneas celulares establecidas (5-6). Por ello, este proyecto busca evaluar el efecto radiosensibilizante de puntos de carbono dopados con gadolinio en condiciones de normoxia e hipoxia en modelos in vitro de las líneas celulares U87, HT29 y un cultivo primario de tumor glial. Se analizará la radiosensibilidad en distintos contextos celulares mediante la medición del daño en el ADN y la cuantificación de la supervivencia celular."
+    ]
+  }
+}

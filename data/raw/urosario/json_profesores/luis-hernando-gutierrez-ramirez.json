@@ -1,0 +1,883 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/luis-hernando-gutierrez-ramirez",
+  "nombre": "Luis H. Gutierrez",
+  "cargo_principal": "Profesor adjunto",
+  "email": "luis.gutierrez@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 4123",
+  "imagen": "https://research-hub.urosario.edu.co/file/n8137/Luis+Hernando+Guti%C3%A9rrez+Ram%C3%ADrez.jpg",
+  "afiliaciones": [
+    "Investigador - Grupo de Investigación Facultad de Economía - Universidad del Rosario",
+    "Profesor adjunto - Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=7101720651",
+    "google_scholar": "https://scholar.google.com/citations?user=XmKCz2cAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/446902fa-c690-4171-b26d-e614e3620538",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000139823",
+    "orcid": "http://orcid.org/0000-0002-7540-2069",
+    "otros": [
+      "https://ideas.repec.org/e/pgu136.html"
+    ]
+  },
+  "areas_investigacion": [
+    "Gobierno corporativo",
+    "Microeconomía",
+    "Organización industrial",
+    "Regulación"
+  ],
+  "formacion_academica": [
+    "1988, Economista, Universidad del Atlantico - Barranquilla",
+    "1993, Magíster en Economía, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2000, Doctor en Economía, University of Florida"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "The role of local promoters in helping microentrepreneurs engage in digital business training",
+      "fecha": "2025-2-26",
+      "enlace": "https://doi.org/10.1007/s40821-025-00293-y"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A logit analysis of norm compliance by micro-enterprises in Chile",
+      "fecha": "2024-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/dee97099-47ba-419e-846c-aae121ab0a39"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Productivity gaps at formal and informal microfirms",
+      "fecha": "2023-5-1",
+      "enlace": "https://doi.org/10.1016/j.worlddev.2023.106205"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Financial inclusion and business practices of microbusiness in Colombia",
+      "fecha": "2023-2-1",
+      "enlace": "https://doi.org/10.1007/s40821-022-00231-2"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Search intensity, search time and prices: evidence from retail diesel markets in France",
+      "fecha": "2022-2-19",
+      "enlace": "https://doi.org/10.1007/s11135-022-01343-7"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Quality certification and firm performance. The mediation of human capital",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.1108/IJPPM-12-2020-0643"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Investigating diesel market integration in France: Evidence from micro data",
+      "fecha": "2017-3-1",
+      "enlace": "https://doi.org/10.1016/j.eneco.2017.03.004"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The determinants of two-dimensional service quality in the drinking water sector - Evidence from Colombia",
+      "fecha": "2016-8-1",
+      "enlace": "https://doi.org/10.2166/wp.2016.123"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A firm-level analysis of ICT adoption in an emerging economy: Evidence from the Colombian manufacturing industries",
+      "fecha": "2015-2-1",
+      "enlace": "https://doi.org/10.1093/icc/dtu009"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Innovation and productivity in the colombian service and manufacturing industries",
+      "fecha": "2015-1-1",
+      "enlace": "https://doi.org/10.1080/1540496X.2015.1026698"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Drivers of information and communication technologies adoption in Colombian services firms",
+      "fecha": "2014-10-1",
+      "enlace": "https://doi.org/10.1504/IJBIS.2014.065553"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa",
+      "fecha": "2012-2-1",
+      "enlace": "https://doi.org/10.1080/00036846.2010.508730"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Regulatory reform in European energy industry: Impact of changes in corporate control on firm value",
+      "fecha": "2012-12-1",
+      "enlace": "https://doi.org/10.13043/dys.70.1"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "TIC y productividad en las industrias de servicios en Colombia",
+      "fecha": "2012-12-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2182640a-b24f-4c8f-ac0b-8a364ba9742e"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Outside directors, board interlocks and firm performance: Empirical evidence from Colombian business groups",
+      "fecha": "2011-7-1",
+      "enlace": "https://doi.org/10.1016/j.jeconbus.2011.01.002"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Public resale of mobile telephone minutes: An alternative access for low-income households in Colombia",
+      "fecha": "2010-5-1",
+      "enlace": "https://doi.org/10.1016/j.techsoc.2010.03.003"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Determinants of ICT usage among low-income groups in Colombia, Mexico, and Peru",
+      "fecha": "2010-1-1",
+      "enlace": "https://doi.org/10.1080/01972243.2010.511559"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Corporate ownership and control contestability in emerging markets: The case of Colombia",
+      "fecha": "2009-3-1",
+      "enlace": "https://doi.org/10.1016/j.jeconbus.2008.01.002"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Employment and Youth inclusion into the labor force via training in information and communication technologies (ICTs): the cases of Brazil, Colombia, and Mexico",
+      "fecha": "2009-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F51d6aa0e-4c33-4141-a25e-f10a2313e11b"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Ownership and control in Colombian corporations",
+      "fecha": "2008-2-1",
+      "enlace": "https://doi.org/10.1016/j.qref.2006.01.002"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Testing for stock market integration in a developing economy: Colombia",
+      "fecha": "2007-7-1",
+      "enlace": "https://doi.org/10.1080/17446540600993860"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Firm entry and productivity turnovers in import substituting markets: Evidence from the petrochemical industry in Colombia",
+      "fecha": "2005-12-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F321b551e-9d09-42be-92f3-953ebce52ccb"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Firm Entry, Productivity Differentials and Turnovers in Import Substituting Markets: A Study of the Petrochemical Industry in Colombia",
+      "fecha": "2005-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/f274b1eb-cd1a-4eb9-9c88-cb9cb5510109"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The Effect of Endogenous Regulation on Telecommunications Expansion and Efficiency in Latin America",
+      "fecha": "2003-5-1",
+      "enlace": "https://doi.org/10.1023/A:1023412226826"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Regulatory governance in the Latin American telecommunications sector",
+      "fecha": "2003-12-1",
+      "enlace": "https://doi.org/10.1016/S0957-1787(03)00062-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Telecommunications liberalization and regulatory governance: Lessons from Latin America",
+      "fecha": "2000-11-1",
+      "enlace": "https://doi.org/10.1016/S0308-5961(00)00069-0"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Intención emprendedora y educación en emprendimiento Una mirada conceptual y caso de estudio",
+      "fecha": "2022-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F481bedc3-dbb3-4e3d-9e7f-241fdd8b0b2a"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Reciclaje inclusivo: hacia una economía circular en Colombia",
+      "fecha": "2022-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8ae3443e-98e3-409b-89bc-ff0bfda8233b"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "La economía de las tiendas de barrio en Colombia",
+      "fecha": "2021-7-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1c119b77-e073-4b5b-b991-4142b63569c1"
+    },
+    {
+      "tipo": "libro",
+      "titulo": "Subsidios y contribuciones: Balance financiero de los hogares bogotanos",
+      "fecha": "2015-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/e1e79545-6e04-4e8c-9adc-e3f181747b58"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Intención emprendedora y educación para el emprendimiento",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.12804/urosario9789587849905"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Corporate Governance and Firm Valuation in Colombia",
+      "fecha": "2007-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0e1539b0-6e44-4064-aaa6-23f6a8bc8119"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Privatization and Regulatory Reform in Latin American Telecommunications",
+      "fecha": "2000-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0495970e-0d72-408a-9260-ddd1587953de"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Medición de capacidades empresariales e inclusión productiva en el sector del reciclaje en Colombia",
+      "fecha": "2020-6-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F601fa8c1-4a57-4449-9a0d-bda64e7ddb62"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Informe Estudio Nacional de Emprendimiento a Tenderos, primera ronda",
+      "fecha": "2020-5-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6f9062aa-c1e0-4f18-aec5-0710b1fc7119"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Intención emprendedora y educación hacia el emprendimiento",
+      "fecha": "2020-11-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4d35dd6e-1b82-4ac2-b133-a8ea0ce98fb7"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Quality Management System and Firm Performance in an Emerging Economy: The Case of Colombian Manufacturing Industries",
+      "fecha": "2017-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/bc553eac-add2-4378-b854-f1d471f0e328"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "El Sistema Nacional de Calidad en Colombia: Un análisis cualitativo del desarrollo del sistema",
+      "fecha": "2016-7-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8d1c4694-df22-4492-a86b-a7fdbd8b57d9"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Subsidios cruzados en servicios públicos domiciliarios basados en avalúo catastral",
+      "fecha": "2014-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F74210a51-d0a0-42e8-8d8e-3296480d3836"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "TIC y productividad en las industrias de servicios en Colombia",
+      "fecha": "2012-5-1",
+      "enlace": "https://doi.org/10.48713/10336_11122"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "A firm - level analysis of ICT adoption in an emerging economy: Evidence from the Colombian manufacturing industries",
+      "fecha": "2011-12-1",
+      "enlace": "https://doi.org/10.48713/10336_10849"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Telecommunications and economic growth: an empirical analysis of sub-saharan África.",
+      "fecha": "2009-5-1",
+      "enlace": "https://doi.org/10.48713/10336_10894"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "TIC, capital humano y productividad en la industria manufacturera colombiana",
+      "fecha": "2009-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/cbb6eb6c-d725-47b9-9028-86306cabba09"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "An Approximation to the digital divide among low income people in Colombia, México and Peru: Two composite indexes",
+      "fecha": "2008-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F07658d69-2b36-4cdb-a218-a1d8cdd111e9"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Use of informal mobile telephony in low income households in Colombia",
+      "fecha": "2008-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F14f2a9b7-ca1e-40a8-aac8-d9a770239ea7"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Testing for Stock Market Integration in a Developing Economy: Colombia",
+      "fecha": "2006-8-1",
+      "enlace": "https://doi.org/10.48713/10336_10945"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Borrar Corporate valuation and governancead: evidence from Colombia",
+      "fecha": "2005-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F136440d2-4c7c-4748-8044-b0c411bd7260"
+    },
+    {
+      "tipo": "documento de trabajo",
+      "titulo": "Corporate Valuation and Governance: Evidence from Colombia",
+      "fecha": "2005-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/a30611a7-d57c-45d0-89a4-bd024e33fbe9"
+    }
+  ],
+  "total_publicaciones": 48,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Formación de redes entre emprendedoras de la Fundación Bavaria.",
+      "fecha": "2022-01-19 - 2022-07-19",
+      "enlace": "https://research-hub.urosario.edu.co/display/f2c0a1dd-68ca-4f3a-9114-2667d54bf689"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Barriers to Innovation: All of them hamper innovation. Evidence from Three Latin American Countries",
+      "fecha": "2017-02-01 - 2017-07-29",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2002faec-0be3-4ae9-a25e-a5e900a551bb"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "The Effects of obstacles to Innovation: Size matters more. Evaluating the Case of Colombian Manufacturing Firms",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F78ad98e5-b79b-4ed9-9cc1-7eac9a7baee0"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "The importance of cooperation: there is more beyond the partners",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/display/e14bff9f-1efd-4b66-bf31-f1683206f5f1"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "What Explains Financial Inclusion for Small and Medium Enterprises in Colombia?",
+      "fecha": "",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F12a19a9f-acaa-4714-a629-6e0927583520"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Estrategia para el fortalecimiento: Instituciones, comunidades y territorio.",
+      "fecha": "2018-09-14 - 2023-09-14",
+      "enlace": "https://research-hub.urosario.edu.co/display/be670f18-a33b-4a35-bf9d-f2358692f721"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Emprendimiento, desarrollo de capacidades empresariales e inclusión productiva",
+      "fecha": "2018-10-01 - 2022-09-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/e74f5482-75a9-4a94-bd61-3394a93eb788"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Comportamiento de precios y demandas de mercados bilaterales en plataformas de comercio electrónico : un análisis de los agentes desde su estructura de incentivos y costos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Determinantes de la estructura de capital en Colombia una aproximación de regresión por cuartiles"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Difusión de la telefonía móvil en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diversificación de los grupos empresariales en Colombia 1998-2002"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Eficiencia de las empresas de acueducto en Colombia análisis del periodo 2002-2005"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "El papel de la ayuda pública en innovación en países en desarrollo : el caso de la industria manufacturera en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estructura, conducta y desempeño en el sector de la telefonía local de la reforma regulatoria en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estructura, conducta, desempeño y eficiencia de las empresas de telefonía de larga distancia en Colombia a partir de la apertura del mercado"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Instrumentos de Política Publica para el sector Confección, Textil y Afines en Colombia"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Las juntas directivas en la capitalización de empresas en Colombia para el periodo 1956-1973"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Lineamientos generales para el diseño de una política pública de financiamiento para los emprendimientos y las pymes, con énfasis en el mercado de capitales"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Metodología para la pre-identificación de apuesta productivas en sectores de servicios a nivel nacional - DNP"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Numerus Clausus en el mercado profesional de médicos especialistas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Programa de emparejamiento en cadenas de valor : una revisión sistemática"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Propiedad y desempeño en el sistema financiero colombiano"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Three essays on Microentrepreneurship"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Una medición de productividad y cambio tecnológico en agroquímicos: el caso del arroz Colombiano después de la revolución verde"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "¿Autonomía Interna o Globalización? El sacrificio de las políticas nacionales : evidencia a nivel de grupos de países"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2024"
+    }
+  ],
+  "identidad": {
+    "repec": [
+      "https://ideas.repec.org/e/pgu136.html"
+    ],
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000139823"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0002-7540-2069"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=XmKCz2cAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/446902fa-c690-4171-b26d-e614e3620538"
+    ],
+    "scopus_id": [
+      "7101720651"
+    ]
+  },
+  "id": "luis-hernando-gutierrez-ramirez",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor adjunto",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000139823",
+    "cod_rh": "0000139823",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Asociado (I) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Luis Hernando Gutiérrez Ramírez",
+      "Nombre en citaciones": "GUTIÉRREZ RAMÍREZ, LUIS HERNANDO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)"
+    ],
+    "formacion_academica": [
+      "Doctorado Universidad Internacional De La Florida Doctorado En Economía Enerode1995 - de 2000 Three Essays on Telecommunications Reform in Latin America",
+      "Maestría/Magister UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA Magister En Economía Enerode1988 - de 1993 La inversión en Colombia",
+      "Pregrado/Universitario UNIVERSIDAD DEL ATLÁNTICO ECONOMIA Enerode1977 - de 1982 El sector agrario en Colombia"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración UNIVERSITY OF CALIFORNIA Introduction to Big Data Noviembrede2016 - Noviembrede 2016"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 0 horas Semanales Febrero de 2001 de Actividades de administración - Miembro de consejo de centro - Cargo: Profesor titular Febrero de 2001 de Actividades de docencia - Pregrado - Nombre del curso: Microeconomía I, 30 Julio 2013 Noviembre 2013 - Pregrado - Nombre del curso: Microeconomía I, 30 Enero 2012 Junio 2012 - Pregrado - Nombre del curso: Seminario de organización industrial , 30 Enero 2011 Junio 2011 - Pregrado - Nombre del curso: Seminario de organización industrial , 30 Julio 2011 Noviembre 2011 - Pregrado - Nombre del curso: Microeconomía I, 30 Julio 2011 Noviembre 2011 - Pregrado - Nombre del curso: Microeconomía I, 30 Enero 2011 Junio 2011 - Pregrado - Nombre del curso: Microeconomía II - primer semestre 2005, Febrero 2004 - Pregrado - Nombre del curso: Microeconomía II - segundo semestre 2004, Febrero 2004 - Pregrado - Nombre del curso: Microeconomía II - primer semestre 2004, Febrero 2004 - Postgrado - Nombre del curso: Economía Financiera II - primer semestre 2006, Julio 2001 - Postgrado - Nombre del curso: organización industrial- Primer semestre 2002, Julio 2001 - Postgrado - Nombre del curso: Organización Industrial - primer semestre 2003, Julio 2001 - Postgrado - Nombre del curso: Organización Industrial - segundo semestre 2005, Julio 2001 - Postgrado - Nombre del curso: Economía Financiera II - primer semestre 2005, Julio 2001 - Postgrado - Nombre del curso: Economía Financiera- segundo semestre 2002, Julio 2001 - Postgrado - Nombre del curso: Economía Financiera- segundo semestre 2001, Julio 2001",
+      "FACULTAD DE ECONOMÍA Dedicación: 0 horas Semanales Febrero de 2001 de Actividades de investigación - Investigación y Desarrollo - Titulo: Corporate ownership, control, and governance in Colombia Agosto 2003 - Investigación y Desarrollo - Titulo: Eficiencia y desempeño en la generación térmica y distribución urbana de energía eléctrica en Colombia: Efectos de la reforma de 1994 Noviembre 2003 - Investigación y Desarrollo - Titulo: Estudio sobre la dinamica de la entrada y salida de firmas en la industria petroquimica Julio 2002 - Investigación y Desarrollo - Titulo: Estudios en organización industrial Mayo 2001 - Investigación y Desarrollo - Titulo: Febrero 2001",
+      "Universidad Internacional De La Florida Dedicación: 0 horas Semanales Agosto de 1998 Junio de 2000 Actividades de administración - Miembro de consejo de centro - Cargo: Investigador Agosto de 1998 Junio de 2000",
+      "División de Desarrollo Industrial Dedicación: 0 horas Semanales Julio de 1990 Julio de 1995 Actividades de administración - Dirección y Administración - Cargo: Jefe de división Julio de 1990 Julio de 1995",
+      "Departamento Nacional De Planeación - Dnp Dedicación: 0 horas Semanales Julio de 1989 Julio de 1995 Actividades de administración - Miembro de consejo de centro - Cargo: Funcionario Julio de 1989 Julio de 1995",
+      "División de Análisis Monetario Dedicación: 0 horas Semanales Julio de 1989 Junio de 1990 Actividades de administración - Dirección y Administración - Cargo: Técnico Julio de 1989 Junio de 1990",
+      "Banco de La República Barranquilla Dedicación: 0 horas Semanales Julio de 1985 Diciembre de 1988 Actividades de administración - Miembro de consejo de centro - Cargo: Otro Técnico-Investigador Julio de 1985 Diciembre de 1988",
+      "Estudios Economicos Dedicación: 0 horas Semanales Julio de 1985 Diciembre de 1987 Actividades de investigación - Investigación y Desarrollo - Titulo: Julio 1985 Diciembre 1987"
+    ],
+    "areas_actuacion": [
+      "Ciencias Sociales -- Economía y Negocios -- Economía"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Francés",
+        "habla": "Aceptable",
+        "escribe": "Aceptable",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Economía financiera y bancaria, Activa: Si",
+      "Organización industrial, Activa: Si",
+      "Regulación servicios públicos, Activa: Si",
+      "Gobernabilidad corporativa, Activa: Si",
+      "Trabajos regionales, Activa: No"
+    ],
+    "reconocimientos": [
+      "Finalist in the Medals, category Market Reforms and the New Role of the State,GLOBAL DEVELOPMENT NETWORK-GDN - de 2005"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Mercado de medicamentos en Colombia. Entrada, patrón de precios y lealtad de marca COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2004. Dirigió como: Tutor principal, Persona(s) orientada(s): Carlos Eduardo Sepulveda Rico Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Numerus clausus en el mercado profesional de médicos especialistas. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2014. Dirigió como: Tutor principal, Persona(s) orientada(s): Natalia Cantor Vargas Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Difusión de la telefonía móvil en Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2011. Dirigió como: Tutor principal, Persona(s) orientada(s): Magaly Faride Herrera Giraldo Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: LUIS HERNANDO GUTIERREZ RAMIREZ, Determinantes de la Estructura de Capital en Colombia una Aproximación de Regresión por Quantiles COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Economia, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrés Felipe Jaime Acevedo Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: LUIS HERNANDO GUTIERREZ RAMIREZ, Las Juntas Directivas en la Capitalización de Empresas en Colombia para el Periodo 1956-1973 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida FINANZAS Y COMERCIO INTERNACIONAL, 2013. Dirigió como: Tutor principal, Persona(s) orientada(s): Germán Andrés Castellanos Cabrera Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Eficiencia de las empresas de acueducto en Colombia: análisis del período 2002-2005 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en microeconomía aplicada, 2007. Dirigió como: Tutor principal, Persona(s) orientada(s): Liz Mabel Chaparro Torres 0 meses, Tutor(es)/Cotutor(es): CARLOS POMBO , LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Una medición de productividad y cambio tegnológico en agroquímicos: el caso del arroz colombiano después de la revolución verde COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Economia, 2004. Dirigió como: Tutor principal, Persona(s) orientada(s): Diego Mauricio Herrera Falla 0 meses, Tutor(es)/Cotutor(es): DIEGO HERRERA FALLA , LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Ventaja Comparativa Revelada de las Cadenas Productivas Colombianas COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2005. Dirigió como: Tutor principal, Persona(s) orientada(s): Catalina Prieto Espitia 0 meses, Tutor(es)/Cotutor(es): CATALINA PRIETO ESPITIA , LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Diversificación de los Grupos Empresariales en Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2006. Dirigió como: Tutor principal, Persona(s) orientada(s): Catherine Medina Arévalo 0 meses, Tutor(es)/Cotutor(es): CATHERINE MEDINA AREVALO , LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Estructura, Conducta, Desempeño y Eficiencia de las Empresas de Telefonía de Larga Distancia en Colombia a partir de la Apertura del Mercado COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2006. Dirigió como: Tutor principal, Persona(s) orientada(s): Bohorquez Olarte, Lilian Carol 0 meses, Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Metodología para la pre-identificación de apuesta productivas en sectores de servicios a nivel nacional DNP. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía de las Políticas Públicas, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Daniel Humberto Cifuentes Grueso Isabella Russi Carvajal Francisco Javier Monsalve Guaracao Jenny Paola Rivera Burgos Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Naturales -- Otras Ciencias Naturales -- Otras Ciencias Naturales,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Instrumentos de Política Pública para el sector Confección, Textil y Afines en Colombia, enmarcados en el contexto de la pandemia de COVID-19. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía de las Políticas Públicas, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Erik Stopwar Arciniegas Rincon Carlos Alberto Suárez Medina Luisa Alejandra Acosta Guio Acosta Guio Juan Sebastián Dániel Puello Tutor(es)/Cotutor(es): CARLOS SEPULVEDA RICO , LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Naturales -- Otras Ciencias Naturales -- Otras Ciencias Naturales,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, El papel de la ayuda pública en innovación en países en desarrollo: El caso de la industria manufacturera en Colombia. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Juan Sebastian Torres Cordoba Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, ¿Autonomía interna o globalización? El sacrificio de las políticas nacionales: Evidencia a nivel de grupos de países. COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía de las Políticas Públicas, 2017. Dirigió como: Tutor principal, Persona(s) orientada(s): Randy Sebasián Villalba Arango Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Naturales -- Otras Ciencias Naturales -- Otras Ciencias Naturales,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Programa de emparejamiento en cadenas de valor una revisión sistemática COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía de las Políticas Públicas, 2018. Dirigió como: Tutor principal, Persona(s) orientada(s): Daniel Ricardo Peraza González Jineth Dayana Araujo Ponce Juan David Ruiz Gómez Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Naturales -- Otras Ciencias Naturales -- Otras Ciencias Naturales,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Lineamientos generales para el diseño de una política pública de financiamiento para los emprendimientos y las pymes, con énfasis en el mercado de capitales COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Maestría en Economía de las Políticas Públicas, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Alejandra Del Mar Dussán Zuluaga Andrés Ricardo Meneses Pabón Andrea Paez Forero Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Naturales -- Otras Ciencias Naturales -- Otras Ciencias Naturales,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Determinantes de las fusiones y adquisiciones en el sistema financiero colombiano : 1990-2007 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2009. Dirigió como: Coturor/asesor, Persona(s) orientada(s): García Suaza, Andrés Felipe Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Tributación y concentración en el sistema financiero Colombiano 1989 - 2003 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2005. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Martínez Ventura, Constanza Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Estructura, conducta y desempeño en el sector de la telefonía local de la reforma regulatoria en Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2006. Dirigió como: Tutor principal, Persona(s) orientada(s): Bonilla Castaño, Paola Andrea Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: LUIS HERNANDO GUTIERREZ RAMIREZ, Análisis de precios en la oferta de comunicación celular en Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Economia, 2005. Dirigió como: Tutor principal, Persona(s) orientada(s): Ospina Sanmiguel, Juan Manuel Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Propiedad y desempeño en el sector financiero colombiano 1998 - 2005 COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2009. Dirigió como: Tutor principal, Persona(s) orientada(s): Willian Abel Otero Millán Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: LUIS HERNANDO GUTIERREZ RAMIREZ, Competencia en el mercado de generación de energia Colombiano COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN ECONOMIA, 2006. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Escobar Rodríguez, Daniel Francisco Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: LUIS HERNANDO GUTIERREZ RAMIREZ, Estado del arte experiencia de las mipymes exportadoras en Colombia COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida Economia, 2007. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Castellanos Otero, Gabriel Enrique Tutor(es)/Cotutor(es): LUIS HERNANDO GUTIERREZ RAMIREZ, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: LUIS HERNANDO GUTIERREZ RAMIREZ, RICARDO ROCHA, Titulo: Implicaciones de las Actuales Reformas al Acuerdo de Basilea de 1988 en el Sistema Bancario Colombiano Tipo de trabajo presentado: en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico Tesis Nombre del orientado: Jhoana Herazo y Sandy Mesa P Palabras: Acuerdo de Basilea, Riesgo, Niveles de solvencia, Areas: Ciencias Sociales -- Economía y Negocios -- Economía, Sectores: Desarrollo Urbano,"
+    ],
+    "consultorias": [
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS SEPULVEDA RICO, JUAN MIGUEL GALLEGO ACEVEDO, Estudio que mida y caracterice el impacto redistributivo de los subsidios otorgados por el Distrito Capital y la nación a los hogares bogotanos, así como calcular su efecto en los ingresos de los mismos, Nombre comercial: , contrato/registro: 179, . En: Colombia, ,2013, 0 meses p.0 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS SEPULVEDA RICO, JUAN MIGUEL GALLEGO ACEVEDO, Estudios complementarios, legales, técnicos, económicos, sociales e institucionales de un cambio en la metodología de asignación de subsidios y contribuciones en servicios públicos domiciliarios y tributos, Nombre comercial: , contrato/registro: 108, . En: Colombia, ,2014, 0 meses p.0 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, Ciudades inteligentes, Nombre comercial: , contrato/registro: PAF-TIC-007-2015, . En: Colombia, ,2016, 0 meses p.0 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, MANUEL RAMIREZ, CARLOS ANDRES HERNANDEZ GARCIA, MAGALY FARIDE HERRERA GIRALDO, Construcción de obras civiles, Nombre comercial: , contrato/registro: AEO026, . En: Colombia, ,2008, 0 meses p.0 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, MANUEL RAMIREZ, CARLOS ANDRES HERNANDEZ GARCIA, Estudio sobre el Indice de Producción Industrial del DANE, Nombre comercial: , contrato/registro: AEO008, . En: Colombia, ,2005, 0 meses p.0 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, HERNAN JARAMILLO, LUIS FERNANDO GAMBOA, MANUEL RAMIREZ, Asesoría para la creación de los elementos de un sistema de información para el sector de las tecnologías de la información y las comunicaciones, Nombre comercial: ACAC, contrato/registro: 062-2008, . En: Colombia, ,2008, 5 meses p.0 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: LUIS HERNANDO GUTIERREZ RAMIREZ, Análisis cuantitativo para identificar los obstáculos que enfrentan las empresas en Colombia para invertir en I+D, Nombre comercial: , contrato/registro: QAO-EG015, . En: Colombia, ,2019, 0 meses p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción técnica - Consultoría Científico Tecnológica e Informe Técnico - Servicios de Proyectos de I+D+I: LUIS HERNANDO GUTIERREZ RAMIREZ, Evaluacion del impacto sobre el territorio que tiene la aplicación de la metodología de estratificación dada por el DANE, Nombre comercial: , contrato/registro: QAO-EG030, . En: Colombia, ,2022, 7 meses p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: X Annual Meeting Latin American and Caribbean Economic Association (LACEA) Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2005-10-27 00:00:00.0, 2005-10-29 00:00:00.0 en Paris - Paris Productos asociados Nombre del producto: Corporate valuation and governance: Evidence from Colombia Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Latin American and Caribbean Economic Association Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "1 Nombre del evento: X Annual Meeting Latin American and Caribbean Economic Association (LACEA) Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2005-10-27 00:00:00.0, 2005-10-29 00:00:00.0 en Paris - Paris",
+      "Productos asociados Nombre del producto: Corporate valuation and governance: Evidence from Colombia Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Latin American and Caribbean Economic Association Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "2 Nombre del evento: X Conferencia Anual LACEA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-10-27 00:00:00.0, 2005-10-29 00:00:00.0 en Paris - Paris Instituciones asociadas Nombre de la institución: Latin American and Caribbean Economic Association Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "2 Nombre del evento: X Conferencia Anual LACEA Tipo de evento: Congreso Ámbito: Nacional Realizado el:2005-10-27 00:00:00.0, 2005-10-29 00:00:00.0 en Paris - Paris",
+      "Instituciones asociadas Nombre de la institución: Latin American and Caribbean Economic Association Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "3 Nombre del evento: Fifth Annual GDN Conferences. Tipo de evento: Otro Ámbito: Nacional Realizado el:2005-01-28 00:00:00.0, 2005-01-30 00:00:00.0 en New Delhi - New Delhi Instituciones asociadas Nombre de la institución: GLOBAL DEVELOPMENT NETWORK-GDN Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "3 Nombre del evento: Fifth Annual GDN Conferences. Tipo de evento: Otro Ámbito: Nacional Realizado el:2005-01-28 00:00:00.0, 2005-01-30 00:00:00.0 en New Delhi - New Delhi",
+      "Instituciones asociadas Nombre de la institución: GLOBAL DEVELOPMENT NETWORK-GDN Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "4 Nombre del evento: Seminar on Corporate Governance. Tipo de evento: Seminario Ámbito: Nacional Realizado el:2003-11-05 00:00:00.0, 2003-11-05 00:00:00.0 en Washington, D.C. - Washington Instituciones asociadas Nombre de la institución: Banco Interamericano de Desarrollo Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "4 Nombre del evento: Seminar on Corporate Governance. Tipo de evento: Seminario Ámbito: Nacional Realizado el:2003-11-05 00:00:00.0, 2003-11-05 00:00:00.0 en Washington, D.C. - Washington",
+      "Instituciones asociadas Nombre de la institución: Banco Interamericano de Desarrollo Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "5 Nombre del evento: II Seminar of Corporate Governance in Latin America and the Caribbean Tipo de evento: Seminario Ámbito: Nacional Realizado el:2004-12-02 00:00:00.0, 2004-12-03 00:00:00.0 en CARTAGENA DE INDIAS - Cartagena Instituciones asociadas Nombre de la institución: Banco Interamericano de Desarrollo Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "5 Nombre del evento: II Seminar of Corporate Governance in Latin America and the Caribbean Tipo de evento: Seminario Ámbito: Nacional Realizado el:2004-12-02 00:00:00.0, 2004-12-03 00:00:00.0 en CARTAGENA DE INDIAS - Cartagena",
+      "Instituciones asociadas Nombre de la institución: Banco Interamericano de Desarrollo Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "6 Nombre del evento: 58th Annual Meeting Midwest Finance Asssociation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-03-04 00:00:00.0, 2009-03-07 00:00:00.0 en Chicago - Chicago Productos asociados Nombre del producto: Cross-shares, Board Structure and Firm Performance in Emerging Markets Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: Midwest Finance Association Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "6 Nombre del evento: 58th Annual Meeting Midwest Finance Asssociation Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-03-04 00:00:00.0, 2009-03-07 00:00:00.0 en Chicago - Chicago",
+      "Productos asociados Nombre del producto: Cross-shares, Board Structure and Firm Performance in Emerging Markets Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: Midwest Finance Association Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "7 Nombre del evento: Seminario Innovación y TLC: Alcances y limitaciones de los microdatos paa la elaboración de políticas en América Latina y el Caribe\" Tipo de evento: Seminario Ámbito: Nacional Realizado el:2009-10-14 00:00:00.0, 2009-10-15 00:00:00.0 en Buenos Aires - Buenos Aires Productos asociados Nombre del producto: TIC Capital humano y productividad en la Industria Manufactuerrera colombiana Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: CEPAL,IDRC Canadá Tipo de vinculación Patrocinadora Nombre de la institución: Comisión Económica Para América Latina Y El Caribe Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "7 Nombre del evento: Seminario Innovación y TLC: Alcances y limitaciones de los microdatos paa la elaboración de políticas en América Latina y el Caribe\" Tipo de evento: Seminario Ámbito: Nacional Realizado el:2009-10-14 00:00:00.0, 2009-10-15 00:00:00.0 en Buenos Aires - Buenos Aires",
+      "Productos asociados Nombre del producto: TIC Capital humano y productividad en la Industria Manufactuerrera colombiana Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: CEPAL,IDRC Canadá Tipo de vinculación Patrocinadora Nombre de la institución: Comisión Económica Para América Latina Y El Caribe Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "8 Nombre del evento: Seminario Innovación y TLC: Alcances y limitaciones de los microdatos para la elaboración de políticas en América Latina y el Caribe\" Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-10-14 00:00:00.0, 2009-10-15 00:00:00.0 en Buenos Aires - Buenos Aires Instituciones asociadas Nombre de la institución: CEPAL,IDRC Canadá Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "8 Nombre del evento: Seminario Innovación y TLC: Alcances y limitaciones de los microdatos para la elaboración de políticas en América Latina y el Caribe\" Tipo de evento: Congreso Ámbito: Internacional Realizado el:2009-10-14 00:00:00.0, 2009-10-15 00:00:00.0 en Buenos Aires - Buenos Aires",
+      "Instituciones asociadas Nombre de la institución: CEPAL,IDRC Canadá Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "9 Nombre del evento: ITS International -Telecommunications Society Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-06-24 00:00:00.0, 2008-06-27 00:00:00.0 en Montréal - Montreal Productos asociados Nombre del producto: Digital divide among low Income people in Colombia, Mexico and Peru Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: International Telecommunications Society Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "9 Nombre del evento: ITS International -Telecommunications Society Tipo de evento: Otro Ámbito: Internacional Realizado el:2008-06-24 00:00:00.0, 2008-06-27 00:00:00.0 en Montréal - Montreal",
+      "Productos asociados Nombre del producto: Digital divide among low Income people in Colombia, Mexico and Peru Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: International Telecommunications Society Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "10 Nombre del evento: Latin America's New Millenium: Reaching \"El Dorado\" Tipo de evento: Congreso Ámbito: Nacional Realizado el:1999-04-07 00:00:00.0, 1999-04-10 00:00:00.0 en Miami - Loyola University Instituciones asociadas Nombre de la institución: Loyola University Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "10 Nombre del evento: Latin America's New Millenium: Reaching \"El Dorado\" Tipo de evento: Congreso Ámbito: Nacional Realizado el:1999-04-07 00:00:00.0, 1999-04-10 00:00:00.0 en Miami - Loyola University",
+      "Instituciones asociadas Nombre de la institución: Loyola University Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "11 Nombre del evento: Seminario para el Doctorado en Economía Aplicada Tipo de evento: Seminario Ámbito: Internacional Realizado el:2005-12-12 00:00:00.0, 2005-12-16 00:00:00.0 en Barcelona - Barcelona Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BARCELONA Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "11 Nombre del evento: Seminario para el Doctorado en Economía Aplicada Tipo de evento: Seminario Ámbito: Internacional Realizado el:2005-12-12 00:00:00.0, 2005-12-16 00:00:00.0 en Barcelona - Barcelona",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE BARCELONA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "12 Nombre del evento: Seminario de Fedesarrollo Tipo de evento: Seminario Ámbito: Nacional Realizado el:2005-10-06 00:00:00.0, 2005-10-06 00:00:00.0 en BOGOTÁ, D.C. - Fedesarrollo Instituciones asociadas Nombre de la institución: Fundación Para La Educación Superior Y El Desarrollo - Fedesarrollo Tipo de vinculación Patrocinadora Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente",
+      "12 Nombre del evento: Seminario de Fedesarrollo Tipo de evento: Seminario Ámbito: Nacional Realizado el:2005-10-06 00:00:00.0, 2005-10-06 00:00:00.0 en BOGOTÁ, D.C. - Fedesarrollo",
+      "Instituciones asociadas Nombre de la institución: Fundación Para La Educación Superior Y El Desarrollo - Fedesarrollo Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: LUIS HERNANDO GUTIERREZ RAMIREZ Rol en el evento: Ponente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, SANFORD BERG, \"Telecommunications Liberalization and Regulatory Governance: Lessons from Latin America\" . En: Estados Unidos TELECOMMUNICATIONS POLICY ISSN: 0308-5961 ed: ELSEVIER SCI LTD v. 24 fasc. 10 p.865 - 884 ,2000, DOI: 10.1016/S0308-5961(00)00069-0 Palabras: Telecommunications, Regulation, Regulatory governance, Privatization, Public Utilities,",
+        "titulo": "Telecommunications Liberalization and Regulatory Governance: Lessons from Latin America",
+        "doi": "10.1016/S0308-5961(00)00069-0",
+        "anio": "2000"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Regulatory governance in the Latin American telecommunications\" . En: Estados Unidos UTILITIES POLICY ISSN: 0957-1787 ed: ELSEVIER SCI LTD v. 11 fasc. 4 p.225 - 240 ,2003, DOI: 10.1016/S0957-1787(03)00062-6 Palabras: Regulation and Regulatory governance, Telecommunications, Public Utilities,",
+        "titulo": "Regulatory governance in the Latin American telecommunications",
+        "doi": "10.1016/S0957-1787(03)00062-6",
+        "anio": "2003"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, JUAN MIGUEL GALLEGO ACEVEDO, \"Quality certification and firm performance. The mediation of human capital\" . En: Colombia INTERNATIONAL JOURNAL OF PRODUCTIVITY AND PERFORMANCE MANAGEMENT ISSN: 1741-0401 ed: Emerald Group Publishing Ltd v. 72 fasc. 3 p.710 - 729 ,2023, DOI: 10.1108/IJPPM-12-2020-0643",
+        "titulo": "Quality certification and firm performance. The mediation of human capital",
+        "doi": "10.1108/IJPPM-12-2020-0643",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"The effects of endogenous regulation on Telecommunications expansion and efficiency in Latin America\" . En: Estados Unidos JOURNAL OF REGULATORY ECONOMICS ISSN: 0922-680X ed: Springer v. 23 fasc. 3 p.257 - 286 ,2003, DOI: Palabras: Telecommunications, Regulation and Regulatory governance, Privatization, Public Utilities,",
+        "titulo": "The effects of endogenous regulation on Telecommunications expansion and efficiency in Latin America",
+        "doi": "Palabras:",
+        "anio": "2003"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Search intensity, search time and prices: evidence from retail diesel markets in France\" . En: Colombia QUALITY AND QUANTITY ISSN: 0033-5177 ed: Springer v. 56 fasc. N/A p.4797 - 4807 ,2022, DOI: 10.1007/s11135-022-01343-7",
+        "titulo": "Search intensity, search time and prices: evidence from retail diesel markets in France",
+        "doi": "10.1007/s11135-022-01343-7",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: PAUL ANDRES RODRIGUEZ LESMES, LUIS HERNANDO GUTIERREZ RAMIREZ, JUAN CARLOS URUENA MEJIA, \"Financial inclusion and business practices of microbusiness in Colombia\" . En: Colombia EURASIAN BUSINESS REVIEW ISSN: 1309-4297 ed: SPRINGER HEIDELBERG v. 13 fasc. 2 p.465 - 494 ,2023, DOI: 10.1007/s40821-022-00231-2",
+        "titulo": "Financial inclusion and business practices of microbusiness in Colombia",
+        "doi": "10.1007/s40821-022-00231-2",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Ventajas Comparativas y Nueva Política Industrial\" . En: Colombia Ensayos de Economía ISSN: 0 ed: v. 2 fasc. p.97 - 102 ,1991, DOI: Palabras: Industria Manufacturera, Grupo Empresarial, Technical change,",
+        "titulo": "Ventajas Comparativas y Nueva Política Industrial",
+        "doi": "Palabras:",
+        "anio": "1991"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: PAUL ANDRES RODRIGUEZ LESMES, LUIS HERNANDO GUTIERREZ RAMIREZ, \"Productivity gaps at formal and informal microfirms\" . En: Colombia WORLD DEVELOPMENT ISSN: 0305-750X ed: Elsevier v. 165 fasc. 106205 p.1 - 13 ,2023, DOI: 10.1016/j.worlddev.2023.106205",
+        "titulo": "Productivity gaps at formal and informal microfirms",
+        "doi": "10.1016/j.worlddev.2023.106205",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, PAUL ANDRES RODRIGUEZ LESMES, JUAN CARLOS URUENA MEJIA, ANDRES FELIPE ORTIZ ZAMORA, IVAN DARIO MEDINA ROJAS, \"The role of local promoters in helping microentrepreneurs engage in digital business training\" . En: EURASIAN BUSINESS REVIEW ISSN: 1309-4297 ed: SPRINGER HEIDELBERG v. 15 fasc. N/A p.205 - 242 ,2025, DOI: 10.1007/s40821-025-00293-y Palabras: Financial inclusion, Business practices, Formality, Digital training, Microbusiness,",
+        "titulo": "The role of local promoters in helping microentrepreneurs engage in digital business training",
+        "doi": "10.1007/s40821-025-00293-y",
+        "anio": "2025"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, RODRIGO TABORDA RIOS, JUAN MIGUEL GALLEGO ACEVEDO, \"Innovation and Productivity in the Colombian Service and Manufacturing Industries\" . En: Estados Unidos EMERGING MARKETS FINANCE AND TRADE ISSN: 1540-496X ed: ME Sharpe Inc v. 51 fasc. 3 p.612 - 634 ,2015, DOI: 10.1080/1540496X.2015.1026698",
+        "titulo": "Innovation and Productivity in the Colombian Service and Manufacturing Industries",
+        "doi": "10.1080/1540496X.2015.1026698",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS POMBO, \"Firm Entry, Productivity Differentials and Turnovers in Import Substituting Markets: A Study of the Petrochemical Industry in Colombia\" . En: Colombia LECTURAS DE ECONOMIA ISSN: 0120-2596 ed: Universidad de Antioquia v. 63 fasc. N/A p.137 - 185 ,2005, DOI:",
+        "titulo": "Firm Entry, Productivity Differentials and Turnovers in Import Substituting Markets: A Study of the Petrochemical Industry in Colombia",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, JESUS OTERO, \"Testing for stock market integration in a developing economy: Colombia\" . En: Reino Unido APPLIED FINANCIAL ECONOMICS LETTERS ISSN: 1744-6554 ed: TAYLOR &FRANCIS v. 3 fasc. 4 p.231 - 236 ,2007, DOI: 10.1080/17446540600993860",
+        "titulo": "Testing for stock market integration in a developing economy: Colombia",
+        "doi": "10.1080/17446540600993860",
+        "anio": "2007"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS POMBO, RODRIGO TABORDA RIOS, CARLOS POMBO VEJARANO, \"Ownership and control in colombian coporations\" . En: Estados Unidos QUARTERLY REVIEW OF ECONOMICS AND FINANCE ISSN: 1062-9769 ed: Elsevier Science Inc. v. 48 fasc. 1 p.22 - 47 ,2008, DOI: 10.1016/j.qref.2006.01.002",
+        "titulo": "Ownership and control in colombian coporations",
+        "doi": "10.1016/j.qref.2006.01.002",
+        "anio": "2006"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS POMBO VEJARANO, CARLOS POMBO V, \"Corporate ownership and control contestability in emerging markets: The case of Colombia\" . En: Estados Unidos JOURNAL OF ECONOMICS AND BUSINESS ISSN: 0148-6195 ed: Elsevier v. 61 fasc. 2 p. 112 - 139 ,2009, DOI: 10.1016/j.jeconbus.2008.01.002 Palabras: Gobernabilidad corporativa,",
+        "titulo": "Corporate ownership and control contestability in emerging markets: The case of Colombia",
+        "doi": "10.1016/j.jeconbus.2008.01.002",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, GUILLERMO BONILLA, LUIS B NARANJO, \"Indicadores de la Evolución del Sector Industrial Colombiano 1974-1988\" . En: Colombia Planeacion Y Desarrollo ISSN: 0034-8686 ed: Departamento Nacional de Planeación v. 22 fasc. p.11 - 40 ,1990, DOI: Palabras: Industria Manufacturera, Desarrollo industrial, Sectores: Desarrollo Urbano,",
+        "titulo": "Indicadores de la Evolución del Sector Industrial Colombiano 1974-1988",
+        "doi": "Palabras:",
+        "anio": "1990"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, ANTONIO BOTELHO, JUDITH MARISCAL, JOHN JAIRO GARCIA RENDON, \"Employment and Youth inclusion into the labor force via training in information and communication technologies (ICTs): the cases of Brazil, Colombia, and Mexico\" . En: Estados Unidos INFORMATION TECHNOLOGIES AND INTERNATIONAL DEVELOPMENT ISSN: 1544-7529 ed: USC Annenberg School for Communication v. 5 fasc. 2 p.19 - 30 ,2009, DOI:",
+        "titulo": "Employment and Youth inclusion into the labor force via training in information and communication technologies (ICTs): the cases of Brazil, Colombia, and Mexico",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, LUIS FERNANDO GAMBOA, \"Determinants of ICT Usage among Low-Income 'Groups in Colombia, Mexico, and Peru\" . En: Colombia UNIVERSAL ACCESS IN THE INFORMATION SOCIETY ISSN: 1615-5289 ed: SPRINGER HEIDELBERG v. 26 fasc. 5 p.346 - 363 ,2010, DOI: 10.1080/01972243.2010.511559",
+        "titulo": "Determinants of ICT Usage among Low-Income 'Groups in Colombia, Mexico, and Peru",
+        "doi": "10.1080/01972243.2010.511559",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS POMBO VEJARANO, \"Outside directors, board interlocks and firm performance: 'Empirical evidence from Colombian business groups\"\" . En: Colombia JOURNAL OF ECONOMICS AND BUSINESS ISSN: 0148-6195 ed: Elsevier v. 63 fasc. 4 p.251 - 277 ,2011, DOI:",
+        "titulo": "Outside directors, board interlocks and firm performance: 'Empirical evidence from Colombian business groups",
+        "anio": "2011"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, JOHN LEVENDIS, SANG H LEE, \"Telecommunications and Economic Growth: An Empirical Analysis of Sub-Saharan Africa\" . En: Colombia APPLIED ECONOMICS ISSN: 0003-6846 ed: ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD v. 44 fasc. 4 p.461 - 469 ,2012, DOI: 10.1080/00036846.2010.508730",
+        "titulo": "Telecommunications and Economic Growth: An Empirical Analysis of Sub-Saharan Africa",
+        "doi": "10.1080/00036846.2010.508730",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"TIC y productividad en las industrias de servicios en Colombia\" . En: Colombia LECTURAS DE ECONOMIA ISSN: 0120-2596 ed: Universidad de Antioquia v. 77 fasc. N/A p.163 - 188 ,2012, DOI:",
+        "titulo": "TIC y productividad en las industrias de servicios en Colombia",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, JOHN JAIRO GARCIA RENDON, \"Reforma regulatoria energética en Europa: Impacto de los cambios de control corporativo sobre el valor de las empresas\" . En: Colombia DESARROLLO Y SOCIEDAD ISSN: 0120-3584 ed: Universidad De Los Andes Colombia v. 70 fasc. N/A p.7 - 49 ,2012, DOI:",
+        "titulo": "Reforma regulatoria energética en Europa: Impacto de los cambios de control corporativo sobre el valor de las empresas",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, MARIA VERONICA ALDERETE, \"Drivers of information and communication technologies adoption in Colombian services firms\" . En: Estados Unidos INTERNATIONAL JOURNAL OF BUSINESS INFORMATION SYSTEMS ISSN: 1746-0980 ed: Inderscience Enterprises Ltd. v. 17 fasc. 4 p.373 - 397 ,2014, DOI:",
+        "titulo": "Drivers of information and communication technologies adoption in Colombian services firms",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"A firm-level analysis of ICT adoption in an emerging economy: evidence from the Colombian manufacturing industries\" . En: Colombia INDUSTRIAL AND CORPORATE CHANGE ISSN: 1464-3650 ed: Oxford Univ Press v. fasc. N/A p.1 - 31 ,2014, DOI: 10.1093/icc/dtu009",
+        "titulo": "A firm-level analysis of ICT adoption in an emerging economy: evidence from the Colombian manufacturing industries",
+        "doi": "10.1093/icc/dtu009",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Public resale of mobile telephone minutes: An alternative access for low-income households in Colombia\" . En: Colombia TECHNOLOGY IN SOCIETY ISSN: 0160-791X ed: ELSEVIER SCI LTD v. 32 fasc. 2 p.122 - 129 ,2010, DOI:",
+        "titulo": "Public resale of mobile telephone minutes: An alternative access for low-income households in Colombia",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Investigating diesel market integration in France: Evidence from micro data\" . En: Estados Unidos ENERGY ECONOMICS ISSN: 1873-6181 ed: Elsevier v. 63 fasc. N/A p.314 - 321 ,2017, DOI:",
+        "titulo": "Investigating diesel market integration in France: Evidence from micro data",
+        "anio": "2017"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: LUIS HERNANDO GUTIERREZ RAMIREZ, \"The determinants of two-dimensional service quality in the drinking water sector - Evidence from Colombia\" . En: Reino Unido WATER POLICY ISSN: 1366-7017 ed: iwapublishing v. 18 fasc. 5 p.983 - 997 ,2016, DOI: 10.2166/wp.2016.123",
+        "titulo": "The determinants of two-dimensional service quality in the drinking water sector - Evidence from Colombia",
+        "doi": "10.2166/wp.2016.123",
+        "anio": "2016"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Libro resultado de investigación: JUAN MIGUEL GALLEGO ACEVEDO, LUIS HERNANDO GUTIERREZ RAMIREZ, MANUEL RAMIREZ, CARLOS SEPULVEDA RICO, \"Subsidios y contribuciones. Balance Financiero de los hogares Bogotanos\" En: Colombia 2015. ed:Editorial De La Universidad Del Rosario ISBN: 978-958-738-580-9 v. pags. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "capitulos_libro": [
+      "Tipo: Otro capítulo de libro publicado LUIS HERNANDO GUTIERREZ RAMIREZ, \"Mercados de capitales y gobernanza corporativa en Colombia\" Gobernanza Corporativa Y Desarrollo De Mercados De Capitales En America Latina . En: Chile ISBN: 978-958-8307-76-3 ed: Cepal , v. , p.227 - 280 ,2009 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Capítulo de libro LUIS HERNANDO GUTIERREZ RAMIREZ, \"La tienda de barrio\" La economía de las tiendas de barrio en Colombia . En: Colombia ISBN: 978-958-784-727-7 ed: , v. , p.1 - 21 ,2021 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Capítulo de libro LUIS HERNANDO GUTIERREZ RAMIREZ, \"¿Quién se vuelve un tendero? Dos visiones alternas desde la economía\" La economía de las tiendas de barrio en Colombia . En: Colombia ISBN: 978-958-784-727-7 ed: , v. , p.22 - 32 ,2021 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Otro capítulo de libro publicado LUIS HERNANDO GUTIERREZ RAMIREZ, \"Privatization and Regulatory Reform in Latin American Telecommunications\" Privatization, Deregulation And Economic Efficiency . En: Reino Unido ISBN: 1-84064-363-3 ed: Edward Elgar , v. , p.206 - 231 ,2000 Palabras: Telecommunications, Regulatory governance, Privatization, Liberalization, Areas: Ciencias Sociales -- Economía y Negocios -- Economía, Sectores: Desarrollo Urbano,",
+      "Tipo: Otro capítulo de libro publicado LUIS HERNANDO GUTIERREZ RAMIREZ, \"Privatization and Regulatory Reform in Latin American Telecommunications\" Privatization, Deregulation And Economic Efficiency . En: Reino Unido ISBN: 1-84064-363-3 ed: Edward Elgar , v. , p.206 - 231 N/A ,2000 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Otro capítulo de libro publicado LUIS HERNANDO GUTIERREZ RAMIREZ, Tipo: Otro capítulo de libro publicado SANFORD BERG, \"Telecommunications Privatization and Deregulation: Lessons from Latin America\" Privatization, Deregulation And Institutional Framework . En: Japón ISBN: 4-258-56003-0 ed: Institute of Developing Economies , v. , p.314 - 334 IDE I ,1999 Palabras: Telecommunications, Regulatory governance, Privatization, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Otro capítulo de libro publicado LUIS HERNANDO GUTIERREZ RAMIREZ, Tipo: Otro capítulo de libro publicado CARLOS POMBO V, \"Corporate Governance and Firm Valuation in Colombia\" Investor Protection And Corporate Governance: Firm-Level Evidence Across Latin America (Latin American Development Forum) . En: Estados Unidos ISBN: 0804700079 ed: Stanford University Press , v. , p.353 - 396 ,2007 Palabras: Gobernabilidad corporativa, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Otro capítulo de libro publicado LUIS HERNANDO GUTIERREZ RAMIREZ, \"Corporate governance in banks of Colombia\" Anti-Crisis Paradigms Of Corporate Governance In Banks: A New Institutional Approach . En: Ucrania ISBN: 978-966-96872-1-0 ed: , v. , p.120 - ,2010 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Capítulo de libro LUIS HERNANDO GUTIERREZ RAMIREZ, Tipo: Capítulo de libro JUAN MIGUEL GALLEGO ACEVEDO, Tipo: Capítulo de libro CARLOS SEPULVEDA RICO, \"Alternativas de desmonte de la estratificación socioeconómica en el Distrito Capital\" Los Límites De La Estratificación: En Busca De Alternativas . En: Colombia ISBN: 978-958-738-536-6 ed: Centro Editorial de la Universidadd el Rosario , v. , p.153 - 183 ,2014 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Tipo: Otro capítulo de libro publicado LUIS HERNANDO GUTIERREZ RAMIREZ, \"TIC y sector productivo en Colombia: en la búsqueda de políticas que impulsen un uso integral\" Entre mitos y realidades . En: Colombia ISBN: LC-L-3600 ed: Cepal , v. , p.195 - 224 ,2013 Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "documentos_trabajo": [
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS POMBO, \"Firm Entry, Productivity Differentials and Turnovers in Import Substituting Markets: A Study of the Petrochemical Industry in Colombia\" En: Colombia. 2004. p. Palabras: Entrada, Rotación, Productividad total de los factores, Industria Petroquímica, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"Regulatory Governance in the Latin American Telecommunications Sector\" En: Colombia. 2002. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS POMBO, RODRIGO TABORDA RIOS, \"Ownership and Control in Colombian Corporations\" En: Colombia. 2005. p. Palabras: Propiedad, Development, Corporaciones colombianas, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, CARLOS POMBO, \"Corporate Valuation and Governance: Evidence from Colombia\" En: Colombia. 2005. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, JESUS OTERO, \"Testing for Stock Market Integration in a developing Economy: Colombia\" En: Colombia. 2006. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, LUIS F GAMBOA, \"An Approximation to the digital divide among low income people in Colombia, México and Peru: Two composite indexes\" En: Colombia. 2008. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, LUIS F GAMBOA, \"Use of informal mobile telephony in low income households in Colombia. Universidad del Rosario, Facultad de Economía, Documentos de trabajo, 45.\" En: Colombia. 2008. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, SANG H LEE, JOHN LEVENDIS, \"Telecommunications and economic growth: an empirical analysis of sub-saharan África.\" En: Colombia. 2009. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"TIC, capital humano y productividad en la industria manufacturera colombiana\" En: Colombia. 2009. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"A firm-level analysis of ICT adoption in an emerging economy: evidence from the Colombian manufacturing industries\" En: Colombia. 2011. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, JUAN MIGUEL GALLEGO ACEVEDO, \"Internet y actividad económica en Colombia, 2007-2011: Un análisis a nivel de municipios y de las 23 principales ciudades\" En: Colombia. 2013. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, RODRIGO TABORDA RIOS, JUAN MIGUEL GALLEGO ACEVEDO, \"Innovation and Productivity in the Colombian Service Industry\" En: Colombia. 2013. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"Subsidios cruzados en servicios públicos domiciliarios basados en el avalúo Catastral\" En: Colombia. 2014. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"TIC y productividad en las industrias de servicios en Colombia\" En: Colombia. 2012. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"Quality Management System and Firm Performance in an Emerging Economy\" En: Colombia. 2017. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"Intención emprendedora y educación hacia el emprendimiento\" En: Colombia. 2020. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, PAUL ANDRES RODRIGUEZ LESMES, CARLOS JULIAN GALLEGO DUQUE, JEISSON ANDRES GOMEZ COLMENARES, ANDRES FELIPE ORTIZ ZAMORA, JOSE MANUEL RINCON ALARCON, \"Medición de capacidades empresariales e inclusión productiva en el sector del reciclaje en Colombia\" En: Colombia. 2020. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, JUAN MIGUEL GALLEGO ACEVEDO, \"An Integrated Analysis of the Impact of Gender Diversity on Innovation and Productivity in Manufacturing Firms\" En: Colombia. 2018. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, PAUL ANDRES RODRIGUEZ LESMES, \"Informal versus Formal: Microfirms' Productivity Gaps\" En: Colombia. 2022. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, JUAN MIGUEL GALLEGO ACEVEDO, \"The heterogeneous effects of government support and financial constraints on innovation modes in microenterprises\" En: Colombia. 2021. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, NAZLY JULIETH MUNERA MONTOYA, LAURA DANIELA GUERRERO SANCHEZ, JEISSON ANDRES GOMEZ COLMENARES, \"La intención hacia el emprendimiento de estudiantes de la Uniminuto\" En: Colombia. 2022. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, JUAN MIGUEL GALLEGO ACEVEDO, \"Patrones del desempeño innovador de las industrias Naranja en el sector servicios en Colombia\" En: Colombia. 2022. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, PAUL ANDRES RODRIGUEZ LESMES, JUAN CARLOS URUENA MEJIA, ANDRES FELIPE ORTIZ ZAMORA, IVAN DARIO MEDINA ROJAS, \"Informe Estudio Nacional de Emprendimiento a Tenderos, primera ronda\" En: Colombia. 2020. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"Patrones de acceso y análisis de gasto en Telefonía Móvil Celular en Colombia 2001-2006. DIRSI- IDRS\" En: Colombia. 2007. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"Corporate ownership and control contestability in emerging markets: The Case of Colombia\" En: Colombia. 2007. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Documento de trabajo (Working Paper)",
+      "LUIS HERNANDO GUTIERREZ RAMIREZ, \"Pobreza y acceso telefónico en América Latina y el Caribe. El Caso de Colombia. DIRSI- IDRS\" En: Colombia. 2007. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "libro_de_formaci_n": [
+      "Producción bibliográfica - Libro - Libros de formación: Nombre del libro: Information and Communication Technology (ICTs) Training, Employment and Youth: The Case of Brazil, Colombia and Mexico, Fecha de presentación: 2008 - Septiembre, Isbn: 978-9972-51-227-8, Medio de divulgación: Papel, Lugar de publicación: Estados Unidos, Editorial: FLACSO : Facultad Latinoamericana de Ciencias Sociales Sede Chile, Areas: Ciencias Naturales -- Computación y Ciencias de la Información -- Ciencias de la Información y Bioinformática,",
+      "Producción bibliográfica - Libro - Libros de formación: Nombre del libro: ICT Training, Employment and Youth: The Case of Brazil, Colombia and Mexico, Fecha de presentación: 2009 - Enero, Isbn: 978-9972-51-227-8, Medio de divulgación: Papel, Lugar de publicación: Estados Unidos, Editorial: Center for information and Society, University ok Washington, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "traducciones": [
+      "Producción bibliográfica - Traducciones - Libro: LUIS HERNANDO GUTIERREZ RAMIREZ, RODRIGO TABORDA RIOS, LUIS F GAMBOA, \"Frontiers of Development Economics\" En: Colombia. 2002. . Fronteras De La Economía Del Desarrollo. Idioma original: Inglés. Idioma traducción: Inglés. Autor: Gerald Meier and Joseph Stiglitz. Nombre original: Frontiers of Development Economics. fasc. . v.. Palabras: Development, teoría económica, Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "otra_producci_n_blibliogr_fica": [
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Oportunidades Móviles: Pobreza y Acceso a la Telefonía en América Latina y el Caribe. El Caso de Colombia. Informe Nacional\" En: Colombia. 2008. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Corporate ownership and control contestability in emerging markets: The Case of Colombia\" En: Colombia. 2007. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Patrones de acceso y análisis de gasto en Telefonía Móvil Celular en Colombia 2001-2006. DIRSI- IDRS\" En: Colombia. 2007. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, \"El Sistema Nacional de Calidad en Colombia Un análisis cualitativo del desarrollo del sistema\" En: Colombia. 2016. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: LUIS HERNANDO GUTIERREZ RAMIREZ, \"Pobreza y acceso telefónico en América Latina y el Caribe. El Caso de Colombia. DIRSI- IDRS\" En: Colombia. 2007. p. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: LUIS HERNANDO GUTIERREZ RAMIREZ, ICT and labor productivity in Colombian manufacturing industry . En: Colombia, ,2011, finalidad: Capítulo del libro \"ICT in Latin America; A microdata analysis.\" CEPAL. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Demás trabajos - Demás trabajos: LUIS HERNANDO GUTIERREZ RAMIREZ, Políticas y programas de innovación hacia la microempresa, pequeña y mediana empresa en Colombia . En: Colombia, ,2014, finalidad: Capítulo del libro \"Una promesa y un suspirar: políticas de innovación para PYMES en América Latina.\" CEPAL. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,",
+      "Demás trabajos - Demás trabajos: LUIS HERNANDO GUTIERREZ RAMIREZ, TIC y sector productivo en Colombia: en la búsqueda de políticas que impulsen un uso integral . En: Colombia, ,2013, finalidad: Capítulo del libro \"Entre mitos y realidades. TIC, políticas públicas y desarrollo productivo en América Latina.\" CEPAL. Areas: Ciencias Sociales -- Economía y Negocios -- Economía,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Estudio sobre la dinamica de la entrada y salida de firmas en la industria petroquimica Inicio: Agosto 2002 Fin: Enero 2004 Duración Resumen N/A",
+      "Tipo de proyecto: Investigación y desarrollo Emprendimiento, desarrollo de capacidades empresariales e inclusión productiva Inicio: Septiembre 2018 Duración Resumen \"Este proyecto busca establecer la efectividad de un grupo de intervenciones en el proceso de formalización de emprendimientos informales en Colombia. En primer lugar, se propone explorar una agenda de investigación para entender las dinámicas de la informalidad empresarial, y los emprendimientos informales en el país, teniendo en cuenta su conexión intergeneracional, redes sociales informales y capital social y gerencial. Esta agenda estará apalancada en la formación de recurso humano de la Fundación Universitaria Minuto de Dios (Uniminuto) en los programas de maestría y doctorado de la Universidad del Rosario (URosario), y su trabajo conjunto con los profesores investigadores de la Facultad de Economía. En segundo lugar, se proponen tres casos de estudio en los cuáles se realizarán intervenciones destinadas a entender posibles estrategias de política pública para promover la formalización de estos negocios. Primero, contando con la experiencia y conocimiento de la Fundación AVINA, mediante la provisión de educación gerencial y asistencia técnica a asociaciones de recicladores se explorará si es posible lograr la vinculación de más miembros, un mejor desempeño de las mismas, y la formalización de pre-cooperativas. Segundo, se explora un modelo de innovación conjunta entre asociaciones de recicladores y la academia local, la Universidad Autónoma Latinoamericana (Unaula), para lograr el desarrollo de una tecnología que mejore las condiciones laborales de esta población y a su vez incentive la participación en asociaciones existentes. En este marco, se determinará si estas intervenciones están relacionadas con las redes sociales informales y el capital social presente. Tercero, basados en la experiencia internacional de la Fundación Capital, se determinará el impacto de una intervención basada en la educación financiera y digital en lograr mayores niveles de formalidad en las tiendas de barrio mediante el uso de tecnologías de la información, junto a la capacidad de potenciar las mismas con el apoyo de la academia local. Finalmente, se estudiarán los vínculos intergeneracionales en la informalidad de las empresas familiares y se establecerá un currículo de emprendimiento en la Uniminuto, basados en la experiencia del centro de emprendimiento Progresa, que nos permita explorar si la educación gerencial puede incidir en la formalización de dichos establecimientos. Como resultados se busca obtener una evaluación técnica y rigurosa sobre la efectividad de las propuestas, la mejora directa de la calidad de vida de las poblaciones a intervenir, y la construcción de una variada producción académica de primer nivel pionera a nivel mundial en temas de emprendimiento en países de ngreso bajo y medio.\"",
+      "Tipo de proyecto: Investigación y desarrollo Modalidad Fondo Concursable Capital semilla: Formación de redes entre emprendedoras de la Fundación Bavaria Inicio: Enero 2022 Fin: Julio 2022 Duración Resumen Los negocios presentan brechas de género en las cuales aquellos administrados por hombres tienen mayores ingresos y crecimiento, por lo que los negocios administrados por mujeres presentan menores desempeño (World Bank, 2019). En el estudio ¿Profiting from Parity: Unlocking the Potential of Women¿s Businesses in Africa¿ se encontró que las mujeres emprendedoras enfrentan restricciones como normas sociales, marcos legales desiguales, y diferencias en educación, recursos, activos, y redes. Programas como el de ¿Emprendedoras Bavaria¿ buscan reducir estas brechas. El programa empieza en 2017, y busca mejorar la calidad de vida de las tenderas y sus familias en Colombia, para ello cuenta con diferentes aliados tanto públicos como privados, beneficiando cerca de 25.000 emprendedoras en todo el país. Los pilares en los cuales se centra corresponden a fortalecimiento empresarial, apropiación digital, dotación de infraestructura e inclusión financiera. Las estrategias para llevar a cabo este objetivo incluyen: acompañamiento virtual personalizado, adecuación física y dotación de abarrotes, nuevos elementos digitales y físicos para el fortalecimiento de los planes de negocio, y acceso a microcréditos y ahorros para la vejez.",
+      "Tipo de proyecto: Investigación y desarrollo Estrategia para el fortalecimiento: Instituciones, comunidades y territorio Inicio: Septiembre 2018 Fin: Septiembre 2023 Duración Resumen Diseñar e implementar modelos, políticas e instrumentos que conduzcan hacia cambios organizacionales y construcción de capacidades para hacer de la ciencia, la investigación y su aplicación, la cultura dominante dentro de un ecosistema de instituciones, proyectos y redes de investigadores, a través de la participación en el Programa ¿Inclusión productiva y social: programas y políticas para la promoción de una economía formal¿.",
+      "Tipo de proyecto: Investigación y desarrollo Corporate ownership, control, and governance in Colombia Inicio: Septiembre 2003 Fin: Diciembre 2004 Duración Resumen N/A",
+      "Tipo de proyecto: Investigación y desarrollo Eficiencia y desempeño en la generación térmica y distribución urbana de energía eléctrica en Colombia: Efectos de la reforma de 1994 Inicio: Febrero 2004 Fin: Febrero 2005 Duración Resumen N/A",
+      "Tipo de proyecto: Investigación y desarrollo Estudios en organización industrial Inicio: Enero 2001 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Asesoría para la creación de los elementos de un sistema de información para el sector de las tecnologías de la información y las comunicaciones Inicio: Agosto 2008 Fin: Diciembre 2008 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo El Subsistema Nacional de Calidad en Colombia: Hechos Estilizados e Impacto sobre el Desempeño de la Obtención de Certificados y Reglamentos Técnicos Inicio: Agosto 2015 Fin: Marzo 2016 Duración Resumen Prestación de servicios técnicos para el \"Estudio: Sistema Nacional de Calidad: bien público para la competitividad\"",
+      "Tipo de proyecto: Investigación y desarrollo BID - Innovation and productivity in the Colombian service sector Inicio: Agosto 2012 Fin: Enero 2013 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo El Sistema Nacional de Calidad en Colombia Un análisis cualitativo del desarrollo del sistema Inicio: Enero 2016 Fin: Agosto 2016 Duración Resumen"
+    ]
+  }
+}

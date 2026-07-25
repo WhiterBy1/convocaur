@@ -1,0 +1,51 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/sergio-andres-pinto-hernandez",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "sergio.pinto@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Docente Clínico y de Prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001615872"
+  },
+  "areas_investigacion": [
+    "Atención hospitalaria",
+    "Medicina crítica",
+    "Medicina interna",
+    "Riesgo cardiovascular"
+  ],
+  "perfil_profesional": "Sergio Andres Pinto Hernández es médico egresado de la Universidad Autónoma de Bucaramanga, con formación e interés en el área de cuidado crítico y emergencias. Durante su formación de pregrado, desarrolló una investigación sobre conductas, actitudes y prácticas en riesgo cardiovascular, demostrando un enfoque preventivo en su práctica médica. Ha desempeñado su labor profesional en el ámbito de la salud, incluyendo una vinculación con la Universidad de Cartagena, donde participó en actividades académicas o asistenciales entre 2014 y 2017. Su perfil se orienta hacia la atención de pacientes en estados críticos y la gestión de emergencias médicas.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001615872"
+    ]
+  },
+  "id": "sergio-andres-pinto-hernandez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001615872",
+    "cod_rh": "0001615872",
+    "datos_generales": {
+      "Nombre": "SERGIO ANDRES PINTO HERNANDEZ",
+      "Nombre en citaciones": "PINTO HERNANDEZ, SERGIO ANDRES",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "formacion_academica": [
+      "Pregrado/Universitario UNIVERSIDAD AUTONOMA DE BUCARAMANGA MEDICINA Juliode2002 - Juliode 2008 conductas, actitudes y practicas en riesgo cardiovascular"
+    ],
+    "experiencia_profesional": [
+      "UNIVERSIDAD DE CARTAGENA Dedicación: horas Semanales Diciembre de 2014 Diciembre de 2017"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Cuidado Crítico y de Emergencia"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación y desarrollo Factores de riesgo asociados a sepsis severa y shock séptico en pacientes adultos con enfermedad renal crónica en prediálisis y diálisis, en el hospital universitario del caribe. Inicio: Enero 2015 Fin: Noviembre Duración Resumen La enfermedad renal crónica (ERC) es cada vez más prevalente tanto a nivel mundial y nacional, y se ha visto en la literatura un mayor grado de susceptibilidad a presentar infecciones, y estas a su vez ser de mayor gravedad, por lo cual se hace imprescindible determinar los principales factores de riesgo asociado a sepsis severa y shock séptico, determinación por grupos etarios, principales focos de sepsis, comorbilidades asociadas, entre otros, este se realizara mediante un estudio de casos y controles en el que se recogerán datos de pacientes que ingresen a la institución en el lapso de tiempo de Noviembre de 2015 a Noviembre de 2016, con enfermedad renal crónica categoría 3, 4 y 5 sin diálisis o categoría 5 en diálisis, que presenten un foco infeccioso y que presenten las variables para ser catalogadas como sepsis severa o shock séptico, posterior a esto se realizara la tabulación, análisis de datos, se reportaran los resultados y se realizara la discusión pertinente evaluando en esta los principales sitios de infección, ingreso a UCI de estos pacientes, principales comorbilidades asociadas y se comparara con lo reportado en la literatura mundial."
+    ]
+  }
+}

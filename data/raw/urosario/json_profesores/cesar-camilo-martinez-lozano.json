@@ -1,0 +1,62 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/cesar-camilo-martinez-lozano",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia",
+  "email": "cesarc.martinez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n2128/Image20240923095700.jpg",
+  "afiliaciones": [
+    "Profesor de docencia - Escuela de Administración - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.es/citations?hl=es&user=Ik6AZ0oAAAAJ",
+    "orcid": " https://orcid.org/0009-0004-7004-9958"
+  },
+  "areas_investigacion": [
+    "Ethics",
+    "Human Resources",
+    "IA",
+    "Leadership (LCSH)",
+    "Strategy"
+  ],
+  "perfil_profesional": "Reconocido consultor empresarial, escritor, conferencista y docente internacional. Nombrado por ASCOLFA como uno de los dos “Maestro de maestros” de Administración de Colombia (2022) y postulado a los premios Portafolio como “Mejor Docente Universitario” del país (2022). Ha sido galardonado por la Universidad del Rosario, con quien está vinculado desde 2009, con el primer “Premio a la excelencia en docencia” (2021) y “Profesor Distinguido” (2012) por el compromiso con la misión, proyecto educativo y contribuciones a la docencia. Es miembro del Consejo académico de Posgrados de la escuela de Administración. Nominado por la misma universidad para el premio internacional \"Teaching Excellence Award\" (2018 y 2023) del Accreditation Council for Business Schools and Programs (ACBSP).Es Ingeniero Electrónico (USTA – Colombia), Magister en Dirección de Recursos Humanos (ADM Business School – UNIR – España) y Magister en Administración Gerencial (En proceso de titulación por la Universidad Benito Juárez – Mexico). Ha sido un exitoso Gerente de servicio al cliente para LG Electronics (1998 a 2004 y 2016 a 2017) logrando un primer premio internacional en su gestión. Se desempeñó también como Gerente de Recursos Humanos y Administración de esta misma multinacional (2004 a 2008), como Ingeniero de Soporte de Sony Corporation (1993 a 1998) y como capacitador en liderazgo y anticorrupción de la agencia ICITAP del Departamento de Justicia de los Estados Unidos de América (2011 a 2013). Es actual miembro de la Junta Directiva de la Óptica Alemana, compañía que cuenta con más de 100 años de existencia.",
+  "formacion_academica": [
+    "1992, Ingeniero Electrónico, Universidad Santo Tomas - Bogotá D.C.",
+    "2012, Máster en Dirección de Recursos Humanos, Universidad Internacional de La Rioja"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Gestión oriental y occidental: un acercamiento a los grandes gurues e ideas empresariales"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelo de organización y estandarización para el centro de distribución de los Tres Elefantes S.A."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Planes de carrera en las organizaciones: desafíos y oportunidades para jóvenes profesionales"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Premio a la Excelencia en Docencia",
+      "fecha": "2021"
+    },
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2012"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0004-7004-9958"
+    ],
+    "google_académico": [
+      "https://scholar.google.es/citations?hl=es&user=Ik6AZ0oAAAAJ"
+    ]
+  },
+  "id": "cesar-camilo-martinez-lozano",
+  "facultad_csv": "Escuela de Administración",
+  "cargo_csv": "Profesor de docencia"
+}

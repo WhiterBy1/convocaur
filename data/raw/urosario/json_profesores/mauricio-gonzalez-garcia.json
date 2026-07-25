@@ -1,0 +1,44 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mauricio-gonzalez-garcia",
+  "nombre": "",
+  "cargo_principal": "Profesor mérito",
+  "email": "mgonzalez@neumologica.org",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Profesor mérito - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.es/citations?user=AK4VHRAAAAAJ&hl=es&oi=ao",
+    "orcid": "https://orcid.org/0000-0003-0768-1972",
+    "otros": [
+      "https://www.researchgate.net/profile/Mauricio-Gonzalez-Garcia"
+    ]
+  },
+  "areas_investigacion": [
+    "Altitud",
+    "Ejercicio",
+    "Enfermedad pulmonar intersticial",
+    "Fisiología respiratoria"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Plasma Levels of CXCL9 and MCP-3 are Increased in Asthma-COPD Overlap (ACO) Patients",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.2147/COPD.S506517"
+    }
+  ],
+  "total_publicaciones": 1,
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0003-0768-1972"
+    ],
+    "google_académico": [
+      "https://scholar.google.es/citations?user=AK4VHRAAAAAJ&hl=es&oi=ao"
+    ]
+  },
+  "id": "mauricio-gonzalez-garcia",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor mérito"
+}

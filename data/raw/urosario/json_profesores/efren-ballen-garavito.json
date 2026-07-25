@@ -1,0 +1,38 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/efren-ballen-garavito",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra",
+  "email": "efren.ballen@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n11022/Efren+Ballen+Garavit.jpg",
+  "afiliaciones": [
+    "Profesor cátedra - Escuela de Administración - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/EnRecursoHumano/query.do"
+  },
+  "areas_investigacion": [
+    "Contabilidad",
+    "Toma de decisiones"
+  ],
+  "perfil_profesional": "Efrén Ballén Garavito es Contador Público titulado y Magíster en Docencia, con una sólida trayectoria en el ámbito académico y empresarial. Su experiencia incluye la docencia universitaria presencial y virtual, y la tutoría de cursos en contabilidad, tributación y NIIF. A nivel profesional, realiza encargos de Revisoría Fiscal, Auditoría Externa y asesoría a empresas de diferentes sectores económicos. Ha participado como ponente en congresos nacionales e internacionales. Posee habilidades para liderar y desarrollar proyectos de forma autónoma o en equipo, con facilidad para el autoaprendizaje, la adaptación a entornos virtuales y el uso de herramientas tecnológicas aplicadas a la enseñanza y la gestión contable.",
+  "reconocimientos": [
+    {
+      "premio": "Premio Docencia de Excelencia 'Juan Agustín Uricochea y Navarro'",
+      "fecha": "2017"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/EnRecursoHumano/query.do"
+    ]
+  },
+  "id": "efren-ballen-garavito",
+  "facultad_csv": "Escuela de Administración",
+  "cargo_csv": "Profesor cátedra",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/EnRecursoHumano/query.do",
+    "cod_rh": "",
+    "datos_generales": {}
+  }
+}

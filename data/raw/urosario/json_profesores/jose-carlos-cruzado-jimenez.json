@@ -1,0 +1,45 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jose-carlos-cruzado-jimenez",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra posgrado",
+  "email": "jose.cruzado@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n15864/jose_cruzado.jpg",
+  "afiliaciones": [
+    "Profesor cátedra posgrado - Maestría en Gestión Estratégica de la Información e Innovación Digital - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=NkIn-n8AAAAJ",
+    "orcid": "https://orcid.org/0009-0000-7950-1526"
+  },
+  "areas_investigacion": [
+    "Curación de información digital",
+    "Desarrollo de Software",
+    "Gestión de Proyectos de Ingeniería",
+    "Innovaciones tecnológicas",
+    "Sistemas de información",
+    "Visibilidad Web"
+  ],
+  "perfil_profesional": "Jose Carlos Cruzado Jiménez, Ingeniero Electrónico con especialización en Gestión de Proyectos de Ingeniería y Máster en Ingeniería de Software y Sistemas Informáticos, destaca por su amplia experiencia en liderazgo de equipos de alto rendimiento y proyectos de tecnología avanzada. Su enfoque se centra en el diseño de servicios innovadores, gestión del conocimiento y visibilidad web. Jose Carlos es experto en aplicar metodologías tanto tradicionales como ágiles en la gestión de proyectos, y posee una sólida experiencia en la implementación y gestión de sistemas de información para la gestión de contenidos y el conocimiento. También cuenta con habilidades avanzadas en aseguramiento de calidad de software, diseño web, programación, modelado de datos y desarrollo de soluciones tecnológicas integrando hardware y software. Su competencia se extiende al uso de herramientas de analítica de datos para la toma de decisiones y optimización de la experiencia de usuario. Actualmente, Jose Carlos lidera el área de Innovación y Tecnología del Sistema de Bibliotecas de la Universidad de los Andes y ejerce como tutor en la Maestría en Gestión Estratégica de la Información e Innovación en la Universidad del Rosario.",
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Optimización Estratégica del Ecosistema Digital del Área Virtual de la Universidad Francisco de Paula Santander:Gobernanza Digital, Analítica Web y Diseño Centrado en el Usuario"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Rediseño del proceso de gestión de glosas y devoluciones en el Hospital Universitario Méderi"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0000-7950-1526"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=NkIn-n8AAAAJ"
+    ]
+  },
+  "id": "jose-carlos-cruzado-jimenez",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor cátedra posgrado"
+}

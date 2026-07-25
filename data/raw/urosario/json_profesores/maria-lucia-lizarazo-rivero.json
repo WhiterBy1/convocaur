@@ -1,0 +1,46 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/maria-lucia-lizarazo-rivero",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra posgrado",
+  "email": "marial.lizarazo@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n7694/maria_lizarazo.jpg",
+  "afiliaciones": [
+    "Profesor de cátedra posgrado - Escuela de Ciencias e Ingeniería - Universidad del Rosario",
+    "Profesor cátedra posgrado - Maestría en Gestión Estratégica de la Información e Innovación Digital - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "google_scholar": "https://scholar.google.com/citations?user=IM6g9H4AAAAJ",
+    "orcid": "https://orcid.org/0000-0003-0269-1733"
+  },
+  "areas_investigacion": [
+    "Ciencia abierta",
+    "Derechos digitales",
+    "Intellectual property",
+    "Open science",
+    "Propiedad intelectual",
+    "Research data",
+    "Technology transfer"
+  ],
+  "perfil_profesional": "Magíster en Ingeniería Industrial e Ingeniera Industrial con experiencia y conocimiento en ciencia abierta, gestión de la innovación, transferencia de conocimiento y tecnología, gestión de datos de investigación y propiedad intelectual. Con experiencia en la formulación y gestión de proyectos de ciencia, tecnología e innovación y en la elaboración de ejercicios de vigilancia tecnológica. Maria Lucia Lizarazo is the Administrative Coordinator of the Center of Resources for Learning and Research (CRAI) at Universidad del Rosario, Colombia, where she led the implementation of the institutional strategy of research data management, and is part of the group that coordinates the open science strategy. She has experience working in the areas of technology transfer, research data management, open science, intellectual property and science, technology and innovation projects. Maria Lucia has a M.S. and a B.S. in Industrial Engineering with an emphasis on technology transfer and is currently member of the DataCite Americas Expert group.",
+  "publicaciones": [
+    {
+      "tipo": "informe",
+      "titulo": "A la vanguardia de las tendencias internacionales en bibliotecas académicas. Edición 2021",
+      "fecha": "",
+      "enlace": "https://doi.org/10.48713/10336_33256"
+    }
+  ],
+  "total_publicaciones": 1,
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0003-0269-1733"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=IM6g9H4AAAAJ"
+    ]
+  },
+  "id": "maria-lucia-lizarazo-rivero",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor cátedra posgrado"
+}

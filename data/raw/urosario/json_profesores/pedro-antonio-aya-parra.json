@@ -1,0 +1,277 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/pedro-antonio-aya-parra",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia y práctica",
+  "email": "pedro.aya@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n15616/aya+pedro.JPG",
+  "afiliaciones": [
+    "Profesor de docencia y práctica - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario",
+    "Profesor docencia - Grupo de Investigación Vida e Inteligencia Artificial - GIVIA - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57202423036",
+    "google_scholar": "https://scholar.google.com/citations?user=oQ8g1HoAAAAJ&hl=en",
+    "pure": "https://pure.urosario.edu.co/es/persons/pedro-antonio-aya-parra-2/",
+    "orcid": "https://orcid.org/0000-0002-3987-1028"
+  },
+  "areas_investigacion": [
+    "Biomedical Engineering",
+    "Electronic Engineering"
+  ],
+  "formacion_academica": [
+    "2012, Tecnólogo en Electromedicina, Escuela Colombiana de Carreras Industriales - Bogotá D.C.",
+    "2015, Ingeniero Biomédico, Escuela Colombiana de Carreras Industriales - Bogotá D.C.",
+    "2017, Magíster en Ingeniería Electrónica, Universidad Santo Tomas - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Intelligent Classification of Urban Noise Sources Using TinyML: Towards Efficient Noise Management in Smart Cities",
+      "fecha": "2025-10-1",
+      "enlace": "https://doi.org/https://doi.org/10.3390/s25206361"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Uso de herramientas digitales en educación para la salud en poblaciones vulnerables: Revisión de alcance",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.14482/sun.41.01.843.479"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Monitoring System for Operating Variables in Incubators in the Neonatology Service of a Highly Complex Hospital through the Internet of Things (IoT)",
+      "fecha": "2023-6-1",
+      "enlace": "https://doi.org/10.3390/s23125719"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Design and Implementation of an Internet of Things (IoT) Architecture for the Acquisition of Relevant Variables in the Study of Failures in Medical Equipment: A Case Study",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-030-77528-5_4"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Calibration of Deterministic Errors in Accelerometer Data of Commercial IMU System",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/SIPAIM67325.2025.11283232"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Revisión Sistemática de la Sensibilidad de Sistemas Vestibles para la Prevención de Caídas Basados en Umbrales Combinados con Algoritmos de Inteligencia Artificia",
+      "fecha": "2024-11-15",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9d6bf894-754a-42ff-9a1a-ab3a8bf18640"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Desarrollo de un sistema de localización en tiempo real enfocado a la seguridad de pacientes bajo un entorno hospitalario.",
+      "fecha": "2022-10-27",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0b29ea7b-e76b-4769-8382-ed1955a8ccac"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Validation of an IoMT-based monitoring system for pressure ulcer prevention in a hospital environment: A pilot",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.1109/CI-IBBI54220.2021.9626058"
+    }
+  ],
+  "total_publicaciones": 8,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Educación en salud para población afrocolombiana del área rural y urbana del Municipio de Guapi-Cauca a través de un aplicativo digital.",
+      "fecha": "2021-03-01 - 2022-02-28",
+      "enlace": "https://research-hub.urosario.edu.co/display/b37e09d5-ec13-4b86-9411-afb93a0554fe"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Evaluación de la funcionalidad de un sistema de monitoreo de cambios de movimiento en tiempo real en la prevención de caídas hospitalarias",
+      "fecha": "2024-07-01 - 2027-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5bcbdd35-f4c0-4bad-b441-eab51677cfa4"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Diseño de una unidad de detección y cuantificación de analitos presentes en fluido biosintético simulador de orina basado en colorimetría e IoT",
+      "fecha": "2025-06-04 - 2026-06-19",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F609b0978-a314-43e3-bf0a-efccb2c18eac"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Promoción de la salud sexual y reproductiva en el Municipio de Tumaco, Nariño, mediante el uso de Tecnologías de la Información y Comunicación",
+      "fecha": "2024-06-01 - 2026-03-27",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F919213c6-6e40-4794-8c10-7d8edf6fafc7"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Educación en salud para población afrocolombiana del área rural y urbana del Municipio de Guapi-Cauca a través de un aplicativo digital.",
+      "fecha": "2021-03-01 - 2023-02-28",
+      "enlace": "https://research-hub.urosario.edu.co/display/adc53fdd-00a1-426c-884b-099c39723a97"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "DISEÑAR E IMPLEMENTAR UNA ESTRATEGIA DE FORMACIÓN DE RECURSOS HUMANOS PARA LAS PARTES INTERESADAS DE SGSSS EN EL PROCESO DE VACUNACIÓN.",
+      "fecha": "2021-07-15 - 2022-08-28",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F9e0caf7e-dff7-438e-ab1d-576d35810179"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Aplicación tecnológica para la rehabilitación cognitiva de adolescentes con bulimia nerviosa"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cuidado neonatal mediante internet de las cosas médicas: validación y evaluación de un sistema de monitoreo en incubadoras"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de aplicación piloto para análisis comparativo en la adquisición de nueva tecnología en el Hospital Universitario Mayor Méderi"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de un dispositivo inteligente de asistencia para la administración de medicamentos en adultos mayores: un estudio piloto"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de una aplicación móvil para el seguimiento y registro de formatos de mantenimiento de equipos biomédicos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de una herramienta de escritorio para la gestión operativa de los equipos biomédicos críticos en las sedes del Hospital Universitario Mayor de Méderi"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo e implementación de un sistema de evaluación y capacitación enfocado al uso y manejo de equipos biomédicos para personal asistencial"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo e implementación de una aplicación digital para el apoyo en los procersos de evaluación de desempéño y gestión de mantenimientos de equipos biomédicos en el Hospital San Ignacio"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño de prototipo de unidad móvil para soporte de neuronavegadores"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño de un protocolo para el análisis de requerimientos funcionales en la fabricación de prótesis de pierna bk (below the knee)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño de una aplicación para el seguimiento de mantenimientos de equipos biomédicos y rápida elaboración de hojas de vida y fichas técnicas en una clínica de alta complejidad"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño e implementación de formularios web para mejorar la comunicación de clientes con soporte técnico de Avantage Health System"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño e implementación de guías rápidas y plan de capacitaciones para el buen manejo de equipos médicos en la central de urgencias Louis Pasteur"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estandarización de los protocolos internos de gestión de mantenimiento de equipos biomédicos, bajo el concepto del cumplimiento normativo de la resolución 2003 de 2014"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación del desarrollo y viabilidad de un sistema de detección de movimiento aplicable a pacientes de alto riesgo en caídas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Herramienta digital de simulación de procesos hidráulicos para máquinas de hemodiálisis Genius Preparator, 4008 general y 5008s de Fresenius Medical Care"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de guías de rápido manejo de equipos médicos en la Clínica Los Nogales"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de un protocolo de capacitación virtual de tecnología biomédica para el personal asistencial del servicio de urgencias del Hospital Universitario Mayor - Mederi"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de un sistema de evaluación y capacitación de limpieza y desinfección de equipos biomédicos en los servicios de UCI I y II del Hospital Universitario San José de Popayán"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de un sistema electrónico para la identificación de la frecuencia de cambios de posición durante sueño en sujetos sanos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de un sistema embebido para la clasificación de fuentes de ruido ambiental urbano utilizando técnicas de TinyML en un entorno acústico de Bogotá"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de una plataforma digital como herramienta para la capacitación sobre el uso de equipos biomédicos en el Instituto del corazón de Bugaramanga"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación y desarrollo de una herramienta de evaluación de guías rápidas, instructivo de fallas y capacitación de equipos en el Hospital Universitario San Ignacio"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Medición de la atenuación resultante en incubadoras durante la toma de imágenes de rayos X con equipos portátiles del Hospital Universitario Mayor MEDERI"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Medición del potencial de mercado de dispositivos biomédicos para la línea de Urología de la Región Andina de Boston Scientific Colombia Ltda."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelos de analítica de datos aplicado a la Detección de Úlceras por Presión en Pacientes Hospitalizados"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Priorización por obsolescencia de equipos biomédicos para adquisición de nueva tecnología foco imágenes diagnósticas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Sistema de monitoreo remoto de variables medioambientales en las salas de cirugía de una clínica de cuarto nivel de complejidad mediante el uso de internet de las cosas (IoT)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Sistema para monitoreo y supervisión de variables y condiciones de funcionamiento en incubadoras neonatales a través de internet de las cosas IoT"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Tecnologías de localización en tiempo real: mejorando la seguridad ciudadana"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Validación de un dispositivo en la prevención de úlceras por presión en la unidad de cuidados intensivos de la Fundación Cardio Infantil"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Validación de un dispositivo que establece y notifica la frecuencia de movimiento para prevenir úlceras por presión y caídas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Validación de un sistema IoT con aprendizaje federado y TinyML para el monitoreo postural en un entorno de cuidado simulado"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Premio Bienal de Extensión “José Maria del Castillo y Rada”",
+      "fecha": "2023"
+    },
+    {
+      "premio": "Fondo de Innovación Pedagógica",
+      "fecha": "2021"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-3987-1028"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=oQ8g1HoAAAAJ&hl=en"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/es/persons/pedro-antonio-aya-parra-2/"
+    ],
+    "scopus_id": [
+      "57202423036"
+    ]
+  },
+  "id": "pedro-antonio-aya-parra",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor de docencia y práctica"
+}

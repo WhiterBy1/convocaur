@@ -1,0 +1,320 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/luis-carlos-venegas-sanabria",
+  "nombre": "Luis Carlos Venegas-Sanabria",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "luis.venegas@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n654/Foto+Dr+Venegas+%282%29.png",
+  "afiliaciones": [
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=57193430099#",
+    "google_scholar": "https://scholar.google.com/citations?user=oNL46LkAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/luis-carlos-venegas-sanabria/",
+    "orcid": "https://orcid.org/0000-0001-8260-9108"
+  },
+  "areas_investigacion": [
+    "Ageing",
+    "Cognitive Decline",
+    "Frailty",
+    "Physical Activity",
+    "Sarcopenia"
+  ],
+  "formacion_academica": [
+    "2010, Médico, Universidad Antonio Narino - Bogotá D.C.",
+    "2018, Especialista en Geriatria, Pontificia Universidad Javeriana - Bogotá"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Microbes and ageing beyond the gut: the oral microbiome and frailty, sarcopenia and neurocognitive disorders in the elderly-a scoping review protocol",
+      "fecha": "2026-1-28",
+      "enlace": "https://doi.org/https://doi.org/10.1136/bmjopen-2025-106590"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Geriatric Syndromes and Mortality Among Hospitalized Older Adults",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1001/jamanetworkopen.2025.55740"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Memory trajectories in lonely individuals in Europe: an analysis of the Survey of Health, Aging, and Retirement in Europe (SHARE)",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1080/13607863.2026.2624569"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The functional continuum and hospital-associated functional decline in an Acute Geriatric Unit",
+      "fecha": "2025-3-1",
+      "enlace": "https://doi.org/10.1016/j.regg.2024.101564"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Assessment and management of frailty in individuals living with dementia: expert recommendations for clinical practice",
+      "fecha": "2025-12-27",
+      "enlace": "https://doi.org/10.1016/j.lanhl.2024.100666"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effects of Sarcopenia on Patient Outcomes in Gastrointestinal Cancer: An Umbrella Review of Published Meta-Analyses",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/10.1007/s12029-025-01290-0"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Falls, hospitalizations, and poor self-rated health in older people with diabetes and frailty: a secondary analysis of SABE-Colombia",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1186/s12877-025-06077-3"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Improving aging-related frailty status among older adults: Results of a nutrition-focused program",
+      "fecha": "2025-12-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.nutos.2025.08.010"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "C-reactive protein predicts functional decline in older adults newly diagnosed with dementia: A 5-year follow-up study",
+      "fecha": "2025-11-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/j.regg.2025.101722"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Hacia la formalización de programas para la atención quirúrgica integral del paciente anciano",
+      "fecha": "2025-1-8",
+      "enlace": "https://doi.org/10.30944/20117582.2562"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Comparative outcomes of endodontically treated teeth versus dental implant-supported prostheses: a systematic review",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.2340/aos.v84.43871"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Frailty and Health Outcomes in People 65 Years or Older Living With Dementia: A Systematic Review of the Literature",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1111/jgs.70190"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Lewy Body Dementia Research in Latin America: A Scoping Review",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1002/mdc3.70059"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Temporal muscle thickness predicts change in nutritional markers in individuals at risk of dementia: Insights from a 24-week longitudinal study",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.1016/j.jarlif.2025.100023"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Prevalence of self-reported swallowing difficulties and associated factors among older Colombians",
+      "fecha": "2024-8-5",
+      "enlace": "https://doi.org/10.53886/gga.e0000100_EN"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Efficacy of Nonpharmacological Interventions in Cognitive Impairment: Systematic Review And Network Meta-Analysis",
+      "fecha": "2024-7-8",
+      "enlace": "https://doi.org/10.1016/j.jagp.2024.06.012"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Lymph Node Dissection of Choice in Older Adult Patients with Gastric Cancer: A Systematic Review and Meta-Analysis",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.3390/jcm13247678"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Outcomes after laparoscopic cholecystectomy in patients older than 80 years: two-years follow-up",
+      "fecha": "2024-12-1",
+      "enlace": "https://doi.org/10.1186/s12893-024-02383-6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Unveiling a hidden burden: exploring sarcopenia in hospitalized older patients through concordance and cluster analysis",
+      "fecha": "2024-10-30",
+      "enlace": "https://doi.org/10.1186/s12877-024-05322-5"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Valor clínico de las escalas Hospital Admission Risk Profile (HARP) e Identification of Seniors at Risk (ISAR) para predecir el deterioro funcional asociado al ingreso hospitalario en una unidad geriátrica de agudos en Colombia",
+      "fecha": "2023-5-16",
+      "enlace": "https://doi.org/10.25100/cm.v54i1.5304"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Oral health and self-rated health in community-dwelling older adults in Colombia",
+      "fecha": "2023-12-1",
+      "enlace": "https://doi.org/10.1186/s12903-023-03401-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Protocol of the MOVI-ageing randomized controlled trial: a home-based e-Health intervention of cognitively demanding exercise for the improvement of cardiorespiratory fitness and cognitive function in older individuals",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.3389/fpubh.2023.1298316"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A nutritionally focused program for community-living older adults resulted in improved health and well-being",
+      "fecha": "2022-7-1",
+      "enlace": "https://doi.org/10.1016/j.clnu.2022.05.003"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Use of a nutrition-focused quality improvement program for community-living older adults at malnutrition risk is associated with better nutritional outcomes",
+      "fecha": "2022-4-1",
+      "enlace": "https://doi.org/10.1016/j.clnesp.2022.01.032"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effect of multicomponent exercise in cognitive impairment: a systematic review and meta-analysis",
+      "fecha": "2022-12-1",
+      "enlace": "https://doi.org/10.1186/s12877-022-03302-1"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Nutrition-Focused Care for Community-Living Adults: Healthcare Utilization and Economic Benefits",
+      "fecha": "2022-11-1",
+      "enlace": "https://doi.org/10.1016/j.vhri.2022.08.005"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Delirium prevalence in a Colombian hospital, association with geriatric syndromes and complications during hospitalization",
+      "fecha": "2021-3-1",
+      "enlace": "https://doi.org/10.1016/j.regg.2020.10.007"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Body mass index, performance on activities of daily living and cognition: analysis in two different populations",
+      "fecha": "2021-12-1",
+      "enlace": "https://doi.org/10.1186/s12877-021-02127-8"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Association of Malnutrition with Functional and Cognitive Trajectories in People Living with Dementia: A Five-Year Follow-Up Study",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.3233/JAD-200961"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Complicaciones en una unidad geriátrica",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.7705/biomedica.5664"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effect of physical activity on cognitive domains in dementia and mild cognitive impairment: overview of systematic reviews and meta-analyses",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.1080/13607863.2020.1839862"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Validation of a self-implemented Walkway system for gait speed measurement in usual clinical care",
+      "fecha": "2020-3-1",
+      "enlace": "https://doi.org/10.1016/j.hlpt.2019.11.006"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Normative Values for the Short Physical Performance Battery (SPPB) and Their Association With Anthropometric Variables in Older Colombian Adults. The SABE Study, 2015",
+      "fecha": "2020-2-20",
+      "enlace": "https://doi.org/10.3389/fmed.2020.00052"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Metabolic Syndrome and Its Associated Factors in Older Adults: A Secondary Analysis of SABE Colombia in 2015",
+      "fecha": "2020-10-1",
+      "enlace": "https://doi.org/10.1089/met.2019.0066"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Hospital-associated functional decline and possible interventions based on physical activity, a review of the literature",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.18176/ARCHMEDDEPORTE.00018"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Lymphopenia and risk of nosocomial infections in elderly in a health institution of Bogotá, Colombia. Cases and controls study",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.22354/in.v24i3.860"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Gait speed moderates the adverse effect of obesity on dependency in older Colombian adult",
+      "fecha": "2019-11-1",
+      "enlace": "https://doi.org/10.1016/j.exger.2019.110732"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Gait speed as a mediator of the effect of sarcopenia on dependency in activities of daily living",
+      "fecha": "2019-10-1",
+      "enlace": "https://doi.org/10.1002/jcsm.12444"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Factors associated with in-hospital complications in the elderly subjected to hip fracture surgery",
+      "fecha": "2018-5-1",
+      "enlace": "https://doi.org/10.1016/j.regg.2017.06.004"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Oropharyngeal dysphagia in older adults: The well-known tale",
+      "fecha": "2017-6-1",
+      "enlace": "https://doi.org/10.1111/ggi.13012"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Statin and risk of falls in the elderly: A sytematic review of the literature",
+      "fecha": "2017-11-1",
+      "enlace": "https://doi.org/10.1016/j.regg.2017.03.005"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Disfagia sarcopénica",
+      "fecha": "2016-1-1",
+      "enlace": "https://doi.org/10.22516/25007440.117"
+    }
+  ],
+  "total_publicaciones": 42,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Capacidad predictiva de la volumetría de la musculatura temporal sobre la mortalidad intrahospitalaria en personas mayores de 60 años hospitalizados por Ataque Cerebro Vascular de origen isquémico",
+      "fecha": "2023-06-01 - 2027-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4993f902-9546-48e6-81fc-03150714a081"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Proyecto CHANGE: Validación de un modelo de evaluación hospitalaria para adultos mayores de una red multicéntrica de atención multidimensional",
+      "fecha": "2023-08-01 - 2026-12-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F255aa7ef-a333-4dda-8793-02286de370d7"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Resultados de la implementación de un modelo de atención de co-manejo entre cirugía general y geriatría en los pacientes ≥80 años que se les realizó procedimiento quirúrgico abdominal",
+      "fecha": "2025-10-01 - 2026-10-01",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F3edcc80e-b9cf-4fc4-bee7-0ad56b53340d"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0001-8260-9108"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=oNL46LkAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/luis-carlos-venegas-sanabria/"
+    ],
+    "scopus_id": [
+      "https://www.scopus.com/authid/detail.uri?authorId=57193430099#"
+    ]
+  },
+  "id": "luis-carlos-venegas-sanabria",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor principal de carrera"
+}

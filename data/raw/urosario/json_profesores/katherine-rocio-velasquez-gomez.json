@@ -1,0 +1,62 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/katherine-rocio-velasquez-gomez",
+  "nombre": "Katherine Velásquez-Gómez",
+  "cargo_principal": "Profesor auxiliar de carrera",
+  "email": "katherine.velasquez@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3357",
+  "imagen": "https://research-hub.urosario.edu.co/file/n19972/Captura+de+pantalla+2026-03-24+104333.png",
+  "afiliaciones": [
+    "Profesor auxiliar de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario",
+    "Investigador - Grupo de Investigación Educación Médica y en Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=56960061000",
+    "google_scholar": "https://scholar.google.com/citations?user=tigAlXkAAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/4c4dd140-56cf-418e-acdd-c3f2a9b04825",
+    "orcid": "http://orcid.org/0000-0002-3229-1813"
+  },
+  "areas_investigacion": [
+    "Administración en salud",
+    "Educación universitaria",
+    "Fonoaudiología",
+    "Medicina"
+  ],
+  "formacion_academica": [
+    "2012, Fonoaudiologo, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "2016, Magíster en Administración en Salud, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Patterns of stuttering comparing two languages: A case report",
+      "fecha": "2015-1-1",
+      "enlace": "https://doi.org/10.12804/revsalud13.03.2015.09"
+    }
+  ],
+  "total_publicaciones": 1,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "¿Cambia el modelo pedagógico tras la implementación de una reforma curricular en un programa de medicina?",
+      "fecha": "2017-03-01 - 2018-03-03",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F16a6ad30-4f4c-44fa-97a2-ac6bfe861317"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "http://orcid.org/0000-0002-3229-1813"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=tigAlXkAAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/4c4dd140-56cf-418e-acdd-c3f2a9b04825"
+    ],
+    "scopus_id": [
+      "56960061000"
+    ]
+  },
+  "id": "katherine-rocio-velasquez-gomez",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor auxiliar de carrera"
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/sandra-esperanza-velasco-forero",
+  "nombre": "",
+  "cargo_principal": "Profesor auxiliar de carrera",
+  "email": "sandra.velasco@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n6434/Sandra+velasco.jpg",
+  "afiliaciones": [
+    "Profesor auxiliar de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57208888851",
+    "google_scholar": "https://scholar.google.com/citations?user=drz3ePUAAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/sandra-esperanza-velasco-forero",
+    "orcid": "https://orcid.org/0000-0002-8376-2443"
+  },
+  "areas_investigacion": [
+    "Physical therapy",
+    "Rehabilitation of Amputated",
+    "University Teaching",
+    "Wheelchair prescription"
+  ],
+  "perfil_profesional": "Fisioterapeuta con especialización en Administración Hospitalaria y con especialización y maestría en Educación para Profesionales de la Salud, con sólida formación en fisiocinética humana y trayectoria consolidada en el ámbito de la educación superior. Posee experiencia significativa tanto en docencia como en gestión y administración universitaria, liderando procesos clave asociados a la calidad académica, incluyendo certificaciones institucionales y registros calificados. Su ejercicio docente se ha centrado en la enseñanza teórico-práctica de asignaturas del área osteomuscular, neurológica, el abordaje del paciente amputado y el uso de tecnologías de asistencia, promoviendo en los estudiantes la adquisición de competencias clínicas, éticas y humanas para una formación integral. Se caracteriza por establecer relaciones interpersonales empáticas y efectivas, con habilidades para el liderazgo, la toma de decisiones y el trabajo colaborativo con una alta capacidad de aprendizaje y adaptación, cualidades que le permiten contribuir activamente al mejoramiento continuo de los procesos formativos y administrativos en contextos de educación superior.",
+  "formacion_academica": [
+    "1992, Fisioterapeuta, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C.",
+    "1999, Especialista en Administración Hospitalaria, Universidad Ean - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Training physiotherapy students in basic wheelchair provision. Experiences at two universities in Colombia",
+      "fecha": "2024-4-22",
+      "enlace": "https://doi.org/10.1080/17483107.2024.2321269"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Post-pandemic face-to-face learning environments for undergraduate students: A scoping review protocol",
+      "fecha": "2024-11-13",
+      "enlace": "https://doi.org/10.1371/journal.pone.0309932"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Undergraduate physiotherapy students’ basic wheelchair provision knowledge: a pilot study in two universities in Colombia",
+      "fecha": "2020-4-2",
+      "enlace": "https://doi.org/10.1080/17483107.2019.1580776"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "“Analgesia Perioperatoria y Dolor Crónico Postquirúrgico”",
+      "fecha": "2015-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/display/f74b9231-ee19-4abe-b062-41a1e907dece"
+    }
+  ],
+  "total_publicaciones": 4,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Experiencias en la formación para el suministro básico de sillas de ruedas: Universidad del Rosario y Universidad CES.",
+      "fecha": "2021-12-15 - 2022-11-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/c82d0e31-9d11-42d8-aed6-f4ea6a4596be"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Post-pandemic face-to-face learning environments in undergraduate students: a scoping review protocol.",
+      "fecha": "2023-06-30 - 2024-07-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F4a39971b-681b-49a4-8c6f-251428fcad3b"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Autoevaluación del conocimiento en suministro de silla de ruedas básico de los estudiantes de último año de la Facultad de Fisioterapia\" CES/UR",
+      "fecha": "2017-07-01 - 2018-12-14",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F2bb703ca-cef5-416b-981e-994c613525ca"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0000-0002-8376-2443"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=drz3ePUAAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/sandra-esperanza-velasco-forero"
+    ],
+    "scopus_id": [
+      "57208888851"
+    ]
+  },
+  "id": "sandra-esperanza-velasco-forero",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor auxiliar de carrera"
+}

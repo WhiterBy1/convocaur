@@ -1,0 +1,60 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/mayra-alejandra-saenz-amaguaya",
+  "nombre": "",
+  "cargo_principal": "Profesor principal de carrera",
+  "email": "mayra.saenz@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n9684/Mayra+Alejandra+Saenz.JPG",
+  "afiliaciones": [
+    "Profesor principal de carrera - Facultad de Economía - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57190816975",
+    "google_scholar": "https://scholar.google.com/citations?user=n_ebO1gAAAAJ&hl=es&oi=sra",
+    "pure": "https://pure.urosario.edu.co/en/persons/mayra-alejandra-saenz-amaguaya/",
+    "orcid": "https://orcid.org/0009-0006-5634-8550"
+  },
+  "areas_investigacion": [
+    "Ageing",
+    "Demographic economics",
+    "Household economics",
+    "Inequality",
+    "Nutrition",
+    "Poverty"
+  ],
+  "perfil_profesional": "Mayra Sáenz is an Assistant Professor in the Department of Economics at Universidad del Rosario in Colombia. She holds a Ph.D. in Agricultural and Applied Economics, with a minor in Gender Relations in International Development (GRID), from the University of Illinois at Urbana-Champaign (UIUC). Her research interests include household economics, demographic economics, poverty, inequality, aging, and nutrition, with a focus on exploring the effects of public policy, natural hazards, and family structures on individuals' well-being.",
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Poverty, vulnerability, and the middle class in Latin America",
+      "fecha": "2016-12-1",
+      "enlace": "https://doi.org/10.1007/s40503-016-0034-1"
+    }
+  ],
+  "total_publicaciones": 1,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Dinámicas familiares y bienestar en América Latina: evidencia sobre niñez, envejecimiento y políticas públicas",
+      "fecha": "2026-04-13 - 2027-10-13",
+      "enlace": "https://research-hub.urosario.edu.co/display/d1327603-99da-4f7e-bb4f-9f2a88ab10a4"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0006-5634-8550"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=n_ebO1gAAAAJ&hl=es&oi=sra"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/mayra-alejandra-saenz-amaguaya/"
+    ],
+    "scopus_id": [
+      "57190816975"
+    ]
+  },
+  "id": "mayra-alejandra-saenz-amaguaya",
+  "facultad_csv": "Facultad de Economía",
+  "cargo_csv": "Profesor principal de carrera"
+}

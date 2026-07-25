@@ -1,0 +1,46 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/juan-camilo-casadiego-mora",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas ",
+  "email": "juanc.casadiego@urosario.edu.co",
+  "telefono": "",
+  "imagen": "",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000154542",
+    "orcid": "https://orcid.org/0000-0002-5900-3287"
+  },
+  "areas_investigacion": [
+    "Medicina de urgencias"
+  ],
+  "perfil_profesional": "Médico urgenciólogo con una sólida formación académica y experiencia profesional en la atención de emergencias médicas. Graduado como médico general de la Universidad Nacional de Colombia especializado en medicina de urgencias en la Pontificia Universidad Javeriana, lo que le ha permitido desarrollar habilidades avanzadas para manejar situaciones críticas y urgentes en el entorno hospitalario.Actualmente trabaja en la Clínica San Rafael, donde forma parte de un equipo comprometido con ofrecer atención médica de alta calidad. Su experiencia en este entorno le ha permitido enfrentar una amplia variedad de casos clínicos, lo que ha enriquecido su práctica y le ha brindado la oportunidad de contribuir significativamente al bienestar de los pacientes.Además de su práctica clínica, tiene un fuerte interés en la docencia médica. Completó un diplomado en docencia, lo que le ha capacitado para formar a futuros profesionales de la salud. Su enfoque se centra en la enseñanza basada en casos clínicos reales y en el desarrollo de habilidades prácticas que preparan a los estudiantes para los desafíos del campo médico.Sus intereses académicos incluyen la investigación en protocolos de atención en urgencias y el desarrollo de estrategias educativas innovadoras para mejorar la formación médica. Está comprometido con la mejora continua y el aprendizaje a lo largo de su carrera, buscando siempre integrar nuevas tecnologías y enfoques en su práctica diaria para optimizar los resultados clínicos y educativos.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000154542"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-5900-3287"
+    ]
+  },
+  "id": "juan-camilo-casadiego-mora",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000154542",
+    "cod_rh": "0000154542",
+    "datos_generales": {
+      "Nombre": "Juan Camilo Casadiego Mora",
+      "Nombre en citaciones": "CASADIEGO MORA, JUAN CAMILO",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "identificadores_de_autor": [
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Otros Temas de Medicina Clínica"
+    ]
+  }
+}

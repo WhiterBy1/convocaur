@@ -1,0 +1,68 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/maria-fernanda-quintero-osorio",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "mariafernand.quint01@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n19266/1628862836732.jpg",
+  "afiliaciones": [
+    "Docente Clínico y de Prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001359308"
+  },
+  "areas_investigacion": [
+    "Ataque cardíaco",
+    "Cirrosis hepática",
+    "Fibrilación auricular",
+    "Hepatitis infecciosa",
+    "Medicina interna"
+  ],
+  "perfil_profesional": "María Fernanda Quintero Osorio es médica especialista en Medicina Interna de la Universidad Libre de Barranquilla. Su formación de pregrado en Medicina la realizó en la Universidad Tecnológica de Pereira, donde desarrolló las bases de su ejercicio clínico. Su trayectoria profesional se ha centrado en el ámbito de la medicina interna, con énfasis en el manejo de pacientes hospitalizados y condiciones médicas complejas. Durante su especialización, investigó sobre la utilidad de las escalas SOFA y qSOFA como predictores de riesgo de mortalidad en sepsis, demostrando su interés por la medicina basada en evidencia y el mejoramiento de los desenlaces clínicos. Ha participado en investigación colaborativa, contribuyendo a publicaciones en revistas especializadas indexadas. Su trabajo en el artículo \"Efectividad de los apósitos de plata en la prevención de la infección del sitio operatorio en heridas contaminadas\" refleja su capacidad para trabajar en equipo y su interés en temas relacionados con infecciones y prevención de complicaciones hospitalarias.",
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001359308"
+    ]
+  },
+  "id": "maria-fernanda-quintero-osorio",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001359308",
+    "cod_rh": "0001359308",
+    "datos_generales": {
+      "Nombre": "MARIA FERNANDA QUINTERO OSORIO",
+      "Nombre en citaciones": "QUINTERO OSORIO, MARIA FERNANDA",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Especialización Universidad Nuestra Señora del Rosario de Bogotá ESPECIALIZACION EN EDUCACION PARA PROFESIONALES DELA SALUD Juniode2023 - Agostode 2024",
+      "Especialización UNIVERSIDAD LIBRE-SEDE BARRANQUILLA Especializacion Medicina Interna Juniode2018 - Agostode 2021 SOFA y QSOFA riesgo de mortalidad en sepsis",
+      "Pregrado/Universitario UNIVERSIDAD TECNOLÓGICA DE PEREIRA MEDICINA Juliode2006 - Diciembrede 2012"
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Medicina Clínica -- Medicina General e Interna"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: RODOLFO ADRIAN CABRALES VEGA, RAFAEL HERNANDO BERNAL COBO, MARIA FERNANDA QUINTERO OSORIO, JOSE WILLIAM MARTINEZ, \"Efectividad de los apósitos de plata en la prevención de la infección del sitio operatorio en heridas contaminadas\" . En: Colombia IATREIA ISSN: 0121-0793 ed: Universidad de Antioquia v. 27 fasc. p.247 - 254 ,2014, DOI: Palabras: Infección de Herida Operatoria, Plata,",
+        "titulo": "Efectividad de los apósitos de plata en la prevención de la infección del sitio operatorio en heridas contaminadas",
+        "doi": "Palabras:",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: MARIA FERNANDA QUINTERO OSORIO, JAIRO ROJANO RADA, MARIA CAROLINA ESCORCIA BUENDIA, DINNO ALBERTO FERNANDEZ CHICA, \"Predicción de mortalidad en sepsis: Aplicación de qSOFA en pacientes atendidos en una institución de Barranquilla\" . En: Colombia Revista Biociencias ISSN: 2390-0512 ed: v. 16 fasc. p.17 - 35 ,2021, DOI: 10.18041/2390-0512/biociencias.2.9653 Palabras: BIOMARCADORES, choque séptico, Sepsis, sofa,",
+        "titulo": "Predicción de mortalidad en sepsis: Aplicación de qSOFA en pacientes atendidos en una institución de Barranquilla",
+        "doi": "10.18041/2390-0512/biociencias.2.9653",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Caso clínico: MARIA FERNANDA QUINTERO OSORIO, CLAUDIA INES BIRCHENALL JIMENEZ, JESUS ARMANDO PERDOMO POLANIA, \"Pulmonary hemorrhage as a presentation of AL amyloidosis secondary to multiple myeloma: a case report\" . En: Egipto Bulletin Of The National Research Centre (Cairo) ISSN: 1110-0591 ed: v. 48 fasc. N/A p.1 - 8 ,2024, DOI: 10.1186/s42269-024-01173-7",
+        "titulo": "Pulmonary hemorrhage as a presentation of AL amyloidosis secondary to multiple myeloma: a case report",
+        "doi": "10.1186/s42269-024-01173-7",
+        "anio": "2024"
+      }
+    ]
+  }
+}

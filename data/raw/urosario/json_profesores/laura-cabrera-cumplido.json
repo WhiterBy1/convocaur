@@ -1,0 +1,53 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/laura-cabrera-cumplido",
+  "nombre": "",
+  "cargo_principal": "Docente clínico y de prácticas",
+  "email": "laura.cabrerac@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n9481/Captura.JPG",
+  "afiliaciones": [
+    "Docente clínico y de prácticas - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100176",
+    "orcid": "https://orcid.org/0009-0005-8395-9501"
+  },
+  "areas_investigacion": [
+    "Anestesia emergente",
+    "Anestesiología"
+  ],
+  "perfil_profesional": "Laura Cabrera Cumplido es especialista en Anestesiología de la Universidad del Rosario, donde desarrolló su trabajo de investigación sobre la concordancia en la valoración y diagnóstico del delirium de emergencia con la escala Pediatric Anesthesia Emergence Delirium en un centro de cuarto nivel en Bogotá.",
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Adaptación cultural de la escala PAED para el diagnóstico del delirium de emergencia pediátrico en Colombia"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100176"
+    ],
+    "orcid": [
+      "https://orcid.org/0009-0005-8395-9501"
+    ]
+  },
+  "id": "laura-cabrera-cumplido",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Docente clínico y de prácticas",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002100176",
+    "cod_rh": "0002100176",
+    "datos_generales": {
+      "Nombre": "Laura Cabrera Cumplido",
+      "Nombre en citaciones": "laura cabrera",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Especialidad Médica COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO ESPECIALIZACION EN ANESTESIOLOGIA Juliode2019 - Octubrede 2022 Concordancia en la valoración y el diagnóstico del delirium de emergencia con la escala ¿Pediatric Anesthesia Emergence Delirium¿ en un centro de cuarto nivel en Bogotá D.C."
+    ],
+    "areas_actuacion": [
+      "Ciencias Médicas y de la Salud -- Ciencias de la Salud -- Ciencias del Cuidado de la Salud y Servicios (Administración de Hospitales, Financiamiento)"
+    ]
+  }
+}

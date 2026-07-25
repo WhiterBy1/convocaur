@@ -1,0 +1,40 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/hugo-alexander-martinez-gallego",
+  "nombre": "",
+  "cargo_principal": "Profesor cátedra posgrado",
+  "email": "hugoal.martinez@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n12122/hugo1.jpg",
+  "afiliaciones": [
+    "Profesor cátedra posgrado - Maestría en Gestión Estratégica de la Información e Innovación Digital - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "orcid": " https://orcid.org/0009-0009-1789-8260"
+  },
+  "areas_investigacion": [
+    "Machine Learning",
+    "Marketing Analytics",
+    "Marketing Digital",
+    "Media"
+  ],
+  "perfil_profesional": "Amplia experiencia en diseño de planes de marketing y estrategias de comunicación integral, dirección de investigación cuantitativa en los principales estudios de la industria publicitaria de Colombia, énfasis en el manejo eficiente de recursos, diseño de herramientas de investigación de consumidor, manejo de Data Science descubriendo información en grandes cantidades de datos estructurados y no estructurados, utilizando métodos estadísticos, minería de datos y analítica predictiva, especialista en posicionamiento de marca y desarrollo de modelos econométricos ROI (retorno a la inversión). Magister de Mercadeo, Docente y Conferencista, Coach de Innovación y Facilitador de la metodología Lego Serious Play. Excelentes relaciones personales, liderazgo, adaptabilidad al cambio, al aprendizaje continuo, persistente y orientado a resultados",
+  "formacion_academica": [
+    "1999, Estadistico, Universidad Nacional de Colombia - Bogotá D.C.",
+    "2011, Magíster en Mercadeo, Universidad de los Andes - Bogotá D.C.",
+    "2021, Magíster en Analítica Para La Inteligencia de Negocios, Pontificia Universidad Javeriana - Bogotá"
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Del dato al negocio: diseño de un marco de gestión estratégica de datos para el canal digital de Mibanco Colombia"
+    }
+  ],
+  "identidad": {
+    "orcid": [
+      "https://orcid.org/0009-0009-1789-8260"
+    ]
+  },
+  "id": "hugo-alexander-martinez-gallego",
+  "facultad_csv": "Escuela de Ciencias e Ingeniería",
+  "cargo_csv": "Profesor cátedra posgrado"
+}

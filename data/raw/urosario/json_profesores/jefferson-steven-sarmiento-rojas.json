@@ -1,0 +1,170 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jefferson-steven-sarmiento-rojas",
+  "nombre": "",
+  "cargo_principal": "Profesor de docencia y práctica ",
+  "email": "jefferson.sarmiento@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5977/sarmiento-jefferson.jfif",
+  "afiliaciones": [
+    "Profesor de docencia y práctica - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario",
+    "Profesor docencia - Grupo de Investigación Vida e Inteligencia Artificial - GIVIA - Universidad del Rosario"
+  ],
+  "enlaces_externos": {},
+  "areas_investigacion": [
+    "Ingeniería electrónica"
+  ],
+  "formacion_academica": [
+    "2014, Licenciado en Electrónica, Universidad Pedagogica Nacional - Bogotá D.C.",
+    "2017, Magíster en Ingeniería Electrónica, Universidad Santo Tomas - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "How can technology assist occupational voice users?",
+      "fecha": "2020-12-11",
+      "enlace": "https://doi.org/10.1080/17483107.2020.1855264"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Desarrollo de un sistema de localización en tiempo real enfocado a la seguridad de pacientes bajo un entorno hospitalario.",
+      "fecha": "2022-10-27",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0b29ea7b-e76b-4769-8382-ed1955a8ccac"
+    }
+  ],
+  "total_publicaciones": 2,
+  "proyectos": [
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Tecnología para la voz ocupacional Etapa 1 - Revisión sistemática de literatura",
+      "fecha": "2018-10-15 - 2019-10-14",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F08e65cb1-d041-4652-8a00-e47ca9a8da68"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Análisis metodológico para la renovación y financiación de equipos biomédicos de institución prestadora de salud de alta complejidad"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Aplicación tecnológica para la rehabilitación cognitiva de adolescentes con bulimia nerviosa"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Cuidado neonatal mediante internet de las cosas médicas: validación y evaluación de un sistema de monitoreo en incubadoras"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de aplicación móvil para el registro y seguimiento de equipos biomédicos en la Clínica Colsubsidio Calle 100 por medio de Internet de las cosas."
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de aplicativo para el mejoramiento de la gestión de mantenimientos preventivos y calibraciones en el Centro Policlínico del Olaya"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de parametros y evaluación de condiciones de habilitación en infraestructura y dotación en los laboratorios de investigación en la Universidad del Rosario"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de un dispositivo inteligente de asistencia para la administración de medicamentos en adultos mayores: un estudio piloto"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de un sofware de evaluación técnica, clínica, económica y normativa para la adquisición de tecnología biomédica en el Hospital Universitario San Ignacio"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de una aplicación móvil implementada en el área de ingeniería clínica para la gestión de las hojas de vida de los equipos médicos en la unidad de cuidados intensivos (prueba piloto)"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de una aplicación móvil para el área de ingeniería biomédica que permite agilizar y mejorar las rutinas de vigilancia activa"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño de criterios de asignación para monitores de signos vitales en los servicios de hospitalización y urgencias del Hospital Universitario Mayor- Méderi"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño de una aplicación móvil que permita la gestión oportuna de dispositivos biomédicos en el laboratorio de simulación clínica"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Diseño y simulación de un sistema IoT para la detección temprana de incendios forestales en los cerros de Santiago de Cali"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Establecer una herramienta para la adquisición de equipos biomédicos a partir del índice de obsolescencia en una institución de salud"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estrategia para la adquisición de desfibriladores basada en una evaluación integral de la tecnología"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estructuración de un método para la detección de glaucoma mediante reconocimiento de imágenes usando inteligencia artificial"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Estudio de viabilidad de asignación de recursos económicos con base en la depreciación de dispositivos médicos de riesgos IIA y IIB"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Evaluación del desarrollo y viabilidad de un sistema de detección de movimiento aplicable a pacientes de alto riesgo en caídas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Herramienta digital para la optimización de adquisición de información en procesos comerciales del área de customer service en Philips Colombiana"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de un sistema electrónico para la identificación de la frecuencia de cambios de posición durante sueño en sujetos sanos"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Implementación de un sistema embebido para la clasificación de fuentes de ruido ambiental urbano utilizando técnicas de TinyML en un entorno acústico de Bogotá"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Literary review of the state-of-the-art of local field potential signals, establishing their history and use in the detection of symptoms of parkinson’s disease"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Manual de capacitación para personal del área de ingeniería clínica de una institución prestadora de salud de alta complejidad"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Manual de gestión de la tecnología en la clínica Universidad de la Sabana, teniendo como referencia la resolución 3100 de 2019"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Modelos de analítica de datos aplicado a la Detección de Úlceras por Presión en Pacientes Hospitalizados"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Sistema para monitoreo y supervisión de variables y condiciones de funcionamiento en incubadoras neonatales a través de internet de las cosas IoT"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Validación de un dispositivo en la prevención de úlceras por presión en la unidad de cuidados intensivos de la Fundación Cardio Infantil"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Validación de un dispositivo que establece y notifica la frecuencia de movimiento para prevenir úlceras por presión y caídas"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Validación de un sistema IoT con aprendizaje federado y TinyML para el monitoreo postural en un entorno de cuidado simulado"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Fondo de Innovación Pedagógica",
+      "fecha": "2021"
+    }
+  ],
+  "id": "jefferson-steven-sarmiento-rojas",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor de docencia y práctica"
+}

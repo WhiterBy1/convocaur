@@ -1,0 +1,701 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/jonnier-sebastian-jaramillo-isaza",
+  "nombre": "Sebastian Jaramillo-Isaza",
+  "cargo_principal": "Director programa de Ingeniería Biomédica",
+  "email": "sebastian.jaramillo@urosario.edu.co",
+  "telefono": "",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5403/jaramillo+isaza.jpg",
+  "afiliaciones": [
+    "Investigador - Grupo de Investigación Vida e Inteligencia Artificial - GIVIA - Universidad del Rosario",
+    "Director programa de Ingeniería Biomédica - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario",
+    "Profesor principal de carrera - Escuela de Medicina y Ciencias de la Salud - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=24821999400",
+    "google_scholar": "https://scholar.google.com/citations?user=B4Od9t0AAAAJ",
+    "pure": "https://pure.urosario.edu.co/en/persons/sebasti%C3%A1n-jaramillo-isaza/",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000100219",
+    "orcid": "https://orcid.org/0000-0002-2134-772X"
+  },
+  "areas_investigacion": [
+    "Assistive Technologies",
+    "Biomechanics",
+    "Neuroengineering",
+    "Rehabilitation"
+  ],
+  "perfil_profesional": "After finishing my Bachelors of Science in Bio engineering, I had the opportunity of moving to France, where I earned a Master’s degree in Mechanics and Materials. Afterwards, I pursued a PhD in Biomechanics, Bioengineering and Biomaterials. Lastly, I did a Postdoc in Nanomechanics. After my Postdoc, I decided to moved back to Colombia to teach and share the knowledge I acquired through my studies abroad. As a researcher and assistant professor at the Antonio Nariño University, I have the possibility to research many topics of biomedical engineering such as biomechanics, rehabilitation and neuro-engineering. As well as the possibility to give back to the students at the university and teach them the knowledge I learned during my research. I'm fluent in Spanish, French and English. Looking for opportunities to continue learning about biomedical World and improving my knowledge in this field.",
+  "formacion_academica": [
+    "2011, Bioingeniero, Universidad de Antioquia - Medellin",
+    "2011, Master Sciences, Technologies, Sante Specialiti Mecanique, Materiaux, Structures, Procedes, Ecole Nationale Dingénieurs de Metz",
+    "2015, Doctor en Bioingeniería, Université de Technologie de Compiègne"
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Atomic force microscopy lateral force calibration using a V-shape scratch made by a nanoindenter",
+      "fecha": "2025-2-1",
+      "enlace": "https://doi.org/10.1063/5.0239444"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Continuous reach-to-grasp motion recognition based on an extreme learning machine algorithm using sEMG signals",
+      "fecha": "2024-7-2",
+      "enlace": "https://doi.org/10.1007/s13246-024-01454-5"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Evaluation of temporal, spatial and spectral filtering in CSP-based methods for decoding pedaling-based motor tasks using EEG signals",
+      "fecha": "2024-5-1",
+      "enlace": "https://doi.org/10.1088/2057-1976/ad2e35"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "On the use of power-based connectivity between EEG and sEMG signals for three-weight classification during object manipulation tasks",
+      "fecha": "2024-3-7",
+      "enlace": "https://doi.org/10.1007/s42600-023-00333-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Computational Approaches in Bioengineering: Volume 1: Computational Approaches in Biotechnology and Bioinformatics",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1201/9781003354437"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Computational Approaches in Bioengineering: Volume 2: Computational Approaches in Biomaterials and Biomedical Engineering Applications",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1201/9781032699882"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Sailboat navigation control system based on spiking neural networks",
+      "fecha": "2023-8-29",
+      "enlace": "https://doi.org/10.1007/s11768-023-00150-1"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "EEG motor imagery classification using deep learning approaches in naïve BCI users",
+      "fecha": "2023-7-1",
+      "enlace": "https://doi.org/10.1088/2057-1976/acde82"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Doxorubicin Interaction with Lipid Monolayers Leads to Decreased Membrane Stiffness when Experiencing Compression-Expansion Dynamics",
+      "fecha": "2023-6-27",
+      "enlace": "https://doi.org/10.1021/acs.langmuir.3c00250"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effects of the concentration level, eye fatigue and coffee consumption on the performance of a BCI system based on visual ERP-P300",
+      "fecha": "2022-12-1",
+      "enlace": "https://doi.org/10.1016/j.jneumeth.2022.109722"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Comparison of the muscular electrical activity and hip–knee joint amplitude during bent-knee sit-up movement and abdominal exercises using a five-minute shaper device: a case study on an unconditioned subject",
+      "fecha": "2021-12-1",
+      "enlace": "https://doi.org/10.7752/jpes.2021.06483"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "An Open edX extension for parallel programming assignments with automatic configurable grading",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.3991/IJEP.V11I4.20097"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Evaluation of Platelet Rich Fibrin Obtained Using Different Centrifugation Parameters as a Tool for Regenerative Medicine",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.7754/Clin.Lab.2021.210226"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Tackling the challenges of FASTQ referential compression",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1177/1177932218821373"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Performance comparison of sequential and parallel compression applications for DNA raw data",
+      "fecha": "2016-12-1",
+      "enlace": "https://doi.org/10.1007/s11227-016-1753-4"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "HETEROGENEITY of TIME-DEPENDENT MECHANICAL PROPERTIES of HUMAN CORTICAL BONE at the MICRO SCALE",
+      "fecha": "2015-12-1",
+      "enlace": "https://doi.org/10.1142/S0218957715500177"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Effects of bone density in the time-dependent mechanical properties of human cortical bone by nanoindentation",
+      "fecha": "2014-8-1",
+      "enlace": "https://doi.org/10.1080/10255842.2014.931090"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Time-dependent mechanical properties of rat femoral cortical bone by nanoindentation: An age-related study",
+      "fecha": "2014-5-28",
+      "enlace": "https://doi.org/10.1557/jmr.2014.104"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "DeSyRe: On-demand system reliability",
+      "fecha": "2013-1-1",
+      "enlace": "https://doi.org/10.1016/j.micpro.2013.08.008"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The SARC architecture",
+      "fecha": "2010-9-1",
+      "enlace": "https://doi.org/10.1109/MM.2010.79"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Artificial Intelligence Applied to Neuromotor Rehabilitation Engineering Advances and Challenges",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1201/9781032699882-10"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Emerging Computational Methods Applied to BCI Systems for Restoring Motor Functions",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1201/9781032699882-11"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Enhancing Telerehabilitation Using Wearable Sensors and AI-Based Machine Learning Methods",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1201/9781032699882-12"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "The brain response to coffee consumption",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1016/B978-0-443-13868-3.00009-0"
+    },
+    {
+      "tipo": "capítulo",
+      "titulo": "Self-Organized Maps for the Analysis of the Biomechanical Response of the Knee Joint During Squat-Like Movements in Subjects Without Physical Conditioning",
+      "fecha": "2019-10-18",
+      "enlace": "https://doi.org/10.1007/978-3-030-31019-6_29"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Calibration of Deterministic Errors in Accelerometer Data of Commercial IMU System",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.1109/SIPAIM67325.2025.11283232"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "EEG-Based Classification of Passive Pedaling Speeds Using SVM: A Promising Approach for Enhancing Lower Limb Rehabilitation Technologies",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-63848-0_1"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Enhancing Classification of Grasping Tasks Using Hybrid EEG-sEMG Features",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-49407-9_19"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Estimation of Pathological Gait Asymmetry of Lower-Limb Prosthetic Users at High and Low Walking Speeds",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-49407-9_4"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Evaluating Lanthanide-Doped Carbon Dots for Sensing Glucose and pH Within the Concentration Range of Clinical Interest",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1109/CIIBBI63846.2024.10785007"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "On the Comparison of Multilayer Perceptron and Extreme Learning Machine for Pedaling Recognition Using EEG",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-031-48415-5_2"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Analysis of EEG Rhythms during Four-Direction First-Person Reach-to-Grasp Kinesthetic Motor Imagery Tasks from the Same Limb",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.1109/ColBioCAS59270.2023.10280841"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Detection of Pedaling Tasks through EEG Using Extreme Learning Machine for Lower-Limb Rehabilitation Brain-Computer Interfaces",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.1109/ColCACI59285.2023.10225911"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Estimation of Limbs Angles Amplitudes During the Use of the Five Minute Shaper Device Using Artificial Neural Networks",
+      "fecha": "2021-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-030-86702-7_19"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Embedded cluster platform for a remote parallel programming lab",
+      "fecha": "2020-4-1",
+      "enlace": "https://doi.org/10.1109/EDUCON45650.2020.9125270"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Exploring the Facial and Neurological Activation Due to Predetermined Visual Stimulus Using Kinect and Emotiv Sensors",
+      "fecha": "2020-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-030-61834-6_23"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Is It Possible to Correlate Age Related Time-Dependent Micro Mechanical Properties of Cortical Bone and Its Physico-Chemical Data?",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-030-31019-6_30"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "UdeAlignC: Fast alignment for the compression of DNA reads",
+      "fecha": "2018-9-14",
+      "enlace": "https://doi.org/10.1109/ColComCon.2018.8466336"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "DeSyRe: On-demand adaptive and reconfigurable fault-tolerant SoCs",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-319-05960-0_34"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "FPGA-based biophysically-meaningful modeling of olivocerebellar neurons",
+      "fecha": "2014-1-1",
+      "enlace": "https://doi.org/10.1145/2554688.2554790"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "HMMER performance model for multicore architectures",
+      "fecha": "2011-1-1",
+      "enlace": "https://doi.org/10.1109/DSD.2011.111"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Parametrizing multicore architectures for multiple sequence alignment",
+      "fecha": "2011-1-1",
+      "enlace": "https://doi.org/10.1145/2016604.2016642"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Scaling HMMER performance on multicore architectures",
+      "fecha": "2011-1-1",
+      "enlace": "https://doi.org/10.1109/CISIS.2011.102"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Scalability analysis of progressive alignment on a multicore",
+      "fecha": "2010-1-1",
+      "enlace": "https://doi.org/10.1109/CISIS.2010.149"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Preliminary analysis of the cell BE processor limitations for sequence alignment applications",
+      "fecha": "2008-1-1",
+      "enlace": "https://doi.org/10.1007/978-3-540-70550-5_7"
+    },
+    {
+      "tipo": "documento de conferencia",
+      "titulo": "Dynamic mechanical analysis of agarose-based biopolymers with potential use in regenerative medicine",
+      "fecha": "2022-1-1",
+      "enlace": "https://doi.org/10.1016/j.matpr.2021.07.435"
+    },
+    {
+      "tipo": "artículo editorial",
+      "titulo": "Preface",
+      "fecha": "2019-1-1",
+      "enlace": "https://doi.org/10.1039/9781782622031-FP007"
+    }
+  ],
+  "total_publicaciones": 47,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Evaluación de la funcionalidad de un sistema de monitoreo de cambios de movimiento en tiempo real en la prevención de caídas hospitalarias",
+      "fecha": "2024-07-01 - 2027-06-30",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F5bcbdd35-f4c0-4bad-b441-eab51677cfa4"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Diseño de una unidad de detección y cuantificación de analitos presentes en fluido biosintético simulador de orina basado en colorimetría e IoT",
+      "fecha": "2025-06-04 - 2026-06-19",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F609b0978-a314-43e3-bf0a-efccb2c18eac"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Adquisición y análisis de datos cinemáticos de la marcha a partir de sensórica y sistema markerless e inteligencia artificial",
+      "fecha": "2024-04-08 - 2025-12-19",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F40fd0809-df83-446b-9891-a34c9445fcf0"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Desarrollo de una herramienta digital para mejorar la gestión del mantenimiento de dispositivos médicos HPLC destinados a la medición de HbA1c"
+    },
+    {
+      "tipo": "Tutorías",
+      "titulo": "Detección de melanoma cutáneo a través de la regla ABCD usando algoritmos de aprendizaje profundo"
+    }
+  ],
+  "identidad": {
+    "linkedin": [
+      "https://www.linkedin.com/in/sebastian-jaramillo-isaza/"
+    ],
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000100219"
+    ],
+    "orcid": [
+      "https://orcid.org/0000-0002-2134-772X"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=B4Od9t0AAAAJ"
+    ],
+    "pure": [
+      "https://pure.urosario.edu.co/en/persons/sebasti%C3%A1n-jaramillo-isaza/"
+    ],
+    "scopus_id": [
+      "24821999400"
+    ]
+  },
+  "id": "jonnier-sebastian-jaramillo-isaza",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Director programa de Ingeniería Biomédica",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000100219",
+    "cod_rh": "0000100219",
+    "datos_generales": {
+      "nota": "Par evaluador reconocido por Minciencias.",
+      "Categoría": "Investigador Asociado (I) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Sebastian JARAMILLO ISAZA",
+      "Nombre en citaciones": "JARAMILLO ISAZA, SEBASTIAN",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Masculino"
+    },
+    "redes_sociales_acad_micas": [
+      "Google Scholar",
+      "ResearchGate",
+      "Linkedln"
+    ],
+    "identificadores_de_autor": [
+      "Autor ID (Scopus)",
+      "Open Researcher and Contributor ID (ORCID)"
+    ],
+    "formacion_academica": [
+      "Doctorado Sorbonne Université - Université de technologie de Compiègne Biomécanica Bioingénieria y Biomateriales Octubrede2011 - Noviembrede 2014 Caractérisation des propriétés mécaniques et morphologiques des tissues osseux par Nanoindentation et Microscopie à force atomique AFM",
+      "Maestría/Magister Ecole Nationale D'Ingénieurs de Metz - ENIM Master Recherche et Développement Septiembrede2010 - Juliode 2011 Simulation du comportement au choc thermique d'un implant en titane poreux",
+      "Pregrado/Universitario UNIVERSIDAD DE ANTIOQUIA BIOINGENIERIA Marzode2004 - Agostode 2010",
+      "Secundario Institucion Educativa Inem Jose Felix De Restrepo Enerode1997 - Diciembrede 2002"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración Servicio Nacional De Aprendizaje Atlantico CURSOS VIRTUALES Mayode2016 - Juniode 2016",
+      "Cursos de corta duración COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO DESARROLLO PROFESORAL Juniode2024 - Juniode 2024",
+      "Cursos de corta duración SERVICIO NACIONAL DE APRENDIZAJE SENA Salud Ocupacional Juniode2019 - Juliode 2019",
+      "Cursos de corta duración UNIVERSIDAD ANTONIO NARIÑO Eduación Septiembrede2018 - Noviembrede 2018",
+      "Cursos de corta duración UNIVERSIDAD ANTONIO NARIÑO Eduación Febrerode2019 - Abrilde 2019",
+      "Cursos de corta duración Superintendencia De Industria Y Comercio - S.I.C. Aula de Propiedad Intelectual Juliode2018 - Agostode 2018",
+      "Cursos de corta duración UNIVERSIDAD DE ANTIOQUIA Vicerrectoría de Investigación Abrilde2025 - Mayode 2025"
+    ],
+    "estancias_posdoctorales": [
+      "3D Motion Capture in elderly population diagnosed with Parkinson Disease (PD) under two different settings: laboratory based and home-like assessments Christian-Albrechts University zu Kiel Neurology Desde: Noviembre de 2018 Hasta: Diciembre de 2018 Protocolo para la estimación de parámetros cinemáticos en pacientes con Parkinson usando sensores inerciales",
+      "Postdoctorado en Nanomecanica y Nanotribologia Sorbonne Université - Université de technologie de Compiègne Nanotecnología y Nanotribología Desde: Septiembre de 2015 Hasta: Agosto de 2016 Détermination des propriétés mécaniques de membranes biologiques par AFM en mode circulaire"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Marzo de 2023 de",
+      "Universidad Antonio Nariño - Sede Bogotá - U.A.N. Dedicación: 40 horas Semanales Enero de 2018 Marzo de 2023 Actividades de administración - Otra actividad técnico-científica relevante - Cargo: Organizador UAN y miembro del Comité Científico Workshop on Engineering Applications WEA'19 Enero de 2019 Octubre de 2019 - Miembro de comisión - Cargo: Director comisión actualización programa de Maestría en Bioingeniería Agosto de 2018 Diciembre de 2018 - Miembro de comisión - Cargo: Director Visita de Acreditación Ingeniería Biomédica Noviembre de 2018 Noviembre de 2018 Actividades de docencia - Pregrado - Nombre del curso: Rehabilitación I Tecnologías de accesibilidad , 2 Enero 2020 Enero 2020 - Especialización - Nombre del curso: Proyecto II Desarrollo, 1 Agosto 2019 Diciembre 2019 - Pregrado - Nombre del curso: Biomecánica , 8 Agosto 2019 Diciembre 2019 - Pregrado - Nombre del curso: Biofísica , 6 Febrero 2018 Junio 2018 - Pregrado - Nombre del curso: Bioinstrumentación II: Imágenes Médicas , 2 Febrero 2018 Junio 2018 - Pregrado - Nombre del curso: Biofísica , 4 Agosto 2018 Noviembre 2018 - Pregrado - Nombre del curso: Biomecánica , 8 Agosto 2018 Noviembre 2018 - Pregrado - Nombre del curso: Biomecánica , 4 Febrero 2018 Junio 2018 - Pregrado - Nombre del curso: Rehabilitación II: Dispositivos de Asistencia , 3 Febrero 2018 Junio 2018 - Pregrado - Nombre del curso: Bioinstrumentación II: Imágenes Médicas , 2 Julio 2018 Julio 2018 Actividades de investigación - Pasantías - Titulo: 3D Motion Capture in elderly population diagnosed with Parkinson Disease (PD) under two different settings: laboratory based and home-like assessments Noviembre 2018 Diciembre 2018",
+      "Universidad Antonio Nariño - Sede Bogotá - U.A.N. Dedicación: 8 horas Semanales Enero de 2018 Agosto de 2018",
+      "UNIVERSIDAD ANTONIO NARIÑO Dedicación: 10 horas Semanales Enero de 2018 Agosto de 2018 Actividades de administración - Coordinador de programa - Cargo: Coordinador de la Especialización en Instrumentación Electrónica y Biomédica Enero de 2018 Agosto de 2018",
+      "UNIVERSIDAD PONTIFICIA BOLIVARIANA Dedicación: 40 horas Semanales Septiembre de 2016 Diciembre de 2016 Actividades de investigación - Investigación y Desarrollo - Titulo: Asistente de investigación en proyecto para el Desarrollo de nuevos agentes terapéuticos para el tratamiento de enfermedades de importancia en salud pública en Antioquia Septiembre 2016 Diciembre 2016",
+      "Sorbonne Université - Université de technologie de Compiègne Dedicación: 35 horas Semanales Septiembre de 2015 Agosto de 2016 Actividades de docencia - Pregrado - Nombre del curso: ELEMENTOS DE RESISTENCIA DE MATERIALES, 12 Octubre 2015 Febrero 2016 Actividades de investigación - Investigación y Desarrollo - Titulo: Investigador contractual para el proyecto de caracterización de modelos de membranas biomimeticas usando microscopia de fuerza atomica en modo circular Septiembre 2015 Agosto 2016 - Investigación y Desarrollo - Titulo: Investigador contractual para el proyecto de caracterización de modelos de membranas biomimeticas usando microscopia de fuerza atomica en modo circular Septiembre 2015 Agosto 2016",
+      "Sorbonne Université - Université de technologie de Compiègne Dedicación: 35 horas Semanales Octubre de 2014 Agosto de 2015 Actividades de docencia - Docencia/Enseñanza de Graduación - Nombre del curso: Nanomecánica de sistemas biologicos complejos, 10 Enero 2015 Enero 2015 - Pregrado - Nombre del curso: ELEMENTOS DE RESISTENCIA DE MATERIALES , 24 Octubre 2014 Junio 2015 Actividades de investigación - Investigación y Desarrollo - Titulo: ASISTENTE TEMPORAL DE INVESTIGACIÓN Y DOCENCIA Octubre 2015"
+    ],
+    "areas_actuacion": [
+      "Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica",
+      "Ciencias Médicas y de la Salud -- Biotecnología en Salud -- Biomateriales (Relacionados con Implantes, Dispositivos, Sensores)",
+      "Ciencias Médicas y de la Salud -- Biotecnología en Salud -- Biotecnología Relacionada con la Salud",
+      "Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      }
+    ],
+    "lineas_investigacion": [
+      "Tecnologías de Asistencia , Activa: Si",
+      "Biomecánica , Activa: Si",
+      "Nanomecanica, Activa: Si",
+      "Caracterización mecánica de materiales, Activa: No",
+      "Caracterización nanoscopica por AFM, Activa: Si",
+      "Materiales Biomimeticos , Activa: No",
+      "Modelización y simulación musculoesquletica, Activa: No",
+      "NeuroIngeniería , Activa: Si"
+    ],
+    "reconocimientos": [
+      "Nominación a mejor tesis doctoral ,Sorbonne Université - Université de technologie de Compiègne - Marzode 2015",
+      "Primer Puesto StartupWeekend 2018,Universidad Antonio Nariño - Sede Bogotá - U.A.N. - Septiembrede 2018",
+      "Ganador Startup Weekend Colombia 2018,Sikuani.Net S.A.S. - Octubrede 2018",
+      "Mejor docente programa Ingeniería Biomédica ,UNIVERSIDAD ANTONIO NARIÑO - Mayode 2019"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: SEBASTIAN JARAMILLO ISAZA, Winter School En Nanotecnología Aplicada en Ciencias de la Salud : Modulo Microscopía de Fuerza Atómica, Finalidad: . En: Colombia ,2021, ,UNIVERSIDAD NACIONAL DEL ROSARIO. participación: Docente , 1 semanas Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Prototipo de un dispositivo electrónico para el tratamiento analgésico y desinflamatorio de la artritis reumatoide en miembro superior UNIVERSIDAD ANTONIO NARIÑO Estado: Tesis concluida INGENIERIA BIOMEDICA, 2021. Dirigió como: Tutor principal, Persona(s) orientada(s): Diego Alejandro Camargo Rozo Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: SEBASTIAN JARAMILLO ISAZA, Desarrollo de una herramienta digital para mejorar la gestión del mantenimiento de dispositivos médicos HPLC destinados a la medición de HbA1c COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN INGENIERÍA BIOMÉDICA, 2024. Dirigió como: Tutor principal, Persona(s) orientada(s): Anna Valentina Pérez Porras Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Rediseño mecánico, montaje y caracterización metrológica de un sistema inercial de captura de movimientos para aplicaciones biomédicas UNIVERSIDAD ANTONIO NARIÑO Estado: Tesis concluida INGENIERIA BIOMEDICA, 2022. Dirigió como: Tutor principal, Persona(s) orientada(s): Carlos Leonardo Domínguez Morales Tutor(es)/Cotutor(es): ANDRES FELIPE RUIZ OLAYA , SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Análisis de usabilidad para un sistema de captura de movimiento inalámbrico basado en unidades de medida inercial (IMU) Universidad Antonio Nariño - Sede Bogotá - U.A.N. Estado: Tesis concluida INGENIERIA BIOMEDICA, 2023. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Dana Lucía Garay Prada Tutor(es)/Cotutor(es): ANDRES FELIPE RUIZ OLAYA , SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: SEBASTIAN JARAMILLO ISAZA, Detección de melanoma cutáneo a través de la regla ABCD usando algoritmos de aprendizaje profundo COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRÍA EN INGENIERÍA BIOMÉDICA, 2023. Dirigió como: Coturor/asesor, Persona(s) orientada(s): Paula Catherine Moreno Luna Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Trabajos dirigidos/Tutorías - Tesis de doctorado: SEBASTIAN JARAMILLO ISAZA, Desarrollo de un modelo de membrana celular de cardiomiocitos para evaluar cambios morfológicos y fisicoquímicos producidos por medicamentos anticancerígenos UNIVERSIDAD PONTIFICIA BOLIVARIANA Estado: Tesis concluida CIENCIAS MEDICAS, 2017. Dirigió como: , Persona(s) orientada(s): Jorge Ceballos Robledo Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ciencias Médicas y de la Salud -- Otras Ciencias Médicas -- Otras Ciencias Médicas,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Simulación por Elementos Finitos del Desempeño Mecánico de una Placa Para Fijación de Fracturas en Tibia Proximal Universidad Antonio Nariño - Sede Bogotá - U.A.N. Estado: Tesis concluida INGENIERIA BIOMEDICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Laura Maria Medina Gacha Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Desarrollo de una herramienta de apoyo para telemonitoreo: Aplicación a la recuperación de la amplitud articular de la rodilla. Universidad Antonio Nariño - Sede Bogotá - U.A.N. Estado: Tesis concluida INGENIERIA BIOMEDICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Nicole Daniela Pinilla Rivera Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Estimación de la activación facial y neurológica y sus posibles correlaciones a causa de estímulos visuales predeterminados utilizando sensores tipo Kinect y Emotiv Universidad Antonio Nariño - Sede Bogotá - U.A.N. Estado: Tesis concluida INGENIERIA BIOMEDICA, 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Andrea Catalina Plazas Molano Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica, Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Concepción, diseño y validación de una sistema para la estimación de la fuerza en miembro superior durante movimiento de flexión Universidad Antonio Nariño - Sede Bogotá - U.A.N. Estado: Tesis concluida INGENIERIA BIOMEDICA, 2020. Dirigió como: Tutor principal, Persona(s) orientada(s): Nicolas Trujillo Alfonso Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Trabajos dirigidos/Tutorías - Trabajos de grado de pregrado: SEBASTIAN JARAMILLO ISAZA, Sistema automatizado para rehabilitación pasiva de manos con tenorrafia en tendones flexores de los dedos. UNIVERSIDAD ANTONIO NARIÑO Estado: Tesis concluida Ingeniería , 2019. Dirigió como: Tutor principal, Persona(s) orientada(s): Jorge Andrés Galeano Bayona Tutor(es)/Cotutor(es): SEBASTIAN JARAMILLO ISAZA, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Evaluación de las propiedades físicas de un scaffold compuesto de PEG y nanohidroxiapatita embebida con puntos de carbono según su composición y uso de espaciadores Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: JUAN SEBASTIAN BALLESTAS PINEDA Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Development of an adaptative human-robot interface based on phyisiological parameters to promote physical activity in healthy participants Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: MARIA PAULA INSUASTY PINEDA Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Comparación del potencial radiosensibilizante de nanoplataformas basadas en puntos de carbono pasivadas con iones de alto número atómico para el tratamiento de cáncer Tipo de trabajo presentado: Trabajo de grado/tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Valentina Leguizamón Gutiérrez Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: SEBASTIAN JARAMILLO ISAZA, Titulo: Diseño y Fabricación de Prototipo - Simulador de Cirugía Hernia Inguinal Abierta Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRÍA EN INGENIERÍA BIOMÉDICA Nombre del orientado: Oscar Javier Barrera Montoya Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: DISEÑO DE HERRAMIENTA DIGITAL PARA GESTIÓN DE DOCUMENTOS DE UN HOSPITAL DE CUARTO NIVEL DE COMPLEJIDAD EN SALUD Tipo de trabajo presentado: Proyecto de grado/Tesis en: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO programa académico INGENIERIA BIOMEDICA Nombre del orientado: TATIANA ALEJANDRA MARTINEZ OJEDA Areas: Ingeniería y Tecnología -- Ingeniería Civil -- Ingeniería Civil,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Modelo de teleconsulta y telemonitoreo en rehabilitación física según la normatividad en Colombia. Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidad Antonio Nariño, Pereira programa académico Ingeniería Biomédica Nombre del orientado: Brid Elained Betancur Patermina Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Curso de perfeccionamiento/especialización: SEBASTIAN JARAMILLO ISAZA, Titulo: Desarrollo de una plataforma de información para el seguimiento de equipos biomédicos en el área de fertilidad Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico Especialización en Instrumentación Electrónica y Biomédica Nombre del orientado: Andrés Ricardo Tovar Horta Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Sistema de información para la recomendación de parámetros radiológicos en la adquisición de imágenes médicas para la empresa Radiología Digital S.A.S Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA BIOMEDICA Nombre del orientado: Angie Katerine Quitian González Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Especialidad Médica: SEBASTIAN JARAMILLO ISAZA, Titulo: Recomendaciones para la evaluación de las propiedades biomecánicas de hidrogeles de fibrina agarosa nanoestructurado por medio de microscopia de fuerza atómica Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico Periodoncia Nombre del orientado: Sandra Patricia Muñoz Tocua y Lucila Ospina Toro Areas: Ciencias Médicas y de la Salud -- Medicina Clínica -- Odontología, Cirugía Oral y Medicina Oral,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Identificación de sitios alostéricos en proteínas del Homo sapiens que interactúan con la molécula de ATP mediante la herramienta Deacon Active Site Profiler (DASP3) Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA BIOMEDICA Nombre del orientado: Adriana Camila González Rosas Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Optimización del proceso de adquisición de imágenes diagnósticas de rayos X para clientes de la empresa Radiología Digital S.A.S. basada en Redes de Petri Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA BIOMEDICA Nombre del orientado: Erika Alejandra Jiménez Medina Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Identification of odd-sized DNA and mRNA sequences as codewords of BCH codes over Z4 Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico Ingeniería Electrónica Nombre del orientado: Giovani Leandro Hernández Pareja Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Estudio Comparativo para el Reconocimiento de Potenciales Relacionados a Eventos P300 para una Interfaz Cerebro-Computador Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA BIOMEDICA Nombre del orientado: Cristian Felipe Blanco Díaz Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Curso de perfeccionamiento/especialización: SEBASTIAN JARAMILLO ISAZA, Titulo: Diseño de un protocolo de comunicación para personas con disartria mediante el paradigma P300 y sistemas Brain Computer Interface (BCI) Tipo de trabajo presentado: Trabajo de grado/tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico Especialización en Instrumentación Electrónica y Biomédica Nombre del orientado: Nicolás Alberto Álvarez Zioubrovskaia Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Identificación Automática de Sitios Alostéricos en Protéinas Mediante la Herramienta Deacon Active Site Profiler (DASP3) Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD ANTONIO NARIÑO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Maritza Rodríguez Charry Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Protocolo semi-automático para el cálculo de indicadores de oportunidad en el proceso de adquisición,lectura y reporte (I+D+R) de imágenes radiológicas Tipo de trabajo presentado: Trabajo de grado/tesis en: UNIVERSIDAD ANTONIO NARIÑO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Erika Giselle Bedoya Arce Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: SEBASTIAN JARAMILLO ISAZA, Titulo: Caracterización electromiografíca de superficie en músculos extrínsecos laríngeos de cantantes Colombianos Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD ANTONIO NARIÑO programa académico MAESTRIA EN BIOINGENIERIA Nombre del orientado: MAIRA LIZETH HURTADO LEYTON Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica, Ciencias Médicas y de la Salud -- Otras Ciencias Médicas -- Otras Ciencias Médicas,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: SISTEMATIZACIÓN DE HOJAS DE VIDA COMO HERRAMIENTA PARA LA GESTIÓN DE EQUIPOS BIOMÉDICOS EN LA SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E. Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD ANTONIO NARIÑO programa académico INGENIERIA BIOMEDICA Nombre del orientado: DANIELA MUÑOZ VARÓN - WILMAR GUILLERMO MUÑOZ QUINTERO Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Plataforma virtual de tecnovigilancia para la capacitación y reporte de eventos e incidentes adversos en la Subred Integrada de Servicios de Salud Norte E.S.E. Tipo de trabajo presentado: Proyecto de grado/Tesis en: UNIVERSIDAD ANTONIO NARIÑO programa académico INGENIERIA BIOMEDICA Nombre del orientado: Jaileen Tatiana Contreras Caicedo - Maikol Stivel Barrero González Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Matriz dinámica de criticidad para la gestión de mantenimientos preventivos en DIAGNOSTICAS IPS S.A.S Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA BIOMEDICA Nombre del orientado: Katherin Hasbleidy Roa Cortes Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Pregrado: SEBASTIAN JARAMILLO ISAZA, Titulo: Prototipo de un sistema computarizado para la gesti ́on de tecnolog ́ıa biom ́edica en la empresa Diagnostica IPS S.A.S Tipo de trabajo presentado: Proyecto de grado/Tesis en: Universidad Antonio Nariño - Sede Bogotá - U.A.N. programa académico INGENIERIA BIOMEDICA Nombre del orientado: Danny Lorena Guayara Zea Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,"
+    ],
+    "par_evaluador": [
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD DE LOS ANDES, 2019, Octubre",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Editorial: Programa Editorial Universidad Autónoma de Occidente., 2019, Mayo",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: INSTITUTO TECNOLÓGICO METROPOLITANO -ITM-, 2019, Noviembre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: OBSERVATORIO COLOMBIANO DE CIENCIA Y TECNOLOGIA (OCYT), 2020, Diciembre",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD EL BOSQUE, 2024, Mayo",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA, 2023, Junio",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD NACIONAL DE COLOMBIA, 2023, Febrero",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD NACIONAL DE COLOMBIA, 2023, Febrero",
+      "Ámbito: Nacional Par evaluador de: Proyecto Institución: UNIVERSIDAD NACIONAL DE COLOMBIA, 2023, Junio",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Revista: Revista Ontare, 2020, Julio",
+      "Ámbito: Nacional Par evaluador de: Material para publicación científica Editorial: Programa Editorial Universidad Autónoma de Occidente., 2019, Noviembre"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: WEMA 2018 Tipo de evento: Seminario Ámbito: Nacional Realizado el:2018-05-26 00:00:00.0, 2018-05-26 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño - Sede Bogotá Productos asociados Nombre del producto: Biomimetismo: Pasado, Presente y Futuro Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad Antonio Nariño - Sede Bogotá - U.A.N. Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Organizador , Ponente magistral",
+      "1 Nombre del evento: WEMA 2018 Tipo de evento: Seminario Ámbito: Nacional Realizado el:2018-05-26 00:00:00.0, 2018-05-26 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño - Sede Bogotá",
+      "Productos asociados Nombre del producto: Biomimetismo: Pasado, Presente y Futuro Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad Antonio Nariño - Sede Bogotá - U.A.N. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Organizador , Ponente magistral",
+      "2 Nombre del evento: IEEE Colombian Conference on Applications in Computational Intelligence (ColCACI) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Productos asociados Nombre del producto: Detection of Pedaling Tasks through EEG Using Extreme Learning Machine for Lower-Limb Rehabilitation Brain-Computer Interfaces Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente",
+      "2 Nombre del evento: IEEE Colombian Conference on Applications in Computational Intelligence (ColCACI) Tipo de evento: Congreso Ámbito: Internacional Realizado el:2023-07-26 00:00:00.0, 2023-07-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Productos asociados Nombre del producto: Detection of Pedaling Tasks through EEG Using Extreme Learning Machine for Lower-Limb Rehabilitation Brain-Computer Interfaces Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Gestionadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente",
+      "3 Nombre del evento: Encuentro de Investigación Estudiantil en Ingeniería Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2019-09-27 00:00:00.0, 2019-09-27 00:00:00.0 en BOGOTÁ, D.C. - Universidad EAN Instituciones asociadas Nombre de la institución: UNIVERSIDAD EAN Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Compilador de memorias , Organizador",
+      "3 Nombre del evento: Encuentro de Investigación Estudiantil en Ingeniería Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2019-09-27 00:00:00.0, 2019-09-27 00:00:00.0 en BOGOTÁ, D.C. - Universidad EAN",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EAN Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Compilador de memorias , Organizador",
+      "4 Nombre del evento: WEA 2019 Workshop on Engineering Applications Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-16 00:00:00.0, 2019-10-18 00:00:00.0 en SANTA MARTA - Universidad Antonio Nariño Sede Santa Marta Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Compilador de memorias , Organizador , Ponente",
+      "4 Nombre del evento: WEA 2019 Workshop on Engineering Applications Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-16 00:00:00.0, 2019-10-18 00:00:00.0 en SANTA MARTA - Universidad Antonio Nariño Sede Santa Marta",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora Nombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Compilador de memorias , Organizador , Ponente",
+      "5 Nombre del evento: Cumbre Colombo Francesa 2019 Investigación, Innovación, Educación Superior Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2019-06-12 00:00:00.0, 2019-06-14 00:00:00.0 en MEDELLÍN - Universidad EAFIT Productos asociados Nombre del producto: Formación Sostenible: Transformando el Futuro Hoy Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD EAFIT Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Asistente , Ponente , Traductor simultaneo",
+      "5 Nombre del evento: Cumbre Colombo Francesa 2019 Investigación, Innovación, Educación Superior Tipo de evento: Encuentro Ámbito: Internacional Realizado el:2019-06-12 00:00:00.0, 2019-06-14 00:00:00.0 en MEDELLÍN - Universidad EAFIT",
+      "Productos asociados Nombre del producto: Formación Sostenible: Transformando el Futuro Hoy Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD EAFIT Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Asistente , Ponente , Traductor simultaneo",
+      "6 Nombre del evento: 3er Encuentro VEDAS: Fusionando Ciencia e Industria Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2019-07-18 00:00:00.0, 2019-07-19 00:00:00.0 en SANTA MARTA - Universidad Antonio Nariño Productos asociados Nombre del producto: Paradigmas de la Academia y la Industria Biomédica en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Organizador , Ponente magistral",
+      "6 Nombre del evento: 3er Encuentro VEDAS: Fusionando Ciencia e Industria Tipo de evento: Encuentro Ámbito: Nacional Realizado el:2019-07-18 00:00:00.0, 2019-07-19 00:00:00.0 en SANTA MARTA - Universidad Antonio Nariño",
+      "Productos asociados Nombre del producto: Paradigmas de la Academia y la Industria Biomédica en Colombia Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Organizador , Ponente magistral",
+      "7 Nombre del evento: Workshop On Engineering Applications WEA'19 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-16 00:00:00.0, 2019-10-18 00:00:00.0 en SANTA MARTA - Universidad Antonio Nariño Productos asociados Nombre del producto: Is It Possible to Correlate Age Related Time-Dependent Micro Mechanical Properties of Cortical Bone and Its Physico-Chemical Data? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Compilador de memorias , Organizador , Ponente",
+      "7 Nombre del evento: Workshop On Engineering Applications WEA'19 Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-10-16 00:00:00.0, 2019-10-18 00:00:00.0 en SANTA MARTA - Universidad Antonio Nariño",
+      "Productos asociados Nombre del producto: Is It Possible to Correlate Age Related Time-Dependent Micro Mechanical Properties of Cortical Bone and Its Physico-Chemical Data? Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Compilador de memorias , Organizador , Ponente",
+      "8 Nombre del evento: XVIII Congresso Brasileiro de Biomecânica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-01 00:00:00.0, 2019-05-04 00:00:00.0 en Manaus - Centro de Convenções do Amazonas - Cca Vasco Vasques, em Manaus/Am Productos asociados Nombre del producto: Effects of Bone Aging: A Look From Macro to Nano Scale. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidade Federal do Amazonas Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente magistral",
+      "8 Nombre del evento: XVIII Congresso Brasileiro de Biomecânica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-01 00:00:00.0, 2019-05-04 00:00:00.0 en Manaus - Centro de Convenções do Amazonas - Cca Vasco Vasques, em Manaus/Am",
+      "Productos asociados Nombre del producto: Effects of Bone Aging: A Look From Macro to Nano Scale. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidade Federal do Amazonas Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente magistral",
+      "9 Nombre del evento: II Encuentro Latino Americano de Biomecánica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-01 00:00:00.0, 2019-05-01 00:00:00.0 en Manaus - Centro de Convenções do Amazonas - Cca Vasco Vasques, em Manaus/Am Productos asociados Nombre del producto: Effects of Bone Aging: A Look From Macro to Nano Scale. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidade do Estado do Amazonas Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente magistral",
+      "9 Nombre del evento: II Encuentro Latino Americano de Biomecánica Tipo de evento: Congreso Ámbito: Internacional Realizado el:2019-05-01 00:00:00.0, 2019-05-01 00:00:00.0 en Manaus - Centro de Convenções do Amazonas - Cca Vasco Vasques, em Manaus/Am",
+      "Productos asociados Nombre del producto: Effects of Bone Aging: A Look From Macro to Nano Scale. Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidade do Estado do Amazonas Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Ponente magistral",
+      "10 Nombre del evento: II Seminario Internacional de Investigación 2018 Tipo de evento: Seminario Ámbito: Internacional Realizado el:2018-08-27 00:00:00.0, 2018-08-29 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño - Sede Bogotá Productos asociados Nombre del producto: Caracterización mecánica y morfológica de tejidos óseos usando Nanoindentación y Microscopia de Fuerza Atómica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia Instituciones asociadas Nombre de la institución: Universidad Antonio Nariño - Sede Bogotá - U.A.N. Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Asistente , Organizador , Ponente magistral",
+      "10 Nombre del evento: II Seminario Internacional de Investigación 2018 Tipo de evento: Seminario Ámbito: Internacional Realizado el:2018-08-27 00:00:00.0, 2018-08-29 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño - Sede Bogotá",
+      "Productos asociados Nombre del producto: Caracterización mecánica y morfológica de tejidos óseos usando Nanoindentación y Microscopia de Fuerza Atómica Tipo de producto: Producción técnica - Presentación de trabajo - Ponencia",
+      "Instituciones asociadas Nombre de la institución: Universidad Antonio Nariño - Sede Bogotá - U.A.N. Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Asistente , Organizador , Ponente magistral",
+      "11 Nombre del evento: Jornada de Investigación Estudiantil Tipo de evento: Seminario Ámbito: Nacional Realizado el:2018-11-17 00:00:00.0, 2018-11-17 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño - Sede Circunvalar Bogotá D.C. Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Asistente , Compilador de memorias , Organizador",
+      "11 Nombre del evento: Jornada de Investigación Estudiantil Tipo de evento: Seminario Ámbito: Nacional Realizado el:2018-11-17 00:00:00.0, 2018-11-17 00:00:00.0 en BOGOTÁ, D.C. - Universidad Antonio Nariño - Sede Circunvalar Bogotá D.C.",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD ANTONIO NARIÑO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: SEBASTIAN JARAMILLO ISAZA Rol en el evento: Asistente , Compilador de memorias , Organizador"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Heterogeneity of time-dependent mechanical properties of human cortical bone at the micro scale\" . En: Colombia JOURNAL OF MUSCULOSKELETAL RESEARCH ISSN: 1793-6497 ed: World Scientific v. 18 fasc. 04 p.1 - 12 ,2015, DOI: 10.1142/S0218957715500177 Palabras: cortical-bone, human, nanoindentation, osteons, time-dependent,",
+        "titulo": "Heterogeneity of time-dependent mechanical properties of human cortical bone at the micro scale",
+        "doi": "10.1142/S0218957715500177",
+        "anio": "2015"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Time-dependent mechanical properties of rat femoral cortical bone by nanoindentation: An age-related study\" . En: Estados Unidos JOURNAL OF MATERIALS RESEARCH ISSN: 0884-2914 ed: SPRINGER HEIDELBERG v. 29 fasc. 10 p.1135 - 1143 ,2014, DOI: 10.1557/jmr.2014.104",
+        "titulo": "Time-dependent mechanical properties of rat femoral cortical bone by nanoindentation: An age-related study",
+        "doi": "10.1557/jmr.2014.104",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, ALVARO DAVID ORJUELA CANON, \"Self-Organized Maps for the Analysis of the Biomechanical Response of the Knee Joint During Squat-Like Movements in Subjects Without Physical Conditioning\" . En: Colombia COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE ISSN: 1865-0929 ed: Springer Nature v. 1052 fasc. p.335 - 344 ,2019, DOI: 10.1007/978-3-030-31019-6_29",
+        "titulo": "Self-Organized Maps for the Analysis of the Biomechanical Response of the Knee Joint During Squat-Like Movements in Subjects Without Physical Conditioning",
+        "doi": "10.1007/978-3-030-31019-6_29",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Is It Possible to Correlate Age Related Time-Dependent Micro Mechanical Properties of Cortical Bone and Its Physico-Chemical Data?\" . En: Colombia COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE ISSN: 1865-0929 ed: Springer Nature v. 1052 fasc. p.345 - 356 ,2019, DOI: 10.1007/978-3-030-31019-6_30",
+        "titulo": "Is It Possible to Correlate Age Related Time-Dependent Micro Mechanical Properties of Cortical Bone and Its Physico-Chemical Data?",
+        "doi": "10.1007/978-3-030-31019-6_30",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): SEBASTIAN JARAMILLO ISAZA, \"Effects of bone density in the time-dependent mechanical properties of human cortical bone by nanoindentation\" . En: Inglaterra COMPUTER METHODS IN BIOMECHANICS AND BIOMEDICAL ENGINEERING ISSN: 1025-5842 ed: Informa-Healthcare v. 17 fasc. sup1 p.34 - 35 ,2014, DOI: 10.1080/10255842.2014.931090",
+        "titulo": "Effects of bone density in the time-dependent mechanical properties of human cortical bone by nanoindentation",
+        "doi": "10.1080/10255842.2014.931090",
+        "anio": "2014"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Exploring the facial and neurological activation due to predetermined visual stimulus using Kinect and Emotiv sensors\" . En: Suiza COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE ISSN: 1865-0929 ed: Springer Nature v. 1274 fasc. N/A p.268 - 280 ,2020, DOI: 10.1007/978-3-030-61834-6_23",
+        "titulo": "Exploring the facial and neurological activation due to predetermined visual stimulus using Kinect and Emotiv sensors",
+        "doi": "10.1007/978-3-030-61834-6_23",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Estudio de accesibilidad de personas discapacitadas o con movilidad reducida al medio físico y virtual de Instituciones de Educación Superior en Colombia\" . En: España REVISTA DE EDUCACION INCLUSIVA ISSN: 1889-4208 ed: v. 13 fasc. p.180 - 199 ,2020, DOI:",
+        "titulo": "Estudio de accesibilidad de personas discapacitadas o con movilidad reducida al medio físico y virtual de Instituciones de Educación Superior en Colombia",
+        "anio": "2020"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Evaluation of Platelet Rich Fibrin Obtained Using Different Centrifugation Parameters as a Tool for Regenerative Medicine\" . En: Colombia CLINICAL LABORATORY ISSN: 1433-6510 ed: CLIN LAB PUBL v. 67 fasc. p.2462 - 2468 ,2021, DOI: 10.7754/Clin.Lab.2021.210226 Palabras: Platelet-Rich Fibrin , Atomic Force, Microscopy,",
+        "titulo": "Evaluation of Platelet Rich Fibrin Obtained Using Different Centrifugation Parameters as a Tool for Regenerative Medicine",
+        "doi": "10.7754/Clin.Lab.2021.210226",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Estimation of Limbs Angles Amplitudes During the Use of the Five Minute Shaper Device Using Artificial Neural Networks\" . En: Colombia COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE ISSN: 1865-0929 ed: Springer Nature v. 1431 fasc. p.213 - 224 ,2021, DOI: 10.1007/978-3-030-86702-7_19 Palabras: Lower and upper limbs, Artificial Neural Networks, Biomechanical analysis , Computational modeling in biomechanics, Limb joints angles,",
+        "titulo": "Estimation of Limbs Angles Amplitudes During the Use of the Five Minute Shaper Device Using Artificial Neural Networks",
+        "doi": "10.1007/978-3-030-86702-7_19",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Dynamic mechanical analysis of agarose-based biopolymers with potential use in regenerative medicine\" . En: Colombia MATERIALS TODAY PROCEEDINGS ISSN: 2214-7853 ed: Elsevier Ltd. v. 47 fasc. N/A p.1 - 7 ,2021, DOI: 10.1016/j.matpr.2021.07.435",
+        "titulo": "Dynamic mechanical analysis of agarose-based biopolymers with potential use in regenerative medicine",
+        "doi": "10.1016/j.matpr.2021.07.435",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Effects of the concentration level, eye fatigue and coffee consumption on the performance of a BCI system based on visual ERP-P300\" . En: Colombia JOURNAL OF NEUROSCIENCE METHODS ISSN: 0165-0270 ed: Elsevier v. 382 fasc. p.1 - 9 ,2022, DOI: 10.1016/j.jneumeth.2022.109722",
+        "titulo": "Effects of the concentration level, eye fatigue and coffee consumption on the performance of a BCI system based on visual ERP-P300",
+        "doi": "10.1016/j.jneumeth.2022.109722",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Implementación de métodos computacionales para estimar las amplitudes angulares de los miembros inferiores durante el squat\" . En: Colombia TecnoLógicas ISSN: 2256-5337 ed: Instituto Tecnológico Metropolitano v. 25 fasc. p.1 - 18 ,2022, DOI: 10.22430/22565337.2164",
+        "titulo": "Implementación de métodos computacionales para estimar las amplitudes angulares de los miembros inferiores durante el squat",
+        "doi": "10.22430/22565337.2164",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Doxorubicin Interaction with Lipid Monolayers Leads to Decreased Membrane Stiffness when Experiencing Compression-Expansion Dynamics\" . En: Colombia LANGMUIR ISSN: 1520-5827 ed: Amer Chemical Soc v. 39 fasc. p.8603 - 8611 ,2023, DOI: 10.1021/acs.langmuir.3c00250",
+        "titulo": "Doxorubicin Interaction with Lipid Monolayers Leads to Decreased Membrane Stiffness when Experiencing Compression-Expansion Dynamics",
+        "doi": "10.1021/acs.langmuir.3c00250",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"EEG Motor Imagery classification using Deep Learning approaches in naïve BCI users\" . En: Colombia BIOMEDICAL PHYSICS AND ENGINEERING EXPRESS ISSN: 2057-1976 ed: IOP Publishing Ltd v. 9 fasc. p.1 - 12 ,2023, DOI: 10.1088/2057-1976/acde82",
+        "titulo": "EEG Motor Imagery classification using Deep Learning approaches in naïve BCI users",
+        "doi": "10.1088/2057-1976/acde82",
+        "anio": "1976"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"On the use of power-based connectivity between EEG and sEMG signals for three-weight classification during object manipulation tasks\" . En: Colombia RESEARCH ON BIOMEDICAL ENGINEERING ISSN: 2446-4740 ed: Sociedade Brasileira de Engenharia Biomedica v. 40 fasc. p.99 - 116 ,2024, DOI: 10.1007/s42600-023-00333-4",
+        "titulo": "On the use of power-based connectivity between EEG and sEMG signals for three-weight classification during object manipulation tasks",
+        "doi": "10.1007/s42600-023-00333-4",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: SEBASTIAN JARAMILLO ISAZA, \"Implementación de métodos computacionales para estimar las amplitudes angulares de los miembros inferiores durante el squat\" . En: Colombia TecnoLógicas ISSN: 2256-5337 ed: Instituto Tecnológico Metropolitano v. 25 fasc. p.1 - 18 ,2022, DOI:",
+        "titulo": "Implementación de métodos computacionales para estimar las amplitudes angulares de los miembros inferiores durante el squat",
+        "anio": "2022"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Otro libro publicado: SEBASTIAN JARAMILLO ISAZA, \"Applied Computer Sciences in Engineering 6th Workshop on Engineering Applications, WEA 2019 Santa Marta, Colombia, October 16¿18, 2019 Proceeding\" En: Colombia 2019. ed:Springer Nature Switzerland AG ISBN: 978-3-030-31019-6 v. pags. Palabras: Optimización , Bioingeniería , Deep Learning , Machine Learning , Inteligencia Computacional , Neuroingeniería , Simulación, Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería Eléctrica y Electrónica, Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Automatización y Sistemas de Control, Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Robótica y Control Automático, Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones, Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica, Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: SEBASTIAN JARAMILLO ISAZA, \"Computational Approaches in Biotechnology and Bioinformatics\" En: Estados Unidos 2024. ed:CRC Press ISBN: 9781032406107 v. pags. Areas: Ingeniería y Tecnología -- Otras Ingenierías y Tecnologías -- Otras Ingenierías y Tecnologías,",
+      "Producción bibliográfica - Libro - Libro resultado de investigación: SEBASTIAN JARAMILLO ISAZA, \"Computational Approaches in Biomaterials and Biomedical Engineering Applications\" En: Estados Unidos 2024. ed:CRC Press ISBN: 9781032635255 v. pags. Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,"
+    ],
+    "capitulos_libro": [
+      "Tipo: Capítulo de libro SEBASTIAN JARAMILLO ISAZA, \"A Biomechanical Analysis of Free Squat Exercise Employing Self-Organizing Maps\" 2019 IEEE Colombian Conference on Applications in Computational Intelligence (ColCACI) . En: Colombia ISBN: 978-1-7281-1615-0 ed: IEEE Publications , v. , p.1 - 5 ,2019 Areas: Ingeniería y Tecnología -- Ingenierías Eléctrica, Electrónica e Informática -- Ingeniería de Sistemas y Comunicaciones,",
+      "Tipo: Capítulo de libro SEBASTIAN JARAMILLO ISAZA, \"Artificial Intelligence Applied to Neuromotor Rehabilitation Engineering: Advances and Challenges\" Computational Approaches in Biomaterials and Biomedical Engineering Applications . En: Estados Unidos ISBN: 9781032699882 ed: CRC Press , v. , p.212 - 244 ,2024 Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Tipo: Capítulo de libro SEBASTIAN JARAMILLO ISAZA, \"Enhancing Telerehabilitation Using Wearable Sensors and AI-Based Machine Learning Methods\" Computational Approaches in Biomaterials and Biomedical Engineering Applications . En: Estados Unidos ISBN: 9781032699882 ed: CRC Press , v. , p.266 - 298 ,2024 Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Tipo: Capítulo de libro SEBASTIAN JARAMILLO ISAZA, \"Emerging Computational Methods Applied to BCI Systems for Restoring Motor Functions\" Computational Approaches in Biomaterials and Biomedical Engineering Applications . En: Estados Unidos ISBN: 9781032699882 ed: CRC Press , v. , p.245 - 265 ,2024 Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,"
+    ],
+    "otra_producci_n_blibliogr_fica": [
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SEBASTIAN JARAMILLO ISAZA, \"Calibration of the lateral force in AFM using the edge method and a scratch sample\" En: Colombia. 2016. p. Palabras: Microscopia de Fuerza Atomica, Nanomecánica, Nanotribologia, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SEBASTIAN JARAMILLO ISAZA, \"Mesure des propriétés mécaniques de membranes lipidiques supportées par Microscopie à Force Atomique en Mode Circulaire\" En: Colombia. 2017. p. Palabras: Microscopia de Fuerza Atomica, Nanomecánica, Nanotribologia, Biomembranas, Biomimetismo, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades), Ingeniería y Tecnología -- Ingeniería Mecánica -- Mecánica Aplicada,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: SEBASTIAN JARAMILLO ISAZA, \"Quantitative measurements of the viscosity of biomimetic membranes using the AFM circular mode\" En: Colombia. 2016. p. Palabras: Microscopia de Fuerza Atomica, Biomimetismo, Nanomecánica, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades), Ingeniería y Tecnología -- Ingeniería de los Materiales -- Recubrimientos y Películas, Ingeniería y Tecnología -- Biotecnología Industrial -- Bioproductos (Productos que se Manufacturan Usando Biotecnología), Biomateriales, Bioplásticos, Biocombustibles, Materiales Nuevos Bioderivados, Químicos Finos Bioredivados,",
+      "Producción bibliográfica - Otra producción bibliográfica - Epílogo: SEBASTIAN JARAMILLO ISAZA, \"Predictive models for age-related bone time-dependent mechanical properties at the micro scale\" En: Colombia. 2015. p. Palabras: cortical-bone, nanoindentation, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: SEBASTIAN JARAMILLO ISAZA, \"Assessments of nanomechanical properties of biomimetic membranes using AFM Circular Mode\" En: Colombia. 2016. p. Palabras: Microscopia de Fuerza Atomica, Biomimetismo, Nanomecánica, Nanotribologia, Areas: Ingeniería y Tecnología -- Nanotecnología -- Nanomateriales (Producción y Propiedades), Ingeniería y Tecnología -- Nanotecnología -- Nanoprocesos (Aplicaciones a Nanoescala), Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: SEBASTIAN JARAMILLO ISAZA, \"Calibrating AFM in Circular Mode for Quantitative Nanotribological Measurements\" En: Colombia. 2016. p. Palabras: Microscopia de Fuerza Atomica, Biomimetismo, Nanomecánica, Nanotribologia, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: SEBASTIAN JARAMILLO ISAZA, \"Effects of mineral loss in the time-dependent mechanical properties of cortical bone at the micro and nano scales\" En: Colombia. 2015. p. Palabras: cortical-bone, nanoindentation, time-dependent, Mechanical properties, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,",
+      "Producción bibliográfica - Otra producción bibliográfica - Otra: SEBASTIAN JARAMILLO ISAZA, \"Nano-mechanical characterization of biomimetic membranes using the afm circular mode\" En: Colombia. 2016. p. Palabras: Biomimetismo, Microscopia de Fuerza Atomica, Nanomecánica, Nanotribologia, Biomembranas, Areas: Ingeniería y Tecnología -- Ingeniería Médica -- Ingeniería Médica,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Investigación, desarrollo e Innovación FRIXORG Inicio: Septiembre 2015 Fin: Agosto 2016 Duración Resumen Este proyecto buscaba implementar la caracterización de materiales biologicos utilizando microscopia de fuerza atomica en modo circular. La aplicación especifica era la construcción de membranas biomimeticas y realizar la caracterización cualitativa y cuantitativa de las propriedades morfologicas y mecanicas usando microscopia de fuerza atomica en modo circular.",
+      "Tipo de proyecto: Investigación y desarrollo Diseño metodológico para evaluación de la carga física debido a movimientos repetitivos y posturas forzadas en miembros superiores usando el registro y análisis de la información cinemática Inicio: Agosto 2017 Fin: Junio 2019 Duración Resumen La identificación de la actividad muscular relacionada a las actividades físicas en el trabajo proporciona información valiosa para determinar la carga física y prevenir la fatiga muscular que contribuye a los trastornos musculoesqueléticos de origen laboral. Teniendo en cuenta la disponibilidad de herramientas de modelado y simulación tal como el software OpenSim Biomechanics, es posible realizar un análisis biomécánico de actividades físicas, incluyendo variables cinemática, cinéticas y de patrones de actividad muscular (electromiografía). Tales estudios pueden incorporarse en metodologías en el ámbito de la salud ocupacional para la prevención de TME. Particularmente, las actividades laborales realizadas en el sector agrícola por los cosecheros del fruto del aceite de palma es de especial interés, por su alta demanda de actividad física.",
+      "Tipo de proyecto: Investigación y desarrollo Apoyo a la Valoración y Telerrehabilitación de Personas con Diversidad Funcional Motora Mediante Plataforma de E-Salud Inicio: Agosto 2019 Duración Resumen Implementación y evaluación de una plataforma interoperable de e-Salud, enfocado a la valoración y telerrehabilitación de personas con diversidad funcional motora, mediante el registro de información cinemática utilizando un sistema inercial para la captura de movimiento y el registro de Electromiografia",
+      "Tipo de proyecto: Investigación y desarrollo Adquisición y análisis de datos cinemáticos de la marcha a partir de sensórica y sistema markerless e inteligencia artificial Inicio: Marzo 2024 Duración Resumen Este proyecto busca analizar datos cinemáticos de la marcha capturados a partir de sistemas de sensores y markerless empleando modelos de inteligencia artificial para corroborar su funcionamiento frente a sistemas optoelectrónicos",
+      "Tipo de proyecto: Investigación y desarrollo Evaluación de la funcionalidad de un sistema de monitoreo de cambios de movimiento en tiempo real en la prevención de caídas hospitalarias Inicio: Abril 2024 Duración Resumen El objetivo de este proyecto es evaluar la capacidad funcional del sensor (Hardware) prototipo-2 en la detección de los rangos de alarma para cambios de posición (semi fowler, sedestación y bipedestación) que anteceden una caída y del sistema (Internet de las Cosas, IoT) en la notificación de posiciones (sistema de monitoreo) a la central de enfermería en tiempo real en subgrupos de pacientes hospitalizados y en voluntarios adultos de la Fundación Cardioinfantil Instituto de Cardiología, Bogotá D.C.",
+      "Tipo de proyecto: Investigación y desarrollo Desarrollo de nuevos agentes terapeuticos para el tratamiento de enfermedades de importancia en salud publica en antioquia Inicio: Octubre 2016 Fin: Diciembre 2016 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización morfologica y mecánica de tejidos óseos usando Nanoindentación y Microscopía de Fuerza Atómica Inicio: Octubre 2011 Fin: Septiembre 2014 Duración Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización de multiescala de tejido óseo cortical usando ultrasonidos y nanoindentación Inicio: Enero 2014 Fin: Junio 2014 Duración Resumen Realizar la caracterización mecánica multiescala de tejido cortical usando una técnica de ultrasonidos para la escala macroscopica y Nanoindentación para escala microscopica",
+      "Tipo de proyecto: Investigación y desarrollo Simulación del comportamiento al choque térmico de una prótesis personalizada de cráneo hecha en titanio poroso Inicio: Enero 2010 Fin: Julio 2010 Duración Resumen Simular usando elementos finitos el comportamiento de una prótesis personalizada de cráneo hecha en titanio poroso ante una situación de choque térmico",
+      "Tipo de proyecto: Investigación y desarrollo Caracterización morfológica y mecánica multiescala de un fósil de hueso Inicio: Abril 2013 Fin: Agosto 2013 Duración Resumen Caracteriza morfológica y mecánicamente a las escalas macro-micro y nano un fósil de hueso usando ultrasonidos, AFM, nanoindentación, y ESEM (Microscopia Electrónica de Barrido Ambiental)",
+      "Tipo de proyecto: Investigación y desarrollo Formulación, desarrollo y caracterización morfológica, físico- electro-química y mecánica de un biopolímero compuesto para sustituto de cartílago articular de rodilla a la escala micro y nanoscopica Inicio: Agosto 2018 Fin: Junio 2020 Duración Resumen Este proyecto busca desarrollar y caracterizar morfológica, físico-electro-química y mecánicamente un material sustituto de cartílago articular de rodilla a la escala micro y nanoscopica usando técnicas como Nanoindentación, Microscopía de Fuerza Atómica en modo circular y Microscopía Electroquímica de Barrido.",
+      "Tipo de proyecto: Investigación y desarrollo 3D Motion Capture in elderly population diagnosed with Parkinson Disease (PD) under two different settings: laboratory based and home-like assessments Inicio: Noviembre 2018 Fin: Diciembre 2018 Duración Resumen Este proyecto busca realizar una análisis biomecánico en pacientes diagnosticados con la enfermedad de Parkinson"
+    ]
+  }
+}

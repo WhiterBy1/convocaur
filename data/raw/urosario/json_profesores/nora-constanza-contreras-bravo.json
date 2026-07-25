@@ -1,0 +1,781 @@
+{
+  "url": "https://research-hub.urosario.edu.co/display/nora-constanza-contreras-bravo",
+  "nombre": "Nora Constanza Contreras-Bravo",
+  "cargo_principal": "Profesor asistente de carrera",
+  "email": "nora.contreras@urosario.edu.co",
+  "telefono": "(601) 2970200 Ext. 3329",
+  "imagen": "https://research-hub.urosario.edu.co/file/n5947/Contreras.jpg",
+  "afiliaciones": [
+    "Profesor asistente de carrera - Geniuros - Universidad del Rosario",
+    "Investigador - Instituto de Medicina Traslacional - IMT - Universidad del Rosario"
+  ],
+  "enlaces_externos": {
+    "scopus": "https://www.scopus.com/authid/detail.uri?authorId=55545661200",
+    "google_scholar": "https://scholar.google.com/citations?user=EtCAjO0AAAAJ",
+    "pure": "https://urosario.pure.elsevier.com/en/persons/074b54b2-70c2-42e1-a124-d2fb93e5c628",
+    "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000250023",
+    "orcid": "http://orcid.org/0000-0002-8352-9553"
+  },
+  "areas_investigacion": [
+    "Biología molecular",
+    "Citogenética",
+    "Genética humana",
+    "Genómica",
+    "Proteómica"
+  ],
+  "perfil_profesional": "Profesora asistente de carrera de la Escuela de Medicina y Ciencias de la Salud de la Universidad del Rosario. Pertenece al Grupo de Investigación Geniuros, del Centro de Investigación en Genética y Genómica de la Universidad del Rosario (CIGGUR). Ha sido coordinadora de la Maestría en Genética Humana durante los últimos 12 años. Las investigaciones realizadas han sido en Farmacogenética, Cáncer de seno, Cáncer colorectal y SARS-CoV-2. Investigadora del grupo de investigación GENIUROS.",
+  "formacion_academica": [
+    "1985, Licenciada en Biología, Universidad Pedagogica Nacional - Bogotá D.C.",
+    "2008, Magíster en Genética Humana, Colegio Mayor de Nuestra Señora del Rosario - Bogotá D.C."
+  ],
+  "publicaciones": [
+    {
+      "tipo": "artículo académico",
+      "titulo": "Integrating molecular profiling into glioma diagnosis: implications of the WHO-CNS5-2021 classification of adult-type diffuse gliomas in Colombian patients",
+      "fecha": "2026-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.3389/fneur.2025.1691983"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Refining rare disease variant discovery in an isolated Andean community through imputation-enhanced IBD and kinship inference from whole exome sequencing data",
+      "fecha": "2025-10-5",
+      "enlace": "https://doi.org/https://doi.org/10.1093/hmg/ddaf132"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Detection of a Novel Homozygous PEX5 Stop-Loss Variant Associated with Zellweger Syndrome in a Highly Endogamic Family",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/https://doi.org/10.2147/TACG.S518636"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Integrating next-generation sequencing and artificial intelligence for the identification and validation of pathogenic variants in colorectal cancer",
+      "fecha": "2025-1-1",
+      "enlace": "https://doi.org/10.3389/fonc.2025.1568205"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "The polygenic implication of clopidogrel responsiveness: Insights from platelet reactivity analysis and next-generation sequencing",
+      "fecha": "2024-7-1",
+      "enlace": "https://doi.org/10.1371/journal.pone.0306445"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional Analysis of BRCA1 3’UTR Variants Predisposing to Breast Cancer",
+      "fecha": "2024-5-23",
+      "enlace": "https://doi.org/10.2147/TACG.S444546"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Next-generation sequencing of host genetics risk factors associated with COVID-19 severity and long-COVID in Colombian population",
+      "fecha": "2024-4-11",
+      "enlace": "https://doi.org/10.1038/s41598-024-57982-3"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional Analysis of BRCA1 3’UTR Variants Predisposing to Breast Cancer",
+      "fecha": "2024-1-1",
+      "enlace": "https://doi.org/10.2147/TACG.S444546"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Correction: Uveitis and Multiple Sclerosis: Potential Common Causal Mutations (Molecular Neurobiology, (2019), 56, 12, (8008-8017), 10.1007/s12035-019-1630-2)",
+      "fecha": "2023-5-1",
+      "enlace": "https://doi.org/10.1007/s12035-023-03265-3"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Functional analysis of CTLA4 promoter variant and its possible implication in colorectal cancer immunotherapy",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.3389/fmed.2023.1160368"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Pharmacogenomic profile of actionable molecular variants related to drugs commonly used in anesthesia: WES analysis reveals new mutations",
+      "fecha": "2023-1-1",
+      "enlace": "https://doi.org/10.3389/fphar.2023.1047854"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Performance Comparison of a Duplex Implementation of the CDC EUA 2019-nCoV Assay with the Seegene Allplex-SARS-CoV-2 Assay for the Detection of SARS-CoV-2 in Nasopharyngeal Swab Samples",
+      "fecha": "2022-9-21",
+      "enlace": "https://doi.org/10.3390/mps5050073"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Characterization of ADME Gene Variation in Colombian Population by Exome Sequencing",
+      "fecha": "2022-6-30",
+      "enlace": "https://doi.org/10.3389/fphar.2022.931531"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Association Between the LZTFL1 rs11385942 Polymorphism and COVID-19 Severity in Colombian Population",
+      "fecha": "2022-6-20",
+      "enlace": "https://doi.org/10.3389/fmed.2022.910098"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "A pharmacogenetic study of cyp2c19 in acute coronary syndrome patients of colombian origin reveals new polymorphisms potentially related to clopidogrel therapy: Estudio farmacogenético de cyp2c19 en pacientes con síndrome coronario agudo de origen colombiano revela nuevos polimorfismos potencialmente relacionados con la terapia con clopidogrel",
+      "fecha": "2021-5-12",
+      "enlace": "https://doi.org/10.3390/jpm11050400"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Association between paraoxonase-1 p.Q192r polymorphism and coronary artery disease susceptibility in the colombian population",
+      "fecha": "2021-11-23",
+      "enlace": "https://doi.org/10.2147/VHRM.S330766"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Copy number variation profiling in pharmacogenetics CYP-450 and GST genes in Colombian population 2 2 Inglés",
+      "fecha": "2019-7-1",
+      "enlace": "https://doi.org/10.1186/s12920-019-0556-x"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Uveitis and multiple sclerosis: potential common causal mutations",
+      "fecha": "2019-6-3",
+      "enlace": "https://doi.org/10.1007/s12035-019-1630-2"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Creating and validating a warfarin pharmacogenetic dosing algorithm for Colombian patients",
+      "fecha": "2018-1-1",
+      "enlace": "https://doi.org/10.2147/PGPM.S170515"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Correlation genotype-phenotype and molecular analysis in patients with Down syndrome",
+      "fecha": "2012-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F73ff9c0e-1128-4a74-aaea-5f619d6ecb20"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Clinical and molecular analysis of a patient with X-chromosome pentasomy",
+      "fecha": "2010-5-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F27ee7b4c-3e42-40a5-956d-d78868fa72ba"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Análisis de deleciones en 15 exones situados dentro y fuera del hot spot mutacional del gen de la distrofina en pacientes con distrofia muscular de Duchenne",
+      "fecha": "2009-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F92a8e8ce-5844-4b87-90c4-fd63360e3421"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Distrofia Muscular de Duchenne y Becker: Una visión molecular",
+      "fecha": "2005-9-5",
+      "enlace": "https://research-hub.urosario.edu.co/display/ccea5c43-7c34-4705-8eca-9131644439b6"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Análisis de Muestras de Orina para la detección molecular de enfermedades infecciosas. Aplicación en la identificación de Citomegalovirus Humano.",
+      "fecha": "2005-12-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6d0c52e4-5232-4019-868e-c9a93e6d6453"
+    },
+    {
+      "tipo": "artículo académico",
+      "titulo": "Deleciones en el gen de la Distrofina en 62 familias colombianas correlación genotipo-fenotipo para la Distrofia Muscular de Duchenne y Becker.",
+      "fecha": "2004-1-1",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F1a8482ff-a086-4706-b362-f7d4404b95c2"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2024-4-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/b51cb69b-48e5-472f-bded-d064c48a82df"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Determinación del perfil genómico de variantes patogénicas en pacientes con cáncer gástrico no seleccionado en la población colombiana",
+      "fecha": "2024-4-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/ed95a2bf-8050-41f4-ba3a-311975494400"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2023-9-12",
+      "enlace": "https://research-hub.urosario.edu.co/display/ad95a3c4-803c-48fd-bee6-1a92945539f8"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Impacto de variantes moleculares de BCHE en el bloqueo neuromuscular prolongado: un reporte de caso",
+      "fecha": "2023-11-17",
+      "enlace": "https://research-hub.urosario.edu.co/display/c04ec949-ba10-4200-8bca-a0f2181737bf"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Frecuencia de alteraciones germinales en genes de riesgo alto/moderado para riesgo de cáncer de mama hereditario, estudio multicéntrico en población no seleccionada",
+      "fecha": "2022-11-19",
+      "enlace": "https://research-hub.urosario.edu.co/display/e08af3ee-6ec0-49e9-ae2c-04d5cb2fc460"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Asociación de factores genéticos y no-genéticos con la severidad de la infección por sars-cov2 en población colombiana",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F27570d5c-bcc6-4eee-9a3a-c5972014a5b6"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Identificación de un nuevo factor de riesgo para el desarrollo de cáncer colorrectal en una muestra de afectados del Hospital Universitario Mayor Méderi",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F43c5b43c-f784-4ddb-901d-ff425ed2e209"
+    },
+    {
+      "tipo": "contribución en una conferencia",
+      "titulo": "Análisis farmacogenético de CYP2C19 y su impacto en la respuesta a clopidogrel en pacientes con síndrome coronario agudo atendidos en MEDERI: Un enfoque genético-poblacional",
+      "fecha": "2020-11-13",
+      "enlace": "https://research-hub.urosario.edu.co/display/f5987897-a529-4d91-8249-7c3e61c28e94"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Análisis farmacogenómico mediante secuenciación de siguiente generación (NGS) para la estimación de la implicación poligénica en la reactividad plaquetaria en pacientes tratados con clopidogrel",
+      "fecha": "2023-11-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F6a5d76c4-2a5e-44f6-a6ee-3b138a541e7d"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Identificación de un nuevo factor de riesgo para el desarrollo de cáncer colorrectal en una muestra de afectados del Hospital Universitario Mayor Méderi",
+      "fecha": "2021-11-12",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F415884c6-99fc-47d5-90d5-5a189b631b2b"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Asociación de factores genéticos y no-genéticos con la severidad de la infección por sars-cov2 en población colombiana",
+      "fecha": "2021-10-29",
+      "enlace": "https://research-hub.urosario.edu.co/display/bda992cc-8210-483f-ad4c-bad2d7254a8e"
+    },
+    {
+      "tipo": "resumen",
+      "titulo": "Análisis farmacogenético de CYP2C19 y su impacto en la respuesta a clopidogrel en pacientes con síndrome coronario agudo atendidos en MEDERI: Un enfoque genético-poblacional",
+      "fecha": "2020-11-13",
+      "enlace": "https://research-hub.urosario.edu.co/display/b3fc15a6-c23e-4638-8a6c-a075f7c9c413"
+    }
+  ],
+  "total_publicaciones": 37,
+  "proyectos": [
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Determinación del espectro mutacional de genes relacionados con la etiología molecular de gliomas en una muestra de pacientes colombianos",
+      "fecha": "2023-01-01 - 2026-07-01",
+      "enlace": "https://research-hub.urosario.edu.co/display/a0471272-56cb-41b3-abf1-02a00fa24849"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Implicación de la variación de la secuencia de la 3’UTR en el cáncer de seno.",
+      "fecha": "2021-11-23 - 2024-11-05",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F76a381d2-47ac-4cd7-b41a-0ad52ca0a8f8"
+    },
+    {
+      "rol": "Investigador Principal En",
+      "titulo": "Genómica de fenotipos extremos de la miopía: herramienta para el diagnóstico de las enfermedades visuales",
+      "fecha": "2021-09-14 - 2023-09-13",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F70a29c37-34ab-4019-9ae5-3410d36b4281"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Análisis de variantes genéticas potencialmente relacionadas con la variabilidad interindividual en la respuesta a medicamentos de amplio uso clínico.",
+      "fecha": "2018-03-15 - 2027-12-17",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F0feb877f-57b4-4b57-90ef-4d59f9bd68e0"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Genómica funcional para la descripción de mutaciones en el diagnóstico molecular del cáncer de seno esporádico en población Colombiana.",
+      "fecha": "2022-02-01 - 2027-06-18",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F32ab9a56-2956-4c61-9b3c-13ba38c0cc6a"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Análisis de asociación de polimorfismos de CYP46A1 y susceptibilidad a depresión y riesgo de suicidio",
+      "fecha": "2025-08-01 - 2026-07-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8fd848b7-f307-4050-a41a-940195ec1d10"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Implicación del riesgo poligénico en la reactividad plaquetaria de pacientes con síndrome coronario agudo tratados con clopidogrel.",
+      "fecha": "2021-11-10 - 2025-06-20",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F8bffc85c-3f6e-4b2e-8c04-e4f21cfa9463"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Factores genéticos asociados a la severidad clínica en población colombiana afectada por SARS-CoV-2.",
+      "fecha": "2022-02-01 - 2023-08-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F855508fe-b929-4eaf-b6e6-fc9d1f90ac01"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Impacto de los factores genéticos y no genéticos en la severidad de la infección por SARS-CoV-2: hacia la generación de un modelo de predicción de riesgo en población colombiana",
+      "fecha": "2021-03-01 - 2022-03-31",
+      "enlace": "https://research-hub.urosario.edu.co/individual?uri=http%3A%2F%2Fresearch-hub.urosario.edu.co%2Findividual%2F7fe22aff-5bad-444b-a6ee-72364ab30c0b"
+    },
+    {
+      "rol": "Coinvestigador Principal En",
+      "titulo": "Análisis farmacogenético para la estimación de la seguridad y eficacia en la respuesta a clopidogrel en pacientes con síndrome coronario agudo atendidos en MEDERI.",
+      "fecha": "2020-01-13 - 2021-09-30",
+      "enlace": "https://research-hub.urosario.edu.co/display/c7a5d406-03ab-47b3-ad32-c793c721f9e3"
+    }
+  ],
+  "servicios": [
+    {
+      "tipo": "Tutorías",
+      "titulo": "Frecuencias alélicas y genotípicas de polimorfismos en los genes cyp2c9, vkorc1 y cyp4f2 en pacientes colombianos anticoagulados con warfarina"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "premio": "Profesor (a) Distinguido (a)",
+      "fecha": "2015"
+    }
+  ],
+  "identidad": {
+    "cvlac": [
+      "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000250023"
+    ],
+    "orcid": [
+      "http://orcid.org/0000-0002-8352-9553"
+    ],
+    "google_académico": [
+      "https://scholar.google.com/citations?user=EtCAjO0AAAAJ"
+    ],
+    "pure": [
+      "https://urosario.pure.elsevier.com/en/persons/074b54b2-70c2-42e1-a124-d2fb93e5c628"
+    ],
+    "scopus_id": [
+      "55545661200"
+    ]
+  },
+  "id": "nora-constanza-contreras-bravo",
+  "facultad_csv": "Escuela de Medicina y Ciencias de la Salud",
+  "cargo_csv": "Profesor asistente de carrera",
+  "cvlac": {
+    "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000250023",
+    "cod_rh": "0000250023",
+    "datos_generales": {
+      "Categoría": "Investigador Junior (IJ) con vigencia hasta la publicación de los resultados de la siguiente convocatoria",
+      "Nombre": "Nora Constanza De Jesús Contreras Bravo",
+      "Nombre en citaciones": "CONTRERAS BRAVO, NORA CONSTANZA DE JESÚS",
+      "Nacionalidad": "Colombiana",
+      "Sexo": "Femenino"
+    },
+    "formacion_academica": [
+      "Maestría/Magister COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO MAESTRIA EN GENETICA HUMANA Febrerode2003 - Febrerode 2008 Correlación genotipo-fenotipo yaanálisis molecular en pacientes con sindrome Down.",
+      "Pregrado/Universitario UNIVERSIDAD PEDAGÓGICA NACIONAL LICENCIATURA EN BIOLOGIA Enerode1979 - de 1984"
+    ],
+    "formacion_complementaria": [
+      "Cursos de corta duración COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Docencia Universitaria Enerode2003 - de 2003"
+    ],
+    "experiencia_profesional": [
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: horas Semanales Enero de 1990 de",
+      "COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Dedicación: 40 horas Semanales Enero de 1990 de Actual Actividades de administración - Coordinador de programa - Cargo: Coordinador de la unidad de genética Julio de 2010 Enero de - Coordinador de programa - Cargo: Coordinadora de la maestría en Genética humana (Antes en Ciencias con énfasis en Genética humana) Julio de 2010 Enero de Actividades de docencia - Postgrado - Nombre del curso: Genética molecular, 7 Julio 2013 Enero - Postgrado - Nombre del curso: Tesis III, 1 Enero 2012 Septiembre 2015 - Pregrado - Nombre del curso: Genética Clínica, 80 Enero 2010 Diciembre 2016 - Postgrado - Nombre del curso: Tesis II, 1 Enero 2010 Julio 2011 - Postgrado - Nombre del curso: Tesis I, 1 Enero 2010 Diciembre 2011 - Postgrado - Nombre del curso: Genética Humana, 7 Enero 2009 Enero - Postgrado - Nombre del curso: Genotoxicología, 2 Enero 2008 Enero - Postgrado - Nombre del curso: Biología molecular II, 7 Enero 2008 Junio 2012 - Postgrado - Nombre del curso: Seminario de investigación III, 7 Enero 2007 Enero - Postgrado - Nombre del curso: Instrumentación y técnicas experimentales, 7 Enero 2007 Enero 2011 - Postgrado - Nombre del curso: Seminario de investigación IV, 7 Enero 2007 Enero - Postgrado - Nombre del curso: Seminario de investigación II, 7 Enero 2007 Enero - Postgrado - Nombre del curso: Biología celular y molecular, 7 Enero 2006 Junio 2011 - Pregrado - Nombre del curso: Genética Básica, 80 Febrero 1998 Julio 2015 - Extensión extracurricular - Nombre del curso: Cariotipos venta de servicios, 1 Enero 1990 Febrero 2008 Actividades de investigación - Investigación y Desarrollo - Titulo: TIPIFICACIÓN DE LA CÁNDIDA NOSOCOMIAL EN INSTITUCIONES HOSPITALARIAS DE BOGOTÁ Junio 2005 Junio 2007 - Investigación y Desarrollo - Titulo: Origen parental error no disyuncional y correlación genotipo-fenotipo en pacientes con Síndrome Down Junio 2004 Diciembre 2007 - Investigación y Desarrollo - Titulo: Junio 2003 - Investigación y Desarrollo - Titulo: Análisis de dosis génica y construcción de haplotipos para la caracterización de portadoras de mutaciones en el gen de la distrofina Junio 2002 Diciembre 2004 - Investigación y Desarrollo - Titulo: Diagnóstico molecular en pacientes con distrofia muscular y Becker Junio 2000 Diciembre 2004 - Investigación y Desarrollo - Titulo: Investigación en Citogenética Humana Enero 1990 Diciembre 2008",
+      "FUNDACIÓN UNIVERSITARIA DE CIENCIAS DE LA SALUD - FUCS Dedicación: 6 horas Semanales Enero de 1990 Diciembre de 1998 Actividades de administración - Miembro de consejo de centro - Cargo: Docencia e investigación Junio de 2005 de - Miembro de consejo de centro - Cargo: Otro (especifique) Enero de 1990 Junio de 2005 Actividades de docencia - Pregrado - Nombre del curso: Genética (I semestre), Enero 1990 - Pregrado - Nombre del curso: Curso de Biología Moelcular y Citogenética XII Jornadas Pediátricas, Enero 1990 - Pregrado - Nombre del curso: Genética Básica ( IV semestre), Enero 1990"
+    ],
+    "areas_actuacion": [
+      "Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías",
+      "Ciencias Médicas y de la Salud -- Medicina Básica -- Genética Humana"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Español",
+        "habla": "Bueno",
+        "escribe": "Bueno",
+        "lee": "Bueno",
+        "entiende": "Bueno"
+      },
+      {
+        "idioma": "Inglés",
+        "habla": "Deficiente",
+        "escribe": "Aceptable",
+        "lee": "Aceptable",
+        "entiende": "Aceptable"
+      }
+    ],
+    "reconocimientos": [
+      "La Orden de Calatrava al Mérito laboral,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Marzode 2011",
+      "La Orden de Calatrava al Mérito Laboral,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Marzode 2016",
+      "Profesor Distinguido,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO - Mayode 2015",
+      "Mención de Honor, - Octubrede 2019"
+    ],
+    "cursos_de_corta_duraci_n": [
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA TAMAR SILVA ALDANA, CARLOS MARTIN RESTREPO FERNANDEZ, MARIA ANTONIA GAONA, DORA RIOS, MARIA CRISTINA PENA, ANDRAEA PINEDA, JACOBUS DE WAARD, ARLEY GOMEZ, MARTHA INIRIDA GUERRERO, CLARA INEAS LEON, Curso internacional Avanzado microbiología aplicada a las enfermedades infecciosas, Finalidad: . En: Colombia ,2006, ,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO. participación: Docente , 1 semanas Areas: Ciencias Médicas y de la Salud -- Medicina Clínica -- Otros Temas de Medicina Clínica, Ciencias Médicas y de la Salud -- Medicina Clínica -- Medicina General e Interna, Ciencias Médicas y de la Salud -- Medicina Básica -- Anatomía y morfología,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA ALDANA, DORA FONSECA MENDOZA, Diplomado en Biología Celular y Molecular, Finalidad: Actualizacion de personal de la Fiscalia . En: Colombia ,2009, ,Fiscalía General De La Nación. participación: Docente , 0 semanas Palabras: Biologia Molecular, Genetica, Predisposición genética, Tecnicas de diagnóstico molecular, Mutación, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Producción técnica - Cursos de corta duración dictados - Extensión extracurricular: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, Primer simposio colombiano de neurofibromatosis, Finalidad: Aydar en la organización y logística del evento . En: Colombia ,2007, ,COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO. participación: Docente , 1 semanas Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "trabajos_dirigidos_tutorias": [
+      "Trabajos dirigidos/Tutorías - Trabajo de grado de maestría o especialidad clínica: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, FRECUENCIAS ALELICAS Y GENOTIPICAS DE POLIMORFISMOS EN LOS GENES CYP2C9, VKORC1 Y CYP4F2 EN PACIENTES COLOMBIANOS ANTICOAGULADOS CON WARFARINA COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Estado: Tesis concluida MAESTRIA EN GENETICA HUMANA, 2010. Dirigió como: Tutor principal, Persona(s) orientada(s): Nidia Peña Gonzalez Tutor(es)/Cotutor(es): NORA CONSTANZA DE JESUS CONTRERAS BRAVO, Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "jurado_comites_evaluacion": [
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, DORA FONSECA MENDOZA, PAUL LAISSUE, Titulo: Estudio molecular en dos hermanas afectadas por ictiosis congénita autosómica recesiva: descripción de una nueva mutación causal en TGM1 Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico Maestría en Genética Humana Nombre del orientado: Meyid Bernardo Moreno Saboyá Palabras: Biologia Molecular, Mutación, Ictiosis, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Genética Humana, Sectores: Salud humana - Otro,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, PAUL LAISSUE, HEIDI ELIANA MATEUS ARBELAEZ, Titulo: Estudio molecular de pacientes colombianos afectados por enanismo esencial Tipo de trabajo presentado: Trabajo de grado/tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico Maestría en Genética Humana Nombre del orientado: Julie Viviana Navarrete Vargas Palabras: enanismo escencial, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Genética Humana, Sectores: Salud humana - Otro,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, DORA FONSECA MENDOZA, PAUL LAISSUE, Titulo: LA VARIANTE c.-9C>G DEL PROMOTOR DE BMP15 ESTÁ ASOCIADADA A LA ETIOLOGÍA DE LA FALLA OVÁRICA PREMATURA NO-SINDRÓMICA Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRIA EN GENETICA HUMANA Nombre del orientado: Angela María Ortiz Palabras: falla ovárica prematura, Mutación, Areas: Ciencias Médicas y de la Salud -- Medicina Básica -- Genética Humana, Sectores: Salud humana - Otro,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, Titulo: Identificación y validación funcional de la mutación c.2355+1G>A en MSH4 descubierta en una familia afectada por insuficiencia ovárica primaria: descripción de una nueva etiología molecular de la enfermedad. Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRIA EN GENETICA HUMANA Nombre del orientado: Carolina Carlosama Puerto Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, Titulo: Estudio de la localizaciónsubcelular de la mutación THBD - p.Trp153Gly identificada en pacientes con aborto recurrente. Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRIA EN GENETICA HUMANA Nombre del orientado: Diana Carolina Sierra Díaz Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Datos complementarios - Jurado/Comisiones evaluadoras de trabajo de grado - Maestría: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, Titulo: Mutaciones bialélicas en HERC1 en una forma sindrómica de sobrecrecimiento y retardo mental Tipo de trabajo presentado: Proyecto de grado/Tesis en: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO programa académico MAESTRIA EN GENETICA HUMANA Nombre del orientado: María Alejandra Palma Montero Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "participacion_comites_evaluacion": [
+      "Datos complementarios - Participación en comités de evaluación - Profesor titular: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, Ascenso en el escalafón de un profesor de la Facultad de Ciencias de la Universidad del Tolima en: UNIVERSIDAD DEL TOLIMA Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "eventos_cientificos": [
+      "1 Nombre del evento: 11°Congreso Latinoamericano de Genética y 3° de Mutagénesis, carcinogénesis y teratogénesis Ambiental Tipo de evento: Congreso Ámbito: Nacional Realizado el:, en IBAGUÉ - Productos asociados Nombre del producto: Efectos letales del ácido valproico, reporte de un caso Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Instituciones asociadas Nombre de la institución: Asociacion Latinoamericana de Genética Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento:",
+      "1 Nombre del evento: 11°Congreso Latinoamericano de Genética y 3° de Mutagénesis, carcinogénesis y teratogénesis Ambiental Tipo de evento: Congreso Ámbito: Nacional Realizado el:, en IBAGUÉ -",
+      "Productos asociados Nombre del producto: Efectos letales del ácido valproico, reporte de un caso Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Instituciones asociadas Nombre de la institución: Asociacion Latinoamericana de Genética Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento:",
+      "2 Nombre del evento: Taller Oncor de \"Hibrizacion Rapida\" at the 11°Congreso Latinoamericano de Genética Tipo de evento: Congreso Ámbito: Internacional Realizado el:1994-09-24 00:00:00.0, 1994-09-24 00:00:00.0 en Puerto Vallarta - Puerto Vallarta México Instituciones asociadas Nombre de la institución: Asociacion Latinoamericana de Genética Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "2 Nombre del evento: Taller Oncor de \"Hibrizacion Rapida\" at the 11°Congreso Latinoamericano de Genética Tipo de evento: Congreso Ámbito: Internacional Realizado el:1994-09-24 00:00:00.0, 1994-09-24 00:00:00.0 en Puerto Vallarta - Puerto Vallarta México",
+      "Instituciones asociadas Nombre de la institución: Asociacion Latinoamericana de Genética Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "3 Nombre del evento: III Congreso Latinoamericano y XXXVIII Congreso Nacional de Genética Humana Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-11-20 00:00:00.0, 2013-11-23 00:00:00.0 en Guayaquil - Hotel Paraiso Beach- Cancun México Instituciones asociadas Nombre de la institución: Red Latinoamericana de GenéticaHumana Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "3 Nombre del evento: III Congreso Latinoamericano y XXXVIII Congreso Nacional de Genética Humana Tipo de evento: Congreso Ámbito: Internacional Realizado el:2013-11-20 00:00:00.0, 2013-11-23 00:00:00.0 en Guayaquil - Hotel Paraiso Beach- Cancun México",
+      "Instituciones asociadas Nombre de la institución: Red Latinoamericana de GenéticaHumana Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "4 Nombre del evento: XIII CONGRESO COLOMBIANO DE GENETICA HUMANA VII CONGRESO INTERNACIONAL Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-09-03 00:00:00.0, 2014-09-05 00:00:00.0 en CALI - Productos asociados Nombre del producto: Deleción XPTER de 11 MB en XP22,2: Reporte de caso Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Ponente",
+      "4 Nombre del evento: XIII CONGRESO COLOMBIANO DE GENETICA HUMANA VII CONGRESO INTERNACIONAL Tipo de evento: Congreso Ámbito: Internacional Realizado el:2014-09-03 00:00:00.0, 2014-09-05 00:00:00.0 en CALI -",
+      "Productos asociados Nombre del producto: Deleción XPTER de 11 MB en XP22,2: Reporte de caso Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Ponente",
+      "5 Nombre del evento: II Congreso Latinoamericano de Genética y 3er congreso de mutaciones, carcinogénesis y teratogénsis ambiental. Tipo de evento: Congreso Ámbito: Realizado el:1994-01-01 00:00:00.0, en Puerto Vallarta - Productos asociados Nombre del producto: Efectos letales del ácido valproico, reporte de un caso Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "5 Nombre del evento: II Congreso Latinoamericano de Genética y 3er congreso de mutaciones, carcinogénesis y teratogénsis ambiental. Tipo de evento: Congreso Ámbito: Realizado el:1994-01-01 00:00:00.0, en Puerto Vallarta -",
+      "Productos asociados Nombre del producto: Efectos letales del ácido valproico, reporte de un caso Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "6 Nombre del evento: 11°Jornadas de actualización en Pediatría Colsubsio-Universidad del Rosario Tipo de evento: Otro Ámbito: Realizado el:2002-01-01 00:00:00.0, en BOGOTÁ, D.C. - Productos asociados Nombre del producto: Guía de Citogenética Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "6 Nombre del evento: 11°Jornadas de actualización en Pediatría Colsubsio-Universidad del Rosario Tipo de evento: Otro Ámbito: Realizado el:2002-01-01 00:00:00.0, en BOGOTÁ, D.C. -",
+      "Productos asociados Nombre del producto: Guía de Citogenética Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Completo",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "7 Nombre del evento: IV Congreso Colombiano de Genética Tipo de evento: Congreso Ámbito: Realizado el:2000-01-01 00:00:00.0, en POPAYÁN - Productos asociados Nombre del producto: Posible Asociación entre fragilidad cromosómica y aborto recurrente Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "7 Nombre del evento: IV Congreso Colombiano de Genética Tipo de evento: Congreso Ámbito: Realizado el:2000-01-01 00:00:00.0, en POPAYÁN -",
+      "Productos asociados Nombre del producto: Posible Asociación entre fragilidad cromosómica y aborto recurrente Tipo de producto: Producción bibliográfica - Trabajos en eventos (Capítulos de memoria) - Resumen",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "8 Nombre del evento: II Simposio Internacional de Actualización en Inmunología y Biología Molecular Tipo de evento: Simposio Ámbito: Nacional Realizado el:1995-06-17 00:00:00.0, 1995-06-17 00:00:00.0 en BARRANQUILLA - Auditorio Universidaddel Norte Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DEL NORTE Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "8 Nombre del evento: II Simposio Internacional de Actualización en Inmunología y Biología Molecular Tipo de evento: Simposio Ámbito: Nacional Realizado el:1995-06-17 00:00:00.0, 1995-06-17 00:00:00.0 en BARRANQUILLA - Auditorio Universidaddel Norte",
+      "Instituciones asociadas Nombre de la institución: FUNDACIÓN UNIVERSIDAD DEL NORTE Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "9 Nombre del evento: II Jornadas Universitarias de Genética Tipo de evento: Otro Ámbito: Nacional Realizado el:2003-04-04 00:00:00.0, 2003-04-04 00:00:00.0 en BOGOTÁ, D.C. - Universidad Colegio mayor de Cundinamarca Instituciones asociadas Nombre de la institución: ASOCIACION COLOMBIANA DE GENETICA HUMANA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "9 Nombre del evento: II Jornadas Universitarias de Genética Tipo de evento: Otro Ámbito: Nacional Realizado el:2003-04-04 00:00:00.0, 2003-04-04 00:00:00.0 en BOGOTÁ, D.C. - Universidad Colegio mayor de Cundinamarca",
+      "Instituciones asociadas Nombre de la institución: ASOCIACION COLOMBIANA DE GENETICA HUMANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "10 Nombre del evento: Gestion del Software en Elementos de Aprendizaje Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-07-07 00:00:00.0, 2006-07-07 00:00:00.0 en BOGOTÁ, D.C. - Universidadel Rosario. Biblioteca Claustro Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "10 Nombre del evento: Gestion del Software en Elementos de Aprendizaje Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-07-07 00:00:00.0, 2006-07-07 00:00:00.0 en BOGOTÁ, D.C. - Universidadel Rosario. Biblioteca Claustro",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "11 Nombre del evento: Curso El Adolescente de Hoy, Protagonista de su proceso de Formación y el Rol del Tutor como Facilitador de sus Procesos de Aprendizaje Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-06-14 00:00:00.0, 2007-06-14 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "11 Nombre del evento: Curso El Adolescente de Hoy, Protagonista de su proceso de Formación y el Rol del Tutor como Facilitador de sus Procesos de Aprendizaje Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-06-14 00:00:00.0, 2007-06-14 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "12 Nombre del evento: Cursos Tutorías, Conceptualización Básica, Aplicaciones y Alternativas de Organización en la Universidad del Rosario Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-10-20 00:00:00.0, 2006-10-20 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario. Q.M Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "12 Nombre del evento: Cursos Tutorías, Conceptualización Básica, Aplicaciones y Alternativas de Organización en la Universidad del Rosario Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-10-20 00:00:00.0, 2006-10-20 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario. Q.M",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "13 Nombre del evento: Curso Virtual Aprendizaje Basado en Métodos de caso Tipo de evento: Otro Ámbito: Nacional Realizado el:2011-04-30 00:00:00.0, 2011-04-30 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "13 Nombre del evento: Curso Virtual Aprendizaje Basado en Métodos de caso Tipo de evento: Otro Ámbito: Nacional Realizado el:2011-04-30 00:00:00.0, 2011-04-30 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "14 Nombre del evento: Simposio Evaluación en Educación médica Tipo de evento: Simposio Ámbito: Nacional Realizado el:2011-05-10 00:00:00.0, 2011-05-10 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "14 Nombre del evento: Simposio Evaluación en Educación médica Tipo de evento: Simposio Ámbito: Nacional Realizado el:2011-05-10 00:00:00.0, 2011-05-10 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "15 Nombre del evento: Curso Escribir para Publicar Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-12-04 00:00:00.0, 2006-12-04 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Q. M Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "15 Nombre del evento: Curso Escribir para Publicar Tipo de evento: Otro Ámbito: Nacional Realizado el:2006-12-04 00:00:00.0, 2006-12-04 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Q. M",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "16 Nombre del evento: Farmacogenética: Aplicaciones y métodos para paises en desarrollo Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-12-09 00:00:00.0, 2011-12-09 00:00:00.0 en San José - Universidad de Costa Rica Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE COSTA RICA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "16 Nombre del evento: Farmacogenética: Aplicaciones y métodos para paises en desarrollo Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-12-09 00:00:00.0, 2011-12-09 00:00:00.0 en San José - Universidad de Costa Rica",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE COSTA RICA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "17 Nombre del evento: V Congreso Internacional y VIII Colombiano de Genética Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-05-26 00:00:00.0, 2007-05-26 00:00:00.0 en CALI - Cali Centro de Convenciones Instituciones asociadas Nombre de la institución: ASOCIACION COLOMBIANA DE GENETICA HUMANA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "17 Nombre del evento: V Congreso Internacional y VIII Colombiano de Genética Tipo de evento: Congreso Ámbito: Nacional Realizado el:2007-05-26 00:00:00.0, 2007-05-26 00:00:00.0 en CALI - Cali Centro de Convenciones",
+      "Instituciones asociadas Nombre de la institución: ASOCIACION COLOMBIANA DE GENETICA HUMANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "18 Nombre del evento: II Curso Internacional de Biología Molecular Aplicada a la Medicina: Identificación Humana Tipo de evento: Otro Ámbito: Nacional Realizado el:1997-12-05 00:00:00.0, 1997-12-05 00:00:00.0 en IBAGUÉ - Universidad del Rosario. Q.M. Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "18 Nombre del evento: II Curso Internacional de Biología Molecular Aplicada a la Medicina: Identificación Humana Tipo de evento: Otro Ámbito: Nacional Realizado el:1997-12-05 00:00:00.0, 1997-12-05 00:00:00.0 en IBAGUÉ - Universidad del Rosario. Q.M.",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "19 Nombre del evento: II Curso Internacional de Biología Molecular aplicada A la Medicina: Diseño de Oligonucleótidos, optimización de la PCR y Long PCR Tipo de evento: Otro Ámbito: Nacional Realizado el:1997-11-28 00:00:00.0, 1997-11-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "19 Nombre del evento: II Curso Internacional de Biología Molecular aplicada A la Medicina: Diseño de Oligonucleótidos, optimización de la PCR y Long PCR Tipo de evento: Otro Ámbito: Nacional Realizado el:1997-11-28 00:00:00.0, 1997-11-28 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "20 Nombre del evento: Curso Internacional de Biología Molecular Aplicado a la Medicina Tipo de evento: Otro Ámbito: Nacional Realizado el:1996-11-16 00:00:00.0, 1996-11-16 00:00:00.0 en BOGOTÁ, D.C. - Universidadel Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "20 Nombre del evento: Curso Internacional de Biología Molecular Aplicado a la Medicina Tipo de evento: Otro Ámbito: Nacional Realizado el:1996-11-16 00:00:00.0, 1996-11-16 00:00:00.0 en BOGOTÁ, D.C. - Universidadel Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "21 Nombre del evento: Seminario - Taller \"Elaboración de Pruebas Objetivas para la Evaluación Educativa\" Tipo de evento: Seminario Ámbito: Nacional Realizado el:2013-06-20 00:00:00.0, 2013-06-20 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "21 Nombre del evento: Seminario - Taller \"Elaboración de Pruebas Objetivas para la Evaluación Educativa\" Tipo de evento: Seminario Ámbito: Nacional Realizado el:2013-06-20 00:00:00.0, 2013-06-20 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "22 Nombre del evento: Curso Didactica Universitaria Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-06-22 00:00:00.0, 2007-06-22 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "22 Nombre del evento: Curso Didactica Universitaria Tipo de evento: Otro Ámbito: Nacional Realizado el:2007-06-22 00:00:00.0, 2007-06-22 00:00:00.0 en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "23 Nombre del evento: Seminario \"Estudio Citogenético en Diagnóstico Prenatal\" Tipo de evento: Seminario Ámbito: Nacional Realizado el:1991-02-15 00:00:00.0, 1991-02-15 00:00:00.0 en BOGOTÁ, D.C. - Instituto NAacional de Salud- Auditorio Instituciones asociadas Nombre de la institución: INSTITUTO NACIONAL DE SALUD Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "23 Nombre del evento: Seminario \"Estudio Citogenético en Diagnóstico Prenatal\" Tipo de evento: Seminario Ámbito: Nacional Realizado el:1991-02-15 00:00:00.0, 1991-02-15 00:00:00.0 en BOGOTÁ, D.C. - Instituto NAacional de Salud- Auditorio",
+      "Instituciones asociadas Nombre de la institución: INSTITUTO NACIONAL DE SALUD Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "24 Nombre del evento: 1a. Jornada de Actualización \"Avances en Microbiología\" Tipo de evento: Otro Ámbito: Nacional Realizado el:, en BOGOTÁ, D.C. - Auditorio Institución Universitaria Colegio Mayor de Cundinamarca Instituciones asociadas Nombre de la institución: UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "24 Nombre del evento: 1a. Jornada de Actualización \"Avances en Microbiología\" Tipo de evento: Otro Ámbito: Nacional Realizado el:, en BOGOTÁ, D.C. - Auditorio Institución Universitaria Colegio Mayor de Cundinamarca",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "25 Nombre del evento: Aprovechamoiento de la Web 2.0 Tipo de evento: Seminario Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "25 Nombre del evento: Aprovechamoiento de la Web 2.0 Tipo de evento: Seminario Ámbito: Nacional Realizado el:2008-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "26 Nombre del evento: Introducción al uso de Plink para estudios genéticos de Asociación Tipo de evento: Taller Ámbito: Nacional Realizado el:2011-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad de la Sabana Bogotá Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "26 Nombre del evento: Introducción al uso de Plink para estudios genéticos de Asociación Tipo de evento: Taller Ámbito: Nacional Realizado el:2011-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad de la Sabana Bogotá",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "27 Nombre del evento: Primer Simposio Colombiano de Neurofibromatosis Tipo de evento: Simposio Ámbito: Nacional Realizado el:2007-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad del rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "27 Nombre del evento: Primer Simposio Colombiano de Neurofibromatosis Tipo de evento: Simposio Ámbito: Nacional Realizado el:2007-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad del rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "28 Nombre del evento: Técnicas de elaboración de pruebas objetivas para la evaluación de la educación superior Tipo de evento: Seminario Ámbito: Nacional Realizado el:2009-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad del Rosario Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "28 Nombre del evento: Técnicas de elaboración de pruebas objetivas para la evaluación de la educación superior Tipo de evento: Seminario Ámbito: Nacional Realizado el:2009-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidad del Rosario",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "29 Nombre del evento: primer congreso internacional rosarista sobre medicina tropical y enfermedades infecciosas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidadel Rosario- Bogotá Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "29 Nombre del evento: primer congreso internacional rosarista sobre medicina tropical y enfermedades infecciosas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en BOGOTÁ, D.C. - Universidadel Rosario- Bogotá",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "30 Nombre del evento: XII Congreso Colombiano de Genética VI Congreso Internacional de Genética Humana Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-10-10 00:00:00.0, 2012-10-12 00:00:00.0 en SANTA MARTA - Productos asociados Nombre del producto: 47,XXX,DUP(1)(Q22). REPORTE DE CASO Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: PACIENTE CON DUPLICACIÓN 10P15.3-P13 Y DELECIÓN 13Q32.3-Q34. REPORTE DE CASO Tipo de producto: Demás trabajos - Demás trabajos - Póster Instituciones asociadas Nombre de la institución: ASOCIACION COLOMBIANA DE GENETICA HUMANA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Ponente",
+      "30 Nombre del evento: XII Congreso Colombiano de Genética VI Congreso Internacional de Genética Humana Tipo de evento: Congreso Ámbito: Internacional Realizado el:2012-10-10 00:00:00.0, 2012-10-12 00:00:00.0 en SANTA MARTA -",
+      "Productos asociados Nombre del producto: 47,XXX,DUP(1)(Q22). REPORTE DE CASO Tipo de producto: Demás trabajos - Demás trabajos - Póster Nombre del producto: PACIENTE CON DUPLICACIÓN 10P15.3-P13 Y DELECIÓN 13Q32.3-Q34. REPORTE DE CASO Tipo de producto: Demás trabajos - Demás trabajos - Póster",
+      "Instituciones asociadas Nombre de la institución: ASOCIACION COLOMBIANA DE GENETICA HUMANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Ponente",
+      "31 Nombre del evento: II Jornadas de actualización científica Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en BOGOTÁ, D.C. - Colegio Mayor de Cundinamarca Instituciones asociadas Nombre de la institución: UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "31 Nombre del evento: II Jornadas de actualización científica Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en BOGOTÁ, D.C. - Colegio Mayor de Cundinamarca",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "32 Nombre del evento: III Taller de actualización en Citometría de Flujo Tipo de evento: Taller Ámbito: Nacional Realizado el:2000-01-01 00:00:00.0, en BOGOTÁ, D.C. - Pontificia Universidad Javeriana Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "32 Nombre del evento: III Taller de actualización en Citometría de Flujo Tipo de evento: Taller Ámbito: Nacional Realizado el:2000-01-01 00:00:00.0, en BOGOTÁ, D.C. - Pontificia Universidad Javeriana",
+      "Instituciones asociadas Nombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "33 Nombre del evento: Primer Congreso Internacional de Medicina Tropical y Enfermedades Infecciosas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en BOGOTÁ, D.C. - Quinta Mutis Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "33 Nombre del evento: Primer Congreso Internacional de Medicina Tropical y Enfermedades Infecciosas Tipo de evento: Congreso Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, en BOGOTÁ, D.C. - Quinta Mutis",
+      "Instituciones asociadas Nombre de la institución: COLEGIO MAYOR NUESTRA SEÑORA DEL ROSARIO Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "34 Nombre del evento: I curso Internacional de Genética Forense haplotipos del cromosoma Y, extracción de muestras óseas y difíciles Tipo de evento: Otro Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, 2003-02-05 00:00:00.0 en MEDELLÍN - Universidad de Antioquia Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "34 Nombre del evento: I curso Internacional de Genética Forense haplotipos del cromosoma Y, extracción de muestras óseas y difíciles Tipo de evento: Otro Ámbito: Nacional Realizado el:2003-01-01 00:00:00.0, 2003-02-05 00:00:00.0 en MEDELLÍN - Universidad de Antioquia",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD DE ANTIOQUIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "35 Nombre del evento: II Congreso Internacional y V Congreso Colombiano de Genética Tipo de evento: Congreso Ámbito: Nacional Realizado el:2002-01-01 00:00:00.0, en BOGOTÁ, D.C. - Ciudad Universitaria Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "35 Nombre del evento: II Congreso Internacional y V Congreso Colombiano de Genética Tipo de evento: Congreso Ámbito: Nacional Realizado el:2002-01-01 00:00:00.0, en BOGOTÁ, D.C. - Ciudad Universitaria",
+      "Instituciones asociadas Nombre de la institución: UNIVERSIDAD NACIONAL DE COLOMBIA Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Organizador",
+      "36 Nombre del evento: TALLER DE NOMENCLATURA DE GENES Y CROMOSOMAS- CURSO PRE CONGRESO Tipo de evento: Taller Ámbito: Internacional Realizado el:2013-11-20 00:00:00.0, 2013-11-21 00:00:00.0 en Cancún - HOTEL IBEROSTAR PARAISO LINDO Instituciones asociadas Nombre de la institución: Red Latinoamericana de GenéticaHumana Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "36 Nombre del evento: TALLER DE NOMENCLATURA DE GENES Y CROMOSOMAS- CURSO PRE CONGRESO Tipo de evento: Taller Ámbito: Internacional Realizado el:2013-11-20 00:00:00.0, 2013-11-21 00:00:00.0 en Cancún - HOTEL IBEROSTAR PARAISO LINDO",
+      "Instituciones asociadas Nombre de la institución: Red Latinoamericana de GenéticaHumana Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "37 Nombre del evento: Curso internacional teórico-práctico Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-12-05 00:00:00.0, 2011-12-09 00:00:00.0 en San José - Universidad de Costa Rica Instituciones asociadas Nombre de la institución: Consejo Nacional De Ciencia Y Tecnología Tipo de vinculación Patrocinadora Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente",
+      "37 Nombre del evento: Curso internacional teórico-práctico Tipo de evento: Otro Ámbito: Internacional Realizado el:2011-12-05 00:00:00.0, 2011-12-09 00:00:00.0 en San José - Universidad de Costa Rica",
+      "Instituciones asociadas Nombre de la institución: Consejo Nacional De Ciencia Y Tecnología Tipo de vinculación Patrocinadora",
+      "Participantes Nombre: NORA CONSTANZA DE JESUS CONTRERAS BRAVO Rol en el evento: Asistente"
+    ],
+    "articulos": [
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA TAMAR SILVA ALDANA, CARLOS MARTIN RESTREPO FERNANDEZ, \"Asociación entre Fragilidad Cromosómica y Aborto Recurrente\" . En: Colombia Controversias En Gilecologia Y Obstetricia ISSN: 0123-6504 ed: Ediprime Ltda. v. 8 fasc. 41 p.349 - 353 ,2001, DOI: Palabras: aborto refcurrente, fragilidades, cromosomas, cito, Sectores: Salud humana - Cuidado a la salud de las personas,",
+        "titulo": "Asociación entre Fragilidad Cromosómica y Aborto Recurrente",
+        "doi": "Palabras:",
+        "anio": "2001"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA TAMAR SILVA ALDANA, CARLOS MARTIN RESTREPO FERNANDEZ, FABIOLA VALENZUELA, \"Estudio Citogenético en Líquidos amnióticos para la detección de anomalías cromosómicas del feto\" . En: Colombia Controversias En Gilecologia Y Obstetricia ISSN: 0123-6504 ed: Ediprime Ltda. v. 11 fasc. 61 p.1227 - 1231 ,2003, DOI: Palabras: Líquidos amnióticos, diagnostico prenatal, carioti,",
+        "titulo": "Estudio Citogenético en Líquidos amnióticos para la detección de anomalías cromosómicas del feto",
+        "doi": "Palabras:",
+        "anio": "2003"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: CLAUDIA TAMAR SILVA ALDANA, DORA FONSECA MENDOZA, HEIDI ELIANA MATEUS ARBELAEZ, NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CARLOS MARTIN RESTREPO FERNANDEZ, \"Deleciones en el gen de la Distrofina en 62 familias colombianas, correlación genotipo-fenotipo para la Distrofia Muscular de Duchenne y Becker\" . En: Colombia COLOMBIA MEDICA ISSN: 0120-8322 ed: Facultad de Salud de la Universidad del Valle v. 35 fasc. 4 p.191 - 198 ,2004, DOI:",
+        "titulo": "Deleciones en el gen de la Distrofina en 62 familias colombianas, correlación genotipo-fenotipo para la Distrofia Muscular de Duchenne y Becker",
+        "anio": "2004"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): HEIDI ELIANA MATEUS ARBELAEZ, DORA FONSECA MENDOZA, CLAUDIA TAMAR SILVA ALDANA, NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CARLOS MARTIN RESTREPO FERNANDEZ, \"El virus del papiloma Humano una visión global del principal factor de riesgo para cáncer de cervix\" . En: Colombia Controversias En Gilecologia Y Obstetricia ISSN: 0123-6504 ed: Ediprime Ltda. v. 13 fasc. 72 p.1811 - 1820 ,2004, DOI:",
+        "titulo": "El virus del papiloma Humano una visión global del principal factor de riesgo para cáncer de cervix",
+        "anio": "2004"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): HEIDI ELIANA MATEUS ARBELAEZ, DORA FONSECA MENDOZA, CLAUDIA TAMAR SILVA ALDANA, NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CESAR PAYAN, CARLOS MARTIN RESTREPO FERNANDEZ, \"Aspectos Clínico Moleculares de la Hiperplasia Suprarrenal Congénita\" . En: Colombia Controversias En Gilecologia Y Obstetricia ISSN: 0123-6504 ed: Ediprime Ltda. v. 13 fasc. 73 p.1857 - 1870 ,2004, DOI:",
+        "titulo": "Aspectos Clínico Moleculares de la Hiperplasia Suprarrenal Congénita",
+        "anio": "2004"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA ALDANA, DORA YANETH FONSECA, CARLOS MARTIN RESTREPO FERNANDEZ, HEIDI ELIANA MATEUS ARBELAEZ, \"DEFICIENCIA DE GLUCOSA 6-FOSFATO DESHIDROGENASA: ASPECTOS GENERALES DE LA ERITROENZIMOPATÍA MAS FRECUENTE EN EL MUNDO\" . En: Colombia Acta Médica Colombiana ISSN: 0120-2448 ed: Editorial Acta Medica Colombiana v. 30 fasc. 2 p.59 - 64 ,2005, DOI: Palabras: Biologia Molecular, Glucosa 6 Fosfato Deshidrogenasa, Genetica,",
+        "titulo": "DEFICIENCIA DE GLUCOSA 6-FOSFATO DESHIDROGENASA: ASPECTOS GENERALES DE LA ERITROENZIMOPATÍA MAS FRECUENTE EN EL MUNDO",
+        "doi": "Palabras:",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA, DORA FONSECA MENDOZA, CARLOS MARTIN RESTREPO FERNANDEZ, HEIDI ELIANA MATEUS ARBELAEZ, \"Distrofia muscular de Duchenne y Becker: una visión molecular\" . En: Colombia Acta Médica Colombiana ISSN: 0120-2448 ed: Editorial Acta Medica Colombiana v. 30 fasc. 3 p.112 - 116 ,2005, DOI: Palabras: Biologia Molecular, Genetica, Distrofia,",
+        "titulo": "Distrofia muscular de Duchenne y Becker: una visión molecular",
+        "doi": "Palabras:",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA ALDANA, DORA FONSECA MENDOZA, CARLOS MARTIN RESTREPO FERNANDEZ, HEIDI ELIANA MATEUS ARBELAEZ, \"ADN fetal en sangre materna: Implicaciones para el diagnóstico prenatal.\" . En: Colombia Controversias En Gilecologia Y Obstetricia ISSN: 0123-6504 ed: Ediprime Ltda. v. 15 fasc. 79 p.2132 - 2139 ,2005, DOI: Palabras: Biologia Molecular, Genetica, Diagnóstico Prenatal,",
+        "titulo": "ADN fetal en sangre materna: Implicaciones para el diagnóstico prenatal.",
+        "doi": "Palabras:",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): NORA CONSTANZA DE JESUS CONTRERAS BRAVO, DORA FONSECA MENDOZA, CLAUDIA TAMAR SILVA ALDANA, CARLOS MARTIN RESTREPO FERNANDEZ, HEIDI ELIANA MATEUS ARBELAEZ, CESAR PAYAN, \"Mecanismos moleculares asociados al cancer de seno\" . En: Colombia Controversias En Gilecologia Y Obstetricia ISSN: 0123-6504 ed: Ediprime Ltda. v. 14 fasc. 76 p.2000 - 2006 ,2005, DOI: Palabras: Biologia Molecular, Genetica, cáncer de seno, Predisposición genética,",
+        "titulo": "Mecanismos moleculares asociados al cancer de seno",
+        "doi": "Palabras:",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Revisión (Survey): NORA CONSTANZA DE JESUS CONTRERAS BRAVO, DORA FONSECA MENDOZA, CLAUDIA TAMAR SILVA ALDANA, CARLOS MARTIN RESTREPO FERNANDEZ, HEIDI ELIANA MATEUS ARBELAEZ, CESAR PAYAN, \"Falla ovárica prematura y síndrome X frágil\" . En: Colombia Controversias En Gilecologia Y Obstetricia ISSN: 0123-6504 ed: Ediprime Ltda. v. 13 fasc. 74-75 p.1899 - 1903 ,2005, DOI: Palabras: Biologia Molecular, Genetica, síndrome X frágil, falla ovárica prematura,",
+        "titulo": "Falla ovárica prematura y síndrome X frágil",
+        "doi": "Palabras:",
+        "anio": "2005"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Citogenética en la Medicina Actual\" . En: Colombia Acta Médica Colombiana ISSN: 0120-2448 ed: Editorial Acta Medica Colombiana v. 33 fasc. 4 p.309 - 316 ,2008, DOI:",
+        "titulo": "Citogenética en la Medicina Actual",
+        "anio": "2008"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Una nueva deleción intersticial 14q12, excluyendo el gen FOXG1 en un paciente afectado por una variante del síndrome RETT\" . En: Colombia UNIVERSITAS MEDICA ISSN: 0041-9095 ed: v. 50 fasc. 4 p.490 - 658 ,2009, DOI:",
+        "titulo": "Una nueva deleción intersticial 14q12, excluyendo el gen FOXG1 en un paciente afectado por una variante del síndrome RETT",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA ALDANA, DORA FONSECA MENDOZA, DORA JANETH FONSECA MENDOZA, HEIDI ELIANA MATEUS, CLAUDIA TAMAR SILVA ALDANA, \"Análisis de deleciones en 15 exones situados dentro y fuera del hot spot mutacional del gen de la distrofina en pacientes con distrofia muscular de Duchenne\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 7 fasc. 2 p.15 - 21 ,2009, DOI: Palabras: Distrofia muscular de Duchenne, Mutación,",
+        "titulo": "Análisis de deleciones en 15 exones situados dentro y fuera del hot spot mutacional del gen de la distrofina en pacientes con distrofia muscular de Duchenne",
+        "doi": "Palabras:",
+        "anio": "2009"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA ALDANA, HEIDI ELIANA MATEUS, \"Correlación genotipo -fenotipo y análisis molecular en pacientes con Síndrome Down\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 10 fasc. 3 p.295 - 305 ,2012, DOI: Palabras: Trisomia 21, Sindrome Down, duplicación 21q, culti, recombinación, No disyunción,",
+        "titulo": "Correlación genotipo -fenotipo y análisis molecular en pacientes con Síndrome Down",
+        "doi": "Palabras:",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA, HEIDI ELIANO MATEUS ARBELAEZ, \"Correlación genotipo-fenotipo y analisis molecular en pacientes con Sindrome Down\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 10 fasc. 3 p.295 - 305 ,2012, DOI: 2145-4507 Palabras: No disyunción, Sindrome Down, dup21q, Trisomia 21, recombinación, PCR,",
+        "titulo": "Correlación genotipo-fenotipo y analisis molecular en pacientes con Sindrome Down",
+        "doi": "2145-4507",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, MARTHA CAROLINA RIVERA NIETO, HEIDI ELIANA MATEUS, SANDRA JANNETH OSPINA LAGOS, \"Síndrome Pallister Killian Diagnosticado por AHGC. Reporte de un caso\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 10 fasc. 3 p.572 - 573 ,2012, DOI: 2145-4507",
+        "titulo": "Síndrome Pallister Killian Diagnosticado por AHGC. Reporte de un caso",
+        "doi": "2145-4507",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, HEIDI ELIANA MATEUS, MARTHA CAROLINA RIVERA NIETO, SANDRA JANNETH OSPINA LAGOS, \"47,XXX,dup(1)(q22). reporte de un caso\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 10 fasc. 3 p.581 - 582 ,2012, DOI: 2145-4507",
+        "titulo": "47,XXX,dup(1)(q22). reporte de un caso",
+        "doi": "2145-4507",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA SILVA, HEIDI ELIANA MATEUS ARBELAEZ, DORA JANETH FONSECA MENDOZA, SANDRA JANNETH OSPINA LAGOS, \"ANÁLISIS CLÍNICO Y MOLECULAR DE UNA PACIENTE CON PENTASOMIA DEL CROMOSOMA X.\" . En: Colombia ACTA BIOLOGICA COLOMBIANA ISSN: 1900-1649 ed: UNIV NAC COLOMBIA, FAC CIENCIAS, DEPT BIOL v. 15 fasc. 2 p.61 - 72 ,2010, DOI:",
+        "titulo": "ANÁLISIS CLÍNICO Y MOLECULAR DE UNA PACIENTE CON PENTASOMIA DEL CROMOSOMA X.",
+        "anio": "2010"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Corto (Resumen): NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CLAUDIA TAMAR SILVA ALDANA, CARLOS MARTIN RESTREPO FERNANDEZ, HEIDI ELIANA MATEUS ARBELAEZ, NICOLAS RAMOS, \"INFORME DE UN CASO CON dup (21q) EN UNA NIÑA CON DIAGNOSTICO CLINICO DE SINDROME DOWN\" . En: Colombia ACTA BIOLOGICA COLOMBIANA ISSN: 0120-548X ed: UNIV NAC COLOMBIA, FAC CIENCIAS, DEPT BIOL v. 6 fasc. 2 p.68 - 69 ,2001, DOI: Palabras: Sindrome Down, dup21q, Trisomia 21, Sectores: Salud humana - Cuidado a la salud de las personas,",
+        "titulo": "INFORME DE UN CASO CON dup (21q) EN UNA NIÑA CON DIAGNOSTICO CLINICO DE SINDROME DOWN",
+        "doi": "Palabras:",
+        "anio": "2001"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Caso clínico: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, HEIDI ELIANA MATEUS ARBELAEZ, MARTHA CAROLINA RIVERA NIETO, SANDRA JANNETH OSPINA LAGOS, \"Paciente con duplicación 10p15.3-p13 y deleción 13q32.3-q34. Reporte de caso\" . En: Colombia REVISTA CIENCIAS DE LA SALUD ISSN: 1692-7273 ed: Universidad del Rosario, v. 10 fasc. 3 p.576 - 576 ,2012, DOI:",
+        "titulo": "Paciente con duplicación 10p15.3-p13 y deleción 13q32.3-q34. Reporte de caso",
+        "anio": "2012"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CARLOS MARTIN RESTREPO FERNANDEZ, PAUL LAISSUE, \"Creating and validating a warfarin pharmacogenetic dosing algorithm for Colombian patients\" . En: Cuba PHARMACOGENOMICS PERSONALIZED MEDICINE ISSN: 1178-7066 ed: Dove Medical Press Ltd v. 11 fasc. N/A p.169 - 178 ,2018, DOI: 10.2147/PGPM.S170515",
+        "titulo": "Creating and validating a warfarin pharmacogenetic dosing algorithm for Colombian patients",
+        "doi": "10.2147/PGPM.S170515",
+        "anio": "2018"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, DORA FONSECA MENDOZA, PAUL LAISSUE, \"Copy number variation profiling in pharmacogenetics CYP-450 and GST genes in Colombian population\" . En: Inglaterra BMC MEDICAL GENOMICS ISSN: 1755-8794 ed: BMC v. 12 fasc. 2-2 p.2 - 11 ,2019, DOI: 10.1186/s12920-019-0556-x Palabras: DNA copy number variation, pharmacogenetic,",
+        "titulo": "Copy number variation profiling in pharmacogenetics CYP-450 and GST genes in Colombian population",
+        "doi": "10.1186/s12920-019-0556-x",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CARLOS RESTREPO FERNANDEZ, CLAUDIA TAMAR SILVA ALDANA, \"Uveitis and Multiple Sclerosis: Potential Common Causal Mutations\" . En: Estados Unidos MOLECULAR NEUROBIOLOGY ISSN: 0893-7648 ed: Springer v. 56 fasc. 12 p.8008 - 8017 ,2019, DOI: 10.1007/s12035-019-1630-2 Palabras: Whole exome sequencing, Esclerosis multiple,",
+        "titulo": "Uveitis and Multiple Sclerosis: Potential Common Causal Mutations",
+        "doi": "10.1007/s12035-019-1630-2",
+        "anio": "2019"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, CARLOS ALBERTO CALDERON OSPINA, DORA JANETH FONSECA MENDOZA, \"A Pharmacogenetic Study of CYP2C19 in Acute Coronary Syndrome Patients of Colombian Origin Reveals New Polymorphisms Potentially Related to Clopidogrel Therapy\" . En: Suiza JOURNAL OF PERSONALIZED MEDICINE ISSN: 2075-4426 ed: mdpi v. 11 fasc. 5 p.1 - 15 ,2021, DOI: 10.3390/jpm11050400",
+        "titulo": "A Pharmacogenetic Study of CYP2C19 in Acute Coronary Syndrome Patients of Colombian Origin Reveals New Polymorphisms Potentially Related to Clopidogrel Therapy",
+        "doi": "10.3390/jpm11050400",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, OSCAR JAVIER ORTEGA RECALDE, DORA JANETH FONSECA MENDOZA, JUAN MAURICIO PARDO OVIEDO, \"Association between Paraoxonase-1 p.Q192R Polymorphism and Coronary Artery Disease susceptibility in the Colombian Population\" . En: Nueva Zelanda VASCULAR HEALTH AND RISK MANAGEMENT ISSN: 1178-2048 ed: v. 17 fasc. N/A p.689 - 699 ,2021, DOI: 10.3390/jpm11050400 Palabras: cardiovascular disease susceptibility, Pon 1, platelet reactivity, genetic risk, clopidogrel,",
+        "titulo": "Association between Paraoxonase-1 p.Q192R Polymorphism and Coronary Artery Disease susceptibility in the Colombian Population",
+        "doi": "10.3390/jpm11050400",
+        "anio": "2021"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Association Between the LZTFL1 rs11385942 Polymorphism and COVID-19 Severity in Colombian Population\" . En: Colombia FRONTIERS IN MEDICINE ISSN: 2296-858X ed: FRONTIERS MEDIA SA v. 9 fasc. N/A p.1 - 15 ,2022, DOI: 10.3389/fmed.2022.910098",
+        "titulo": "Association Between the LZTFL1 rs11385942 Polymorphism and COVID-19 Severity in Colombian Population",
+        "doi": "10.3389/fmed.2022.910098",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Performance Comparison of a Duplex Implementation of the CDC EUA 2019-nCoV Assay with the Seegene Allplex-SARS-CoV-2 Assay for the Detection of SARS-CoV-2 in Nasopharyngeal Swab Samples\" . En: Colombia METHODS AND PROTOCOLS ISSN: 2409-9279 ed: Multidisciplinary Digital Publishing Institute (MDPI) v. 5 fasc. 73 p.1 - 10 ,2022, DOI: 10.3390/mps5050073",
+        "titulo": "Performance Comparison of a Duplex Implementation of the CDC EUA 2019-nCoV Assay with the Seegene Allplex-SARS-CoV-2 Assay for the Detection of SARS-CoV-2 in Nasopharyngeal Swab Samples",
+        "doi": "10.3390/mps5050073",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Characterization of ADME Gene Variation in Colombian Population by Exome Sequencing\" . En: Colombia FRONTIERS IN PHARMACOLOGY ISSN: 1663-9812 ed: FRONTIERS MEDIA SA v. 13 fasc. N/A p.1 - 14 ,2022, DOI: 10.3389/fphar.2022.931531",
+        "titulo": "Characterization of ADME Gene Variation in Colombian Population by Exome Sequencing",
+        "doi": "10.3389/fphar.2022.931531",
+        "anio": "2022"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, DORA FONSECA MENDOZA, CARLOS RESTREPO FERNANDEZ, \"Pharmacogenomic profile of actionable molecular variants related to drugs commonly used in anesthesia: WES analysis reveals new mutations\" . En: Colombia FRONTIERS IN PHARMACOLOGY ISSN: 1663-9812 ed: FRONTIERS MEDIA SA v. 14 fasc. N/A p.1 - 10 ,2023, DOI: 10.3389/fphar.2023.1047854 Palabras: Variants, WES, Pharmacology,",
+        "titulo": "Pharmacogenomic profile of actionable molecular variants related to drugs commonly used in anesthesia: WES analysis reveals new mutations",
+        "doi": "10.3389/fphar.2023.1047854",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Pharmacogenomic profile of actionable molecular variants related to drugs commonly used in anesthesia: WES analysis reveals new mutations\" . En: Colombia FRONTIERS IN PHARMACOLOGY ISSN: 1663-9812 ed: FRONTIERS MEDIA SA v. 14 fasc. N/A p.1 - 10 ,2023, DOI: 10.3389/fphar.2023.1047854",
+        "titulo": "Pharmacogenomic profile of actionable molecular variants related to drugs commonly used in anesthesia: WES analysis reveals new mutations",
+        "doi": "10.3389/fphar.2023.1047854",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, DORA FONSECA MENDOZA, CARLOS RESTREPO FERNANDEZ, \"Functional Analysis of BRCA1 3¿UTR Variants Predisposing to Breast Cancer\" . En: Colombia APPLICATION OF CLINICAL GENETICS ISSN: 1178-704X ed: Dove medical press v. 17 fasc. N/A p.57 - 62 ,2024, DOI: 10.2147/TACG.S444546 Palabras: BRC1, UTR,",
+        "titulo": "Functional Analysis of BRCA1 3¿UTR Variants Predisposing to Breast Cancer",
+        "doi": "10.2147/TACG.S444546",
+        "anio": "2024"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"P-IG-45 | La variante RHAG*01N.26 no produce un fenotipo Rh nulo sino Rh modificado: la importancia de los ensayos de absorción y elusión\" . En: Colombia TRANSFUSION ISSN: 1537-2995 ed: John Wiley & Sons v. 63 fasc. S5 p.199 - 199 ,2023, DOI: 10.1111/trf.263_17554",
+        "titulo": "P-IG-45 | La variante RHAG*01N.26 no produce un fenotipo Rh nulo sino Rh modificado: la importancia de los ensayos de absorción y elusión",
+        "doi": "10.1111/trf.263_17554",
+        "anio": "2023"
+      },
+      {
+        "texto": "Producción bibliográfica - Artículo - Publicado en revista especializada: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"[HTML] de frontiersin.org Análisis funcional de la variante del promotor CTLA4 y su posible implicación en la inmunoterapia del cáncer colorrectal\" . En: Colombia FRONTIERS IN MEDICINE ISSN: 2296-858X ed: FRONTIERS MEDIA SA v. 10 fasc. N/A p.1 - 10 ,2023, DOI: 10.3389/fmed.2023.1160368",
+        "titulo": "[HTML] de frontiersin.org Análisis funcional de la variante del promotor CTLA4 y su posible implicación en la inmunoterapia del cáncer colorrectal",
+        "doi": "10.3389/fmed.2023.1160368",
+        "anio": "2023"
+      }
+    ],
+    "libros": [
+      "Producción bibliográfica - Libro - Otro libro publicado: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Citogenetica aplicada a la medicina. Coleccion Lecciones de Medicina y Ciencias de la salud.\" En: Colombia 2009. ed:Editorial Universidad del Rosario ISBN: 978-958-738-044-6 v. 0 pags. 66 Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Producción bibliográfica - Libro - Otro libro publicado: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, \"Prácticas De Laboratorio De Biología Molecular: Su Aplicación En Genética Básica.\" En: Colombia 2010. ed:Editorial Universidad del Rosario ISBN: 978-958-738-122-1 v. 0 pags. 66 Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "dem_s_trabajos": [
+      "Demás trabajos - Demás trabajos: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, ANÁLISIS CLÍNICO Y MOLECULAR DE UNA PACIENTE CON PENTASOMÍA DEL CROMOSOMA X . En: Colombia, ,2008, finalidad: I Congreso Latinoamericano de Genética Humana IX Colombiano de Genética Humana Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,",
+      "Demás trabajos - Demás trabajos: NORA CONSTANZA DE JESUS CONTRERAS BRAVO, Correlación genotipo -fenotipo y análisis molecular en pacientes con sindrome down . En: Colombia, ,2008, finalidad: Presentación oral. Areas: Ciencias Naturales -- Ciencias Biológicas -- Otras Biologías,"
+    ],
+    "proyectos": [
+      "Tipo de proyecto: Extensión y responsabilidad social CTI Investigación en Citogenética Humana Inicio: Enero 2001 Duración 0 Resumen El análisis mediante métodos convencionales y especializados de los cromosomas humanos ha permitido el conocimiento de multiples alteraciones asociadas a manifestaciones fenotipicas particulares así como la relación de regiones cromosomicas críticas con síndromes especificos. El conocimiento de la naturaleza de los rearreglos cromosomicos ha permitido también contribuir al avance en la descripción de las regiones ricas en genes importantes parel desarrollo normal de la persona",
+      "Tipo de proyecto: Investigación y desarrollo Análisis de dosis génica y construcción de haplotipos para la caracterización de portadoras de mutaciones en el gen de la distrofina Inicio: Enero 2002 Duración 0 Resumen El analisis del estado de portadora en todos los casos de DMD- DMB es un conocimiento relevante que permite ofrecer alternativas reprodutivas a ,las familias con afectados con esta enfermedad. La determinacion de esta condicion se ha logrado establecer desde hace poco tiempo a traves de tecnicas de biologia molecular, particularmente mediante el analisis de dosis genica, metodologia que permite cuantificar el numero de copias de regiones conocidas ( 7 exones) del gen de la distrofina en las madres y hermanas de personas afectadas con DMD-DMB para determinar presencia de deleciones o duplicaciones en uno de sus genes. En un estudio previo en donde se analizaron 29 mujeres por linea materna familiares de pacientes afecatados con DMD-DMB se determino mediante analisis de dosis genica una tasa de portadoras del 35%, sin embargo el 30% de las familias estudiadas no pudiero ser incluidas en el calculo de dosis genica por obtencion de productos amplificados debiles y no observables ( Hernandez y Restrepo 2002). Teniendo en cuenta este hallazgo previo, es necesario optimizar metodologias que permitan identificar con un 100% de sensibilidad y especificidad a las portadoras de familias con riesgo ,lo cual permitira concluir con mayor certeza el hallazgo previo que indica un alto porcentaje de mutaciones de novo para nuestro pais. La dosis genica, a pesar de ser una herramienta importante de apoyo diagnostico, no se puede aplicar en el 100% de los casos familiares ya que en nuestra poblacion un gran porcentaje de individuos afectados no porta deleciones(69%) (Silva CT y cols, 2001), por lo que la construccion de haplotipos a aprtir de regiones polimorficas intra o extragenicas genera una alternativa para la identificacion de mujeres con riesgo de segregar la enfermedad. Previamente ( hernandez y cols, 2002) se realizo la detrminacion de haplotipos utilizando solamente 2 strs intragenicos : ( CA)n D45 y (CA)n SK12, los cuales mostraron una informatividad del 45 y 31 %",
+      "Tipo de proyecto: Investigación y desarrollo Diagnóstico molecular en pacientes con distrofia muscular y Becker Inicio: Enero 2000 Duración Resumen La distrofia muscular de Duchenne y becker, afecta un gran número de personas alrededor del mundo, se transmite como un rasgo lidago al X recesivo. Los pacientes afectados presentan deficiencia en la producción de distrofina, como consecuencia de las mutaciones en el gen de la distrofina, el cual tiene 79 exones, en la mayoría de los casos las mutaciones que afectan el gen son del tipo delecion mientras que en otro porcentaje se debe a mutacionres puntuales y duplicaciones. En el país se ha introducido la investigación y diagnostico de distrofia muscular de duchenne y becker, mediante el análisis de regiones que se consideran hot spots. Se ha encontrado que para nuestro pa{is el porcentaje de deleciones es menor al reportado en otros paises del mundo.",
+      "Tipo de proyecto: Investigación y desarrollo Origen parental error no disyuncional y correlación genotipo-fenotipo en pacientes con Síndrome Down Inicio: Enero 2004 Duración 0 Resumen Se pretende hacer una análisis del error no disyuncional ocurrido en los pacientes con Síndrome Down, y con ello establecer la correlación genotipo-fenotipo entre la clínica de los pacientes y el tipo de error en meiosis mediatne la implementación de STRs y PCR cuantitativa.",
+      "Tipo de proyecto: Investigación y desarrollo TIPIFICACIÓN DE LA CÁNDIDA NOSOCOMIAL EN INSTITUCIONES HOSPITALARIAS DE BOGOTÁ Inicio: Enero 2005 Duración 0 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Transcriptoma de Gliomas Inicio: Abril 2012 Duración 10 Resumen",
+      "Tipo de proyecto: Investigación y desarrollo Disección molecular y funcional de MIEN1 en el cáncer colorectal: hacia la descripción de nuevos blancos terapéuticos de la enfermedad Inicio: Noviembre 2016 Fin: Diciembre 2017 Duración Resumen ."
+    ]
+  }
+}
