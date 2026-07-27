@@ -15,3 +15,7 @@ build/
 # Salidas personales del laboratorio (cada quien escribe aquí)
 laboratorio/**/salidas/**
 !laboratorio/**/salidas/.gitkeep
+
+# Raw de Minciencias (PDFs/DOCX descargados): pesa demasiado para git.
+# Respaldo completo en Google Drive, ver laboratorio/catalogo_datos.md
+data/raw/minciencias/

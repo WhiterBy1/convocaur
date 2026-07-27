@@ -27,6 +27,10 @@ flowchart TB
 
 ## Minciencias — raw
 
+> **`data/raw/minciencias/` está en `.gitignore`** (pesa ~2GB con los PDF/DOCX descargados).
+> Respaldo completo: [Google Drive](https://drive.google.com/drive/u/0/folders/1btG97eUuX6vatFPcj-l_LfzW-kpLgyT4).
+> Si no lo tienes local, descárgalo de ahí o regenéralo con `src/convocaur/minciencias/descargar.py` y `coleccionar_tdr.py`.
+
 | Si quieres… | Archivo | Notas |
 |-------------|---------|-------|
 | Listado de convocatorias | `data/raw/minciencias/convocatorias_listado_raw.csv` | número, título, URL, recursos, fecha |
