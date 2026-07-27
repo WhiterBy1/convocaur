@@ -1,0 +1,16 @@
+id,facultad,tiene_cvlac,categoria_cvlac,n_areas_investigacion,n_publicaciones,coincidencias,n_coincidencias,score
+juan-alberto-castillo-martinez,Escuela de Medicina y Ciencias de la Salud,True,Investigador Senior,2,78,"['artificial', 'desarrollo', 'inteligencia']",3,5
+darwin-cortes-cortes,Facultad de Economía,True,Investigador Senior,3,50,"['desarrollo', 'política', 'social']",3,5
+diana-rocio-bernal-camargo,Facultad de Jurisprudencia,True,Investigador Senior,4,38,"['ambiental', 'desarrollo', 'investigación']",3,5
+maria-elena-botero-ospina,"Escuela de Estudios Sociales, Políticos e Internacionales",True,,4,41,"['desarrollo', 'gestión', 'inteligencia', 'política']",4,5
+diana-carolina-valencia-tello,Facultad de Jurisprudencia,True,Investigador Asociado,7,61,"['artificial', 'innovación', 'inteligencia']",3,5
+lizeth-fernanda-serrano-cardenas,Escuela de Administración,True,Investigador Asociado,5,16,"['gestión', 'innovación', 'social']",3,5
+wilson-ricardo-herrera-romero,"Escuela de Estudios Sociales, Políticos e Internacionales",True,Investigador Asociado,3,32,"['aplicada', 'política', 'social']",3,5
+andres-felipe-garcia-suaza,Facultad de Economía,True,Investigador Asociado,4,66,"['aplicada', 'política']",2,4
+fernando-carriazo-osorio,"Escuela de Estudios Sociales, Políticos e Internacionales",True,Investigador Junior,3,17,"['ambiental', 'desarrollo', 'económico']",3,4
+ana-isabel-gomez-cordoba,Facultad de Jurisprudencia,True,Investigador Asociado,5,65,"['ciencias', 'investigación']",2,4
+juana-laura-victoria-garcia-matamoros,Facultad de Jurisprudencia,True,Investigador Asociado,3,45,"['desarrollo', 'económico']",2,4
+armando-duran-duran,"Escuela de Estudios Sociales, Políticos e Internacionales",True,,4,14,"['desarrollo', 'gestión', 'social']",3,4
+angela-del-pilar-santamaria-chavarro,Vicerrectoría Académica,True,Investigador Senior,4,47,"['investigación', 'política']",2,4
+danghelly-giovanna-zuniga-reyes,"Escuela de Estudios Sociales, Políticos e Internacionales",True,Investigador Junior,6,30,"['aplicada', 'social', 'tecnologías']",3,4
+vanessa-andrea-suelt-cock,Facultad de Jurisprudencia,True,Investigador Asociado,5,18,"['desarrollo', 'gestión']",2,4
