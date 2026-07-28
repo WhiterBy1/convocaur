@@ -1,0 +1,292 @@
+{
+  "convocatoria": "934",
+  "objetivo": "Conformar un banco de doctores elegibles para realizar Estancias Posdoctorales en entidades que hagan parte del Sistema Nacional de Ciencia, Tecnología e Innovación.",
+  "actores_elegibles": [
+    {
+      "tipo": "Persona natural",
+      "rol": null,
+      "condicion": "Ser colombiano con título de doctorado o tesis de doctorado sustentada y aprobada al cierre de la convocatoria"
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Bioeconomía, ecosistemas naturales, territorios sostenibles",
+      "modalidad": null,
+      "descripcion_corta": "Potenciar el desarrollo territorial sostenible mediante el conocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos"
+    },
+    {
+      "nombre": "Derecho a la alimentación",
+      "modalidad": null,
+      "descripcion_corta": "Producir y disponer alimentos y agua de manera eficiente, soberana, autónoma y equitativa, por medio de la investigación y la innovación."
+    },
+    {
+      "nombre": "Energía eficiente, sostenible y asequible",
+      "modalidad": null,
+      "descripcion_corta": "Garantizar el acceso y uso de energías seguras y sostenibles para todos los colombianos, a través del desarrollo, adopción y adaptación de tecnologías para la transición energética."
+    },
+    {
+      "nombre": "Soberanía sanitaria y bienestar social",
+      "modalidad": null,
+      "descripcion_corta": "Garantizar la disponibilidad de conocimiento, tecnologías y servicios innovadores para la salud y el bienestar de toda la población colombiana."
+    },
+    {
+      "nombre": "Ciencia para la paz y la ciudadanía",
+      "modalidad": null,
+      "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia y comprender las diversas causas de violencia como base para construir soluciones tecnológicas y sociales que fomenten y fortalezcan la convivencia pacífica en condiciones de equidad y justicia social."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con el 'Dirigido a' y adjuntar copia de la cédula de ciudadanía legible por ambas caras.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con título de doctorado y adjuntar copia del título o acta de grado, o certificación de la universidad si aún no se ha expedido.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la propuesta de Investigación, Desarrollo Tecnológico y/o Innovación a desarrollar durante la Estancia, con la información requerida en el numeral 10 de los términos de referencia.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta de aval de la propuesta suscrita por el doctor y el representante legal de la entidad receptora (Anexo 1).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para doctores miembros de población negra, afrocolombiana, raizal, palenquera, ROM, anexar Certificado de Auto Reconocimiento del Ministerio del Interior; para indígenas, Certificado del Registro de la Autoridad o Cabildo; para víctimas del conflicto, Certificado de la Unidad para las Víctimas. Opcional y no inhabilitante.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Tener hoja de vida en el aplicativo CvLAC del Ministerio.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad receptora debe estar legalmente constituida en Colombia. Si no cuenta con RUES, adjuntar certificado de existencia y representación legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si algún documento está en idioma diferente al español, adjuntar traducción oficial al español (original y traducido).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Ser beneficiario simultáneo de otras convocatorias del Ministerio como investigador, doctor o estancia postdoctoral."
+    },
+    {
+      "texto": "Ser beneficiario simultáneo en dos o más propuestas de esta misma convocatoria; se mantiene la primera registrada."
+    },
+    {
+      "texto": "Tener vínculo contractual con la entidad receptora a la fecha de apertura de la convocatoria."
+    },
+    {
+      "texto": "Ser representante legal de la entidad receptora."
+    },
+    {
+      "texto": "Haber sido declarado en incumplimiento en mecanismos del Ministerio en los últimos 5 años."
+    },
+    {
+      "texto": "Estar incurso en causales de inhabilidad o incompatibilidad que impidan contratar según la Constitución, Ley y Reglamentos."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Del doctor",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa título de doctor obtenido o sustentación aprobada según año, enfoque territorial y enfoque diferencial."
+    },
+    {
+      "nombre": "Título de doctor obtenido o sustentación aprobada",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según año de obtención: 2022 (5 pts), 2021 (4 pts), 2020 (3 pts), 2019 (2 pts), 2018 (1 pt), antes de 2017 (0 pts)."
+    },
+    {
+      "nombre": "Enfoque territorial",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Nacido en municipio diferente a regiones metropolitanas especificadas."
+    },
+    {
+      "nombre": "Enfoque diferencial",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Grupos étnicos o población víctima del conflicto (5 pts) y sexo mujer (5 pts)."
+    },
+    {
+      "nombre": "De la propuesta",
+      "puntaje_max": 55.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa calidad, coherencia y pertinencia de la propuesta frente a temáticas de misiones."
+    },
+    {
+      "nombre": "Calidad y coherencia de la propuesta respecto al objetivo, metodología y descripción técnica",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Contribución a resolver necesidad/problemática (hasta 20 pts) y articulación entre necesidades, objetivos, metodología, cronograma y productos (hasta 20 pts)."
+    },
+    {
+      "nombre": "Pertinencia de la propuesta frente a las temáticas de las misiones",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Alineación con las 5 misiones listadas."
+    },
+    {
+      "nombre": "De la entidad receptora",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa domicilio de la entidad receptora y tipo de entidad."
+    },
+    {
+      "nombre": "Entidades receptoras con domicilios en ciudad/municipio diferente a los ubicados en regiones metropolitanas",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Domicilio fuera de las regiones metropolitanas listadas."
+    },
+    {
+      "nombre": "Entidades receptoras diferentes a Instituciones de Educación Superior",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Entidad receptora no es IES."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "Apoyo al sostenimiento mensual: DIEZ MILLONES DE PESOS M/CTE ($10.000.000) mensuales hasta por 24 meses. Apoyo para el desarrollo de la propuesta: Hasta CINCUENTA MILLONES DE PESOS M/CTE ($50.000.000).",
+    "monto_total_cop": null,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "La financiación se otorga exclusivamente para los rubros definidos en la convocatoria. El contrato de financiamiento de recuperación contingente tendrá duración mínima de 12 meses y máxima de 24 meses."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 166,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 260,
+          "completion_tokens": 46
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 172,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 379,
+          "completion_tokens": 419
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1361,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 637,
+          "completion_tokens": 526
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2797,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1131,
+          "completion_tokens": 2193
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1336,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 617,
+          "completion_tokens": 175
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2103,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 977,
+          "completion_tokens": 211
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2824,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1203,
+          "completion_tokens": 717
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria está dirigida exclusivamente a personas naturales (doctores), no a instituciones como IES."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria de Estancias Posdoctorales está dirigida a personas naturales con título de doctorado. Las IES pueden actuar como entidades receptoras, pero no como postulantes directas."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida exclusivamente a personas naturales (doctores), no a instituciones como IES."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria de Estancias Posdoctorales está dirigida a personas naturales con título de doctorado. Las IES pueden actuar como entidades receptoras, pero no como postulantes directas.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

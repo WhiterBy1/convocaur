@@ -1,0 +1,295 @@
+{
+  "convocatoria": "32",
+  "objetivo": "Conformar un listado de proyectos elegibles en Investigación, Desarrollo Tecnológico e Innovación que contribuyan a la disponibilidad, acceso, uso y estabilidad en la producción de alimentos, así como al fortalecimiento de capacidades regionales que permitan el desarrollo de un campo productivo y sostenible.",
+  "actores_elegibles": [
+    {
+      "tipo": "Academia",
+      "rol": null,
+      "condicion": "Instituciones de Educación Superior (IES) públicas o privadas, incluyendo ESAP, ITEC, SENA, etc."
+    },
+    {
+      "tipo": "Sector Productivo",
+      "rol": null,
+      "condicion": "Personas jurídicas de economía mixta, pública o privada, con o sin ánimo de lucro, gremios, centros de desarrollo tecnológico, etc."
+    },
+    {
+      "tipo": "Estado",
+      "rol": null,
+      "condicion": "Entidades gubernamentales del orden nacional, regional, departamental o municipal."
+    },
+    {
+      "tipo": "Sociedad Civil Organizada",
+      "rol": null,
+      "condicion": "Grupos, organizaciones o agremiaciones comunitarias con personería jurídica, ONGs, etc."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Temática 1. I+D+i para la producción sostenible orientada al incremento de la disponibilidad de alimentos",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollo e implementación de iniciativas de CTeI que conduzcan a elevar la productividad agrícola y pecuaria, mejorar la fertilidad del suelo y el abastecimiento de agua y el uso sostenible de la agrodiversidad."
+    },
+    {
+      "nombre": "Temática 2. I+D+i para el aseguramiento del acceso a los alimentos",
+      "modalidad": null,
+      "descripcion_corta": "Investigaciones, desarrollo y adopción de tecnologías, e innovaciones para el acceso a los alimentos y comercialización de productos agropecuarios."
+    },
+    {
+      "nombre": "Temática 3. I+D+i en utilización de alimentos para mejorar su calidad y la condición nutricional de la población",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollo e implementación de iniciativas de CTeI que permitan generar conocimiento, desarrollo tecnológico e innovaciones para la producción de alimentos básicos de alto valor nutritivo y de calidad."
+    },
+    {
+      "nombre": "Temática 4. I+D+i para la estabilidad alimentaria",
+      "modalidad": null,
+      "descripcion_corta": "Generar alternativas desde la Ciencia, Tecnología e Innovación para combatir la inestabilidad alimentaria."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y con la información del numeral 9.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del 'Dirigido A' establecido en el numeral 3 de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente o sus aliados deben contar con al menos un grupo de investigación reconocido por Minciencias a la fecha de apertura. Requisito mínimo no subsanable.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir al menos una organización/comunidad campesina como beneficiario, localizada en el departamento objeto, registrada en Anexo 2 y Anexo 4.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las organizaciones deben contar con representación legal y suscribir el Anexo 1b. Una misma entidad no puede ser proponente/aliado y beneficiario simultáneamente.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el proyecto en alianza con al menos 2 actores de diferentes aspas de la cuádruple hélice, adjuntando Anexo 1b. Requisito mínimo no subsanable.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Demostrar experiencia en gestión/ejecución de al menos un proyecto de CTeI con comunidades campesinas en los últimos 5 años o un proyecto SGR, adjuntando Anexo 5 y soportes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades internacionales deben anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades del sector productivo deben estar constituidas mínimo 1 año (verificado en RUES o certificado de existencia y representación legal no mayor a 90 días). No pueden estar en liquidación o reestructuración.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) de acuerdo con el contenido del proyecto indicado en el numeral 9.1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con el alcance del numeral 6: orientarse a sistemas de producción de agricultura campesina, familiar y comunitaria, e incluir estrategias de gestión del conocimiento, formación y fomento de capacidades locales, y sostenibilidad. Requisito mínimo no subsanable.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atender al menos una demanda territorial del departamento objeto, registrada en SIGP y Anexo 2 (numerales 1 y 8).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Destinar al menos el 50% de los recursos solicitados al SGR para la estrategia de Formación y Fomento de Capacidades Locales, registrado en Anexo 1b.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atender al menos una línea temática (pudiendo abordar más de una subtemática), registrado en SIGP y Anexo 2.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el proyecto para atender las demandas territoriales de un solo departamento, registrado en SIGP y Anexo 2.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto (Anexo 3) cumpliendo las condiciones del numeral 11 (duración y financiación).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Solicitar al SGR montos entre $3.000.000.000 y $3.363.636.363,64 para el departamento objeto.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Destinar máximo el 10% de los recursos solicitados al SGR para el rubro capacitación y eventos, registrado en Anexo 1b.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En la etapa de subsanación no se podrá modificar la información registrada en el formulario SIGP concerniente a la Entidad proponente, Título del proyecto o que haga parte de los requisitos mínimos no subsanables.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "8.1 No cumplir con los requisitos y lineamientos establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos por el MINISTERIO."
+    },
+    {
+      "texto": "8.2 El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "8.3 Cuando se presenten modificaciones en la información registrada en el formulario SIGP y en el Documento Técnico (Anexo 2) referente a los grupos de investigación reconocidos por MINCIENCIAS al cierre de la convocatoria."
+    },
+    {
+      "texto": "8.4 Cuando se presenten modificaciones en la información registrada en el formulario SIGP, Carta Aval (Anexo 1b) y en el Documento Técnico (Anexo 2) referente a las entidades conformantes de la alianza al cierre de la convocatoria."
+    },
+    {
+      "texto": "8.5 Cuando se presenten modificaciones en la información registrada en el formulario SIGP y en el Documento Técnico (Anexo 2) respecto a: i) Sistemas de Producción de Agricultura Campesina, Familiar y Comunitaria, ii) Estrategia de Gestión del Conocimiento, iii) Estrategia de formación y fomento de capacidades locales, y iv) Estrategia de sostenibilidad del proyecto, al cierre de la convocatoria."
+    },
+    {
+      "texto": "8.6 Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, con recursos del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR), o con otras fuentes de financiación."
+    },
+    {
+      "texto": "8.7 Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley, y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "8.8 En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [],
+  "financiacion": {
+    "monto_total_texto": "CIENTO ONCE MIL MILLONES DE PESOS M/CTE ($ 111.000.000.000)",
+    "monto_total_cop": 111000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación 2021-2022",
+    "notas": null
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 568,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 398,
+          "completion_tokens": 324
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7185,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2268,
+          "completion_tokens": 2551
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9596,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2866,
+          "completion_tokens": 1592
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4319,
+          "completion_tokens": 2666
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2751,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1024,
+          "completion_tokens": 889
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5700,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1935,
+          "completion_tokens": 703
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria no incluye a las IES como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria no incluye a las IES como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

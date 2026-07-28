@@ -1,0 +1,190 @@
+{
+  "convocatoria": "924",
+  "objetivo": "Formar profesionales, en focos priorizados por el Departamento del Atlántico que promuevan iniciativas de articulación academia - empresa - sector productivo, para afrontar los procesos de competitividad y desarrollo regional de manera eficiente.",
+  "actores_elegibles": [
+    {
+      "tipo": "Servidores públicos",
+      "rol": null,
+      "condicion": "Vinculados a una entidad del sector público en el Departamento del Atlántico y admitidos o estudiando en un programa de maestría de una universidad acreditada del Departamento del Atlántico."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Ser colombiano y adjuntar fotocopia de la cédula de ciudadanía legible.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ser servidor público de una entidad del sector público en el Departamento del Atlántico, adjuntando certificación expedida en 2022.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener título profesional y adjuntar copia del diploma o acta de grado (convalidado si es del exterior).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estar admitido o estudiando una maestría en universidad acreditada por MEN (con domicilio en Atlántico) y adjuntar certificación de 2022.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de notas del pregrado con promedio general en escala de 0 a 5 (o equivalencia si es diferente).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con carta de aval de la entidad pública de vinculación según modelo Anexo 1, firmada por representante legal, talento humano o supervisor.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para servidores públicos de poblaciones afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto o con discapacidad: anexar certificación correspondiente (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Adjuntar formato de no inhabilidad diligenciado y firmado según Anexo 2.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No tener título de maestría.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No haber recibido financiación previa para maestría o doctorado por parte del Ministerio o con recursos del Sistema General de Regalías.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No recibir financiación simultánea de otras convocatorias financiadas con recursos del Sistema General de Regalías.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con todos los requisitos y lineamientos de los TdR y subsanar dentro de los plazos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de prohibiciones, incompatibilidades, impedimentos, inhabilidades o conflicto de intereses.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": {
+    "monto_total_texto": "NOVECIENTOS SETENTA Y CINCO MILLONES SETECIENTOS MIL PESOS M/CTE ($975.700.000)",
+    "monto_total_cop": 975700000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Fondo de Ciencia, Tecnología e Innovación del Sistema General de Regalías asignados al Departamento del Atlántico por el OCAD del FCTeI",
+    "notas": "Presupuesto total de la convocatoria. Monto máximo por beneficiario: $44.350.000. Plazo máximo de dos años (24 meses). Se financian matrícula y curso de inglés (hasta $10.000.000)."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 542,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 364,
+          "completion_tokens": 374
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 237,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 367,
+          "completion_tokens": 335
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4755,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1592,
+          "completion_tokens": 2620
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4318,
+          "completion_tokens": 217
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible; está dirigida a servidores públicos del Atlántico."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque no es un actor elegible según el tipo de participante requerido (servidores públicos del Atlántico). Además, la convocatoria no contempla IES como proponentes o ejecutoras."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; está dirigida a servidores públicos del Atlántico."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque no es un actor elegible según el tipo de participante requerido (servidores públicos del Atlántico). Además, la convocatoria no contempla IES como proponentes o ejecutoras.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

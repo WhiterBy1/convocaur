@@ -1,0 +1,238 @@
+{
+  "convocatoria": "937",
+  "objetivo": "Conformar un banco de proyectos elegibles en Investigación Fundamental, orientados a la generación de nuevo conocimiento, en diferentes áreas del conocimiento.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior (IES) colombianas",
+      "rol": null,
+      "condicion": "reconocimiento vigente por el Ministerio de Educación Nacional"
+    },
+    {
+      "tipo": "Centros o Institutos de investigación autónomos, independientes o dependientes",
+      "rol": null,
+      "condicion": "reconocidos por el Ministerio de Ciencia, Tecnología e Innovación a la fecha de cierre de la convocatoria"
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta completa en el SIGP antes de la fecha límite, asociándose a un área de conocimiento definida en el numeral 4.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal debe estar adscrito a la Institución proponente y ser reconocido en categorías Emérito, Senior, Asociado o Junior.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar carta de aval unificada y compromiso institucional (Anexo 1A o 1B) firmada por los Representantes Legales o quien haga sus veces.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los términos de referencia.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética de la institución que presenta el proyecto, con acto administrativo de conformación del comité (si aplica).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Integrantes de población negra, afrocolombiana, raizal, palenquera o ROM deben anexar Certificado de Auto Reconocimiento del Ministerio del Interior.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Integrantes de comunidad indígena deben anexar Certificado del Registro de la Autoridad o Cabildo expedido por el Ministerio del Interior.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Integrantes víctimas del conflicto armado deben anexar Certificado expedido por la Unidad para la Atención y Reparación Integral para las Víctimas.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Integrantes en condición de discapacidad deben adjuntar certificado de discapacidad expedido por IPS autorizadas.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "No cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en caso de ser beneficiado por la presente convocatoria."
+    },
+    {
+      "texto": "Que el Investigador Principal presente más de una propuesta en esta convocatoria bajo el mismo rol. El Ministerio verificará si el Investigador Principal presenta más de una propuesta bajo el mismo rol; si eso ocurre solo se tendrá en cuenta la primera propuesta inscrita."
+    },
+    {
+      "texto": "Que el proyecto presentado esté financiado por otra convocatoria o con recursos del Ministerio u otras entidades del Estado."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad de acuerdo con lo establecido en la Constitución, en Ley y Reglamentos en cualquier etapa del proceso: pre-contractual, contractual o post contractual."
+    },
+    {
+      "texto": "Que la Entidad Ejecutora haya sido declarada en incumplimiento en cualquiera de los mecanismos operados por el Ministerio en los últimos 5 años."
+    },
+    {
+      "texto": "Alterar alguno de los documentos solicitados en la sección de requisitos."
+    },
+    {
+      "texto": "La entidad ejecutora podrá presentar un máximo de hasta cuatro (4) proyectos de Investigación Fundamental. En el caso de entidades ejecutoras que tengan más de una sede, podrán presentarse hasta cuatro (4) proyectos por sede. Únicamente se tendrán en cuenta los primeros cuatro (4) proyectos inscritos en la plataforma Sistema Integrado de Gestión de Proyectos (SIGP)."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad del proyecto",
+      "puntaje_max": 60.0,
+      "peso_pct": null,
+      "descripcion": "Formulación y antecedentes de la pregunta de investigación (hasta 35 puntos) y coherencia en la estructura del proyecto (hasta 25 puntos)."
+    },
+    {
+      "nombre": "Conformación del equipo de investigación",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "El personal vinculado cuenta con trayectoria y experiencia para abordar el objetivo del proyecto."
+    },
+    {
+      "nombre": "Productos esperados",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Incluye generación de productos de nuevo conocimiento (hasta 10 puntos) y fortalecimiento de la comunidad científica (hasta 10 puntos)."
+    },
+    {
+      "nombre": "Enfoque diferencial",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Se otorgan puntos por integrantes que pertenezcan a grupos étnicos, población víctima del conflicto, sexo mujer o población en condición de discapacidad."
+    }
+  ],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 526,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 362,
+          "completion_tokens": 100
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 411,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 404,
+          "completion_tokens": 495
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2892,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1119,
+          "completion_tokens": 588
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3943,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1297,
+          "completion_tokens": 1279
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2740,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1098,
+          "completion_tokens": 3792
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "puede_sola_o_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES) colombianas",
+          "rol": null,
+          "condicion": "reconocimiento vigente por el Ministerio de Educación Nacional"
+        }
+      ],
+      "condiciones_pendientes": [],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que el investigador principal esté adscrito a la Universidad del Rosario y cuente con categoría Emérito, Senior, Asociado o Junior reconocida por Minciencias.",
+          "Asegurar la carta de aval unificada y compromiso institucional (Anexo 1A o 1B) firmada por el representante legal.",
+          "Cumplir con los requisitos documentales y técnicos detallados en los términos de referencia, incluyendo aval del comité de ética si aplica."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI y con acreditación institucional, es elegible para postularse a esta convocatoria de Minciencias. Puede hacerlo de forma individual o en alianza, y se sugiere que actúe como institución ejecutora. No se identifican bloqueantes, pero deben verificarse condiciones específicas como la categoría del investigador principal y la documentación requerida."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que el investigador principal esté adscrito a la Universidad del Rosario y cuente con categoría Emérito, Senior, Asociado o Junior reconocida por Minciencias.",
+        "Asegurar la carta de aval unificada y compromiso institucional (Anexo 1A o 1B) firmada por el representante legal.",
+        "Cumplir con los requisitos documentales y técnicos detallados en los términos de referencia, incluyendo aval del comité de ética si aplica."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI y con acreditación institucional, es elegible para postularse a esta convocatoria de Minciencias. Puede hacerlo de forma individual o en alianza, y se sugiere que actúe como institución ejecutora. No se identifican bloqueantes, pero deben verificarse condiciones específicas como la categoría del investigador principal y la documentación requerida.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

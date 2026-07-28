@@ -1,0 +1,313 @@
+{
+  "convocatoria": "973",
+  "objetivo": "Incrementar la disponibilidad de capital humano con capacidades de investigación en prácticas pedagógicas en establecimientos educativos oficiales del Departamento de Cundinamarca.",
+  "actores_elegibles": [
+    {
+      "tipo": "Docentes de aula",
+      "rol": "Docente",
+      "condicion": "Desempeñarse en preescolar, básica o media con asignación en matemáticas, lenguaje, ciencias naturales o ciencias sociales (incluyendo filosofía) en establecimientos educativos oficiales del Departamento de Cundinamarca; nombrados en propiedad o periodo de prueba; y admitidos a un programa ofertado en la convocatoria."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Agropecuario",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Agroindustrial",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Educación – Desarrollo Social y Comunitario",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Medio Ambiente",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Minas – Energía",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Salud",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Bioeconomía y territorio",
+      "modalidad": "Misión de la Política de Investigación e Innovación Orientada por Misiones",
+      "descripcion_corta": "Potenciar el desarrollo territorial sostenible mediante el conocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos."
+    },
+    {
+      "nombre": "Derecho humano a la alimentación",
+      "modalidad": "Misión de la Política de Investigación e Innovación Orientada por Misiones",
+      "descripcion_corta": "Producir y disponer alimentos y agua de manera eficiente, soberana, autónoma y equitativa, por medio de la investigación y la innovación."
+    },
+    {
+      "nombre": "Transición energética",
+      "modalidad": "Misión de la Política de Investigación e Innovación Orientada por Misiones",
+      "descripcion_corta": "Garantizar el acceso y uso de energías seguras y sostenibles para todos los colombianos, a través del desarrollo, adopción y adaptación de tecnologías para la transición energética."
+    },
+    {
+      "nombre": "Soberanía sanitaria",
+      "modalidad": "Misión de la Política de Investigación e Innovación Orientada por Misiones",
+      "descripcion_corta": "Garantizar la disponibilidad de conocimiento, tecnologías y servicios innovadores para la salud y el bienestar de toda la población colombiana."
+    },
+    {
+      "nombre": "Ciencia para la paz",
+      "modalidad": "Misión de la Política de Investigación e Innovación Orientada por Misiones",
+      "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia y comprender las diversas causas de violencia como base para construir soluciones tecnológicas y sociales que fomenten y fortalezcan la convivencia pacífica en condiciones de equidad y justicia social."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Acreditar condición como docente de aula mediante certificación expedida por la Secretaría de Educación Departamental o Municipal conforme al Anexo 1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estar registrado y tener datos actualizados de la hoja de vida en el aplicativo CvLAC de la plataforma ScienTI.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir, finalizar y radicar la propuesta en el Sistema Integrado de Gestión de Proyectos (SIGP) a través del formulario en línea.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar copia legible de la cédula de ciudadanía por ambas caras.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificación de la secretaría de educación que especifique que el candidato es docente de aula con nombramiento en propiedad o en periodo de prueba en establecimientos educativos oficiales de Cundinamarca, con fecha posterior a la apertura de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 2 (Carta aval del establecimiento educativo oficial) debidamente diligenciado y firmado por el rector, especificando niveles y áreas de desempeño.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar copia del diploma y/o acta de grado del título profesional universitario; si es extranjero, incluir convalidación del MEN.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta de admisión expedida por la Universidad de La Sabana en uno de los programas ofertados en la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 3 (Carta de compromiso, conocimiento y aceptación del candidato) firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para enfoque diferencial e interseccional (opcional): adjuntar documentación especificada en Tabla 1 del numeral 5 y el Anexo 4 diligenciado.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Si algún documento está en idioma diferente al español, adjuntar traducción oficial al español (ambos documentos en un solo PDF).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria. En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, la propuesta será retirada del proceso de selección y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
+    },
+    {
+      "texto": "Presentar propuestas que ya cuenten con financiación, sea con recursos del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Haber recibido financiación para un programa de maestría o doctorado a través de convocatorias realizadas por el Ministerio de Ciencia, Tecnología e Innovación en años anteriores o financiados con Recursos del Sistema General de Regalías."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa de Formación de Alto Nivel a través del Ministerio de Ciencia, Tecnología e Innovación, Colfuturo, Fulbright o convocatorias financiadas por el Sistema General de Regalías o el ICETEX, a la fecha de apertura de la convocatoria."
+    },
+    {
+      "texto": "Haber iniciado estudios en uno de los programas ofertados en esta convocatoria."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apta para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos en cualquier etapa del proceso: precontractual, contractual o post contractual."
+    },
+    {
+      "texto": "Tener un título de formación igual o superior al nivel ofertado en los términos de referencia de esta convocatoria."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Aporte técnico y científico de la propuesta",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Congruencia entre el programa de maestría, foco(s), misión(es), problema, justificación, objetivos, metodología, resultados y productos esperados."
+    },
+    {
+      "nombre": "Contribución de la propuesta al desarrollo de la comunidad educativa, su entorno y al fortalecimiento de la CTeI",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Valoración de los impactos esperados en el entorno educativo en relación con el foco(s) priorizado(s) y la Política de Investigación e Innovación orientada por Misiones."
+    },
+    {
+      "nombre": "Articulación de actores de Ciencia, Tecnología e Innovación en el marco de la propuesta de investigación",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "La propuesta contempla actividades para la articulación de actores de CTeI en la comunidad educativa y su entorno."
+    },
+    {
+      "nombre": "Resultados y productos esperados de la propuesta de investigación desarrollo tecnológico e innovación",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Identificación y descripción coherente de resultados y productos de I+D+i con el problema y el impacto esperado."
+    },
+    {
+      "nombre": "Enfoque diferencial o interseccional",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Incluye dos subcriterios: enfoque diferencial del candidato (máx 5 pts) y de la población beneficiaria (máx 5 pts)."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "OCHOCIENTOS SETENTA Y SIETE MILLONES OCHOCIENTOS MIL PESOS M/CTE ($877.800.000)",
+    "monto_total_cop": 877800000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías - SGR asignados al Departamento de Cundinamarca",
+    "notas": "Financiación mediante crédito educativo 100% condonable hasta el 100% de la deuda. Monto de matrícula: $26.600.000 por un periodo máximo de 2 años. No se especifica contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 183,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 260,
+          "completion_tokens": 159
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1277,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 690,
+          "completion_tokens": 122
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2659,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1012,
+          "completion_tokens": 637
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9434,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3011,
+          "completion_tokens": 2849
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2557,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 982,
+          "completion_tokens": 752
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3652,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1453,
+          "completion_tokens": 188
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10003,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3148,
+          "completion_tokens": 449
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible; solo docentes de aula de establecimientos educativos oficiales de Cundinamarca pueden postularse como proponentes."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES. La universidad no figura como actor elegible ni como aliado en los términos de referencia."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo docentes de aula de establecimientos educativos oficiales de Cundinamarca pueden postularse como proponentes."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES. La universidad no figura como actor elegible ni como aliado en los términos de referencia.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

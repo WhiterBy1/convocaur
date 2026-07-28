@@ -1,0 +1,150 @@
+{
+  "convocatoria": "950",
+  "objetivo": "Fortalecer la Investigación Aplicada, el Desarrollo Tecnológico y la Innovación en Inteligencia Artificial y Tecnologías Aeroespaciales que contribuya al desarrollo ambiental, social y económico de las regiones en el marco de la Política de Investigación e Innovación Orientada por Misiones.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES)",
+      "rol": "Miembro de la alianza mínima; puede ser entidad ejecutora",
+      "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región."
+    },
+    {
+      "tipo": "Empresa Nacional",
+      "rol": "Miembro de la alianza mínima; puede ser entidad ejecutora",
+      "condicion": "Micro, pequeña, mediana o gran empresa constituida legalmente en Colombia, con ánimo de lucro, mínimo 2 años de constitución, experiencia en proyectos de I+D+i en IA, Industria 4.0 y/o Tecnologías Aeroespaciales. Debe tener domicilio en la misma región."
+    },
+    {
+      "tipo": "Organización Local - Regional",
+      "rol": "Miembro de la alianza mínima; beneficiaria de la tecnología desarrollada; participante activo en implementación, uso y apropiación",
+      "condicion": "Asociaciones, corporaciones, cooperativas, agremiaciones, federaciones, consejos comunitarios de comunidades negras formalmente constituidas, u organizaciones comunitarias. Mínimo 1 año de constitución. Debe tener domicilio en la misma región. Debe garantizar recursos humanos, técnicos y operativos."
+    },
+    {
+      "tipo": "Entidad Colaboradora (SNCTI, otras empresas nacionales, otras organizaciones locales-regionales, entidades colombianas o extranjeras, centros de investigación, etc.)",
+      "rol": "Colaborador; puede recibir recursos de financiación y aportar contrapartida (excepto entidades extranjeras que no están obligadas a contrapartida)",
+      "condicion": "Debe tener capacidad de aportar al logro de los objetivos del proyecto. Las entidades extranjeras no están obligadas a contrapartida."
+    },
+    {
+      "tipo": "Autoridad Tradicional de Resguardo Indígena",
+      "rol": "Colaborador",
+      "condicion": "Miembros de una comunidad indígena que ejercen poder de organización, gobierno, gestión o control social."
+    },
+    {
+      "tipo": "Población Afectada por el Conflicto (o sus organizaciones comunitarias, desmovilizados en espacios de reincorporación o en condición de legalidad)",
+      "rol": "Colaborador",
+      "condicion": "Registrados en el Registro Único de Víctimas o sus organizaciones comunitarias, o desmovilizados en Espacios Territoriales de Capacitación y Reincorporación o en condición de legalidad."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1748,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 637,
+          "completion_tokens": 121
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3969,
+          "completion_tokens": 1157
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES)",
+          "rol": "Miembro de la alianza mínima; puede ser entidad ejecutora",
+          "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región.",
+          "riesgo": "territorio",
+          "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+        },
+        {
+          "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos.",
+          "Debe tener domicilio en la misma región del proyecto; actualmente su sede principal está en Bogotá D.C., lo que podría ser una limitación si el proyecto se desarrolla en otra región."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada elegible, pero solo puede postularse como parte de una alianza (modo solo_en_alianza) y se sugiere que actúe como entidad ejecutora. Debe verificar que cuenta con grupos de investigación categorizados y que su domicilio coincide con la región del proyecto."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos.",
+        "Debe tener domicilio en la misma región del proyecto; actualmente su sede principal está en Bogotá D.C., lo que podría ser una limitación si el proyecto se desarrolla en otra región."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada elegible, pero solo puede postularse como parte de una alianza (modo solo_en_alianza) y se sugiere que actúe como entidad ejecutora. Debe verificar que cuenta con grupos de investigación categorizados y que su domicilio coincide con la región del proyecto.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "convocatoria": "36",
+  "objetivo": "Conformar un listado de proyectos elegibles de investigación en ciencias básicas y del espacio que, considerando demandas territoriales enmarcadas en los retos del plan bienal de convocatorias 2023-2024, fomenten capacidades de investigación mediante generación y transferencia de conocimiento y fortalecimiento de infraestructuras de investigación, para mover la frontera del conocimiento y contribuir al desarrollo de los territorios.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidades del SNCTI",
+      "rol": "Proponente",
+      "condicion": "Debe cumplir condiciones específicas: experiencia en 2 proyectos de CTI (o 1 financiado por SGR), acreditación IGPR (excepto si no ha sido medida), máximo 3 proyectos como proponente, tener al menos un grupo de investigación A1, A o B en ciencias naturales."
+    },
+    {
+      "tipo": "Entidades del SNCTI",
+      "rol": "Aliado",
+      "condicion": "Públicas o privadas, o entidades internacionales, que apoyen la ejecución con conocimiento especializado."
+    },
+    {
+      "tipo": "Entidades del SNCTI",
+      "rol": "Beneficiario",
+      "condicion": "No puede ser al mismo tiempo Proponente y Aliado en el mismo proyecto."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Inscripción en SIGP: Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Dirigida a: Cumplir con las especificaciones y condiciones del 'DIRIGIDA A' establecidas en el numeral 3.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Desempeño IGPR: Acreditar el adecuado desempeño del Índice de Gestión de Proyectos de Regalías IGPR, según metodología del DNP.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta de Aval y Modelo de Gobernanza: Presentar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' firmada por representantes legales de todas las entidades nacionales de la alianza.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Documento técnico (Anexo 2): Adjuntar el documento técnico según el contenido del numeral 8.1, incluido en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Alcance: Cumplir con los componentes establecidos en el numeral 5 (Generación de Nuevo Conocimiento, Fortalecimiento de Infraestructuras, Apropiación social, Estrategia de descentralización).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atención a reto y demandas: Atender al menos un reto a través de al menos una demanda territorial de los departamentos donde se ejecute el proyecto.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atención a demandas territoriales en departamentos de al menos tres regiones del SGR: Presentar proyecto para atender demandas en departamentos de al menos tres regiones.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presupuesto (Anexo 3): Adjuntar el presupuesto del proyecto según el numeral 8.2 y las condiciones del numeral 10.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexo 5: Anexar formato de proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y aliados, con soportes obligatorios.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética (si aplica) de la institución que presenta el proyecto.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta entidad internacional: Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Entidades sector productivo: Si se vinculan, deben estar constituidas mínimo un año antes de la apertura y presentar certificado de existencia y representación legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos por el MINISTERIO."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "El desempeño del Índice de Gestión de Proyectos de Regalías IGPR del proponente no sea el adecuado según la metodología señalada por el DNP conforme al Consolidado de resultados de medición anual del desempeño 2021-2022."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa o es inferior al monto indicativo establecido en los presentes términos en el numeral 10. DURACIÓN Y FINANCIACIÓN, esto es, inferior a diez mil millones M/CTE ($10.000.000.000) o superior a treinta y seis mil quinientos millones de pesos M/CTE ($36.500.000.000)."
+    },
+    {
+      "texto": "Cuando el panel de evaluación se pronuncie respecto de la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 6.11 -Aval del Comité de Ética- no se hubieran cargado al momento del cierre de la convocatoria o en el periodo de ajuste o subsanación de requisitos."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a la atención de las demandas territoriales de los departamentos a impactar."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a la atención de demandas territoriales - al menos una por departamento - diferentes ubicados en al menos tres Regiones del SGR."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, con recursos del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR), o con otras fuentes de financiación."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley, y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Calidad y coherencia del proyecto en el desarrollo de los siguientes componentes: i) Generación de nuevo conocimiento en Ciencias Básicas y/o del Espacio, ii) Fortalecimiento de Infraestructuras de Investigación (IdeI), iii) Apropiación social del conocimiento y iv) Estrategia de descentralización, y su coherencia técnica y científica en relación con la atención al reto, el problema, la cadena de valor (Objetivos – Productos – Actividades), justificación, alternativa seleccionada, metodología científica, presupuesto, cronograma, resultados y productos de CTeI.",
+      "puntaje_max": 38.0,
+      "peso_pct": null,
+      "descripcion": "Nota: A la luz de este subcriterio se evaluará si el proyecto requiere o no aval de un Comité de Ética o de Bioética -debidamente constituido-"
+    },
+    {
+      "nombre": "2.1 Pertinencia e impacto de los resultados y productos esperados del proyecto frente al desarrollo territorial, regional y nacional en atención a la(s) demanda(s) territorial(es) de los retos a atender.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Pertinencia, entendida como la conveniencia de desarrollar proyectos acordes con las condiciones particulares y necesidades socioculturales, económicas y ambientales. Impacto, entendido como la contribución efectiva que realice el proyecto al cumplimiento de las metas locales, sectoriales, regionales y los objetivos y fines del Sistema General de Regalías."
+    },
+    {
+      "nombre": "2.2 Atención a las demandas territoriales establecidas en los retos del Plan Bienal de Convocatorias",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto aborda al menos una demanda territorial por región en 6 Regiones diferentes del SGR (7 puntos) El proyecto aborda al menos una demanda territorial por región en 5 Regiones diferentes del SGR (5 puntos) El proyecto aborda al menos una demanda territorial por región en 4 Regiones diferentes del SGR (3 puntos). Notas: Para obtener el puntaje antes descrito, se deberá evidenciar que el abordaje de las demandas territoriales conllevará a la obtención de resultados y/o productos que contribuyan a su solución en los departamentos objeto del proyecto."
+    },
+    {
+      "nombre": "2.3 Obtención de productos de generación de nuevo conocimiento que genere la alianza",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto contempla la publicación, registro o aceptación de dos o más productos tipo TOP en el (las) áreas de conocimiento objeto del proyecto (5 puntos). El proyecto contempla la publicación, registro o aceptación de un (1) producto tipo TOP y un (1) producto tipo A en el (las) áreas de conocimiento objeto del proyecto (3 puntos). El proyecto contempla la publicación, registro o aceptación de dos o más productos tipo A en el (las) áreas de conocimiento objeto del proyecto (2 puntos). Nota: Lo anterior conforme el modelo de medición de grupos disponible en: https://minciencias.gov.co/sites/default/files/upload/convocatoria/anexo_1_-_documento_conceptual_2021.pdf"
+    },
+    {
+      "nombre": "2.4 Apropiación social del conocimiento en el proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Capacidad del proyecto para generar condiciones para el uso, inclusión, divulgación e intercambio de saberes que fomenten condiciones habilitantes para mover la frontera del conocimiento en Ciencias Básicas y/o del Espacio."
+    },
+    {
+      "nombre": "2.5 Generación, consolidación de capacidades y descentralización de la CTeI en las regiones y los territorios",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Contribución del proyecto para promover la vinculación de doctores, la movilidad de investigadores y estudiantes (de doctorado, maestría, pregrado) para el intercambio de conocimientos entre los miembros de la alianza, la apropiación social del conocimiento y el fortalecimiento de capacidades (infraestructura, equipos, talento humano para la operación de los equipos) en departamentos con: - IDIC Bajo (4 puntos) - IDIC Medio Bajo (3 puntos) Nota 1: Los puntajes de este subcriterio son aditivos y se otorgan para al menos uno o más departamentos con una misma categoría IDIC. Nota 2: Para obtener el puntaje antes descrito, se deberá evidenciar la efectiva contribución de la estrategia de descentralización en cada uno de los departamentos objeto del proyecto de acuerdo a su categoría IDIC."
+    },
+    {
+      "nombre": "3.1 Idoneidad y capacidades de la entidad proponente y de los aliados para el desarrollo y cumplimiento de los objetivos del proyecto, considerando los aportes individuales de cada aliado de acuerdo con su campo de acción, capacidad técnica, administrativa, experticia y trayectoria.",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "3.2 Vinculación de al menos un aliado internacional: centros o institutos internacionales de I+D o universidades internacionales.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Nota: Para obtener el puntaje antes descrito, se deberá evidenciar la efectiva contribución del aliado internacional en la realización de actividades para el cumplimiento de los objetivos del proyecto."
+    },
+    {
+      "nombre": "4.1 El modelo de Gobernanza presenta una estructura coherente desde los aspectos: Financiero, Administrativo, Jurídico, Técnico y de Ética y de integridad científica que garantizarán la toma de decisiones y acciones requeridas para la correcta ejecución del proyecto de inversión.",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "4.2 El Plan de Fortalecimiento de Infraestructuras de Investigación garantiza la continuidad y estabilidad de las capacidades fortalecidas y la prestación de servicios técnicos y tecnológicos en el tiempo.",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "5.1 Integración de Actores Diferenciales para el Cambio en la formulación, implementación y gobernanza del proyecto.",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Nota: Actores Diferenciales para el Cambio definidos en el Plan Nacional de Desarrollo 2022 -2026 como: Mujeres, LGBTIQ+, Víctimas, Niñas, Niños y Adolescentes, Pueblos y Comunidades Étnicas, Jóvenes, Personas con Discapacidad y Campesinos"
+    },
+    {
+      "nombre": "5.2 Vinculación de mujeres científicas en el proyecto. Participación de investigadoras en el equipo de trabajo descrito en el apartado de idoneidad y trayectoria del documento técnico.",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "TRESCIENTOS SESENTA Y CINCO MIL MILLONES DE PESOS M/CTE (365.000.000.000)",
+    "monto_total_cop": 365000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 60,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación 2023-2024",
+    "notas": "Los proyectos pueden solicitar recursos al SGR desde $10.000.000.000 hasta $36.500.000.000. Recursos para movilidad no excederán 5% del monto solicitado al SGR. Recursos para infraestructura no excederán 20% del valor total del proyecto."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 468,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 335,
+          "completion_tokens": 104
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6373,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2078,
+          "completion_tokens": 206
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12550,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3823,
+          "completion_tokens": 1942
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3109,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1118,
+          "completion_tokens": 649
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6809,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2140,
+          "completion_tokens": 224
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7181,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2302,
+          "completion_tokens": 6118
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para el rol de proponente/ejecutora."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente en esta convocatoria, que exige entidades del SNCTI con condiciones específicas (experiencia en proyectos de CTI, acreditación IGPR, grupos de investigación A1/A/B). Solo podría participar como aliada, pero el perfil no indica que se haya considerado esa opción."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para el rol de proponente/ejecutora."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente en esta convocatoria, que exige entidades del SNCTI con condiciones específicas (experiencia en proyectos de CTI, acreditación IGPR, grupos de investigación A1/A/B). Solo podría participar como aliada, pero el perfil no indica que se haya considerado esa opción.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

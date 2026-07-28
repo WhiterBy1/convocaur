@@ -1,0 +1,278 @@
+{
+  "convocatoria": "970",
+  "objetivo": "Promover el crecimiento de los sectores productivos mediante el estímulo a la inversión privada en proyectos de I+D+i, a través del acceso a beneficios tributarios establecidos en los artículos 256 y 256-1 del Estatuto Tributario, dirigidos a empresas de todos los tamaños, por medio del registro y calificación de proyectos a ejecutar durante la vigencia fiscal 2025 y posteriores.",
+  "actores_elegibles": [
+    {
+      "tipo": "Persona jurídica legalmente constituida en Colombia",
+      "rol": "postulante",
+      "condicion": "Registro mercantil vigente, domiciliada en Colombia, capacidad jurídica (art. 1502 C.C., arts. 99 y 110 C. de Co.), contribuyente de renta y complementarios."
+    },
+    {
+      "tipo": "Empresa del sector productivo",
+      "rol": "ejecutor o coejecutor",
+      "condicion": "Debe ejecutar proyectos de I+D+i con aval de un Actor Reconocido por Minciencias, inversiones en vigencia 2025."
+    },
+    {
+      "tipo": "Actor reconocido dependiente de Institución de Educación Superior (IES)",
+      "rol": "ejecutor (Modalidad 1)",
+      "condicion": "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora."
+    },
+    {
+      "tipo": "Micro, pequeña y mediana empresa (MiPyme)",
+      "rol": "ejecutor o coejecutor",
+      "condicion": "Exclusivo en Modalidad 2; en Modalidad 3 como coejecutor con gran empresa; en Modalidad 4 sin restricción de tamaño."
+    },
+    {
+      "tipo": "Gran empresa",
+      "rol": "ejecutor o coejecutor",
+      "condicion": "En Modalidad 1 puede ser coejecutor (debe incluir MiPyme si accede a crédito fiscal); en Modalidad 3 como ejecutor en alianza con MiPyme; en Modalidad 4 sin restricción."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Por la Transición energética justa",
+      "modalidad": "Apuestas productivas",
+      "descripcion_corta": "Impulsa energías limpias y tecnologías sostenibles con inclusión social y justicia ambiental."
+    },
+    {
+      "nombre": "Por la Agroindustrialización y soberanía alimentaria",
+      "modalidad": "Apuestas productivas",
+      "descripcion_corta": "Fortalece el campo y la producción local para garantizar el acceso a alimentos y reducir la dependencia externa."
+    },
+    {
+      "nombre": "Por la Reindustrialización en el sector salud",
+      "modalidad": "Apuestas productivas",
+      "descripcion_corta": "Desarrolla la industria nacional de medicamentos y tecnología médica para asegurar autonomía sanitaria."
+    },
+    {
+      "nombre": "Por la Reindustrialización para la defensa y la vida",
+      "modalidad": "Apuestas productivas",
+      "descripcion_corta": "Fomenta capacidades industriales en sectores estratégicos con innovación para seguridad y bienestar Social."
+    },
+    {
+      "nombre": "Por los Territorios y su tejido empresarial",
+      "modalidad": "Apuestas productivas",
+      "descripcion_corta": "Apoya Pymes y economías locales para integrar los territorios al desarrollo productivo con enfoque regional."
+    },
+    {
+      "nombre": "Bioeconomía y territorio",
+      "modalidad": "Retos",
+      "descripcion_corta": "Aprovechar el conocimiento, conservación y uso sostenible de la biodiversidad, sus bienes y servicios ecosistémicos."
+    },
+    {
+      "nombre": "Derecho humano a la alimentación",
+      "modalidad": "Retos",
+      "descripcion_corta": "Impulsar y ordenar la producción agroalimentaria, produciendo alimentos de forma eficiente, soberana, autónoma y equitativa."
+    },
+    {
+      "nombre": "Transición energética",
+      "modalidad": "Retos",
+      "descripcion_corta": "Contribuir en el proceso de transformación productiva asociada a la transición energética, en el desarrollo sostenible e incluyente de los territorios y en los procesos de apropiación y aceptación social."
+    },
+    {
+      "nombre": "Soberanía sanitaria y bienestar social",
+      "modalidad": "Retos",
+      "descripcion_corta": "Garantizar la soberanía sanitaria, la salud y el bienestar social de la población en todo el territorio nacional."
+    },
+    {
+      "nombre": "Ciencia para la paz",
+      "modalidad": "Retos",
+      "descripcion_corta": "Promover la ciencia y la tecnología como instrumentos para el desarrollo sostenible, la paz en general y el bienestar de las comunidades."
+    }
+  ],
+  "requisitos": [],
+  "causales_rechazo": [
+    {
+      "texto": "El proyecto quedará inhabilitado cuando cualquiera de las entidades participantes no se encuentre legalmente constituida en Colombia al momento de presentar el proyecto."
+    },
+    {
+      "texto": "El proyecto quedará inhabilitado cuando no cuente con el aval del actor con reconocimiento por el Ministerio de Ciencia, Tecnología e Innovación y del representante legal de la entidad que presenta el proyecto, o las demás entidades involucradas en el proyecto. El aval se entenderá formalizado con la firma en conjunto de la carta de presentación, aval y aceptación de compromisos (Ver Anexo 8)."
+    },
+    {
+      "texto": "Los proyectos presentados bajo la modalidad de crédito fiscal no podrán acceder al beneficio tributario de descuento definido en el artículo 256 del E.T., con el mismo proyecto. Así mismo, los proyectos postulados a la modalidad de descuento no podrán acceder al beneficio tributario de crédito fiscal estipulado por el artículo 256-1 del E.T, con el mismo proyecto. Por lo anterior, los proyectos postulados a esta convocatoria sólo podrán acceder a uno de los beneficios tributarios por inversión con el mismo proyecto, de acuerdo con lo establecido en el parágrafo 1 del artículo 22 de la Ley 2277 de 2022. El proponente deberá aclarar en la carta de presentación, aval y aceptación de compromisos (Ver anexo 8) el beneficio tributario al cual busca acceder."
+    },
+    {
+      "texto": "El proyecto quedará inhabilitado cuando haya sido financiado exclusivamente con recursos públicos en el marco de otras convocatorias de diferentes entidades, o inversiones que hayan generado derecho a otros beneficios tributarios diferentes a los estipulados en los artículos 21 y 22 de la Ley 2277 del 2022."
+    },
+    {
+      "texto": "El proyecto quedará inhabilitado cuando NO cumpla con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y la normatividad vigente dentro de los plazos establecidos."
+    },
+    {
+      "texto": "El proyecto quedará inhabilitado cuando alguno de los participantes esté inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidos en la Constitución, en la ley, reglamentos, etc."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad del proyecto",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Pertinencia del proyecto",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Impacto potencial del mercado",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "El proyecto contribuye a más de una línea del Plan Nacional de Desarrollo (PND)",
+      "puntaje_max": 1.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "El proyecto se enmarca en más de un Reto de las Políticas de Investigación e Innovación Orientada por Misiones (PIIOM)",
+      "puntaje_max": 1.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "El proyecto incorpora un Enfoque Diferencial",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "El proyecto incorpora un Enfoque Territorial",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Empresas que pertenecen a los sectores estratégicos definidos en el Pacto por el Crédito y las prioridades de reactivación económica del PND",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1327,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 616,
+          "completion_tokens": 101
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1988,
+          "completion_tokens": 407
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3675,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1308,
+          "completion_tokens": 1412
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4302,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1499,
+          "completion_tokens": 676
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1317,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 725,
+          "completion_tokens": 373
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Actor reconocido dependiente de Institución de Educación Superior (IES)",
+          "rol": "ejecutor (Modalidad 1)",
+          "condicion": "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora. Riesgo: grupos Minciencias. Requiere grupos categorizados; cruzar con capacidad Rosario."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con acreditación institucional. Puede postularse únicamente en alianza con empresas, actuando como ejecutora. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para apoyar proyectos de I+D."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora. Riesgo: grupos Minciencias. Requiere grupos categorizados; cruzar con capacidad Rosario."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con acreditación institucional. Puede postularse únicamente en alianza con empresas, actuando como ejecutora. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para apoyar proyectos de I+D.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

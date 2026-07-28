@@ -1,0 +1,409 @@
+{
+  "convocatoria": "41",
+  "objetivo": "Contribuir a la investigación y desarrollo tecnológico para la generación del conocimiento alrededor de la agroecología implementada por productores como los Agricultores Campesinos, Familiares, Étnicos y Comunitarios-ACFEC u otras formas de producción sostenibles mediante la conformación de un listado de proyectos elegibles en Ciencia, Tecnología e Innovación (CTeI) en el marco del Reto 2 del Plan Bienal de Convocatorias 2023 – 2024 “Garantizar la Soberanía Alimentaria y el Derecho a la Alimentación”.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidades del SNCTI (públicas o privadas)",
+      "rol": "proponente o aliado",
+      "condicion": "Deben contar con reconocimiento vigente del Minciencias como actor SNCTI o cumplir criterios de idoneidad y trayectoria según TdR. El proponente debe demostrar experiencia mínima de 2 proyectos de CTel en últimos 7 años y adecuado desempeño según DNP."
+    },
+    {
+      "tipo": "Entidades sin reconocimiento SNCTI",
+      "rol": "aliado",
+      "condicion": "Deben haber realizado actividades de CTel y cumplir criterios de idoneidad y trayectoria establecidos en TdR. Se consideran entidades SNCTI solo para esta convocatoria."
+    },
+    {
+      "tipo": "Entidades internacionales",
+      "rol": "aliado",
+      "condicion": "Deben presentar 'Carta entidad internacional'. No requieren NIT ni suscribir carta aval y modelo de gobernanza."
+    },
+    {
+      "tipo": "Organizaciones/comunidades de Agricultura Campesina, Familiar, Étnica y Comunitaria (ACFEC) u otras formas de producción sostenibles",
+      "rol": "aliado o beneficiario",
+      "condicion": "Deben ser incluidas al menos una por departamento a impactar. Se requiere modelo de aval (Anexo 10)."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Gobernanza alimentaria",
+      "modalidad": null,
+      "descripcion_corta": "Mecanismo que facilita el debate, convergencia de puntos de vista y coordinación de medidas para mejorar el derecho humano a la alimentación a nivel nacional, regional y local."
+    },
+    {
+      "nombre": "Agroecología y otros enfoques ancestrales y sostenibles",
+      "modalidad": null,
+      "descripcion_corta": "Prácticas agropecuarias bajo el enfoque de agroecología como alternativa que favorece la sustentabilidad de los agroecosistemas y el manejo resiliente del capital natural, a través del diálogo de saberes."
+    },
+    {
+      "nombre": "Multifuncionalidad de las Agricultura Campesina, Familiar, Étnica y Comunitaria- ACFEC",
+      "modalidad": null,
+      "descripcion_corta": "Abarca toda la gama de funciones ambientales, económicas y sociales asociadas a la agricultura y uso de la tierra, incluyendo la pluriactividad de la ACFEC."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y conteniendo la información requerida.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del 'DIRIGIDO A' establecidas en el capítulo 3 de los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del proponente según la metodología del DNP, salvo que no haya sido objeto de medición en los dos años anteriores al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el proyecto en alianza, anexando la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1b) debidamente diligenciada y firmada por los representantes legales o apoderados de todas las entidades nacionales.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente y aliados deben contar con representación legal y NIT; comunidades étnicas deben estar legalmente constituidas y reconocidas ante el Ministerio del Interior.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) de acuerdo con el contenido del capítulo 12, incluyendo los componentes de generación de conocimiento, desarrollo tecnológico, apropiación social, y opcionalmente infraestructura científica.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atender al Reto 2 (Garantizar la Soberanía Alimentaria y el Derecho Humano a la Alimentación) a través de al menos una demanda territorial (Anexo 4) para cada departamento de la región SGR objeto del proyecto.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Abordar al menos una de las líneas temáticas relacionadas en el capítulo 5, y podrán abordar más de una sub-temática por línea.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) según lo establecido en el capítulo 12 y las condiciones del capítulo 14 (Duración y Financiación).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5), con soportes documentales (convenios, contratos, actos administrativos, etc.).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética (si aplica), especificando que el proyecto ha sido revisado y avalado; en caso de no contar con comité, solicitar aval ante otra entidad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si participan entidades internacionales, anexar carta de intención de participación (formato libre) firmada por el director del instituto, centro, departamento o grupo de investigación, especificando el aporte en especie o efectivo.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para actores que agremien o agrupen empresas, deben estar constituidas como mínimo hace un año desde la apertura de la convocatoria; todas las entidades deben presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán participar entidades en proceso de liquidación o reestructuración.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades deben garantizar que la información suministrada es veraz y corresponde a la realidad.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El modelo de gobernanza debe incluir estructura de coordinación, definición del modelo de operación, mecanismos de coordinación técnica y gestión de adquisiciones y transferencia de bienes.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Se espera que el grupo de investigación A1, A o B participe de las actividades durante la ejecución del proyecto.",
+      "tipo": "tecnico",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "La entidad aliada debe cuantificar su aporte al proyecto, ya sea en especie o en efectivo.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de garantizar la coherencia total entre la información registrada en SIGP y los anexos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los proyectos deben atender al alcance del Capítulo 6, incluyendo los componentes 1, 2, 3 y el opcional 4, con los planes detallados correspondientes.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Se debe conservar textualmente los títulos para cada capítulo y subcapítulo del Anexo 2 - Documento Técnico.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Durante el período de ajuste de requisitos no se podrá modificar la información de la entidad proponente ni el título del proyecto en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de consultar permanentemente que sus documentos hayan quedado registrados correctamente en SIGP antes del cierre y durante el período de ajuste.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Ministerio podrá solicitar en cualquier momento información y documentación complementaria o aclaratoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los términos de referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en capítulo 21 - Cronograma, de la presente convocatoria."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de responsables fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa o es inferior al monto señalado en los presentes términos en el capítulo 14. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el apartado relacionado con el Aval del Comité de Ética- no se hubieran cargado en la plataforma SIGP, campo “Aval del Comité de Ética” o Campo “Otros”."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender el Reto 2 - Garantizar la Soberanía Alimentaria y el Derecho a la Alimentación - a través de por lo menos una (1) demanda territorial (ver anexo 4 - demandas territoriales), para cada uno de los departamentos pertenecientes a la zona de influencia del proyecto en los que se ejecutarán los componentes."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley, y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad y coherencia del proyecto en el desarrollo de los componentes: generación de nuevo conocimiento, desarrollo tecnológico e innovación, apropiación social del conocimiento, e infraestructura científica",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia técnica y científica del proyecto en relación con el reto, problema, cadena de valor, justificación, metodología, presupuesto, cronograma, resultados y productos de CTeI."
+    },
+    {
+      "nombre": "Congruencia presupuestal del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El presupuesto está debidamente soportado y justificado para el desarrollo del proyecto."
+    },
+    {
+      "nombre": "Inclusión de actividades, productos e indicadores que evidencian niveles de madurez tecnológica (TRL)",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Otorga puntaje según el nivel TRL alcanzado: 7 puntos para niveles 7-9, 5 para niveles 4-6, 2 para niveles 1-3."
+    },
+    {
+      "nombre": "Pertinencia e impacto de los resultados y productos esperados frente al desarrollo territorial y regional",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Pertinencia como conveniencia según condiciones y necesidades locales; impacto como contribución a metas locales, sectoriales y del Sistema General de Regalías."
+    },
+    {
+      "nombre": "Atención a las demandas territoriales del Reto 2 (Soberanía Alimentaria y Derecho a la Alimentación)",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Otorga puntaje según el porcentaje de demandas territoriales abordadas: 6 puntos para 100%, 4 para 76-99%, 2 para 50-75%."
+    },
+    {
+      "nombre": "Participación activa de organizaciones/ comunidades de productores ACFEC u otras formas de producción sostenibles",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Incluir estrategia de vinculación activa en diseño, ejecución y seguimiento que impacte a 4 o más organizaciones/comunidades por región."
+    },
+    {
+      "nombre": "Obtención de productos de generación de nuevo conocimiento que genere la alianza",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según cantidad y tipo de productos TOP y A: 5 pts para 2+ TOP, 3 pts para 1 TOP + 1 A, 2 pts para 2+ A."
+    },
+    {
+      "nombre": "Obtención de productos de desarrollo tecnológico e innovación que genere la alianza",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según productos tipo A: 5 pts para 3+, 3 pts para 2, 0 pts para ninguno."
+    },
+    {
+      "nombre": "Obtención de productos de apropiación social del conocimiento en el proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según escenarios de participación: 5 pts para (1)+(2)+(3), 3 pts para (1)+(2), 2 pts para (1)+(3) o (2)+(3), 1 pt para uno solo."
+    },
+    {
+      "nombre": "Conformación de la Alianza",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según número de entidades de la cuádruple hélice y reconocimiento por Minciencias: 5 pts para 4 entidades de aspas diferentes con al menos una reconocida, 4 pts para 4 sin reconocimiento, 3 pts para 3 con reconocimiento, 2 pts para 3 sin reconocimiento."
+    },
+    {
+      "nombre": "Aportes de los integrantes de la alianza para contribuir a los objetivos y actividades del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según cantidad de elementos aportados (financieros, técnicos/tecnológicos, talento humano): 5 pts para 3, 4 pts para 2, 3 pts para 1."
+    },
+    {
+      "nombre": "Vinculación de al menos un aliado internacional (centros/institutos I+D o universidades)",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Otorga 2 puntos si se evidencia contribución efectiva del aliado internacional en actividades del proyecto."
+    },
+    {
+      "nombre": "Estructura del modelo de gobernanza (aspectos financiero, administrativo, jurídico, técnico y ética/integridad científica)",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa coherencia del modelo: 0 pts para estructura poco coherente, 1 pt para estructura mejorable. El texto está incompleto, no se especifica puntaje máximo."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "DOSCIENTOS VEINTICUATRO MIL DIECISIETE MILLONES CIENTO DOCE MIL SETECIENTOS OCHENTA Y OCHO PESOS M/CTE (224.017.112.788)",
+    "monto_total_cop": 224017112788.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 60,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías - Asignación para la Ciencia, Tecnología e Innovación bienio 2023-2024",
+    "notas": "El monto total se distribuye en 6 regiones, con 2 proyectos por región, cada uno entre 14.934.474.188 COP y 18.668.092.732 COP."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 593,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 415,
+          "completion_tokens": 315
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9427,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2789,
+          "completion_tokens": 1643
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4241,
+          "completion_tokens": 387
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13898,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4044,
+          "completion_tokens": 1676
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7770,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2305,
+          "completion_tokens": 1404
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11801,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3395,
+          "completion_tokens": 1203
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4146,
+          "completion_tokens": 3522
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para ser proponente o ejecutora",
+          "La alianza es obligatoria, pero la Universidad del Rosario no puede ser proponente según los actores elegibles definidos"
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores elegibles no incluyen universidades. Solo podría participar como aliada si cumple criterios de idoneidad, pero el perfil no permite determinar si puede acreditarlos."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para ser proponente o ejecutora",
+        "La alianza es obligatoria, pero la Universidad del Rosario no puede ser proponente según los actores elegibles definidos"
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores elegibles no incluyen universidades. Solo podría participar como aliada si cumple criterios de idoneidad, pero el perfil no permite determinar si puede acreditarlos.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

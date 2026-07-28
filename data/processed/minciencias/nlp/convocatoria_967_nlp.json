@@ -1,0 +1,298 @@
+{
+  "convocatoria": "967",
+  "objetivo": "Fomentar la vocación científica de jóvenes colombianos mediante la conformación de un listado de propuestas elegibles que vinculen jóvenes investigadores e innovadores para la generación de conocimiento científico, desarrollo tecnológico o innovación que contribuyan a fortalecer el conocimiento de fuentes de energía para la transición energética en Colombia.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidades del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI)",
+      "rol": null,
+      "condicion": "Deben vincular jóvenes investigadores e innovadores a una propuesta de investigación, desarrollo tecnológico y/o innovación en el área de geociencias y ciencias de la tierra, así como en ingeniería de petróleos, cuyas disciplinas estén directamente relacionadas con la generación de conocimiento geocientífico sobre el subsuelo colombiano y los recursos hidrocarburíferos, y que aporten al desarrollo de la política orientada por misiones 'Transición Energética'."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Caracterización geológica y/o evaluación de oportunidades exploratorias y/o de yacimientos de hidrocarburos, especialmente de gas, en cuencas colombianas.",
+      "modalidad": null,
+      "descripcion_corta": "Enfocada en la caracterización geológica y evaluación de oportunidades exploratorias y de yacimientos, especialmente de gas."
+    },
+    {
+      "nombre": "Uso de nuevas tecnologías para el desarrollo de proyectos de exploración y desarrollo de hidrocarburos tales como la ciencia de datos, inteligencia artificial y/o Machine Learning.",
+      "modalidad": null,
+      "descripcion_corta": "Aplicación de nuevas tecnologías como ciencia de datos, inteligencia artificial y machine learning en exploración y desarrollo de hidrocarburos."
+    },
+    {
+      "nombre": "Investigación, caracterización y evaluación de los procesos de captura, uso y almacenamiento geológico eficiente de CO2 – CCUS.",
+      "modalidad": null,
+      "descripcion_corta": "Investigación en captura, uso y almacenamiento geológico de CO2 (CCUS)."
+    },
+    {
+      "nombre": "Investigación en áreas de las geociencias y afines, cuyos productos incorporen nuevos paradigmas, investigación de punta y propuestas novedosas que contribuyan al aumento del factor de recobro en hidrocarburos.",
+      "modalidad": null,
+      "descripcion_corta": "Investigación en geociencias con enfoque en nuevos paradigmas y propuestas novedosas para aumentar el factor de recobro."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con el 'Dirigido a' de la convocatoria. La información registrada en SIGP debe coincidir con el Anexo No. 1. (NO subsanable).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la Carta Unificada de Aval y Compromiso Institucional (Anexo No. 1) debidamente diligenciada y firmada por el representante legal o apoderado. (SI subsanable).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad SNCTI debe estar legalmente constituida en Colombia con al menos 12 meses previos a la fecha de cierre. Verificar con RUES o certificado de existencia y representación legal. (SI subsanable).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la Carta de presentación de los jóvenes investigadores e innovadores y los tutores (Anexo No. 3) firmada por el Representante Legal y el Tutor principal. (SI subsanable sin modificación del contenido).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar en un único PDF los anteproyectos de trabajo de grado de los estudiantes de pregrado a vincular, con documento de aprobación firmado por la instancia correspondiente. (SI subsanable).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Tutor Principal debe ser ciudadano colombiano. Adjuntar copia de la cédula de ciudadanía legible por ambas caras. (SI subsanable).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Tutor Principal debe contar con título de maestría y/o doctorado y tener CvLAC registrado/actualizado. Adjuntar copia del diploma y/o acta de grado. (SI subsanable).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los jóvenes investigadores e innovadores deben ser colombianos y tener máximo 28 años cumplidos al 31 de diciembre de 2025. Adjuntar copias legibles de las cédulas de ciudadanía. (SI subsanable).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial y/o interseccional (opcional): Adjuntar documentación según Anexo 4 si aplica, para optar por puntos adicionales. (SI subsanable).",
+      "tipo": "otro",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Adjuntar documento que acredite la fecha de constitución del Semillero de Investigación, firmado por el representante legal o quien haga sus veces. (SI subsanable).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los jóvenes integrantes del semillero deben ser estudiantes activos cursando cuarto semestre en adelante. Adjuntar certificados de la IES en un único PDF. (SI subsanable).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Jóvenes estudiantes de pregrado en geociencias/ingeniería de petróleos deben haber cursado mínimo el 70% de los créditos académicos. Adjuntar certificados en un único PDF. (SI subsanable).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Jóvenes graduados en geología/afines deben adjuntar diploma/acta de grado o certificado de culminación. (SI subsanable).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad técnica y científica de la propuesta",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "La propuesta presenta congruencia técnica y científica, articulación entre la(s) cuenca(s) seleccionada(s) y la línea temática seleccionada, con el problema identificado, la justificación, el marco conceptual, los objetivos y la metodología."
+    },
+    {
+      "nombre": "Presupuesto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Los rubros y montos solicitados para la ejecución de las actividades de la propuesta se encuentran debidamente justificados para la ejecución de la metodología."
+    },
+    {
+      "nombre": "Resultados y productos esperados",
+      "puntaje_max": 16.0,
+      "peso_pct": null,
+      "descripcion": "Se identifican y describen los productos y resultados esperados de manera coherente con la cuenca(s) seleccionada(s), la línea temática con el problema identificado, la justificación, el marco conceptual, los objetivos y la metodología."
+    },
+    {
+      "nombre": "Integración de componentes de robótica, inteligencia artificial, ciencia y tecnologías cuánticas y/o Tecnologías espaciales para uso civil",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "La propuesta de investigación, desarrollo tecnológico y/o innovación integra componentes de robótica, inteligencia artificial, ciencia y tecnologías cuánticas y/o de Tecnologías espaciales para uso civil."
+    },
+    {
+      "nombre": "Perfiles de los jóvenes investigadores e innovadores que integran el semillero de investigación",
+      "puntaje_max": 11.0,
+      "peso_pct": null,
+      "descripcion": "Los perfiles de los jóvenes investigadores e innovadores que integran la propuesta son acordes con la línea temática seleccionada, se describen las responsabilidades, actividades y resultados esperados en el marco del semillero de investigación."
+    },
+    {
+      "nombre": "Perfiles de los jóvenes investigadores e innovadores (estudiantes de pregrado y profesionales graduados)",
+      "puntaje_max": 11.0,
+      "peso_pct": null,
+      "descripcion": "Los perfiles de los jóvenes investigadores e innovadores (estudiantes de pregrado y profesionales graduados) que integran la propuesta son acordes con la línea temática seleccionada, se describen las responsabilidades, actividades y resultados esperados de los jóvenes investigadores e innovadores en el marco de la propuesta."
+    },
+    {
+      "nombre": "Tutores de los jóvenes investigadores e innovadores",
+      "puntaje_max": 11.0,
+      "peso_pct": null,
+      "descripcion": "Perfil de los tutores, producción académica y científica, trayectoria en investigación, responsabilidades y actividades para el acompañamiento de los jóvenes investigadores e innovadores."
+    },
+    {
+      "nombre": "Sostenibilidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La propuesta presenta una estrategia de sostenibilidad viable acorde con las actividades, entregables y resultados."
+    },
+    {
+      "nombre": "Análisis de impactos y riesgos",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La propuesta incluye un análisis de los posibles impactos y riesgos que se obtienen con el desarrollo de la misma."
+    },
+    {
+      "nombre": "Apropiación del conocimiento",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La propuesta describe una estrategia a través de la cual se promueve el trabajo colaborativo y participativo en su estructuración e implementación. Igualmente, proyecta la posibilidad de intercambio y apropiación del conocimiento entre los jóvenes investigadores e innovadores."
+    },
+    {
+      "nombre": "Porcentaje de población con enfoque diferencial e interseccional vinculada a la propuesta",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Más del 50% de los Jóvenes Investigadores e Innovadores vinculados a la propuesta demuestran una categoría de población diferencial (hasta 2 puntos) o más del 41% demuestran 2 o más categorías (hasta 4 puntos). Los puntajes no son aditivos."
+    },
+    {
+      "nombre": "Enfoque diferencial o interseccional de la población que impacta la propuesta",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "La propuesta beneficia a personas que pertenecen a población diferencial o interseccional, en una o más categorías de las enunciadas en la Tabla No. 2."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "SEIS MIL SEISCIENTOS OCHENTA Y TRES MILLONES DOSCIENTOS SESENTA Y TRES MIL TREINTA Y SIETE DE PESOS M/CTE ($6.683.263.037)",
+    "monto_total_cop": 6683263037.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 12,
+    "contrapartida_pct_min": 3.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación, Agencia Nacional de Hidrocarburos, y Fondo Francisco José de Caldas (FFJC) a través del Convenio Especial de Cooperación No. 751/638 de 2021",
+    "notas": "El monto total es la disponibilidad global de la convocatoria. Las propuestas financiables reciben hasta $267,955,072 por 12 meses. Contrapartida mínima del 3% sobre el valor financiado. Centros Autónomos exentos de contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1565,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 609,
+          "completion_tokens": 80
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 546,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 444,
+          "completion_tokens": 175
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4072,
+          "completion_tokens": 525
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3984,
+          "completion_tokens": 2703
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7167,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2344,
+          "completion_tokens": 1185
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5082,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1691,
+          "completion_tokens": 3328
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la universidad cumple con los requisitos documentales y habilitantes de la convocatoria, como la carta de aval, la constitución legal con al menos 12 meses, y la documentación de los jóvenes investigadores y tutores."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida en el SNCTI, es elegible para postularse como entidad ejecutora en esta convocatoria de jóvenes investigadores. Debe cumplir con los requisitos documentales y habilitantes especificados."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad cumple con los requisitos documentales y habilitantes de la convocatoria, como la carta de aval, la constitución legal con al menos 12 meses, y la documentación de los jóvenes investigadores y tutores."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida en el SNCTI, es elegible para postularse como entidad ejecutora en esta convocatoria de jóvenes investigadores. Debe cumplir con los requisitos documentales y habilitantes especificados.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

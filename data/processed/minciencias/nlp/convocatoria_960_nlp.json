@@ -1,0 +1,307 @@
+{
+  "convocatoria": "960",
+  "objetivo": null,
+  "actores_elegibles": [
+    {
+      "tipo": "Profesionales colombianos",
+      "rol": "docentes",
+      "condicion": "trabajar o acreditar haber trabajado durante el último año (previo a la apertura de la presente convocatoria) como docentes en establecimientos educativos públicos o privados de las Subregiones del departamento de Nariño: Pacífico Sur, Telembí y Sanquianga"
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'Dirigido A' de los Términos de Referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir y finalizar la inscripción de los documentos en el SIGP, a través del formulario en línea en www.minciencias.gov.co, con la información del numeral 10 y Anexo 2.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ser ciudadano colombiano, adjuntando copia legible de la cédula de ciudadanía por ambas caras.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta de respaldo del docente del establecimiento educativo (Anexo 1), diligenciada y firmada por el representante legal o delegado, acreditando que el docente trabaja o trabajó en el último año en un establecimiento educativo de las Subregiones Pacífico Sur, Telembí o Sanquianga en Nariño.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditación del establecimiento educativo: para educación inicial, preescolar, básica o media, adjuntar resultado de búsqueda en el DUE (estado activo); para educación superior, adjuntar resultado de búsqueda en el SNIES (estado activo).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado laboral: si es institución pública, emitido por la Secretaría de Educación; si es privada, emitido por el representante legal o rector.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir y finalizar la inscripción del proyecto de investigación (Anexo 2) en el SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar copia del diploma y/o acta de grado del pregrado (se aceptan documentos electrónicos). Si es extranjero, adjuntar convalidación del Ministerio de Educación Nacional.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar promedio general acumulado del pregrado mínimo de 3.8 en escala 0.0 a 5.0, mediante certificado o documento equivalente de la IES. Si la escala es diferente, adjuntar equivalencia.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Proporcionar el perfil del candidato (Anexo 3) con descripción detallada, motivaciones, expectativas y relación del proyecto con su formación y experiencia, firmado por el candidato.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial y/o interseccional (opcional): si aplica, adjuntar documentación según Tabla No. 1 y especificar en Anexo 3.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Si algún documento está en idioma diferente al español, adjuntar traducción oficial al español junto con el original en un único PDF.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Ministerio podrá solicitar en cualquier momento información y documentación adicional, complementaria o aclaraciones.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En la subsanación no se podrá modificar la información registrada en el formulario SIGP sobre candidato, título del proyecto y Área OCDE.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de consultar permanentemente que sus documentos hayan quedado registrados correctamente en el SIGP antes del cierre y durante el periodo de ajuste.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el periodo de revisión, el Ministerio reportará inconsistencias en observaciones generales del SIGP para que el proponente ajuste durante el periodo de ajuste.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los resultados de la validación de requisitos se consultan en el formulario de proyectos y programas del SIGP con usuario y contraseña.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de la fiabilidad, coherencia y completitud de la información en el formulario SIGP y anexos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el candidato sube documentos sin firma, tendrá posibilidad de subsanar según el cronograma.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "Presentar proyectos que ya cuenten con financiación, sea con recursos del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Ser representante legal del establecimiento educativo que le respalda como docente en el Anexo No. 1."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias o invitaciones financiadas o cofinanciadas por EL MINISTERIO o el Sistema General de Regalías."
+    },
+    {
+      "texto": "Presentarse a dos programas de maestrías de manera simultánea en la presente convocatoria."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa de Formación de Alto Nivel a través del Ministerio de Ciencia, Tecnología e Innovación, Colfuturo, Fulbright o convocatorias financiadas por el Sistema General de Regalías o el ICETEX, a la fecha de apertura de la convocatoria."
+    },
+    {
+      "texto": "Tener título de Maestría o Doctorado en modalidad tanto presencial como virtual."
+    },
+    {
+      "texto": "Estar cursando actualmente un programa de maestría en modalidad tanto presencial como virtual."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apta para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos en cualquier etapa del proceso: precontractual, contractual o post contractual."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Congruencia técnica y científica del proyecto",
+      "puntaje_max": 30.0,
+      "peso_pct": 30.0,
+      "descripcion": "Alineación entre el programa de maestría de investigación elegido, la Política de Investigación e Innovación orientada por Misiones, el problema, justificación, marco conceptual, objetivos, metodología y productos esperados."
+    },
+    {
+      "nombre": "1.2 Uso de tecnologías 4.0",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Claridad en la integración de componentes de robótica, inteligencia artificial y/o tecnologías espaciales para uso civil que promueven la automatización para solución de desafíos."
+    },
+    {
+      "nombre": "2.1 Pertinencia y contribución del proyecto al desarrollo del Pacífico Nariñense",
+      "puntaje_max": 25.0,
+      "peso_pct": 25.0,
+      "descripcion": "Valoración de resultados e impactos esperados a nivel territorial del Pacífico Nariñense en relación con la línea temática asociada a la Política de Investigación e Innovación orientada por Misiones."
+    },
+    {
+      "nombre": "3.1. Experiencia del candidato",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Evaluación de años de experiencia como docente: más de 5 años (10 pts), entre 2-4 años (7 pts), 1 año (4 pts)."
+    },
+    {
+      "nombre": "3.2. Valoración motivacional y expectativas",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Evaluación del argumento de motivación y expectativas: describe relación y aplicación de conocimientos (10 pts), solo relación (7 pts), solo con propuesta (4 pts), no describe (0 pts)."
+    },
+    {
+      "nombre": "4.1 El proyecto contempla una estrategia para la gestión y articulación de actores SNCTI",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Actividades, apuestas, compromisos y articulación de actores del SNCTI regional para el desarrollo del proyecto en el Pacífico Nariñense."
+    },
+    {
+      "nombre": "5.1 Enfoque diferencial o interseccional del candidato",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Acredita al menos una categoría de enfoque diferencial (2 pts) o dos o más (5 pts). No aditivos."
+    },
+    {
+      "nombre": "5.2 Enfoque diferencial o interseccional de la población que impacta el proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Valoración de inclusión de acciones que beneficien a personas con enfoque diferencial en el desarrollo del proyecto."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "NUEVE MIL TRESCIENTOS MILLONES PESOS M/CTE ($ 9.300.000.000)",
+    "monto_total_cop": 9300000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "CDR GLOBAL Nro. 19842 – 2024",
+    "notas": "Recursos totales para la convocatoria, distribuidos en seguimiento, verificación, evaluación y apoyos económicos a beneficiarios. Cada beneficiario puede recibir hasta $117,705,826, con rubros específicos para matrícula, inscripción, proyecto de investigación y sostenimiento."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1260,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 674,
+          "completion_tokens": 125
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10291,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3128,
+          "completion_tokens": 1296
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3357,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1144,
+          "completion_tokens": 549
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2096,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1010,
+          "completion_tokens": 806
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5142,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1719,
+          "completion_tokens": 2315
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria está dirigida exclusivamente a docentes de establecimientos educativos de subregiones específicas de Nariño, no a instituciones de educación superior."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse porque la convocatoria está dirigida a docentes individuales que trabajen en establecimientos educativos de las subregiones Pacífico Sur, Telembí y Sanquianga de Nariño, no a IES como actores elegibles."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida exclusivamente a docentes de establecimientos educativos de subregiones específicas de Nariño, no a instituciones de educación superior."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse porque la convocatoria está dirigida a docentes individuales que trabajen en establecimientos educativos de las subregiones Pacífico Sur, Telembí y Sanquianga de Nariño, no a IES como actores elegibles.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

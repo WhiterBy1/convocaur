@@ -1,0 +1,281 @@
+{
+  "convocatoria": "929",
+  "objetivo": "Conformar un listado de proyectos elegibles enfocados en medición de captura de carbono y otros servicios ecosistémicos basados en soluciones naturales del clima, y estudios de procesos de generación de hidrógeno de bajas emisiones, articulados con formación de capacidades y generación de valor con participación de comunidades étnicas o rurales.",
+  "actores_elegibles": [
+    {
+      "tipo": "Grupo de Investigación, Desarrollo Tecnológico e Innovación",
+      "rol": "ejecutor",
+      "condicion": "Categoría A1, A o B vigente al cierre de la convocatoria, adscrito a entidad legalmente constituida localizada en la zona geográfica a intervenir (para línea temática 3.1); o categoría A1 o A vigente (para línea temática 3.2)"
+    },
+    {
+      "tipo": "Organización representativa de sociedad civil o de la Comunidad",
+      "rol": null,
+      "condicion": "Localizada en la zona a intervenir, con al menos dos años de constitución jurídica y objeto social afín (solo para línea temática 3.1)"
+    },
+    {
+      "tipo": "Grupo de Investigación, Desarrollo Tecnológico e Innovación",
+      "rol": null,
+      "condicion": "Categoría B, C o categorizados a la fecha de cierre (opcional, para línea temática 3.1)"
+    },
+    {
+      "tipo": "Otros actores del SNCTI",
+      "rol": null,
+      "condicion": "Adscritos a entidades legalmente constituidas (opcional, incluye IES, Unidades Empresariales de I+D+i, empresas, CI, CDT, CIP, IEBT, organizaciones para fomento de CTeI)"
+    },
+    {
+      "tipo": "Organizaciones del sector productivo",
+      "rol": "comercializador de la solución",
+      "condicion": "Opcional (para línea temática 3.1)"
+    },
+    {
+      "tipo": "Institución de educación o centro de investigación o desarrollo tecnológico o innovación internacional",
+      "rol": "entidad colaboradora",
+      "condicion": "Opcional"
+    },
+    {
+      "tipo": "Grupo de investigación",
+      "rol": null,
+      "condicion": "Categoría B vigente, adscrito a institución educativa preferiblemente en Departamentos IDIC medio-bajo o bajo (obligatorio para línea temática 3.2)"
+    },
+    {
+      "tipo": "Organización del sector productivo con ánimo de lucro",
+      "rol": null,
+      "condicion": "Con interés en desarrollar actividades económicas en la temática, al menos dos años de constitución jurídica y objeto social afín (obligatorio para línea temática 3.2)"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "CAPTURA, SECUESTRO Y ALMACENAMIENTO DE CARBONO EN ECOSISTEMAS NATURALES ESTRATÉGICOS",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "HIDRÓGENO DE BAJAS EMISIONES",
+      "modalidad": null,
+      "descripcion_corta": null
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustada al objetivo de la convocatoria y con la información del numeral 10.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigido A' establecidas en las líneas de participación a las que se postula.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar la 'Carta de aval y compromiso institucional unificada' (Anexo 2) debidamente diligenciada y firmada por los representantes legales de todas las entidades nacionales, junto con los documentos que los acrediten.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar el formulario SIGP de acuerdo con el contenido indicado en el numeral 10 (Anexo 3).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar el formulario SIGP según lo establecido en los numerales 9 (DURACIÓN Y FINANCIACIÓN) y 10 (Anexo 3).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el Modelo de Gobernanza de la alianza (Anexo 4) que incluya estructura de coordinación, modelo de operación, Comité Técnico, gestión de adquisiciones y estrategia de sostenibilidad, suscrito por los representantes legales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar concepto de un comité de ética/bioética cuando aplique, especificando que la propuesta ha sido revisada y avalada, junto con el acto administrativo que soporta la conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar el Anexo 5 – Experiencia en proyectos de I+D+i, con información que verifique resultados de proyectos en los últimos cinco años.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En caso de entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La información de identificación, roles y responsabilidades de todos los integrantes del equipo ejecutor debe quedar claramente estipulada en el formulario SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Todo el personal científico residente en Colombia debe crear o actualizar su CvLAC previo a la presentación de la propuesta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para investigadores internacionales o personal no científico, incluir sus hojas de vida como anexos dentro de la documentación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para perfiles sin persona asignada, una vez seleccionada, deberá crear o actualizar su CvLAC u hoja de vida, y el Investigador Principal debe asegurarlo.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta no podrá ser financiada simultáneamente con recursos de otra convocatoria del Ministerio o con recursos públicos de otras fuentes.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades legales para contratar.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Contribución al desarrollo regional y al fortalecimiento de capacidades en materia de CTeI",
+      "puntaje_max": 50.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Enfoques territorial y diferencial",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "TRES MIL CUATROCIENTOS SETENTA Y SIETE MILLONES SEISCIENTOS MIL PESOS M/CTE ($ 3.477.600.000)",
+    "monto_total_cop": 3477600000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 60,
+    "contrapartida_pct_min": 30.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Convenio Especial de Cooperación 753-2021",
+    "notas": "Hay dos líneas temáticas: Captura de carbono (máx 60 meses) e Hidrógeno de bajas emisiones (máx 24 meses). Monto máximo por línea: $1.738.800.000. Contrapartida mínima del 30% del valor total del proyecto. Centros autónomos exentos de contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 374,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 308,
+          "completion_tokens": 85
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4621,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1599,
+          "completion_tokens": 537
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 398,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 403,
+          "completion_tokens": 277
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5662,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1939,
+          "completion_tokens": 1038
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2887,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1310,
+          "completion_tokens": 825
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 808,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 532,
+          "completion_tokens": 158
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para postular como proponente o ejecutora",
+          "La alianza es obligatoria, pero la universidad no puede ser proponente principal"
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no es un actor elegible según la convocatoria, que exige grupos de investigación categorizados u organizaciones específicas como ejecutores. Por tanto, no puede postularse ni siquiera en alianza como proponente principal."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para postular como proponente o ejecutora",
+        "La alianza es obligatoria, pero la universidad no puede ser proponente principal"
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no es un actor elegible según la convocatoria, que exige grupos de investigación categorizados u organizaciones específicas como ejecutores. Por tanto, no puede postularse ni siquiera en alianza como proponente principal.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

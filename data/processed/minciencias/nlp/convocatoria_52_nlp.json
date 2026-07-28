@@ -1,0 +1,348 @@
+{
+  "convocatoria": "52",
+  "objetivo": "Conformar un listado de proyectos elegibles en etapa de inversión que, mediante actividades de ciencia, tecnología e innovación, contribuyan a la recuperación y fortalecimiento territorial frente a los impactos de eventos climáticos extremos, promoviendo resiliencia ecosistémica, seguridad alimentaria, soberanía sanitaria, transformación productiva sostenible y bienestar social.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior",
+      "rol": "Proponente",
+      "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto."
+    },
+    {
+      "tipo": "Organización comunitaria, étnica y/o campesina",
+      "rol": "Aliado",
+      "condicion": "Mínimo dos organizaciones pertenecientes y presentes en el territorio focalizado."
+    },
+    {
+      "tipo": "Entidad territorial",
+      "rol": "Aliado",
+      "condicion": "Mínimo dos entidades territoriales por departamento, una debe ser el departamento."
+    },
+    {
+      "tipo": "Actor reconocido del SNCTI",
+      "rol": "Aliado",
+      "condicion": "Con reconocimiento vigente del Ministerio de Ciencia, Tecnología e Innovación. Su inclusión tiene valoración en criterios de evaluación."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Recuperación y reactivación del tejido productivo agropecuario y pesquero afectado por eventos climáticos extremos",
+      "modalidad": null,
+      "descripcion_corta": "Restaurar y reactivar la capacidad productiva agropecuaria y pesquera de territorios afectados por inundaciones, excesos hídricos, sedimentación y variabilidad climática, priorizando la adaptación productiva, rehabilitación de suelos y continuidad de sistemas productivos post-emergencia."
+    },
+    {
+      "nombre": "Seguridad alimentaria y nutricional en contextos de emergencia y recuperación climática",
+      "modalidad": null,
+      "descripcion_corta": "Garantizar la disponibilidad, acceso y calidad nutricional de alimentos durante la emergencia y recuperación temprana, protegiendo a grupos vulnerables y mitigando riesgos de malnutrición y enfermedades asociadas."
+    },
+    {
+      "nombre": "Restauración ecosistémica mediante Soluciones Basadas en la Naturaleza (SbN) para la gestión del riesgo hidroclimático",
+      "modalidad": null,
+      "descripcion_corta": "Fortalecer la capacidad de adaptación y mitigación frente a amenazas hidroclimatológicas mediante investigación, desarrollo tecnológico e implementación de SbN, promoviendo seguridad hídrica, resiliencia de cuencas y preservación de servicios ecosistémicos."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del numeral 3 'DIRIGIDA A' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) según última medición del DNP, excepto si no ha sido medido en los últimos dos años.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1) debidamente diligenciada y firmada por representantes legales de todas las entidades nacionales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Documento Técnico (Anexo 2) según el contenido del numeral 12.1, incluido en la plataforma SIGP.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Presupuesto (Anexo 3) según el numeral 12.2, cumpliendo con duración y financiación, soportado con estudio de mercado o acto administrativo.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y aliados' (Anexo 5) con soportes documentales.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta aval del Comité de Ética de la Investigación o de Bioética (si aplica), con el acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo: presentar certificado de existencia y representación legal (no mayor a 90 días) y estar constituidas mínimo un año antes de la apertura; no pueden estar en liquidación o reestructuración.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el proyecto de inversión formulado en la Metodología General Ajustada (MGA) en borrador, con todos los campos diligenciados según instructivo.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar certificado suscrito por el representante legal de la entidad territorial del lugar de ejecución indicando que las actividades no están siendo financiadas con otras fuentes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta firmada por el representante legal de cada entidad participante incluyendo nombre del proyecto, conocimiento de contenido y compromiso; para grupos de investigación incluir nombre del grupo y justificación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21. CRONOGRAMA, de la presente convocatoria."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto no se encuentre en el rango señalado en los presentes términos en el numeral 14. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 10.8 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender los retos estratégicos de Ciencia, Tecnología e Innovación a través de al menos una (1) de las demandas territoriales de los departamentos (al menos 1 región del SGR) objeto del proyecto."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y MINCIENCIAS informará a las instancias administrativas y judiciales competentes sobre esta situación."
+    },
+    {
+      "texto": "Cuando una misma entidad ostente al mismo tiempo la calidad de Proponente y Beneficiario en un mismo proyecto."
+    },
+    {
+      "texto": "Cuando se identifique que el mismo proyecto ha sido presentado por diferentes entidades proponentes."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos, o no cargue de uno o más documentos o certificados exigidos en los requisitos, o cargue de documentos sin la totalidad de las firmas."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Atención a demandas territoriales",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la combinación de demandas territoriales del departamento abordadas por el proyecto, con puntajes según cantidad (máximo 30 puntos)."
+    },
+    {
+      "nombre": "1.2 Pertinencia e impacto de los resultados y productos esperados del proyecto",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la pertinencia e impacto de los resultados y productos frente al desarrollo territorial, regional y nacional, considerando líneas transversales y contribución a metas del SGR."
+    },
+    {
+      "nombre": "2.1 Calidad técnico-científica y coherencia interna",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la solidez técnico-científica y coherencia entre problemática, objetivos, metodología, presupuesto, cronograma y sostenibilidad."
+    },
+    {
+      "nombre": "2.2 Nivel de madurez tecnológica, validación y aplicabilidad de las soluciones propuestas",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la inclusión de actividades y productos que evidencien niveles TRL entre 3 y 9, con puntajes según el nivel alcanzado."
+    },
+    {
+      "nombre": "2.3 Estrategia de Apropiación Social del Conocimiento (ASC)",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la calidad y coherencia de la estrategia ASC, incluyendo co-creación, diálogo de saberes, productos de ASC y divulgación, y articulación con centros de ciencia."
+    },
+    {
+      "nombre": "3.1 Población con enfoque diferencial vinculada al proyecto",
+      "puntaje_max": 12.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la vinculación de integrantes del equipo de investigación pertenecientes a poblaciones con enfoque diferencial, con puntajes según cantidad."
+    },
+    {
+      "nombre": "4.1 Naturaleza del proponente y los aliados",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Otorga puntos adicionales según el tipo y ubicación de la IES proponente (pública/privada, sede principal/seccional en departamentos focalizados)."
+    },
+    {
+      "nombre": "4.2 Trayectoria de la Alianza",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la experiencia adicional de la alianza en proyectos de CTeI, especialmente financiados con recursos del SGR, en los últimos tres años."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CIEN MIL MILLONES DE PESOS M/CTE ($100.000.000.000)",
+    "monto_total_cop": 100000000000.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2025-2026",
+    "notas": "Monto total distribuido en ocho departamentos ($12.500.000.000 c/u), financiando dos proyectos por departamento (hasta $6.250.000.000 c/u). Recursos para movilidad no exceder 2% del monto SGR; infraestructura no exceder 20% del valor total del proyecto."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 385,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 310,
+          "completion_tokens": 222
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9248,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2811,
+          "completion_tokens": 257
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4026,
+          "completion_tokens": 758
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4224,
+          "completion_tokens": 2004
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3340,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1168,
+          "completion_tokens": 785
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13130,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3989,
+          "completion_tokens": 988
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4258,
+          "completion_tokens": 2936
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior",
+          "rol": "Proponente",
+          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto.",
+          "riesgo": "acreditacion",
+          "nota": "Verificar vigencia de acreditacion institucional/programas."
+        },
+        {
+          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        },
+        {
+          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto.",
+          "riesgo": "experiencia",
+          "nota": "Validar experiencia acreditada en CTeI/regiones."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar vigencia de acreditación institucional o de programas afines a las líneas temáticas.",
+          "Validar que la Universidad del Rosario cuente con grupos de investigación categorizados por Minciencias.",
+          "Acreditar experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria, por lo que solo puede participar como parte de una alianza, asumiendo el rol de ejecutora. Se deben verificar condiciones específicas como acreditación vigente, grupos de investigación categorizados y experiencia en proyectos CTeI en la zona de influencia."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar vigencia de acreditación institucional o de programas afines a las líneas temáticas.",
+        "Validar que la Universidad del Rosario cuente con grupos de investigación categorizados por Minciencias.",
+        "Acreditar experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria, por lo que solo puede participar como parte de una alianza, asumiendo el rol de ejecutora. Se deben verificar condiciones específicas como acreditación vigente, grupos de investigación categorizados y experiencia en proyectos CTeI en la zona de influencia.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

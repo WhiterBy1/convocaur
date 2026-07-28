@@ -1,0 +1,173 @@
+{
+  "convocatoria": "23",
+  "objetivo": null,
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustada al objetivo de la convocatoria y con la información del numeral 7.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigida A' establecidas en el mecanismo de participación al que se postula.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para propuestas de una sola entidad: anexar 'Carta de aval y compromiso institucional' firmada por el representante legal o apoderado (Anexo 1a), junto con documentos que acrediten su facultad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para propuestas en alianza: anexar 'Carta de aval y compromiso institucional unificada' firmada por los representantes legales de todas las entidades nacionales (Anexo 1b), con documentos que acrediten su facultad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico según el contenido del numeral 7.1 (Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto requerido según el numeral 7.2 (Anexo 3), cumpliendo las condiciones de duración y financiación del mecanismo de participación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para propuestas en alianza: adjuntar el modelo de gobernanza suscrito por los representantes legales de las entidades nacionales (Anexo 4), incluyendo estructura de coordinación, operación legal/administrativa/financiera/propiedad intelectual, mecanismos de coordinación técnica y gestión de recursos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente' debidamente diligenciado (Anexo 5), con soportes (convenios, contratos, actos administrativos, etc.) en la plataforma SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar los documentos adicionales específicos del mecanismo de participación al que se postula, según la sección 'DOCUMENTOS ADICIONALES ESPECÍFICOS PARA EL MECANISMO DE PARTICIPACIÓN'.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta debe ajustarse a las condiciones y requisitos establecidos en los términos de referencia y mecanismos de participación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente o miembros de la alianza deben cumplir con los términos y condiciones de los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta debe presentarse para un mecanismo de participación habilitado para el departamento al que se postula.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El valor solicitado de la propuesta debe estar dentro del monto indicativo establecido para el mecanismo de participación por el departamento.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta debe estar orientada a la atención de las demandas territoriales del departamento en el mecanismo al que se presenta.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente no debe estar reportado en el último Boletín de responsables Fiscales expedido por la Contraloría General de la República.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta no debe estar en ejecución ni contar con financiación simultánea de otra convocatoria de MINCIENCIAS, SGR u otras entidades del Estado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9462,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2954,
+          "completion_tokens": 1128
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la convocatoria no exija alianzas obligatorias (no hay evidencia en los datos).",
+          "Confirmar que la Universidad del Rosario cumple con los requisitos específicos de la convocatoria (experiencia, grupos de investigación, etc.).",
+          "Asegurar que la propuesta se ajuste al objetivo y mecanismo de participación definidos."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada, reconocida por el SNCTI y con acreditación institucional, con sede principal en Bogotá. Según los datos disponibles, no hay restricciones que impidan su postulación en modo individual, por lo que puede postularse como entidad ejecutora, sujeto a verificar los requisitos específicos de la convocatoria."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la convocatoria no exija alianzas obligatorias (no hay evidencia en los datos).",
+        "Confirmar que la Universidad del Rosario cumple con los requisitos específicos de la convocatoria (experiencia, grupos de investigación, etc.).",
+        "Asegurar que la propuesta se ajuste al objetivo y mecanismo de participación definidos."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, reconocida por el SNCTI y con acreditación institucional, con sede principal en Bogotá. Según los datos disponibles, no hay restricciones que impidan su postulación en modo individual, por lo que puede postularse como entidad ejecutora, sujeto a verificar los requisitos específicos de la convocatoria.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

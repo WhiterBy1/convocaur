@@ -1,0 +1,364 @@
+{
+  "archivo": "convocatoria_934_tdr.pdf",
+  "convocatoria": "934",
+  "n_paginas": 16,
+  "n_caracteres_total": 55087,
+  "toc_detectado": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "pagina_toc": 1
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "pagina_toc": 3
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "pagina_toc": 3
+    },
+    {
+      "numero": 4,
+      "titulo": "LÍNEAS TEMÁTICAS",
+      "titulo_norm": "LINEAS TEMATICAS",
+      "pagina_toc": 3
+    },
+    {
+      "numero": 5,
+      "titulo": "ENFOQUE TERRITORIAL",
+      "titulo_norm": "ENFOQUE TERRITORIAL",
+      "pagina_toc": 3
+    },
+    {
+      "numero": 6,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 7,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 8,
+      "titulo": "CONDICIONES INHABILITANTES",
+      "titulo_norm": "CONDICIONES INHABILITANTES",
+      "pagina_toc": 6
+    },
+    {
+      "numero": 9,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "pagina_toc": 6
+    },
+    {
+      "numero": 10,
+      "titulo": "CONTENIDO DE LA PROPUESTA",
+      "titulo_norm": "CONTENIDO DE LA PROPUESTA",
+      "pagina_toc": 7
+    },
+    {
+      "numero": 11,
+      "titulo": "INSCRIPCIÓN",
+      "titulo_norm": "INSCRIPCION",
+      "pagina_toc": 8
+    },
+    {
+      "numero": 12,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "pagina_toc": 10
+    },
+    {
+      "numero": 13,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "pagina_toc": 10
+    },
+    {
+      "numero": 14,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 15,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 16,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 17,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 18,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 19,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 20,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 21,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 22,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 23,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "pagina_toc": 16
+    }
+  ],
+  "n_secciones_toc": 23,
+  "n_secciones_cuerpo": 22,
+  "fingerprint": "1.PRESENTACION > 2.OBJETIVO > 3.DIRIGIDA A > 4.LINEAS TEMATICAS > 5.ENFOQUE TERRITORIAL > 6.ENFOQUE DIFERENCIAL > 7.REQUISITOS > 8.CONDICIONES INHABILITANTES > 9.DURACION Y FINANCIACION > 10.CONTENIDO DE LA PROPUESTA > 12.AUTORIZACION USO DE DATOS PERSONALES > 13.CRITERIOS DE EVALUACION > 14.PROCEDIMIENTO DE EVALUACION > 15.BANCO DE ELEGIBLES > 16.ACLARACIONES > 17.CRONOGRAMA > 18.MODIFICACIONES > 19.PROPIEDAD INTELECTUAL > 20.VEEDURIAS CIUDADANAS > 21.ANEXOS > 22.ACEPTACION DE TERMINOS Y VERACIDAD > 23.MAS INFORMACION",
+  "titulos_norm": [
+    "PRESENTACION",
+    "OBJETIVO",
+    "DIRIGIDA A",
+    "LINEAS TEMATICAS",
+    "ENFOQUE TERRITORIAL",
+    "ENFOQUE DIFERENCIAL",
+    "REQUISITOS",
+    "CONDICIONES INHABILITANTES",
+    "DURACION Y FINANCIACION",
+    "CONTENIDO DE LA PROPUESTA",
+    "AUTORIZACION USO DE DATOS PERSONALES",
+    "CRITERIOS DE EVALUACION",
+    "PROCEDIMIENTO DE EVALUACION",
+    "BANCO DE ELEGIBLES",
+    "ACLARACIONES",
+    "CRONOGRAMA",
+    "MODIFICACIONES",
+    "PROPIEDAD INTELECTUAL",
+    "VEEDURIAS CIUDADANAS",
+    "ANEXOS",
+    "ACEPTACION DE TERMINOS Y VERACIDAD",
+    "MAS INFORMACION"
+  ],
+  "comparacion_plantilla_sgr": {
+    "n_en_doc": 22,
+    "n_plantilla": 21,
+    "coinciden_exacto": false,
+    "cobertura_plantilla": 0.429,
+    "faltan_vs_plantilla": [
+      "DEMANDAS TERRITORIALES",
+      "ALCANCE DEL PROYECTO",
+      "ENFOQUE DIFERENCIAL E INTERSECCIONAL",
+      "ORIENTACIONES PARA LA VINCULACION DE TALENTO HUMANO",
+      "REQUISITOS HABILITANTES",
+      "CAUSALES DE RECHAZO",
+      "CONTENIDO DEL PROYECTO",
+      "PROCEDIMIENTO DE INSCRIPCION",
+      "LISTADO DE ELEGIBLES",
+      "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
+      "VIGILANCIA DE LOS PROYECTOS",
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
+    ],
+    "extra_vs_plantilla": [
+      "ENFOQUE DIFERENCIAL",
+      "REQUISITOS",
+      "CONDICIONES INHABILITANTES",
+      "CONTENIDO DE LA PROPUESTA",
+      "AUTORIZACION USO DE DATOS PERSONALES",
+      "BANCO DE ELEGIBLES",
+      "ACLARACIONES",
+      "MODIFICACIONES",
+      "PROPIEDAD INTELECTUAL",
+      "VEEDURIAS CIUDADANAS",
+      "ANEXOS",
+      "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "MAS INFORMACION"
+    ]
+  },
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "texto": "Mediante la Ley 2162 de 2021 se creó el Ministerio de Ciencia, Tecnología e Innovación, como el ente rector del sector y del \nSistema Nacional de Ciencia, Tecnología e Innovación (SNCTI), encargado de formular, orientar, dirigir, coordinar, ejecutar, \nimplementar y controlar la política del Estado en esta materia. De acuerdo con esto, el Ministerio de Ciencia, Tecnología e \nInnovación (en adelante el Ministerio), busca con esta convocatoria fomentar la vinculación del talento humano de alto nivel \na las entidades del SNCTI  a través de la confo rmación de un ba nco elegible de doc tores para realizar estancias \nposdoctorales. \n \nLa convocatoria se encuentra alineada con las bases del Plan Nacional de Desarrollo 2023 -2026, particularmente, con las \nsiguientes transformaciones1: 1.Ordenamiento del territorio alrededor d el agua y justicia ambiental; 2. Seguridad humana y \njusticia social; 3. Derecho humano a la alimentación; 4. Transformación productiva, internacionalización y acción climática; \n5. Convergencia Regional, toda vez que a través de l fomento a la vinculación de  doctores a entidad es del SNCTI y los \nproyectos de investigación derivados de las mismas, se espera contribuir a solucionar retos tales como garantizar la \n \n1 https://www.dnp.gov.co/Paginas/plan-nacional-de-desarrollo-2023-2026.aspx \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 2 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nsoberanía alimentaria y el derecho a la alimentación; garantizar la seguridad sanitaria, la salud y el bienestar de la población \nen el territorio nacional; asegurar la generaci ón, acceso y uso de energías sostenibles para todos los colombianos; \naprovechar sosteniblemente la biodiversidad, sus bienes y servicios ecosistémicos; y poner fin a todas las forma s de \nviolencia en Colombia, atendiendo las transformaciones sustentados en el conocimiento, la equidad de género, el cierre de \nbrechas en materia de educación. \n \nCon la convocatoria en cuestión se espera contribuir al logro del objetivo específico número 1 de la “ Política Nacional de \nCTeI 2022-2031” (CONPES 4069 de 2021)  2: “…fortalecer el capital humano en CTI del país, y aumentar la inserción y la \ndemanda de doctores en el sector productivo”. \n \nPor otro lado, la convocatoria se enmarca en los siguientes Obj etivos Estratégicos Institucionales 2023-2026 del Ministerio \n“Fortalecer la gobernanza del SNCTI y sus capacidades a través de las políticas públicas, planes y programas de CTeI ” y \n“Reducir las brechas territoriales, étnicas y de género en CTeI ”, a través del Programa Estratégico “(PE3) Incrementar las \nvocaciones científicas en l a población infantil y juvenil, la formación de alto nivel en CTeI, y el fomento a la vinculación del \ncapital humano en el SNCTI; para contribuir a la sostenibilidad ambiental, econ ómica y al bienesta r social” que hace parte \ndel Plan de Acción Institucional 2023. \n \nDe esta manera se mantiene la coherencia entre los  presentes términos de referencia , la Política Nacional de Ciencia, \nTecnología e Innovación 2022-2031, el Plan Estratégico Institucional (PEI 2023-2026) y el Plan de Acción Institucional (PAI) \n2023 del Ministerio. \n \nTeniendo en cuenta estos elementos, el Ministerio busca promover la vinculación de  doctores y su articulación con \nentidades del Sistema Internacional de Ciencia, Tecnología e Innovación-SNCTI. \n \nDe acuerdo con lo establecido en el artículo 2 del Decreto 591 de 1991, la presente convocatoria se ejecuta por las \nsiguientes causales de CTeI:  \n \n• Numeral 1. “ Investigación científica y desarrollo tecnológico, desarr ollo de nuevos productos y p rocesos, \ncreación y apoyo a centros científicos y tecnológicos y conformación de redes de investigación e \ninformación”, toda vez que se espera que a través de las estancias posdoctorales se fomente la inserción de  \ncapital humano de alto nivel a diferentes actores del SNCTI contribuyendo a consolidar la conformación de redes de \ninvestigación. Adicionalmente, los trabajos a desarrollar durante  las estancias atenderán necesidades o \nproblemáticas definidas de forma conjunta con las entidades receptoras a través de proyectos de Investigación y/o \nDesarrollo Tecnológico. \n \n• Numeral 4. “Proyectos de innovación que incorporen tecnología, creación, generación, apropiación y \nadaptación de la misma, así como la creación y el apoyo a incubadoras de empresas, a parques tecnológicos \ny a empresas de base tecnológica” , toda vez que a través de las estancias pos doctorales se podrán presentar \npropuestas de innovación que involucren a su vez  la creación, generación, apropiación y adaptación de tecnologí as \nque sean incorporados en el desarrollo de las mismas.  \n \n \n2 https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/4069.pdf \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 3 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nEn el marco de las estancias posdoctorales , los beneficiarios de la presente convocatoria aportarán al fortalecimiento del \nSistema Nacional de Ciencia, Tecnología e Innovación a través del desarrollo de las propuestas de Investigación, Desarrollo \nTecnológico y/o Innovación, las cuales contribuirán a resolver necesidades definidas juntamente con la entidad receptora 3, \nlogrando con ello el objetivo de producir investigación científica, desarrollos tecnológicos y/o innovaciones de impacto.",
+      "n_caracteres": 5665
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "texto": "Conformar un banco de doctores elegibles para realizar Estancias Posdoctorales en entidades que hagan parte del Sistema \nNacional de Ciencia, Tecnología e Innovación.",
+      "n_caracteres": 166
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "texto": "Profesionales co lombianos que cuenten co n el título de  doctorado o que certifiquen que su tesis de doctorado ha sido \nsustentada y aprobada al cierre de la convocatoria.",
+      "n_caracteres": 172
+    },
+    {
+      "numero": 4,
+      "titulo": "LÍNEAS TEMÁTICAS",
+      "titulo_norm": "LINEAS TEMATICAS",
+      "texto": "La propuesta a desarrollar durante la Estancia de Investigación, Desarrollo Tecnológico y/o Innovación preferiblemente \ndeberá estar relacionada con los retos establecidos en la Política de Investigación e Innovación Orientada por Misiones: \n \n1. Bioeconomía, ecosistemas naturales, territorios sostenibles : Potenciar el desarrollo  territorial sostenible \nmediante el conocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos \n2. Derecho a la alimentación:  Producir y disponer  alimentos y agua de manera eficiente, soberana, autón oma y \nequitativa, por medio de la investigación y la innovación. \n3. Energía eficiente, sostenible y asequible:  Garantizar el acceso y uso de energías seguras y sostenibles para \ntodos los colombianos, a través del desarrollo, adopción y adaptación de tecnologías para la transición energética. \n4. Soberanía sanitaria y bienestar so cial: Garantizar la disponibilidad de conocimiento, tecnologías y servicios \ninnovadores para la salud y el bienestar de toda la población colombiana. \n5. Ciencia para la paz y la ciudadanía : Poner fin a todas las form as de violencia en Colombia  y comprender las \ndiversas causas de  violencia como base para construir soluciones tecnológicas y sociales que fomenten y \nfortalezcan la convivencia pacífica en condiciones de equidad y justicia social.",
+      "n_caracteres": 1361
+    },
+    {
+      "numero": 5,
+      "titulo": "ENFOQUE TERRITORIAL",
+      "titulo_norm": "ENFOQUE TERRITORIAL",
+      "texto": "La presente convocatoria cuenta con los sig uientes requisitos de enfoque territorial, cuyo objetivo es democr atizar la \nCiencia, la Tecnología y la Innovación, bu scando, asimismo, el cierre de brechas y la consolid ación de la s comunidades \ncientíficas en los departamentos y municipios.  \n \n3 Entidad receptora: entidad del Sistema Nacional de Ciencia, Tecnología e Innovación-SNCTI (artículo 5 del decreto 1666 de 2021) en la cual se realizará la estancia. La \nentidad receptora deberá garantizar los medios necesarios para que el doctor desarrolle la propuesta en el marco de la estancia posdoctoral. \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 4 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n \nSe priorizarán las entidades receptoras con sede en, así como la participación de doctores nacidos en ciudades/municipios \ndiferentes a : la Región Metro politana Bogotá -Cundinamarca, al Área Me tropolitana del Valle de Aburrá , Cali, al Área \nMetropolitana de Barranquilla, al Área Metropolitana de Bucaramanga y Manizales , por lo cual,  en rel ación al Enfoque \nTerritorial, se otorgará calificaci ón en los criterios de evaluación No. 1 “Del doctor” y No. 3 “De la entidad receptora ” de la \nsiguiente forma:  \n \n• Criterio de evaluación No. 1.2. “Enfoque territorial. Nacido en ciudad/municipio diferente a los ubicados en la  Región \nMetropolitana Bogotá -Cundinamarca, al Área Metropol itana del Valle de A burrá, Cali, al Área Metropolitana  de \nBarranquilla y al Área Metropolitana de Bucaramanga”. Tendrán una puntuación de diez (10) puntos , según l o \nestablecido en el numeral 13. “Criterios de Evaluación”. \n• Criterio de evaluación No. 3.1. “Entidades receptoras con domicilios en ciudad/municipio diferente a los ubicados en  \nRegión Metropolitana Bog otá-Cundinamarca, Área Metropol itana del Valle de Aburrá , Cali, Área Metrop olitana de \nBarranquilla y Área Metropolitana de Bucaramanga”. Tendrán una puntuación de diez (10) puntos, según lo establecido \nen el numeral 13. “Criterios de Evaluación”.",
+      "n_caracteres": 2170
+    },
+    {
+      "numero": 6,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "texto": "La presente  convocatoria cuen ta con los siguien tes r equisitos d e e nfoque d iferencial e  incluyente, c uyo objetivo es \ndemocratizar la Ciencia, la T ecnología y la Innovación, buscando , a simismo, el cierre de brechas, el crecimiento y la \nconsolidación de las comunidades científicas en los departamentos y municipios.  \n \nCATEGORÍA DESCRIPCIÓN \nSexo Mujer (Femenino de acuerdo con la cédula de ciudadanía) \nGrupo Étnico \nPoblación Indígena. \nPoblación Negra / Afrocolombiano \nRaizal \nPalenquera \nRom (gitano) \nPoblación víctima del conflicto \narmado \nSon aquellas personas que individual o colectivamente h ayan sufrido un daño \npor hechos ocurridos a partir del 1º de enero de 1985, como consecuencia de \ninfracciones al Derecho Internacional Humanitario o de violaciones gr aves y \nmanifiestas a las n ormas internacionales de Derechos Humanos, ocurridas con \nocasión del conflicto armado interno. (Ley 1448 de 2011, articulo 3) \n \nEn relación con el enfoque diferencial, l os doctores que demuestren hacer parte de alguna de las categorías señaladas en \nla tabla recibirán puntuación en el criterio de evaluación No. 1 “Del doctor” de la siguiente forma:  \n \nCriterio de evaluación No. 1.3. “Enfoque diferencial”: \n \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 5 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n• “Grupos étnicos o población víctima del conflicto: Ser miembro de población negra, afrocolombiana, raizal, palenquera, \nindígena, Rom; o hacer parte de la población víctima del conflicto”. Tendrán una puntuación de cinco (5) puntos, según \nlo establecido en el numeral 13. “Criterios de Evaluación”. \n• “Sexo: mujer”. (Femenino de acuerdo con la cédula de ciudadanía). Tendrán una puntuación de cinco (5) puntos, según \nlo establecido en el numeral 13. “Criterios de Evaluación”. \n \nNota: Para acreditar esta categoría, según lo contemplado en el num eral 11.10 del Procedimiento de inscripción, “se debe \nadjuntar l a totali dad de los documentos q ue soportan los requisitos …”, por lo cual, se deberá anexar el certificado de \nacuerdo con lo establecido en el requisito 7.3",
+      "n_caracteres": 2247
+    },
+    {
+      "numero": 7,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "texto": "7.1 Cumplir con el “Dirigido a”. Adjuntar copia de la cédula de ciudadanía legible por ambas caras. \n7.2 Contar con título de doctorado . Se requiere adjuntar copia del título o acta de grado. Para aquellos casos donde \naún no se cuente con el título o acta, se deberá anexar certificación expedida p or la autoridad competente de la \nuniversidad, donde conste expresamente  que ya ha sido susten tada y aprobada la tesis y qu e solo falta la \nceremonia de grado o la expedición del respectivo título. \n7.3 Presentar la propuesta de Investigación, Desarrollo Tecnológico y/o Innovación a desarrollar dur ante la Estancia. \nPara acreditar este requisito, la propuesta deberá contener la infor mación requerida e n el numer al 10 de los \ntérminos de referencia – Contenidos de la Propuesta. \n7.4 Adjuntar carta de aval de la propuesta, suscrita por el doctor y el representante legal de la entidad receptora o \nquienes hagan sus veces, siempre y cuando se adjunte el documento que lo faculte. (Anexo 1.  Carta de Aval) \n7.5 Para aquellos doctores que sean miembros de población negra, afrocolombiana, raizal, palenquera, ROM, deberán \nanexar el Certificado de Auto Reconocimiento expe dido por el Ministerio de l Inte rior. Los doctores que sean \nmiembros de una comunidad indígena deberán anexar el Certificado del Registro de la Autoridad o Cabildo de las \nComunidades y/o Resguardos Indígenas expedido por el Ministerio del Interior. Los doctores víctimas del conflicto \narmado deberán anexar el C ertificado expedido por la Unidad para la Atención y Reparación Integral para las \nVíctimas. La certificación deberá tener fecha de expedición de máximo 3 meses anteriores a la fecha d e cierre de \nla convocatoria. Este requisito es opcional y no es de carácter inhabilitante.  \n7.6 Tener hoja de vida en el aplicativo CvLAC, el cual se encuentra  disponible en el sitio web del Ministerio: \nhttps://scienti.minciencias.gov.co/cvlac/Login/pre_s_login.do \n7.7 La entidad receptora deberá estar legalmente constituida en Colombia.  Para entidades que no cuenten con \nRegistro Único Empresarial RUES, estas deberán adjuntar el certificado de existencia y representación legal.  \nNotas:  \na. Si alguno de los documentos mencionados previamente está en un  idioma diferente al español, es obligatorio \nadjuntar la traducción oficial al español. Se deberán anexar los dos documentos (original y traducido).  \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 6 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nb. El Ministerio podrá  solicitar en cualquier momento información y documentación adicional, comple mentaria o  \naclaraciones de los documentos entregados.",
+      "n_caracteres": 2797
+    },
+    {
+      "numero": 8,
+      "titulo": "CONDICIONES INHABILITANTES",
+      "titulo_norm": "CONDICIONES INHABILITANTES",
+      "texto": "Son todas aquellas condiciones de m odo, tiempo y lugar, ob jetivas o  subjetivas, antecedentes o concomitantes, \npredicables del aspirante inscrito en la convocatoria o del proyecto sometido a consideración del Ministerio que impiden \nla continuidad de su participación en el proceso de  selección, o que, habiendo obte nido el beneficio de que se trate, le  \nhacen imposible disfrutarlo.   \n \nEl doctor no podrá: \n \n6.1 Ser beneficiario de manera simultánea de convocatorias  financiadas o cofinanciadas por el Ministerio, en su \nparticipación como investigador, doctor o estancia postdoctoral. \n6.2 Ser beneficiario  de man era simultánea en dos o más p ropuestas de la presente convocatoria. En caso de \npresentarse en dos o más p ropuestas se tendrá en cuenta  la primera propuesta registrada con base en la fecha y \nhora de inscripción en la plataforma. \n6.3 Tener vinculo contractual con la entidad receptora a la fecha de apertura de la convocatoria. \n6.4 Ser representante legal de la entidad receptora. \n6.5 Haber sido declarado en incumplimiento en cualquiera de los mecanismos operados por el Ministerio en los últimos \n5 años. \n6.6 Estar incurso en alguna d e las causa les de inhabilidad e Incompatibilidad y que no se encuentre apto para  \ncontratar de acuerdo con lo establecido en la Constitución, en Ley y Reglamentos.",
+      "n_caracteres": 1336
+    },
+    {
+      "numero": 9,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "texto": "La financiación se otorgará por un periodo mínimo de doce (12) meses y máximo de veinticuatro (24) meses. \n \nLos rubros financiables por el Ministerio de Ciencia, Tecnología e Innovación serán:  \n \n• Apoyo al sostenimiento mensual: DIEZ MILLONES DE PESOS M/CTE ($10.000.000) mensuales hasta por \n24 meses \n• Apoyo para el desarrollo d e la propuesta a desarrollar durante la E stancia: Hasta CINCUENTA \nMILLONES DE PESOS M/CTE ($50.000.000). Este rubro será utilizado exclusivamen te para apoya r el \ndesarrollo de  la propuesta de Investigación, Desarrollo Tecnológico y/o Innovación a desarrolla r durante l a \nestancia; y será desembolsado a la entidad receptora una vez cumplidos los requisitos de perfeccionamiento y \nejecución del contrat o de financia miento de recuperación contin gente en las condiciones que el Minist erio \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 7 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nindique. \nNota:  \n1. La financiación se otorga exclusivamente para los rubros definidos en la presente convocatoria. \n2. El contrato de financiamiento de recupe ración cont ingente que será suscrito entre el beneficiario, la entidad \nreceptora y el Fondo Francisco José de Caldas-FFJC, tendrá una duración mínima de doce (12) meses y máxima  \nde veinticuatro (24) meses contados a partir del cumplimiento de los requisitos de perfeccionami ento y ejecución, \nes decir, a partir de la firma y la aprobación de la garantía por parte del Fondo Francisco José de Caldas. \n3. La entidad receptora y el doctor deberán presentar informes mensuales.  \n4. Los desembolsos de los recursos se realizará n de forma mensual  contra entrega, aprobación y recibido a  \nsatisfacción del informe mensual por parte del supervisor del contrato.  \n5. El doctor deberá c umplir con las obligaciones frente al Sistema de Seguridad Social Integral y presentar  los \nrespectivos comprobantes de pago periódico al supervisor; y los pagos a que haya lugar.",
+      "n_caracteres": 2103
+    },
+    {
+      "numero": 10,
+      "titulo": "CONTENIDO DE LA PROPUESTA",
+      "titulo_norm": "CONTENIDO DE LA PROPUESTA",
+      "texto": "Propuesta de Investi gación, Desarrollo Tecnológico y/o Innovación a desarrollar durante la Estancia \nposdoctoral: La propuesta que se debe adjuntar corresponde a un texto en el que el postulante presenta, de manera \nconcisa la investigación, el desarrollo tecnológico y/o innovación que está adelantando o adelantará en el desarrollo  de \nsu estancia posdoctoral, la cual deberá contribuir a resolver la necesidad definida juntamente con la entidad receptora. \nLa propuesta deberá contener el siguiente contenido: \nContenido de la propuesta: \na. Nombre del doctor \nb. Título de la propuesta \nc. Tipo de proyecto: Investigación Básica, Investigación Aplicada, Desarrollo Tecnológico, Innovación \nd. Duración de la estancia \ne. Planteamiento de la necesidad o problemática \nf. Contribución a resolver la necesidad o problemática definida juntamente con la entidad receptora \ng. Objetivo general: debe establecer qué pretende alcanzar la propuesta. Se debe mostrar de forma general \ncuál será el resultado, los métodos a utilizar y la necesidad o problemática a resolver \nh. Objetivos específicos: Logros intermedios que permitan alcanzar el objetivo general \ni. Metodología: La metodología define el camino a segu ir para alc anzar los objetivos propu estos, y debe \nidentificar y de scribir el u so de métodos, procedimientos, técnicas analíticas cualitativas y cuantitativa s \nque se utilizarán para alcanzar cada uno de los objetivos específicos. \nj. Cronograma: Relacionar las principales actividades requeridas p ara la ejecución del pro yecto con base \nen lo definido en la metodología y acotarlas en un periodo de tiempo, de tal mane ra que permita observar \ntoda la ejecución del proyecto y conocer el estado de avance. \nk. Presupuesto: Presentar un a estimación de los costo s asociados al desarroll o de  la pr opuesta de \ninvestigación, desarrollo tecnológico e innovación . Indicar el componente que será financiado y el \ncomponente que será asumido como contrapartida. \nl. Riesgos: En este ítem, se so licita registrar los principales rie sgos que se han identif icado y que podrían \nimpactar en la ejecución del proyecto y las actividades o puntos de control para su mitigación. \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 8 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nm. Resultados esperados:  Definir los  resultados medibles y cuantificables que se a lcanzarán con el \ndesarrollo de la propuesta e indicar las características del mismo, medios de verificación y los indicadores \nn. Divulgación de resu ltados: Indicar cómo serán divulgados los res ultados y apropiados por la ent idad \nreceptora \no. Bibliografía \n \n \n11. PROCEDIMIENTO INSCRIPCIÓN \n \nEl procedimiento para la postulación a la presente convocatoria es el siguiente:  \n \n11.1 Ingresar a la página web del Ministerio de Ciencia, Tecnología e Innovación (www.minciencias.gov.co). \n11.2 Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, en el menú desplegable hacer \nclic en la opción CvLAC, a llí encontrará disponible  el Formu lario para registrar  el CvLAC  \n(https://scienti.minciencias.gov.co/cvlac/Login/pre_s_login.do)4. \n11.3 Diligenciar o actualizar la hoja de vida en e l aplicativo CvLAC disponible en el sitio WEB del Ministerio de Ciencia, \nTecnología e Innovación. En caso de haberla registrado previamente, continuar con el paso número 11.4 \n11.4 Ingresar nuevamente a la página web del Ministerio de Ciencia, Tecnología e Innovación (www.minciencias.gov.co) \ny e n e l menú ubicado  en la parte superior de la página  web, hacer clic en la opción – SCIENTI Y SIGP,  allí \nencontrará disponibles los diferente s formulari os en línea  para aplic ar a las convocator ias de l Ministerio de  \nCiencia, Tecnología e Innovación (https://minciencias.gov.co/scienti). \n11.5 En el menú Sistemas de I nformación- Plataforma SIGP ubicado en el costado derecho , hacer cli c e n la opción \nRegistro Entidades para realizar el registro del doctor (https://plataformasigp.minciencias.gov.co:7003/Entidades/). \nEn caso de haberse registrado previamente, continuar con el paso número 11.7 \n11.6 Realizar el pre-registro del doctor con la información solicitada.  El Ministerio de C iencia, Tecnología e Innovación \nen un periodo de 2 días hábiles remitirá a su c orreo electrónico de contacto las credenciales de acceso para el \ningreso al sistema de registro. Se recomienda realizar el pre-registro con los días suficientes de anticipa ción para \nrealizar el posterior cargue de los documentos antes de la fecha de cierre de la convocatoria.  \n11.7 Ingresar al módulo de registro con sus credenciales y r egistrar la información del doctor. En caso de encontrarse \nregistrado en este sistema, no se requiere de un nuevo registro, sin embargo, podrá actualizar la información. \n11.8 Una vez finalizado el registro del doctor, ingresar al enlace de Formulario de Proyectos, programas y/o candidatos: \nhttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/ \n11.9 Diligenciar la información solicitada por el for mulario en línea para la presentación del doctor a la con vocatoria. \nPara recibir las credenciales de acceso por correo electrónico deberá registrar como mínimo el nombre del doctor, \nconvocatoria y correo electrónico.  \n11.10 Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un requisito requiere anexar más \nde un documento, guárdelos en una sola c arpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo \n \n4 Manual de usuario CvLAC: https://minciencias.gov.co/sites/default/files/ckeditor_files/D103M06%20Manual%20de%20Usuario%20CVLAC%20V01do.pdf \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 9 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \ncorrespondiente al requisit o. Si requi ere c ambiar algún a rchivo de los que previ amente ad juntó, puede hac erlo \nexaminando y adjuntando el docu mento deseado. Es importante resaltar que el tamaño de cada archivo anexado \nde cada uno de los requisitos cuenta con una capacidad máxima de 3 MB; para el requisito “Otros adjuntos” tiene \nuna capacidad máxima de 10 MB.  \n11.11 Para val idar, por favor hacer clic en  el botón Validar, ubi cado en la  parte inferior  del me nú. Si la in formación \nregistrada cumple con los criterios solicitados por la convocatoria, la validación será exitosa y se activará la opción \nde Envia r fo rmulario, en caso contrario se mostrará en panta lla la información que  no cumple con los criter ios \ndefinidos en la convocatoria.  \n11.12 Una vez se oprime el botón de enviar formulario, el sistema registrará al doctor y generará su respectivo código de \nidentificación.  \n11.13 Una vez haya sido enviada la propuesta, si la convocatoria s e encuentra abierta el si stema le permite modificarla, \noprimiendo e l botón \"Modificar P royecto\", para realiz ar los cambi os que considere.  Al dar clic  en la opción \n\"Modificar Proyecto\" q ue está en el me nú se muestra una pant alla de conf irmación con  el sigu iente mensaje  \n\"¿Está seguro de modificar el proyecto?, una vez confirme esta acción la propuesta ya no estará radicada en el \nMinisterio de  Ciencia, Te cnología e Innovación . Para volver a  radicarlo debe validar y enviar de nue vo la \npropuesta una vez l o haya m odificado.\" C abe aclarar que, si no vuelve a validar y en viar la propuesta  al \nMinisterio de Ciencia, Tecnología e Innovación, este no quedará radicado oficialmente en el Ministerio de Ciencia, \nTecnología e Innovación  y no continuará con la etapa de revisión de requisito s, así cuente con la pantalla d e \nevidencia de un envío anterior.  \n11.14 Para rea lizar seguimiento a la propuesta , deberá ingresa r al formula rio con el usuario y cont raseña envi ados \nmediante el correo electrónico al moment o de registrar la propuesta en el sistema, y por el menú de requisitos \npodrá consultar las observaciones realizadas a los requisitos de la propuesta, con el fin de que sean subsanadas \npor el proponente. \nNotas:  \n1. Se acept arán úni camente l os doctores que se presenten a travé s del formulario en línea con toda la inf ormación \nsolicitada en la presente convocatoria. \n2. No se tendrá en cuenta para el proceso de evaluación y sele cción, la información enviada en medios disti ntos al SIGP \n(correo postal, correo electrónico u otro medio),  ni posterior a la fecha y hora límite es tablecida. Excepto cuando sea \nsolicitado directamente por el Ministerio de Ciencia, Tecnología e Innovación. \n3. Si requieren anexar documentación adicional de la p ropuesta como: tab las, fórmulas, gráficas, anexos, cart as, etc., \nguárdelos en una sola carpeta y  adjúntelas como archivo .ZIP o .RAR (archivo comprimido), e n el requisito de Otros \nadjuntos. Si requieren cambiar algún archivo de los que previamente a djuntó, puede hacerlo examinando y adjuntando \nel documento deseado. \n4. En caso de que se presenten errores  en el aplicativo SIGP durante el proceso de inscripción y e nvío de la propuesta o \ndel cargue de la document ación soporte, y por esta razón después de ef ectuados varios intentos no pueda enviarse la \npropuesta de forma normal dentro del plazo establecido, p or favor capturar las pantallas con el mensaje de error junt o \ncon la fecha y hora en que se presentó el inco nveniente que soporte el problema. Remitir an tes de la fecha d e cierre \nestablecida en el cronograma de lo s presentes términos de referencia, t odas l as evidencias de la falla presentada \nexclusivamente a través  del formulario electrónico que se encuentra dis ponible en  el enlace \nhttp://www.minciencias.gov.co/ciudadano/canal-pqrds, Con el fin de facilita r el trámite interno de esta solicitud, se \nrecomienda remitir la petición con el asunto: Falla carga SIGP – Convocatoria Estancias Posdoctorales Orientadas por \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 10 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nMisiones- 2023, explicando en e l cuerpo de d icha comunicaci ón los inco nvenientes ocurrid os durante el envío y \nanexando las evidencias. El Ministerio  de Ciencia, Tecnología e Innovación por medio de l a Ofici na de Sistemas \nverificará el error reportado. \n5. Toda inscripción presentada fuera del plazo establecido en la Sección Cronograma se tendrá como extemporánea y no \nserá tenida en cuenta para la revisión de requisitos. \n6. Se recomienda iniciar el proceso de  registro con suficiente tiempo para que se alcance a terminar dicho proceso antes \ndel cierre de la convocatoria.",
+      "n_caracteres": 10896
+    },
+    {
+      "numero": 12,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "texto": "Para todos los efectos legales, la presentación, inscripción o registro de la propuesta, de forma inequívoca y exclusivamente \npara los fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de información, para el \ntratamiento de sus datos personales por parte del Ministerio de Ciencia, Tecnología e Innovación.  \n \nQuien presente, inscriba o registre la propuesta como persona natural o la persona jurídica en cuyo nombre se presenta la  \npropuesta declara que ha re cibido autorización expresa de todas las personas naturales y jurídicas vinculadas a esta \npropuesta y a este pr oyecto, para suministrar las informaciones  a que hace refer encia la  ley de manejo de datos, \ncomprometiéndose a respo nder ante el Ministerio de Ci encia, Tecnología e Innovación , p or cualquier demanda, litig io \npresente o eventual, reclamación judicial o extr ajudicial, formulada por cualquiera de las  personas natural es o jur ídicas \nvinculadas a la propuestas y el proyecto. Lo anterior, de conformidad con lo establecido en la Ley 1581 de 2012 “Por la cual \nse dic tan disposiciones generales para la  protección de d atos personales” y la Política de protecci ón y tr atamiento de \ndatos personales del Ministerio de Cienc ia, Tecnología e Innovación, disponible en el Manual de Políticas de Seguridad y \nPrivacidad de la Información (Código: D103M01).",
+      "n_caracteres": 1389
+    },
+    {
+      "numero": 13,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "texto": "Los doctores inscritos dentro de los plazos establecidos para la presente convocatoria y que cumplan con la totalidad de los \nrequisitos se evaluarán según los siguientes criterios: \n \nNo. Criterio Descripción Puntaje \nSubcriterio Puntaje máximo \n1 Del doctor \nTítulo de doctor obtenido  o sustentaci ón aprobada al cierr e de l a \nconvocatoria: \n• 2022: 5 puntos, \n• 2021: 4 puntos,  \n• 2020: 3 puntos,  \n• 2019: 2 puntos,  \n• 2018: 1 punto \n• Antes de 2017: 0 puntos \n5 \n25 \n1.2. Enfoque territorial: \nNacido en un municipio diferente a la Regió n Metropolitana Bogotá -\nCundinamarca, Área Metropolit ana del Valle de Aburr á, Cali, Área \nMetropolitana de Barranquilla y Área Metropolitana de Bucaramanga.  \n10 \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 11 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nNo. Criterio Descripción Puntaje \nSubcriterio Puntaje máximo \n1.3. Enfoque diferencial: \n• Grupos ét nicos o población víctima del conflicto : Ser miembro de \npoblación negra, afrocolombiana, raizal, palenquera, indígena, Rom; o \nhacer parte de  la población víctima del conflict o (Grupos étnicos : \nVerificado con Certificación de Auto Reconocimiento como mi embro \nde l a comunidad é tnica. Población víctima del conflicto : Certificado \nexpedido por la Unidad para la Atención y Reparación Integral para las \nVíctimas. Ver Requisito 5.3) 5 puntos \n• Sexo: mujer. 5 puntos \n10 \n2 De la propuesta  \n2.1. Calidad y coherencia de l a propuesta respecto al objetivo, metodología \ny descripción técnica: \n \n• Contribución de la propuesta a r esolver la necesidad o pr oblemática \ndefinida conjuntamente con la entidad receptora a través de CTI  y la \nviabilidad de implementación en la entidad. Hasta 20 puntos \n \n• Articulación y coherencia entre la s necesidades o problemáticas \ndefinidas conjuntamente con  la entidad receptora , los objetiv os, el \ndiseño metodológico, el cronogr ama de actividades y los productos \nesperados planteados en la propuesta. Hasta 20 puntos \n40 \n55 \n2.2. Pertinencia de la propuesta frente a las temáticas de las misiones: \n1. Bioeconomía, ecosistemas naturales, territorios sostenibles \n2. Derecho a la alimentación \n3. Energía eficiente, sostenible y asequible \n4. Soberanía sanitaria y bienestar social \n5. Ciencia para la Paz y la Ciudadanía \n15 \n3 De l a entidad \nreceptora \n3.1. Entidades receptoras con domicilios en ciudad/municipio dif erente a \nlos ub icados en  Región Metropolitana Bog otá-Cundinamarca, Área \nMetropolitana del Valle de Aburrá , Cali, Área Metrop olitana de \nBarranquilla y Área Metropolitana de Bucaramanga.  \n10 20 \n3.2. Entidades receptoras diferentes a Instituciones de Educación Superior 10 \nTotal   100",
+      "n_caracteres": 2824
+    },
+    {
+      "numero": 14,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "texto": "Los doctores inscritos dentro de los plazos establecidos para la presente convocatoria, que cumplan con los requisitos y que \nno estén incursos en alguna de las condiciones inhabilitantes, serán evaluados por el Ministerio mediante la figura de pares \nevaluadores externos, teniendo en cuenta los criterios  de evaluaci ón descri tos e n el  numeral 13 CRITERIOS DE \nEVALUACIÓN. \n \nLos evaluadores se rán seleccionados según los criterios de calida d, competencia y área del conoci miento, q ue se \nencuentran dispuestos por el Ministerio. Toda información proporcionada es de carácter confidencial y no será utilizada para \nningún fin diferente a  la realización de la evaluación.  Los expertos evaluadores  y el personal del Ministerio a carg o de la \nconvocatoria estarán cobijados por cláusulas de confidencialidad y de no conflicto de interés. \n \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 12 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nLas propuestas se ordenarán en estricto orden descendente, de acuerdo con el puntaje obtenido al ap licar los criterios d e \nevaluación de la presente convocatoria. En caso de empate, se aplicarán los siguientes criterios de desempate: \n \n1. Puntaje en el criterio 2.1 Calidad y coherencia de la propuesta. \n2. Puntaje en el criterio 2.2. Pertinencia de la propuesta. \n3. Puntaje en el criterio 1.3. Enfoque diferencial. \n4. Puntaje en el criterio 1.2. Enfoque territorial. \n5. Puntaje en el criterio 1.1. Fecha obtención del título de doctor \n6. Hora y fecha de inscripción a la convocatoria. Si el doctor tuviera que su bsanar algún docum ento, se tomará la \nfecha en que realiza dicho proceso.  \n \nNotas: Toda información proporcionada es de carácter confi dencial y no será utiliz ada para ningún fin diferente al proceso \nde selección.",
+      "n_caracteres": 1932
+    },
+    {
+      "numero": 15,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "texto": "Los doctores que cumplan con todo s los requisitos solic itados ingresarán al Banco de Elegibles  en e stricto o rden \ndescendente de la calif icación obten ida, de acu erdo con el punta je obtenido  al aplica r los crite rios de evalua ción de la \npresente convocatoria y los procedimientos descritos en las Secciones 13 y 14.  \n \nEl banco de doctores elegibles para la realización de la  estancia posdoctoral estará conformado por aquellas propuestas \nque tengan un puntaje mínimo de treinta (30) puntos en el criterio No 2.1 “Calidad y coherencia de la propuesta respecto al \nobjetivo, metodología y descripción técnica”. \n \nLos resultados de la convocatoria se pub licarán en la página web del Ministerio ( www.minciencias.gov.co) en las fechas  \nestablecidas en la Sección 17 - Cronograma.  \n \nLa vigencia del Banco de Elegi bles es de dos años a partir de su publicación definiti va. La in clusión de un doctor en el \nBanco no implica obligato riedad ni comprom iso al guno del Minist erio de asi gnar recursos,  ni genera derecho a recibir \napoyos ec onómicos para quien es hayan presentado las candidaturas correspondientes. En todo caso, el núm ero de \nbeneficiarios se determinará de acuerdo con la disponibilidad de recursos.  \n \nNotas:  \n1. Surtida la publica ción definitiv a del banco de doctores elegibles y previa apro bación del  presupuesto para la  \nfinanciación de esta Convocatoria, el Ministerio publi cará el Banco de doctores Financiables. Los recursos \ndisponibles será n asignad os en estricto orden de scendente, de acuerdo c on el orden del Banco de  doctores \nElegibles. \n \n \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 13 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n2. Una vez publ icado el Banco de doctores Financiables, el Ministerio informará mediante c omunicación escrita y/o \nelectrónica a los aspirantes que  hayan sido seleccionado s para ser financiados,  indicando las instrucc iones y \ncondiciones para la legalización del apoyo. \n3. En caso de contarse con r ecursos adicionales para la financiación del Banco de  doctor Elegibles, se publicarán \nBancos Adicionales de doctores Financiables y se informará a los doctores la fecha de inicio de la financiación, la \ncual puede variar de acuerdo con el momento de publicación y los recursos disponibles.  \n4. El beneficiario deb erá acogers e a los procedimientos, formatos y al  sistema de inf ormación definido s por el \nMinisterio para realizar el seguimiento y evaluación.",
+      "n_caracteres": 2615
+    },
+    {
+      "numero": 16,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "texto": "Una v ez public ados los r esultados preliminare s del banco de doctores elegibles, los interesados pod rán present ar \nsolicitudes de aclaraciones y co mentarios por un período de tres ( 3) días h ábiles. Por fuera de es te término se considera \nque las reclamaciones son extemporáneas.  \n \nLas quejas, reclamos, su gerencias y/o solicitudes de carácter general se debe n presentar exclusivamente a través del \nformulario electrónico que se encuentra disponible en el enlace  http://www.minciencias.gov.co/ciudadano/canal-pqrds, con \nel asunto “Solicitud aclaración resultados Convocatoria Estancias Posdoctorales Orientadas por Misiones- 2023”.",
+      "n_caracteres": 646
+    },
+    {
+      "numero": 17,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "ACTIVIDAD FECHA LIMITE \nApertura de la convocatoria 28 de febrero de 2023 \nCierre de la convocatoria 20 de abril de 2023 a las 4:00 pm (hora \nColombia) \nPeriodo de revisión de requisitos  Del 21 al 28 de abril de 2023  \nPeríodo de subsanación de requisitos Del 2 al 3 de mayo de 2023 a las 4:00 pm \n(hora Colombia) \nPublicación del banco preliminar de elegibles 06 de junio de 2023 \nPeríodo de solicitud de aclaraciones del banco preliminar de \nelegibles \n7 al 9 de junio de 2023 a las 4:00 p.m. (hora \nColombia) \nRespuesta a solicitud de aclaraciones 13 al 21 de junio de 2023 \nPublicación del banco definitivo de elegibles 7 de julio de 2023 \n \nLas inscripciones o periodo de subsa nación que se presenten por fuera de las fechas y horas estipul adas se entenderá n \ncomo extemporáneas y por lo tanto no serán tenidas en cuenta para continuar el proceso.  \n \nNotas:  \n \n1. Una vez cerrada la con vocatoria, el Ministerio verificará que los documento s adjuntos por el doctor presentan la \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 14 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \ninformación requerida d e forma consistente . El Ministerio reportará las in consistencias en la información en el  \nsistema, de modo tal que el doctor pueda ajustarlas a  través del aplicativo durante el período establecido  en el \nCronograma. No se notificará a ningún doctor sobre los documentos que deberá ajustar. \n2. La etapa denominada  “periodo de s ubsanación de requisitos” no exime d e responsabilidad a los interesados en \nesta convocatoria de la consulta permanente de la infor mación a fi n de entregar la propuesta completa. Los \nbeneficios otorgados por el Ministerio para facilitar la pre sentación de l as propuestas, no desplazan la \nresponsabilidad de los  aspirantes de consultar  y adjuntar correctamente los documentos necesarios p ara ser \nhabilitados, evaluados o seleccionados en esta convocatoria.  \n3. En caso de que se presenten errores en el aplicativo durante el proceso de inscripción y env ío de la candidatura o \ndel cargue de la d ocumentación soporte, y que por ello no pueda enviars e la postulación de forma normal dentro \ndel plazo establecido, se deberá hacer c aptura de las pantallas con el m ensaje de error junto con la fecha y hora \nen que s e presentó el inc onveniente que soporte e l problema. Asimismo, se deberán remitir todas las ev idencias \nde la falla presentada antes de la fecha de cierre establecida en el cronograma, lo anterior exclusivamente a través \ndel formulario electrónico que se en cuentra disponibl e en el enlace https://www.minciencias.gov.co/contact, \nexplicando en la comun icación los inconveniente s ocurridos durante el envío. El  Ministerio ve rificará el error \nreportado a través de la Oficina de Tecnologías y Sistemas de Información (OTSI).  \n4. Cualquier actuación por fuera  de las fec has y horarios establecidos en esta  sección se enten derá como \nextemporánea y no será tenida en cuenta. No se aceptarán documentos por fuera de las fechas establecidas en el \nCronograma de la convocatoria.",
+      "n_caracteres": 3206
+    },
+    {
+      "numero": 18,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "texto": "El Ministerio de Cien cia, Tecnología e Innovación podrá modificar el contenid o de los términos de ref erencia, así como su \ncronograma, por las causas establecidas en el Procedimiento Trámite de adendas d e condiciones de mecanismos de \noperación de CTeI (Código: M801PR03) (documento disponible en la página web del Ministerio de Cienci a, Tecnología e \nInnovación, Micrositio Calidad) . Estas causas incluyen, entre otras: fuerza mayor o caso f ortuito, eventos imprevisibles no \natribuibles al Ministerio  de Ciencia, T ecnología e Innovació n, ajustes a con diciones o crono grama generados por \nnecesidades de los grupos de  valor o de interés , garantizando que con la modificación no se vulnerará la expec tativa \nprevista de los posibles participantes ni los principios de mérito, calidad, equidad y transparencia.",
+      "n_caracteres": 824
+    },
+    {
+      "numero": 19,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "texto": "En el evento en que se llegaren a genera r derechos de propiedad intelectual sobre los resultados que se obtengan o se \npudieran obtener en el marco del desarrollo de la  presente Convocatoria, la titula ridad sobre los mismos se r egirá por lo \nestablecido en el artículo 169 de la Ley 1955 de 2019, que determina: \n \n“En los casos de proyectos de investigación y desarrollo de ciencia , tecnología e inno vación y de tecnologías de  la \ninformación y las comunicacio nes, adelantados  con recurs os públicos, el Estado como titular de los derechos de \npropiedad intelectual derivados de estos proyectos podrá ceder dichos derechos a través de la en tidad financiadora, y \nautorizará su transfere ncia, comercialización y explotac ión a quien adel ante y ejec ute el proyecto, sin que ello le \nconstituya daño patrimonial. Las con diciones de esta cesión serán fijadas en el respectivo contrato o convenio. En tod o \ncaso, el Estado, a través de la entidad financiadora, se reserva el derecho de obtener una licencia no exclusiva y gratuita \nde estos derechos de propiedad intelectual por m otivos de interés público. Así mismo, en caso de presentarse motivos \nde seguridad y defensa nacional,  el titular de los derecho s de propiedad intelectual deberá  ceder a título gratuito y sin \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 15 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nlimitación alguna al Estado, los derechos de propiedad intelectua l que le correspondan. Los derechos de propiedad \nintelectual a ceder, así como sus condiciones de uso, serán fijados en el respectivo contrato o convenio.  \n \nPARÁGRAFO: Cuando en el respectivo contrato o convenio se defina que el titular de derechos de propiedad intelectual \nes quien adelante y ejecute el proyecto, y este realice la explo tación de dichos de rechos, obteniendo gananci as \neconómicas, deberá garantizar al Estado, a tra vés de la e ntidad financiadora, un porcentaje de las ganancias netas \nobtenidas en la explotación de la propiedad intelectual de la cual es titular, porcentaje que  deberá ser acordad o por \nmutuo acuerdo con el Estado, a través de la entidad f inanciadora. El Estado a través de la entidad financiadora, deberá \ninvertir los dineros obtenido s, en programas y proyectos de Ciencia, Tecnología e Innovación y de tecnologías d e la \ninformación y las comunicaciones”. \n \nPARÁGRAFO 1. Sin perjuicio de lo ante rior, el Ministe rio de Cien cia, Tecnología e Innovación, se reserva el derecho de \nobtener una li cencia no exclusiva y gratuita sobre los derechos de propiedad intelectual obtenid os en el marco de l a \nejecución de la propuest a financiada por la presente conv ocatoria por mot ivos de int erés público, comprometiéndose a \nrespetar los derechos morales a que hubiere lugar. \n \nEn el momento en que se requiera, el beneficiario deberá autorizar  el uso al Ministerio de Ciencia, Tecnología e Innovación \nde la información, da tos, y demás re sultados obtenidos como consecuencia de la ejecución o desarrollo de la propuest a \nfinanciada por la presente convocatoria, atendiendo a la finalidad de ésta y del  alcance del corres pondiente convenio o \ncontrato. \n \nPARÁGRAFO 2. En caso de presentarse motivos  de seguridad y defensa nacional, el titular de los derechos de propiedad \nintelectual deberá ceder a título gratuito y sin limitación alguna al Ministerio de Cien cia, Tecnología e I nnovación, los \nderechos de propiedad intelectual que le correspondan. \n \nPARÁGRAFO 3. En cualquier evento o medio de divulgación utilizado para difundir los resultados de la presente \nconvocatoria se deberá dar el respectivo crédito al Mini sterio de Ciencia, Tecnología e Innovación, in cluyendo la imagen \ninstitucional de acuerdo con el manual de imagen corporativa alojado en http://www.minciencias.gov.co, pestaña Ministerio.",
+      "n_caracteres": 3969
+    },
+    {
+      "numero": 20,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "texto": "Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003, podrán desarrollar su actividad durante la \npresente convocatoria, conforme a lo estipulado en dicha normativa.",
+      "n_caracteres": 188
+    },
+    {
+      "numero": 21,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "texto": "• Anexo 1: Carta de aval de la Propuesta",
+      "n_caracteres": 40
+    },
+    {
+      "numero": 22,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "texto": "Con la inscripción, los interes ados aceptan las características, requisitos y  condiciones de la presente convocatoria, así \ncomo lo dispuesto en los  presentes términos de referencia para el desarro llo de esta y la entrega del recurso  o beneficio \nobjeto de esta. Una vez presentada la propuesta no será posible alegar desconocimiento de los requisitos y condiciones de \nlos términos de referencia y sus anexos. Cualquier aclaración, solicitud de subsanación de requisitos o solicitud de revisión \n\n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 16 de 16  \n \n \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nde resultados preliminares debe realizarse de acuerdo con lo definido en el cronograma.  \n \nDe igual forma, al realizar la postulación de  la propuesta, el responsable d e esta o s u representante legal declara que la \ninformación suministrada es veraz  y se hace r esponsable de la mi sma. En caso de encontrarse a lguna incoherencia y/o \ninconsistencia en la información o documentación suministrada, el Ministerio de Ciencia, Tecn ología e Innovación podrá en \ncualquier momento re chazar la propuesta o si es del caso declar ar la pé rdida del b eneficio, sin perjuicio de la s acciones \nlegales correspondientes. \n \nCuando el proponente, postulante o beneficiario directo renuncie al beneficio,  incentivo, apoyo financiero, acompañamiento \no asesoría, debe presentar antes del inicio de la suscripción del contrato su declinación emple ando el modelo sugerido de \n\"Carta de renuncia para accede r a beneficio, incentivo, apoyo financiero, acompañamiento o asesoría \" (Código: \nM801PR02MO6) u otro document o de manifesta ción voluntaria para renuncia r al ben eficio, en el que se incluya como \nmínimo la siguiente información: Identificación, convocatoria en la que participó, beneficio al que está renunciando; moti vos \npor los cuales renuncia (opcional), teléfono de contacto, correo electrónico, dirección de correspondencia. Este documento \ndeberá estar firmado por el representante legal o beneficia rio directo. El documento de declinación voluntaria deberá ser \nradicado en los c anales habilitados por el Ministerio de  Ciencia, Tecnología e Innovación: formular io en lí nea de PQRD S \nhttps://minciencias.gov.co/contact o al correo electrónico atencionalciudadano@minciencias.gov.co",
+      "n_caracteres": 2442
+    },
+    {
+      "numero": 23,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "texto": "EL MI NISTERI O DE CIENCIA , TECNOLOGÍA E INNOVACIÓN  \nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C. \nhttp://www.minciencias.gov.co  \n \nAtención al Ciudadano \nTeléfono: (+57) (601) 6258480 Extensión 2081 \nLínea gratuita nacional: 018000 914446 \nHorario: Lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua). \n \nEn caso de inquietudes o comen tarios sob re la presente convocatoria, favor diligenciar el formulario electrónico que se \nencuentra disponible e n el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asu nto “ Convocatoria \nEstancias Posdoctorales Orientadas por Misiones- 2023”. \n \n \n \n \n \nEDUARDO ROJAS PINEDA \nDirector de Gestión de Recursos para la Ciencia, la Tecnología y la Innovación (CTeI) \n \nElaboró: Diego Tibocha/ Contratista/ Dirección de Gestión de Recursos para la CTeI  \nRevisó: Natalia Muñoz/ Contratista/ Dirección de Gestión de Recursos para la CTeI  \nAprobó: Clara Beatriz Ocampo / Directora/ Dirección de Vocaciones y Formación",
+      "n_caracteres": 1028
+    }
+  ]
+}

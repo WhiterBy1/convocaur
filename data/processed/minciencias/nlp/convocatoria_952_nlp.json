@@ -1,0 +1,224 @@
+{
+  "convocatoria": "952",
+  "objetivo": "Conformar un Banco de Elegibles de movilidades internacionales para el desarrollo de propuestas conjuntas de investigación, desarrollo tecnológico e innovación I+D+i, formuladas con pares internacionales ubicados en Alemania o Francia.",
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta de I+D+i completa en el SIGP según el cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 1 'Carta Unificada de Aval y de Compromiso Institucional' firmada por el representante legal o apoderado, especificando contrapartida mínima del 50% del valor a financiar.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades SNCTI colombianas deben estar constituidas 24 meses antes del cierre de la convocatoria, verificable en RUES.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de existencia y representación legal expedido por Cámara de Comercio o Ministerio de Educación Superior con fecha no mayor a 3 meses al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador vinculado debe tener reconocimiento vigente como Junior, Asociado, Senior o Emérito por Minciencias al cierre de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El estudiante de doctorado debe anexar certificado de la IES que certifique su condición de estudiante activo, cursando al menos el primer semestre, con fecha de expedición no mayor a 30 días calendario al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El programa de doctorado debe contar con registro calificado vigente del MEN, verificable en SNIES.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El graduado de maestría debe anexar el título de grado o el acta de grado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 2 'Experiencia Académica, Profesional e Investigativa' diligenciado con información de cada miembro del equipo de trabajo.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los postulantes a beneficiarios de movilidad deben tener su hoja de vida actualizada en CvLAC.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 3 'Formato de Movilidad' diligenciado con datos de investigadores colombianos y extranjeros postulantes, cronograma y fechas de movilidades.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar en SIGP la información sobre productos esperados, actividades y resultados deseados en circulación de conocimiento especializado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los investigadores europeos deben presentar la propuesta conjunta ante la contraparte europea (Ecos Nord, DAAD-PROCOL); la propuesta debe ser radicada allí.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para acreditación de pertenencia a enfoque diferencial (opcional): anexar certificado de auto-reconocimiento (población negra, afrocolombiana, raizal, palenquera, ROM) expedido por MinInterior.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para acreditación de pertenencia a comunidad indígena (opcional): anexar certificado del Registro de Autoridad o Cabildo expedido por MinInterior.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para acreditación de víctimas del conflicto armado (opcional): anexar certificado expedido por la Unidad para la Atención y Reparación Integral a las Víctimas.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para acreditación de condición de discapacidad (opcional): anexar certificado de discapacidad expedido por IPS autorizada por la Secretaría de Salud.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "La propuesta de I+D+i no puede ser financiada simultáneamente con recursos de otra convocatoria de Minciencias, SGR u otras entidades del Estado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los aspirantes a movilizaciones no pueden ser beneficiarios de otra convocatoria financiada por Minciencias, SGR u otras entidades del Estado que apoye movilidades internacionales.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad y su representante legal no pueden estar incursos en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades establecidas en la Ley.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en caso de ser beneficiado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad, incompatibilidad o conflicto de intereses para contratar según la Constitución, Ley 80 de 1993, Ley 1474 de 2011, etc.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No alterar ninguno de los documentos solicitados en la sección de requisitos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 237,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 277,
+          "completion_tokens": 58
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10046,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3487,
+          "completion_tokens": 1593
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "proponente",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con al menos un investigador con reconocimiento vigente (Junior, Asociado, Senior o Emérito) por Minciencias al cierre de la convocatoria.",
+          "El programa de doctorado vinculado debe tener registro calificado vigente del MEN, verificable en SNIES.",
+          "Aportar contrapartida mínima del 50% del valor a financiar, según lo especificado en el Anexo 1.",
+          "Certificado de existencia y representación legal con fecha no mayor a 3 meses al cierre.",
+          "Constitución de la entidad con al menos 24 meses antes del cierre de la convocatoria (verificable en RUES)."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI y con acreditación institucional, cumple con los requisitos básicos de elegibilidad para postularse como proponente en esta convocatoria. No obstante, debe verificar que cuenta con investigadores categorizados por Minciencias y programas de doctorado con registro calificado, así como la capacidad de cumplir con la contrapartida mínima del 50% y los demás requisitos documentales."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con al menos un investigador con reconocimiento vigente (Junior, Asociado, Senior o Emérito) por Minciencias al cierre de la convocatoria.",
+        "El programa de doctorado vinculado debe tener registro calificado vigente del MEN, verificable en SNIES.",
+        "Aportar contrapartida mínima del 50% del valor a financiar, según lo especificado en el Anexo 1.",
+        "Certificado de existencia y representación legal con fecha no mayor a 3 meses al cierre.",
+        "Constitución de la entidad con al menos 24 meses antes del cierre de la convocatoria (verificable en RUES)."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI y con acreditación institucional, cumple con los requisitos básicos de elegibilidad para postularse como proponente en esta convocatoria. No obstante, debe verificar que cuenta con investigadores categorizados por Minciencias y programas de doctorado con registro calificado, así como la capacidad de cumplir con la contrapartida mínima del 50% y los demás requisitos documentales.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

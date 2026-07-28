@@ -1,0 +1,319 @@
+{
+  "convocatoria": "38",
+  "objetivo": "Fortalecer las capacidades territoriales en Ciencia, Tecnología e Innovación en salud mediante la conformación de un listado de proyectos elegibles de Investigación, Desarrollo e Innovación orientados hacia la Atención Primaria en Salud, desde un enfoque preventivo, predictivo y resolutivo, para responder a las demandas territoriales establecidas en el “Reto 4. Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional” del plan bienal de convocatorias 2 023-2024.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad del SNCTI con reconocimiento vigente",
+      "rol": null,
+      "condicion": "Debe tener reconocimiento vigente del Ministerio de Ciencia, Tecnología e Innovación como actor del SNCTI."
+    },
+    {
+      "tipo": "Entidad sin reconocimiento previo del SNCTI",
+      "rol": null,
+      "condicion": "Debe cumplir con los criterios de idoneidad y trayectoria establecidos en los términos de referencia."
+    },
+    {
+      "tipo": "Entidad internacional",
+      "rol": null,
+      "condicion": "Debe presentar la 'Carta entidad internacional' según subnumeral 8.11. No requiere NIT ni suscribir carta aval y modelo de gobernanza."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del 'DIRIGIDO A' establecidas en el numeral 3.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del proponente según metodología del DNP (excepto si no fue medido en los últimos 2 años).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' firmada por los representantes legales de todas las entidades nacionales de la alianza.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) con el contenido indicado en el numeral 10.1.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con el alcance establecido, incluyendo claramente las líneas temáticas definidas en el numeral 7 (infraestructura científica, modelos predictivos, atención primaria y líneas transversales).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atender al Reto 4 y al menos una demanda territorial (ver anexo 4) para cada departamento de la región SGR, registrado en SIGP y en el documento técnico.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) según las condiciones del numeral 10.2 y 12.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5) con soportes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar Aval del Comité de Ética de la Investigación o de Bioética (si aplica) y acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto/centro/departamento/grupo de investigación.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades nacionales del sector productivo, presentar certificado de existencia y representación legal (no mayor a 90 días) y estar constituidas mínimo 1 año antes de la apertura.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "9.1. Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos"
+    },
+    {
+      "texto": "9.2. El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "9.3. El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP."
+    },
+    {
+      "texto": "9.4. Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "9.5. Cuando el valor solicitado del proyecto sobrepasa o es inferior al monto indicativo establecido por región del SGR a la que se presenta el proyecto en los presentes términos en el numeral 12. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "9.6. Cuando en el proceso de evaluación se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 8.10 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "9.7. Cuando el proyecto no esté orientado a atender el reto 4. “Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional” - a través de por lo menos una demanda territorial (ver anexo 4), para cada uno de los departamentos pertenecientes a la zona de influencia del proyecto en los que se ejecutarán los componentes descritos en el numeral 7-ALCANCE."
+    },
+    {
+      "texto": "9.8. Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "9.9. Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "9.10. En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Coherencia y articulación técnica - científica y presupuestal del proyecto",
+      "puntaje_max": 12.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la alineación entre demandas territoriales, línea temática, justificación, objetivos, metodología, cronograma, plan de actividades, productos, resultados esperados y presupuesto."
+    },
+    {
+      "nombre": "1.2 Correspondencia entre los productos y resultados de CTeI planteados con los niveles de madurez tecnológica (TRL) exigidos",
+      "puntaje_max": 12.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la correspondencia entre productos y resultados con el TRL esperado según la línea temática."
+    },
+    {
+      "nombre": "1.3 Coherencia entre el presupuesto y los alcances del proyecto y justificación de los rubros",
+      "puntaje_max": 11.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el presupuesto está balanceado y los rubros justificados con criterios de necesidad y eficiencia."
+    },
+    {
+      "nombre": "2.1 Atención a las demandas territoriales establecidas en el Reto 4 del Plan Bienal de Convocatorias",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de demandas territoriales abordadas por el proyecto."
+    },
+    {
+      "nombre": "2.2 Obtención de productos de generación de nuevo conocimiento y/o desarrollo tecnológico e innovación que genere la alianza",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la cantidad de productos tipo TOP o A o B contemplados."
+    },
+    {
+      "nombre": "2.4 Inclusión de actividades, productos e indicadores que evidencian niveles de madurez tecnológica (TRL)",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el proyecto incluye actividades, productos o indicadores según niveles TRL."
+    },
+    {
+      "nombre": "2.3 Apropiación social del conocimiento en el proyecto",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el escenario de apropiación social del conocimiento (colaboración, involucramiento, información)."
+    },
+    {
+      "nombre": "2.4 Contribución del proyecto al desarrollo de capacidades regionales y territoriales de CTeI",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la atención a demandas territoriales según categorías IDIC de los departamentos."
+    },
+    {
+      "nombre": "3.1 Conformación de alianzas entre entidades del SNCTI para la contribución al logro de los objetivos",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la composición de la alianza (IES, centros, sector productivo, entidad territorial, sociedad civil)."
+    },
+    {
+      "nombre": "3.2 Vinculación de al menos un aliado internacional",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la inclusión de centros o universidades internacionales."
+    },
+    {
+      "nombre": "4. Sostenibilidad",
+      "puntaje_max": 13.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el plan de sostenibilidad técnica, administrativa y financiera que garantice continuidad."
+    },
+    {
+      "nombre": "5.1 Porcentaje de población con enfoque diferencial vinculado al proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de población diferencial vinculada."
+    },
+    {
+      "nombre": "5.2 Porcentaje de población con enfoque diferencial que se beneficiará dentro del Proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de población diferencial beneficiada."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CIENTO CINCUENTA Y OCHO MIL DOSCIENTOS OCHENTA Y SIETE MILLONES QUINIENTOS CUARENTA MIL SETECIENTOS SETENTA Y DOS PESOS M/CTE ($158.287.540.772)",
+    "monto_total_cop": 158287540772.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2023-2024",
+    "notas": "Monto total distribuido en valores iguales para seis regiones ($26.381.256.795 cada una). Rango por proyecto: desde $21.105.005.436 hasta $26.381.256.795."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 514,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 345,
+          "completion_tokens": 667
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7325,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2277,
+          "completion_tokens": 1633
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12122,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3604,
+          "completion_tokens": 1783
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3256,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1114,
+          "completion_tokens": 1077
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11980,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3499,
+          "completion_tokens": 231
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4059,
+          "completion_tokens": 3224
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible"
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores permitidos son entidades del SNCTI con reconocimiento vigente, entidades sin reconocimiento previo o entidades internacionales, sin incluir universidades. Además, la alianza es obligatoria, pero la universidad no puede liderar ni participar como aliada según el perfil."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible"
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores permitidos son entidades del SNCTI con reconocimiento vigente, entidades sin reconocimiento previo o entidades internacionales, sin incluir universidades. Además, la alianza es obligatoria, pero la universidad no puede liderar ni participar como aliada según el perfil.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

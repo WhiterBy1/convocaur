@@ -1,0 +1,445 @@
+{
+  "convocatoria": "969",
+  "objetivo": "Conformar un banco de proyectos elegibles para financiación de proyectos de ciencia, tecnología e innovación en el Mar Caribe colombiano, con el propósito de consolidar la investigación en Océanos, Clima y Recursos Marino-Costeros, desde un enfoque territorial integrando los ejes de desarrollo económico, social, ambiental y científico, alineado con la Política de Investigación e Innovación Orientada por Misiones (PIIOM) del Ministerio de Ciencia, Tecnología e Innovación, con el Decenio de las Ciencias Oceánicas para el Desarrollo Sostenible y con la Acción Climática.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES) pública",
+      "rol": "Entidad ejecutora",
+      "condicion": "Registrada ante el Ministerio de Educación Nacional y con domicilio en la región del Caribe colombiano."
+    },
+    {
+      "tipo": "Sociedad civil organizada",
+      "rol": "Entidad co-ejecutora",
+      "condicion": "Con domicilio en la región del Caribe colombiano. Incluye ONG, asociaciones, fundaciones, cooperativas, organizaciones comunitarias, juntas de acción comunal, movimientos sociales, organizaciones de derechos humanos, organizaciones culturales y educativas con personería jurídica, economías de base comunitaria, organizaciones de economía popular, organizaciones campesinas, organizaciones indígenas, organizaciones de comunidades negras, afrocolombianas, raizales o palenqueras (NARP), legalmente constituidas en Colombia y que cumplan con la Ley 2160 de 2021."
+    },
+    {
+      "tipo": "Otras entidades del SNCTI",
+      "rol": "Entidad aliada",
+      "condicion": "Pueden vincularse una vez conformada la alianza mínima, aportando técnica y/o contrapartida en especie o dinero."
+    },
+    {
+      "tipo": "Sector productivo pesquero",
+      "rol": "Entidad aliada",
+      "condicion": "Pueden vincularse una vez conformada la alianza mínima, aportando técnica y/o contrapartida en especie o dinero."
+    },
+    {
+      "tipo": "Entidades del Estado",
+      "rol": "Entidad aliada",
+      "condicion": "Pueden vincularse una vez conformada la alianza mínima, aportando técnica y/o contrapartida en especie o dinero."
+    },
+    {
+      "tipo": "Centros de investigación y desarrollo tecnológico",
+      "rol": "Entidad aliada",
+      "condicion": "Pueden vincularse una vez conformada la alianza mínima, aportando técnica y/o contrapartida en especie o dinero."
+    },
+    {
+      "tipo": "Entidades internacionales",
+      "rol": "Entidad aliada",
+      "condicion": "Pueden vincularse una vez conformada la alianza mínima, aportando técnica y/o contrapartida en especie o dinero."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Mitigación y adaptación al cambio climático",
+      "modalidad": null,
+      "descripcion_corta": "Promueve acciones de mitigación y adaptación para reducir la vulnerabilidad de ecosistemas marino-costeros al cambio climático, integrando oceanografía, climatología y otras disciplinas, y busca generar conocimiento para la gestión de riesgos y eventos extremos."
+    },
+    {
+      "nombre": "Ingeniería y tecnología Marino-costera",
+      "modalidad": null,
+      "descripcion_corta": "Busca generar capacidades en CTI mediante tecnologías emergentes para la gestión sostenible de recursos marino-costeros, abordando riesgos como sobrepesca, contaminación y erosión costera, y fortaleciendo sistemas de monitoreo y restauración."
+    },
+    {
+      "nombre": "Aprovechamiento sostenible de recursos hidrobiológicos",
+      "modalidad": null,
+      "descripcion_corta": "Orientada a promover desarrollo integral de comunidades mediante oportunidades económicas basadas en servicios ecosistémicos y aprovechamiento sostenible, integrando economía circular, gestión de residuos y ordenamiento marino-costero."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con el DIRIGIDO A definido en el numeral 3, verificado mediante el anexo 2 (Carta Unificada de Aval y Compromiso Institucional).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta en el Sistema Integrado de Gestión de Proyectos (SIGP) seleccionando una de las líneas temáticas definidas en el numeral 4 y conforme al anexo 1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal debe estar adscrito al grupo de investigación de la Entidad Ejecutora (verificación en GrupLAC al cierre de la convocatoria).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar la hoja de vida en el aplicativo CvLAC de cada investigador y co-investigador; para investigadores internacionales incluir sus hojas de vida en la documentación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el plan de actividades y resultados esperados del Joven Investigador e Innovador y Joven Líder Comunitario (Anexo 7), en función de los objetivos de la propuesta o línea de investigación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el ANEXO 2 (Carta Unificada de Aval y Compromiso Institucional) debidamente diligenciada y firmada por los representantes legales de todas las entidades participantes, incluyendo contrapartida en dinero o especie por mínimo 20% del valor total del proyecto.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar, cuando aplique, la carta de aval del comité de ética de investigación o bioética de la entidad, junto con el acto administrativo que soporta la creación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar, cuando aplique, evidencias del trámite o existencia de permisos y licencias ambientales necesarios para la ejecución de la propuesta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar certificación emitida por el Ministerio del Interior si la entidad co-ejecutora pertenece a organizaciones indígenas, comunidades negras, afrocolombianas, raizales o palenqueras (NARP), conforme a la Ley 2160 de 2021.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar, cuando aplique, la carta de participación y compromiso como aliado internacional (Anexo 5).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial: opcional, aplicar para Investigador Principal, Co-investigador, Joven Investigador e Innovador y Joven Líder Comunitario; adjuntar soporte según tabla 1 del numeral 6.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Joven Investigador e Innovador: ser ciudadano colombiano, tener máximo 28 años cumplidos al 31/12/2025, y lugar de nacimiento en departamentos del Caribe Colombiano (La Guajira, Cesar, Magdalena, Sucre, Bolívar, Atlántico, Córdoba, San Andrés y Providencia). Adjuntar copia de la cédula.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Joven Investigador e Innovador: acreditar estado académico según perfil (estudiante de pregrado con mínimo 80% de créditos cursados, o recién graduado de programas técnicos/tecnológicos/profesionales con máximo 3 años de graduado, o posgrado con máximo 3 años de graduado). Adjuntar certificados, diploma o acta de grado.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Joven Investigador e Innovador: la Entidad Ejecutora debe asignar un tutor con formación de maestría/doctorado, que haga parte de la entidad.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Joven Líder Comunitario o Joven Líder Comunitario con Formación Académica de Educación Superior: presentado por la sociedad civil organizada (entidad co-ejecutora) y avalado mediante el anexo 8.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Joven Líder Comunitario o con Formación Académica: ser ciudadano colombiano mayor de edad, no superar 28 años cumplidos al 31/12/2025, y lugar de nacimiento en departamentos del Caribe Colombiano. Adjuntar copia de la cédula.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Joven Líder Comunitario con Formación Académica de Educación Superior: adjuntar diploma y/o acta de grado de pregrado o posgrado en temas ambientales o relacionados con las líneas temáticas.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Joven Líder Comunitario o con Formación Académica: la Entidad Ejecutora debe asignar un tutor con formación de maestría/doctorado, que haga parte de la entidad.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de propuesta",
+      "puntaje_max": 40.0,
+      "peso_pct": 40.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "1.1 Formulación y antecedentes del problema de investigación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Contribución a la generación de nuevo conocimiento. Claridad y sustentación de fundamentos científicos y tecnológicos."
+    },
+    {
+      "nombre": "1.2 Pertinencia de la propuesta respecto a los alcances de la línea temática",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Articulación y coherencia entre problema, objetivos, metodología, resultados y cronograma."
+    },
+    {
+      "nombre": "1.3 Perspectiva de uso potencial de los resultados",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Potencial de aplicación y uso para océanos, clima y recursos marino-costeros."
+    },
+    {
+      "nombre": "1.4 Presupuesto",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Concordancia entre presupuesto, actividades y objetivos. Justificación de rubros."
+    },
+    {
+      "nombre": "Conformación y experiencia del equipo de trabajo",
+      "puntaje_max": 30.0,
+      "peso_pct": 30.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "2.1 Conformación Adicional de la Alianza estratégica Mínima",
+      "puntaje_max": 9.0,
+      "peso_pct": null,
+      "descripcion": "Puntos por entidades adicionales vinculadas a la alianza mínima."
+    },
+    {
+      "nombre": "2.2 Entidad Internacional Adicional",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Puntos por vincular una o más entidades internacionales adicionales."
+    },
+    {
+      "nombre": "2.3 Experiencia del grupo de investigación líder",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia relacionada con la línea temática."
+    },
+    {
+      "nombre": "2.4 Idoneidad y experiencia del Joven Investigador e Innovador",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Responsabilidades, plan de actividades y resultados esperados."
+    },
+    {
+      "nombre": "2.5 Idoneidad y experiencia del Joven Líder Comunitario",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Responsabilidades, plan de actividades y resultados esperados."
+    },
+    {
+      "nombre": "2.6 Trayectoria del equipo de trabajo",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Participación e interdisciplinariedad del equipo respecto a la línea temática."
+    },
+    {
+      "nombre": "Enfoque diferencial",
+      "puntaje_max": 6.0,
+      "peso_pct": 6.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "3.1 Población con enfoque diferencial en el equipo",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Puntos por incluir personas de categorías de enfoque diferencial en el equipo."
+    },
+    {
+      "nombre": "3.2 Enfoque diferencial de la población beneficiaria",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Puntos si la propuesta beneficia a población con enfoque diferencial."
+    },
+    {
+      "nombre": "Enfoque territorial",
+      "puntaje_max": 6.0,
+      "peso_pct": 6.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "4.1 Inclusión de más de un departamento de la región Caribe",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Puntos por incluir más de un departamento."
+    },
+    {
+      "nombre": "4.2 Capacidades y potencialidades en el territorio",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Implementación de acciones de mitigación, adaptación, ingenierías o aprovechamiento sostenible."
+    },
+    {
+      "nombre": "4.3 Identificación de brechas territoriales y sectoriales",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Formulación e implementación de estrategias para cerrar brechas."
+    },
+    {
+      "nombre": "Resultados y productos esperados",
+      "puntaje_max": 18.0,
+      "peso_pct": 18.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "5.1 Productos de nuevo conocimiento tipo TOP",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "4 puntos por cada producto tipo TOP, máximo 8 puntos."
+    },
+    {
+      "nombre": "5.2 Productos de nuevo conocimiento tipo A",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "2 puntos por cada producto tipo A, máximo 4 puntos."
+    },
+    {
+      "nombre": "5.3 Vinculación de estudiantes de Doctorado",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Hasta 2 puntos por vincular uno o más estudiantes de doctorado."
+    },
+    {
+      "nombre": "5.4 Metodología con diálogo de saberes y productos de apropiación y divulgación",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Incluye al menos un producto de Apropiación Social del Conocimiento y uno de Divulgación Pública de la Ciencia."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CUATRO MIL NOVECIENTOS VEINTIOCHO MILLONES OCHOCIENTOS VEINTICINCO MIL PESOS M/CTE ($4.928.825.000)",
+    "monto_total_cop": 4928825000.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 12,
+    "contrapartida_pct_min": 20.0,
+    "contrapartida_pct_max": 20.0,
+    "fuente_recursos": "rendimientos del Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "Se financiará hasta $941.765.000 por propuesta por línea temática. Se espera financiar 5 propuestas: una por cada una de las tres líneas temáticas y dos adicionales con segundo y tercer mayor puntaje total entre todas las líneas."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3579,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1230,
+          "completion_tokens": 142
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5236,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1722,
+          "completion_tokens": 574
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4844,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1506,
+          "completion_tokens": 434
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4295,
+          "completion_tokens": 3833
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8865,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2914,
+          "completion_tokens": 211
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8007,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2637,
+          "completion_tokens": 7049
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES) pública",
+          "rol": "Entidad ejecutora",
+          "condicion": "Registrada ante el Ministerio de Educación Nacional y con domicilio en la región del Caribe colombiano."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Registrada ante el Ministerio de Educación Nacional y con domicilio en la región del Caribe colombiano.",
+          "riesgo": "territorio",
+          "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_como_aliado",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [
+          "No cumple con el requisito de domicilio en la región del Caribe colombiano para ser entidad ejecutora (IES pública o sociedad civil).",
+          "Es una IES privada, no pública, por lo que no califica como entidad ejecutora según la convocatoria."
+        ],
+        "condiciones_a_verificar": [
+          "Verificar si la Universidad del Rosario tiene alguna sede o domicilio en la región del Caribe colombiano que no esté registrada en el perfil.",
+          "Confirmar que pueda participar como entidad aliada (Otras entidades del SNCTI) y que cumpla con los requisitos de contrapartida."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada con sede en Bogotá, reconocida por el SNCTI. Sin embargo, la convocatoria exige que la entidad ejecutora sea una IES pública o sociedad civil con domicilio en el Caribe colombiano. Por lo tanto, la Universidad del Rosario no puede ser ejecutora, pero sí puede participar como entidad aliada en una alianza, siempre que cumpla con los requisitos de contrapartida y demás condiciones."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [
+        "No cumple con el requisito de domicilio en la región del Caribe colombiano para ser entidad ejecutora (IES pública o sociedad civil).",
+        "Es una IES privada, no pública, por lo que no califica como entidad ejecutora según la convocatoria."
+      ],
+      "condiciones_a_verificar": [
+        "Verificar si la Universidad del Rosario tiene alguna sede o domicilio en la región del Caribe colombiano que no esté registrada en el perfil.",
+        "Confirmar que pueda participar como entidad aliada (Otras entidades del SNCTI) y que cumpla con los requisitos de contrapartida."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada con sede en Bogotá, reconocida por el SNCTI. Sin embargo, la convocatoria exige que la entidad ejecutora sea una IES pública o sociedad civil con domicilio en el Caribe colombiano. Por lo tanto, la Universidad del Rosario no puede ser ejecutora, pero sí puede participar como entidad aliada en una alianza, siempre que cumpla con los requisitos de contrapartida y demás condiciones.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

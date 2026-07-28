@@ -1,0 +1,85 @@
+{
+  "convocatoria": "941",
+  "objetivo": null,
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias según los requisitos de la convocatoria específica.",
+          "Confirmar que la acreditación institucional esté vigente al momento de la postulación.",
+          "Revisar que la sede principal en Bogotá cumpla con los criterios de ubicación si la convocatoria exige presencia regional."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada, acreditada y reconocida en el SNCTI, con sede principal en Bogotá. No presenta bloqueantes evidentes, por lo que puede postularse como ejecutora en convocatorias de Minciencias, sujeto a verificación de grupos de investigación y requisitos específicos de cada convocatoria."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias según los requisitos de la convocatoria específica.",
+        "Confirmar que la acreditación institucional esté vigente al momento de la postulación.",
+        "Revisar que la sede principal en Bogotá cumpla con los criterios de ubicación si la convocatoria exige presencia regional."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, acreditada y reconocida en el SNCTI, con sede principal en Bogotá. No presenta bloqueantes evidentes, por lo que puede postularse como ejecutora en convocatorias de Minciencias, sujeto a verificación de grupos de investigación y requisitos específicos de cada convocatoria.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "convocatoria": "47",
+  "objetivo": "Impulsar el Derecho Humano a la Alimentación y la Soberanía Alimentaria mediante el desarrollo de proyectos de ciencia, tecnología e innovación orientados al fortalecimiento de sistemas de producción agroalimentaria y agroindustrial, la transformación productiva del campo colombiano, la economía campesina, familiar, étnica y comunitaria, y la incorporación de innovaciones tecnológicas en la producción, procesamiento, conservación y distribución de alimentos, en coherencia con la diversidad territorial, cultural y ambiental del país, a través de la conformación de un banco de proyectos elegibles y financiables.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI)",
+      "rol": "ejecutor",
+      "condicion": "Debe atender lo establecido en los literales a) o b) del artículo 1.2.3.2.2. del Decreto 1821 de 2020. El proponente (ejecutor) debe ser una entidad del SNCTI."
+    },
+    {
+      "tipo": "Entidad del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI)",
+      "rol": "aliado",
+      "condicion": "Pueden presentarse como aliados otras entidades del SNCTI que atiendan lo establecido en los literales a) o b) del artículo 1.2.3.2.2. del Decreto 1821 de 2020."
+    },
+    {
+      "tipo": "Organización Comunitaria y Campesina",
+      "rol": null,
+      "condicion": "Mínimo dos (2) asociaciones campesinas, asociaciones agropecuarias, cooperativas campesinas u otras organizaciones comunitarias y campesinas formalmente constituidas, con tiempo de constitución no inferior a un (1) año. Pueden ser de primer, segundo o tercer grado."
+    },
+    {
+      "tipo": "Institución de Educación Superior (IES)",
+      "rol": null,
+      "condicion": "Al menos una IES con personería jurídica vigente expedida por el Ministerio de Educación Nacional. Puede estar representada por un grupo o centro de investigación asociado."
+    },
+    {
+      "tipo": "Entidad u organización de carácter internacional",
+      "rol": "aliado",
+      "condicion": "Puede incluirse adicionalmente en calidad de aliado."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "AGROBIODIVERSIDAD Y TECNOLOGÍAS PARA SISTEMAS AGROPECUARIOS SOSTENIBLE",
+      "modalidad": null,
+      "descripcion_corta": "Promueve desarrollo, validación, implementación y adopción de tecnologías para incrementar productividad y sostenibilidad de sistemas agroalimentarios, fortaleciendo soberanía alimentaria y economía campesina."
+    },
+    {
+      "nombre": "INNOVACIÓN EN CADENAS DE VALOR AGROALIMENTARIAS SOSTENIBLES EN EL CAMPO",
+      "modalidad": null,
+      "descripcion_corta": "Promueve incorporación de CTI en transformación y agregación de valor de producción agroalimentaria, impulsando reindustrialización rural, inocuidad y generación de ingresos en territorio."
+    },
+    {
+      "nombre": "DINÁMICAS DE INNOVACIÓN SOCIOTÉCNICA, GOBERNANZA Y ACCIÓN COLECTIVA PARA EL ESCALAMIENTO SOSTENIBLE DE LA AGRICULTURA CAMPESINA, FAMILIAR, ÉTNICA Y COMUNITARIA (ACFEC)",
+      "modalidad": null,
+      "descripcion_corta": "Fortalece capacidades territoriales para adopción, apropiación y sostenibilidad de innovaciones en agricultura ACFEC mediante gobernanza colaborativa, articulación interinstitucional y acción colectiva."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscripción en SIGP: Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Dirigida a: Cumplir con las especificaciones y condiciones del 'DIRIGIDA A' establecidas en la sección 3 de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adecuado desempeño del proponente: Acreditar el adecuado desempeño según la metodología del DNP, salvo que no haya sido objeto de medición.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta de aval y modelo de gobernanza (Anexo 1): Anexar la carta de aval, compromiso institucional y modelo de gobernanza debidamente diligenciados y firmados.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Documento técnico (Anexo 2): Adjuntar el documento técnico según el contenido indicado en el numeral 12.1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presupuesto (Anexo 3): Adjuntar el presupuesto del proyecto y el estudio de mercado con cotizaciones o análisis de precios unitarios.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Proyecto de inversión formulado en MGA en borrador: Presentar la MGA WEB preliminar con todos los campos diligenciados en la Tipología D.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Certificados de no financiación con otras fuentes: Presentar certificado suscrito por el representante legal indicando que las actividades no están siendo financiadas con otras fuentes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cartas de participación: Carta firmada por el representante legal de cada entidad participante, incluyendo nombre del proyecto y compromiso.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Proyectos de CTeI ejecutados o en ejecución (Anexo 5): Aportar mínimo dos proyectos de CTeI ejecutados o en ejecución en los últimos 10 años para entidades sin reconocimiento previo.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Entidades SNCTI con reconocimiento: Adjuntar la resolución de reconocimiento expedida por Minciencias vigente a la fecha de cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Comité de Ética: Adjuntar carta aval del Comité de Ética de la Investigación o de Bioética (si aplica), con el acto administrativo que soporta su conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta entidad internacional (si aplica): Anexar carta de intención de participación suscrita por el representante legal de la institución internacional, con aporte de contrapartida.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atención a demandas territoriales del SGR: El proyecto debe impactar mínimo una demanda territorial del reto 2 para los departamentos donde se ejecutará.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Entidades sector productivo (si aplica): Presentar certificado de existencia y representación legal no mayor a 90 días, y estar constituidas mínimo un año antes del cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Organizaciones Comunitarias y Campesinas: Estar legalmente constituidas en Colombia con mínimo un año de constitución y adjuntar certificado de existencia y representación legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21 CRONOGRAMA."
+    },
+    {
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP, sin perjuicio de la excepción planteada en la nota del numeral 10.3."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa el monto señalado en los presentes términos en el numeral 14 DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética y los soportes respectivos solicitados en el requisito 10.10 no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y MINCIENCIAS informará a las instancias competentes."
+    },
+    {
+      "texto": "Cuando una misma entidad ostente al mismo tiempo la calidad de Proponente y Beneficiario en un mismo proyecto."
+    },
+    {
+      "texto": "Cuando se identifique que el mismo proyecto ha sido presentado por diferentes entidades proponentes."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos, o no cargar uno o más documentos o certificados exigidos, o cargar documentos sin la totalidad de las firmas."
+    },
+    {
+      "texto": "Propuestas orientadas al fortalecimiento, expansión o consolidación de sistemas de ganadería extensiva o intensiva que impliquen ampliación de la frontera agropecuaria, deforestación, cambio de uso del suelo, degradación ambiental, afectación de ecosistemas estratégicos o incremento de impactos ambientales asociados a prácticas productivas no sostenibles."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad técnico-científica y coherencia del proyecto",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia técnica y científica del proyecto en sus componentes y su articulación con el Reto No. 2 y demandas territoriales."
+    },
+    {
+      "nombre": "Pertinencia de la propuesta",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la articulación y coherencia entre problema, objetivos, metodología, cronograma y resultados esperados."
+    },
+    {
+      "nombre": "Coherencia entre el presupuesto total, las actividades, los alcances planteados y la justificación de los rubros",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la correspondencia entre presupuesto, actividades y objetivos, así como la justificación y eficiencia de los costos."
+    },
+    {
+      "nombre": "Contribución del proyecto al desarrollo territorial, regional y nacional para el fortalecimiento de capacidades en CTeI para el DHA y la Soberanía Alimentaria",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el grado en que el proyecto contribuye al fortalecimiento de capacidades locales y articula demandas territoriales del Reto 2."
+    },
+    {
+      "nombre": "Sostenibilidad y replicabilidad",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la capacidad de mantener impactos a largo plazo y el potencial de adaptación y réplica en otros contextos."
+    },
+    {
+      "nombre": "Apropiación social del conocimiento",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa las estrategias para involucrar a comunidades y actores locales en la generación, uso y validación del conocimiento."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "Cuatrocientos cuarenta y seis mil quinientos quince millones veintiséis mil cuatrocientos sesenta y siete pesos ($446.515.026.467)",
+    "monto_total_cop": 446515026467.0,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 48,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2025-2026",
+    "notas": "Se espera financiar cinco (5) proyectos por región del SGR. Los recursos se distribuyen por región según porcentajes detallados en tabla."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 733,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 396,
+          "completion_tokens": 244
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12834,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4019,
+          "completion_tokens": 2705
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10012,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3002,
+          "completion_tokens": 345
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4397,
+          "completion_tokens": 1937
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4268,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1475,
+          "completion_tokens": 582
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12308,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3906,
+          "completion_tokens": 178
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4289,
+          "completion_tokens": 502
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES)",
+          "rol": null,
+          "condicion": "Al menos una IES con personería jurídica vigente expedida por el Ministerio de Educación Nacional. Puede estar representada por un grupo o centro de investigación asociado."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Al menos una IES con personería jurídica vigente expedida por el Ministerio de Educación Nacional. Puede estar representada por un grupo o centro de investigación asociado.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con al menos un grupo de investigación categorizado por Minciencias para representar a la IES en la alianza",
+          "Verificar que la alianza incluya al menos dos organizaciones comunitarias o campesinas formalmente constituidas con mínimo un año de antigüedad",
+          "Acreditar adecuado desempeño según metodología DNP si aplica"
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria, preferiblemente como ejecutora. Debe asegurar grupos de investigación categorizados y cumplir los requisitos de la alianza, incluyendo organizaciones comunitarias."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con al menos un grupo de investigación categorizado por Minciencias para representar a la IES en la alianza",
+        "Verificar que la alianza incluya al menos dos organizaciones comunitarias o campesinas formalmente constituidas con mínimo un año de antigüedad",
+        "Acreditar adecuado desempeño según metodología DNP si aplica"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria, preferiblemente como ejecutora. Debe asegurar grupos de investigación categorizados y cumplir los requisitos de la alianza, incluyendo organizaciones comunitarias.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

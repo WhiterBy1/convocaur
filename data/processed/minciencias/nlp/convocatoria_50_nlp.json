@@ -1,0 +1,455 @@
+{
+  "convocatoria": "50",
+  "objetivo": "Generar nuevo conocimiento en las líneas temáticas de ciencias naturales, ciencias sociales y humanidades, a través de investigación básica orientada, con el fin de aportar a la comprensión de fenómenos complejos y la atención de problemas, necesidades u oportunidades, teniendo en cuenta las demandas territoriales enmarcadas en el Plan de Convocatorias 2025-2026.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior",
+      "rol": "Entidad proponente",
+      "condicion": "Debe ser la entidad proponente si actúa de manera individual o en alianza"
+    },
+    {
+      "tipo": "Centro/Instituto de Investigación",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "Centro de Ciencia",
+      "rol": null,
+      "condicion": null
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Matemáticas",
+      "modalidad": "Ciencias Naturales",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Computación y ciencias de la información",
+      "modalidad": "Ciencias Naturales",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias físicas",
+      "modalidad": "Ciencias Naturales",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias químicas",
+      "modalidad": "Ciencias Naturales",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias de la tierra y medioambientales",
+      "modalidad": "Ciencias Naturales",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias biológicas",
+      "modalidad": "Ciencias Naturales",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Otras ciencias naturales",
+      "modalidad": "Ciencias Naturales",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Psicología",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Economía y negocios",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias de la educación",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Sociología",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Derecho",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias políticas",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Geografía Social y económica",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Periodismo y comunicaciones",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Historia y Arqueología",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Idiomas y Literatura",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Arte",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Otras Historias",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Otras ciencias sociales",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Otras Humanidades",
+      "modalidad": "Ciencias Sociales y Humanidades",
+      "descripcion_corta": null
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ser una Institución de Educación Superior, Centro/Instituto de Investigación o Centro de Ciencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En caso de alianza, la entidad proponente debe ser una Institución de Educación Superior.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con personería jurídica vigente (IES) o Reconocimiento como Actor del SNCTI vigente (Centros/Institutos de Investigación o Centros de Ciencia).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) conforme a la metodología del DNP, salvo que no haya sido objeto de medición en los dos años anteriores.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Participar en máximo un (1) proyecto por línea temática (ciencias naturales y ciencias sociales/humanidades).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Indicar el lugar de ejecución del proyecto de acuerdo con la clasificación de regiones del SGR.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener y vincular al proyecto al menos un (1) Grupo de Investigación de categorías A1, A o B, según clasificación vigente de Minciencias.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la Carta de Aval, Compromiso Institucional Unificada y Modelo de Gobernanza (Anexo 1) debidamente diligenciada y firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Documento Técnico (Anexo 2) según el contenido indicado en el numeral 12.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Presupuesto (Anexo 3) con las condiciones financieras del proyecto.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el proyecto de inversión formulado en la Metodología General Ajustada (MGA) en borrador.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar Certificado suscrito por el Representante Legal indicando que las actividades no están siendo ni han sido financiadas con otras fuentes de recursos.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta Aval del Comité de Ética de la Investigación o de Bioética (si aplica), con el acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con el alcance del proyecto incluyendo los componentes: Generación de nuevo conocimiento, Apropiación Social del Conocimiento y Movilidad académica nacional.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atender al menos un reto a través de una demanda territorial descrita en el Anexo 4, impactando departamentos de al menos una región del SGR.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21. CRONOGRAMA, de la presente convocatoria."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto no se encuentre en el rango señalado en los presentes términos en el numeral 14. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 10.8 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender los retos estratégicos de Ciencia, Tecnología e Innovación a través de al menos una (1) de las demandas territoriales de los departamentos (al menos 1 región del SGR) objeto del proyecto."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales competentes sobre esta situación."
+    },
+    {
+      "texto": "Cuando una misma entidad ostente al mismo tiempo la calidad de Proponente y Beneficiario en un mismo proyecto."
+    },
+    {
+      "texto": "Cuando se identifique que el mismo proyecto ha sido presentado por diferentes entidades proponentes."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Pertinencia e impacto de los resultados y productos esperados del proyecto en atención a las demandas territoriales establecidas en los retos del Plan de Convocatorias 2025-2026.",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la pertinencia e impacto del proyecto según el número de demandas territoriales abordadas."
+    },
+    {
+      "nombre": "Calidad técnico – científica del proyecto en el desarrollo de los elementos que lo componen (numeral 12. CONTENIDO DEL PROYECTO).",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la calidad técnico-científica del proyecto, incluyendo estado del arte, definición del problema, metodología, etc."
+    },
+    {
+      "nombre": "Obtención de Productos resultados de actividades de Generación de Nuevo Conocimiento (numeral 6.1 Componente 1: Generación de nuevo conocimiento en ciencias naturales y/o ciencias sociales y humanidades)",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la obtención de productos tipo TOP o A de nuevo conocimiento."
+    },
+    {
+      "nombre": "Obtención de Productos resultados de actividades de Apropiación Social del Conocimiento (numeral 6.2 Componente 2: Apropiación Social del Conocimiento y Divulgación Pública de la Ciencia).",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la obtención de productos de apropiación social del conocimiento."
+    },
+    {
+      "nombre": "Obtención de Productos resultados de actividades de Divulgación Pública de la Ciencia (numeral 6.2 Componente 2: Apropiación Social del Conocimiento y Divulgación Pública de la Ciencia).",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la obtención de productos de divulgación pública de la ciencia."
+    },
+    {
+      "nombre": "Estrategia de Movilidad académica para la generación, que favorezca el fortalecimiento de las capacidades para la investigación en aquellos territorios en los que estas capacidades son incipientes o todavía requieren consolidación.",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la movilidad de investigadores y estudiantes según IDIC."
+    },
+    {
+      "nombre": "Lugar de ejecución del proyecto, con el fin de aportar al cierre de brechas en las capacidades de CTeI, y fortalecer la investigación en aquellos territorios en los que estas capacidades son incipientes o todavía requieren consolidación.",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa el lugar de ejecución según IDIC."
+    },
+    {
+      "nombre": "Grupo de Investigación de categorías A1, A o B, de acuerdo con la clasificación vigente prevista por el Ministerio de Ciencia, Tecnología e Innovación.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la categoría del grupo de investigación vinculado."
+    },
+    {
+      "nombre": "Tipología del actor o entidad proponente.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa si la entidad es IES o centro de investigación."
+    },
+    {
+      "nombre": "Estrategia de sostenibilidad, según el grado de detalle, coherencia y solidez de la estrategia presentada, así como la claridad en la identificación de los compromisos de la entidad proponente (y de las entidades de la alianza si aplica).",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Se evalúa la estrategia de sostenibilidad social y ambiental."
+    },
+    {
+      "nombre": "Integración de actores con enfoque diferencial.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Se tendrá en cuenta desde dos perspectivas diferentes: a) Pe"
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "DOSCIENTOS TREINTA Y SIETE MIL TRECIENTOS NOVENTA Y OCHO MILLONES DE PESOS M/CTE ($237.398.000.000 COP)",
+    "monto_total_cop": 237398000000.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2025-2026",
+    "notas": "Cada proyecto entre $7.913.266.666,663 y $9.891.583.333,333 COP. Recursos para movilidad no exceder 2% del monto solicitado al SGR."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 369,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 312,
+          "completion_tokens": 217
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 591,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 471,
+          "completion_tokens": 122
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1205,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 665,
+          "completion_tokens": 1236
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4372,
+          "completion_tokens": 2693
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3264,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1159,
+          "completion_tokens": 1290
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10420,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3296,
+          "completion_tokens": 214
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4437,
+          "completion_tokens": 3469
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "puede_sola_o_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior",
+          "rol": "Entidad proponente",
+          "condicion": "Debe ser la entidad proponente si actúa de manera individual o en alianza"
+        }
+      ],
+      "condiciones_pendientes": [],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con personería jurídica vigente",
+          "Acreditar adecuado desempeño del IGPR si aplica",
+          "Tener y vincular al menos un grupo de investigación categoría A1, A o B"
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada reconocida en el SNCTI, con acreditación institucional y sede principal en Bogotá. Cumple con los requisitos habilitantes para postularse como entidad ejecutora de manera individual, siempre que verifique su personería jurídica, el índice de gestión de proyectos de regalías y la vinculación de un grupo de investigación de categoría A1, A o B."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con personería jurídica vigente",
+        "Acreditar adecuado desempeño del IGPR si aplica",
+        "Tener y vincular al menos un grupo de investigación categoría A1, A o B"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida en el SNCTI, con acreditación institucional y sede principal en Bogotá. Cumple con los requisitos habilitantes para postularse como entidad ejecutora de manera individual, siempre que verifique su personería jurídica, el índice de gestión de proyectos de regalías y la vinculación de un grupo de investigación de categoría A1, A o B.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

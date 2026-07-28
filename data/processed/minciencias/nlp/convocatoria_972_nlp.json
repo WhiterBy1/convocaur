@@ -1,0 +1,445 @@
+{
+  "convocatoria": "972",
+  "objetivo": "Conformar un banco de proyectos elegibles en Ciencia, Tecnología e Innovación (CTeI) que, mediante la investigación, el desarrollo tecnológico, la innovación, la apropiación social del conocimiento y la formación de talento humano, contribuyan al fortalecimiento del conocimiento científico y tecnológico en la temática del incremento del Factor de Recobro de Hidrocarburos en campos colombianos.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior",
+      "rol": "ejecutor",
+      "condicion": "debe contar con personería jurídica y capacidad legal para suscribir contrato"
+    },
+    {
+      "tipo": "Empresa operadora de hidrocarburos",
+      "rol": "coejecutor",
+      "condicion": "debe ser empresa operadora según Resolución 40622 de 2023"
+    },
+    {
+      "tipo": "Empresa perteneciente al sector productivo de hidrocarburos",
+      "rol": "coejecutor",
+      "condicion": "debe pertenecer al sector productivo de hidrocarburos (verificable a través de certificado de Cámara de Comercio)"
+    },
+    {
+      "tipo": "Institución de Educación Superior",
+      "rol": "coejecutor",
+      "condicion": null
+    },
+    {
+      "tipo": "Centro o instituto de investigación",
+      "rol": "coejecutor",
+      "condicion": "con reconocimiento vigente al cierre de la convocatoria"
+    },
+    {
+      "tipo": "Incubadora de Empresa de Base Tecnológica (IEBT)",
+      "rol": "coejecutor",
+      "condicion": "con reconocimiento vigente al cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro de desarrollo tecnológico",
+      "rol": "coejecutor",
+      "condicion": "con reconocimiento vigente al cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro de innovación y productividad",
+      "rol": "coejecutor",
+      "condicion": "con reconocimiento vigente al cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro o Instituto de Investigación y Desarrollo Tecnológico o de Innovación autónomo",
+      "rol": "coejecutor",
+      "condicion": null
+    },
+    {
+      "tipo": "Empresa con Unidad de I+D+i",
+      "rol": "coejecutor",
+      "condicion": "con reconocimiento vigente al cierre de la convocatoria"
+    },
+    {
+      "tipo": "Empresa Altamente Innovadora (EAI)",
+      "rol": "coejecutor",
+      "condicion": "con reconocimiento vigente al cierre de la convocatoria"
+    },
+    {
+      "tipo": "Empresa del sector productivo de hidrocarburos",
+      "rol": "coejecutor",
+      "condicion": "verificable a través de certificado de Cámara de Comercio"
+    },
+    {
+      "tipo": "Institución de Educación Superior Internacional",
+      "rol": "coejecutor",
+      "condicion": null
+    },
+    {
+      "tipo": "Centro de Investigación Internacional",
+      "rol": "coejecutor",
+      "condicion": null
+    },
+    {
+      "tipo": "Otros actores del SNCTI",
+      "rol": "coejecutor",
+      "condicion": null
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "CEOR - Chemical Enhanced Oil Recovery",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": "Incluye uso de sistemas poliméricos, geles de dispersión coloidal, surfactantes, nanotecnologías y combinaciones."
+    },
+    {
+      "nombre": "Tecnologías con fluidos agua-vapor-gas",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": "Fluidos de desplazamiento que creen sinergias en recobro mejorado."
+    },
+    {
+      "nombre": "Desarrollo de trazadores amigables con el medio ambiente",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": "Trazadores que apalanquen operaciones de recobro mejorado."
+    },
+    {
+      "nombre": "Mejoramiento de movilidad en frío de crudos pesados y extrapesados",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": "Mejora a condiciones de yacimiento."
+    },
+    {
+      "nombre": "Inyección de CO2 como método de recobro",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Recobro térmico",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Combustión in Situ - ISC",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Flue gas, inyección de vapor DWSG",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Steam Assisted Gravity Drainage - SAGD",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "In situ Upgrading",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Inyección de vapor con solventes, surfactantes y/o combinaciones",
+      "modalidad": "Modalidad I",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Caracterización y simulación de desempeño de propiedades de yacimiento",
+      "modalidad": "Modalidad II",
+      "descripcion_corta": "Para predicción de petróleo in-situ."
+    },
+    {
+      "nombre": "Métodos de control de perfil en reservorios",
+      "modalidad": "Modalidad II",
+      "descripcion_corta": "Incluye factores geológicos, geoquímicos, petrofísicos e ingeniería de yacimientos."
+    },
+    {
+      "nombre": "Caracterización y simulación de Inyección de solventes o Vapex",
+      "modalidad": "Modalidad II",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Aplicación de tecnologías Coiled Tubing en recobro mejorado",
+      "modalidad": "Modalidad II",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Inyección de vapor con mejoramiento en desplazamiento",
+      "modalidad": "Modalidad II",
+      "descripcion_corta": "Generado en superficie y/o fondo."
+    },
+    {
+      "nombre": "Aplicación de herramientas tecnológicas avanzadas para caracterización de yacimiento",
+      "modalidad": "Modalidad II",
+      "descripcion_corta": "Para selección de proyectos de recobro mejorado."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' sobre condiciones de las entidades de la alianza: entidad ejecutora debe ser IES; coejecutora para Modalidad I empresa operadora de hidrocarburos, para Modalidad II empresa del sector productivo de hidrocarburos. Información registrada en SIGP.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar la inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) a través del formulario electrónico, según el numeral 13, dentro del cronograma y seleccionando la modalidad según líneas temáticas. La entidad ejecutora debe registrar el proyecto.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Certificado de Existencia y Representación Legal para cada entidad de la alianza mínima, con fecha de expedición no mayor a tres meses antes del cierre de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la Carta de aval y compromiso institucional (Anexo 2) debidamente diligenciada, con firma manuscrita o digital de los representantes legales de todas las entidades de la alianza. Si firma un apoderado, anexar documento que lo faculte. Debe coincidir con la información registrada en SIGP y cumplir con el apartado 'Dirigido A'.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cada entidad de la alianza debe aportar una contrapartida mínima del 20% del valor total del proyecto, en especie, efectivo o combinación de ambas.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si se incluye una entidad internacional en la alianza, debe estar registrada en SIGP, firmar la Carta de aval y compromiso institucional (Anexo 2); no requiere NIT para el registro en SIGP.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el Anexo 5 'Experiencia en proyectos de recobro mejorado de hidrocarburos' diligenciado por las entidades de la alianza mínima, adjuntando certificaciones de contratos ejecutados. Modalidad I: mínimo 2 proyectos con TRL >=5; Modalidad II: mínimo 1 proyecto con TRL >=3.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar y/o actualizar la hoja de vida en CvLAC de cada investigador y coinvestigador de la entidad ejecutora. Para investigadores internacionales, incluir hojas de vida en la documentación. Para coinvestigadores de empresas, adjuntar hojas de vida y certificado laboral.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el Anexo 4 diligenciado por el investigador principal y al menos un coinvestigador, detallando su experiencia en proyectos de recobro mejorado. Modalidad I: mínimo 2 proyectos; Modalidad II: mínimo 1 proyecto.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de vinculación del investigador principal, expedido por la entidad ejecutora, que conste su relación con la entidad y el grupo de investigación. La vinculación debe ser anterior a la fecha de apertura de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar, cuando aplique, la carta de aval del Comité de Ética/Bioética de la entidad que presenta la propuesta, especificando la revisión ética de los instrumentos. Anexar acto administrativo de conformación del comité. Si no tiene comité, puede solicitar aval a otra entidad nacional.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial: adjuntar soporte correspondiente según la tabla del numeral 6 de la convocatoria. Este requisito es opcional y no inhabilitante.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Los participantes no deben encontrarse incursos en ninguna causal de inhabilidad, incompatibilidad o conflicto de intereses para contratar según la Constitución, Ley 80 de 1993, Ley 1474 de 2011 y demás normas concordantes.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1. Conocimiento e integración del estado del arte",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el conocimiento del estado del arte en el tema de investigación y su integración en las soluciones al problema, en concordancia con las necesidades de la ANH."
+    },
+    {
+      "nombre": "1.2. Claridad de la definición del problema, con una delimitación precisa y una articulación coherente con el estado del arte",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad y justificación del problema central, su delimitación y coherencia con el estado del arte, considerando aspectos académicos, científicos, tecnológicos, sociales o económicos."
+    },
+    {
+      "nombre": "1.3. Presentación de la hipótesis y propuesta de investigación articulada y coherente con el nivel de TRL al que se pretende llegar",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad y justificación de la hipótesis/solución, la coherencia entre objetivos, metodología, actividades, recursos, cronograma y resultados esperados, y su alineación con el TRL."
+    },
+    {
+      "nombre": "1.4. Articulación del componente ambiental y ecológico en la propuesta",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la integración clara y coherente del componente ambiental y ecológico con los objetivos, actividades, cronograma, presupuesto y resultados esperados."
+    },
+    {
+      "nombre": "1.5. Potencial de aplicación y/o contribución a la consolidación de la cadena energética en Colombia",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el potencial de impacto de la solución tecnológica o metodológica en la cadena energética (incremento de reservas y producción) y en sectores clave (académico, empresarial, industrial, social)."
+    },
+    {
+      "nombre": "1.6. Contribución al incremento del conocimiento de recobro mejorado de crudos pesados y extrapesados con técnicas innovadoras, con aplicación en campo",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la originalidad, innovación y viabilidad práctica de la propuesta para generar conocimiento valioso en EOR para crudos pesados, con aplicación en campo."
+    },
+    {
+      "nombre": "1.7. Potencial de que la propuesta de investigación en I+D+i pueda alcanzar un TRL 7 o superiores",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la solidez del alcance, metodología, plan de trabajo, gestión de riesgos y justificación técnica para alcanzar un TRL 7 o superior."
+    },
+    {
+      "nombre": "1.8. Grupos de investigación que demuestran productos de investigación anteriores con aplicación en campo y están registrados en GrupLAC",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la evidencia de productos de investigación previos con aplicación en campo y la trayectoria del grupo registrada en GrupLAC."
+    },
+    {
+      "nombre": "2.1. Experiencia y trayectoria técnica demostrada de las entidades que conforman la alianza mínima en el campo tecnológico y/o en el área de recobro mejorado",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la experiencia de las entidades en proyectos relacionados en los últimos 10 años, según el Anexo 5."
+    },
+    {
+      "nombre": "2.2. El equipo de trabajo propuesto en la alianza reúne las capacidades, experiencia y trayectoria requerida para el desarrollo de las actividades",
+      "puntaje_max": 9.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad en la distribución de roles, actividades y capacidades del equipo, así como su idoneidad para ejecutar el proyecto."
+    },
+    {
+      "nombre": "2.3. El equipo científico incluye participación de población víctima del conflicto armado o en situación de vulnerabilidad, etc.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la inclusión de personas de grupos vulnerables (víctimas, campesinos, discapacitados, mujeres, étnicos) según el numeral 6."
+    },
+    {
+      "nombre": "3.1. Proyectos que se desarrollen o impacten en departamentos con IDIC bajo o medio bajo",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el proyecto se ejecuta o impacta en departamentos clasificados con IDIC bajo o medio bajo según DNP 2021."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "QUINCE MIL SETECIENTOS CINCUENTA Y SEIS MILLONES CINCUENTA Y DOS MIL TRESCIENTOS NOVENTA PESOS M/CTE ($15.756.052.390)",
+    "monto_total_cop": 15756052390.0,
+    "plazo_min_meses": 18,
+    "plazo_max_meses": 28,
+    "contrapartida_pct_min": 20.0,
+    "contrapartida_pct_max": 20.0,
+    "fuente_recursos": "Convenio Especial de Cooperación 745 (Minciencias) / 636 (ANH) – 2021 y 735 (Minciencias) / 556 (ANH) - 2018",
+    "notas": "Modalidad I: duración entre 26 y 28 meses. Modalidad II: duración entre 18 y 20 meses. Contrapartida mínima del 20% del valor total del proyecto, financiación hasta 80% por Minciencias y ANH a través del FFJC. Centros autónomos reconocidos no obligados a contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6369,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2306,
+          "completion_tokens": 261
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5172,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2013,
+          "completion_tokens": 3462
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2806,
+        "intento": 2,
+        "usage": {
+          "prompt_tokens": 1268,
+          "completion_tokens": 854
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 5230,
+          "completion_tokens": 2600
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 5091,
+          "completion_tokens": 272
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4979,
+          "completion_tokens": 2043
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior",
+          "rol": "ejecutor",
+          "condicion": "debe contar con personería jurídica y capacidad legal para suscribir contrato"
+        },
+        {
+          "tipo": "Institución de Educación Superior",
+          "rol": "coejecutor",
+          "condicion": null
+        },
+        {
+          "tipo": "Institución de Educación Superior Internacional",
+          "rol": "coejecutor",
+          "condicion": null
+        }
+      ],
+      "condiciones_pendientes": [],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "": "{\n  \"puede_postularse\": true,\n  \"modo\": \"solo_en_alianza\",\n  \"rol_sugerido\": \"ejecutora\",\n  \"bloqueantes\": [],\n  \"condiciones_a_verificar\": [\n    \"Contar con personería jurídica y capacidad legal para suscribir contrato\",\n    \"Aportar contrapartida mínima del 20% del valor total del proyecto\",\n    \"Registrar proyecto en SIGP como entidad ejecutora\",\n    \"Presentar certificado de existencia y representación legal vigente\",\n    \"Firmar carta de aval y compromiso institucional (Anexo 2)\",\n    \"Presentar Anexo 5 de experiencia en recobro mejorado de hidrocarburos\",\n    \"Registrar hojas de vida CvLAC de investigadores\"\n  ],\n  \"resumen\": \"La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como entidad ejecutora. Debe cumplir con requisitos documentales, financieros y de experiencia específicos de la convocatoria.\"\n}"
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

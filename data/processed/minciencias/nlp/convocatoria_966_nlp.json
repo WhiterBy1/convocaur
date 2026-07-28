@@ -1,0 +1,343 @@
+{
+  "convocatoria": "966",
+  "objetivo": "Fortalecer la Investigación Aplicada, el Desarrollo Tecnológico y la Innovación en ciencias y tecnologías cuánticas e Inteligencia Artificial, contribuyendo al desarrollo ambiental, social y económico de las regiones en el marco de la Política de Investigación e Innovación Orientada por Misiones.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES)",
+      "rol": "Entidad ejecutora, administra recursos, coordina alianza",
+      "condicion": "Grupo de investigación categorizado A, A1, B o C. Debe trabajar en líneas de TIC, Industria 4.0, IA o Ciencia y Tecnologías Cuánticas. Experiencia previa en al menos una línea temática."
+    },
+    {
+      "tipo": "Empresa Nacional",
+      "rol": null,
+      "condicion": "Micro, pequeña o mediana empresa, constituida legalmente con ánimo de lucro, mínimo 2 años de constitución. Experiencia en proyectos de I+D+i en IA y/o Ciencia y Tecnologías Cuánticas."
+    },
+    {
+      "tipo": "Organización Local - Regional",
+      "rol": "Identifica y plantea la necesidad/problema, participa en implementación, uso y apropiación de soluciones",
+      "condicion": "Asociación campesina, agropecuaria, cooperativa campesina u otra organización productiva rural. Constituida formalmente con mínimo 1 año. Debe tener domicilio en la misma región que IES y Empresa Nacional."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los términos de referencia. La información registrada en SIGP debe coincidir con el Anexo 1.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar la inscripción del proyecto de Desarrollo Tecnológico o de Innovación en el SIGP a través del formulario electrónico disponible en el portal del Ministerio.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas nacionales: acreditar experiencia directa en I+D+i en Inteligencia Artificial/Industria 4.0 o Ciencia y Tecnologías Cuánticas/Industria 4.0, adjuntando certificaciones de ejecución de mínimo 3 proyectos en los últimos 5 años y el Anexo 2 diligenciado.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de aval unificada y compromiso institucional (Anexo 1) debidamente diligenciada y firmada por todos los representantes legales que hagan parte de la alianza. Si firma apoderado, adjuntar documento que lo faculte.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aportar contrapartida mínima equivalente al 20% del monto total solicitado para financiación del proyecto, en dinero y/o especie, durante la ejecución del proyecto.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas nacionales: estar legalmente constituidas en Colombia con un tiempo de constitución y registro no inferior a 2 años contados hasta la fecha de cierre, adjuntando certificado de existencia y representación legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Organizaciones locales-regionales: estar legalmente constituidas en Colombia con un tiempo de constitución no inferior a 1 año contado hasta la fecha de cierre, adjuntando copia actualizada del certificado de Cámara de Comercio con vigencia no superior a 30 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el aval del comité de ética o de bioética, donde especifique que el proyecto ha sido revisado y avalado en sus componentes éticos e instrumentos a aplicar. Adjuntar documento de creación del comité. Aplica cuando la propuesta lo requiera.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias del trámite o la existencia de permisos y licencias ambientales necesarios para la ejecución de la propuesta, de acuerdo con la normatividad colombiana vigente. Aplica cuando corresponda.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar Hoja de Vida del Investigador Principal según Anexo 3, firmada por la persona que ejercerá dicho rol. El Investigador Principal debe tener registrada su hoja de vida en el CvLAC.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 2 jóvenes investigadores e innovadores profesionales en áreas relacionadas con IA, Ciencia y Tecnologías Cuánticas, Industria 4.0 o TIC. Adjuntar Anexo 4, copia de cédula, diploma/acta de grado o certificado de culminación, y certificado de notas con promedio mínimo 3.8. El joven debe tener máximo 28 años al 31/12/2025 y ciudadanía colombiana.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 1 doctor para realizar Estancias Posdoctorales en alguna entidad de la alianza. Adjuntar copia del título o acta de grado de doctorado en programas afines a IA, Ciencia y Tecnologías Cuánticas, Industria 4.0 o TIC.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 2 estudiantes de maestría en programas afines a IA, Ciencia y Tecnologías Cuánticas, Industria 4.0 o TIC. Adjuntar certificación expedida por la universidad que conste que está cursando sus estudios de maestría.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Vincular mínimo 1 semillero de investigación conformado por mínimo 10 estudiantes de pregrado de tercer semestre en adelante. Adjuntar documento de constitución del semillero, certificados de cada estudiante, y Anexo 5 diligenciado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Opcional: Acreditar enfoque diferencial vinculando personas de pueblos y comunidades étnicas (con certificado del Ministerio del Interior) o población víctima del conflicto armado o en situación de extrema vulnerabilidad (con declaración).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Incumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en el caso que la convocatoria cuente con recursos para su financiación y de ser beneficiado por la presente convocatoria."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "Que la propuesta presentada se encuentre en ejecución o la fase en la que se presenta, ya cuente con financiación simultánea de otra convocatoria, con recursos del Ministerio, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Presentar más de un (1) proyecto con la misma empresa nacional o el mismo Investigador Principal. En caso de concurrencia, únicamente se tendrá en cuenta el primer proyecto radicado en la plataforma Sistema Integrado de Gestión de Proyectos (SIGP). Los demás proyectos serán inhabilitados."
+    },
+    {
+      "texto": "Que alguno de los integrantes de la alianza (Entidad del SNCTI, Investigadores, doctor que realiza la estancia posdoctoral, estudiante de maestría y/o Joven Investigador e Innovador) esté incurso en alguna de las causales de inhabilidad de incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos en cualquier etapa del proceso: precontractual y contractual."
+    },
+    {
+      "texto": "Estar incursa en causales de disolución o liquidación (para entidades de la alianza)."
+    },
+    {
+      "texto": "Estar reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República (para entidades de la alianza)."
+    },
+    {
+      "texto": "No se encuentran al día con las obligaciones y compromisos adquiridos con el Ministerio (para entidades de la alianza)."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por el Ministerio, en su participación como Investigador, Coinvestigador, doctor o estancia postdoctoral (para el doctor que realiza la estancia posdoctoral)."
+    },
+    {
+      "texto": "Haber sido declarado(a) en incumplimiento en cualquiera de los mecanismos operados por el Ministerio en los últimos 5 años al cierre de la convocatoria (para el doctor que realiza la estancia posdoctoral)."
+    },
+    {
+      "texto": "Haber quedado como financiable de la convocatoria No. 934 'Estancias Postdoctorales Orientadas por Misiones', o de la Convocatoria No. 935 'Programa Orquídeas, Mujeres en la Ciencia: Agentes para la Paz', la Convocatoria No. 948 'Orquídeas Mujeres en la Ciencia 2024' y la Convocatoria No. 950 'ColombIA Inteligente: Desarrollo e implementación de soluciones mediante inteligencia artificial y ciencias del espacio para los territorios' al cierre de la presente convocatoria (para el doctor que realiza la estancia posdoctoral)."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por el Ministerio, en su participación como Joven Investigador e Innovador (para el Joven Investigador e Innovador)."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa Jóvenes Investigadores e Innovadores (para el Joven Investigador e Innovador)."
+    },
+    {
+      "texto": "Haber quedado en los bancos de financiables de la convocatoria No. 935 'Programa Orquídeas, Mujeres en la Ciencia: Agentes para la Paz', la Convocatoria No. 948 'Orquídeas Mujeres en la Ciencia 2024' y la Convocatoria No. 950 'ColombIA Inteligente: Desarrollo e implementación de soluciones mediante inteligencia artificial y ciencias del espacio para los territorios' al cierre de la presente convocatoria (para el Joven Investigador e Innovador)."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la Propuesta",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el análisis del problema y la coherencia de los resultados esperados."
+    },
+    {
+      "nombre": "Relevancia y Contribución al Desarrollo Regional",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la alineación del proyecto con necesidades locales y su impacto en el desarrollo regional."
+    },
+    {
+      "nombre": "Diferencial de la tecnología",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la novedad, fundamentación teórica y ventajas de la tecnología propuesta."
+    },
+    {
+      "nombre": "Resultados e impactos del proyecto",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa resultados esperados, sostenibilidad, estrategia de apropiación social y componente de formación."
+    },
+    {
+      "nombre": "Conformación y articulación de la alianza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la conformación de la alianza y la articulación entre sus actores."
+    },
+    {
+      "nombre": "Enfoque territorial",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Asigna puntos si el proyecto se ejecuta en municipio PDET o ZOMAC."
+    },
+    {
+      "nombre": "Enfoque diferencial",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Asigna puntos según la pertenencia de integrantes del equipo a grupos poblacionales específicos."
+    },
+    {
+      "nombre": "Enfoque diferencial o interseccional de la población que impacta el proyecto",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Asigna puntos si el proyecto beneficia a población diferencial en categorías específicas."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "VEINTE MIL MILLONES DE PESOS MCTE ($20.000.000.000)",
+    "monto_total_cop": 20000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 18,
+    "contrapartida_pct_min": 20.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación (CDR 20240 – 2025, 20241 – 2025, 20244 – 2025, 20245 – 2025 y CDR 20251 - 2025)",
+    "notas": "Se reservan $500.000.000 para evaluación y seguimiento. Monto máximo por proyecto: $1.500.000.000. Contrapartida mínima del 20% del monto solicitado, en dinero y/o especie."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2373,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 813,
+          "completion_tokens": 74
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4166,
+          "completion_tokens": 737
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4208,
+          "completion_tokens": 3873
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5829,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1911,
+          "completion_tokens": 985
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10220,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3304,
+          "completion_tokens": 225
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13601,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4268,
+          "completion_tokens": 524
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES)",
+          "rol": "Entidad ejecutora, administra recursos, coordina alianza",
+          "condicion": "Grupo de investigación categorizado A, A1, B o C. Debe trabajar en líneas de TIC, Industria 4.0, IA o Ciencia y Tecnologías Cuánticas. Experiencia previa en al menos una línea temática."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Grupo de investigación categorizado A, A1, B o C. Debe trabajar en líneas de TIC, Industria 4.0, IA o Ciencia y Tecnologías Cuánticas. Experiencia previa en al menos una línea temática.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        },
+        {
+          "condicion": "Grupo de investigación categorizado A, A1, B o C. Debe trabajar en líneas de TIC, Industria 4.0, IA o Ciencia y Tecnologías Cuánticas. Experiencia previa en al menos una línea temática.",
+          "riesgo": "experiencia",
+          "nota": "Validar experiencia acreditada en CTeI/regiones."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Grupo de investigación categorizado A, A1, B o C. Debe trabajar en líneas de TIC, Industria 4.0, IA o Ciencia y Tecnologías Cuánticas.",
+          "Experiencia previa acreditada en al menos una línea temática de las mencionadas."
+        ],
+        "resumen": "La Universidad del Rosario es elegible como IES privada acreditada y reconocida por el SNCTI, pero solo puede postularse en alianza con una empresa nacional y una organización local-regional. Debe verificar que cuenta con un grupo de investigación categorizado (A, A1, B o C) y experiencia en las líneas temáticas requeridas."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Grupo de investigación categorizado A, A1, B o C. Debe trabajar en líneas de TIC, Industria 4.0, IA o Ciencia y Tecnologías Cuánticas.",
+        "Experiencia previa acreditada en al menos una línea temática de las mencionadas."
+      ],
+      "resumen": "La Universidad del Rosario es elegible como IES privada acreditada y reconocida por el SNCTI, pero solo puede postularse en alianza con una empresa nacional y una organización local-regional. Debe verificar que cuenta con un grupo de investigación categorizado (A, A1, B o C) y experiencia en las líneas temáticas requeridas.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

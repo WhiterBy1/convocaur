@@ -1,0 +1,83 @@
+{
+  "convocatoria": "922",
+  "objetivo": null,
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la convocatoria no exija alianzas obligatorias",
+          "Confirmar que la IES cumple requisitos específicos de grupos de investigación o experiencia regional si aplica"
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. Puede postularse de forma individual como ejecutora, pero se deben validar condiciones particulares de la convocatoria."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la convocatoria no exija alianzas obligatorias",
+        "Confirmar que la IES cumple requisitos específicos de grupos de investigación o experiencia regional si aplica"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. Puede postularse de forma individual como ejecutora, pero se deben validar condiciones particulares de la convocatoria.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

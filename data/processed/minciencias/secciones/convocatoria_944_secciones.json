@@ -1,0 +1,287 @@
+{
+  "archivo": "convocatoria_944_tdr.pdf",
+  "convocatoria": "944",
+  "n_paginas": 15,
+  "n_caracteres_total": 53293,
+  "toc_detectado": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "pagina_toc": 2
+    },
+    {
+      "numero": 2,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 3,
+      "titulo": "LÍNEAS TEMÁTICAS",
+      "titulo_norm": "LINEAS TEMATICAS",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 4,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "pagina_toc": 6
+    },
+    {
+      "numero": 6,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "pagina_toc": 8
+    },
+    {
+      "numero": 7,
+      "titulo": "CONTENIDO DEL PROYECTO",
+      "titulo_norm": "CONTENIDO DEL PROYECTO",
+      "pagina_toc": 9
+    },
+    {
+      "numero": 8,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "pagina_toc": 10
+    },
+    {
+      "numero": 9,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 10,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 11,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 12,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 13,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 14,
+      "titulo": "ROPIEDAD INTELECTUAL",
+      "titulo_norm": "ROPIEDAD INTELECTUAL",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 15,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 16,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 17,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 18,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "pagina_toc": 15
+    }
+  ],
+  "n_secciones_toc": 17,
+  "n_secciones_cuerpo": 17,
+  "fingerprint": "1.PRESENTACION > 2.ENFOQUE DIFERENCIAL > 3.LINEAS TEMATICAS > 4.REQUISITOS > 6.DURACION Y FINANCIACION > 7.CONTENIDO DEL PROYECTO > 8.PROCEDIMIENTO DE INSCRIPCION > 9.AUTORIZACION USO DE DATOS PERSONALES > 10.CRITERIOS DE EVALUACION > 11.BANCO DE ELEGIBLES > 12.CRONOGRAMA > 13.MODIFICACIONES > 14.ROPIEDAD INTELECTUAL > 15.VEEDURIAS CIUDADANAS > 16.ANEXOS > 17.ACEPTACION DE TERMINOS Y VERACIDAD > 18.MAS INFORMACION",
+  "titulos_norm": [
+    "PRESENTACION",
+    "ENFOQUE DIFERENCIAL",
+    "LINEAS TEMATICAS",
+    "REQUISITOS",
+    "DURACION Y FINANCIACION",
+    "CONTENIDO DEL PROYECTO",
+    "PROCEDIMIENTO DE INSCRIPCION",
+    "AUTORIZACION USO DE DATOS PERSONALES",
+    "CRITERIOS DE EVALUACION",
+    "BANCO DE ELEGIBLES",
+    "CRONOGRAMA",
+    "MODIFICACIONES",
+    "ROPIEDAD INTELECTUAL",
+    "VEEDURIAS CIUDADANAS",
+    "ANEXOS",
+    "ACEPTACION DE TERMINOS Y VERACIDAD",
+    "MAS INFORMACION"
+  ],
+  "comparacion_plantilla_sgr": {
+    "n_en_doc": 17,
+    "n_plantilla": 21,
+    "coinciden_exacto": false,
+    "cobertura_plantilla": 0.333,
+    "faltan_vs_plantilla": [
+      "OBJETIVO",
+      "DIRIGIDA A",
+      "DEMANDAS TERRITORIALES",
+      "ALCANCE DEL PROYECTO",
+      "ENFOQUE TERRITORIAL",
+      "ENFOQUE DIFERENCIAL E INTERSECCIONAL",
+      "ORIENTACIONES PARA LA VINCULACION DE TALENTO HUMANO",
+      "REQUISITOS HABILITANTES",
+      "CAUSALES DE RECHAZO",
+      "PROCEDIMIENTO DE EVALUACION",
+      "LISTADO DE ELEGIBLES",
+      "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
+      "VIGILANCIA DE LOS PROYECTOS",
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
+    ],
+    "extra_vs_plantilla": [
+      "ENFOQUE DIFERENCIAL",
+      "REQUISITOS",
+      "AUTORIZACION USO DE DATOS PERSONALES",
+      "BANCO DE ELEGIBLES",
+      "MODIFICACIONES",
+      "ROPIEDAD INTELECTUAL",
+      "VEEDURIAS CIUDADANAS",
+      "ANEXOS",
+      "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "MAS INFORMACION"
+    ]
+  },
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "texto": "El Ministerio de Ciencia, Tecnología e Innovación, como ente rector del Sistema Nacional de Ciencia, Tecnología e Innovación \n(SNCTI), es el encargado de establecer instrumentos de política pública y su posterior medición para poder evaluar a través \nde indicadores el avance del país. Para el caso de ciencia tecnología e innovación, el indicador utilizado ampliamente a nivel \ninternacional es la inversión en I+D como porcentaje del producto interno bruto, que puede provenir tanto del sector privado \ncomo del sector público. \n \nColombia se encuentra rezagada en materia de inversión I+D, de acuerdo con cifras de Banco Mundial, en el 2020. Colombia \ninvirtió sólo el 0,29% de su PIB en actividades de I+D, situación que ubica al país por debajo del promedio de inversión en \nI+D de Latinoamérica y el Caribe (0,35%), así como de los países de la OCDE (2,36%) (OCDE, 2020). \nEn el Plan Nacional de Desarrollo de Colombia 2023 – 2026, ha establecido en el eje de Transformación productiva, \ninternacionalización y acción climática, como meta asociada a la Reindustrialización intensiva en conocimiento y tecnología, \nla tarea de duplicar la inversión del país en Investigación y Desarrollo, al llegar al 0,5% de la participación de la inversión de \nI+D+ en el PIB. (DNP, 2023). \n \nEsta convocatoria impulsa la inversión privada para el otorgamiento de beneficios tributarios en proyectos calificados como \nde “investigación científica, desarrollo e innovación”. \n \nLa presente convocatoria atiende lo dispuesto en los artículos 256, 256-1 y 258 del Estatuto Tributario (E.T.), modificados por \nlos artículos 21 y 22 de la Ley 2277 del 2022 “Reforma Tributaria” para estimular la inversión privada en Ciencia, Tecnología \ne Innovación, mediante los beneficios tributarios de descuento y crédito fiscal. Por su parte, las Políticas de Investigación e \nInnovación Orientadas por Misiones (PIIOM) impulsarán transformaciones a través del esfuerzo conjunto del Gobierno del \nCambio y los diferentes actores de la sociedad para dar cumplimiento a lo establecido en la Ley 2294 de 2023, por la cual se \nexpide el Plan Nacional de Desarrollo 2022-2026 “Colombia potencia mundial de la vida”. \n \nAsí mismo, el Consejo Nacional de Beneficios Tributarios (CNBT) estableció en el artículo 1 del Acuerdo 34 de 2023 “Por el \ncual se ordena la apertura de convocatorias de beneficios tributarios para la vigencia 2023”, la apertura de una convocatoria \npara el registro de los proyectos que accederán a los beneficios tributarios por inversión en proyectos de ciencia, tecnología \ne innovación para el año 2023. \n \nDe modo que, la presente convocatoria tiene como objeto impulsar la inversión privada en investigación científica, desarrollo \ne innovación (I+D+i), mediante la calificación de proyectos ejecutados en articulación con actores reconocidos del SNCTI, de \nconformidad con la Resolución 0957 de 2021, para el acceso a beneficios tributarios por Inversión,  y con los  criterios y \ncondiciones establecidos por el Consejo Nacional de Beneficios Tributarios (CNBT) en el Documento de Tipología de \nProyectos versión 7.  Estos criterios se basan en las tendencias internacionales de políticas de ciencia, tecnología e \ninnovación, así como cambios en manuales y directrices de la Organización para la Cooperación y el Desarrollo Económico \n(OCDE), de la cual Colombia hace parte. Los lineamientos del Documento de Tipología de Proyectos serán obligatorios para \nla formulación y calificación de proyectos presentados para el acceso del beneficio tributario.  \n \nEsta convocatoria se encuentra dirigida a empresas en calidad de ejecutoras y co -ejecutoras (si aplica), legalmente \nconstituidas en Colombia, contribuyentes del impuesto de renta y complementarios, que busquen acceder a beneficios \ntributarios por inversión: descuento y crédito fiscal. Las empresas que postulen proyectos a esta convocatoria sólo podrán \naplicar a uno de los dos beneficios tributarios por inversión con un mismo proyecto , según lo establecido en el parágrafo 1 \ndel artículo 256-1 del E.T La convocatoria contará con las siguientes modalidades: \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 3 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \n \n• Condiciones específicas para la modalidad de participación 1: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Crédito Fiscal) en proyectos de Ciencia, Tecnología e Innovación \naño 2023 para Micro y Pequeñas empresas – MIPES. \n• Condiciones específicas para la modalidad de participación 2: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Crédito Fiscal) en proyectos de Ciencia, Tecnología e Innovación \naño 2023 para Medianas empresas.  \n• Condiciones específicas para la modalidad de participación 3: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Crédito Fiscal) en proyectos de Ciencia, Tecnología e Innovación \naño 2023 para empresas Grandes en alianza con Micro, Pequeñas y Medianas empresas – MIPYMES. \n• Condiciones específicas para la modalidad de participación 4: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Descuento) en proyectos de Ciencia, Tecnología e innovación \naño 2023 para Micro, Pequeñas, Medianas y Grandes empresas. \n \nLas micro, pequeñas, medianas (MiPymes) y grandes empresas podrán acceder al benefici o de un cupo de descuento \ntributario del 30% del valor invertido en el proyecto, acorde a lo estipulado en los artículos 256 y 258 del ET, así mismo, las \nmicro, pequeñas y medianas empresas (MiPymes) contribuyentes del impuesto de renta podrán acceder al beneficio tributario \nde crédito fiscal estipulado en el artículo 256-1 del E.T., que establece un crédito fiscal por un valor del 50% de la inversión \nrealizada en CTeI, aplicable para la compensación del impuesto de renta y otros impuestos nacionales.  \n \nLas empresas con saldos en su crédito fiscal superior a 1000 UVT, una vez compensados los impuestos nacionales, podrán \nsolicitar Títulos de Devolución de Impuestos (TIDIS) a través del trámite de devolución y compensación ante la Dirección de \nImpuestos y Aduanas Nacionales (DIAN). Para las grandes empresas que decidan acceder a este beneficio deberán \npresentarse junto con una MiPymes de acuerdo con lo establecido en el parágrafo 6 del artículo 256 -1 del E.T. el cual \nestablece que: “Las grandes empresas podrán acceder al crédito fiscal de que trata el presente artículo siempre y cuando se \ntrate de proyectos de investigación, desarrollo tecnológico e innovación realizados en conjunto con Micro, Pequeñas o \nMedianas empresas.”  \n \nFinalmente, esta convocatoria promueve la Política de Investigación e Innovación Orientadas por Misiones (PIIOM) ”La política \nde Ciencia, Tecnología e Innovación estará basada principalmente en el enfoque de políticas de investigación e innovación \norientadas por misiones, encaminadas a resolver grandes desafíos sociales, económicos y ambientales del país asociados a \nla transición energética, el derecho humano a la alimentación, la innovación agropecuaria, la salud de la población, el \ndesarrollo de la bioeconomía, la gestión del riesgo de desastres, el reconocimiento de la diversidad natural, cultural y territorial, \nla paz total, entre otros, que articule las ciencias y los saberes diversos para sustentar una Colombia Potencia Mundial de la \nVida. Para su puesta en marcha, el Gobierno nacional liderará e implementará políticas orientadas por misión a partir de \narticulaciones interinstitucionales.” Artículo 226 del Plan Nacional de Desarrollo 2022-2026 “Colombia potencia mundial de la \nvida” para fomentar la inversión privada en investigación científica, desarrollo tecnológico e innovación (I+D+i), mediante la \ncalificación de proyectos de investigación científica, desarrollo tecnológico e innovación, y cuya inversión sea realizada \ndurante el año 2023 y vigencias fiscales siguientes, para el acceso a los beneficios tributarios por inversión: descuento y \ncrédito fiscal, según lo estipulado en los artículos 256, 256-1 y 258 del Estatuto Tributario (E.T.), respectivamente. \nDIRIGIDA A \n \nEsta convocatoria se encuentra dirigida a: Micro, pequeñas, medianas y grandes empresas de acuerdo con lo establecido en \nel artículo 2.2.1.13.2.2. del Decreto 1074 de 2015, adicionado por el Decreto 957 de 2019 (Ver Anexo 7 de la convocatoria), \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 4 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \nen calidad de ejecutores o co-ejecutores (si aplica), cabe mencionar que cada modalidad cuenta con su propio “Dirigida a”. \nEstas empresas deberán estar legalmente constituidas en Colombia al momento de la postulación del proyecto a la \nconvocatoria, ser contribuyentes del impuesto de renta, y adelantar proyectos de investigación científ ica, desarrollo e \ninnovación, avalados por un actor con reconocimiento vigente por parte del Ministerio de Ciencia, Tecnología e innovación a \ntravés de Resolución, que se podrá validar a través del siguiente link: \nhttps://minciencias.gov.co/portafolio/reconocimiento_de_actores. \n \nNota: \n \nSe entiende por actores reconocidos por el Ministerio de Ciencia, Tecnología e Innovación a los actores asociados definidos \npor el CNBT así: “Son aquellas personas naturales o jurídicas que cuentan con reconocimiento por parte de Ministerio de \nCiencia, Tecnología e Innovación, como actor del Sistema Nacional de Ciencia, Tecnología e Innovación, según lo establecido \nen la política de Actores del Sistema Nacional de Ciencia, Tecnología e Innovación, y que acompañan a las empresas que \npostulan proyectos CTeI para acceder a beneficios tributarios. Teniendo en cuenta que el instrumento de beneficios tributarios \nbusca el fortalecimiento de las relaciones en el sistema de CTeI, es decir, entre la academia, el sector productivo, el Estado \ny la sociedad en general, los actores asociados deberán realizar acciones dependiendo de la tipología del proyecto, tales \ncomo: desarrollo, aprovechamiento, uso modificación y difusión de nuevo conocimiento, tecnologías e innovaciones, al igual \nque actividades científicas, técnicas, de diseño, ingeniería, transferencia de conocimiento y tecnología, divulgación y \napropiación del conocimiento. Asimismo, los actores asociados deben apoyar y asegurar el cumplimiento de los compromisos \ncientíficos, técnicos y presupuestales durante todo el ciclo de vida del proyecto y brindar un acompañamiento a las empresas \nen toda su ejecución.” (Documento de Tipología de Proyectos Versión 7, 2023, p. x).  \n \nLos actores asociados que den aval a los proyectos de investigación científica, desarrollo e innovación de la presente \nconvocatoria, que no cuenten con resolución de reconocimiento positiva a la fecha de cierre de esta, podrán presentar un \ndocumento indicando el número de radicación de la solicitud de reconocimiento cuyo estado sea “EN DECISIÓN” en la \nPlataforma de Gestión de Proyectos SIGP. No obstante, el Ministerio de Ciencia, Tecnología e Innovación verificará el \ncumplimiento del requisito de aval en la etapa de revisión y emitirá resolución de otorgamiento de beneficio tributario una vez \nesté en firme la resolución de reconocimiento del actor asociado.",
+      "n_caracteres": 11634
+    },
+    {
+      "numero": 2,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "texto": "La presente convocatoria cuenta con las siguientes definiciones de enfoque difer encial e incluyente, cuyo objetivo es \ndemocratizar la Ciencia, la Tecnología y la Innovación, buscando, asimismo, el cierre de brechas, el crecimiento y la \nconsolidación de las comunidades científicas en los departamentos y municipios con índice de innovación y competitividad \nbajos IDIC. \n \nSe debe caracterizar el recurso humano que participará (indicando su dedicación al mismo) o se beneficiará en el desarrollo \ndel proyecto teniendo las siguientes alternativas a través de las cuales se busca democratizar la CTeI: \n \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 5 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \nCATEGORÍA DESCRIPCIÓN \nPoblación víctima del conflicto \narmado o en situación de extrema \nvulnerabilidad \nSon aquellas personas que individual o colectivamente hayan sufrido un daño por \nhechos ocurridos a partir del 1º de enero de 1985, como consecuencia de \ninfracciones al Derecho Internacional Humanitario o de violaciones graves y \nmanifiestas a las normas internacionales de Derechos Humanos, ocurridas con \nocasión del conflicto armado interno. (Ley 1448 de 2011, artículo 3) \nPoblación en condi ción de \ndiscapacidad \nFísica \nAuditiva \nVisual \nSordoceguera \nIntelectual \nPsicosocial \nMúltiple \nTalla Baja \nGrupo Étnico \nPoblación Indígena. \nPoblación negra / Afrocolombiano /Afrodescendiente \nRaizal \nRrom (gitano) \nPalenquero \nTerritorio Departamentos con Índice Departamental de Innovación y Competitividad medio -\nbajo y bajo \nSexo  Femenino de acuerdo con la cédula de ciudadanía \n \nSe evaluarán lo siguientes aspectos de enfoque diferencial de la convocatoria, en el cual se debe precisar lo siguiente:  \n \n• Categoría de la población con enfoque diferencial que participará y/o se beneficiará de la convocatoria.  \n• Criterios de evaluación de los proyectos a seleccionar bajo el cumplimiento de requisitos de enfoque diferencial \n(ejemplo: proyectos ejecutados por grupos de investigación en los cuales se reporten integrantes de población \nindígena tendrán 1 punto adicional dentro de la calificación de los criterios de evaluación “conformación equipo de \ntrabajo”)",
+      "n_caracteres": 2329
+    },
+    {
+      "numero": 3,
+      "titulo": "LÍNEAS TEMÁTICAS",
+      "titulo_norm": "LINEAS TEMATICAS",
+      "texto": "Los proyectos de inversión deben estar enmarcados en al menos una de siguientes líneas temáticas \nApuestas productivas de la Política de Reindustrialización \n \n• Por la transición energética justa  \n• Por la agro industrialización y la soberanía alimentaria \n• Por la reindustrialización en el sector salud  \n• Por la reindustrialización para la defensa y la vida \n• Por los territorios y su tejido empresarial \n \nY los retos de la Política de Investigación e Innovación Orientada por Misiones \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 6 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \n \n1. Bioeconomía, ecosistemas naturales, territorios sostenibles: Potenciar el desarrollo territorial sostenible mediante el \nconocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos  \n2. Derecho a la alimentación: Producir y disponer alimentos y agua de manera eficiente, soberana, autónoma y \nequitativa, por medio de la investigación y la innovación.  \n3. Energía eficiente, sostenible y asequible: Asegurar la generación, acceso y uso de energías sostenibles para todos \nlos colombianos a través del desarrollo, adopción y adaptación de tecnologías para la transición energética. \n4. Soberanía sanitaria y bienestar social: Garantizar la soberanía sanitaria, la salud y el bienestar social de la población \nen todo el territorio nacional. \n5. Ciencia para la paz y la ciudadanía: Poner fin a todas las formas de violencia en Colombia y comprender las diversas \ncausas de violencia como base para construir soluciones tecnológicas y sociales que fomenten y fortalezcan la \nconvivencia pacífica en condiciones de equidad y justicia social. \n \n“Ver Política de Reindustrialización: Política Industrial en Marcha",
+      "n_caracteres": 1884
+    },
+    {
+      "numero": 4,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "texto": "La presente convocatoria establece los siguientes requisitos que deben ser cumplidos por los postulantes:  \n \n1. Cumplir con lo establecido en el numeral “2.  DIRIGIDA A” de los presentes Términos de Referencia y en la modalidad \na la que se desea postular. \n2. Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos del Ministerio de Ciencia, Tecnología e \nInnovación – SIGP, a través del formulario en línea disponible en el portal del Ministerio de Ciencia, Tecnología e \nInnovación (www.minciencias.gov.co).  \n3. Adjuntar la carta de presentación, aval y aceptación de compromisos por la cual se solicita el beneficio tributario, \nfirmada por el representante legal (o quien haga sus veces, siempre y cuando se anexe la respectiva documentación \nque lo acredita) de la entidad ejecutora (Anexo 6), la entidad co-ejecutora (si aplica) y el actor que da aval al proyecto.  \n4. Los actores asociados que den aval a los proyectos de investigación científica, desarrollo e innovación de la presente \nconvocatoria, que no cuenten con la resolución de reconocimiento positiva a la fecha de cierre de la misma, podrán \npresentar un documento indicando el número de radicación de la solicitud de reconocimiento cuyo estado sea “EN \nDECISIÓN” en la Plataforma de Gestión de Proyectos SIGP. No obstante, el Ministerio de Ciencia, Tecnología e \nInnovación verificará el cumplimiento del requisito de aval en la etapa de revisión y emitirá resolución de otorgamiento \nde beneficio tributario una vez esté en firme la resolución de reconocimiento del actor asociado. \n5. Presentar el Aval del Comité de Ética/Bioética de la institución que presenta el proyecto, cuando aplique, donde \nespecifique claramente que el proyecto ha sido revisado y avalado en sus componentes éticos e instrumentos a \nemplear. En caso de que la institución que presenta el proyecto no cuente con un Comité de ética, podrá solicitar \neste aval ante otra entidad que cuente con uno. Debe anexar a este aval, el acto administrativo que soporta la \nconformación del Comité de ética que lo expide. Para proyectos de Salud este requisito será obligatorio.  \n6. Las grandes empresas que busquen acceder a la “Modalidad 3”, en alianza con una MiPyme al beneficio tributario \nde “Crédito Fiscal”, deberá cumplir con al menos 7 criterios de los 10 establecidos: \na. Generación de nuevos productos y/o servicios                                   \nb. Mejoramiento significativo de productos y/o servicios                                            \nc. Desarrollo de nuevos procesos                                    \nd. Mejoramiento significativo de procesos                                      \ne. Generación de nuevo conocimiento en el personal vinculado                     \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 7 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \nf. Incrementos en la productividad de la empresa                                         \ng. Reducción de costos                                                                       \nh. Nuevos modelos organizacionales                                   \ni. Desarrollo de software y aplicaciones                                                           \nj. Generación de nuevos empleos \n Nota: \n• El Ministerio de Ciencia, Tecnología e Innovación podrá solicitar en cualquier momento, información y documentación \nadicional, complementaria o aclaraciones de los documentos entregados. \n• No se hace necesario adjuntar documento de Alianza si la Mipyme se presenta sin alianza o con otra MiPyme. \n• Los resultados de la etapa de verificación de requisitos de la convocatoria pueden ser consultados ingresando al \nFORMULARIO DE PROYECTOS Y PROGRAMAS, con el usuario y contraseña enviados m ediante correo \nelectrónico al momento de registrar el proyecto en el sistema \nttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/. Las observaciones se pueden consultar en el \nmódulo “Requisitos”, campo “Observaciones Generales de los Requisitos”. (Ampliando el cuadro de observaciones \ndesde la esquina inferior derecha).  \n \n5. CONDICIONES INHABILITANTES. \n \n1. El proyecto quedará inhabilitado cuando cualquiera de las entidades participantes no se encuentre legalmente \nconstituida en Colombia al momento de presentar el proyecto.  \n2. El proyecto quedará inhabilitado cuando no se cuente con el aval del actor con reconocimiento por el Ministerio de \nCiencia, Tecnología e Innovación o del representante legal de la entidad que presenta el proyecto, o las demás \nentidades involucradas en el proyecto. El aval se entenderá formalizado con la firma en conjunto de la carta de \npresentación, aval y aceptación de compromisos (Ver Anexo 6). En caso de que se presenten a los dos beneficios \ntributarios, el ministerio evaluará el primer proyecto registrado y enviado.  \n3. Los proyectos presentados bajo la modalidad de crédito fiscal no podrán acceder al beneficio tributario de descuento \ndefinido en el artículo 256 del E.T., con el mismo proyecto. Así mismo, los proyectos postulados a la modalidad de \ndescuento no podrán acceder al beneficio tributario de crédito fiscal estipulado por el artículo 256-1 del E.T,  con el \nmismo proyecto. Por lo anterior, los proyectos postulados a esta convocatoria sólo podrán acceder a uno de los \nbeneficios tributarios por inversión con el mismo proyecto, de acuerdo con lo establecido en el parágrafo 1 del artículo \n22 de la Ley 2277 de 2022. El proponente deberá aclarar en la carta de presentación, aval y aceptación de \ncompromisos (Ver anexo 6) el beneficio tributario al cual busca acceder.  \n4. El proyecto quedará inhabilitado cuando haya sido financiado exclusivamente con recursos públicos en el marco de \notras convocatorias de diferentes entidades, o inversiones que hayan generado derecho a otros beneficios tributarios \ndiferentes a los estipulados en los artículos 21 y 22 de la Ley 2277 del 2022.  \n5. El proyecto quedará inhabilitado cuando NO cumpla con los requisitos y lineamientos establecidos en los términos \nde referencia de la convocatoria y la normatividad vigente dentro de los plazos establecidos.  \n6. El proyecto quedará inhabilitado cuando alguno de los participantes esté inmerso en alguna de las causales de \ninhabilidad e incompatibilidad establecidos en la Constitución, en la ley, reglamentos, etc. \n \nNota: El Ministerio de Ciencia, Tecnología e Innovación en cualquiera de las etapas establecidas revisará si la empresa está \nincursa o no en alguna de las causales de inhabilidad establecidas en los términos de referencia o en la ley. En caso de \nestarlo, no serán beneficiarios de la convocatoria.  \n \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 8 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia",
+      "n_caracteres": 7015
+    },
+    {
+      "numero": 6,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "texto": "La duración y presupuesto del proyecto podrá ser determinada por la empresa postulante, teniendo en cuenta su tipología, \nalcance, objetivos, metodología y resultados esperados, es decir, considerando actividades e inversiones a realizarse para la \nvigencia 2023 y siguientes. En caso de ser aprobado el proyecto y de requerir traslados o modificaciones durante su ejecución, \nlos proponentes deberán acogerse a lo establecido en el Acuerdo 32 de 2023 (Anexo 3) o las normas que los sustituyan.  \n \nPara los proyectos que accedan al beneficio tributario de descuento, se notificará mediante acto administrativo motivado el \ncupo asignado a los representantes legales de las entidades que inscribieron proyectos en la convocatoria, una vez avalada \nla decisión por parte del CNBT, con lo cual el contribuyente del impuesto de renta queda habilitado para hacer uso del beneficio \ntributario, como lo establece el artículo 256 de E.T.  \n \nPor su parte, una vez sean evaluados y aprobados los proyectos que accederán al beneficio tributario de crédito fiscal, se le \notorgará al proponente un cupo mediante acto administrativo; sin embargo, el beneficio tributario definido en el artículo 256- \n1 del E.T., se entregará mediante emisión de certificado de Crédito Fiscal, como lo establece el Decreto 1011 de 2020 (Anexo \n8), y se presenta a continuación:   \n \n• La micro, pequeña y mediana empresa, deberá realizar la presentación de los informes de ejecución técnica y \nfinanciera a más tardar el 31 de enero de la vigencia siguiente a la aprobación por parte del CNBT, reportando los \navances de la vigencia respectiva. \n• Para la alianza entre la micro, pequeña o mediana empresa (MiPymes) con grandes empresas, ambas partes \ndeberán realizar el mismo proceso respecto a la presentación de los informes de ejecución técnica y financiera a \nmás tardar el 31 de enero de la vigencia siguiente a la aprobación por parte del CNBT, reportando los avances de la \nvigencia respectiva, pero con la claridad del trabajo en conjunto. \n• Posterior a la evaluación y aprobación de estos informes, se le otorgará al proponente un certificado de crédito fiscal \nantes del 31 de marzo de la vigencia siguiente a la aprobación por parte del CNBT, por el valor del monto de la \nejecución financiera del proyecto aprobada, sin que esta exceda el valor inicial aprobado por acto administrativo; el \ncertificado será el documento válido para el uso del Crédito Fiscal ante la Unidad Administrativa Especial Dirección \nde Impuestos y Aduanas Nacionales (DIAN).  \n• El certificado para el crédito fiscal expedido por el CNBT tendrá una vigencia de dos años, contados a partir de su \nexpedición, cumplido este término perderá su validez.  \n \nNotas: \n \n• Los formatos para presentación de informes de ejecución técnica y financiera podrán ser consultados en el siguiente \nlink: \n• https://minciencias.gov.co/viceministerios/conocimiento/direccion_transferencia/beneficios-tributarios/seguimiento \n• Las inversiones propuestas por las empresas no podrán ser financiadas simultáneamente por otra convocatoria o \ncon recursos del Ministerio de Ciencia, Tecnología e Innovación u otras entidades del Estado.  \n• Podrán acceder al beneficio tributario, los recursos de contrapartida que sean invertidos por empresas proponentes, \nen el marco de proyectos financiados por otras convocatorias realizadas por el Ministerio de Ciencia, Tecnología e \nInnovación u otras entidades del Estado.  \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 9 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \n• Los recursos en dinero o especie registrados en el proyecto deberán ser invertidos por las empresas ejecutoras y \nco-ejecutoras (si aplica), con base a lo estipulado en el proyecto registrado en la plataforma SIGP, y no podrán ser \nentregados a terceros para su ejecución u otorgarse bajo la modalidad de donación a otra entidad.  \n• El artículo segundo del Acuerdo 32 de 2023, o la norma que lo sustituya, establece los criterios de priorización de \nproyectos, en caso de que el cupo para beneficios tributarios por inversión solicitados por las empresas sea superior \nal cupo disponible (Ver Anexo 3).  \n• Los proyectos de Investigación científica, Desarrollo o Innovación en los cuales las MiPymes asuman el rol de \nejecutor del proyecto y se presenten sin acompañamiento de empresa grande. \n• Los proyectos de inversión que contemple I+D como su principal actividad para el crecimiento y avance de la \nsociedad. \n• Los proyectos que cumplan con Políticas de Investigación e Innovación Orientadas por Misiones serán priorizados \nsegún los criterios establecidos por el CNBT en el Acuerdo 32 de 2023 (Ver anexo 3) \n• Para los proyectos de crédito fiscal donde exista una alianza entre una empresa grande y una MiPyme, se priorizarán \naquellos que cumplan con mayor cantidad de criterios descritos en los términos de referencia de la convocatoria: \no Generación de nuevos productos y/o servicios                                   \no Mejoramiento significativo de productos y/o servicios                                           \no Desarrollo de nuevos procesos                                    \no Mejoramiento significativo de procesos                                       \no Generación de nuevo conocimiento en el personal vinculado                     \no Incrementos en la productividad de la empresa                                         \no Reducción de costos                                                                       \no Nuevos modelos organizacionales                                   \no Desarrollo de software y aplicaciones                                                           \no Generación de nuevos empleos.   \no Cuando la empresa sea ejecutora deberá entregar en el informe la ejecución del proyecto la información \nque permita validar el efectivo cumplimiento de las obligaciones de la empresa grande. \no Los proyectos en donde se evidencie la monetización de la transferencia de conocimiento en los proyectos \nI+D+i realizados en la alianza universidad – empresa. \no Los proyectos en donde evidencie un 70% de participación de mujeres que realicen actividades en CTeI. \n \nNota: Los proyectos que hayan solicitado cancelación de los beneficios tributarios en la vigencia inmediatamente anterior a \nla actual no serán priorizados bajo ninguno de los criterios anteriormente establecidos.",
+      "n_caracteres": 6522
+    },
+    {
+      "numero": 7,
+      "titulo": "CONTENIDO DEL PROYECTO",
+      "titulo_norm": "CONTENIDO DEL PROYECTO",
+      "texto": "Los contenidos solicitados para el registro de los proyectos en el marco de la presente convocatoria se encuentran definidos \nen el documento “Tipología de Proyectos calificados como de carácter científico, tecnológico o de innovación” versión 7 \naprobado por el CNBT, en los numerales 2.1.3 para investigación científica, 2.2.3 para desarrollo y 2.3.3 para innovación.  \n \nNota: Solo se otorgará Beneficio Tributario a las empresas que accederán a la convocatoria en vigencia. La inversión \nasignada a co-ejecutores o actores asociados podrá ser otorgada, excepto en los casos en los que se evidencie que no son \ncontribuyentes del impuesto de renta y complementarios.  \n \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 10 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia",
+      "n_caracteres": 908
+    },
+    {
+      "numero": 8,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "texto": "El registro del proyecto se debe realizar a través del Sistema Integrado de Gestión de Proyectos –SIGP- formulario en línea, \nteniendo en cuenta el siguiente procedimiento: \n \na. Ingresar a la página web del Ministerio de Ciencia, Tecnología e Innovación (www.minciencias.gov.co). \nb. Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, donde se despliega Sistemas de \nInformación- Plataforma SIGP, allí encontrará disponibles los diferentes formularios en línea para aplicar a las \nconvocatorias del Ministerio de Ciencia, Tecnología e Innovación (https://minciencias.gov.co/scienti). \nc. Hacer clic en la opción Formulario en línea para registro de entidades ubicado en la parte derecha,  \nhttps://plataformasigp.minciencias.gov.co:7003/Entidades/. \nd. Realizar el pre-registro de las entidades participantes en el proyecto con la información solicitada. El Ministerio de \nCiencia, Tecnología e Innovación en un periodo de 2 días hábiles remitirá a su correo electrónico de contacto las \ncredenciales de acceso para el ingreso al sistema de registro de entidades, solo si la entidad fue avalada, de lo \ncontrario el sistema enviará un correo informando que la entidad fue rechazada y la razón del rechazo. Se recomienda \nrealizar el pre-registro con los días suficientes de anticipación para realizar el posterior cargue de los documentos \nantes de la fecha de cierre de la convocatoria.  \ne. Ingresar al módulo de entidades con sus credenciales y registrar la información de la entidad ejecutora y entidades \nparticipantes en el proyecto. En caso de encontrarse registradas las entidades en este sistema, no se requiere de un \nnuevo registro, sin embargo, podrá actualizar la información. \nf. Una vez finalizado el registro de la entidad,  Ingresar al enlace de Formulario de Proyectos y/o programas: \nhttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/ \ng. Diligenciar la información solicitada por el formulario en línea para la presentación de los proyectos a la convocatoria. \nPara recibir las credenciales de acceso por correo electrónico deberá registrar como mínimo el título del proyecto, la \nentidad ejecutora, convocatoria, y correo electrónico.  \nh. Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un requisito requiere anexar más \nde un documento, se debe guardar en una sola carpeta y adjuntar como archivo comprimido .ZIP o .RAR en el campo \ncorrespondiente al requisito. Si requiere cambiar algún archivo de los que previamente se adjuntó, puede hacerlo \nexaminando y adjuntando el documento deseado. Es importante resaltar que el tamaño de cada archivo anexado de \ncada uno de los requisitos cuenta con una capacidad máxima de 3MB; para el requisito “Otros adjuntos” tiene una \ncapacidad máxima de 10 MB.  \ni. Para validar, por favor haga clic en el botón “Validar”, ubicado en la parte inferior del menú. Si la información \nregistrada cumple con los criterios solicitados por la convocatoria, la validación será exitosa y se activará la opción \nde Enviar formulario, en caso contrario se mostrará en pantalla la información que no cumple con los criterios \ndefinidos en la convocatoria.  \nj. Una vez se oprime el botón de enviar formulario, el sistema registrará el proyecto y generará su respectivo código \nde identificación.  \nk. Una vez haya sido enviado el proyecto, si la convocatoria se encuentra abierta el sistema le permite modificar el \nproyecto, oprimiendo el botón \"Modificar Proyecto\", para realizar los cambios que considere. Al dar clic en la opción \n\"Modificar Proyecto\" que está en el menú se muestra una pantalla de confirmación con el siguiente mensaje \"¿Está \nseguro de modificar el proyecto?, una vez confirme esta acción el proyecto ya no estará radicado en el Ministerio de \nCiencia, Tecnología e Innovación. Para volver a radicarlo debe validar y enviar de nuevo el proyecto una vez lo haya \nmodificado.\" Cabe aclarar que, si no vuelve a validar y enviar el proyecto al Ministerio de Ciencia, Tecnología e \nInnovación, este no quedará radicado oficialmente en el Ministerio de Ciencia, Tecnología e Innovación y no \ncontinuará con la etapa de revisión de requisitos, así cuente con la pantalla de evidencia de un envío anterior.  \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 11 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \nNotas:  \n \n• Se aceptarán únicamente los proyectos que se presenten a través del formulario en línea con toda la información \nsolicitada en la presente convocatoria. \n• No se tendrá en cuenta para el proceso de evaluación y selección, la información enviada en medios distintos al \nSIGP (correo postal, correo electrónico u otro medio), ni posterior a la fecha y hora límite establecida. Excepto cuando \nsea solicitado directamente por el Ministerio de Ciencia, Tecnología e Innovación. \n• Si requiere anexar documentación adicional del proyecto como: tablas, fórmulas, gráficas, anexos, cartas, etc., \nguárdalos en una sola carpeta y adjuntarlas como archivo .ZIP o .RAR (archivo comprimido), en el requisito de Otros \nadjuntos. Si requieren cambiar algún archivo de l os que previamente adjuntó, puede hacerlo examinando y \nadjuntando el documento deseado. \n• En caso de que se presenten errores en el aplicativo SIGP durante el proceso de inscripción y envío del proyecto o \ndel cargue de la documentación soporte, y por esta razón después de efectuados varios intentos no pueda enviarse \nel proyecto de forma normal dentro del plazo establecido, por favor capturar las pantallas con el mensaje de error \njunto con la fecha y hora en que se presentó el inconveniente que soporte el problema. Remitir antes de la fecha de \ncierre establecida en el Cronograma de los presentes términos de referencia, todas las evidencias de la falla \npresentada exclusivamente a través del formulario electrónico que se encuentra disponible en el enlace \nhttp://www.minciencias.gov.co/ciudadano/canal-pqrds, Con el fin de facilitar el trámite interno de esta solicitud, se \nrecomienda remitir la petición con el asunto: Falla carga SIGP – Convocatoria de inversión 2023, explicando en el \ncuerpo de dicha comunicación los inconvenientes ocurridos durante el envío y anexando las evidencias. El Ministerio \nde Ciencia, Tecnología e Innovación por medio de la Oficina de Sistemas verificará el error reportado.",
+      "n_caracteres": 6487
+    },
+    {
+      "numero": 9,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "texto": "Para todos los efectos legales, la presentación, inscripción o registro del proyecto, de forma inequívoca y exclusivamente para \nlos fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de información, para el \ntratamiento de sus datos personales por parte del Ministerio de Ciencia, Tecnología e Innovación.   \n \n\"El proponente que presente, inscriba o registre el proyecto como persona natural o la persona jurídica, declarará que ha \nrecibido autorización expresa de todas las personas naturales y jurídicas vinculadas al proyecto, para suministrar las \ninformaciones a que hace referencia a la ley de manejo de datos, comprometiéndose a responder ante el Ministerio de Ciencia, \nTecnología e Innovación, por cualquier demanda o litigio, reclamación judicial o extrajudicial, formulada por cualquiera de las \npersonas naturales o jurídicas vinculadas al proyecto. Lo anterior, con lo establecido en la Ley 1581 de 2012 “Por la cual se \ndictan disposiciones generales para la protección de datos personales” y la Política de protección y tratamiento de datos \npersonales del Ministerio de Ciencia, Tecnología e Innovación, disponible en el Manual de Políticas de Seguridad y Privacidad \nde la Información (Código: D103M01)\".",
+      "n_caracteres": 1268
+    },
+    {
+      "numero": 10,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "texto": "Los criterios de evaluación se establecen en cada una de las modalidades. \n \n \n \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 12 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia",
+      "n_caracteres": 315
+    },
+    {
+      "numero": 11,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "texto": "Todos los proyectos evaluados en el marco de la presente convocatoria serán relacionados en un banco informativo. Cada \nmodalidad tendrá su puntaje de aprobación y estos serán considerados para el otorgamiento de los beneficios tributarios por \ninversión, teniendo en cuenta el puntaje de calificación del proyecto, los criterios de p riorización definidos en el Artículo \nsegundo del Acuerdo 32 de 2023 (Anexo 3) o la norma que lo sustituya, y el orden de registro de proyectos.  \n \nSe asignará el respectivo cupo para otorgar beneficios tributarios por inversión hasta el agotamiento del monto aprobado por \nel CNBT mediante el Acuerdo 33 de 2023 (Anexo 4). \n \nLos resultados de la convocatoria se publicarán en la página web del Ministerio de Ciencia, Tecnología e Innovación \n(http://www.minciencias.gov.co) en las fechas establecidas en el Cronograma.   \n \nNotas:  \n \n• La identificación de proyectos en el banco de proyectos calificados se realizará con el código de registro.  \n• La publicación de los proyectos calificados tiene carácter informativo. El Ministerio de Ciencia, Tecnología e \nInnovación notificará mediante acto administrativo motivado el cupo asignado, a los representantes legales de las \nentidades que inscribieron proyectos en la convocatoria, una vez avalada la decisión por parte del CNBT.  \n• En caso de no estar de conforme con la decisión del CNBT, notificada mediante acto administrativo de carácter \nparticular, el interesado podrá interponer recurso de reposición de conformidad con lo señalado en el artículo 74 y \nsiguientes del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, una vez notificado el \ncontenido del respectivo acto administrativo.",
+      "n_caracteres": 1709
+    },
+    {
+      "numero": 12,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "La presente convocatoria se rige bajo el siguiente cronograma: \n \nACTIVIDAD FECHA LÍMITE \nApertura de la convocatoria 24 de octubre de 2023  \nCierre de la convocatoria  07 de noviembre de 2023 Hora: 05:00 pm  \nPeriodo de revisión de requisitos  Del 08 al 20 de noviembre de 2023 \nPublicación del banco de proyectos calificados  29 de diciembre de 2023 \nPeriodo de envío informes técnicos y financieros \n(Crédito fiscal)  \nÚltimo día hábil del mes de enero de 2024  \nEmisión certificado crédito fiscal.  Último día hábil del mes de marzo de 2024  \nPeriodo de envío informes técnicos y financieros \n(Descuento)  Último día hábil del mes de marzo de 2024 \n \n \n \n \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 13 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia \n \n \nNota:  \n \n• En caso de que el monto de la inversión de los proyectos aprobados en esta convocatoria supere al cupo disponible \npara la vigencia 2023, se aplicarán los criterios de priorización definidos en el Artículo segundo del Acuerdo 32 de \n2023 del CNBT (Ver anexo 3) o la norma que lo reglamente o lo sustituya.  \n• Los proponentes que realicen la inscripción por fuera de las fechas y horas estipuladas, la  Plataforma SIGP no \npermitirá realizar estas acciones. Por lo tanto, se entenderán como extemporáneas y no serán tenidas en cuenta \npara continuar el proceso.   \n• El Ministerio de Ciencia, Tecnología e Innovación verificará que los documentos adjuntos presentan la información \nrequerida de forma consistente.  \n• Los beneficios otorgados por el Ministerio de Ciencia, Tecnología e Innovación para facilitar la presentación del \nproyecto no desplazan la responsabilidad de los proponentes de consultar y adjuntar correctamente los documentos \nnecesarios para ser habilitados, evaluados y seleccionados en esta convocatoria.  \n \nDurante la operación de la convocatoria, el proponente podrá verificar el estado actual del trámite, ingresando a través del \nSIGP con su usuario y contraseña, en la opción “Ver envío”.",
+      "n_caracteres": 2130
+    },
+    {
+      "numero": 13,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "texto": "El Ministerio de Ciencia, Tecnología e Innovación podrá modificar el contenido de los términos de referencia, así como su \ncronograma, por las causas establecidas en el Procedimiento Trámite de adendas de condiciones de mecanismos de \noperación de CTeI (Código: M801PR03) (documento disponible en la página web del Ministerio de Ciencia, Tecnología e \nInnovación, Micrositio Calidad). Estas causas incluyen, entre otras: fuerza mayor o caso fortuito, eventos imprevisibles no \natribuibles al Ministerio de Ciencia, Tecnología e Innovación, ajustes a condiciones o cronograma generados por necesidades \nde los grupos de valor o de interés, garantizando que con la modificación no se vulnerará la expectativa prevista de los \nposibles participantes ni los principios de mérito, calidad, equidad y transparencia.",
+      "n_caracteres": 809
+    },
+    {
+      "numero": 14,
+      "titulo": "ROPIEDAD INTELECTUAL",
+      "titulo_norm": "ROPIEDAD INTELECTUAL",
+      "texto": "Atendiendo al objetivo de la convocatoria, la titularidad de los derechos de propiedad intelectual sobre los resultados que se \nobtengan o se pudieran obtener en el marco del desarrollo de la presente convocatoria estará en cabeza de quien adelante o \nejecute el proyecto. Sin perjuicio de lo anterior, cuando aplique, se tendrá en cuenta lo establecido en el artículo 170 de la Ley \n2294 de 2023. \n \nEn todo caso, el Ministerio de Ciencia, tecnología e Innovación respetará los derechos morales de las personas naturales que \nparticipen en los proyectos derivados de la presente convocatoria.",
+      "n_caracteres": 593
+    },
+    {
+      "numero": 15,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "texto": "Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003, podrán desarrollar su actividad durante la \npresente convocatoria, conforme a lo estipulado en dicha normativa.  \n \n \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 14 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia",
+      "n_caracteres": 429
+    },
+    {
+      "numero": 16,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "texto": "Anexo 1: Documento “Tipología de Proyectos Calificados como de Carácter Científico, Tecnológico e Innovación versión 7”. \nAnexo 2: Carta de cooperación o de intención con actor internacional. \nAnexo 3: Acuerdo 32 de 2023. \nAnexo 4: Acuerdo 33 de 2023. \nAnexo 5: Acuerdo 34 de 2023. \nAnexo 6: Carta de presentación, aval y aceptación de compromisos. \nAnexo 7: Decreto 957 de 2019.  \nAnexo 8: Decreto 1011 de 2020 \nAnexo 9: Formato Alianza Empresa Grande con Micro, Pequeña y Mediana empresa. \nAnexo 10: Condiciones específicas para la modalidad de participación 1: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Crédito Fiscal) en proyectos de Ciencia, Tecnología e Innovación año \n2023 para Micro y Pequeñas empresas – MIPES. \nAnexo 11: Condiciones específicas para la modalidad de participación 2: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Crédito Fiscal) en proyectos de Ciencia, Tecnología e Innovación año \n2023 para Medianas empresas.  \nAnexo 12: Condiciones específicas para la modalidad de participación 3: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Crédito Fiscal) en proyectos de Ciencia, Tecnología e Innovación año \n2023 para empresas Grandes en alianza con Micro, Pequeñas y Medianas empresas – MIPYMES \nAnexo 13: Condiciones específicas para la modalidad de participación 4: Convocatoria para el registro de proyectos que \naccederán a los beneficios tributarios por inversión (Descuento) en proyectos de Ciencia, Tecnología e innovación año 2023 \npara Micro, Pequeñas, Medianas y Grandes empresas",
+      "n_caracteres": 1683
+    },
+    {
+      "numero": 17,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "texto": "Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la presente convocatoria, así como \nlo dispuesto en los presentes términos de referencia para su desarrollo y la entrega del recurso o beneficio objeto de esta. \nUna vez presentado el proyecto no será posible alegar desconocimiento de los requisitos y condiciones de los términos de \nreferencia y sus anexos. Cualquier aclaración o solicitud de revisión de resultados preliminares debe realizarse según lo \ndefinido en el cronograma.   \n \nDe igual forma, al postular el proyecto, el responsable o representante legal declara que la información suministrada es veraz \ny se hace responsable de la misma. En caso de encontrarse alguna incoherencia y/o inconsistencia en la información o \ndocumentación suministrada, el Ministerio de Ciencia, Tecnología e Innovación podrá en cualquier momento rechazar el \nproyecto o, si es del caso, declarar la pérdida del beneficio, sin perjuicio de las acciones legales correspondientes.  \n \nCuando el proponente, postulante o beneficiario directo renuncie al incentivo debe presentar documento de manifestación \nvoluntaria para renunciar al beneficio, en el que se incluya como mínimo la siguiente información: identificación, convocatoria \nen la que participó, beneficio al que está renunciando; motivos por los cuales renuncia (opcional), teléfono de contacto, correo \nelectrónico, dirección de correspondencia. Este documento deberá estar firmado por el representante legal o beneficiario \ndirecto. El documento de declinación voluntaria deberá ser radicado en los canales habilitados por el Ministerio de Ciencia, \nTecnología e Innovación: formulario en línea de PQRDS https://minciencias.gov.co/contact o al c orreo electrónico \natencionalciudadano@minciencias.gov.co. La cancelación de proyectos en ejecución se regulará según lo dispuesto en el \nAcuerdo 32 de 2023 del CNBT o norma que los modifique o sustituya.  \n   \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 15 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia",
+      "n_caracteres": 2184
+    },
+    {
+      "numero": 18,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "texto": "MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN \n \nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C. \nhttp://www.minciencias.gov.co \n \nAtención al Ciudadano \nTeléfono: (+57) (601) 6258480 Extensión 2081 \nLínea gratuita nacional: 018000 914446 \nHorario: Lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua). \n \nEn caso de inquietudes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se \nencuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “Convocatoria de \nBeneficios Tributarios por Inversión, Propuesta ID [indicar los últimos 5 dígitos del código de la propuesta]”. \n \n \n \n \n \n \n \nCLAUDIA CONSUELO CEPEDA BENITO \nDirectora de Desarrollo Tecnológico e innovación (e) \nSecretaría técnica del CNBT (e) \n \nElaboró: Diana Julieth Plata Cárdenas / Contratista / DDTI BT  \nVBo: Bibiana Constanza Rivera Bonilla / Profesional Especializado / DDTI BT",
+      "n_caracteres": 983
+    }
+  ]
+}

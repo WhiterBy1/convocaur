@@ -1,0 +1,343 @@
+{
+  "convocatoria": "927",
+  "objetivo": null,
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior (IES)",
+      "rol": "Miembro de la alianza",
+      "condicion": "IES colombianas (Instituciones Técnicas Profesionales, Instituciones Tecnológicas, Instituciones Universitarias/Escuelas Tecnológicas, Universidades) representadas por al menos un grupo de investigación clasificado A, A1, B, C o reconocido por Minciencias, vigente al cierre."
+    },
+    {
+      "tipo": "Centros o Institutos de Investigación",
+      "rol": "Miembro de la alianza",
+      "condicion": "Organizaciones públicas, privadas o mixtas independientes, reconocidas por Minciencias como centros/institutos de investigación o en proceso de renovación del reconocimiento al cierre."
+    },
+    {
+      "tipo": "Centros de Desarrollo Tecnológico",
+      "rol": "Miembro de la alianza",
+      "condicion": "Organizaciones públicas o privadas reconocidas por Minciencias como centros de desarrollo tecnológico o en proceso de renovación al cierre. Deben demostrar experiencia en transferencia de conocimiento y tecnología en áreas estratégicas."
+    },
+    {
+      "tipo": "Centros de Innovación y Productividad",
+      "rol": "Miembro de la alianza",
+      "condicion": "Organizaciones públicas o privadas con personería jurídica propia o dependientes, reconocidas por Minciencias o en proceso de renovación al cierre. Deben demostrar experiencia en innovación en áreas estratégicas."
+    },
+    {
+      "tipo": "Sector productivo",
+      "rol": "Miembro de la alianza",
+      "condicion": "Persona jurídica de economía mixta, pública o privada, o gremio (empresas, organizaciones sin ánimo de lucro, fundaciones, agremiaciones, organizaciones solidarias de desarrollo, incluyendo IPS). Se espera que viabilicen adopción/adaptación de conocimiento y tecnología."
+    },
+    {
+      "tipo": "Instituciones Extranjeras",
+      "rol": "Miembro de la alianza",
+      "condicion": "Instituciones internacionales, centros de investigación, desarrollo tecnológico y/o innovación con producción científica/tecnológica de impacto en los últimos 6 años en la temática, o empresas extranjeras con representación legal en Colombia con experiencia en comercialización de tecnologías/productos esperados."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Ciencias de la Vida y de la Salud",
+      "modalidad": null,
+      "descripcion_corta": "Área estratégica enfocada en el desarrollo de una industria nacional de tecnologías para la salud basada en I+D+i."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta completa en el SIGP antes de la fecha límite, incluyendo la información requerida en el Anexo 4.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato de presentación de la tecnología (Anexo 12) con identificación del TRL y MRL según Anexo 9.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de aval unificada y compromiso institucional (Anexo 5) debidamente diligenciada y firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Evidenciar constitución legal de entidades del sector productivo (registro mercantil o acto administrativo); para spin-off, documento que la identifica.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No encontrarse en proceso de liquidación; presentar certificados de contador/revisor fiscal; si extranjera, demostrar sucursal en Colombia.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar y adjuntar el Anexo 7: Experiencia en proyectos de I+D+i de los últimos 6 años.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Comprometer contrapartida mínima del 30% del valor total del programa; las empresas deben aportar mínimo 10% del valor de su contrapartida en dinero.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar concepto de un comité de ética/bioética con el acto administrativo que soporta su conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias de trámite o existencia de permisos y licencias ambientales cuando sean necesarios.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Articular al menos tres proyectos de I+D+i que aborden las dos fases de desarrollo de la tecnología establecidas.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El representante legal de la Entidad Coordinadora debe garantizar el cumplimiento de compromisos internacionales.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar y adjuntar Anexo 6 - Capacidades Administrativas, Financieras y de Adquisiciones de la Entidad Coordinadora.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar estrategia de sostenibilidad económica, social y ambiental de la iniciativa más allá de la temporalidad del programa.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Conformar equipo ejecutor con mínimo un investigador con reconocimiento vigente (Emérito, Senior, Asociado o Junior) de un grupo de investigación reconocido en Colombia.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir en el equipo ejecutor un investigador vinculado laboralmente a una empresa participante (opcional), con dedicación medio tiempo y experiencia en I+D+i.",
+      "tipo": "tecnico",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Incluir en el equipo ejecutor un investigador vinculado a una institución extranjera (opcional) con experiencia verificable en el área temática.",
+      "tipo": "tecnico",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "El Director Científico debe tener reconocimiento vigente como Emérito o Senior y estar vinculado a un grupo de investigación reconocido.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir personal vinculado a la Entidad Coordinadora: un Director Administrativo (profesional en gerencia de proyectos, >3 años experiencia, preferible certificación).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir personal vinculado a la Entidad Coordinadora: un profesional con experiencia general en contrataciones y mínima 1 año en CTeI.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir personal vinculado a la Entidad Coordinadora: un profesional con experiencia mínima 2 años en seguimiento financiero de proyectos de CTeI.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Identificar roles y responsabilidades de todos los integrantes del equipo ejecutor en el SIGP; personal científico residente en Colombia debe crear/actualizar CvLAC; internacionales o no científico adjuntar hojas de vida.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Si una entidad presenta más de tres (3) programas en calidad de Entidad Coordinadora, solo se tendrán en cuenta los tres primeros registrados."
+    },
+    {
+      "texto": "Si un investigador participa en más de dos (2) programas en calidad de Director Científico, solo se tendrán en cuenta los dos primeros registrados."
+    },
+    {
+      "texto": "El programa presentado no podrá ser financiado simultáneamente con recursos de otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación."
+    },
+    {
+      "texto": "Estar incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley y/o que tenga algún impedimento legal para contratar."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Resultados e impactos esperados",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Pertinencia de la propuesta",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Composición y capacidad del equipo ejecutor",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Potencial comercial de los resultados",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "QUINCE MIL MILLONES DE PESOS – M/CTE ($15.000.000.000)",
+    "monto_total_cop": 15000000000.0,
+    "plazo_min_meses": 36,
+    "plazo_max_meses": 48,
+    "contrapartida_pct_min": 30.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "Se financia hasta el 70% del valor total de la propuesta. Contrapartida mínima del 30% del valor total. Las microempresas y spin-off no están obligadas a contrapartida en dinero. Centros autónomos o institutos públicos reconocidos no están obligados a contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8392,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2422,
+          "completion_tokens": 743
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2742,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1052,
+          "completion_tokens": 76
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10477,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3131,
+          "completion_tokens": 3498
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 868,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 478,
+          "completion_tokens": 179
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6235,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2065,
+          "completion_tokens": 190
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3078,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1155,
+          "completion_tokens": 235
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "Miembro de la alianza",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES)",
+          "rol": "Miembro de la alianza",
+          "condicion": "IES colombianas (Instituciones Técnicas Profesionales, Instituciones Tecnológicas, Instituciones Universitarias/Escuelas Tecnológicas, Universidades) representadas por al menos un grupo de investigación clasificado A, A1, B, C o reconocido por Minciencias, vigente al cierre."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "IES colombianas (Instituciones Técnicas Profesionales, Instituciones Tecnológicas, Instituciones Universitarias/Escuelas Tecnológicas, Universidades) representadas por al menos un grupo de investigación clasificado A, A1, B, C o reconocido por Minciencias, vigente al cierre.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con al menos un grupo de investigación clasificado A, A1, B, C o reconocido por Minciencias vigente al cierre de la convocatoria.",
+          "Cumplir con la contrapartida mínima del 30% del valor total del programa."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Debe verificar que cuenta con grupos de investigación categorizados y asegurar la contrapartida financiera requerida."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con al menos un grupo de investigación clasificado A, A1, B, C o reconocido por Minciencias vigente al cierre de la convocatoria.",
+        "Cumplir con la contrapartida mínima del 30% del valor total del programa."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Debe verificar que cuenta con grupos de investigación categorizados y asegurar la contrapartida financiera requerida.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

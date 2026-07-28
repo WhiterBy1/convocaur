@@ -1,0 +1,376 @@
+{
+  "convocatoria": "965",
+  "objetivo": "Conformar un Banco de Propuestas Elegibles en las modalidades Nacional y Regional para el desarrollo de propuestas conjuntas de movilidad internacional, con duración de dos años (DAAD, Alemania) o tres años (ECOS NORD, Francia), dirigido a investigadores colombianos o extranjeros residentes en Colombia con reconocimiento vigente de Minciencias, y a estudiantes de doctorado o profesionales con maestría, en el marco de proyectos de investigación, desarrollo tecnológico e innovación.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad del Sistema Nacional de Ciencia, Tecnología e Innovación",
+      "rol": "Proponente",
+      "condicion": "Incluye: Instituciones de Educación Superior, Centros y/o Institutos de Investigación, Centros de Desarrollo tecnológico, Centros de Innovación y Productividad, Unidades de I+D+i, Centros de Ciencia, Oficinas de Transferencia de Resultados de Investigación, Incubadoras de empresas de base tecnológico, Empresas altamente innovadoras, entre otros."
+    },
+    {
+      "tipo": "Investigador colombiano o extranjero domiciliado en Colombia con reconocimiento vigente del Ministerio de Ciencia, Tecnología e Innovación",
+      "rol": "Beneficiario",
+      "condicion": "Modalidad Nacional: lugar de nacimiento en áreas metropolitanas o región metropolitana Bogotá-Cundinamarca; Modalidad Regional: lugar de nacimiento diferente a esas áreas."
+    },
+    {
+      "tipo": "Estudiante de doctorado con registro calificado vigente del Ministerio de Educación Nacional",
+      "rol": "Beneficiario",
+      "condicion": "Solo Modalidad Nacional: lugar de nacimiento en áreas metropolitanas o región metropolitana Bogotá-Cundinamarca."
+    },
+    {
+      "tipo": "Profesional con título de maestría",
+      "rol": "Beneficiario",
+      "condicion": "Solo Modalidad Regional: lugar de nacimiento fuera de áreas metropolitanas o región metropolitana Bogotá-Cundinamarca."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Bioeconomía y territorio",
+      "modalidad": "Misión PIIOM",
+      "descripcion_corta": "Potenciar el desarrollo territorial sostenible mediante el conocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos."
+    },
+    {
+      "nombre": "Derecho humano a la alimentación",
+      "modalidad": "Misión PIIOM",
+      "descripcion_corta": "Producir y disponer alimentos y agua de manera eficiente, soberana, autónoma y equitativa, por medio de la investigación y la innovación."
+    },
+    {
+      "nombre": "Transición energética",
+      "modalidad": "Misión PIIOM",
+      "descripcion_corta": "Garantizar el acceso y uso de energías seguras y sostenibles para todos los colombianos, a través del desarrollo, adopción y adaptación de tecnologías para la transición energética."
+    },
+    {
+      "nombre": "Soberanía sanitaria",
+      "modalidad": "Misión PIIOM",
+      "descripcion_corta": "Garantizar la disponibilidad de conocimiento, tecnologías y servicios innovadores para la salud y el bienestar de toda la población colombiana."
+    },
+    {
+      "nombre": "Ciencia para la paz",
+      "modalidad": "Misión PIIOM",
+      "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia y comprender las diversas causas de violencia como base para construir soluciones tecnológicas y sociales que fomenten la convivencia pacífica."
+    },
+    {
+      "nombre": "Ciudades Inteligentes",
+      "modalidad": "Aliado ECOS NORD (Francia)",
+      "descripcion_corta": "Proyectos que utilizan tecnología, datos y estrategias innovadoras para mejorar la calidad de vida, eficiencia de servicios públicos y promover desarrollo sostenible e integral en áreas urbanas y rurales."
+    },
+    {
+      "nombre": "Ciencias de la Educación",
+      "modalidad": "Aliados ECOS NORD (Francia) y DAAD (Alemania)",
+      "descripcion_corta": "Disciplinas que estudian la educación, prácticas educativas con didácticas de la ciencia, y estudios CTS, buscando identificar perspectivas actuales con tecnologías emergentes e innovaciones educativas."
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "modalidad": "Aliados ECOS NORD (Francia) y DAAD (Alemania)",
+      "descripcion_corta": "Investigación, desarrollo tecnológico o innovación para soluciones sostenibles a problemas y necesidades reales mediante el uso de Inteligencia Artificial."
+    },
+    {
+      "nombre": "Ciencias del Espacio",
+      "modalidad": "Aliados ECOS NORD (Francia) y DAAD (Alemania)",
+      "descripcion_corta": "Ciencia espacial realizada desde vehículos en la atmósfera superior o más allá, abarcando disciplinas como meteorología, geología, ciencias lunar, solar, planetaria, astronomía, astrofísica y ciencias de la vida."
+    },
+    {
+      "nombre": "Ciencia y Tecnologías Cuánticas",
+      "modalidad": "Aliados ECOS NORD (Francia) y DAAD (Alemania)",
+      "descripcion_corta": "Tomar efectos cuánticos conocidos para traducirlos en aplicaciones tecnológicas y desarrollar nuevos productos que fomenten el desarrollo de CTeI y solucionen problemas locales, regionales o nacionales."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'Dirigido a' de los TdR, con coherencia entre SIGP y Anexo 1. No subsanable.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta Unificada de Aval y Compromiso Institucional (Anexo 1) debidamente diligenciada y firmada por representante legal o apoderado. Subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Entidad SNCTI constituida 24 meses antes del cierre, con certificado de existencia y representación legal expedido por Cámara de Comercio o MEN (fecha ≤3 meses). Subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Experiencia Académica, Profesional e Investigativa (Anexo 2) diligenciado y firmado por investigador principal. No subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Formato de Movilidad (Anexo 3) diligenciado con datos de postulantes, productos esperados y cronograma. No subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuesta de Movilidad en marco de proyecto I+D+I en PDF con contenido del numeral 11. No subsanable.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuesta postulada y cargada en plataforma de la entidad aliada (ECOS NORD o DAAD), adjuntando captura de pantalla. Subsanable.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Investigador: ser ciudadano colombiano o extranjero residente en Colombia, adjuntar cédula de ciudadanía o extranjería legible. Subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estudiante de doctorado: ser ciudadano colombiano, adjuntar cédula de ciudadanía legible. Subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estudiante de doctorado: certificado de estudiante activo expedido ≤60 días al cierre, programa con registro calificado vigente. Subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Profesional graduado con título de maestría: ser ciudadano colombiano, adjuntar cédula de ciudadanía legible. Subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Profesional graduado con título de maestría: anexar diploma de grado y/o acta de grado. Subsanable.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial y/o interseccional: opcional, adjuntar documentación según Tabla No. 1. Subsanable.",
+      "tipo": "otro",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Todos los postulantes deben tener CVLAC registrado y actualizado para inscripción en SIGP.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta no puede ser financiada simultáneamente con recursos de otra convocatoria del MinCiencias, SGR u otras entidades del Estado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los aspirantes no pueden ser beneficiarios de otra convocatoria que apoye movilidades internacionales con recursos del MinCiencias, SGR u otras entidades.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad y su representante legal no pueden estar incursos en prohibiciones, incompatibilidades, impedimentos o inhabilidades establecidas en la Ley.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad o incompatibilidad para contratar según Constitución, Ley 80/1993, Ley 1474/2011, etc.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Documentos en idioma diferente al español deben adjuntar traducción oficial al español, ambos en un único PDF.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Coherencia y articulación de la propuesta con la Política de Investigación e Innovación Orienta por Misiones (PIIOM) y la línea temática seleccionada, los fundamentos científicos del área del conocimiento, los objetivos, el cronograma de actividades y los productos esperados.",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Congruencia del diseño metodológico, de acuerdo con la tipología de la propuesta de I+D+i (en el marco de un proyecto de investigación, desarrollo tecnológico y/o innovación) y correspondencia entre los procedimientos de recolección, procesamiento, análisis e interpretación de datos para alcanzar los objetivos planteados en la propuesta.",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Experiencia y formación del Investigador relacionada con la temática de la propuesta de I+D+i, la Política de Investigación e Innovación Orienta por Misiones (PIIOM) y la línea temática seleccionada.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Experiencia y formación de las personas que conforman el equipo de investigación relacionada a la temática de la propuesta de I+D+i, la Política de Investigación e Innovación Orienta por Misiones (PIIOM) y la línea temática seleccionada.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Asignación de los recursos de acuerdo con lo planteado en la propuesta de I+D+i, así como la proyección de distribución de los mismos para la movilización de los beneficiarios.",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Correlación entre los productos esperados, el planteamiento de la propuesta de I+D+i y el indicador para su medición, por la cual se promueva la generación de procesos de circulación del conocimiento especializado entre las comunidades de expertos.",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Articulación entre la justificación de las necesidades de la movilidad internacional, con el marco de la propuesta, los productos y los resultados esperados.",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Descripción y planteamiento del impacto de la propuesta de I+D+i sobre la cooperación bilateral entre los dos países involucrados (Colombia y Alemania o Colombia y Francia), la Política de Investigación e Innovación Orienta por Misiones (PIIOM) y la línea temática seleccionada en el corto, mediano y largo plazo.",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Planteamiento de soluciones a las necesidades de CTeI en sectores estratégicos para el desarrollo productivo y social de las regiones, específicamente, en uno de los departamentos categorizados por el IDIC como medio, medio bajo o bajo o en alguno de los municipios del Programa de Desarrollo con Enfoque Territorial (PDET), de acuerdo con la modalidad de participación seleccionada (Nacional o Regional).",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Al menos una de las personas del equipo de investigación deberá acreditar hacer parte de un grupo considerado dentro del enfoque diferencial en la Tabla No. 1 “Categorías de enfoque diferencial e interseccional para los participantes (Estudiantes de doctorado y/o profesionales con título de maestría, investigadores colombianos o extranjeros domiciliados en Colombia)”.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "La propuesta beneficia a personas que pertenecen a población diferencial, en una o más categorías de las enunciadas en la Tabla No. 2 “ Categorías de enfoque diferencial para POBLACIÓN BENEFICIARIA de la propuesta de proyecto de investigación, desarrollo tecnológico y/o innovación”.",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "QUINIENTOS SETENTA Y NUEVE MILLONES DOSCIENTOS CINCUENTA Y CUATRO MIL PESOS M/CTE ($579.254.000.00)",
+    "monto_total_cop": 579254000.0,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": 50.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "Las entidades postulantes deben aportar contrapartida mínima del 50% del valor solicitado. Centros Autónomos reconocidos por Minciencias están exentos de contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 668,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 387,
+          "completion_tokens": 398
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3254,
+        "intento": 2,
+        "usage": {
+          "prompt_tokens": 1143,
+          "completion_tokens": 2683
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5869,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1845,
+          "completion_tokens": 819
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4273,
+          "completion_tokens": 3085
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5688,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2103,
+          "completion_tokens": 1430
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4761,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1750,
+          "completion_tokens": 4090
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "proponente",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la universidad cuenta con investigadores reconocidos por Minciencias para ser beneficiarios",
+          "Verificar que la universidad puede establecer alianza con DAAD o ECOS NORD",
+          "Verificar que la universidad cumple con los requisitos de experiencia y capacidad institucional"
+        ],
+        "resumen": "La Universidad del Rosario, como Institución de Educación Superior privada acreditada y reconocida por el SNCTI, es elegible para postularse como proponente en esta convocatoria de movilidad internacional. Debe cumplir con los requisitos documentales y técnicos, incluyendo la alianza con la entidad extranjera (DAAD o ECOS NORD) y la presentación de propuestas de movilidad en el marco de proyectos I+D+I."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad cuenta con investigadores reconocidos por Minciencias para ser beneficiarios",
+        "Verificar que la universidad puede establecer alianza con DAAD o ECOS NORD",
+        "Verificar que la universidad cumple con los requisitos de experiencia y capacidad institucional"
+      ],
+      "resumen": "La Universidad del Rosario, como Institución de Educación Superior privada acreditada y reconocida por el SNCTI, es elegible para postularse como proponente en esta convocatoria de movilidad internacional. Debe cumplir con los requisitos documentales y técnicos, incluyendo la alianza con la entidad extranjera (DAAD o ECOS NORD) y la presentación de propuestas de movilidad en el marco de proyectos I+D+I.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

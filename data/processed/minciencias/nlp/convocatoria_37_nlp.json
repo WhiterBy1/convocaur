@@ -1,0 +1,130 @@
+{
+  "convocatoria": "37",
+  "objetivo": null,
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad u organización nacional reconocida como actor del SNCTI",
+      "rol": "Integrante de la alianza",
+      "condicion": "Reconocimiento vigente a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Actor que agremie o agrupe empresas",
+      "rol": "Integrante de la alianza",
+      "condicion": "Por ejemplo: gremios, asociaciones empresariales, cámaras de comercio, iniciativas clúster"
+    },
+    {
+      "tipo": "Entidad u organización de carácter internacional",
+      "rol": "Integrante de la alianza",
+      "condicion": "Debe presentar carta entidad internacional; no requiere NIT"
+    },
+    {
+      "tipo": "Organización de sociedad civil",
+      "rol": "Integrante de la alianza",
+      "condicion": "Formalmente constituida como organizaciones campesinas, asociaciones, ONG, etc."
+    },
+    {
+      "tipo": "Entidad proponente",
+      "rol": "Proponente y ejecutor del proyecto",
+      "condicion": "Debe acreditar adecuado desempeño (si aplica), experiencia en mínimo 3 proyectos de CTI en últimos 10 años (al menos uno financiado con SGR), y experiencia adicional en biodiversidad o infraestructura según corresponda"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 0,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 220,
+          "completion_tokens": 297
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7558,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2389,
+          "completion_tokens": 1975
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12948,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3248,
+          "completion_tokens": 138
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible",
+          "Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional"
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque su tipo institucional (IES/universidad) no está incluido entre los actores elegibles. La convocatoria exige alianzas obligatorias y solo permite ciertos tipos de actores como proponentes o integrantes."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible",
+        "Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional"
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque su tipo institucional (IES/universidad) no está incluido entre los actores elegibles. La convocatoria exige alianzas obligatorias y solo permite ciertos tipos de actores como proponentes o integrantes.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

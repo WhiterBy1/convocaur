@@ -1,0 +1,358 @@
+{
+  "convocatoria": "49",
+  "objetivo": "Impulsar el desarrollo de proyectos de I+D+i en soluciones energéticas sostenibles, adaptadas a los contextos territoriales y comunitarios, que garanticen el acceso equitativo a energía limpia, promuevan la innovación local y fortalezcan las capacidades técnicas y sociales para una transición energética justa en las regiones. Se busca conformar un banco de proyectos elegibles, en el marco del “Reto 3. Asegurar la generación, acceso y uso de energías sostenibles para todos” del Plan de convocatorias públicas, abiertas y competitivas de la asignación para la ciencia, tecnología e innovación del Sistema General de Regalías bienio 2025-2026.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad del SNCTI",
+      "rol": "ejecutora",
+      "condicion": "Debe cumplir con los literales a) o b) del artículo 1.2.3.2.2. del Decreto 1821 de 2020. Si tiene reconocimiento vigente, adjuntar resolución; si no, aportar dos proyectos de CTI."
+    },
+    {
+      "tipo": "Sociedad Civil Organizada",
+      "rol": "miembro de alianza",
+      "condicion": "Pertenecer a una Comunidad Energética constituida o en proceso de conformación (con soporte del trámite según Decreto 2236 de 2023)."
+    },
+    {
+      "tipo": "Universidad o Institución Universitaria acreditada",
+      "rol": "miembro de alianza",
+      "condicion": "Personería jurídica vigente del MEN, representada por grupo o centro de investigación. Debe acreditar desempeño adecuado según DNP, salvo que no haya sido medida."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Diversificación de la matriz energética",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos para reducir dependencia de fósiles y ampliar portafolio energético con tecnologías limpias, seguras y sostenibles, con TRL mínimo 7."
+    },
+    {
+      "nombre": "Nuevas tecnologías emergentes",
+      "modalidad": null,
+      "descripcion_corta": "Innovaciones disruptivas para descarbonizar el sistema energético, mejorando eficiencia y sostenibilidad, con TRL mínimo 5."
+    },
+    {
+      "nombre": "Almacenamiento y flexibilidad del sistema",
+      "modalidad": null,
+      "descripcion_corta": "Tecnologías avanzadas de almacenamiento de energía para garantizar confiabilidad y flexibilidad del sistema, con TRL mínimo 6."
+    },
+    {
+      "nombre": "Inteligencia artificial para la transición energética",
+      "modalidad": null,
+      "descripcion_corta": "Uso de técnicas de IA para optimizar la operación y reducir pérdidas en el cambio hacia un modelo energético sostenible, con TRL mínimo 7."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del numeral 'Dirigida a' de los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Instituciones de Educación Superior: personería jurídica vigente expedida por el Ministerio de Educación Nacional.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Centros/Institutos de Investigación o Centros de Ciencia: reconocimiento como Actor del SNCTI vigente al momento de apertura de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) conforme a la metodología del DNP, salvo que no haya sido objeto de medición.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Respetar el límite de máximo dos proyectos por línea temática por entidad proponente; en caso de radicar más, solo se considera el primero registrado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Indicar el lugar de ejecución del proyecto de acuerdo con la clasificación de regiones del SGR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener y vincular al proyecto al menos un Grupo de Investigación de categorías A1, A o B según clasificación vigente de Minciencias, adjuntando captura de pantalla de GrupLAC.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1) debidamente diligenciada y firmada por los representantes legales o apoderados de todas las entidades de la alianza.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Documento técnico (Anexo 2) conforme al contenido indicado en el numeral 12, incluido en la plataforma SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Presupuesto (Anexo 3) con estudio de mercado, cotizaciones o análisis de precios unitarios, cumpliendo condiciones de duración y financiación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el proyecto de inversión formulado en la Metodología General Ajustada (MGA) WEB en borrador, con todos los campos diligenciados en la Tipología D.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar Certificado de no financiación con otras fuentes de recursos, suscrito por el Representante Legal de la entidad donde se ejecutará el proyecto.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar Aval del Comité de Ética de la Investigación o de Bioética (si aplica), con el acto administrativo que soporta la conformación del Comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe atender al menos un reto a través de al menos una de las demandas territoriales descritas en el Anexo 4, impactando departamentos de al menos una región del SGR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar Cartas de participación firmadas por el representante legal de cada entidad, incluyendo nombre del proyecto, conocimiento y compromiso, y para grupos de investigación el nombre del grupo y justificación técnica.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo: estar constituidas como mínimo un año antes de la apertura de la convocatoria y presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades del sector productivo no deben encontrarse en proceso de liquidación o reestructuración.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Todos los participantes de la alianza deben cuantificar y reportar su aporte de contrapartida (especie o efectivo) en la carta aval y modelo de gobernanza, coincidiendo con lo reportado en SIGP.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Garantizar completa coherencia entre la información consignada en el SIGP y el Anexo 2 (Documento Técnico).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si se presenta un apoderado, anexar el/los documento(s) que lo(s) acrediten y faculten.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las organizaciones y/o comunidades interesadas en participar como proponente o aliado deben contar con representación legal para suscribir el Anexo 1.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21 CRONOGRAMA de la presente convocatoria."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto no se encuentre en el rango señalado en los presentes términos en el numeral 14 DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido - y los soportes respectivos solicitados en el requisito -Aval del Comité de Ética - no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender los retos estratégicos de Ciencia, Tecnología e Innovación a través de por lo menos una demanda territorial (ver Anexo 4), para cada uno de los departamentos pertenecientes a la región objeto del proyecto."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales competentes sobre esta situación."
+    },
+    {
+      "texto": "Cuando una misma entidad ostente al mismo tiempo la calidad de Proponente y Beneficiario en un mismo proyecto."
+    },
+    {
+      "texto": "Cuando se identifique que el mismo proyecto ha sido presentado por diferentes entidades proponentes."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o no aporte alguno de los requisitos exigidos o cargue de documentos sin la totalidad de las firmas."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "PERTINENCIA E IMPACTO DEL PROYECTO EN ATENCIÓN A LAS DEMANDAS TERRITORIALES ESTABLECIDAS EN LOS RETOS DEL PLAN DE CONVOCATORIAS 2025-2026",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la articulación del proyecto con las demandas territoriales y su contribución a la solución de problemáticas regionales."
+    },
+    {
+      "nombre": "CALIDAD TÉCNICO – CIENTÍFICA Y PRESUPUESTAL DEL PROYECTO",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia técnica, científica y presupuestal del proyecto, incluyendo subcriterios de articulación de componentes, presupuesto y alineación con políticas."
+    },
+    {
+      "nombre": "CONTRIBUCIÓN AL DESARROLLO REGIONAL Y AL FORTALECIMIENTO DE CAPACIDADES PROPIAS EN MATERIA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN",
+      "puntaje_max": 27.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la contribución del proyecto al desarrollo regional y al fortalecimiento de capacidades en CTeI, incluyendo subcriterios de productos, vinculación de personal y apropiación social."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "TRESCIENTOS SETENTA Y SIETE MIL SEISCIENTOS TREINTA Y NUEVE MILLONES NOVECIENTOS CINCUENTA Y SIETE MIL SEISCIENTOS DOS PESOS M/CTE ($377.639.957.602)",
+    "monto_total_cop": 377639957602.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2025-2026",
+    "notas": "Asignación de 4 proyectos por cada una de las 6 regiones, total 24 proyectos con valor entre $13.000.000.000 y $15.708.000.000. Recursos para movilidad no exceden 5% del monto solicitado al SGR; infraestructura no excede 20% del valor total del proyecto."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 986,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 523,
+          "completion_tokens": 753
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6207,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2070,
+          "completion_tokens": 270
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7025,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2176,
+          "completion_tokens": 285
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4283,
+          "completion_tokens": 3194
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3353,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1190,
+          "completion_tokens": 719
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11063,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3474,
+          "completion_tokens": 264
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4320,
+          "completion_tokens": 359
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "miembro de alianza",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Universidad o Institución Universitaria acreditada",
+          "rol": "miembro de alianza",
+          "condicion": "Personería jurídica vigente del MEN, representada por grupo o centro de investigación. Debe acreditar desempeño adecuado según DNP, salvo que no haya sido medida."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Personería jurídica vigente del MEN, representada por grupo o centro de investigación. Debe acreditar desempeño adecuado según DNP, salvo que no haya sido medida.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Personería jurídica vigente del MEN",
+          "Acreditar desempeño adecuado según DNP (IGPR) o no haber sido medido",
+          "Contar con al menos un grupo de investigación categoría A1, A o B según Minciencias"
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianzas obligatorias, por lo que solo puede participar como miembro de una alianza, no en solitario. Debe verificar su personería jurídica, desempeño en el IGPR y disponibilidad de grupos de investigación categorizados."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Personería jurídica vigente del MEN",
+        "Acreditar desempeño adecuado según DNP (IGPR) o no haber sido medido",
+        "Contar con al menos un grupo de investigación categoría A1, A o B según Minciencias"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianzas obligatorias, por lo que solo puede participar como miembro de una alianza, no en solitario. Debe verificar su personería jurídica, desempeño en el IGPR y disponibilidad de grupos de investigación categorizados.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

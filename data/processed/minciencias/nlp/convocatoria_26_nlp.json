@@ -1,0 +1,218 @@
+{
+  "convocatoria": "26",
+  "objetivo": null,
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustada al objetivo de la convocatoria y con la información requerida en el numeral 7.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigida A' establecidas en el mecanismo de participación al que se postula la propuesta.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar 'Carta de aval y compromiso institucional unificada' debidamente diligenciada y firmada por los representantes legales o apoderados de todas las entidades nacionales que la conformen (Anexo 1b).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico de acuerdo con el contenido indicado en el numeral 7, subnumeral 7.1 (Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto requerido de acuerdo con el numeral 7, subnumeral 7.2 (Anexo 3), cumpliendo con el monto establecido para el mecanismo de participación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el modelo de gobernanza de la alianza suscrito por los representantes legales o apoderados de las entidades nacionales que hacen parte de la alianza (Anexo 4).",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente o aliados' debidamente diligenciado (Anexo 5), con soportes en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar los documentos adicionales correspondientes al mecanismo de participación al que se postula el proyecto, según la sección 'DOCUMENTOS ADICIONALES ESPECÍFICOS PARA EL MECANISMO DE PARTICIPACIÓN'.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta de proyecto debe ajustarse a las condiciones y requisitos establecidos en los términos de referencia y mecanismos de participación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente o miembros de la alianza deben cumplir con los términos y condiciones establecidos en los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta de proyecto debe guardar directa relación con el objetivo de la convocatoria o el mecanismo de participación al que se postule.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El valor solicitado de la propuesta no debe sobrepasar el monto indicativo establecido para la Región del SGR en el mecanismo de participación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El valor solicitado de la propuesta no debe ser inferior al monto indicativo establecido para la Región del SGR en el mecanismo de participación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente no debe estar reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta presentada no debe encontrarse en ejecución o contar con financiación simultánea de otra convocatoria con recursos de MINCIENCIAS, del SGR o de otras entidades del Estado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se debe encontrar alteración a los documentos presentados para participar en la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En la carta de aval y compromiso institucional unificada, en el numeral 2 (Aspectos Éticos), se debe declarar si la propuesta requiere aval de un Comité de Ética o Bioética.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las propuestas elegibles que requieran aval del Comité de Ética o Bioética deberán presentarlo en la etapa de cumplimiento de requisitos del SGR (numeral 16).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de consultar permanentemente que sus documentos hayan quedado registrados correctamente en el SIGP antes del cierre y durante el periodo de ajuste.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En la etapa de subsanación de requisitos no se podrá modificar: Entidad Proponente, Título de la propuesta de proyecto, Mecanismo de participación seleccionado.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de garantizar la fiabilidad, coherencia y completitud de la información consignada en el formulario SIGP y en los anexos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Se aceptará que en la 'Carta de aval y compromiso institucional unificada' y el 'modelo de gobernanza' las firmas vengan en hojas diferentes, pero en un único archivo pdf.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se requiere adjuntar el aval de comité de Ética o Bioética para la presentación de las propuestas, solo se declara en el Anexo 1b.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "MINCIENCIAS podrá solicitar en cualquier momento información y documentación adicional o aclaraciones sobre los requisitos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente o aliado podrá soportar la idoneidad y trayectoria con información que repose en el sistema de gestión documental de MINCIENCIAS, identificándola en el Anexo 5.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10111,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3083,
+          "completion_tokens": 1742
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Validar que la convocatoria permita IES privadas como postulantes",
+          "Verificar que la sede principal en Bogotá cumpla con requisitos de ubicación si los hay",
+          "Confirmar disponibilidad de grupos de investigación reconocidos por Minciencias si se requieren"
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. No presenta bloqueantes evidentes, por lo que puede postularse como ejecutora, sujeto a verificar requisitos específicos de la convocatoria."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Validar que la convocatoria permita IES privadas como postulantes",
+        "Verificar que la sede principal en Bogotá cumpla con requisitos de ubicación si los hay",
+        "Confirmar disponibilidad de grupos de investigación reconocidos por Minciencias si se requieren"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. No presenta bloqueantes evidentes, por lo que puede postularse como ejecutora, sujeto a verificar requisitos específicos de la convocatoria.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

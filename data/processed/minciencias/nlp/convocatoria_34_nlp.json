@@ -1,0 +1,214 @@
+{
+  "convocatoria": "34",
+  "objetivo": null,
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y con la información del numeral 8.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigido a' del mecanismo de participación al que se postule.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Demostrar acreditación del adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología del DNP (Consolidado 2021-2022), salvo que la entidad no haya sido objeto de medición en los dos años anteriores.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1b) firmada por representantes legales de todas las entidades nacionales de la alianza, con documentos que acrediten y faculten.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico según el contenido del proyecto (numeral 8.1, Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto (numeral 8.2, Anexo 3) cumpliendo condiciones de duración y financiación del mecanismo de participación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5) con soportes (convenios, contratos, etc.) en SIGP, demostrando experiencia en al menos un proyecto de CTeI en los últimos 5 años o con recursos del SGR.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética (si aplica) con acto administrativo de conformación del comité; si no se cuenta con comité, se puede solicitar aval de otra entidad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo en la alianza, demostrar constitución mínima de 1 año antes de la apertura de la convocatoria y no estar en liquidación o reestructuración; presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las firmas en la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' pueden venir en hojas diferentes, pero deben estar en un único archivo PDF.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se requiere adjuntar el aval de comité de Ética o Bioética para la presentación; se declara en la Carta de aval y compromiso Institucional (numeral 2, Aspectos Éticos) y se presentará en la validación de requisitos del SGR si el proyecto resulta elegible.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Periodo de ajuste de requisitos en SIGP según cronograma; no se puede modificar entidad ejecutora, alcance, línea temática, mecanismo de participación o título del proyecto.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente debe consultar permanentemente que los documentos estén registrados correctamente en SIGP antes del cierre y durante el periodo de ajuste.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "MINCIENCIAS verificará consistencia de documentos y reportará inconsistencias en observaciones generales del SIGP para ajuste durante el periodo establecido.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de la fiabilidad, coherencia y completitud de la información en SIGP y anexos; información no coincidente no será tenida en cuenta.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "MINCIENCIAS podrá solicitar en cualquier momento información y documentación adicional, complementaria o aclaraciones.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentar el mismo proyecto para más de un mecanismo de participación de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No abordar más de una línea temática en los mecanismos de participación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe estar articulado con las demandas territoriales del objeto del proyecto.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el panel de evaluación determina que se requiere aval de Comité de Ética o Bioética, los soportes deben haberse cargado al cierre o en periodo de ajuste.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El desempeño del IGPR debe ser adecuado según el consolidado del DNP 2021-2022.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente o aliados no deben estar reportados en el último Boletín de responsables fiscales de la Contraloría General de la República.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto no debe estar en ejecución ni contar con financiación simultánea de otra convocatoria, MINCIENCIAS, SGR u otras fuentes.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente o aliados no deben estar incursos en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades legales.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13835,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4085,
+          "completion_tokens": 1759
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "No se encontraron actores elegibles en los datos extraídos para determinar la elegibilidad"
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero no se cuenta con información suficiente sobre actores elegibles ni requisitos específicos de la convocatoria para determinar si puede postularse. Se requiere validar la capacidad institucional y los criterios de la convocatoria."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "No se encontraron actores elegibles en los datos extraídos para determinar la elegibilidad"
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero no se cuenta con información suficiente sobre actores elegibles ni requisitos específicos de la convocatoria para determinar si puede postularse. Se requiere validar la capacidad institucional y los criterios de la convocatoria.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

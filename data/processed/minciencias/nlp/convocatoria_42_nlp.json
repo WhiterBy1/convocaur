@@ -1,0 +1,393 @@
+{
+  "convocatoria": "42",
+  "objetivo": "Impulsar proyectos que fomenten la convergencia supramunicipal, intrarregional e interregional y fortalezcan las vocaciones productivas y sociales, los vínculos urbano-rurales, interurbanos y subregionales a través de la ciencia, tecnología e innovación, para reducir brechas socioeconómicas mediante un listado de proyectos elegibles en CTeI que atiendan las demandas territoriales del Reto 6 del plan bienal 2023-2024 y la transformación del Plan Nacional de Desarrollo 'Convergencia Regional'.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior (IES)",
+      "rol": "miembro de la alianza",
+      "condicion": "mínimo dos (2) IES"
+    },
+    {
+      "tipo": "Entidades Territoriales",
+      "rol": "miembro de la alianza",
+      "condicion": "mínimo tres (3), de las cuales dos deben estar domiciliadas en dos departamentos diferentes"
+    },
+    {
+      "tipo": "Entidad u organización dependiente o autónoma con reconocimiento vigente por Minciencias",
+      "rol": "miembro de la alianza",
+      "condicion": "al menos una (1) con reconocimiento vigente a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Actor que agremie o agrupe empresas (gremios empresariales, cámaras de comercio, clúster, asociaciones empresariales o empresas ancla)",
+      "rol": "miembro de la alianza",
+      "condicion": "al menos un (1) actor"
+    },
+    {
+      "tipo": "Organizaciones de sociedad civil con representación legal",
+      "rol": "miembro de la alianza",
+      "condicion": "mínimo tres (3), de las cuales por lo menos dos deben tener domicilio en la zona de influencia del proyecto"
+    },
+    {
+      "tipo": "Entidad internacional",
+      "rol": "miembro de la alianza",
+      "condicion": "debe presentar 'Carta entidad internacional'; no requiere NIT ni carta aval y modelo de gobernanza"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Convergencia supramunicipales, subregionales, regionales e intrarregionales para la planificación territorial y la sostenibilidad ambiental a través de iniciativas de ciencia, tecnología e innovación",
+      "modalidad": null,
+      "descripcion_corta": "Iniciativas de CTI para reducir brechas intra e interregionales, con subtemáticas como planeación territorial inteligente y convergencias para sostenibilidad ambiental."
+    },
+    {
+      "nombre": "Integración interregional y con el mundo para el fortalecimiento de la innovación y la productividad en los ecosistemas territoriales de ciencia, tecnología e innovación",
+      "modalidad": null,
+      "descripcion_corta": "Fortalecimiento de cadenas de valor territoriales mediante innovación y productividad urbana-rural, y desarrollo de tecnologías para inserción en cadenas globales."
+    },
+    {
+      "nombre": "Fortalecimiento de capacidades y articulación de los actores de los ecosistemas territoriales para la gobernanza territorial de la ciencia, tecnología e innovación",
+      "modalidad": null,
+      "descripcion_corta": "Mejora de capacidades regionales para gestionar CTI, con subtemáticas de agendas territoriales convergentes y creación/fortalecimiento de redes de CTI."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del 'DIRIGIDA A' establecidas en el numeral 3 de los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del proponente según la metodología del DNP, salvo que no haya sido medido en los dos años anteriores.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar la 'Carta de aval, compromiso institucional unificado y Modelo de Gobernanza' (Anexo 1b) debidamente diligenciada y firmada por los representantes legales o apoderados de todas las entidades nacionales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) de acuerdo con el contenido indicado en el numeral 11 y subnumeral 11.1, incluido en la plataforma SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 6 ALCANCE, incluyendo los componentes 1 (Generación de nuevo conocimiento), 2 (Uso de conocimiento y desarrollo tecnológico) y 3 (Apropiación social del conocimiento) en el documento técnico.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atender el 'Reto 6. Convergencia Regional y Ordenamiento Territorial' a través de al menos una demanda territorial por departamento impactado, y abordar al menos dos líneas temáticas del numeral 5.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Justificar la configuración de convergencia regional (supramunicipal, intrarregional o interregional) y considerar la integración de departamentos con IDIC bajo y medio, o municipios con MDM bajo.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) de acuerdo con el numeral 11 y 13, incluido en la plataforma SIGP.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5) debidamente diligenciado, con soportes (convenios/contratos, etc.) incluidos en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si aplica: Anexar el aval del Comité de Ética de la Investigación o de Bioética, junto con el acto administrativo que soporta la conformación del Comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si aplica: Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, departamento o grupo de investigación, especificando el aporte.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para actores que agremien o agrupen empresas, deben estar constituidas mínimo un año al momento de apertura de la convocatoria y presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los términos de referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 20 CRONOGRAMA."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto es inferior o sobrepasa el monto indicativo por proyecto en los presentes términos en el numeral 13. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación se determine la obligatoriedad de que un proyecto deba contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 9.11 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender el reto 6. “Convergencia Regional y Ordenamiento Territorial” -a través de por lo menos una demanda territorial (ver anexo 4) para cada uno de los departamentos pertenecientes al área de influencia o área en donde se desarrollará el proyecto de acuerdo con la configuración de convergencia objeto del proyecto en los que se ejecutarán los componentes descritos en el numeral 6 ALCANCE."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Coherencia técnica y científica del proyecto",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "El problema, los antecedentes y los objetivos del proyecto son coherentes entre sí y son relevantes para el contexto. Existe total alineación entre el planteamiento del problema, la cadena de valor, justificación, alternativa seleccionada, metodología científica, presupuesto, cronograma, resultados y productos de CTeI."
+    },
+    {
+      "nombre": "Replicabilidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Los resultados del proyecto pueden ser transferidos y replicados en otros contextos. El proyecto tiene potencial de ser escalado y ampliado a mayor escala. Contribuye al desarrollo de capacidades locales en CTeI."
+    },
+    {
+      "nombre": "Novedad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La solución propuesta se basa en conocimiento científico y tecnológico y presenta un alto grado de novedad y valor agregado para abordar la oportunidad, desafíos científico-tecnológicos o reducir brechas socioeconómicas, con bajo grado de incertidumbre."
+    },
+    {
+      "nombre": "Idoneidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El equipo humano propuesto cuenta con las habilidades, experiencia y conocimientos necesarios para llevar a cabo el proyecto."
+    },
+    {
+      "nombre": "Coherencia presupuestal del proyecto",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "El presupuesto está debidamente soportado y justificado para el desarrollo del proyecto (equipo, insumos, personal, infraestructura, servicios técnicos, tecnología)."
+    },
+    {
+      "nombre": "Sustentación científica y técnica para conseguir el TRL esperado",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Sustentación científica y técnica para conseguir el TRL esperado con la ejecución del proyecto. Conocimiento de los riesgos técnicos y comerciales de los bienes y/o servicios."
+    },
+    {
+      "nombre": "Conocimiento de los riesgos y estrategias de mitigación",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Conocimiento de los riesgos, establecimiento de estrategias para mitigarlos, controlarlos, evitarlos o transferirlos."
+    },
+    {
+      "nombre": "Innovación (TRL 8-9)",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Los productos se encuentran probados y operando con éxito en un entorno real mediante la generación de procesos, productos o servicios nuevos o significativamente mejorados que aporten al cierre de brechas tecnológicas del territorio."
+    },
+    {
+      "nombre": "Desarrollo y novedad de la tecnología (TRL 7-8)",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La tecnología es disruptiva o tiene potencial de serlo, o es tradicional. El proyecto demuestra claramente la necesidad y el valor agregado del proceso, producto o servicio esperado."
+    },
+    {
+      "nombre": "Fundamentación teórica de la tecnología (TRL 4-8)",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Valora la calidad y trayectoria del desarrollo que condujo a la solución tecnológica propuesta, se sustenta el estado de madurez tecnológica de partida con validación a nivel de laboratorio hasta producto certificado o validado."
+    },
+    {
+      "nombre": "Obtención de productos de generación de nuevo conocimiento",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto contempla la publicación, registro o aceptación de productos tipo TOP, A, B o C según el documento conceptual de la Convocatoria 894 de 2021. Puntaje máximo por alcanzar 5 puntos."
+    },
+    {
+      "nombre": "Apropiación social del conocimiento",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto contempla un proceso de apropiación social del conocimiento bajo escenarios de colaboración, involucramiento o información y consulta, con metodologías participativas y evidencias. Puntaje máximo 5 puntos."
+    },
+    {
+      "nombre": "Divulgación y comunicación pública de la ciencia",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto cuenta con una estrategia clara, coherente, pertinente e innovadora de comunicación y divulgación de resultados orientada a público no especializado para fortalecer la democratización del saber científico."
+    },
+    {
+      "nombre": "Pertinencia e impacto de los resultados y productos esperados",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Pertinencia e impacto de los resultados y productos esperados frente al desarrollo territorial, regional y nacional en atención a las demandas territoriales de los retos a atender (Anexo 4)."
+    },
+    {
+      "nombre": "Pertinencia e impacto de la configuración de la convergencia regional",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Pertinencia e impacto de la configuración de la convergencia regional (supramunicipal, intrarregional o interregional) en alineación con demandas territoriales, líneas temáticas y pertinencia de actores de la alianza."
+    },
+    {
+      "nombre": "Contribución al desarrollo de capacidades regionales y territoriales de CTeI",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Contribución del proyecto al desarrollo de capacidades regionales y territoriales de CTeI para el fortalecimiento de la Convergencia Regional. Se evalúa la clasificación de entidades territoriales (categorías 4,5,6, IDIC bajo, PDET, ZOMAC). Puntaje máximo 5."
+    },
+    {
+      "nombre": "Conformación de alianzas entre entidades del SNCTI",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Conformación de alianzas entre entidades del SNCTI para contribución al logro de objetivos. Se evalúa número de IES, entidades territoriales, organizaciones reconocidas, actores empresariales y sociedad civil. Puntaje máximo 5."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CIENTO VEINTICINCO MIL CUATROCIENTOS VEINTIDOS MILLONES SETECIENTOS CINCUENTA Y CUATRO MIL SETECIENTOS SESENTA Y CINCO PESOS M/CTE ($125.422.754.765)",
+    "monto_total_cop": 125422754765.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2023-2024",
+    "notas": "Monto total distribuido en seis regiones con valor igual de $20.903.792.460 cada una. Rango de valor por proyecto: desde $16.723.033.969 hasta $20.903.792.460."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 619,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 384,
+          "completion_tokens": 134
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9262,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2772,
+          "completion_tokens": 397
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9872,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2637,
+          "completion_tokens": 319
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13699,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4007,
+          "completion_tokens": 3263
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3887,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1311,
+          "completion_tokens": 630
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11658,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3386,
+          "completion_tokens": 223
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3990,
+          "completion_tokens": 5079
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "miembro de la alianza",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES)",
+          "rol": "miembro de la alianza",
+          "condicion": "mínimo dos (2) IES"
+        }
+      ],
+      "condiciones_pendientes": [],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse únicamente como miembro de una alianza, no en solitario. Debe integrarse con al menos otra IES y cumplir los requisitos de conformación de alianza establecidos en la convocatoria."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse únicamente como miembro de una alianza, no en solitario. Debe integrarse con al menos otra IES y cumplir los requisitos de conformación de alianza establecidos en la convocatoria.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

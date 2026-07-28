@@ -1,0 +1,219 @@
+{
+  "convocatoria": "916",
+  "objetivo": "Incrementar la disponibilidad de capital humano con capacidades de investigación en prácticas pedagógicas en establecimientos educativos oficiales del Departamento de Cundinamarca.",
+  "actores_elegibles": [
+    {
+      "tipo": "Docentes de aula",
+      "rol": "Docente",
+      "condicion": "Desempeñarse en niveles de preescolar, básica o media; tener asignación académica en matemáticas, lenguaje, ciencias naturales o ciencias sociales (incluyendo filosofía); pertenecer a establecimientos educativos oficiales en el Departamento de Cundinamarca; estar nombrados en propiedad o en periodo de prueba; contar con admisión a uno de los programas ofertados en la convocatoria."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Ser colombiano y mayor de edad: adjuntar fotocopia del documento de identidad por ambas caras ampliado al 150%.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ser docente de aula con nombramiento en propiedad o en periodo de prueba en establecimientos educativos oficiales del Departamento de Cundinamarca: adjuntar certificación expedida por la Secretaría de Educación (Anexo 1) con fecha posterior a la apertura de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Desempeñarse en niveles de preescolar, básica o media y tener asignación académica en matemáticas, lenguaje, ciencias naturales, ciencias sociales (incluyendo filosofía) o todas las anteriores: adjuntar certificación firmada por el rector (Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener título profesional: adjuntar copia del diploma o acta de grado del pregrado; si es del exterior, debe estar convalidado por el MEN.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de notas del pregrado que contenga el promedio general acumulado en escala de 0 a 5, o equivalencia si la escala es diferente.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con admisión a uno de los programas ofertados en esta convocatoria y no haber iniciado estudios: adjuntar carta de admisión expedida por la universidad en el último año.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Compromiso del docente para realizar una propuesta de investigación como trabajo de grado y declaración de no estar inhabilitado: adjuntar carta diligenciada y firmada (Anexo 3).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para quienes aplique, haber participado o estar participando como docente del Programa ONDAS: anexar certificación firmada por la entidad implementadora; si no aplica, adjuntar comunicación informándolo.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para miembros de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto armado o con discapacidad: anexar certificación correspondiente (opcional, no inhabilitante).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "No haber recibido financiación para un programa de maestría o doctorado a través de convocatorias del Ministerio de Ciencia, Tecnología e Innovación en años anteriores o con recursos del Sistema General de Regalías.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No tener un título de formación igual o superior al nivel ofertado en estos términos de referencia.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No haber iniciado estudios en uno de los programas y universidades ofertados en esta convocatoria.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar en comisión, exceptuando a los docentes tutores vinculados al Programa Todos a Aprender (PTA).",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar la inscripción a través del aplicativo electrónico FORMACIÓN DE ALTO NIVEL disponible en el sitio web del Ministerio de Ciencia, Tecnología e Innovación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar y/o actualizar en su totalidad la hoja de vida en la herramienta CvLAC antes de ingresar al aplicativo FORMACIÓN DE ALTO NIVEL.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar toda la documentación requerida en formato digital PDF, con un tamaño total no superior a 3 MB; no se aceptan archivos .ZIP o .RAR.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No enviar información por medios distintos al aplicativo indicado (correo postal, fax, correo electrónico, etc.).",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar la inscripción dentro del plazo establecido en el cronograma de la convocatoria; las inscripciones extemporáneas no serán tenidas en cuenta.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proceso de admisión debe adelantarse a un único programa de maestría ofertado; participar con dos o más programas resulta en retiro del proceso.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el aspirante aplica simultáneamente a dos o más convocatorias de Formación de Alto Nivel financiadas por Minciencias o SGR y resulta favorecido, debe escoger solo una e informarlo por escrito.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Mantener un promedio académico semestral mínimo de 3.8 (o equivalente en escala 0.0 a 5.0) durante el desarrollo de la maestría.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 182,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 257,
+          "completion_tokens": 43
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 505,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 455,
+          "completion_tokens": 135
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4199,
+          "completion_tokens": 3964
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES como proponentes o ejecutoras."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria solo acepta docentes de aula como actores elegibles. Su rol sería únicamente como posible aliado si los docentes ya están admitidos en sus programas, pero no como postulante directo."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES como proponentes o ejecutoras."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria solo acepta docentes de aula como actores elegibles. Su rol sería únicamente como posible aliado si los docentes ya están admitidos en sus programas, pero no como postulante directo.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

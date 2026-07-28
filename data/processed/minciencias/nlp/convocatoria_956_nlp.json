@@ -1,0 +1,190 @@
+{
+  "convocatoria": "956",
+  "objetivo": "Conformar un banco de proyectos elegibles por línea temática para contribuir a la implementación de las misiones de 'Bioeconomía y territorio', 'Derecho humano a la alimentación' y 'Ciencia para la paz' a través de iniciativas de investigación, desarrollo tecnológico, innovación y apropiación social del conocimiento desarrollados por Ecosistemas de Ciencia y Paz, entendidos como alianzas entre actores de la academia, el sector productivo y la sociedad civil.",
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con las especificaciones del numeral 3-DIRIGIDO A definidas en los presentes términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir y finalizar la inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) a través del formulario en línea en el portal de Minciencias.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta de aval unificada, compromiso institucional y modelo de gobernanza (Anexo 1), debidamente diligenciada y firmada por los representantes legales de las entidades que conforman la alianza.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aportar contrapartida en dinero y/o especie por un monto mínimo del 15% del valor solicitado al Ministerio, registrado en el Anexo 1.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si aplica, presentar concepto de un comité de ética/bioética que avale el proyecto, anexando el acto administrativo que soporta la conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar el Anexo 3 (EXPERIENCIA E IDONEIDAD DE LAS ENTIDADES) y adjuntar soportes que acrediten que la entidad ejecutora ha participado como ejecutora o coejecutora en al menos 2 proyectos de CTeI en los últimos 10 años y que cuenta con al menos un grupo de investigación categoría A1, A, B o C según Convocatoria 894 de 2021.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora o sus aliados deben contar con al menos un grupo de investigación reconocido y categorizado en A1, A, B o C a la fecha de apertura de la convocatoria (requisito mínimo no subsanable).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Demostrar que las entidades del sector productivo que participan han sido establecidas al menos dos años antes del cierre de la convocatoria y no están en proceso de liquidación, adjuntando certificado de existencia y representación legal y acta o documento de no estar en liquidación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las organizaciones de base comunitaria deben adjuntar copia actualizada del certificado de Cámara de Comercio o documento equivalente que acredite su existencia y representación legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para integrantes de la alianza que sean miembros de población negra, afrocolombiana, raizal, palenquera o Rrom, anexar Certificado de Auto Reconocimiento expedido por la Dirección de Asuntos de Comunidades Negras (NARP) del Ministerio del Interior.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para integrantes de la alianza que sean miembros de una comunidad indígena, anexar Certificado del Registro de la Autoridad o Cabildo de las Comunidades y/o Resguardos Indígenas expedido por el Ministerio del Interior (no mayor a 30 días calendario previo a la postulación).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para integrantes de la alianza que sean víctimas del conflicto armado, anexar Certificado expedido por la Unidad para la Atención y Reparación Integral a las Víctimas (con fecha de expedición máxima de 4 años anteriores al cierre de la convocatoria).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proyecto involucra la participación de comunidades indígenas con prácticas asociadas al uso de la hoja de coca, diligenciar y adjuntar manifestación escrita de apoyo (Anexo 9).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Línea Temática 1: Al menos una entidad de la alianza debe certificar experiencia en la gestión y/o ejecución de al menos dos proyectos de CTeI con organizaciones y/o comunidades campesinas en los últimos 10 años, o un proyecto de CTeI aprobado con recursos del SGR con beneficiarios campesinos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Línea Temática 2: Al menos una entidad de la alianza debe certificar experiencia en la gestión y/o ejecución de al menos un proyecto de CTeI en temáticas de usos alternativos de planta de cannabis y hoja de coca en los últimos 10 años.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proyecto contempla el uso de cannabis, adjuntar el Registro Nacional de Cultivares Comerciales o registro de fuentes semilleras expedido por el ICA.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proyecto contempla el uso de cannabis, adjuntar licencia de cultivo de cannabis no psicoactivo vigente que incluya la modalidad de investigación o fines científicos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proyecto contempla el uso de hoja de coca, adjuntar autorización emitida por el Fondo Nacional de Estupefacientes de acuerdo con la Ley 30 de 1986 y las sentencias correspondientes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1125,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 552,
+          "completion_tokens": 116
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12269,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4207,
+          "completion_tokens": 3277
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con al menos un grupo de investigación categorizado A1, A, B o C según Convocatoria 894 de 2021",
+          "Aportar contrapartida mínima del 15% del valor solicitado",
+          "Cumplir con los requisitos documentales (carta de aval, compromiso institucional, modelo de gobernanza, etc.)"
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse en alianza con otros actores (academia, sector productivo, sociedad civil) para la convocatoria de Ecosistemas de Ciencia y Paz. Debe verificar que cuenta con grupos de investigación categorizados y cumplir con los requisitos de contrapartida y documentación."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con al menos un grupo de investigación categorizado A1, A, B o C según Convocatoria 894 de 2021",
+        "Aportar contrapartida mínima del 15% del valor solicitado",
+        "Cumplir con los requisitos documentales (carta de aval, compromiso institucional, modelo de gobernanza, etc.)"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse en alianza con otros actores (academia, sector productivo, sociedad civil) para la convocatoria de Ecosistemas de Ciencia y Paz. Debe verificar que cuenta con grupos de investigación categorizados y cumplir con los requisitos de contrapartida y documentación.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

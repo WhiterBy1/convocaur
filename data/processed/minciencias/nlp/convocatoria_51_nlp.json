@@ -1,0 +1,455 @@
+{
+  "convocatoria": "51",
+  "objetivo": "Fortalecer las capacidades de Ciencia, Tecnología e Innovación (CTeI) en el Departamento de Córdoba mediante proyectos de convergencia regional que impulsen la productividad y competitividad, atendiendo las demandas territoriales de los Retos 1, 2, 5 y 6 del plan bienal 2025-2026 y las transformaciones del Plan Nacional de Desarrollo.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES)",
+      "rol": "Ejecutor o aliado",
+      "condicion": "Debe estar en la zona de influencia del proyecto."
+    },
+    {
+      "tipo": "Entidad territorial",
+      "rol": "Ejecutor o aliado",
+      "condicion": "Puede ser supramunicipal, departamental o municipal."
+    },
+    {
+      "tipo": "Actor que agremie o agrupe empresas",
+      "rol": "Ejecutor o aliado",
+      "condicion": "Ejemplos: gremios empresariales, cámaras de comercio, clúster, asociaciones empresariales o empresas ancla."
+    },
+    {
+      "tipo": "Organización de sociedad civil",
+      "rol": "Ejecutor o aliado",
+      "condicion": "Debe contar con representación legal en la zona de influencia del proyecto."
+    },
+    {
+      "tipo": "Entidad internacional",
+      "rol": "Aliado",
+      "condicion": "Debe presentar carta entidad internacional, no requiere NIT, no suscribe carta aval, participación registrada en SIGP y Documento Técnico, sin vinculación al modelo de gobernanza."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento de las capacidades de ciencia, tecnología e innovación para el desarrollo productivo y competitivo",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollo de iniciativas desde la CTI para reducir brechas interregionales e intrarregionales, incluyendo gestión de cadenas productivas basadas en CTI."
+    },
+    {
+      "nombre": "Integración intrarregional y con el mundo para el fortalecimiento de la innovación y la productividad en los ecosistemas territoriales de ciencia, tecnología e innovación",
+      "modalidad": null,
+      "descripcion_corta": "Fortalecimiento de apuestas y cadenas de valor territoriales para incrementar productividad y diversificación, articulando sectores rurales y urbanos con mercados nacionales e internacionales."
+    },
+    {
+      "nombre": "Fortalecimiento de capacidades y articulación de los actores de los ecosistemas territoriales para la gobernanza territorial de la ciencia, tecnología e innovación",
+      "modalidad": null,
+      "descripcion_corta": "Mejora de capacidades para gestionar CTI de manera descentralizada, incluyendo agendas territoriales convergentes y fortalecimiento de redes de CTI."
+    },
+    {
+      "nombre": "Soluciones de CTeI para la reactivación socioeconómica y la mitigación de condiciones climáticas extremas en el departamento de Córdoba",
+      "modalidad": null,
+      "descripcion_corta": "Implementación de soluciones tecnológicas para reactivación socioeconómica y mitigación de impactos de lluvias atípicas e inundaciones en Córdoba."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del numeral 'DIRIGIDA A' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar domicilio en el departamento de Córdoba mediante Certificado de Existencia y Representación Legal, resolución del MEN o acto administrativo.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del proponente según metodología del DNP (excepto si no ha sido medido en los últimos 2 años).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar la 'Carta unificada de Aval, Compromiso Institucional y Modelo de Gobernanza' (Anexo 1) debidamente diligenciada y firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) según contenido del numeral 11.1 de los TdR.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con el alcance establecido en el numeral 6, incluyendo los tres componentes de generación de conocimiento, uso del conocimiento y apropiación social.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Atender los retos y demandas territoriales establecidas, abordando al menos dos líneas temáticas del numeral 5.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) con análisis de costos y mínimo tres cotizaciones.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados o ejecutados' (Anexo 5) con soportes documentales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar Aval del Comité de Ética de la Investigación o de Bioética (si aplica) con acto administrativo de conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales, anexar carta de intención de participación (formato libre) especificando aportes en COP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para actores que agremien empresas, presentar certificado de existencia y representación legal no mayor a 90 días, y constitución mínima de 1 año.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para organizaciones de sociedad civil, acreditar domicilio o influencia en el departamento de ejecución del proyecto.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la MGA WEB preliminar del proyecto con todos los campos diligenciados en la Tipología D.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar certificado de no financiación con otras fuentes de recursos, suscrito por el Representante Legal de la entidad territorial.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades en proceso de liquidación o reestructuración no pueden participar.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La información suministrada debe ser veraz y corresponder a la realidad.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las organizaciones y comunidades interesadas deben contar con representación legal para suscribir el Anexo 1.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El grupo de investigación A1, A o B debe participar en las actividades del proyecto.",
+      "tipo": "tecnico",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Las entidades aliadas deben cuantificar su aporte al proyecto (especie o efectivo).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe contener y señalar claramente los componentes 1, 2 y 3 en la metodología del Anexo 2.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los títulos de capítulos y subcapítulos del Anexo 2 deben conservarse textualmente.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Garantizar coherencia entre SIGP, Anexo 1, Anexo 2 y Anexo 3.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el período de ajuste de requisitos no se puede modificar la entidad proponente ni el título del proyecto en SIGP.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los términos de referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 20 - CRONOGRAMA."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa el monto de $17.154.450.476 M/CTE, señalado en los presentes términos en el numeral 13 - DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación se determine la obligatoriedad de que un proyecto deba contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 9.11 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender los retos establecidos a través de por lo menos una demanda territorial (ver Anexo 4) de cada uno de los retos incluidos en la presente convocatoria."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Coherencia técnica y científica del proyecto",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "El problema, los antecedentes y los objetivos del proyecto son coherentes entre sí y son relevantes para el contexto en el que se desarrollará el proyecto. Existe total alineación entre el planteamiento del problema, la cadena de valor (Objetivos – Productos – Actividades), justificación, alternativa seleccionada, metodología científica, presupuesto, cronograma, resultados y productos de CTeI."
+    },
+    {
+      "nombre": "Replicabilidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Los resultados del proyecto pueden ser transferidos y replicados en otros contextos. El proyecto tiene el potencial de ser escalado y ampliado a mayor escala. El proyecto contribuye al desarrollo de capacidades locales en CTeI."
+    },
+    {
+      "nombre": "Novedad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La solución propuesta se basa en conocimiento científico y tecnológico y presenta un alto grado de novedad y valor agregado, para abordar la oportunidad; los desafíos científico-tecnológicos o no tecnológicos a resolver; o reducir las brechas socioeconómicas, con un grado de incertidumbre bajo."
+    },
+    {
+      "nombre": "Idoneidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El equipo humano propuesto para el desarrollo del proyecto cuenta con las habilidades, experiencia y conocimientos necesarios para llevar a cabo el proyecto."
+    },
+    {
+      "nombre": "Coherencia presupuestal del proyecto",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "El presupuesto está debidamente soportado y justificado para el desarrollo del proyecto (equipo, insumos, personal, infraestructura, servicios técnicos, tecnología)."
+    },
+    {
+      "nombre": "Sustentación científica y técnica para conseguir el TRL esperado",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Sustentación científica y técnica para conseguir el TRL esperado con la ejecución del proyecto. Conocimiento de los riesgos técnicos y comerciales de los bienes y/o servicios."
+    },
+    {
+      "nombre": "Conocimiento de los riesgos",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Conocimiento de los riesgos, establecimiento de estrategias para mitigar los riesgos, controlarlos, evitarlos o transferirlos."
+    },
+    {
+      "nombre": "Innovación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Los productos que se desarrollarán en el marco del proyecto se encuentran probados y operando con éxito en un entorno real mediante la generación de procesos, productos o servicios nuevos o significativamente mejorados que aporten el cierre de brechas tecnológicas del territorio TRL 8-9."
+    },
+    {
+      "nombre": "Desarrollo y novedad de la tecnología",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La tecnología es disruptiva, tiene potencial de ser disruptiva, o es una tecnología tradicional. El proyecto demuestra claramente la necesidad y el valor agregado del proceso, producto o servicio que se espera lograr, TRL 7-8."
+    },
+    {
+      "nombre": "Fundamentación teórica de la tecnología",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Valora la calidad y trayectoria del desarrollo que condujo a la solución tecnológica propuesta, se sustenta el estado de madurez tecnológica de partida con la validación a nivel de laboratorio hasta llevarla a un producto tecnológico certificado o validado, TRL 4-8."
+    },
+    {
+      "nombre": "Obtención de productos de generación de nuevo conocimiento que genere la alianza",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto contempla la publicación, registro o aceptación de productos tipo TOP, A, B o C en las áreas de conocimiento objeto del proyecto, con puntuación según la cantidad y tipo de productos."
+    },
+    {
+      "nombre": "Apropiación social del conocimiento en el proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto debe contemplar el desarrollo de un proceso de Apropiación Social del Conocimiento dentro de las tipologías establecidas, con puntuación según la cantidad de productos obtenidos."
+    },
+    {
+      "nombre": "Divulgación y comunicación pública de la ciencia",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto cuenta con una estrategia clara, coherente, pertinente e innovadora de comunicación y divulgación de los resultados obtenidos, orientada a público no especializado."
+    },
+    {
+      "nombre": "Pertinencia e impacto de los resultados y productos esperados del proyecto frente al desarrollo territorial, regional y nacional para el fortalecimiento de la convergencia regional",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evaluación de la pertinencia e impacto de los resultados y productos esperados del proyecto frente al desarrollo territorial, regional y nacional en atención a las demandas territoriales de los retos del Plan de Convocatorias 2025-2026."
+    },
+    {
+      "nombre": "Conformación de alianzas entre entidades del SNCTI para la contribución al logro de los objetivos y alcance de los resultados y productos esperados",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evaluación de la alianza conformada por entidades del SNCTI, incluyendo IES, entidades territoriales, actores que agrupen empresas y organizaciones de la sociedad civil, según la cantidad y composición."
+    },
+    {
+      "nombre": "Grupo de Investigación de categorías A1, A o B",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evaluación de la categoría del grupo de investigación vinculado al proyecto, según la clasificación vigente de Minciencias."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CUARENTA Y CINCO MIL DOSCIENTOS CUARENTA Y NUEVE MILLONES DOSCIENTOS CUARENTA Y DOS MIL NOVECIENTOS VEINTE PESOS MCTE (45.249.242.920,00)",
+    "monto_total_cop": 45249242920.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación en el departamento de Córdoba",
+    "notas": "Se financiarán dos proyectos: primer proyecto hasta $17.154.450.476 (líneas 1,2,3), segundo proyecto hasta $28.094.792.444 (línea 4)."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 730,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 407,
+          "completion_tokens": 286
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7467,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2467,
+          "completion_tokens": 1407
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11684,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3335,
+          "completion_tokens": 402
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4416,
+          "completion_tokens": 1281
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3669,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1277,
+          "completion_tokens": 583
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12812,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4029,
+          "completion_tokens": 228
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4400,
+          "completion_tokens": 7576
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES)",
+          "rol": "Ejecutor o aliado",
+          "condicion": "Debe estar en la zona de influencia del proyecto."
+        }
+      ],
+      "condiciones_pendientes": [],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Acreditar domicilio en el departamento de Córdoba (la sede principal está en Bogotá, se debe verificar si tiene sede o representación en Córdoba).",
+          "Cumplir con el adecuado desempeño según metodología DNP.",
+          "Formalizar alianza con al menos un actor elegible con presencia en Córdoba."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria y acreditación de domicilio en Córdoba, lo que requiere verificar su presencia en el departamento o asociarse con un actor local."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Acreditar domicilio en el departamento de Córdoba (la sede principal está en Bogotá, se debe verificar si tiene sede o representación en Córdoba).",
+        "Cumplir con el adecuado desempeño según metodología DNP.",
+        "Formalizar alianza con al menos un actor elegible con presencia en Córdoba."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria y acreditación de domicilio en Córdoba, lo que requiere verificar su presencia en el departamento o asociarse con un actor local.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

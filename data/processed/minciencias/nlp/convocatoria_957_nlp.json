@@ -1,0 +1,260 @@
+{
+  "convocatoria": "957",
+  "objetivo": "Actualizar la información proveniente de los Grupos de Investigación, Desarrollo Tecnológico o de Innovación y los investigadores del país, sus actividades y los resultados logrados para generar conocimiento sobre las capacidades, fortalezas, debilidades y potencialidades de quienes integran el SNCTI.",
+  "actores_elegibles": [
+    {
+      "tipo": "Persona natural",
+      "rol": null,
+      "condicion": "Colombiana o extranjera residente en Colombia con vínculo legal, reglamentario o contractual con instituciones colombianas del SNCTI; o colombiana residente en el exterior (diáspora) con CvLAC certificado e inscrito para la convocatoria."
+    },
+    {
+      "tipo": "Grupo de investigación colombiano",
+      "rol": null,
+      "condicion": "Avalado por cualquier institución, entidad o persona jurídica en Colombia que ejecute actividades de CTeI."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Tener la información completamente diligenciada, actualizada y vinculada en el aplicativo GrupLAC (plataforma ScienTI-Colombia) a la fecha de cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar la autorización para el uso de datos personales en el aplicativo GrupLAC a la fecha de cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los Grupos deben tener como mínimo un año de existencia a la fecha límite de la ventana de observación (31 de diciembre de 2023).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los Grupos deben estar avalados por al menos una Institución registrada en InstituLAC a la fecha de cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La institución que otorga aval al Grupo debe estar registrada en InstituLAC a la fecha de cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los Grupos que deseen clasificación deben inscribirse en el campo dispuesto en GrupLAC antes del cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener la información completamente diligenciada y actualizada en el aplicativo CvLAC a la fecha de cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar la certificación de veracidad y autorización para uso de datos personales en CvLAC a la fecha de cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los investigadores vinculados a Grupos deben asegurarse de que el Grupo esté avalado por al menos una Institución en InstituLAC a la fecha de cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La institución que avale a los grupos debe estar registrada en InstituLAC a la fecha de cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los investigadores no vinculados a Grupos deben estar avalados por al menos una Institución en InstituLAC a la fecha de cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los interesados deben cumplir con la totalidad de los requisitos para ser evaluados.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Minciencias podrá solicitar en cualquier momento información y documentación adicional a las instituciones que avalan y a los participantes.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ventana de observación diferenciada para mujeres cuyos hijos hayan nacido dentro de la ventana de observación (1 enero 2019 - 31 diciembre 2023) para evaluación de hojas de vida.",
+      "tipo": "otro",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "La ventana diferencial aplica solo para reconocimiento de hojas de vida, no para grupos.",
+      "tipo": "otro",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Las mujeres deben actualizar información en CvLAC para acogerse a la ventana diferencial, marcando la casilla correspondiente.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "La inscripción para mujeres con hijos nacidos en la ventana de observación es voluntaria.",
+      "tipo": "otro",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Es importante registrar la filiación institucional en el sistema para que la institución dé aval.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Estar registrado en el sistema GrupLAC de la Plataforma ScienTI - Colombia",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El grupo debe tener un registro activo en GrupLAC a la fecha de cierre."
+    },
+    {
+      "nombre": "Tener un mínimo de dos (2) integrantes",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El grupo debe contar con al menos dos miembros."
+    },
+    {
+      "nombre": "Tener uno (1) o más años de existencia (edad declarada)",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El grupo debe declarar una antigüedad mínima de un año."
+    },
+    {
+      "nombre": "Estar avalado al menos por una (1) Institución registrada en el sistema InstituLAC de la Plataforma ScienTI-Colombia",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El grupo debe contar con aval institucional registrado en InstituLAC."
+    },
+    {
+      "nombre": "Tener al menos un (1) proyecto de investigación, de desarrollo tecnológico o de innovación en ejecución dentro de la ventana de observación",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El grupo debe tener al menos un proyecto activo en el período de observación."
+    },
+    {
+      "nombre": "El Líder del grupo (a la fecha de cierre de la Convocatoria) deberá tener título de Pregrado universitario, Maestría o Doctorado",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El líder debe poseer un título de pregrado, maestría o doctorado, con requisito de fecha si es solo pregrado."
+    },
+    {
+      "nombre": "Tener una producción de nuevo conocimiento o de resultados de actividades de desarrollo tecnológico e innovación, en la ventana de observación equivalente a un mínimo de un (1) producto por año declarado de existencia",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Producción mínima de un producto por año de existencia en nuevo conocimiento o desarrollo tecnológico e innovación."
+    },
+    {
+      "nombre": "Tener una producción de apropiación social del conocimiento o productos resultados de actividades de divulgación pública de la ciencia o productos resultados de actividades relacionadas con la formación de recurso humano en CTeI, en la ventana de observación equivalente a un mínimo de un (1) producto por el año declarado de existencia",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Producción mínima de un producto por año de existencia en apropiación social, divulgación o formación de recurso humano en CTeI."
+    }
+  ],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2363,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 849,
+          "completion_tokens": 193
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3530,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1196,
+          "completion_tokens": 426
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8931,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2797,
+          "completion_tokens": 1094
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5817,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1841,
+          "completion_tokens": 714
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutor."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no puede postularse directamente a esta convocatoria porque los actores elegibles son personas naturales y grupos de investigación, no instituciones de educación superior. La universidad puede participar únicamente como avaladora de grupos de investigación, pero no como postulante."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutor."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no puede postularse directamente a esta convocatoria porque los actores elegibles son personas naturales y grupos de investigación, no instituciones de educación superior. La universidad puede participar únicamente como avaladora de grupos de investigación, pero no como postulante.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

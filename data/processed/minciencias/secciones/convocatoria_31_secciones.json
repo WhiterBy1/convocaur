@@ -1,0 +1,42 @@
+{
+  "archivo": "convocatoria_31_tdr.pdf",
+  "convocatoria": "31",
+  "n_paginas": 22,
+  "n_caracteres_total": 71256,
+  "toc_detectado": [],
+  "n_secciones_toc": 0,
+  "n_secciones_cuerpo": 0,
+  "fingerprint": "",
+  "titulos_norm": [],
+  "comparacion_plantilla_sgr": {
+    "n_en_doc": 0,
+    "n_plantilla": 21,
+    "coinciden_exacto": false,
+    "cobertura_plantilla": 0.0,
+    "faltan_vs_plantilla": [
+      "PRESENTACION",
+      "OBJETIVO",
+      "DIRIGIDA A",
+      "DEMANDAS TERRITORIALES",
+      "LINEAS TEMATICAS",
+      "ALCANCE DEL PROYECTO",
+      "ENFOQUE TERRITORIAL",
+      "ENFOQUE DIFERENCIAL E INTERSECCIONAL",
+      "ORIENTACIONES PARA LA VINCULACION DE TALENTO HUMANO",
+      "REQUISITOS HABILITANTES",
+      "CAUSALES DE RECHAZO",
+      "CONTENIDO DEL PROYECTO",
+      "PROCEDIMIENTO DE INSCRIPCION",
+      "DURACION Y FINANCIACION",
+      "CRITERIOS DE EVALUACION",
+      "PROCEDIMIENTO DE EVALUACION",
+      "LISTADO DE ELEGIBLES",
+      "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
+      "VIGILANCIA DE LOS PROYECTOS",
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
+      "CRONOGRAMA"
+    ],
+    "extra_vs_plantilla": []
+  },
+  "secciones": []
+}

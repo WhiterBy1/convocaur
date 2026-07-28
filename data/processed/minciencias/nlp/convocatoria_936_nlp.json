@@ -1,0 +1,302 @@
+{
+  "convocatoria": "936",
+  "objetivo": "Conformar un banco de propuestas elegibles de Programas de I+D+i tipo Ecosistema de Investigación e Innovación dirigidos a desarrollar soluciones a problemáticas en temáticas de bioeconomía, que permita validar productos y procesos de alto valor agregado en el mercado, basados en la gestión eficiente de la biomasa y el aprovechamiento sostenible de la biodiversidad y sus servicios ecosistémicos, y con esto aportar al desarrollo socioeconómico sostenible del País, desde y para las regiones.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES) nacional",
+      "rol": "Ejecutora o coejecutora",
+      "condicion": "Con acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro o Instituto de Investigación (autónomo) público, privado o mixto",
+      "rol": "Ejecutor o coejecutor",
+      "condicion": "Reconocido o en proceso de renovación del reconocimiento por el Ministerio a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro de Desarrollo Tecnológico (autónomo) público, privado o mixto",
+      "rol": "Ejecutor o coejecutor",
+      "condicion": "Con reconocimiento vigente por el Ministerio o en proceso de renovación a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro de Innovación y Productividad",
+      "rol": "Ejecutor o coejecutor",
+      "condicion": "Con reconocimiento vigente por el Ministerio o en proceso de renovación a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Empresa nacional o internacional con presencia en el país",
+      "rol": "Ejecutora o coejecutora",
+      "condicion": "Que desarrolle proyectos de I+D+i enfocados en los ejes temáticos de la convocatoria"
+    },
+    {
+      "tipo": "Empresa Altamente Innovadora (EAI)",
+      "rol": "Ejecutora",
+      "condicion": "Reconocida o en proceso de renovación por el Ministerio a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Consejo comunitario de comunidades negras",
+      "rol": "Colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Autoridad tradicional de Resguardo indígena",
+      "rol": "Colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Poblaciones afectadas por el conflicto u organizaciones comunitarias",
+      "rol": "Colaborador",
+      "condicion": "Registradas en el registro único de víctimas o desmovilizados en Espacios Territoriales de Capacitación y Reincorporación o en condición de legalidad con avances en emprendimientos basados en soluciones a los desafíos de la convocatoria"
+    },
+    {
+      "tipo": "Institución extranjera sin representación legal en Colombia",
+      "rol": "Colaborador",
+      "condicion": null
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3. 'DIRIGIDO A' de los presentes términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta completa del Programa de I+D+i en el SIGP teniendo en cuenta las fechas establecidas en el cronograma, en alguno de los Ejes temáticos definidos en el numeral 4. El formulario del Programa de I+D+i y sus proyectos diligenciados en el SIGP, deberán contener la información requerida en el Anexo 2.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta unificada de aval, compromiso institucional y modelo de gobernanza (Anexo 4), debidamente diligenciada y firmada por los representantes legales de las entidades que hagan parte de la alianza, o quienes hagan sus veces, siempre y cuando se adjunte el documento que lo faculte.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades que hagan parte de la Alianza deberán comprometer conjuntamente una contrapartida en dinero y/o especie por un monto mínimo del 30% del valor solicitado al Ministerio para financiar el Programa de I+D+i, sin tener en cuenta los rubros para el apoyo económico a Jóvenes Investigadores e Innovadores y el Apoyo al Doctor de la estancia posdoctoral.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los aportes de contrapartida de las empresas que participen en el programa de I+D+i (excepto microempresas, pequeñas empresas y Spin-off) deberán tener un mínimo de contrapartida en dinero entre el 10% y el 40% del valor total de contrapartida aportado por la empresa, de acuerdo con su tamaño.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las empresas participantes deben haber sido constituidas como mínimo hace dos (2) años, lo cual se verificará a través del registro mercantil o el acto administrativo de creación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Toda la documentación que permita verificar el cumplimiento del requisito de constitución de la empresa deberá ser presentada como anexo de la propuesta. Adjuntar certificado que valide el tamaño de la empresa.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el SIGP deberán registrarse entre tres (3) y hasta cuatro (4) proyectos de Ciencia, tecnología e innovación articulados al Programa de I+D+i postulado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP el estado de madurez de la tecnología o producto de acuerdo con la TRL propuesta (Ver Anexo 3) y anexar las respectivas evidencias.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP la 'Experiencia en proyectos de I+D+i' según lo describe el Anexo 2 y anexar las respectivas evidencias.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Al momento de inscripción de la propuesta en el SIGP, se debe inscribir el personal correspondiente e identificar el nombre del Director del Programa de I+D+i y de los investigadores principales de los proyectos que conforman el Programa, los cuales para fungir con dicho rol, deberán cumplir con lo indicado en el numeral 12.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar concepto de un comité de ética/bioética, cuando aplique, donde se especifique que el Programa I+D+i de solución a los desafíos ha sido revisado y avalado. Debe anexar a este aval, el acto administrativo que soporta la conformación del Comité de ética o de Bioética que lo expide.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cuando aplique, se deberá presentar las evidencias del trámite o la existencia de permisos y licencias ambientales necesarios para la ejecución de la propuesta, de acuerdo con la normatividad colombiana vigente.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las alianzas enfocadas en el desarrollo de Programas de I+D+i en las etapas 6 a 9 de la TRL deberán incluir dentro de su conformación a organizaciones con experiencia en transferencia de resultados de investigación o incubación de empresas de base tecnológica, legalmente constituidas en Colombia y verificable en su objeto social o estatutos, con capacidad o visión para explotar comercialmente los productos relacionados con los ejes temáticos.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cuando la alianza vincule organizaciones y/o comunidades, deberá presentar el Anexo 6 - Modelo de aval de la organización y/o comunidad – Debidamente suscrito.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el registro del Programa de I+D+i en el SIGP, deberán quedar registrados en los proyectos el perfil, funciones y presupuesto destinado para la vinculación de los cinco (5) doctores. No se exigirá la identificación del Doctor para el registro, pero será exigida para su vinculación al inicio de la ejecución del Programa.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el registro del Programa de I+D+i en el SIGP, deberán quedar registrados en los proyectos el perfil, funciones y presupuesto destinado para la vinculación de cada uno de los diez (10) Jóvenes Investigadores e Innovadores (mínimo 10 Jóvenes). No se exigirá su identificación para el registro, pero será exigida para su vinculación durante la ejecución del Programa.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los integrantes del equipo investigador que sean miembros de poblaciones específicas (negros, afrocolombianos, raizal, palenquera, ROM, indígenas, víctimas del conflicto o en condición de discapacidad) deberán anexar los certificados correspondientes. Este requisito es opcional y no inhabilitante.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "En caso de interés en acceder a beneficios tributarios, se deberá diligenciar en el SIGP la información respectiva. El Programa de I+D+i deberá ser elegido y financiado para acceder al beneficio. Este requisito es opcional y no inhabilitante.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "En calidad de Director del Programa, el investigador sólo podrá participar en una (1) propuesta de Programa."
+    },
+    {
+      "texto": "En calidad de Investigador principal del proyecto, un investigador podrá participar en máximo dos (2) propuestas de proyectos del mismo programa."
+    },
+    {
+      "texto": "La entidad que se presente en calidad de Ejecutora sólo podrá presentar hasta tres (3) programas a esta convocatoria con este rol (ejecutora), siempre que sean enfocados en ejes temáticos diferentes. Si se presenta más de una propuesta en respuesta a un mismo eje temático, sólo se tendrá en cuenta la primera registrada. Si se presentan más de tres propuestas en respuesta a ejes temáticos diferentes, solo se tendrán en cuenta las tres primeras registradas en respuesta a esos ejes. Esta inhabilidad también aplica para las instituciones que tienen más de una sede."
+    },
+    {
+      "texto": "La propuesta presentada no podrá ser financiada simultáneamente con recursos de otra convocatoria del Ministerio."
+    },
+    {
+      "texto": "No cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en caso de ser beneficiado por la presente convocatoria."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos en cualquier etapa del proceso: pre-contractual, contractual o post contractual."
+    },
+    {
+      "texto": "Alterar alguno de los documentos solicitados en la sección de requisitos."
+    }
+  ],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1540,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 604,
+          "completion_tokens": 126
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7587,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2202,
+          "completion_tokens": 573
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8688,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2686,
+          "completion_tokens": 1781
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4098,
+          "completion_tokens": 1689
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES) nacional",
+          "rol": "Ejecutora o coejecutora",
+          "condicion": "Con acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria"
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Con acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+          "riesgo": "acreditacion",
+          "nota": "Verificar vigencia de acreditacion institucional/programas."
+        },
+        {
+          "condicion": "Con acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+          "Contar con grupos de investigación categorizados por Minciencias"
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada con acreditación institucional, es elegible para postularse en alianza como ejecutora. Debe verificar la vigencia de su acreditación y la categorización de sus grupos de investigación."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+        "Contar con grupos de investigación categorizados por Minciencias"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada con acreditación institucional, es elegible para postularse en alianza como ejecutora. Debe verificar la vigencia de su acreditación y la categorización de sus grupos de investigación.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

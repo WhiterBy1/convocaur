@@ -1,0 +1,278 @@
+{
+  "convocatoria": "964",
+  "objetivo": null,
+  "actores_elegibles": [
+    {
+      "tipo": "Profesionales colombianos",
+      "rol": "docentes y/o directivos docentes",
+      "condicion": "Que trabajen o acrediten haber trabajado en establecimientos educativos públicos o privados de las Subregiones del departamento de Nariño: Pacífico Sur (Francisco Pizarro y Tumaco), Telembí (Barbacoas, Magüí y Roberto Payán) y Sanquianga (El Charco, La Tola, Mosquera, Olaya Herrera y Santa Bárbara), interesados en cursar un programa de maestría ofertado por la Universidad Santiago de Cali para el desarrollo de una propuesta de investigación, en el marco de las Misiones de la Política de Investigación e Innovación del Ministerio de Ciencia, Tecnología e Innovación."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'Dirigido A' de los Términos de Referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estar registrado y tener datos actualizados en el aplicativo CvLAC de la plataforma ScienTI del Ministerio de Ciencia, Tecnología e Innovación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir y finalizar la inscripción de documentos en el Sistema Integrado de Gestión de Proyectos (SIGP) del Ministerio de Ciencia, Tecnología e Innovación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ser ciudadano(a) colombiano(a) y adjuntar copia legible de la cédula de ciudadanía por ambas caras.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta de respaldo al docente y/o directivo docente del establecimiento educativo (Anexo No. 1), debidamente diligenciada y firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditación del establecimiento educativo mediante consulta en el Directorio Único de Establecimientos Educativos (DUE) o SNIES, según corresponda, con estado activo.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado laboral del establecimiento educativo (público: emitido por Secretaría de Educación; privado: emitido por representante legal o rector).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuesta de investigación a desarrollar en el marco de la maestría (Anexo No. 2), diligenciada e inscrita en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar copia del diploma y/o acta de grado del pregrado (se aceptan documentos electrónicos; si es extranjero, convalidación del MEN).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Perfil del candidato que asumirá el desarrollo de la propuesta (Anexo No. 3), firmado por el candidato.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Promedio académico mínimo de 3.0 en escala 0.0 a 5.0 en pregrado (opcional, puntuable).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Enfoque diferencial y/o interseccional (opcional, puntuable): adjuntar documentación según Tabla No. 1 y especificar en Anexo No. 3.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Documentos en idioma diferente al español deben incluir traducción oficial al español (original y traducido en un único PDF).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Ministerio podrá solicitar información y documentación adicional, complementaria o aclaraciones en cualquier momento.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No modificar información registrada en el formulario SIGP (candidato, título de propuesta, Área OCDE y rubros) durante la subsanación.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Consultar permanentemente que los documentos estén registrados correctamente en SIGP antes del cierre y durante el periodo de ajuste.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Garantizar fiabilidad, coherencia y completitud de la información consignada en SIGP y anexos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En caso de subir documentos sin firma, se podrá subsanar en el periodo de subsanación de requisitos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "Presentar propuestas que ya cuenten con financiación, sea con recursos del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias o invitaciones financiadas o cofinanciadas por EL MINISTERIO o el Sistema General de Regalías."
+    },
+    {
+      "texto": "Presentarse a dos programas de maestrías de manera simultánea en la presente convocatoria."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa de Formación de Alto Nivel a través del Ministerio de Ciencia, Tecnología e Innovación, Colfuturo, Fullbright o convocatorias financiadas por el Sistema General de Regalías o el ICETEX, a la fecha de apertura de la convocatoria."
+    },
+    {
+      "texto": "Estar cursando actualmente un programa de maestría en modalidad presencial como virtual."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apta para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos en cualquier etapa del proceso: precontractual, contractual o post contractual."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Aporte técnico y científico de la propuesta",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la congruencia técnica y científica de la propuesta, incluyendo alineación con el programa de maestría y la Política de Investigación e Innovación orientada por Misiones."
+    },
+    {
+      "nombre": "Contribución de la propuesta al desarrollo de la comunidad educativa, su entorno y al fortalecimiento de la CTeI",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la pertinencia y contribución de la propuesta al desarrollo de la comunidad educativa y su entorno, considerando impactos esperados y relación con la línea temática de la Política de Misiones."
+    },
+    {
+      "nombre": "Capacidad técnica y trayectoria del candidato",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la experiencia del candidato como docente, su motivación y expectativas, y el promedio académico de pregrado."
+    },
+    {
+      "nombre": "Articulación de actores de Ciencia, Tecnología e Innovación en el marco de la propuesta de investigación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si la propuesta contempla actividades claras para la articulación de actores de CTeI en la comunidad educativa y su entorno."
+    },
+    {
+      "nombre": "Enfoque diferencial e interseccional",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el enfoque diferencial del candidato y de la población impactada por la propuesta, según categorías de enfoque diferencial."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "Hasta CIENTO DIECIOCHO MILLONES CUATROCIENTOS NOVENTA Y NUEVE MIL TRESCIENTOS CINCO PESOS M/CTE ($118.499.305)",
+    "monto_total_cop": 118499305.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "El apoyo económico cubre matrícula (hasta $35.699.305), inscripción ($300.000), investigación y apoyo bibliográfico ($10.500.000), y sostenimiento mensual ($3.000.000/hasta $72.000.000)."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 645,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 490,
+          "completion_tokens": 321
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12220,
+        "intento": 2,
+        "usage": {
+          "prompt_tokens": 3709,
+          "completion_tokens": 1003
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3475,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1228,
+          "completion_tokens": 386
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2512,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1144,
+          "completion_tokens": 928
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12493,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3832,
+          "completion_tokens": 2741
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria está dirigida exclusivamente a profesionales colombianos (docentes y/o directivos docentes) de establecimientos educativos en subregiones específicas de Nariño, no a instituciones de educación superior como proponentes o ejecutoras."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria está dirigida a personas naturales (docentes y directivos docentes) de establecimientos educativos en subregiones de Nariño, interesados en cursar una maestría ofertada por la Universidad Santiago de Cali. No se contempla la participación de IES como proponentes o ejecutoras."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida exclusivamente a profesionales colombianos (docentes y/o directivos docentes) de establecimientos educativos en subregiones específicas de Nariño, no a instituciones de educación superior como proponentes o ejecutoras."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria está dirigida a personas naturales (docentes y directivos docentes) de establecimientos educativos en subregiones de Nariño, interesados en cursar una maestría ofertada por la Universidad Santiago de Cali. No se contempla la participación de IES como proponentes o ejecutoras.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

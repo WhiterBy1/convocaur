@@ -1,0 +1,328 @@
+{
+  "convocatoria": "975",
+  "objetivo": "Fortalecer el capital humano de alto nivel mediante el otorgamiento de apoyos económicos a profesionales universitarios colombianos que deseen iniciar estudios de maestría y doctorado nacional y doctorado en el exterior, a través de la conformación de un banco de elegibles.",
+  "actores_elegibles": [
+    {
+      "tipo": "Profesional universitario colombiano",
+      "rol": "Estudiante de maestría nacional (Modalidad 1)",
+      "condicion": "Desarrollando estudios en primer semestre, o admitido, o en proceso de admisión para iniciar a partir de 2026-2, en programa con registro calificado vigente del MEN, en IES colombiana, modalidad presencial o virtual."
+    },
+    {
+      "tipo": "Profesional universitario colombiano",
+      "rol": "Estudiante de doctorado nacional (Modalidad 2)",
+      "condicion": "Desarrollando estudios en primer año o primer/segundo semestre, o admitido para iniciar a partir de 2026-2, o en proceso de admisión, en programa de doctorado con registro calificado vigente del MEN, en IES colombiana, modalidad presencial o virtual."
+    },
+    {
+      "tipo": "Profesional universitario colombiano",
+      "rol": "Estudiante de doctorado en el exterior (Modalidad 3)",
+      "condicion": "Desarrollando estudios en primer año o primer/segundo semestre, o admitido para iniciar a partir de 2026-2, o en proceso de admisión, en programa de doctorado en universidad extranjera clasificada en primeras 500 posiciones del Ranking General de Shanghái 2025 (o primeras 200 del QS World University Rankings 2025 by Subject para áreas específicas), modalidad presencial."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Maestría Nacional",
+      "modalidad": null,
+      "descripcion_corta": "Apoyos económicos para maestría nacional en modalidad presencial o virtual, para profesionales colombianos."
+    },
+    {
+      "nombre": "Doctorado Nacional",
+      "modalidad": null,
+      "descripcion_corta": "Apoyos económicos para doctorado nacional en modalidad presencial o virtual."
+    },
+    {
+      "nombre": "Doctorado en el Exterior",
+      "modalidad": null,
+      "descripcion_corta": "Apoyos económicos para doctorados en el exterior, en universidades clasificadas en rankings, modalidad presencial."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir, finalizar y radicar la propuesta en el SIGP según el numeral 11.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3. DIRIGIDO A.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar copia legible de la cédula de ciudadanía por ambas caras, evidenciando ciudadanía colombiana y mayoría de edad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 1. Carta de compromiso, conocimiento y aceptación debidamente diligenciada y firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar en el SIGP el Anexo 2. Propuesta de Investigación, Desarrollo Tecnológico y/o Innovación en PDF.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Modalidad 1 (Maestría Nacional): Adjuntar copia del diploma y/o acta de grado del pregrado, o certificado de culminación de estudios y requisitos para obtención del título.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Modalidad 2 (Doctorado Nacional): Adjuntar copia del diploma y/o acta de grado del pregrado y la maestría, o certificado de culminación de estudios de maestría.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Modalidad 3 (Doctorado en el Exterior): Adjuntar copia del diploma y/o acta de grado del pregrado y la maestría, o certificado de culminación de estudios de maestría.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para títulos de pregrado y/o maestría de universidad extranjera, adjuntar convalidación del Ministerio de Educación Nacional.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se aceptan capturas de pantalla de sistemas de información de las IES.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Modalidad 1: Adjuntar certificación de estado académico cursando primer semestre 2026-1, o carta de admisión, o documento soporte de proceso de admisión en vigencia 2026-1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Modalidad 2: Adjuntar certificación de estado académico cursando primer o segundo semestre o primer año de doctorado en 2026-1, o carta de admisión, o documento soporte de proceso de admisión en vigencia 2026-1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Modalidad 3: Adjuntar certificación de estado académico cursando primer o segundo semestre o primer año de doctorado en 2026-1, o carta de admisión, o documento soporte de proceso de admisión en vigencia 2026-1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial (opcional): Adjuntar documentación especificada en la Tabla No. 1 del Numeral 6 para optar por puntos adicionales.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Si algún documento está en idioma diferente al español, adjuntar traducción oficial al español junto con el original en un único PDF.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Ministerio podrá solicitar en cualquier momento información y documentación adicional, complementaria o aclaraciones.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para candidatos en proceso de admisión en vigencia 2026-1 para iniciar estudios en 2026-2, remitir carta de admisión durante el período de aclaraciones; de lo contrario, no formarán parte del banco definitivo de elegibles.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el periodo de subsanación no se podrá modificar la información registrada en el formulario SIGP concerniente al candidato, propuesta y ficha del proyecto.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El candidato es responsable de consultar permanentemente que sus documentos hayan quedado cargados correctamente en el SIGP antes del cierre y durante el periodo de subsanación.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el periodo de subsanación no se podrá subsanar la omisión del cargue de algún documento, la falta de contenido, el cargue en blanco o dañado.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En la etapa de verificación de requisitos se valida el cargue de documentos y cumplimiento de requisitos habilitantes, no el contenido de la propuesta.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los resultados de la verificación de requisitos se consultan en el SIGP, en el módulo 'Requisitos', campo 'Observaciones Generales de los Requisitos'.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El candidato es responsable de garantizar la fiabilidad, coherencia y completitud de la información consignada.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa de Formación de Alto Nivel a través del Ministerio de Ciencia, Tecnología e Innovación, Colfuturo, Fulbright o convocatorias financiadas por el Sistema General de Regalías o el ICETEX, a la fecha de apertura de la convocatoria."
+    },
+    {
+      "texto": "Tener un título de formación igual o superior al nivel por el cual se postula."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos, o no cargue de uno o más documentos o certificados exigidos en los requisitos."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Aporte técnico y científico de la propuesta",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la congruencia entre el programa de formación de alto nivel y la Política de Investigación e Innovación Orientada por Misiones."
+    },
+    {
+      "nombre": "Articulación con actores del Sistema de Ciencia, Tecnología e Innovación en la propuesta",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si la propuesta describe actividades claras y definidas de articulación con actores del Sistema de Ciencia, Tecnología e Innovación."
+    },
+    {
+      "nombre": "Resultados y productos esperados de la propuesta de investigación desarrollo tecnológico y/o innovación",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si la propuesta identifica y describe los resultados y productos de I+D+i esperados de manera coherente con el problema identificado."
+    },
+    {
+      "nombre": "Enfoque diferencial de los/las candidatos(as)",
+      "puntaje_max": 16.0,
+      "peso_pct": 15.0,
+      "descripcion": "Evalúa el cumplimiento de categorías de enfoque diferencial según CONPES 4182, con puntaje máximo aditivo de 15 puntos."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "TRESCIENTOS SESENTA Y OCHO MIL DIECISIETE MILLONES DE PESOS M/CTE ($368.017.000.000)",
+    "monto_total_cop": 368017000000.0,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 48,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Nación, mediante vigencias futuras ordinarias",
+    "notas": "El proyecto BPIN 202300000000117 financia programas de doctorado nacional y en el exterior (hasta 48 meses) y maestría nacional (hasta 24 meses). Los recursos provienen de la Nación con vigencias futuras ordinarias autorizadas por CONFIS. No se menciona contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 343,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 359,
+          "completion_tokens": 141
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4705,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1949,
+          "completion_tokens": 373
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8684,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3257,
+          "completion_tokens": 735
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 5367,
+          "completion_tokens": 1528
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2688,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1213,
+          "completion_tokens": 252
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13170,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 5382,
+          "completion_tokens": 200
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9533,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3789,
+          "completion_tokens": 349
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria está dirigida exclusivamente a profesionales colombianos como beneficiarios directos, no a instituciones. Por lo tanto, no puede postularse como proponente ni ejecutora."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria está dirigida exclusivamente a profesionales colombianos como beneficiarios directos, no a instituciones. Por lo tanto, no puede postularse como proponente ni ejecutora.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

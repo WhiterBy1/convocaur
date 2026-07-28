@@ -1,0 +1,312 @@
+{
+  "convocatoria": "978",
+  "objetivo": "Impulsar la investigación, el desarrollo y la innovación en salud para fortalecer las capacidades locales y territoriales, ampliar la disponibilidad de conocimientos, tecnologías y servicios innovadores, y consolidar la soberanía sanitaria del país mediante la promoción de soluciones que respondan a las necesidades en salud de la población.",
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento de la cadena de valor de producción de tecnologías estratégicas en salud",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de I+D+i orientados al fortalecimiento de capacidades nacionales para producción de medicamentos y tecnologías en salud, contribuyendo a soberanía sanitaria y acceso equitativo."
+    },
+    {
+      "nombre": "Investigación intersectorial con enfoque de Una Salud (One Health) para la vigilancia, prevención y control de la resistencia antimicrobiana",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de I+D+i intersectoriales e interdisciplinarios para fortalecer capacidades nacionales en generación de conocimiento y soluciones innovadoras contra la RAM en Colombia."
+    },
+    {
+      "nombre": "Investigación en trabajos de cuidado, economía del cuidado y salud mental",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de I+D+i orientados a generar evidencia y diseñar modelos que reconozcan, valoren y redistribuyan los trabajos de cuidado, con enfoque de género y salud mental."
+    },
+    {
+      "nombre": "Investigación en el diseño, evaluación y fortalecimiento de modelos integrales de atención en salud para la persona mayor",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de I+D+i para mejorar la calidad de vida y autonomía de personas mayores mediante modelos integrales de atención con enfoque de curso de vida y envejecimiento saludable."
+    },
+    {
+      "nombre": "Eliminación y sostenimiento de la eliminación de enfermedades transmisibles y condiciones prioritarias",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de I+D+i para fortalecer vigilancia y atención primaria, alineados al Plan Nacional de Eliminación de Enfermedades Transmisibles, con enfoque territorial y diferencial."
+    },
+    {
+      "nombre": "Investigación en enfermedades crónicas no transmisibles y cáncer",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de I+D+i para generar evidencia y estrategias integrales sobre ECNT, incluyendo cáncer, enfermedades cardiometabólicas y respiratorias, con enfoque de curso de vida y equidad."
+    },
+    {
+      "nombre": "Fortalecimiento para la detección temprana y la atención integral en enfermedades huérfanas/raras",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de I+D+i en Colombia orientados a mejorar la detección temprana y atención integral de enfermedades raras."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir y finalizar la inscripción del proyecto en el SIGP, con la información requerida, dentro de las fechas establecidas, seleccionando una línea temática del numeral 4.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'Dirigido A', verificado mediante el Anexo 2. Carta de Aval y Compromiso Institucional.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el Anexo 2. Carta de Aval y Compromiso Institucional, firmado por representantes legales de todas las entidades de la alianza. Si firma apoderado, anexar certificado de existencia y representación legal y poder. La carta debe especificar contrapartida del 10% en dinero/especie y que la entidad ejecutora maneja los recursos. Si hay organización étnica, adjuntar Anexo 6.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento o acto administrativo que acredite la existencia o representación legal de cada entidad, con fecha de expedición no mayor a 30 días al cierre de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si la alianza vincula organizaciones/comunidades, adjuntar Anexo 6 (Modelo de Aval) y certificado de personería jurídica. Las entidades colaboradoras deben adjuntar certificado de existencia y representación legal con vigencia no mayor a 30 días al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 5. Experiencia e Idoneidad de la Alianza, con soportes que demuestren experiencia acumulada en al menos 3 proyectos de I+D+i en los últimos 10 años en la línea temática, mediante certificación de ejecución o acta de liquidación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP todo el personal del proyecto, identificando al Investigador principal y coinvestigadores con sus responsabilidades. El personal científico residente en Colombia debe crear o actualizar su CvLAC. El IP solo puede participar en una propuesta como IP.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el aval del Comité de Ética/Bioética nacional o similar, con el acto administrativo que soporta su conformación. Si aplica, adjuntar aval del Comité de Cuidado y Uso de Animales, y cumplir con autorizaciones para intervenciones en seres humanos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proyecto involucra ensayos clínicos, presentar el soporte emitido por la entidad competente que respalde el proyecto antes de su implementación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP el perfil, funciones y presupuesto para la vinculación de Jóvenes Investigadores e Innovadores, y adjuntar el Anexo 7. Plan de Actividades Jóvenes Investigadores debidamente diligenciado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar evidencias del trámite de consultas previas, permisos o licencias según normatividad: si involucra comunidades étnicas, certificación DANCP y acta de consulta previa; si acceso a recursos genéticos, contrato de acceso o permiso de recolección; si no requiere, carta de declaración motivada firmada por representante legal o investigador principal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para investigadores con enfoque de diversidad e interseccional (opcional, otorga puntaje), adjuntar la documentación especificada en la Tabla N°1 y copia del documento de identidad, registrándose en el SIGP en el rol correspondiente; no es subsanable.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria. En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado del proceso de selección y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
+    },
+    {
+      "texto": "El proyecto presentado no podrá ser financiado simultáneamente con recursos de otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR) o con financiación de otras entidades del Estado, para acreditar esto, se deberá suscribir en el Anexo 2. Carta Aval y Compromisos Institucionales."
+    },
+    {
+      "texto": "Incumplir con el valor del 10% de una contrapartida en dinero y/o especie del 10%, como lo establece el numeral 10. DURACIÓN Y FINANCIACIÓN para financiar el Proyecto."
+    },
+    {
+      "texto": "Que el investigador principal figure como Investigador Principal (IP) en más de una (1) propuesta, o que habiendo participado como IP en una propuesta, figure adicionalmente como coinvestigador en otra propuesta presentada a la convocatoria sin importar la línea temática."
+    },
+    {
+      "texto": "Que una entidad participe en más de una (1) propuesta dentro de una misma línea temática, o que desempeñe más de un rol (ejecutora, coejecutora o colaboradora) en distintas propuestas presentadas a una misma línea temática, en contravención de lo dispuesto en el Numeral 3. Dirigido a. Esta causal no aplica al caso de duplicidad de la entidad ejecutora previsto en el Numeral 3. Dirigido a, el cual se resuelve mediante la regla de prevalencia de la propuesta radicada en primer lugar en el SIGP, conforme a la fecha y hora de registro."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Coherencia con la política pública, la temática seleccionada y pertinencia territorial",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la alineación del proyecto con los lineamientos, prioridades y objetivos de la política pública correspondiente, la pertinencia de la temática seleccionada, y su contribución efectiva a la solución de problemáticas en soberanía sanitaria y bienestar social en los territorios."
+    },
+    {
+      "nombre": "Articulación entre justificación, objetivos y problema a abordar",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Valora si la justificación sustenta adecuadamente la necesidad del proyecto, si los objetivos responden de manera directa al problema planteado y si existe conexión lógica."
+    },
+    {
+      "nombre": "Pertinencia y coherencia metodológica",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Analiza si la metodología propuesta es apropiada para alcanzar los objetivos, si es técnicamente sólida y si guarda coherencia con el enfoque del proyecto."
+    },
+    {
+      "nombre": "Integración del plan de actividades, productos esperados, recursos y rubros presupuestales",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Examina la consistencia entre las actividades planeadas, los productos/resultados esperados y los recursos requeridos, verificando además que la solicitud presupuestal esté justificada en función de los objetivos, la metodología y la duración del proyecto."
+    },
+    {
+      "nombre": "Fundamentación científica y formulación de la pregunta e hipótesis de investigación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si la pregunta de investigación aporta innovación y potencial de impacto científico, tecnológico o social; si los fundamentos teóricos y conceptuales son sólidos y actuales; y si las preguntas e hipótesis son precisas, coherentes y están alineadas con los objetivos y el problema central del proyecto."
+    },
+    {
+      "nombre": "Conocimiento de los riesgos técnicos del proyecto",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el conocimiento de los riesgos, establecimiento de estrategias para mitigarlos, controlarlos, evitarlos o transferirlos, de acuerdo con la visión integral del proyecto."
+    },
+    {
+      "nombre": "Suficiencia e idoneidad de las capacidades técnicas permanentes y de la infraestructura y/o dotación de equipos para la I+D+i en tecnologías en salud",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la pertinencia, disponibilidad y suficiencia de las capacidades técnicas, talento humano especializado, infraestructura, laboratorios, plataformas tecnológicas, equipamiento y demás recursos institucionales requeridos para el adecuado desarrollo del proyecto, en coherencia con la línea temática y los objetivos propuestos."
+    },
+    {
+      "nombre": "Conformación de la alianza (número y ubicación de entidades coejecutoras adicionales)",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "El puntaje se otorga de acuerdo con el número y la ubicación de las entidades coejecutoras adicionales a la mínima requerida o colaboradoras, domiciliadas en municipios de categoría 4, 5 o 6."
+    },
+    {
+      "nombre": "Conformación de la alianza (domicilio de entidad coejecutora adicional según IDIC)",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "El puntaje se otorga de acuerdo con el domicilio de la entidad coejecutora o colaboradora adicional a la mínima requerida, teniendo en cuenta la clasificación del Índice Departamental de Innovación para Colombia (IDIC)."
+    },
+    {
+      "nombre": "Generación de productos de nuevo conocimiento Tipo A y/o Tipo TOP",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proponente deberá demostrar que con el desarrollo del proyecto se generarán productos de nuevo conocimiento y de desarrollo tecnológico e innovación, en concordancia relativa con el modelo actual de medición de grupos de investigación y reconocimiento de investigadores de MinCiencias."
+    },
+    {
+      "nombre": "Obtención de Productos resultados de actividades de Apropiación Social del Conocimiento",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto contempla la obtención de productos en las áreas de conocimiento objeto del proyecto, otorgando puntaje según la cantidad de productos (al menos 3 para máximo puntaje)."
+    },
+    {
+      "nombre": "Fortalecimiento de capacidades y atención de necesidades en municipios de categorías 4, 5 o 6",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto de I+D+i deberá tener actividades, resultados o procesos de implementación orientados a generar impacto real en municipios clasificados en categorías 4, 5 o 6."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CIENTO NUEVE MIL MILLONES DE PESOS M/CTE ($109.000.000.000)",
+    "monto_total_cop": 109000000000.0,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 48,
+    "contrapartida_pct_min": 10.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "Contrapartida mínima del 10% del valor solicitado sin incluir jóvenes investigadores."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10376,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2924,
+          "completion_tokens": 338
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3701,
+          "completion_tokens": 628
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4100,
+          "completion_tokens": 2278
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3707,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1306,
+          "completion_tokens": 1776
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6093,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2242,
+          "completion_tokens": 953
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4324,
+          "completion_tokens": 1299
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "": 1
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "convocatoria": "40",
+  "objetivo": "Impulsar el desarrollo de Ecosistemas de Investigación e Innovación para la transición energética justa, mediante la conformación de un banco de proyectos elegibles de I+D+i orientados al desarrollo, adopción y adaptación de tecnologías, que aprovechen sosteniblemente el potencial de los recursos naturales de las regiones, desarrollen cadenas de valor y generen capacidades de CTeI en los territorios; en el marco del reto tres (3) “Asegurar la generación, acceso y uso de energías sostenibles para todos” del Plan Bienal de Convocatorias 2023 – 2024.",
+  "actores_elegibles": [
+    {
+      "tipo": "Academia",
+      "rol": null,
+      "condicion": "Debe incluir al menos un actor de este tipo en la alianza."
+    },
+    {
+      "tipo": "Sector Productivo - Empresa",
+      "rol": null,
+      "condicion": "Debe incluir al menos un actor de este tipo en la alianza."
+    },
+    {
+      "tipo": "Estado",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "Sociedad Civil Organizada",
+      "rol": null,
+      "condicion": "Obligatorio solo para la Línea Temática 1."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Soluciones tecnológicas para generación de energía a partir de recursos locales",
+      "modalidad": null,
+      "descripcion_corta": "Evaluar y aprovechar de manera sostenible el potencial de los recursos naturales de una región y desarrollar soluciones de generación, acceso y uso de la energía, a partir de tecnologías desarrolladas o apropiadas para las condiciones sociales, culturales y ambientales particulares de una comunidad o un territorio."
+    },
+    {
+      "nombre": "Nuevas cadenas productivas regionales asociadas a las Fuentes No Convencionales de Energía Renovables – en adelante (FNCER)",
+      "modalidad": null,
+      "descripcion_corta": "Abordar la identificación y desarrollo de cadenas y sectores productivos que hagan uso de las FNCER y, en lo posible, exploten la variabilidad y disponibilidad intermitente de la energía mediante aplicación de mecanismos de flexibilidad productiva."
+    },
+    {
+      "nombre": "Hidrógeno y sus derivados a partir de recursos locales",
+      "modalidad": null,
+      "descripcion_corta": "Contribuir de manera estratégica al desarrollo de la cadena de valor del hidrógeno como vector energético, materia prima y sustituto de los combustibles líquidos de origen fósil, mediante la investigación y el desarrollo tecnológico para la producción eficiente y sostenible de hidrógeno de bajas emisiones y sus derivados."
+    }
+  ],
+  "requisitos": [],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21 - CRONOGRAMA, de la presente convocatoria."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último boletín de responsables fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa o es inferior al monto señalado en el numeral 14. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 10.10 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender el “Reto 3 “ASEGURAR LA GENERACIÓN, ACCESO Y USO DE ENERGÍAS SOSTENIBLES PARA TODOS” - a través de por lo menos una demanda territorial (ver Anexo 4), para cada uno de los departamentos pertenecientes a la zona de influencia del proyecto en los que se ejecutarán los componentes descritos en el numeral 6 - COMPONENTES."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad técnico-científica y presupuestal del proyecto",
+      "puntaje_max": null,
+      "peso_pct": 30.0,
+      "descripcion": "Evalúa coherencia entre componentes del proyecto, antecedentes, presupuesto, correspondencia con TRL y alineación con políticas nacionales/regionales."
+    },
+    {
+      "nombre": "Contribución al desarrollo regional y al fortalecimiento de capacidades propias en CTeI",
+      "puntaje_max": null,
+      "peso_pct": 35.0,
+      "descripcion": "Evalúa impactos regionales, vinculación de personal, productos de nuevo conocimiento, desarrollo tecnológico, apropiación social, contribución a capacidades y transferencia de resultados."
+    },
+    {
+      "nombre": "Capacidad técnica, idoneidad y trayectoria de la entidad proponente y de los aliados",
+      "puntaje_max": null,
+      "peso_pct": 17.0,
+      "descripcion": "Evalúa participación de actores de la cuádruple hélice, aportes de los integrantes y experiencia de la entidad proponente."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CIENTO SEIS MIL SEISCIENTOS CUARENTA Y DOS MILLONES OCHOCIENTOS SETENTA Y SIETE MIL CUARENTA Y SEIS PESOS M/CTE (106.642.877.046)",
+    "monto_total_cop": 106642877046.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 48,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2023-2024",
+    "notas": "Monto total distribuido en seis regiones, cada una con $17.773.812.841. Rango por proyecto: desde $14.219.050.273 hasta $17.773.812.841. Movilidad no excede 2% del monto solicitado al SGR; infraestructura no excede 20% del valor total del proyecto."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1744,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 684,
+          "completion_tokens": 249
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9085,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2772,
+          "completion_tokens": 976
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8670,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2469,
+          "completion_tokens": 764
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3356,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1170,
+          "completion_tokens": 618
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12099,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3618,
+          "completion_tokens": 243
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4057,
+          "completion_tokens": 262
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las universidades como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las universidades como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

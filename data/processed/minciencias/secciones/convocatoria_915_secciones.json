@@ -1,0 +1,360 @@
+{
+  "archivo": "convocatoria_915_tdr.pdf",
+  "convocatoria": "915",
+  "n_paginas": 20,
+  "n_caracteres_total": 64936,
+  "toc_detectado": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "pagina_toc": 2
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 4,
+      "titulo": "FOCOS TEMÁTICOS",
+      "titulo_norm": "FOCOS TEMATICOS",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 5,
+      "titulo": "RECOMENDACIONES GENERALES",
+      "titulo_norm": "RECOMENDACIONES GENERALES",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 6,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 7,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "pagina_toc": 6
+    },
+    {
+      "numero": 9,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "pagina_toc": 9
+    },
+    {
+      "numero": 10,
+      "titulo": "CONTENIDOS DE LA PROPUESTA",
+      "titulo_norm": "CONTENIDOS DE LA PROPUESTA",
+      "pagina_toc": 10
+    },
+    {
+      "numero": 11,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 12,
+      "titulo": "AUTORIZACION USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 13,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 14,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 15,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "pagina_toc": 16
+    },
+    {
+      "numero": 16,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "pagina_toc": 17
+    },
+    {
+      "numero": 17,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "pagina_toc": 17
+    },
+    {
+      "numero": 18,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "pagina_toc": 18
+    },
+    {
+      "numero": 19,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "pagina_toc": 18
+    },
+    {
+      "numero": 20,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "pagina_toc": 19
+    },
+    {
+      "numero": 21,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "pagina_toc": 19
+    },
+    {
+      "numero": 22,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "pagina_toc": 19
+    },
+    {
+      "numero": 23,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "pagina_toc": 20
+    }
+  ],
+  "n_secciones_toc": 22,
+  "n_secciones_cuerpo": 22,
+  "fingerprint": "1.PRESENTACION > 2.OBJETIVO > 3.DIRIGIDA A > 4.FOCOS TEMATICOS > 5.RECOMENDACIONES GENERALES > 6.ENFOQUE DIFERENCIAL > 7.REQUISITOS > 9.DURACION Y FINANCIACION > 10.CONTENIDOS DE LA PROPUESTA > 11.PROCEDIMIENTO DE INSCRIPCION > 12.AUTORIZACION USO DE DATOS PERSONALES > 13.CRITERIOS DE EVALUACION > 14.PROCEDIMIENTO DE EVALUACION > 15.BANCO DE ELEGIBLES > 16.ACLARACIONES > 17.CRONOGRAMA > 18.MODIFICACIONES > 19.PROPIEDAD INTELECTUAL > 20.VEEDURIAS CIUDADANAS > 21.ANEXOS > 22.ACEPTACION DE TERMINOS Y VERACIDAD > 23.MAS INFORMACION",
+  "titulos_norm": [
+    "PRESENTACION",
+    "OBJETIVO",
+    "DIRIGIDA A",
+    "FOCOS TEMATICOS",
+    "RECOMENDACIONES GENERALES",
+    "ENFOQUE DIFERENCIAL",
+    "REQUISITOS",
+    "DURACION Y FINANCIACION",
+    "CONTENIDOS DE LA PROPUESTA",
+    "PROCEDIMIENTO DE INSCRIPCION",
+    "AUTORIZACION USO DE DATOS PERSONALES",
+    "CRITERIOS DE EVALUACION",
+    "PROCEDIMIENTO DE EVALUACION",
+    "BANCO DE ELEGIBLES",
+    "ACLARACIONES",
+    "CRONOGRAMA",
+    "MODIFICACIONES",
+    "PROPIEDAD INTELECTUAL",
+    "VEEDURIAS CIUDADANAS",
+    "ANEXOS",
+    "ACEPTACION DE TERMINOS Y VERACIDAD",
+    "MAS INFORMACION"
+  ],
+  "comparacion_plantilla_sgr": {
+    "n_en_doc": 22,
+    "n_plantilla": 21,
+    "coinciden_exacto": false,
+    "cobertura_plantilla": 0.381,
+    "faltan_vs_plantilla": [
+      "DEMANDAS TERRITORIALES",
+      "LINEAS TEMATICAS",
+      "ALCANCE DEL PROYECTO",
+      "ENFOQUE TERRITORIAL",
+      "ENFOQUE DIFERENCIAL E INTERSECCIONAL",
+      "ORIENTACIONES PARA LA VINCULACION DE TALENTO HUMANO",
+      "REQUISITOS HABILITANTES",
+      "CAUSALES DE RECHAZO",
+      "CONTENIDO DEL PROYECTO",
+      "LISTADO DE ELEGIBLES",
+      "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
+      "VIGILANCIA DE LOS PROYECTOS",
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
+    ],
+    "extra_vs_plantilla": [
+      "FOCOS TEMATICOS",
+      "RECOMENDACIONES GENERALES",
+      "ENFOQUE DIFERENCIAL",
+      "REQUISITOS",
+      "CONTENIDOS DE LA PROPUESTA",
+      "AUTORIZACION USO DE DATOS PERSONALES",
+      "BANCO DE ELEGIBLES",
+      "ACLARACIONES",
+      "MODIFICACIONES",
+      "PROPIEDAD INTELECTUAL",
+      "VEEDURIAS CIUDADANAS",
+      "ANEXOS",
+      "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "MAS INFORMACION"
+    ]
+  },
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "texto": "El Plan Nacional de Desarrollo 2018 -2022, Pacto por Colombia Pacto por  la Equidad (PND), contempla entre sus bases \ntransversales el “Pacto por la Ciencia, la Tecnología y la Innovación: un sistema para construir el conocimiento de la \nColombia del futuro”. En su introducción establece que, la sociedad y la economía del futuro  estarán fundamentadas en el \nconocimiento. Es por esto que se plantea mejorar la eficiencia de la inversión en Ciencia, Tecnología e Innovación (CTeI) al \nmismo tiempo que enfocar esfuerzos en la solución de problemas a través de la CTeI, fortalecimiento de  programas de \ninvestigación, formación de investigadores y competencias necesarias para la nueva economía del conocimiento. \n \nDe igual manera, se busca contribuir con el objetivo No. 1 del Plan Estratégico Institucional de MINCIENCIAS 2021-2022, el \ncual es “Potenciar las capacidades regionales de CTeI que promuevan el desarrollo social y productivo hacia una Colombia \nCientífica”. Asimismo, la causal de CTeI que se impacta con esta convocatoria, se encuentra en el Artículo 2° numeral 1 del \nDecreto 591 de 1991 como se señala a continuación: “(…) Artículo 2° para los efectos del presente Decreto, entiéndase por \nactividades científicas y tecnológicas las siguientes:  \n \n1. Investigación científica y desarrollo tecnológico, desarrollo de nuevos productos y procesos,  creación y apoyo a centros \ncientíficos y tecnológicos y conformación de redes de investigación e información”. Con la presente convocatoria, se \nfavorece el fortalecimiento de los proyectos de investigación, desarrollo tecnológico e innovación (I+D+i)  de las empresas, \nmicro, pequeñas y medianas empresas, las Instituciones de Educación Superior y los Centros de investigación, innovación \ny/o desarrollo tecnológico, que cuenten con grupos de investigación con reconocimiento vigente en la convocatoria 833 de \n2018 del Ministerio de Ciencia, Tecnología e Innovación.  Así mismo, los jóvenes innovadores elaboran y entregan un \nInforme final de la s actividades desarrolladas que incluye  los resultados obtenidos en el marco de l proyecto de \ninvestigación, desarrollo tecnológico e innovación (I+D+i). \n \nAsí también, la presente convocatoria se encuentra alineada con el Plan de Acción Institucional 2022 en la meta estratégica \nJóvenes Investigadores e Innovadores apoyados por Colciencias (Hoy  Ministerio de Ciencia, Tecnología e  Innovación) y \naliados, en lo referente a la formación para vocaciones científicas que busca facilitar el acercamiento de jóvenes \ncolombianos con la investigación y la innovación, así como a programas de formación, capacitación y fortalecimiento de las \ncompetencias y habilidades técnicas para su ingreso y permanencia en el SNCTI, de manera que permita su vinculación, su \nentrenamiento en investigación y su inserción en dinámicas y redes especializadas de conocimiento. \n \nDe esta forma, se da cumplimiento al objetivo estratégico de la Dirección de Vocaciones y Formación en CTeI “ Fomentar la \nvocación científica y la formación del capital humano en CTeI y promover su vinculación a Entidades del SNCTI”.  \n \nPor otra parte, según cifras del Departamento Administrativo  Nacional de Estadística (DANE), la duración del aislamiento \npreventivo obligatorio conllevó a la disminución significativa de la actividad económica, el Producto Interno Bruto (PIB) \ndecreció en un 6.8% en el año 2020 respecto al año 2019. Para el mes de s eptiembre de 2021, la tasa de desempleo fue \n12,1%, lo que representó una reducción de 3,7 puntos porcentuales comparado con el mismo mes del 2020 (15,8%). La \ntasa de ocupación se ubicó en 53,7%, lo que representó un aumento de 3,1 puntos porcentuales compa rado con \nseptiembre de 2020 (50,6%), 1 y la tasa de desempleo (TD) de la población joven se ubicó en 21,5%, registrando una \n \n1 DANE Información para todos. Estadistica por tema. Tomado del link:https://www.dane.go v.co/index.php/estadisticas-por-tema/mercado-\nlaboral/empleo-y desempleo#:~:text=Finalmente%2C%20la%20tasa%20de%20ocupaci%C3%B3n,2020%20(50%2C6%25). \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 3 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \ndisminución de -6,5 puntos porcentuales frente al trimestre móvil junio - agosto 2020 (27,9%) 2; no obstante , continúa \nafectado el aparato productivo nacional y el bienestar de la población. \n \nDe acuerdo a lo anterior, El Ministerio de Ciencia, Tecnología e Innovación, como ente rector del Sistema Nacional de \nCiencia, Tecnología e Innovación (SNCTI)  en alianza con el Servicio Nacional de Aprendizaje SENA , busca con esta \nconvocatoria vincular mediante la modalidad de contrato de aprendizaje a jóvenes colombianos que estén cursando \nformación técnica, tecnológica o carrera profesional  a proyectos de investigación, desarrollo tecnológico e inn ovación \n(I+D+i) que se encuentren alineados con los focos  temáticos de la Misión de Sabio 3 y que sean desarrollados por Micro, \npequeñas, medianas y Grandes Empresas, Entidades públicas y privadas, Entidades sin ánimo de Lucro, Instituciones de \nEducación pa ra el Trabajo y el Desarrollo Humano, Centros de Investigación, innovación y/o Desarrollo tecnológico e \nInstituciones de Educación Superior reconocidas por el Ministerio de Educación Nacional,  para apoyar su ejecución y \ncontribuir a la mejora de sus proces os y servicios, la generación de conocimiento, el avance en el desarrollo de la ciencia, \ntecnología e innovación y a la reactivación económica y social del país. \n \nPor su parte, el Servicio Nacional de Aprendizaje SENA a través del Sistema de Investigación,  Desarrollo Tecnológico e \nInnovación SENNOVA tiene como fin la formación técnica y tecnológica  y la inclusión de procesos de Investigación, \nDesarrollo Tecnológico e Innovación - I+D+i en las regiones, y mediante sus pilares de Investigación, Desarrollo \nTecnológico e Innovación, busca contribuir al desarrollo tecnológico del país, la implantación de procesos innovadores en el \nsector productivo nacional, el fortalecimiento de las capacidades tecnológicas de las empresas, el desarrollo de nuevos \nproductos y pr ocesos, propiciando mejores condiciones de competitividad del país en los mercados nacionales e \ninternacionales.  \n \nLa presente  convocatoria se desarrolla en el marco del convenio suscrito entre el Ministerio de Ciencia, Tecnología e \ninnovación - Minciencias y el Servicio Nacional de Aprendizaje SENA: a) Convenio No. 878  de 2020 (convenio designado \ninternamente en el SENA con el número 061  de 2020), el cual tiene como objetivo “ Aunar esfuerzos técnicos, \nadministrativos y financieros para apoyar proyectos de Desarrollo Tecnológico e Innovación al sector productivo, \nencaminados al fortalecimiento de sus procesos, el desarrollo y/o mejora de bienes y servicios y la sofisticación de su oferta, \nque aporten a la reactivación económica; así como actividades que cont ribuyan al fortalecimiento del SNCTeI y el \nEcosistema SENNOVA ”, y busca c onformar un banco de propuestas elegibles que permita la vinculación de jóvenes \ninnovadores colombianos con formación técnica, tecnológica o carrera profesional para apoyar el desarrollo de proyectos de \ninvestigación, desarrollo tecnológico e innovación (I+D+i)  y así fortalecer su proceso formativo y desarrollo de la práctica \nlaboral, aportar al fortalecimiento del Sistema Nacional de Ciencia, Tecnología e Innovación mediante la elabor ación y \nentrega de productos de CTeI de generación de nuevo conocimiento, desarrollo tecnológico e innovación,  y producir \ninvestigación científica de calidad e impacto.  \n \n \n \n \n \n \n \n2 DANE Información para todos. Estadistica por tema. Tomado del link:  https://www.dane.gov.co/index.php/estadisticas-por-tema/mercado-\nlaboral/mercado-laboral-de-la-juventud#:~:text=La%20tasa%20de%20desempleo%20(TD,hombres%20fue%2016%2C4%25. \n3 Misión de Sabios:  \nhttps://minciencias.gov.co/sites/default/files/libro_mision_de_sabios_digital_1_2_0.pdf \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 4 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia",
+      "n_caracteres": 8359
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "texto": "Fomentar la vinculación de jóvenes innovadores que estén cursando programas de formación técnica, tecnológica o carrera \nprofesional bajo la modalidad de contrato de aprendizaje, para apoyar en la ejecución de proyectos de investigación, \ndesarrollo tecnológico e innovación en empresas 4 o actores del Sistema Nacional de Cienci a, Tecnología e Innovación \n(SNCTeI).",
+      "n_caracteres": 367
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "texto": "Personas juridicas5 o actores reconocidos del Sistema Nacional de CTeI 6 o entidades del gobierno nacional o Instituciones \nde Educación Superior (IES) , interesados en vincular jóvenes innovadores en sus proye ctos de investigación, desarrollo \ntecnológico e innovación (I+D+i).",
+      "n_caracteres": 279
+    },
+    {
+      "numero": 4,
+      "titulo": "FOCOS TEMÁTICOS",
+      "titulo_norm": "FOCOS TEMATICOS",
+      "texto": "Las propuestas de desarrollo e innovación que se presenten deben estar ali neadas a cualquiera de l os siguientes ocho \nfocos temáticos de la Misión de Sabios , los cuales s on relevantes para trazar  la ruta para el avance de la Ciencia, la \nTecnología y la Innovación como motores del desarrollo y la competitividad del país: \n \n \n1. Tecnologías convergentes (nano, info y cognotecnología) – Industrias 4.0  \n2. Industrias creativas y culturales \n3. Energía sostenible. \n4. Biotecnología, Bioeconomía y Medio Ambiente \n5. Océanos y recursos hidrobiológicos. \n6. Ciencias sociales y Desarrollo Humano con Equidad. \n7. Ciencias de la vida y de la salud. \n8. Ciencias básicas y del espacio. \n \nNota:  \n \nPara mayor informacion respecto a los focos temáticos, se puede consultar el documento en el siguiente link:   \nhttps://minciencias.gov.co/sites/default/files/libro_mision_de_sabios_digital_1_2_0.pdf \n \n4 Según el Código de Comercio de Colombia, en su articulo 25:  \"Definición de Empresa. Se entenderá por empresa toda \nactividad económica organizada para la producción, transformación, circulación, administración o custodia de bienes, o para \nla prestación de servicios. Dicha actividad se realizará a través de uno o más establecimientos de comercio.\" \n \n5 Para esta convocatoria, se entenderá como persona jurídica: las m icro, pequeñas, medianas y grandes empresas  con \nánimo de lucro legalmente constituidas en Colombia.   \n \n6 Para esta convocatoria, se tendra en cuenta los Centros / Institutos de Investigación,  Centros de Desarrollo Tecnológico, \nCentros de Innovación y Productividad, Unidades de I+D+i, Centros de Ciencia, Oficinas de Transferencia de Resultados de \nInvestigación, Incubadoras de empresas de base tecnológica, Parques tecnológicos. \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 5 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia",
+      "n_caracteres": 2007
+    },
+    {
+      "numero": 5,
+      "titulo": "RECOMENDACIONES GENERALES",
+      "titulo_norm": "RECOMENDACIONES GENERALES",
+      "texto": "5.1 Las entidades postulantes deberán garantizar que cuentan con el proyecto de investigación, desarrollo tecnológico e \ninnovación (I+D+i) en el marco del cual se vincularán los jóvenes innovadores. \n5.2 Las entidades postulantes podrán p articipar de manera independiente en cada una de sus sedes, en los casos que \naplique. \n5.3 Se podrán presentar uno o más proyectos de investigación, desarrollo tecnológico e innovación (I+D+i) en la propuesta \nde la entidad postulante y por cada proyecto de investigación, desarrollo tecnológico e innovación  (I+D+i) se podrán \nvincular uno o más jóvenes innovadores de formación técnica, tecnológica o  carrera profesional. En todos los casos, \ncada uno de los candidatos deberá tener un plan de actividades definido en el marco del proyecto a ejecutar. \n5.4 Los Jóvenes innovadores que se postulen no podrá n apoyar la ejecución de dos o más proyectos de investigación, \ndesarrollo tecnológico e innovación  (I+D+i). Solamente podrán vincularse a un proyecto  como sujetos activos con \nresponsabilidades definidas. \n5.5 Los jóvenes Innovadores podrán desarrollar sus capacitades y habilidades como innovadores aplicando la \nmetodología de aprender haciendo. \n5.6 Los jóvenes innovadores se vincularán a través de un contrato de  aprendizaje con cuota regulada o de forma \nvoluntaria. \n5.7 La entidad deberá entregar: Los informes técnicos finales de las actividades desarrolladas por los jóvenes innovadores \ny los resultados obtenidos en el marco del proyecto de investigación, desarrollo tecnológico e innovación (I+D+i), así \ncomo un informe financiero de la ejecución del Contrato de Aprendizaje.",
+      "n_caracteres": 1644
+    },
+    {
+      "numero": 6,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "texto": "La presente convocatoria cuenta con los siguientes requisitos de carácter opcional, de enfoque diferencial e incluyente, cuyo \nobjetivo es democratizar la Ciencia, la Tecnología y la Innovación, buscando, asimismo, el cierre de brechas, el crecimiento \ny la consolidación de las comunidades científicas en los departamentos y municipios.  \n \nEl enfoque diferencial puede definirse co mo un método de análisis para hacer visibles formas de desigualdad y de \ndiscriminación, así como una guía de acción para proveer atención y protección a los derechos de la población (Forst, 2018; \nMinisterio del Interior, 2015, citados por Conpes 4069, 2021 )7. Este enfoque está compuesto por acciones que pueden ser \nimplementadas por el Gobierno nacional, el sector empresarial, la academia, o la sociedad en general, que mediante un \ntrato diferenciado contribuyen a reducir las brechas sociales, económicas y po líticas (Ministerio del Interior, 2015; León, \n2017; Ministerio de Ciencia, Tecnología e Innovación, 2021, citados por Conpes 4069, 2021). Este enfoque encuentra \nsustento jurídico en los artículos 7 y 13 de la Constitución Política de Colombia.  \n \nSi bien, e ste requisito asigna un rango de puntaje según lo estableci do en el numeral 12. “Criterios de Evaluación” , es \nopcional y no es de carácter inhabilitante. \n \n \n \n7 Conpes 4069 (2021): Política Nacional de Ciencia, Tecnología e Innovación 2022-2031 \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 6 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n \nCATEGORÍA DESCRIPCIÓN \nPoblación víctima del conflicto \narmado o en situación de \nextrema vulnerabilidad \nSon aquellas personas que individual o colectivamente hayan sufrido un daño por \nhechos ocurridos a partir del 1º de enero de 1985, como consecuencia de \ninfracciones al Derecho Internacional Humanitario o de violaciones graves y \nmanifiestas a las normas  internacionales de Derechos Humanos, ocurridas con \nocasión del conflicto armado interno. (Ley 1448 de 2011, articulo 3) \nPoblación en condición de \ndiscapacidad \nFísica \nAuditiva \nVisual \nSordoceguera \nIntelectual \nPsicosocial \nMúltiple \nTalla Baja \nGénero \nHombre \nMujer \nIntersexual \nGrupo Étnico \nPoblación Indígena. \nPoblación negra / Afrocolombiano /Afrodescendiente \nRaizal \nRrom (gitano) \nPalenquero \n \n \nNota: Para acreditar esta categoría según lo contemplado en el numeral 10. “Procedimiento de inscripción” se debe anexar \ncertificado expedido por Ministerio del Interior o documento equivalente: Candidatos que sean miembros de población \nafrocolombiana, raizal, palenquera, indígena, ROM. Certificado expedido por la Unidad para la Atención y Reparación \nIntegral para las Víc timas o documento equivalente: candidatos víctimas del conflicto armado. Certificado de discapacidad \nexpedido por la IPS: candidatos que tengan alguna condición de discapacidad.",
+      "n_caracteres": 2993
+    },
+    {
+      "numero": 7,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "texto": "Condiciones de participación de la entidad postulante: \n \n7.1 Cumplir con el numeral 3 DIRIGIDO A de la presente convocatoria.  \n      \n7.2 La Entidad postulante deberá presentar por cada joven innovador un plan de actividades y resultados esperados en el \nmarco de un proyecto de investigación, desarrollo tecnológico e innovación (I+D+i) relacionado con alguno de los Focos \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 7 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nTemáticos de la Misión de Sabios. Este plan de actividades y resultados esperados deberá contener lo descrito  \n \nen el numeral 10 de los presentes términos de referencia.  \n \nPara acreditar este requisito se debe adjuntar el Anexo 1 firmado por el tutor responsable de cada joven innovador a \npostular. \n \n7.3 La Entidad postulante deberá presentar carta de aval y compromiso institucional. \n \nPara acreditar este requisito se debe adjuntar el Anexo 2 firmado por el Representan te Legal de la Entidad postulante. \nEn el caso que el Representante Legal designe a otra persona, se debe adjuntar el poder que lo faculta o documento \nde designación. \n \n \n7.4 En el caso de las empresas, p or cada propuesta se debe adjuntar: (i) Certificado de Cáma ra de Comercio y , (ii) \nCertificado expedido por el representante legal, o contador o revisor fiscal, si están obligado s a tenerlo, donde se \nacredite el tamaño de la empresa, con base en lo establecido en el Decreto 957 de 2019. \n \nPara acreditar este requisito se debe adjuntar el Anexo 1 firmado por el Representante Legal de la Entidad postulante. \nEn el caso que el Representante Legal designe a otra persona, se debe adjuntar el poder que lo faculta o documento \nde designación.                \n \n7.5 Los Jóvenes Innovadores deberán tener asignado un tutor perteneciente a la entidad que los avala. \n \nCondiciones de participación de los Jóvenes Innovadores: \n \n7.6 Edad: Tener máximo 28 años al 31 de diciembre de 2022. Para acreditar este requisito se debe adjuntar copia legible \nde la cédula de ciudadanía por ambas caras. \n7.7  Estado Académico:  Ser estudiante activo en la modalidad especial de formación técnica, tecnológica o carrera \nprofesional, en etapa o semestre de práctica al momento del inicio de su actividad en la entidad postu lante. Para \nacreditar este requisito se deberá adjuntar el certificado de estudios expedido por la institución donde cursa su \ncarrera; este documento debe incluir las fechas de inicio y terminación de la etapa o semestre de práctica. Para caso \nSENA remitir carta de fechas de formación. \n7.8 Promedio Académico:  Según corresponda: promedio general acumulado del programa al cual se encuentra \nvinculado de mínimo 3.8. (en una escala de 0 a 5)  obtenido al momento de la postulación (al cierre de la convocatoria) \n(Aplica para estudiantes de carreras profesionales, técnicos y tecnólogos vinculados según establezca la institución que \ncertifica al joven innovador).  \nPara acreditar este requisito se deberá adjuntar el certificado de notas  correspondiente o constancia de nota s con \ncalificación de Aprobado (Aplica para los aprendices SENA).  \nEn caso de que la escala empleada por la institución sea diferente, se deberá adjuntar la respectiva equivalencia \nexpedida por la entidad que lo avala.  \n \n7.9 Si el joven innovador postulado cue nta con enfoque diferencial  –Miembros de población afrocolombiana, raizal, \npalenquera, indígena, ROM, víctimas del conflicto armado, población desplazada , género  o que tengan alguna \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 8 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \ncondición de discapacidad, podrán presentar la certificación o documento e quivalente expedida por la entidad según \ncorresponda8. Este requisito es opcional y no es de carácter inhabilitante.  \n \nEl Ministerio de Ciencia, Tecnología e Innovación , garantizando los principios de mérito , calidad, transparencia y equidad \nestablece una etapa de ajuste de requisitos que se realizará en el periodo señalado en el Cronograma de los términos de \nreferencia. Surtido el proceso de revisión de requisitos, el Ministerio de Ciencia, Tecnología e Innovación  habilitará el \naplicativo InstituLac a las postulaciones que se consideran deben ajustar algún(os) requisito(s) para poder continuar el \nproceso. El documento que debe ser ajustado tendrá la frase “No cumple” y a su lado la respectiva observación. \n \n \nNota:  \n1. La entidad encargada de la postulación de l a propuesta deberá adjuntar al aplicativo el o los documento(s) \ncorregido(s) dentro del período y horario establecidos en el Cronograma de los términos. \n2. El Ministerio de Ciencia, Tecnología e Innovación  o el SENA podrá solicitar en cualquier momento, infor mación y \ndocumentación adicional, complementaria o aclaraciones de los documentos entregados.   \n \n8. CONDICIONES INHABILITANTES. \n \nSon todas aquellas condiciones de modo, tiempo y lugar, objetivas o subjetivas, antecedentes o concomitantes, predicables \ndel aspirante inscrito en la Convocatoria o del proyecto sometido a consideración del Ministerio de Ciencia, Tecnología e \nInnovación que impiden la continuidad de su participación en el proceso de selección, o que, habiendo obtenido el beneficio \nde que se trate, le hacen imposible disfrutarlo.   \n \nDe la entidad postulante:  \n \n8.1 No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria “Jóvenes \nInnovadores en el marco de la reactivación económica ” o que estos no se subsan en dentro de los plazos \nestablecidos. \n8.2 No cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación \ncontingente, en caso de ser beneficiado por la convocatoria. Estos requisitos se encuentran en la lista de chequeo \nde contratación del Ministerio, que se entrega a las entidades para iniciar el proceso. \n8.3 Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apto para contratar \nde acuerdo con lo establecido en la Constitución, en Ley y Reglamentos.  \n \nLas inhabilidades son de orden Constitucional y legal, el ar tículo 126 de la Constitución Nacional establece \ninhabilidades para los grados de parentesco y en la ley encontramos las inhabilidades contempladas en el Artículo \n8  (Inhabilidades e incompatibilidades para contratar)  de la Ley 80 de 1993. Disposiciones especiales como los \nartículos 5  y 90 de la Ley 1474 de 2011 y el  artículo 71 de la LEY 1952 de 2019 el Código General \nDisciplinario  contempla otras causales de inhabilidad, entre otras normas. \nLas inhabilidades e incompatibilidades están establecidas para asegurar los intereses públicos y proteger la \n \n8Certificado expedido por Ministerio del Interior o documento equivalente : Candidatos que sean miembros de población afrocolombiana, raizal, \npalenquera, indígena, ROM. Certifica do expedido por la Unidad para la Atención y Reparación Integral para las V íctimas o documento equivalente : \ncandidatos víctimas del conflicto armado. Certificado de discapacidad expedido por la IPS: candidatos que tengan alguna condición de discapacidad. \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 9 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \ntransparencia, objetividad e imparcialidad en las relaciones entre el Estado y los particulares.  \n \n8.4 Alterar alguno de los documentos solicitados en la sección de requisitos. \n \n8.5 Presentar propuestas en las cuales se hayan financiado Jóvenes Innovadores en convocatorias previamente \nrealizadas por el Ministerio de Ciencia, Tecnología e Innovación. \n \nDel joven innovador:  \n \n8.6 Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por  el Ministerio de Ciencia, \nTecnología e Innovación, en su participación como joven innovador. \n8.7 Haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más becas- pasantía. \n8.8 El joven innovador no podrá presentarse de manera simultánea en dos o mas propuestas de la presente \nconvocatoria. Solo se  considerará la primera propuesta registrada y la segunda propuesta no será tenida en \ncuenta para el proceso de revisión de requisitos y evaluación.  \n8.9 Haber sido beneficiario de un contrato de aprendizaje. Se exceptúan los casos cuando se ha ejecutado un contrato \nen cadena de formación. \n8.10 Estar incurso en alguna de las causales de inhabilidad e Incompatibilidad y que no se encuentre apto para \ncontratar de acuerdo con lo establecido en la Constitución, en Ley y Reglamentos.DU \nACIÓNACIÓN",
+      "n_caracteres": 8994
+    },
+    {
+      "numero": 9,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "texto": "El Ministerio de Ciencia, Tecnología e Innovación cuenta con NOVECIENTOS NOVENTA Y OCHO MILLONES \nDOSCIENTOS TREINTA Y DOS MIL SEISCIENTOS SESENTA PESOS M/CTE ($998.232.660) para financiar la vinculación \nde Jóvenes Innovadores, de acuerdo con el saldo disponible en el CDR No. 16687 de fecha 23 de abril de 2021,  Fondo \nFrancisco José de caldas, Convenio 878-2020 SENA.  \n \nLos recursos serán asignados de la siguiente manera:  \n \n• Los recursos serán girados por El Fondo Francisco José de Caldas a la Entidad Ejecutora, en un único desembolso \nuna vez cumplidos los requisitos de perfeccionamiento y ejecución del contrato de fina nciamiento de recuperación \ncontingente.  \n \n• El desembolso estará sujeto a la entrega del plan de actividades de cada uno de los jóvenes innovadores a vincular \npor parte de la entidad ejecutora , y de la aprobación por parte del supervisor de l Ministerio de Ciencia, Tecnología \ne Innovación, así como de la entrega de los contratos de aprendizaje que sean recibidos y aprobados por el SENA, \ncon su correspondiente afiliación a la Entidad Promotora de Salud (EPS) y la Aseguradora de Riesgos Laborales \n(ARL). \n \n• El joven innovador que se vincule mediante contrato de aprendizaje contará con la financiación de seis (6) SMMLV \naño 2022, con pagos mensuales de un (1) SMMLV por seis (6) meses. \n \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 10 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nDuración:  \n \n• El contrato de financiamiento de recuperación contingente tendrá una d uración de d oce (12) meses contados a \npartir del cumplimiento de los requisitos de perfeccionamiento y ejecución. Este periodo comprende: hasta cuatro \n(04) meses para la vinculación de los jóvenes innovadores seleccionados, seis (6) meses para el desarroll o del \ncontrato de aprendizaje por parte del joven innovador y dos (02) meses para el envío de los informes finales.  \n \n• El contrato queda perfeccionado con la firma de las partes y para su ejecución se requiere la aprobación de la \ngarantía por parte del Fondo Francisco José de Caldas. \n \n• El Contrato inicia su ejecución con la aprobación de la garantía por parte del Fondo Francisco José de Caldas. \n \n \nNotas:  \n1. El SENA a través de la alianza establecida con el Ministerio de Ciencia, Tecnología e Innovación  otorgará una \nfinanciación, la cual es adicional al contrato de aprendizaje suscrito por cada joven innovador con la entidad \nejecutora. Esta financiación corresponde a seis (6) SMMLV año 2022, con pagos mensuales de un (1) SMMLV por \nseis (6) meses. \n2. La entidad ejecut ora deberá aportar el valor del contrato de aprendizaje y los aportes  para el pago de Seguridad \nSocial (EPS) y la Administradora de Riesgos Laborales (ARL) de los jóvenes innovadores seleccionados y \nvinculados al proyecto de investigación, desarrollo tecnológico e innovación(I+D+i). \n3. Con base en lo establecido en el Artículo 33 de la Ley 789 de 2002, se informa: (i) La cuota mínima de contratación \nde aprendices por empresa, se asigna mediante acto administrativo motivado, expedido por la regional del SENA, \nsegún domicilio principal de la entidad. La fijación de la cuota se realiza según el número de trabajadores \ndependientes de la empresa. (ii) La Ley 789 de 2002 en su artículo 33, establece la parametrización de la cuota en \nla siguiente proporción: un aprend iz por cada 20 trabajadores y uno adicional por fracción de diez (10) o superior \nque no exceda de veinte. Las Empresas que tengan entre quince (15) y veinte (20) trabajadores, tendrán un \naprendiz. El Sena actualmente cuente con 34.000 empresas reguladas a nivel nacional.",
+      "n_caracteres": 3778
+    },
+    {
+      "numero": 10,
+      "titulo": "CONTENIDOS DE LA PROPUESTA",
+      "titulo_norm": "CONTENIDOS DE LA PROPUESTA",
+      "texto": "La propuesta a presentar por parte de la entidad ejecutora deberá estar enmarcada en un proyecto de investigación, \ndesarrollo tecnológico e innovación  (I+D+i) que lleve a cabo una o más actividades de CTeI en el  marco de los Focos \nTemáticos de la Misión de Sabios señaladas en el numeral 4 de los presentes términos de referencia.  \n \nLa propuesta se registrará en el anexo 1 y deberá incluir: \n \n10.1 Nombre del proyecto de investigación, desarrollo tecnológico e innovación  (I+D+i), en el marco del cual se \ndesarrollarán las actividades por parte de los jóvenes. \n10.2 Duración del proyecto de investigación, desarrollo tecnológico e innovación (I+D+i). \n10.3 Objetivo general del proyecto de investigación, desarrollo tecnológico e innovación (I+D+i). \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 11 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n10.4 Foco Temático de la Misión de Sabios en el que se enmarca el proyecto. \n10.5 Resumen ejecutivo del proyecto (máximo 2 páginas). \n10.6 Nombre y número de documento de identificación de los candidatos a Jóvenes Innovadores.  \n10.7 Tipo de programa técnico, tecnólogo o programa de formación profesional en el cual se encuentra vinculado cada \njoven.  \n10.8 Enfoque diferencial (si aplica) \n10.9 Experiencia en investigación del joven Innovador: Participación en semillero de investigación,  \ndesarrollo tecnológico o innovación o experiencia general en investigación, desarrollo tecnológico o innovación. \n10.10 Información sobre la realización por parte del joven innovador de un programa de  formación en el SENA y/o \nparticipación en al menos una estrategia SENNOVA. (si aplica) \n10.11 Propuesta del plan de actividades y resultados esperados por cada joven innovador.  \n10.12  Nombre, tipo y número de documento de identificación del tutor. En los casos en los cuales la entidad postulante \ncuente con grupo de investigación con reconocimiento vigente en la convocat oria 833 de 2018 de l Ministerio de \nCiencia, Tecnología e Innovación, el tutor seleccionado debe pertenecer al grupo de investigacion. \n10.13 Categoria del tutor o formación según corresponda.  \n10.14  Cargo del tutor en la entidad postulante. \n10.15  Nombre de la entidad postulante. \n10.16  Tipo de entidad postulante.",
+      "n_caracteres": 2401
+    },
+    {
+      "numero": 11,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "texto": "El procedimiento para la postulación a la presente convocatoria es el siguiente: \n \n11.1    Los tutores y los candidatos a Jovenes Innovadores en primera instancia deberan registrar o actualizar su hoja de \nvida en el aplicativo CvLAC disponible en el sitio WEB de la plataforma ScienTI de l Ministerio de Ciencia, \nTecnología e Innovación, sitio web https://www.minciencias.gov.co/scienti. \n \n11.2   Una vez  realizado lo anterior, las entidades postulantes deberán registrar en el aplicativo InstituLAC de la \nplataforma ScienTI de l Ministerio de Ciencia, Tecnología e Innovación  (sitio web \nhttps://www.minciencias.gov.co/scienti) la información de la propuesta a presentar, para lo cual deberán \ndiligenciar de forma completa cada uno de los campos solicitados y adjuntar los documentos soporte en formato \nPDF de la siguiente manera: \n \n11.2.1 Registrar los datos del interl ocutor por las entidades postulantes (señalados en la carta de aval y compromiso \ninstitucional). (Anexo 2). \n11.2.2 Adjuntar en el campo correspondiente en formato PDF la carta de aval y compromiso institucional (Anexo 2). \n11.2.3 En los casos que aplique, seleccionar un grupo de investigación por cada propuesta presentada.  \n11.2.4 Registrar el proyecto de investigación, desarrollo tecnológico e innovación  (I+D+i) en el cual se vincularán los \njóvenes. \n11.2.5 Seleccionar el foco temático en el marco del cual se desarrolla el proyecto. \n11.2.6 Adjuntar en el campo correspondiente en formato PDF la propuesta de plan de actividades y resultados \nesperados de cada uno de los Jóvenes (Anexo 1). \n11.2.7 Registrar los candidatos a joven innovador, digitando el tipo y número de identificación. \n11.2.8 Seleccionar el nive l de formacion del joven innovador postulado (técnico, tecnólogo o de formación carrera \nprofesional). \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 12 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n11.2.9 Registrar el nombre del programa técnico, tecnólogo o de formación profesional en el cual se encuentra \nmatriculado el joven innovador. \n11.2.10 Seleccionar en  el caso que aplique la experiencia en investigación del joven Innovador: Participación en \nsemillero de investigación, desarrollo tecnológico o innovación o experiencia general en investigación, \ndesarrollo tecnológico o innovación \n11.2.11 Seleccionar en el caso que aplique si el joven realiza su programa de formación en el SENA y/o ha participado \nen al menos una estrategia SENNOVA. \n11.2.12 Para aquellos candidatos que sean miembros de población afrocolombiana, raizal, palenquera, indígena, \nROM, víctimas del conflicto armado, p oblación desplazada , género  o que tengan alguna condición de \ndiscapacidad, anexar la certificación expedida por la entidad según corresponda.  \n11.2.13 Adjuntar en el campo correspondiente para cada candidato a joven innovador los documentos solicitados en el \nnumeral 6.  \n11.2.14 Para los jóvenes en proceso de formación profesional, registrar el promedio académico, este valor debe ser \nigual al soportado en el anexo del numeral 6.6 Para los aprendices SENA registrar N/A. \n11.2.15 Registrar al tutor de los jóvenes innovadores, digitand o su tipo y número de identificación. En los casos en los \ncuales la entidad postulante cuente con grupo de investigación con reconocimiento vigente en la convocatoria \n833 de 2018 del Ministerio de Ciencia, Tecnología e Innovación, el tutor seleccionado debe pertenecer al grupo \nde investigacion.  \n11.2.16 Seleccionar el tipo de tutor según corresponda. Para grandes empresas o actores reconocidos del Sistema \nNacional de CTeI o entidades del gobierno nacional o Instituciones de Educación Superior (IES ): (Senior o \nsuperior, Asociado, Junior o no categorizado) . P ara micro, pequeñas y medianas empresas ( Formación \ndoctoral o candidato a doctor; o maestria, especialización o experiencia relacionada).  \n11.2.17 Seleccionar el tipo de entidad postulante: Personas juridicas (micro, pequeñas, medianas y grandes empresas \ncon ánimo de lucro legalmente constituidas en Colombia) o actores reconocidos del Sistema Nacional de CTeI \no entidades del gobierno nacional o Instituciones de Educación Superior (IES), interesados en vincular jóvenes \ninnovadores en sus proyectos de investigación, desarrollo tecnológico e innovación (I+D+i). \n \n11.3 Adjuntar en el campo correspondiente para cada empresa : (i) Certificado de Cámara de Comercio de la empresa \ny, (ii) certificado expedido por el representante legal, o contador o revisor fiscal, si están obligado a tenerlo, donde \nse acredite el tamaño de la empresa, con base en lo establecido en el Decreto 957 de 2019. \n \n11.4 Una vez terminan de registrar la información y adjuntar los documentos obligatorios, podrán finalizar  la \ninscripción. El sistema valida que de acuerdo con lo registrado se cuente con la información mínima requerida. \n \n11.5 Sólo se entiende finalizado el proceso cuando tienen la información y documentos obligatorios y han aceptado, \nen la ventana emergente de ver ificación de la inscripción, los términos y condiciones de la convocatoria, allí el \nsistema asignará el código de inscripción. \n \n11.6 Después de finalizar la inscripción y mientras la convocatoria se encuentre abierta, se permitirá modificar la \ninformación o doc umentos, pero la entidad postulante deberá aceptar que se retira el código de inscripción y \ntodas las modificaciones quedaran sujetas a la validación de la información mínima requerida. Para quedar \ninscritos deberán volver a finalizar la inscripción para obtener un nuevo código de inscripción. \n \n \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 13 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n \n \nNotas: \n \n1. Se recomienda a las entidades interesadas en presentarse a la convocatoria hacer el ingreso a la plataforma para \nque la conozcan y hagan el registro sin inconvenientes y de forma anticipada. \n2. Se aceptarán únicamente las propuestas institucionales presentadas a través del aplicativo InstituLAC, con toda la \ndocumentación que soporte el cumplimiento de requisitos de la presente convocatoria.  \n3. No se tendrán en cuenta propuestas con información enviada en medios  distintos al InstituLAC (correo postal, fax, \ncorreo electrónico, otro), ni posterior a la fecha y hora límite establecida en la presente convocatoria, ya que se \nentenderán como extemporáneas y por lo tanto no serán evaluadas o tenidas en cuenta durante el  proceso de \nselección. \n4. Toda la documentación requerida deberá presentarse en formato digital PDF, no se aceptan archivos comprimidos \nen .ZIP, .RAR o links de drive, la totalidad de archivos en PDF no debe exceder un tamaño de 8 MB. \n5. En caso de que se presen ten errores en el aplicativo InstituLAC durante el proceso de inscripción y envío de la \npropuesta o del cargue de la documentación soporte, se sugiere remitir a través del formulario electrónico que se \nencuentra disponible en el enlace https://www.minciencias.gov.co/ciudadano/canal-pqrds con la captura de pantalla \n(donde se evidencia fecha y hora del inconveniente) antes de la fecha de cierre de la presente convocatoria, \nexplicando los inc onvenientes ocurridos durante el envío. El Ministerio de Ciencia, Tecnología e Innovación  por \nmedio de la Oficina de Sistemas verificará el error reportado. \n6. Se recomienda iniciar el proceso de registro con suficiente tiempo para que se alcance a  terminar dicho proceso \nantes del cierre de la convocatoria.",
+      "n_caracteres": 7749
+    },
+    {
+      "numero": 12,
+      "titulo": "AUTORIZACION USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "texto": "Para todos los efectos legales, la presentación, inscripción o registro de la propuesta, de forma inequívoca y exclusivamente \npara los fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de información, para el \ntratamiento de sus datos personales por parte del Ministerio de Ciencia, Tecnología e Innovación.  \n \nQuien presente, inscriba o registre la propuesta como persona natural o la persona jurídica en cuyo nombre se presenta la \npropuesta declara que ha recibido autorización expresa de todas las personas naturales y jurídicas vinculadas a esta \npropuesta y a este proyecto, para suministrar las informaciones a que hace referencia  la ley de manejo de datos, \ncomprometiéndose a responder ante el Ministerio de Ciencia, Tecnología e Innovación , p or cualquier demanda, litigio \npresente o eventual, reclamación judicial o extrajudicial, formulada por cualquiera de las personas naturales o jurídicas \nvinculadas a la propuestas y el proyecto. Lo anterior, de conformidad con lo establecido en la Ley 1581 de 2012 “Por la cual \nse dictan disposiciones generales para la  protección de datos  personales” y la Política de protección y tratamiento de \ndatos personales del Ministerio de Ciencia, Tecnología e Innovación, disponible en el Manual de Políticas de Seguridad y \nPrivacidad de la Información (Código: D103M01).  \n \n \n \n \n \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 14 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia",
+      "n_caracteres": 1628
+    },
+    {
+      "numero": 13,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "texto": "Las propuestas inscritas a través del aplicativo Institu Lac dentro de los plazos establecidos para la presente convocatoria y \nque cumplan con la totalidad de los requisitos se someterán a los siguientes criterios de evaluación:  \n \nCRITERIO SUBCRITERIO PUNTAJE \nMÁXIMO VALOR \n1. De la \npropuesta  \n1.1 Claridad, coher encia y pertinencia del plan de actividades y \nresultados esperados de los Jóvenes Innovadores en el marco \ndel proyecto I+D+i que van a desarrollar durante su contrato de \naprendizaje. \n40 40 \n2. Del \nCandidato  \n2.1 Promedio académico del candidato a Joven Inv estigador de \npregrado: \n>= 4.6: 10 puntos \n>= 4.1 y < 4.59:  8 puntos \n>= 3.8 y < 4.09:  5 puntos El promedio se tomará con dos \ndecimales redondeados.  \n \nConstancia de notas con calificación de Aprobado (Aplica para \nlos aprendices SENA): 10 puntos \n \n10  \n \n \n \n \n \n \n \n \n \n \n \n \n \n30 \n2.2 Experiencia en investigación, desarrollo tecnológico o \ninnovación del joven Innovador: \nParticipación en semillero de investigación, desarrollo \ntecnológico o innovación: 10 puntos. \n \nExperiencia general en investigación, desarrollo tecnológico  o \ninnovación: 5 puntos.  \n10 \n2.3 El joven innovador realiza su programa de formación en el \nSENA y/o ha participado en al menos una estrategia SENNOVA.  5 \n2.4 Enfoque diferencial: El joven pertenece a población \nafrocolombiana, raizal, palenquera, indí gena, ROM, víctimas del \nconflicto armado, población desplazada , género  o que tengan \nalguna condición de discapacidad. \n  \n5 \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 15 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n3. Del Tutor \n3.1 Categoría del tutor: \nGrandes empresas o actores reconocidos del Sistema Nacional de \nCTeI o entidades del gobierno nacional o Instituciones de \nEducación Superior (IES): \n \nSenior o superior: 15 puntos \nAsociado:12 puntos  \nJunior: 10 puntos \nNo categorizado: 8 puntos \n \nMicro, pequeñas y medianas empresas: \nEl tutor tiene formación doctoral o candidato a doctor: 15 puntos \nMaestria, especializacion o experiencia relacionada:  13 puntos \n  \n15 15 \n4. De la \nEntidad \npostulante \n4.1 Tipo de entidad postulante: \nPersonas juridicas (micro, pequeñas, medianas y grandes \nempresas con ánimo de lucro legalmente constituidas en \nColombia): 15 puntos. \nActores reconocidos del Sistema Nacional de CTeI o \nentidades del gobierno nacional o Instituciones de \nEducación Superior (IES): 8 puntos. \n15 15 \nTOTAL 100",
+      "n_caracteres": 2582
+    },
+    {
+      "numero": 14,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "texto": "Se evaluarán aquellas propuestas verificadas por el Ministerio de Ciencia, Tecnología e Innovación  que cumplan con los \nrequisitos y sean pertinentes a los focos temáticos . Los evaluadores serán seleccionados según los criterios de calidad y \ncompetencia dispuestos por la entidad. Toda información proporcionada es de ca rácter confidencial y no será utilizada para \nningún fin diferente a la realización de la evaluación. Los expertos evaluadores estarán cobijados por cláusulas de \nconfidencialidad y de no conflicto de interés. \n \nLas propuestas postuladas se ordenarán de manera descendente, de acuerdo con el puntaje obtenido al aplicar los criterios \nde evaluación de la presente convocatoria. En caso de empate, se aplicarán los siguientes criterios de desempate: \n  \n• Se tendrá en cuenta la mayor calificación obtenida en el subcrite rio “Claridad, coherencia y pertinencia del plan de \nactividades y resultados esperados de los Jóvenes Innovadores en el marco del proyecto I+D+i que van a \ndesarrollar durante su contrato de aprendizaje”. \n• En caso de que el empate persista, se tendrá en cuen ta la mayor calificación obtenida en el subcriterio “ Promedio \nacadémico del candidato a Joven Innovador”. \n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el subcriterio \n“Experiencia en investigación, desarrollo tecnológico o innovación del joven innovador.”  \n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el subcriterio “El joven \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 16 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \ninnovador realiza su programa de formación en el SENA y/o ha participado en al menos una estrateg ia \nSENNOVA”. \n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el subcriterio “ Enfoque \ndiferencial”. \n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el criterio “ Categoría del \ntutor”. \n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el criterio “Tipo de \nentidad postulante”.   \n•  Finalmente, y como último parámetro de desempate, se tomará como criterio la fecha y hora del registro en la que \nse generó la propuesta en el sistema. Si la entidad tuvo que subsanar, se tomará la fecha y hora de culminación de \ndicho proceso en el sistema.  \n \nDe acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para solicitar aclaraciones y/o \nmodificaciones a la publicación preliminar del banco de elegibles . Una vez éstas sean resueltas, se procederá a la \npublicación del banco definitivo de propuestas elegibles.",
+      "n_caracteres": 2833
+    },
+    {
+      "numero": 15,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "texto": "Las propuestas que superen cincuenta (50) puntos en la evaluación ingresarán al banco de elegibles y se asignarán los \nrecursos hasta su agotamiento en estricto orden descendente. \n \nLos resultados de la convocatoria se publicarán en la página web de l Ministerio de Ciencia, Tecnología e Innovación \n(http://www.minciencias.gov.co) en las fechas establecidas en el Cronograma. \n \nLa vigencia del banco de elegibles es de un (1) año a partir de su publicación definitiva. La inclusión de una propuesta en e l \nbanco de elegibles no implica ob ligatoriedad ni compromiso alguno de l Ministerio de Ciencia, Tecnología e Innovación  de \nasignar recursos, ni genera derecho a recibir apoyos económicos para quienes hayan presentado la propuesta \ncorrespondiente.  \n \n \nNotas: \n1. En caso de que las propuestas incl uidas en el Banco de Elegibles superen los recursos asignados para el \npresente mecanismo, el Ministerio de Ciencia, Tecnología e Innovación  publicará el respectivo Banco de \npropuestas financiables. \n2. Surtida la publicación definitiva del banco de elegibles o del banco de propuestas financiables (según aplique), \nel Ministerio de Ciencia, Tecnología e Innovación  informará mediante comunicación escrita y/o electrónica a \nlas entidades que hayan sido seleccionadas para ser financiadas, indicando las instrucciones  y condiciones \npara suscribir el contrato de financiamiento de recuperación contingente . A partir de la fecha de la \ncomunicación, se contarán quince (15) días calendario como plazo máximo para que la entidad remita a l \nMinisterio de Ciencia, Tecnología e I nnovación la totalidad de la documentación. Vencido el término, en caso \nde que la entidad no remita la documentación, se entenderá que desiste de su interés por contratar con el \nMinisterio de Ciencia, Tecnología e Innovación  y se procederá a financiar la s iguiente propuesta del banco \ndefinitivo de elegibles. \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 17 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n3. Una vez remitida la minuta del contrato de financiamiento de recuperación contingente  a la entidad \nseleccionada, esta contará con un plazo máximo de cinco (5) días hábiles para devolverla firmada al Ministerio \nde Ciencia, Tecnología e Innovación . Vencido el término  anterior, si la entidad no remite el contrato de \nfinanciamiento de recuperación contingente firmado, se entenderá que desiste de su interés por contratar y se \nprocederá a seleccionar el siguiente en orden descendente de la lista del banco definitivo de elegibles. \n4. La entidad ejecutora deberá acogerse a los procedimientos, formatos y al sistema de información definidos por \nel Ministerio de Ciencia, Tecnología e Innovación  para realizar el seguim iento, evaluación y liquidación a los \nproyectos, programas, contratos o convenios suscritos en el marco de la presente convocatoria. \n5. La entidad ejecutora, en caso de ser seleccionada, deberá cumplir con la totalidad de los requisitos legales y \ndocumentales establecidos por la ley y por el Ministerio de Ciencia, Tecnología e Innovación  para la \nsuscripción, ejecución y desembolso del contrato a suscribirse, en caso de ser financiado. \n6. En caso de que no se asignen los recursos disponibles para la totalidad de l a convocatoria, se podrá publicar \nel cronograma para un segundo corte , conservando los mismos términos de referenci a de la presente \nconvocatoria.",
+      "n_caracteres": 3558
+    },
+    {
+      "numero": 16,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "texto": "Una vez publicados los resultados preliminares de l banco de elegibles , los interesados podrán pr esentar solicitudes de \naclaraciones y comentarios por un período de tres (3)  días hábile s. Por fuera de este término se considera que las \nreclamaciones son extemporáneas.  \n \nLas quejas, reclamos, sugerencias y/o solicitudes de carácter general se deben pres entar exclusivamente a través del \nformulario electrónico que se encuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con \nel asunto “Solicitud aclaración resultados Convocatoria Jóvenes Innovadores en el marco de la reactivación económica.",
+      "n_caracteres": 636
+    },
+    {
+      "numero": 17,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "ACTIVIDAD FECHA PROPUESTA \nApertura de la convocatoria 22 de marzo de 2022 \nCierre de la convocatoria 20 de mayo de 2022 – 1:00 pm \nPeríodo de subsanación de requisitos Del 30 mayo al 3 de junio de 2022 – 3:00 pm  \nPublicación del banco preliminar de propuestas \nelegibles \n24 de junio de 2022 \nPeríodo de solicitud de aclaraciones del banco \npreliminar de elegibles \nDel 27 al 29 de junio 2022 \nRespuesta a solicitud de aclaraciones Del 30 de junio al 5 de julio 2022 \nPublicación del banco definitivo de propuestas \nelegibles \n18 de julio de 2022 \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 18 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nNotas:  \n \n1. Cualquier actuación por fuera de las fechas y horarios establecidos en esta sección se entenderán como \nextemporáneas y no será tenida en cuenta. No se aceptarán documentos por fuera de las fechas establecidas \nen el Cronograma de la convocatoria. \n2. La etapa denominada período de ajuste de requisitos no exime de responsabilidad a los interesados en esta \nconvocatoria de la consulta permanente de la información a fin de entregar la postulación completa. Los \nbeneficios otorgados por el Ministerio de Ciencia, Tecnología e Innovación para facilitar la presentación de las \npostulaciones no desplazan la responsabilidad de los aspirantes de consultar y a djuntar correctamente los \ndocumentos necesarios para ser habilitados, evaluados o seleccionados en esta convocatoria.",
+      "n_caracteres": 1585
+    },
+    {
+      "numero": 18,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "texto": "El Ministerio de Ciencia, Tecnología e Innovación  podrá modificar el contenido de los términos de referencia,  así como su \ncronograma, por las causas establecidas en el Procedimiento Tramite de adendas de condiciones de mecanismos de \noperación de CTeI (Código: M801PR03) (documento disponible en la página web del Ministerio de Ciencia, Tecnología e \nInnovación, Micrositio Ca lidad). Estas causas incluyen, entre otras: fuerza mayor o caso fortuito , eventos imprevisibles no \natribuibles al Ministerio de Ciencia, Tecnología e Innovación , ajustes a condiciones o cronograma generados por \nnecesidades de los grupos de valor o de inter és, garantizando que con la modificación no se vulnerará la expectativa \nprevista de los posibles participantes ni los principios de mérito, calidad, equidad y transparencia.",
+      "n_caracteres": 815
+    },
+    {
+      "numero": 19,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "texto": "De acuerdo con la resolución 0361 de 2020 del Ministerio de Ciencia, Tecnología e Innovación, que establece que e n el \nevento en que se llegaren a generar derechos de propiedad intelectual sobre los resultados que se obtengan o se pudieran \nobtener en el marco del desarrollo de la presente convocatoria, la titularidad sobre los mismos se regirá por lo establecido \nen el artículo 169 de la Ley 1955 de 2019, que determinó: Derechos de propiedad intelectual sobre resultados de programas \ny proyectos de Ciencia, tecnología e innovación y de tecnologías de la información y las comunicaciones financiados con \nrecursos públicos . “En los casos de proyectos de investigación y desarrollo de ciencia, tecnología e innovación y de \ntecnologías de la información y las comunicaciones, adelantados con recursos públicos, el Estado como titular de los \nderechos de propiedad intelectual derivados de estos proyectos podrá ceder dichos derechos a través de la entidad \nfinanciadora, y autorizará su transferencia, comercialización y explotación a quien adelante y ejecute el proyecto, sin que \nello le constituya daño patrimonial. Las condiciones de esta cesión serán fijadas en el respectivo contrato o convenio. En \ntodo caso, el Estado, a través de la entidad financiadora, se reserva el derecho de obtener una licencia no exclusiva y \ngratuita de esto s derechos de propiedad intelectual por motivos de interés público. Así mismo, en caso de presentarse \nmotivos de seguridad y defensa nacional, el titular de los derechos de propiedad intelectual deberá ceder a título gratuito y  \nsin limitación alguna al Est ado, los derechos de propiedad intelectual que le correspondan. Los derechos de propiedad \nintelectual a ceder, así como sus condiciones de uso, serán fijados en el respectivo contrato o convenio. \nPARÁGRAFO. Cuando en el respectivo contrato o convenio se defina que el titular de derechos de propiedad intelectual es \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 19 de 20  \n \n  \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nquien adelante y ejecute el proyecto, y este realice la explotación de dichos derechos, obteniendo ganancias económicas,  \ndeberá garantizar al Estado, a través de la entidad financiadora, un porce ntaje de las ganancias netas obtenidas en la \nexplotación de la propiedad intelectual de la cual es titular, porcentaje que deberá ser acordado por mutuo acuerdo con el \nEstado, a través de la entidad financiadora. El Estado a través de la entidad financiado ra, deberá invertir los dineros \nobtenidos, en programas y proyectos de Ciencia, Tecnología e Innovación y de tecnologías de la información y las \ncomunicaciones.” \n \nDe cualquier forma, el Ministerio de Ciencia, Tecnología e Innovación y SENA, respetarán los derechos morales de las \npersonas naturales que participen en los proyectos derivados de la presente convocatoria. \n \nLas Partes (entidad ejecutora) de la propuesta  definirán entre ellas la titularidad de los derechos de propiedad intelectual \nque se generen en la ejecución de los proyectos financiados con recursos del presupuesto nacional. \n \nSin perjuicio de lo anterior, el Ministerio de Ciencia, Tecnología e Innovación y SENA se reservan el derecho de obtener una \nlicencia no exclusiva y gratuita sobre los dere chos de propiedad intelectual obtenidos en desarrollo de la presente \nconvocatoria por motivos de interés nacional, comprometiéndose a respetar los derechos morales a que hubiere lugar. \n \nEn cualquier evento o medio de divulgación utilizado para difundir los resultados de la propuesta se deberá dar el respectivo \ncrédito al Ministerio de Ciencia, Tecnología e Innovación y SENA, incluyendo la imagen institucional de acuerdo con la Guía \nde uso de la marca Gobierno de Colombia - Minciencias alojado en  https://minciencias.gov.co/ministerio/sobre-minciencias, \nsección “Ministerio”, “Sobre el Ministerio”.",
+      "n_caracteres": 4021
+    },
+    {
+      "numero": 20,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "texto": "Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003, podrán desarrollar su actividad durante la \npresente convocatoria, conforme a lo estipulado en dicha normativa.",
+      "n_caracteres": 188
+    },
+    {
+      "numero": 21,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "texto": "• Anexo 1: Propuesta de plan de actividades y resultados esperados de los Jóvenes Innovadores. \n• Anexo 2: Carta de aval y compromiso institucional. \n• Anexo 3: Reglamento operativo Jóvenes Innovadores.",
+      "n_caracteres": 202
+    },
+    {
+      "numero": 22,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "texto": "Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la presente convocatoria, así \ncomo lo dispu esto en los presentes términos de referencia para el desarrollo de esta y la entrega del recurso  o beneficio \nobjeto de esta. Una vez presentada la propuesta no será posible alegar desconocimiento de los requisitos y condiciones de \nlos términos de referencia y sus anexos. Cualquier aclaración, solicitud de subsanación de requisitos o solicitud de revisión \nde resultados preliminares debe realizarse de acuerdo con lo definido en el cronograma.  \n \n\nCódigo: M801PR01F01 \nVersión: 01  \nVigente desde 2021-11-30 \nPágina 20 de 20\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia\nDe igual forma , al realizar la postulación de  la propuesta, el re sponsable de esta o su representante legal declara que la \ninformación suministrada es veraz  y se hace responsable de la misma. En caso de encontrarse alguna incoherencia y/o \ninconsistencia en la información o documentación suministrada, el Ministerio de Ciencia, Tecnología e Innovación podrá en \ncualquier momento rechazar la propuesta o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones \nlegales correspondientes. \nCuando el proponente, postulante o beneficiario directo renuncie al  beneficio, incentivo, apoyo financiero, acompañamiento \no asesoría, debe presentar antes del inicio de la suscripción del contrato su declinación empleando el modelo sugerido de\n\"Carta de renuncia para acceder a beneficio, incentivo, apoyo financiero, acom pañamiento o asesoría \" (Código:\nM801PR02MO6) u otro documento de manifestación voluntaria para renunciar al beneficio, en el que se incluya como\nmínimo la siguiente información: Identificación, convocatoria en la que participó, beneficio al que está renunc iando; motivos\npor los cuales renuncia (opcional), teléfono de contacto, correo electrónico, dirección de correspondencia. Este documento\ndeberá estar firmado por el representante legal o beneficiario directo. El documento de declinación voluntaria deberá ser\nradicado en los canales habilitados por el Ministerio de Ciencia, Tecnología e Innovación: formulario en línea de PQRDS\nhttps://minciencias.gov.co/contact o al correo electrónico atencionalciudadano@minciencias.gov.co .",
+      "n_caracteres": 2392
+    },
+    {
+      "numero": 23,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "texto": "EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  \nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C. \nhttp://www.minciencias.gov.co  \nAtención al Ciudadano \nTeléfono: (+57) (601) 6258480 Extensión 2081 \nLínea gratuita nacional: 018000 914446 \nHorario: Lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua). \nEn caso de inquiet udes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se \nencuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “ Convocatoria \nJóvenes Innovadores en el marco de la reactivación económica”. \nJUAN DE JESUS REYES RODRIGUEZ \nDirector de Inteligencia de Recursos de la Ciencia, la Tecnología y la Innovación (CTeI) \nElaboró:      Doris Yaneth Correa Rodríguez / Contratista / Dirección de Vocaciones y Formación en CteI. \nCarolina Múnera Camacho / Contratista / Dirección de Vocaciones y Formación en CteI. \nJulian Cuervo Bustamante / Contratista/ Dirección de Inteligencia de Recursos. \nRevisó:  Diana Rúa Patiño / Gestora de CTeI / Dirección de Vocaciones y Formación en CteI. \nAprobó:  Clara Beatriz Ocampo Duran / Directora / Dirección de Vocaciones y Formación en CteI.",
+      "n_caracteres": 1237
+    }
+  ]
+}

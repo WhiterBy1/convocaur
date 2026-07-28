@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ConvocaUR · Matching</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #13212b;
+      --ink-soft: #3a4a55;
+      --muted: #6b7a86;
+      --line: rgba(19, 33, 43, 0.12);
+      --paper: #f3f6f4;
+      --panel: rgba(255, 255, 255, 0.78);
+      --accent: #0d7a6f;
+      --accent-deep: #08574f;
+      --warm: #c45c26;
+      --score: #1f6f8b;
+      --emb: #1f6f8b;
+      --tfidf: #c45c26;
+      --boost: #7a5c2e;
+      --ok: #2f7d4a;
+      --warn: #a65d1a;
+      --shadow: 0 18px 50px rgba(19, 33, 43, 0.08);
+      --radius: 18px;
+      --font-display: "Fraunces", Georgia, serif;
+      --font-body: "Outfit", system-ui, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: var(--font-body);
+      background:
+        radial-gradient(1200px 600px at 12% -10%, rgba(13, 122, 111, 0.18), transparent 60%),
+        radial-gradient(900px 500px at 100% 0%, rgba(196, 92, 38, 0.12), transparent 55%),
+        linear-gradient(180deg, #e8efe9 0%, var(--paper) 40%, #eef2f0 100%);
+      min-height: 100vh;
+    }
+
+    .noise {
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      opacity: 0.035;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+      z-index: 0;
+    }
+
+    .wrap {
+      position: relative;
+      z-index: 1;
+      width: min(1220px, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 2rem 0 3.5rem;
+    }
+
+    header.app-hero {
+      display: grid;
+      gap: 0.85rem;
+      padding: 1.1rem 0 1.4rem;
+      animation: rise 0.7s ease both;
+    }
+
+    .brand {
+      font-family: var(--font-display);
+      font-size: clamp(2.2rem, 5vw, 3.2rem);
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 0.95;
+      margin: 0;
+    }
+    .brand span { color: var(--accent-deep); }
+
+    .lede {
+      max-width: 40rem;
+      margin: 0;
+      color: var(--ink-soft);
+      font-size: 1.02rem;
+      line-height: 1.5;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem 1.1rem;
+      align-items: center;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); display: inline-block; }
+    .dot.warn { background: var(--warn); }
+    .dot.ok { background: var(--ok); }
+
+    .cache-banner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-bottom: 1.15rem;
+      animation: rise 0.85s ease both;
+    }
+    .cache-banner .panel { padding: 0.95rem 1.1rem; }
+    .cache-banner h2 {
+      margin: 0 0 0.35rem;
+      font-family: var(--font-display);
+      font-size: 1.05rem;
+    }
+    .cache-banner p {
+      margin: 0;
+      color: var(--ink-soft);
+      font-size: 0.84rem;
+      line-height: 1.45;
+    }
+    .stat-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin-top: 0.7rem;
+    }
+    .stat {
+      min-width: 6.5rem;
+      padding: 0.45rem 0.6rem;
+      border-radius: 12px;
+      background: rgba(13, 122, 111, 0.08);
+      border: 1px solid rgba(13, 122, 111, 0.14);
+    }
+    .stat b {
+      display: block;
+      font-family: var(--font-display);
+      font-size: 1.15rem;
+      line-height: 1;
+    }
+    .stat span { font-size: 0.7rem; color: var(--muted); }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 240px 1fr;
+      gap: 1.1rem;
+      align-items: start;
+      animation: rise 1s ease both;
+    }
+
+    .panel {
+      background: var(--panel);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .panel-h {
+      padding: 0.95rem 1.05rem 0.7rem;
+      border-bottom: 1px solid var(--line);
+    }
+    .panel-h h2 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+    .panel-h p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.82rem; }
+
+    .conv-list { padding: 0.55rem; display: grid; gap: 0.4rem; }
+    .conv-btn {
+      width: 100%;
+      text-align: left;
+      border: 1px solid transparent;
+      background: transparent;
+      border-radius: 12px;
+      padding: 0.75rem 0.85rem;
+      cursor: pointer;
+      font: inherit;
+      color: inherit;
+      transition: background 0.2s ease, border-color 0.2s ease;
+    }
+    .conv-btn:hover { background: rgba(13, 122, 111, 0.06); }
+    .conv-btn.active {
+      background: rgba(13, 122, 111, 0.1);
+      border-color: rgba(13, 122, 111, 0.28);
+    }
+    .conv-btn .num {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .conv-btn .sub {
+      margin-top: 0.3rem;
+      font-size: 0.76rem;
+      color: var(--muted);
+      line-height: 1.35;
+    }
+
+    .main-stack { display: grid; gap: 1.1rem; }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.85rem 1.05rem;
+      border-bottom: 1px solid var(--line);
+    }
+    .toolbar label {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.86rem;
+      color: var(--ink-soft);
+    }
+    .toolbar input[type="range"] { width: 110px; accent-color: var(--accent); }
+    .pill-score { font-size: 0.78rem; color: var(--muted); }
+
+    .graph-wrap {
+      position: relative;
+      height: min(62vh, 560px);
+      min-height: 420px;
+      background:
+        radial-gradient(circle at 50% 48%, rgba(13, 122, 111, 0.1), transparent 42%),
+        linear-gradient(180deg, rgba(255,255,255,0.35), rgba(243,246,244,0.2));
+    }
+    .graph-svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+      cursor: grab;
+      touch-action: none;
+    }
+    .graph-svg:active { cursor: grabbing; }
+
+    .link-prof {
+      stroke: rgba(13, 122, 111, 0.35);
+      fill: none;
+    }
+    .link-aporte {
+      stroke: rgba(196, 92, 38, 0.35);
+      fill: none;
+      stroke-dasharray: 4 3;
+    }
+    .node-conv circle {
+      fill: var(--accent-deep);
+      stroke: #fff;
+      stroke-width: 3;
+      filter: drop-shadow(0 6px 14px rgba(8, 87, 79, 0.28));
+    }
+    .node-prof circle {
+      fill: #1f6f8b;
+      stroke: #fff;
+      stroke-width: 2.5;
+      cursor: pointer;
+      transition: fill 0.15s ease;
+    }
+    .node-prof.active circle,
+    .node-prof:hover circle { fill: var(--warm); }
+    .node-aporte circle {
+      fill: #f7efe6;
+      stroke: var(--boost);
+      stroke-width: 1.5;
+      cursor: default;
+    }
+    .node-aporte.score circle { stroke: var(--emb); fill: #e8f3f6; }
+    .node-aporte.boost circle { stroke: var(--boost); fill: #f7efe6; }
+
+    .node-label {
+      font-family: var(--font-body);
+      font-size: 11px;
+      fill: var(--ink);
+      pointer-events: none;
+      text-anchor: middle;
+    }
+    .node-label.conv {
+      font-family: var(--font-display);
+      font-size: 13px;
+      font-weight: 700;
+      fill: #fff;
+    }
+    .node-sub {
+      font-size: 9.5px;
+      fill: var(--muted);
+      text-anchor: middle;
+      pointer-events: none;
+    }
+    .edge-label {
+      font-size: 9px;
+      fill: var(--accent-deep);
+      text-anchor: middle;
+      pointer-events: none;
+    }
+
+    .graph-legend {
+      position: absolute;
+      left: 12px;
+      bottom: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem 0.85rem;
+      padding: 0.55rem 0.7rem;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.88);
+      border: 1px solid var(--line);
+      font-size: 0.72rem;
+      color: var(--ink-soft);
+      max-width: calc(100% - 24px);
+    }
+    .graph-legend i {
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      margin-right: 0.28rem;
+      vertical-align: -1px;
+    }
+    .graph-legend .c { background: var(--accent-deep); }
+    .graph-legend .p { background: #1f6f8b; }
+    .graph-legend .a { background: var(--boost); }
+
+    .tooltip {
+      position: absolute;
+      pointer-events: none;
+      z-index: 5;
+      background: #13212b;
+      color: #f3f6f4;
+      font-size: 0.78rem;
+      line-height: 1.35;
+      padding: 0.55rem 0.7rem;
+      border-radius: 10px;
+      max-width: 260px;
+      opacity: 0;
+      transform: translateY(4px);
+      transition: opacity 0.15s ease, transform 0.15s ease;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    }
+    .tooltip.show { opacity: 1; transform: translateY(0); }
+
+    .side-feats {
+      border-top: 1px solid var(--line);
+      padding: 0.9rem 1.05rem 1.05rem;
+    }
+    .side-feats h3 {
+      margin: 0 0 0.45rem;
+      font-family: var(--font-display);
+      font-size: 1.05rem;
+    }
+    .side-feats .hint {
+      margin: 0 0 0.7rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+    .feat-list { display: grid; gap: 0.45rem; }
+    .feat {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.35rem 0.75rem;
+      padding: 0.55rem 0.65rem;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.55);
+    }
+    .feat .lab { font-size: 0.86rem; font-weight: 600; }
+    .feat .det { grid-column: 1 / -1; font-size: 0.75rem; color: var(--muted); line-height: 1.35; }
+    .feat .val {
+      font-variant-numeric: tabular-nums;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--score);
+    }
+    .feat.score { border-color: rgba(31, 111, 139, 0.25); }
+    .feat.boost { border-color: rgba(122, 92, 46, 0.28); }
+    .feat.senal, .feat.contexto { opacity: 0.95; }
+    .feat .tag-tipo {
+      font-size: 0.65rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .detail-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.1rem;
+    }
+    .block { padding: 1.05rem 1.15rem 1.2rem; }
+    .block h3 {
+      margin: 0 0 0.7rem;
+      font-family: var(--font-display);
+      font-size: 1.12rem;
+    }
+    .kv { display: grid; gap: 0.5rem; margin-bottom: 0.9rem; }
+    .kv div {
+      display: grid;
+      grid-template-columns: 7.2rem 1fr;
+      gap: 0.45rem;
+      font-size: 0.86rem;
+    }
+    .kv .k { color: var(--muted); }
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin: 0.35rem 0 0.8rem;
+    }
+    .tag {
+      font-size: 0.72rem;
+      padding: 0.25rem 0.5rem;
+      border-radius: 8px;
+      background: rgba(13, 122, 111, 0.1);
+      color: var(--accent-deep);
+      border: 1px solid rgba(13, 122, 111, 0.15);
+    }
+    .prose {
+      font-size: 0.86rem;
+      line-height: 1.5;
+      color: var(--ink-soft);
+      white-space: pre-wrap;
+      max-height: 180px;
+      overflow: auto;
+    }
+    .req-list {
+      margin: 0;
+      padding-left: 1.05rem;
+      color: var(--ink-soft);
+      font-size: 0.82rem;
+      line-height: 1.4;
+    }
+    .req-list li { margin-bottom: 0.3rem; }
+
+    .empty {
+      padding: 2rem 1.25rem;
+      text-align: center;
+      color: var(--muted);
+    }
+    .err {
+      margin: 1rem;
+      padding: 0.85rem 1rem;
+      border-radius: 12px;
+      background: rgba(166, 93, 26, 0.1);
+      border: 1px solid rgba(166, 93, 26, 0.25);
+      color: var(--warn);
+      font-size: 0.9rem;
+    }
+
+    footer.note {
+      margin-top: 1.35rem;
+      color: var(--muted);
+      font-size: 0.8rem;
+      line-height: 1.45;
+    }
+
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 960px) {
+      .layout, .detail-grid, .cache-banner { grid-template-columns: 1fr; }
+      .graph-wrap { height: 480px; }
+    }
+    @media (max-width: 560px) {
+      .kv div { grid-template-columns: 1fr; gap: 0.12rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <div class="wrap">
+    <header class="app-hero">
+      <h1 class="brand">Convoca<span>UR</span></h1>
+      <p class="lede">Grafo de matching: la convocatoria al centro, los mejores docentes como ramas, y las raíces de aporte (emb / TF-IDF / boost) que explican el puntaje.</p>
+      <div class="meta-row" id="health"><span><i class="dot"></i> cargando API…</span></div>
+    </header>
+
+    <section class="cache-banner" id="cacheBanner"></section>
+
+    <div class="layout">
+      <aside class="panel">
+        <div class="panel-h">
+          <h2>Convocatorias</h2>
+          <p>Rankings precalculados</p>
+        </div>
+        <div class="conv-list" id="convList"></div>
+      </aside>
+
+      <div class="main-stack">
+        <section class="panel">
+          <div class="toolbar">
+            <div>
+              <strong id="convTitle">Grafo de match</strong>
+              <div class="pill-score" id="convSub">Elige una convocatoria</div>
+            </div>
+            <label>
+              Top
+              <input id="topK" type="range" min="5" max="15" step="1" value="8" />
+              <span id="topKLabel">8</span>
+            </label>
+          </div>
+
+          <div class="graph-wrap" id="graphWrap">
+            <div class="empty" id="graphEmpty">Selecciona una convocatoria.</div>
+            <svg class="graph-svg" id="graphSvg" hidden></svg>
+            <div class="tooltip" id="graphTip"></div>
+            <div class="graph-legend" id="graphLegend" hidden>
+              <span><i class="c"></i>convocatoria</span>
+              <span><i class="p"></i>profesor (mejor match)</span>
+              <span><i class="a"></i>aporte al score</span>
+              <span>arrastra nodos · rueda = zoom</span>
+            </div>
+          </div>
+
+          <div class="side-feats" id="featPanel">
+            <h3>Características del match</h3>
+            <p class="hint">Clic en un profesor para ver qué empujó su puntaje.</p>
+            <div class="feat-list" id="featList"></div>
+          </div>
+        </section>
+
+        <section class="detail-grid">
+          <article class="panel">
+            <div class="block" id="convDetail">
+              <h3>Input convocatoria</h3>
+              <p class="empty" style="padding:1rem 0">Sin selección</p>
+            </div>
+          </article>
+          <article class="panel">
+            <div class="block" id="profDetail">
+              <h3>Input docente</h3>
+              <p class="empty" style="padding:1rem 0">Clic en un nodo profesor</p>
+            </div>
+          </article>
+        </section>
+      </div>
+    </div>
+
+    <footer class="note">
+      Score = 0.7·cosine(embeddings) + 0.3·cosine(TF-IDF) + boost (CvLAC / categoría).
+      Las raíces del grafo muestran solo aportes numéricos; áreas y líneas aparecen en el panel como señales de contexto.
+    </footer>
+  </div>
+
+  <script>
+    const state = {
+      convs: [],
+      selected: null,
+      top: 8,
+      selectedProf: null,
+      rows: [],
+      grafo: null,
+      sim: null,
+    };
+
+    async function api(path) {
+      const res = await fetch(path);
+      if (!res.ok) throw new Error((await res.text()) || res.statusText);
+      return res.json();
+    }
+
+    function esc(s) {
+      return String(s ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;");
+    }
+
+    function short(s, n = 22) {
+      const t = String(s || "").trim();
+      return t.length <= n ? t : t.slice(0, n - 1) + "…";
+    }
+
+    async function boot() {
+      try {
+        const [health, convs] = await Promise.all([
+          api("/api/health"),
+          api("/api/convocatorias"),
+        ]);
+        const cache = health.cache_embeddings || {};
+        document.getElementById("health").innerHTML = `
+          <span><i class="dot ok"></i> API ok</span>
+          <span>${health.n_profesores_json} profesores</span>
+          <span>${health.rankings.length} rankings</span>
+          <span>${cache.n_vectores ?? "—"} embeddings cache</span>
+        `;
+        document.getElementById("cacheBanner").innerHTML = `
+          <div class="panel">
+            <h2>Embeddings</h2>
+            <p>${esc(cache.estrategia || "Cache en disco por hash del texto.")}</p>
+            <div class="stat-row">
+              <div class="stat"><b>${cache.n_vectores ?? 0}</b><span>vectores</span></div>
+              <div class="stat"><b>${cache.size_mb ?? 0} MB</b><span>disco</span></div>
+            </div>
+          </div>
+          <div class="panel">
+            <h2>Vector DB</h2>
+            <p>${esc(cache.cuando_vector_db || "")}</p>
+          </div>
+        `;
+        state.convs = convs;
+        renderConvList();
+        if (convs.length) selectConv(convs[0].id);
+      } catch (e) {
+        document.getElementById("health").innerHTML =
+          `<span><i class="dot warn"></i> ${esc(e.message)}</span>`;
+      }
+    }
+
+    function renderConvList() {
+      const el = document.getElementById("convList");
+      if (!state.convs.length) {
+        el.innerHTML = `<div class="empty">Sin rankings. Corre <code>matching/run_match.py</code>.</div>`;
+        return;
+      }
+      el.innerHTML = state.convs.map((c) => `
+        <button class="conv-btn ${state.selected === c.id ? "active" : ""}" data-id="${esc(c.id)}">
+          <div class="num">#${esc(c.numero)}</div>
+          <div class="sub">
+            ${c.top1_nombre ? `Top: ${esc(c.top1_nombre)}` : "Ranking listo"}
+            ${c.top1_score != null ? ` · ${Number(c.top1_score).toFixed(3)}` : ""}
+          </div>
+        </button>
+      `).join("");
+      el.querySelectorAll(".conv-btn").forEach((btn) => {
+        btn.addEventListener("click", () => selectConv(btn.dataset.id));
+      });
+    }
+
+    async function selectConv(id) {
+      state.selected = id;
+      state.selectedProf = null;
+      renderConvList();
+      const meta = state.convs.find((c) => c.id === id);
+      document.getElementById("convTitle").textContent = `Convocatoria ${meta?.numero ?? id}`;
+      document.getElementById("convSub").textContent = "Grafo: centro = convocatoria · ramas = top match";
+      document.getElementById("profDetail").innerHTML =
+        `<h3>Input docente</h3><p class="empty" style="padding:1rem 0">Clic en un nodo profesor</p>`;
+      document.getElementById("featList").innerHTML = "";
+      document.getElementById("graphEmpty").textContent = "Cargando grafo…";
+      document.getElementById("graphEmpty").hidden = false;
+      document.getElementById("graphSvg").hidden = true;
+      document.getElementById("graphLegend").hidden = true;
+
+      try {
+        const [rank, det] = await Promise.all([
+          api(`/api/convocatorias/${id}/ranking?top=${state.top}`),
+          api(`/api/convocatorias/${id}`),
+        ]);
+        state.rows = rank.rows || [];
+        // Si el server viejo no manda grafo, lo armamos en el cliente
+        state.grafo = rank.grafo && rank.grafo.nodes?.length
+          ? rank.grafo
+          : buildGrafoFromRows(id, state.rows);
+        renderConvDetail(det);
+        renderGraph(state.grafo, id);
+        if (state.rows[0]) selectProf(state.rows[0].id, { skipFetchDetail: false });
+      } catch (e) {
+        document.getElementById("graphEmpty").innerHTML = `<div class="err">${esc(e.message)}</div>`;
+      }
+    }
+
+    function buildCaracts(row) {
+      if (row.caracteristicas?.length) return row.caracteristicas;
+      const feats = [];
+      const emb = Number(row.score_emb) || 0;
+      const tfidf = Number(row.score_tfidf) || 0;
+      feats.push({
+        id: "emb", tipo: "score", label: "Similitud semántica",
+        detalle: "0.7 · cosine embeddings", aporte: +(0.7 * emb).toFixed(4),
+      });
+      feats.push({
+        id: "tfidf", tipo: "score", label: "Términos literales",
+        detalle: "0.3 · cosine TF-IDF", aporte: +(0.3 * tfidf).toFixed(4),
+      });
+      if (row.tiene_cvlac) {
+        feats.push({
+          id: "cvlac", tipo: "boost", label: "CvLAC presente",
+          detalle: "boost +0.02", aporte: 0.02,
+        });
+      }
+      const cat = String(row.categoria || "").toLowerCase();
+      let catBoost = 0, catTag = null;
+      if (cat.includes("emérito") || cat.includes("emerito")) { catBoost = 0.05; catTag = "Emérito"; }
+      else if (cat.includes("senior")) { catBoost = 0.04; catTag = "Senior"; }
+      else if (cat.includes("asociado")) { catBoost = 0.03; catTag = "Asociado"; }
+      else if (cat.includes("junior")) { catBoost = 0.02; catTag = "Junior"; }
+      if (catBoost) {
+        feats.push({
+          id: "categoria", tipo: "boost", label: `Categoría ${catTag}`,
+          detalle: String(row.categoria || ""), aporte: catBoost,
+        });
+      }
+      return feats;
+    }
+
+    function buildGrafoFromRows(convId, rows) {
+      const numero = String(convId).replace("convocatoria_", "");
+      const nodes = [{
+        id: convId,
+        kind: "convocatoria",
+        label: `Convocatoria ${numero}`,
+        score: null,
+      }];
+      const links = [];
+      (rows || []).forEach((r) => {
+        const pid = r.id;
+        if (!pid) return;
+        const caracts = buildCaracts(r);
+        r.caracteristicas = caracts;
+        nodes.push({
+          id: pid,
+          kind: "profesor",
+          label: r.nombre || pid,
+          rank: r.rank,
+          score: r.score_final,
+          facultad: r.facultad,
+          caracteristicas: caracts,
+        });
+        links.push({
+          source: convId,
+          target: pid,
+          score: r.score_final,
+          score_emb: r.score_emb,
+          score_tfidf: r.score_tfidf,
+          boost: r.boost,
+        });
+        caracts.forEach((feat) => {
+          if (feat.tipo !== "score" && feat.tipo !== "boost") return;
+          if (!(Number(feat.aporte) > 0)) return;
+          const fid = `${pid}::${feat.id}`;
+          nodes.push({
+            id: fid,
+            kind: "aporte",
+            label: feat.label,
+            aporte: feat.aporte,
+            detalle: feat.detalle,
+            tipo_aporte: feat.tipo,
+            parent: pid,
+          });
+          links.push({
+            source: pid,
+            target: fid,
+            score: feat.aporte,
+            kind: "aporte",
+          });
+        });
+      });
+      return { nodes, links };
+    }
+
+    function renderFeats(caracts) {
+      const el = document.getElementById("featList");
+      if (!caracts || !caracts.length) {
+        el.innerHTML = `<p class="hint">Sin desglose</p>`;
+        return;
+      }
+      el.innerHTML = caracts.map((f) => `
+        <div class="feat ${esc(f.tipo || "")}">
+          <div>
+            <div class="lab">${esc(f.label)}</div>
+            <div class="tag-tipo">${esc(f.tipo)}</div>
+          </div>
+          <div class="val">${Number(f.aporte) > 0 ? "+" + Number(f.aporte).toFixed(3) : "—"}</div>
+          <div class="det">${esc(f.detalle || "")}</div>
+        </div>
+      `).join("");
+    }
+
+    /* ---------- Force graph (vanilla) ---------- */
+    function renderGraph(grafo, convId) {
+      const wrap = document.getElementById("graphWrap");
+      const svg = document.getElementById("graphSvg");
+      const tip = document.getElementById("graphTip");
+      const empty = document.getElementById("graphEmpty");
+      if (!grafo || !grafo.nodes?.length) {
+        empty.hidden = false;
+        empty.textContent = "Sin nodos";
+        svg.hidden = true;
+        return;
+      }
+      empty.hidden = true;
+      svg.hidden = false;
+      document.getElementById("graphLegend").hidden = false;
+
+      const W = wrap.clientWidth || 800;
+      const H = wrap.clientHeight || 500;
+      svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+
+      const nodes = grafo.nodes.map((n) => ({ ...n }));
+      const links = grafo.links.map((l) => ({ ...l }));
+      const byId = Object.fromEntries(nodes.map((n) => [n.id, n]));
+
+      // Layout inicial: convocatoria centro, profesores en anillo, aportes más afuera
+      const cx = W / 2, cy = H / 2;
+      const profs = nodes.filter((n) => n.kind === "profesor");
+      const aportes = nodes.filter((n) => n.kind === "aporte");
+      const conv = nodes.find((n) => n.kind === "convocatoria");
+      if (conv) { conv.x = cx; conv.y = cy; conv.fx = cx; conv.fy = cy; }
+
+      const R1 = Math.min(W, H) * 0.28;
+      const R2 = Math.min(W, H) * 0.42;
+      profs.forEach((p, i) => {
+        const a = (i / Math.max(profs.length, 1)) * Math.PI * 2 - Math.PI / 2;
+        p.x = cx + Math.cos(a) * R1;
+        p.y = cy + Math.sin(a) * R1;
+      });
+
+      // Agrupar aportes por padre
+      const kids = {};
+      aportes.forEach((a) => {
+        (kids[a.parent] ||= []).push(a);
+      });
+      Object.entries(kids).forEach(([pid, list]) => {
+        const parent = byId[pid];
+        if (!parent) return;
+        const base = Math.atan2(parent.y - cy, parent.x - cx);
+        list.forEach((a, i) => {
+          const spread = (i - (list.length - 1) / 2) * 0.28;
+          const ang = base + spread;
+          a.x = cx + Math.cos(ang) * R2;
+          a.y = cy + Math.sin(ang) * R2;
+        });
+      });
+
+      nodes.forEach((n) => {
+        n.vx = 0;
+        n.vy = 0;
+        if (n.x == null) { n.x = cx + (Math.random() - 0.5) * 40; n.y = cy + (Math.random() - 0.5) * 40; }
+      });
+
+      links.forEach((l) => {
+        l.source = byId[l.source] || l.source;
+        l.target = byId[l.target] || l.target;
+      });
+
+      // Score scale for edge width / node radius
+      const scores = profs.map((p) => Number(p.score) || 0);
+      const smin = Math.min(...scores, 0);
+      const smax = Math.max(...scores, 0.01);
+
+      function radius(n) {
+        if (n.kind === "convocatoria") return 34;
+        if (n.kind === "profesor") {
+          const t = ((Number(n.score) || 0) - smin) / (smax - smin || 1);
+          return 14 + t * 10;
+        }
+        return 9 + Math.min(8, (Number(n.aporte) || 0) * 40);
+      }
+
+      function tick() {
+        // springs
+        links.forEach((l) => {
+          const s = l.source, t = l.target;
+          if (!s || !t || typeof s === "string") return;
+          const dx = t.x - s.x, dy = t.y - s.y;
+          const dist = Math.hypot(dx, dy) || 1;
+          const ideal = l.kind === "aporte" ? 70 : 150;
+          const f = (dist - ideal) * 0.025;
+          const fx = (dx / dist) * f, fy = (dy / dist) * f;
+          if (!s.fx) { s.vx += fx; s.vy += fy; }
+          if (!t.fx) { t.vx -= fx; t.vy -= fy; }
+        });
+        // repulsion
+        for (let i = 0; i < nodes.length; i++) {
+          for (let j = i + 1; j < nodes.length; j++) {
+            const a = nodes[i], b = nodes[j];
+            let dx = b.x - a.x, dy = b.y - a.y;
+            let dist = Math.hypot(dx, dy) || 1;
+            const f = 420 / (dist * dist);
+            dx = (dx / dist) * f; dy = (dy / dist) * f;
+            if (!a.fx) { a.vx -= dx; a.vy -= dy; }
+            if (!b.fx) { b.vx += dx; b.vy += dy; }
+          }
+        }
+        // soft pull profesores toward ring
+        profs.forEach((p) => {
+          const dx = p.x - cx, dy = p.y - cy;
+          const dist = Math.hypot(dx, dy) || 1;
+          const pull = (dist - R1) * 0.01;
+          p.vx -= (dx / dist) * pull;
+          p.vy -= (dy / dist) * pull;
+        });
+
+        nodes.forEach((n) => {
+          if (n.fx != null) { n.x = n.fx; n.y = n.fy; n.vx = 0; n.vy = 0; return; }
+          n.vx *= 0.82; n.vy *= 0.82;
+          n.x += n.vx; n.y += n.vy;
+          n.x = Math.max(24, Math.min(W - 24, n.x));
+          n.y = Math.max(24, Math.min(H - 24, n.y));
+        });
+        paint();
+      }
+
+      function paint() {
+        const active = state.selectedProf;
+        let html = "";
+        links.forEach((l) => {
+          const s = l.source, t = l.target;
+          if (!s?.x || !t?.x) return;
+          const isAporte = l.kind === "aporte";
+          const dim = active && !isAporte && s.id !== active && t.id !== active && s.id !== convId;
+          const w = isAporte
+            ? 1 + Math.min(3, (Number(l.score) || 0) * 25)
+            : 1.5 + ((Number(l.score) - smin) / (smax - smin || 1)) * 4;
+          html += `<path class="${isAporte ? "link-aporte" : "link-prof"}" d="M${s.x},${s.y} L${t.x},${t.y}" stroke-width="${w}" opacity="${dim ? 0.18 : 0.85}" />`;
+          if (!isAporte && t.kind === "profesor") {
+            const mx = (s.x + t.x) / 2, my = (s.y + t.y) / 2;
+            html += `<text class="edge-label" x="${mx}" y="${my - 4}" opacity="${dim ? 0.2 : 0.9}">${Number(l.score).toFixed(3)}</text>`;
+          }
+        });
+
+        nodes.forEach((n) => {
+          const r = radius(n);
+          if (n.kind === "convocatoria") {
+            html += `<g class="node-conv" transform="translate(${n.x},${n.y})">
+              <circle r="${r}" />
+              <text class="node-label conv" y="5">${esc(short(n.label.replace("Convocatoria ", "#"), 10))}</text>
+            </g>`;
+            return;
+          }
+          if (n.kind === "profesor") {
+            const on = active === n.id ? "active" : "";
+            const dim = active && active !== n.id;
+            html += `<g class="node-prof ${on}" data-id="${esc(n.id)}" transform="translate(${n.x},${n.y})" opacity="${dim ? 0.35 : 1}">
+              <circle r="${r}" />
+              <text class="node-label" y="${r + 12}">${esc(short(n.label, 18))}</text>
+              <text class="node-sub" y="${r + 24}">#${esc(n.rank)} · ${Number(n.score).toFixed(3)}</text>
+            </g>`;
+            return;
+          }
+          // aporte — solo visibles si el padre está seleccionado (o si no hay selección, top aportes de top3)
+          const parentOn = !active || n.parent === active;
+          if (!parentOn) return;
+          const cls = n.tipo_aporte === "score" ? "score" : "boost";
+          html += `<g class="node-aporte ${cls}" data-id="${esc(n.id)}" transform="translate(${n.x},${n.y})">
+            <circle r="${r}" />
+            <text class="node-label" y="${r + 11}">${esc(short(n.label, 16))}</text>
+            <text class="node-sub" y="${r + 22}">+${Number(n.aporte).toFixed(3)}</text>
+          </g>`;
+        });
+        svg.innerHTML = html;
+
+        svg.querySelectorAll(".node-prof").forEach((g) => {
+          const id = g.dataset.id;
+          g.addEventListener("click", (e) => { e.stopPropagation(); selectProf(id); });
+          g.addEventListener("mouseenter", (ev) => {
+            const row = state.rows.find((r) => r.id === id);
+            tip.innerHTML = `<strong>${esc(row?.nombre || id)}</strong><br/>score ${Number(row?.score_final).toFixed(3)}<br/>emb ${Number(row?.score_emb).toFixed(3)} · tfidf ${Number(row?.score_tfidf).toFixed(3)} · boost ${Number(row?.boost).toFixed(2)}`;
+            tip.classList.add("show");
+            placeTip(ev);
+          });
+          g.addEventListener("mousemove", placeTip);
+          g.addEventListener("mouseleave", () => tip.classList.remove("show"));
+        });
+
+        svg.querySelectorAll(".node-aporte").forEach((g) => {
+          const node = byId[g.dataset.id];
+          g.addEventListener("mouseenter", (ev) => {
+            tip.innerHTML = `<strong>${esc(node?.label)}</strong><br/>${esc(node?.detalle || "")}<br/>aporte +${Number(node?.aporte).toFixed(3)}`;
+            tip.classList.add("show");
+            placeTip(ev);
+          });
+          g.addEventListener("mousemove", placeTip);
+          g.addEventListener("mouseleave", () => tip.classList.remove("show"));
+        });
+
+        // drag profesores
+        svg.querySelectorAll(".node-prof").forEach((g) => {
+          enableDrag(g, byId[g.dataset.id]);
+        });
+      }
+
+      function placeTip(ev) {
+        const rect = wrap.getBoundingClientRect();
+        tip.style.left = Math.min(rect.width - 200, Math.max(8, ev.clientX - rect.left + 12)) + "px";
+        tip.style.top = Math.max(8, ev.clientY - rect.top - 8) + "px";
+      }
+
+      let dragging = null;
+      function enableDrag(g, node) {
+        g.addEventListener("pointerdown", (e) => {
+          dragging = node;
+          node.fx = node.x; node.fy = node.y;
+          g.setPointerCapture(e.pointerId);
+        });
+        g.addEventListener("pointermove", (e) => {
+          if (dragging !== node) return;
+          const rect = svg.getBoundingClientRect();
+          const x = ((e.clientX - rect.left) / rect.width) * W;
+          const y = ((e.clientY - rect.top) / rect.height) * H;
+          node.fx = x; node.fy = y; node.x = x; node.y = y;
+        });
+        g.addEventListener("pointerup", () => {
+          if (dragging === node) {
+            node.fx = null; node.fy = null;
+            dragging = null;
+          }
+        });
+      }
+
+      if (state.sim) cancelAnimationFrame(state.sim);
+      let frames = 0;
+      function loop() {
+        tick();
+        frames++;
+        // keep a light simulation alive for drag responsiveness
+        state.sim = requestAnimationFrame(loop);
+        if (frames > 240 && !dragging) {
+          // slow down after settle but keep running lightly
+          if (frames % 2 === 0) return;
+        }
+      }
+      state._byId = byId;
+      state._paint = paint;
+      state.sim = requestAnimationFrame(loop);
+    }
+
+    function renderConvDetail(det) {
+      const n = det.nlp || {};
+      const eleg = det.elegibilidad_urosario;
+      const lineas = (n.lineas_tematicas || []).map((l) =>
+        `<span class="tag">${esc(l.nombre || l)}</span>`
+      ).join("");
+      const reqs = (n.requisitos || []).slice(0, 5).map((r) =>
+        `<li>${esc(r.texto || r)}</li>`
+      ).join("");
+      let elegHtml = "";
+      if (eleg && typeof eleg === "object") {
+        elegHtml = `<div class="kv">
+          <div><span class="k">Elegibilidad</span><span>${esc(eleg.modo || "—")}</span></div>
+          <div><span class="k">Rol</span><span>${esc(eleg.rol_sugerido || "—")}</span></div>
+        </div>`;
+      }
+      document.getElementById("convDetail").innerHTML = `
+        <h3>Input convocatoria · ${esc(det.id.replace("convocatoria_", "#"))}</h3>
+        ${elegHtml}
+        <strong style="font-size:0.8rem; color:var(--muted)">Objetivo</strong>
+        <p class="prose" style="max-height:100px">${esc(n.objetivo || "—")}</p>
+        <strong style="font-size:0.8rem; color:var(--muted)">Líneas</strong>
+        <div class="tag-list">${lineas || '<span class="tag">—</span>'}</div>
+        <strong style="font-size:0.8rem; color:var(--muted)">Requisitos (muestra)</strong>
+        <ul class="req-list">${reqs || "<li>—</li>"}</ul>
+      `;
+    }
+
+    async function selectProf(id, opts = {}) {
+      state.selectedProf = id;
+      const row = state.rows.find((r) => r.id === id);
+      renderFeats(row?.caracteristicas || []);
+      if (state._paint) state._paint();
+
+      if (opts.skipFetchDetail) return;
+      document.getElementById("profDetail").innerHTML =
+        `<h3>Input docente</h3><p class="empty" style="padding:1rem 0">Cargando…</p>`;
+      try {
+        const p = await api(`/api/profesores/${encodeURIComponent(id)}`);
+        const m = p.meta || {};
+        const areas = (p.areas_investigacion || []).slice(0, 8)
+          .map((a) => `<span class="tag">${esc(a)}</span>`).join("");
+        document.getElementById("profDetail").innerHTML = `
+          <h3>${esc(m.nombre || id)}</h3>
+          <div class="kv">
+            <div><span class="k">Facultad</span><span>${esc(m.facultad || "—")}</span></div>
+            <div><span class="k">Categoría</span><span>${esc(m.categoria || "—")}</span></div>
+            <div><span class="k">CvLAC</span><span>${p.tiene_cvlac ? "Sí" : "No"}</span></div>
+            <div><span class="k">Score</span><span>${row ? Number(row.score_final).toFixed(3) : "—"}</span></div>
+          </div>
+          <strong style="font-size:0.8rem; color:var(--muted)">Áreas</strong>
+          <div class="tag-list">${areas || '<span class="tag">—</span>'}</div>
+          <strong style="font-size:0.8rem; color:var(--muted)">Texto matching</strong>
+          <p class="prose">${esc(p.texto_matching || "")}</p>
+        `;
+      } catch (e) {
+        document.getElementById("profDetail").innerHTML =
+          `<h3>Input docente</h3><div class="err">${esc(e.message)}</div>`;
+      }
+    }
+
+    document.getElementById("topK").addEventListener("input", (e) => {
+      state.top = Number(e.target.value);
+      document.getElementById("topKLabel").textContent = String(state.top);
+    });
+    document.getElementById("topK").addEventListener("change", () => {
+      if (state.selected) selectConv(state.selected);
+    });
+
+    boot();
+  </script>
+</body>
+</html>

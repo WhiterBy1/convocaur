@@ -1,0 +1,384 @@
+{
+  "convocatoria": "935",
+  "objetivo": "Conformar un banco de propuestas elegibles para proyectos de I+D+i que vinculen Doctoras en estancias posdoctorales y Jóvenes Investigadoras colombianas, con el fin de intervenir al menos una temática del reto 'Poner fin a todas las formas de violencia en Colombia' en la Misión 'Ciencia para la Paz', e incrementar las vocaciones y capacidades investigativas de las mujeres en las regiones de Colombia.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad del Sistema Nacional de Ciencia, Tecnología e Innovación",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "Profesional colombiana con doctorado",
+      "rol": null,
+      "condicion": "Contar con título de doctorado o certificar que su tesis de doctorado ha sido sustentada y aprobada al cierre de la convocatoria"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Causas de los conflictos y las consecuencias para el bienestar de los colombianos.",
+      "modalidad": null,
+      "descripcion_corta": "Causas de los conflictos y las consecuencias para el bienestar de los colombianos."
+    },
+    {
+      "nombre": "Reconocimiento de las experiencias y los procesos de paz.",
+      "modalidad": null,
+      "descripcion_corta": "Reconocimiento de las experiencias y los procesos de paz."
+    },
+    {
+      "nombre": "Comprensión de las diversas formas, escalas y niveles de conflicto (local, regional, nacional, internacional).",
+      "modalidad": null,
+      "descripcion_corta": "Comprensión de las diversas formas, escalas y niveles de conflicto (local, regional, nacional, internacional)."
+    },
+    {
+      "nombre": "Construcción de soluciones socio-técnicas que fomenten y fortalezcan la convivencia pacífica en condiciones de equidad y justicia social.",
+      "modalidad": null,
+      "descripcion_corta": "Construcción de soluciones socio-técnicas que fomenten y fortalezcan la convivencia pacífica en condiciones de equidad y justicia social."
+    },
+    {
+      "nombre": "Investigación, desarrollos tecnológicos o innovaciones que permitan atender problemáticas asociadas a las diversas formas de violencia en Colombia.",
+      "modalidad": null,
+      "descripcion_corta": "Investigación, desarrollos tecnológicos o innovaciones que permitan atender problemáticas asociadas a las diversas formas de violencia en Colombia."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con el perfil 'Dirigido a' definido en la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta en el Sistema Integrado de Gestión de Proyectos SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la Carta de aval y compromiso institucional unificada (Anexo 1) firmada por el representante legal y la doctora.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La Entidad Receptora debe estar constituida legalmente en Colombia con al menos 12 meses previos a la apertura de la convocatoria (verificar con RUES o equivalente).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la Joven Investigadora: tener máximo 28 años al 31 de diciembre de 2023, acreditado con copia de cédula de ciudadanía.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la Joven Investigadora en calidad de estudiante: haber cursado mínimo el 70% de los créditos académicos del programa.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la Joven Investigadora en calidad de estudiante: adjuntar certificado expedido por la institución de formación que indique créditos cursados y total del programa.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la Joven Investigadora recién graduada: haber obtenido el título máximo 3 años antes de la apertura o estar pendiente de diploma/acta de grado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la Joven Investigadora recién graduada: adjuntar copia del diploma o acta de grado, o certificado de culminación de estudios.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la Doctora: ser ciudadana colombiana, acreditado con copia de cédula de ciudadanía.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la Doctora: contar con título de doctorado, acreditado con copia del título o acta de grado, o certificación de sustentación aprobada.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No es necesario presentar convalidación del título de doctorado para la Doctora.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Doctoras/Jóvenes Investigadoras de población negra, afrocolombiana, raizal, palenquera o ROM: anexar Certificado de Auto Reconocimiento del Ministerio del Interior (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para Doctoras/Jóvenes Investigadoras de comunidad indígena: anexar Certificado del Registro de la Autoridad o Cabildo Indígena del Ministerio del Interior (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para Doctoras/Jóvenes Investigadoras víctimas del conflicto armado: anexar Certificado expedido por la Unidad para la Atención y Reparación Integral para las Víctimas (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Si los documentos están en idioma diferente al español, adjuntar traducción oficial junto con el original.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Ministerio podrá solicitar en cualquier momento información adicional, complementaria o aclaraciones de los documentos entregados.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "No cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en caso de ser beneficiado por la presente convocatoria."
+    },
+    {
+      "texto": "Alterar alguno de los documentos solicitados en la sección de requisitos."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos en cualquier etapa del proceso: pre contractual, contractual o post contractual."
+    },
+    {
+      "texto": "Ser beneficiaria de manera simultánea de convocatorias financiadas o cofinanciadas por el Ministerio, en su participación como Investigadora, Doctora o estancia postdoctoral."
+    },
+    {
+      "texto": "Participar de manera simultánea en dos o más propuestas de la presente convocatoria. En caso de presentarse en dos o más propuestas se tendrá en cuenta la primera propuesta registrada con base en la fecha y hora de inscripción en la plataforma."
+    },
+    {
+      "texto": "Tener vínculo contractual con la Entidad Receptora a la fecha de apertura de la convocatoria. Se permitirá la participación de doctoras vinculadas como profesores de hora cátedra y ocasionales."
+    },
+    {
+      "texto": "Ser representante legal de la Entidad Receptora."
+    },
+    {
+      "texto": "Haber sido declarada en incumplimiento en cualquiera de los mecanismos operados por el Ministerio en los últimos 5 años."
+    },
+    {
+      "texto": "Ser beneficiaria de manera simultánea de convocatorias financiadas o cofinanciadas por el Ministerio, en su participación como Joven Investigadora e Innovadora."
+    },
+    {
+      "texto": "No podrá presentarse de manera simultánea en dos o más propuestas de la presente convocatoria. En caso de presentarse en dos o más propuestas se tendrá en cuenta únicamente la primera propuesta registrada con base en la fecha y hora de inscripción en la plataforma."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más becas pasantías o pasantías de investigación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "De la propuesta",
+      "puntaje_max": null,
+      "peso_pct": 55.0,
+      "descripcion": "Incluye calidad y coherencia, pertinencia frente al reto, y enfoque territorial."
+    },
+    {
+      "nombre": "Calidad y coherencia de la propuesta de investigación, desarrollo tecnológico y/o innovación",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa articulación entre reto, objetivos, metodología, cronograma, presupuesto y productos, así como coherencia entre perfil de la Doctora y Joven Investigadora."
+    },
+    {
+      "nombre": "Pertinencia de la propuesta frente a las temáticas del reto",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la pertinencia de la propuesta respecto al reto 'Poner fin a todas las formas de violencia en Colombia'."
+    },
+    {
+      "nombre": "Enfoque territorial",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Propuesta que impacta o se desarrolla en municipio PDET o ZOMAC."
+    },
+    {
+      "nombre": "De la Joven Investigadora e Innovadora",
+      "puntaje_max": null,
+      "peso_pct": 15.0,
+      "descripcion": "Incluye plan de actividades y justificación de selección de la Joven."
+    },
+    {
+      "nombre": "Claridad, coherencia y pertinencia del plan de actividades de la Joven Investigadora",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad y pertinencia del plan de actividades y resultados esperados de la Joven."
+    },
+    {
+      "nombre": "Justificación de selección de la Joven Investigadora",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Explicación de idoneidad y perfil de la Joven Investigadora en el proyecto."
+    },
+    {
+      "nombre": "De la Doctora",
+      "puntaje_max": null,
+      "peso_pct": 15.0,
+      "descripcion": "Incluye título de doctor obtenido y trayectoria."
+    },
+    {
+      "nombre": "Título de doctor obtenido o sustentación aprobada",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntos según año de obtención del doctorado: 2022/2023=5, 2021=4, 2020=3, 2019=2, 2018=1, 2017 y antes=0."
+    },
+    {
+      "nombre": "Trayectoria e idoneidad de la Doctora",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia académica, laboral e investigación relacionada con la propuesta."
+    },
+    {
+      "nombre": "De la Entidad Receptora",
+      "puntaje_max": null,
+      "peso_pct": 10.0,
+      "descripcion": "Coherencia entre misión y trayectoria de la entidad con el objetivo del proyecto."
+    },
+    {
+      "nombre": "Coherencia de la Entidad Receptora",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Coherencia entre misión y trayectoria de la entidad con la propuesta."
+    },
+    {
+      "nombre": "Enfoque diferencial",
+      "puntaje_max": null,
+      "peso_pct": 5.0,
+      "descripcion": "Pertenencia de la Doctora o Joven a grupos étnicos o población víctima del conflicto."
+    },
+    {
+      "nombre": "Enfoque diferencial - puntaje",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "1 punto si pertenece a más de un grupo, 4 puntos si pertenece a un grupo, verificado con certificación."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 12,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Fondo Francisco José de Caldas-FFJC",
+    "notas": "La financiación se otorga exclusivamente para los rubros definidos. El contrato de financiamiento se suscribe entre la Doctora, la Entidad Receptora y el FFJC, con duración de 12 meses. La Doctora debe cumplir con obligaciones de seguridad social."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2062,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 810,
+          "completion_tokens": 106
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 418,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 408,
+          "completion_tokens": 590
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 872,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 523,
+          "completion_tokens": 542
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4811,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1639,
+          "completion_tokens": 1069
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5830,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1856,
+          "completion_tokens": 607
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2827,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1199,
+          "completion_tokens": 1066
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3320,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1340,
+          "completion_tokens": 1004
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible"
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "Universidad del Rosario no puede postularse porque la convocatoria no considera a las IES/universidades como actores elegibles para ser proponentes o ejecutores."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible"
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "Universidad del Rosario no puede postularse porque la convocatoria no considera a las IES/universidades como actores elegibles para ser proponentes o ejecutores.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

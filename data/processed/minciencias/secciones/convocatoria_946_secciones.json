@@ -1,0 +1,54 @@
+{
+  "archivo": "convocatoria_946_tdr.pdf",
+  "convocatoria": "946",
+  "n_paginas": 28,
+  "n_caracteres_total": 65025,
+  "toc_detectado": [],
+  "n_secciones_toc": 0,
+  "n_secciones_cuerpo": 1,
+  "fingerprint": "23.MAS INFORMACION",
+  "titulos_norm": [
+    "MAS INFORMACION"
+  ],
+  "comparacion_plantilla_sgr": {
+    "n_en_doc": 1,
+    "n_plantilla": 21,
+    "coinciden_exacto": false,
+    "cobertura_plantilla": 0.0,
+    "faltan_vs_plantilla": [
+      "PRESENTACION",
+      "OBJETIVO",
+      "DIRIGIDA A",
+      "DEMANDAS TERRITORIALES",
+      "LINEAS TEMATICAS",
+      "ALCANCE DEL PROYECTO",
+      "ENFOQUE TERRITORIAL",
+      "ENFOQUE DIFERENCIAL E INTERSECCIONAL",
+      "ORIENTACIONES PARA LA VINCULACION DE TALENTO HUMANO",
+      "REQUISITOS HABILITANTES",
+      "CAUSALES DE RECHAZO",
+      "CONTENIDO DEL PROYECTO",
+      "PROCEDIMIENTO DE INSCRIPCION",
+      "DURACION Y FINANCIACION",
+      "CRITERIOS DE EVALUACION",
+      "PROCEDIMIENTO DE EVALUACION",
+      "LISTADO DE ELEGIBLES",
+      "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
+      "VIGILANCIA DE LOS PROYECTOS",
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
+      "CRONOGRAMA"
+    ],
+    "extra_vs_plantilla": [
+      "MAS INFORMACION"
+    ]
+  },
+  "secciones": [
+    {
+      "numero": 23,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "texto": "EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN\nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C.\nhttp://www.minciencias.gov.co\nAtención al Ciudadano\nTeléfono: (+57) (601)6258480 Extensión 2081\nLínea gratuita nacional: 018000 914446\nHorario: Lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua).\nEn caso de inquietudes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se\nencuentra disponible en el enlacehttps://minciencias.gov.co/contact, con el asunto “Convocatoria Retos Tecnológicos –\nEcopetrol - 2023”.\nGUILLERMO MUÑOZ ÁVILA\nDirector Dirección Gestión de Recursos para la Ciencia, la Tecnología y la Innovación\nElaboró: Diana Cortés Rojas / Contratista / DGR - Ingeniería\nLuis De la Rosa Ramos / Contratista / DGR - Mecanismos\nRevisó: Iván Páez Gutierrez / Contratista / DGR - Mecanismos\nAnexo: en medio magnético:\nAnexo 1: Descripción de los retos tecnológicos\nAnexo 2: Descripción de los contenidos del proyecto de I+D+i\nAnexo 3. Niveles de Madurez Tecnológica (TRL) y de manufactura (MRL)\nAnexo 4: Carta Unificada de Aval y Compromiso Institucional\nAnexo 5: Experiencia de la alianza en el área del reto seleccionado\nAnexo 6: Derechos previos de propiedad intelectual\nAnexo 7: Productos y resultados esperados\nAnexo 8: Normatividad legal\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 28 de 28",
+      "n_caracteres": 1412
+    }
+  ]
+}

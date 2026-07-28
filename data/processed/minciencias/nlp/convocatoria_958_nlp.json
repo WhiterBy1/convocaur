@@ -1,0 +1,415 @@
+{
+  "convocatoria": "958",
+  "objetivo": "Conformar un banco de proyectos elegibles de ciencia, tecnología e innovación con el fin de fortalecer los procesos de planeación minero-energética en Colombia, desde un enfoque territorial integrando los ejes de desarrollo económico, social, ambiental y técnico, en el marco de la transición energética justa y las tendencias en ciencia, tecnología e innovación.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior (IES)",
+      "rol": "ejecutora",
+      "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria. No requiere reconocimiento como entidad SNCTI."
+    },
+    {
+      "tipo": "Centros o institutos de investigación",
+      "rol": "ejecutora",
+      "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria y contar con reconocimiento vigente como entidad del SNCTI al cierre de la convocatoria."
+    },
+    {
+      "tipo": "Centros de desarrollo tecnológico",
+      "rol": "ejecutora",
+      "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria y contar con reconocimiento vigente como entidad del SNCTI al cierre de la convocatoria."
+    },
+    {
+      "tipo": "Centros de innovación y productividad",
+      "rol": "ejecutora",
+      "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria y contar con reconocimiento vigente como entidad del SNCTI al cierre de la convocatoria."
+    },
+    {
+      "tipo": "Empresas con Unidades de I+D+i",
+      "rol": "ejecutora",
+      "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria y contar con reconocimiento vigente de la Unidad de I+D+i al cierre de la convocatoria."
+    },
+    {
+      "tipo": "Empresas Altamente Innovadoras (EAI)",
+      "rol": "ejecutora",
+      "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria y contar con reconocimiento vigente como EAI al cierre de la convocatoria."
+    },
+    {
+      "tipo": "Otras entidades del SNCTI",
+      "rol": "aliada",
+      "condicion": null
+    },
+    {
+      "tipo": "Sociedad civil organizada (ONG, asociaciones, fundaciones, cooperativas, organizaciones comunitarias, juntas de acción comunal, movimientos sociales, organizaciones de derechos humanos, organizaciones culturales y educativas con personería jurídica, economías de base comunitaria, organizaciones de economía popular, organizaciones campesinas, organizaciones indígenas, organizaciones de comunidades negras, afrocolombianas, raizales o palenqueras)",
+      "rol": "aliada",
+      "condicion": "Legalmente constituidas en Colombia."
+    },
+    {
+      "tipo": "Centros de investigación y desarrollo o universidades internacionales",
+      "rol": "aliada",
+      "condicion": null
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Abastecimiento energético confiable y diversificación de la canasta energética",
+      "modalidad": null,
+      "descripcion_corta": "Integración de autogeneradores colectivos y generadores distribuidos colectivos en los planes que elabora la UPME en el sector minero energético."
+    },
+    {
+      "nombre": "Innovación tecnológica y transformación digital",
+      "modalidad": null,
+      "descripcion_corta": "Análisis del comportamiento e incidencia en la economía del sector minero. Optimización del proceso para la formulación del Plan Nacional de Desarrollo Minero."
+    },
+    {
+      "nombre": "Adaptación al cambio climático",
+      "modalidad": null,
+      "descripcion_corta": "Transformación del modelo de planeación minero-energético en clave de mitigación y adaptación del cambio climático."
+    },
+    {
+      "nombre": "Planificación enfocada al desarrollo sostenible",
+      "modalidad": null,
+      "descripcion_corta": "Metodología para la evaluación económica de las externalidades socioambientales asociadas a la infraestructura minero-energética."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con el DIRIGIDO A definido en el numeral 3 de los presentes términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta en el Sistema Integrado de Gestión de Proyectos (SIGP), seleccionando una de las líneas temáticas definidas en el numeral 4.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el ANEXO 2. “CARTA UNIFICADA DE AVAL Y COMPROMISO INSTITUCIONAL” debidamente diligenciada y firmada por los representantes legales de todas las entidades participantes nacionales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de participación y compromiso (ANEXO 6) firmada por un representante de la entidad internacional, si aplica.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con reconocimiento de la Convocatoria 894 de 2021 para el grupo de investigación A1 líder y para al menos otro grupo A, B o C inscrito en la propuesta.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el ANEXO 5. “FORMATO DE EXPERIENCIA ESPECÍFICA” diligenciado con soportes de al menos dos proyectos ejecutados en los últimos cinco años relacionados con la línea temática.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal del proyecto debe estar adscrito al grupo de investigación A1 líder.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar, cuando aplique, aval del comité de ética de investigación o de bioética de la entidad que presenta la propuesta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar, cuando aplique, evidencias del trámite o existencia de permisos y licencias ambientales necesarios para la ejecución de la propuesta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar la hoja de vida en el aplicativo CvLAC de cada uno de los investigadores y coinvestigadores registrados en la propuesta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar como anexos los soportes del cumplimiento de los criterios de enfoque diferencial indicados en el numeral 6, si aplica.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "8.1 Que no se cumpla con los requisitos y lineamientos establecidos en los términos de referencia de la presente convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "8.2 Que la entidad ejecutora que presenta la propuesta no cuente con reconocimiento vigente por parte del Ministerio de Ciencia, Tecnología e Innovación al cierre de la convocatoria. Esta condición no aplica para las IES."
+    },
+    {
+      "texto": "8.3 Que una entidad (entendida como todas las sedes que la conforman bajo un mismo NIT) participe en calidad de ejecutora en más de una propuesta por línea temática. Si esto ocurre, solamente se tendrá en cuenta la primera propuesta inscrita en cada línea, las demás serán inhabilitadas."
+    },
+    {
+      "texto": "8.4 Que el grupo de investigación A1 líder y al menos otro grupo de investigación A, B o C no cuenten con reconocimiento de la Convocatoria 894 de 2021."
+    },
+    {
+      "texto": "8.5 Que el grupo de investigación con categoría A1 líder se encuentre en más de una propuesta de esta convocatoria bajo cualquier rol. Si esto ocurre, solo se tendrá en cuenta la primera propuesta inscrita, las demás quedarán inhabilitadas."
+    },
+    {
+      "texto": "8.6 Que el investigador principal de la propuesta no esté vinculado al grupo A1 líder."
+    },
+    {
+      "texto": "8.7 Que el investigador principal se encuentre en más de una propuesta de esta convocatoria bajo el mismo rol. Si eso ocurre solo se tendrá en cuenta la primera propuesta inscrita, las demás quedarán inhabilitadas."
+    },
+    {
+      "texto": "8.8 Que la propuesta presentada esté siendo financiada simultáneamente con recursos de otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR) o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "8.9 Que el proponente o alguno de sus aliados se encuentra reportado en el último Boletín de responsables fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "8.10 Que se altere alguno de los documentos presentados para participar en la convocatoria. En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, la propuesta será retirada del proceso de selección y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
+    },
+    {
+      "texto": "8.11 Que la entidad ejecutora esté incursa en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en la ley y reglamentos en cualquier etapa del proceso: pre-contractual y contractual."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Formulación y antecedentes del problema de investigación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Respecto a los alcances planteados en la línea temática seleccionada. Contribución del problema de investigación a la generación de nuevo conocimiento. Claridad y sustentación de los fundamentos científicos y tecnológicos."
+    },
+    {
+      "nombre": "1.2 Pertinencia de la propuesta respecto a los alcances planteados en la línea temática seleccionada",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Articulación y coherencia entre el problema, los objetivos, el diseño metodológico y el cronograma de actividades, el cual debe incorporar los componentes para alcanzar los objetivos planteados y los productos esperados."
+    },
+    {
+      "nombre": "1.3 Perspectiva de uso potencial de los resultados de la propuesta",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Potencial de aplicación y uso de los resultados para la planificación integral y sostenible del sector minero-energético."
+    },
+    {
+      "nombre": "1.4 Presupuesto",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Concordancia entre el presupuesto total, las actividades y los objetivos planteados del proyecto. Justificación adecuada de los rubros, cantidades y montos solicitados con los objetivos, la metodología y la duración del proyecto."
+    },
+    {
+      "nombre": "2.1 Vinculación de entidades en la alianza con capacidades y recursos",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Vinculación de entidades para generar sinergias y potencializar resultados e impactos. Puntaje según conformación de alianzas (incluye Sociedad Civil Organizada y entidades internacionales)."
+    },
+    {
+      "nombre": "2.2 Experiencia del grupo de investigación A1 líder",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia ejecutando proyectos relacionados con la línea temática. Puntaje según número de proyectos ejecutados en los últimos 5 años."
+    },
+    {
+      "nombre": "2.3 Trayectoria del equipo de trabajo",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Trayectoria respecto a la línea temática, participación e interdisciplinariedad de los miembros del equipo."
+    },
+    {
+      "nombre": "3.1 Inclusión de personas de categorías poblacionales",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Inclusión en el equipo de trabajo de personas pertenecientes a las categorías poblacionales señaladas. Puntaje según número de personas incluidas."
+    },
+    {
+      "nombre": "3.2 Promoción del enfoque diferencial en la cultura organizacional",
+      "puntaje_max": 1.0,
+      "peso_pct": null,
+      "descripcion": "Promoción del enfoque diferencial a través de la cultura organizacional de la entidad ejecutora."
+    },
+    {
+      "nombre": "3.3 Inclusión de elementos de enfoque diferencial en la propuesta",
+      "puntaje_max": 1.0,
+      "peso_pct": null,
+      "descripcion": "Inclusión en la propuesta de los elementos de enfoque diferencial señalados en el numeral 6.3 de los términos de referencia."
+    },
+    {
+      "nombre": "4.1 Impacto en subregiones PDET",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Impacto de las actividades y resultados del proyecto en las subregiones de los Programas de Desarrollo con Enfoque Territorial (PDET). Puntaje según número de subregiones impactadas."
+    },
+    {
+      "nombre": "4.2 Transferencia de conocimiento con enfoque territorial",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Inclusión de instrumentos o mecanismos para la transferencia de conocimiento con enfoque territorial de los resultados del proyecto."
+    },
+    {
+      "nombre": "5.1 Productos técnicos específicos esperados",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Productos técnicos específicos esperados en la línea temática seleccionada y referenciados en el ANEXO 1 de la convocatoria."
+    },
+    {
+      "nombre": "5.2 Productos de ciencia, tecnología e innovación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Productos de ciencia, tecnología e innovación según el Modelo de Medición de Grupos de Investigación, año 2021, referenciados en el ANEXO 3."
+    },
+    {
+      "nombre": "6. Impactos esperados",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Relación de los posibles impactos esperados relacionados con la línea temática, en corto, mediano y largo plazo, derivados de los resultados del proyecto."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "DOS MIL SETECIENTOS CINCUENTA Y CINCO MILLONES OCHOCIENTOS MIL PESOS M/CTE ($ 2.755.800.000)",
+    "monto_total_cop": 2755800000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 14,
+    "contrapartida_pct_min": 20.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Convenio 963 de 2023 suscrito entre el Ministerio de Ciencia Tecnología e Innovación, la UPME y el FFJC",
+    "notas": "Monto máximo financiable por línea temática: Abastecimiento energético $704.000.000, Innovación tecnológica $651.800.000, Adaptación al cambio climático $800.000.000, Planificación sostenible $600.000.000. Se espera financiar al menos una propuesta por línea temática."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1349,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 575,
+          "completion_tokens": 268
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3582,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1254,
+          "completion_tokens": 3220
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1471,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 647,
+          "completion_tokens": 250
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5657,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1934,
+          "completion_tokens": 648
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4441,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1466,
+          "completion_tokens": 1305
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3817,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1449,
+          "completion_tokens": 227
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8599,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2750,
+          "completion_tokens": 4503
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "puede_sola_o_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES)",
+          "rol": "ejecutora",
+          "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria. No requiere reconocimiento como entidad SNCTI."
+        },
+        {
+          "tipo": "Centros de investigación y desarrollo o universidades internacionales",
+          "rol": "aliada",
+          "condicion": null
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria. No requiere reconocimiento como entidad SNCTI.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "sola",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria.",
+          "Contar con reconocimiento de la Convocatoria 894 de 2021 para el grupo de investigación A1 líder y para al menos otro grupo A, B o C inscrito en la propuesta.",
+          "El investigador principal del proyecto debe estar adscrito al grupo de investigación A1 líder.",
+          "Presentar el ANEXO 5. FORMATO DE EXPERIENCIA ESPECÍFICA con soportes de al menos dos proyectos ejecutados en los últimos cinco años relacionados con la línea temática."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse de forma individual o en alianza. Debe verificar que cuenta con grupos de investigación categorizados, especialmente un grupo A1 líder y al menos otro grupo A, B o C, y cumplir con los requisitos documentales y de experiencia específica."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria.",
+        "Contar con reconocimiento de la Convocatoria 894 de 2021 para el grupo de investigación A1 líder y para al menos otro grupo A, B o C inscrito en la propuesta.",
+        "El investigador principal del proyecto debe estar adscrito al grupo de investigación A1 líder.",
+        "Presentar el ANEXO 5. FORMATO DE EXPERIENCIA ESPECÍFICA con soportes de al menos dos proyectos ejecutados en los últimos cinco años relacionados con la línea temática."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse de forma individual o en alianza. Debe verificar que cuenta con grupos de investigación categorizados, especialmente un grupo A1 líder y al menos otro grupo A, B o C, y cumplir con los requisitos documentales y de experiencia específica.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

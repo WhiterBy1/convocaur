@@ -1,0 +1,85 @@
+{
+  "convocatoria": "942",
+  "objetivo": null,
+  "actores_elegibles": [],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "error": "seccion_ausente"
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "error": "seccion_ausente"
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": null,
+      "modo": "desconocido",
+      "rol_sugerido": null,
+      "confianza": "baja",
+      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "elegible_con_condiciones",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar grupos de investigación reconocidos por Minciencias",
+          "Verificar experiencia en proyectos SGR si aplica",
+          "Verificar capacidad de contrapartida"
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, con sede en Bogotá. Puede postularse a convocatorias Minciencias, pero se deben verificar condiciones como grupos de investigación, experiencia regional y capacidad de contrapartida."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar grupos de investigación reconocidos por Minciencias",
+        "Verificar experiencia en proyectos SGR si aplica",
+        "Verificar capacidad de contrapartida"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, con sede en Bogotá. Puede postularse a convocatorias Minciencias, pero se deben verificar condiciones como grupos de investigación, experiencia regional y capacidad de contrapartida.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "convocatoria": "913",
+  "objetivo": "Fomentar la inversión privada en investigación científica, desarrollo e innovación (I+D+i), mediante la calificación de proyectos cuya inversión se realice durante el año 2022 y vigencias fiscales siguientes, para acceder a beneficios tributarios por inversión: deducción, descuento y crédito fiscal, según lo estipulado en los artículos 158-1, 256, 258 y 256-1 del Estatuto Tributario.",
+  "actores_elegibles": [
+    {
+      "tipo": "Micro, pequeñas, medianas y grandes empresas (según Decreto 957 de 2019)",
+      "rol": "Ejecutoras o co-ejecutoras",
+      "condicion": "Legalmente constituidas en Colombia al momento de la postulación, declarantes del impuesto de renta, adelantar proyectos avalados por un actor asociado con reconocimiento vigente de MINCIENCIAS. Aplica para beneficio tributario de deducción y descuento."
+    },
+    {
+      "tipo": "Micro, pequeñas y medianas empresas (MiPymes) (según Decreto 957 de 2019)",
+      "rol": "Ejecutoras o co-ejecutoras",
+      "condicion": "Legalmente constituidas en Colombia al momento de la postulación, declarantes del impuesto de renta, adelantar proyectos avalados por un actor asociado con reconocimiento vigente de MINCIENCIAS. Aplica para beneficio tributario de crédito fiscal."
+    },
+    {
+      "tipo": "Actor asociado (persona natural o jurídica)",
+      "rol": "Avalador y acompañante del proyecto",
+      "condicion": "Contar con reconocimiento vigente como actor del Sistema Nacional de Ciencia, Tecnología e Innovación por parte de MINCIENCIAS."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral '3. DIRIGIDA A' de los presentes Términos de Referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta en el Sistema Integrado de Gestión de Proyectos de MINCIENCIAS – SIGP, a través del formulario en línea disponible en el portal de MINCIENCIAS.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de presentación, aval y aceptación de compromisos por la cual se solicita el beneficio tributario, firmada por el representante legal (o quien haga sus veces) de la entidad ejecutora (Anexo 7).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el Aval del Comité de Ética/Bioética de la institución que presenta el proyecto, cuando aplique, donde especifique claramente que el proyecto ha sido revisado y avalado en sus componentes éticos e instrumentos a emplear. En caso de que la institución que presenta el proyecto no cuente con un Comité de ética, podrá solicitar este aval ante otra entidad que cuente con uno. Debe anexar a este aval, el acto administrativo que soporta la conformación del Comité de ética que lo expide. Para proyectos de Salud este requisito será obligatorio.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán postularse a la convocatoria las empresas que no se encuentren legalmente constituidas en Colombia al momento de presentar el proyecto.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán postularse a la presente convocatoria los proyectos que no cuenten con el aval del actor asociado con reconocimiento por MINCIENCIAS o del representante legal de la entidad que presenta el proyecto, o las demás entidades involucradas en el proyecto. Dicho aval se entenderá formalizado con la firma en conjunto de la carta de presentación, aval y aceptación de compromisos (Ver Anexo 7).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los proyectos presentados bajo la modalidad de crédito fiscal no podrán acceder al beneficio tributario de deducción y descuento definido en el artículo 158-1 y 256 del E.T. Asimismo, los proyectos postulados a la modalidad de deducción y descuento, no podrán acceder al beneficio tributario de crédito fiscal estipulado por el artículo 256-1 del E.T. Por lo anterior, los proyectos postulados a esta convocatoria solo podrán acceder a uno de los beneficios tributarios por inversión, de acuerdo a lo establecido por el artículo 168 de la Ley 1955 de 2019. El proponente deberá aclarar en la carta de presentación, aval y aceptación de compromisos (Ver anexo 7) el beneficio tributario al cual busca acceder.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán acceder al beneficio tributario de crédito fiscal las empresas clasificadas según su tamaño en 'Grandes Empresas', de acuerdo con la clasificación de tamaño establecida en el parágrafo 1 del Art. 2.2.1.13.2.2 en el Decreto 957 de 2019, mediante el cual se establece una nueva clasificación del tamaño empresarial basada en el criterio único de ingresos por actividades ordinarias. (Anexo 9).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán acceder al beneficio tributario aquellos proyectos financiados exclusivamente con recursos públicos en el marco de otras convocatorias de diferentes entidades, o inversiones que hayan generado derecho a otros beneficios tributarios diferentes a los estipulados en el artículo 158-1 y 256 y 256-1 del E.T.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y la normatividad vigente o que éstos no se subsanen dentro de los plazos establecidos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estar inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidos en la Constitución, en la ley, reglamentos, etc.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Pertinencia",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Impacto",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 723,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 456,
+          "completion_tokens": 110
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2596,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 996,
+          "completion_tokens": 1346
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5772,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2005,
+          "completion_tokens": 1200
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 459,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 458,
+          "completion_tokens": 337
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no incluye IES/universidades como actor elegible para postularse como ejecutora o proponente.",
+          "La convocatoria exige alianza obligatoria con un actor asociado, pero la IES no figura en los tipos de actores elegibles."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no es elegible para postularse a esta convocatoria, ya que los actores permitidos son exclusivamente empresas (micro, pequeñas, medianas o grandes) y actores asociados. La universidad podría participar solo como aliada o colaboradora de una empresa ejecutora, pero no como postulante directa."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no incluye IES/universidades como actor elegible para postularse como ejecutora o proponente.",
+        "La convocatoria exige alianza obligatoria con un actor asociado, pero la IES no figura en los tipos de actores elegibles."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no es elegible para postularse a esta convocatoria, ya que los actores permitidos son exclusivamente empresas (micro, pequeñas, medianas o grandes) y actores asociados. La universidad podría participar solo como aliada o colaboradora de una empresa ejecutora, pero no como postulante directa.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

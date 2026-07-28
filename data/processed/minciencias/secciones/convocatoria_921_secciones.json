@@ -1,0 +1,300 @@
+{
+  "archivo": "convocatoria_921_tdr.pdf",
+  "convocatoria": "921",
+  "n_paginas": 15,
+  "n_caracteres_total": 54403,
+  "toc_detectado": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "pagina_toc": 1
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 4,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 6,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 7,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "pagina_toc": 7
+    },
+    {
+      "numero": 8,
+      "titulo": "AUTORIZACION USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "pagina_toc": 10
+    },
+    {
+      "numero": 9,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "pagina_toc": 10
+    },
+    {
+      "numero": 10,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 11,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 12,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 13,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 14,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 15,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 16,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 17,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 18,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 19,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "pagina_toc": 15
+    }
+  ],
+  "n_secciones_toc": 18,
+  "n_secciones_cuerpo": 18,
+  "fingerprint": "1.PRESENTACION > 2.OBJETIVO > 3.DIRIGIDA A > 4.REQUISITOS > 6.DURACION Y FINANCIACION > 7.PROCEDIMIENTO DE INSCRIPCION > 8.AUTORIZACION USO DE DATOS PERSONALES > 9.CRITERIOS DE EVALUACION > 10.PROCEDIMIENTO DE EVALUACION > 11.BANCO DE ELEGIBLES > 12.ACLARACIONES > 13.CRONOGRAMA > 14.MODIFICACIONES > 15.PROPIEDAD INTELECTUAL > 16.VEEDURIAS CIUDADANAS > 17.ANEXOS > 18.ACEPTACION DE TERMINOS Y VERACIDAD > 19.MAS INFORMACION",
+  "titulos_norm": [
+    "PRESENTACION",
+    "OBJETIVO",
+    "DIRIGIDA A",
+    "REQUISITOS",
+    "DURACION Y FINANCIACION",
+    "PROCEDIMIENTO DE INSCRIPCION",
+    "AUTORIZACION USO DE DATOS PERSONALES",
+    "CRITERIOS DE EVALUACION",
+    "PROCEDIMIENTO DE EVALUACION",
+    "BANCO DE ELEGIBLES",
+    "ACLARACIONES",
+    "CRONOGRAMA",
+    "MODIFICACIONES",
+    "PROPIEDAD INTELECTUAL",
+    "VEEDURIAS CIUDADANAS",
+    "ANEXOS",
+    "ACEPTACION DE TERMINOS Y VERACIDAD",
+    "MAS INFORMACION"
+  ],
+  "comparacion_plantilla_sgr": {
+    "n_en_doc": 18,
+    "n_plantilla": 21,
+    "coinciden_exacto": false,
+    "cobertura_plantilla": 0.381,
+    "faltan_vs_plantilla": [
+      "DEMANDAS TERRITORIALES",
+      "LINEAS TEMATICAS",
+      "ALCANCE DEL PROYECTO",
+      "ENFOQUE TERRITORIAL",
+      "ENFOQUE DIFERENCIAL E INTERSECCIONAL",
+      "ORIENTACIONES PARA LA VINCULACION DE TALENTO HUMANO",
+      "REQUISITOS HABILITANTES",
+      "CAUSALES DE RECHAZO",
+      "CONTENIDO DEL PROYECTO",
+      "LISTADO DE ELEGIBLES",
+      "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
+      "VIGILANCIA DE LOS PROYECTOS",
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
+    ],
+    "extra_vs_plantilla": [
+      "REQUISITOS",
+      "AUTORIZACION USO DE DATOS PERSONALES",
+      "BANCO DE ELEGIBLES",
+      "ACLARACIONES",
+      "MODIFICACIONES",
+      "PROPIEDAD INTELECTUAL",
+      "VEEDURIAS CIUDADANAS",
+      "ANEXOS",
+      "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "MAS INFORMACION"
+    ]
+  },
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "texto": "EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Mediante la Ley 2162 de 2021 se creó el  Ministerio de \nCiencia, Tecnología e Innovación, como ente rector de la política de Ciencia, Tecnología e Innovación, generando \ncapacidades, promoviendo el conocimiento científico y tecnológico para contribuir al desarrollo y crecimiento del país y el \nDecreto 1666 de 2021 \"Por el cual se modifica el Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI)\". \n \nEl Ministerio, como ente rector del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI), busca cumplir con el \nsiguiente objetivo del Plan Estratégico Institucional 2019 -2022.: “Aumentar la producción de conocimiento científico y \ntecnológico de alto impacto en articulación con aliados estratégicos nacionales e internacionales, promoviendo también la \nparticipación de los actores del SNCTeI en redes e iniciativas de cooperación e internacionalización de la CTeI.”.  \n \nLas revistas especializadas de carácter científico son un instrumento fundamental para la divulgación, acceso y validación \npor pares académicos de los resultados de procesos de inve stigación, por tanto, el Ministerio de Ciencia, Tecnología e \nInnovación considera que es necesario que dichas revistas cumplan con indicadores y estándares de calidad científica \nreconocidos y aceptados a nivel internacional con el propósito de propender por la difusión del conocimiento en los circuitos \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 2 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \ncientíficos dispuestos para este fin. \n \nDurante el año 2015, con el objetivo de construir un sistema de valoración de las revistas nacionales, a partir de la \nevaluación de su gestión editorial, calidad de cont enido, nivel de citación, regularidad y accesibilidad, el Departamento \nAdministrativo de Ciencias, Tecnología e Innovación -Colciencias (entidad fusionada al Ministerio de Ciencia, Tecnología e \nInnovación) inició una estrategia para rediseñar el Índice Bibl iográfico Nacional (Publindex). En este sentido, se buscaba \nfacilitar la inclusión de las revistas científicas en los sistemas internacionales de valoración de estas publicaciones a par tir \nde criterios existentes y comúnmente aceptados. \n \nEn el mes de mayo de 2016 se publicaron la “POLÍTICA NACIONAL PARA MEJORAR EL IMPACTO DE LAS \nPUBLICACIONES CIENTÍFICAS NACIONALES1” y el “MODELO DE CLASIFICACIÓN DE REVISTAS CIENTÍFICAS”2 en el \nportal de Colciencias hoy Ministerio de Ciencia, Tecnología e Innovación. De est e modo, para ponderar la calidad de las \nrevistas científicas nacionales mediante criterios relacionados con la gestión editorial, visibilidad e impacto de las \npublicaciones, mediante la resolución 0763 del 10 de agosto de 2016 se ordenó la apertura de la c onvocatoria para \nindexación de revistas especializadas de ciencia, tecnología e innovación – Publindex No. 768 de 2016. \n \nLa Convocatoria 768 de 2016, se dividió en dos etapas: Etapa de diagnóstico y etapa de clasificación oficial. Tanto para la \netapa diagnóstica como para la etapa clasificatoria, la evaluación de revistas que comprendió tres fases: Fase I: Declaración   \nde cumplimiento del proceso de gestión editorial, Fase II: Validación del proceso de evaluación y de la visibilidad y Fase II I: \nEvaluación del impacto de la revista científica nacional- Cálculo del H5. \n \nLuego de tener los resultados de la Etapa de diagnóstico, se procedió a hacer un análisis de estos resultados, seguido de \ndiferentes simulaciones con cada uno de los criterios de la fase II, c on el objetivo de generar diferentes escenarios para \nentender el comportamiento de los mismos sobre la evaluación de las revistas y se planteó una propuesta de aplicación de \ngradualidad o suspensión temporal de estos criterios en una ventana de tiempo de dos años, como etapa de transición para \nla aplicación plena de los criterios definidos en el Modelo de Clasificación de Revistas Científicas - Publindex a partir del año \n2017 en la etapa de “Clasificación Oficial” en la “Convocatoria para Indexación de Revi stas Científicas Colombianas \nEspecializadas - Publindex” - 2016 No.768. \n \nEn septiembre 15 de 2017, se publicaron los resultados de la Convocatoria 768 de 2016, bajo la Resolución 0929 de 2017, \nen la cual se clasificaron un total de 246 revistas de la sigui ente manera: A1 (1), A2 (12), B (110) y C (123). Una vez \npublicados los resultados de la Convocatoria, se realizó un análisis acerca de las revistas que participaron de este proceso,  \nlo que dio como resultado una serie de ajustes al proceso, al Modelo de c lasificación de revistas científicas – Publindex \n2018 y a los criterios de evaluación para llevar a cabo la Convocatoria de indexación de revistas científicas nacionales del \naño 2018. \n \nEn octubre 8 de 2018, se realizó la Convocatoria para Indexación de Rev istas Científicas Colombianas Especializadas – \nPublindex 830, mediante la Resolución 1202 de 2018 en la que se clasificaron un total de 275 revistas de la siguiente \nmanera: A1 (3), A2 (10), B (119) y C (143) bajo la Resolución 1094 de 2019. Después de la publicación de los resultados de \nesta convocatoria, se hizo un análisis con las revistas que participaron de este proceso y se ajustó el Modelo de \n \n1 Política Nacional Para Mejorar El Impacto de Las Publicaciones  Científicas Nacionales:  \nhttps://minciencias.gov.co/sites/default/files/upload/reglamentacion/resolucion790 -2016-normas.pdf  \n \n2 Modelo de Clasificación  de Revistas Científicas: https://minciencias.gov.co/sites/default/files/upload/reglamentacion/resolucion790 -2016-normas.pdf \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 3 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nClasificación de Revistas Científicas – Publindex 2020; así como los criterios de evaluación de la Convocatori a del año \n2020. \n \nEn mayo 15 de 2020, se dio apertura a la Convocatoria para Indexación de Revistas Científicas Colombianas \nEspecializadas – Publindex 875, mediante la Resolución 0485 de 2020. En esta convocatoria se clasificaron 277 revistas de \nla siguiente manera: A1 (4), A2 (19), B (120) y C (134) bajo la Resolución 1689 del 2020.  \n \nEn agosto 20 de 2021, se dio apertura a la Convocatoria para Indexación de Revistas Científicas Colombianas \nEspecializadas – Publindex 910, mediante la Resolución 1577 de 2021. En esta convocatoria se clasificaron 286 revistas de \nla siguiente manera: A1 (7), A2 (17), B (113) y C (149) bajo la Resolución 0146 del 2022.  \n \nLa presente Convocatoria para el fortalecimiento de Revistas Científicas Colombianas Especializadas indexadas  en \nPublindex al año 2022, implica la asignación de recursos financieros a través de proyectos estratégicos de mejora, con el fin \nde incrementar la calidad de dichas revistas. El Ministerio de Ciencia, Tecnología e Innovación en el Plan Nacional de \nDesarrollo tiene el compromiso de dos metas de cuatrienio: 55.000 Nuevos artículos científicos publicados por \ninvestigadores colombianos en revistas científicas especializadas y 0,90 puntos en Citaciones de impacto en producción \ncientífica y colaboración internacional que se reportan en la plataforma SINERGIA que da cuenta del avance del aporte de la \nentidad en el Plan Nacional de Desarrollo de estas metas. En esta Convocatoria se recibirán propuestas de mejoramiento \nde la gestión editorial, la visibilidad y el im pacto de las publicaciones realizadas en las revistas participantes; las \ninstituciones editoras son las responsables de la formulación y presentación de dichas propuestas. \n \nCon base en las anteriores consideraciones se diseña la presente convocatoria que b usca incrementar la calidad de las \nrevistas científicas nacionales, mediante unos criterios relacionados con la gestión editorial, la visibilidad y el impacto d e las \npublicaciones con el fin de lograr indexación y consolidación en los Índices Bibliográfico s Citacionales (SCOPUS/ WOS - \nJCR). Adicionalmente, se espera que las todas las instituciones que participen en esta fortalezcan su gestión editorial y \ngeneren alianzas interinstitucionales. \n \nCausales de Ciencia Tecnología e Innovación de conformidad con el Decreto 591 de 1991 en el artículo 2 se consideran las \nsiguientes causales para la presente convocatoria: \n \n● “Numeral 1. Investigación científica y desarrollo tecnológico, desarrollo de nuevos productos y procesos, creación y apoyo \na centros científicos y tecnológicos y conformación de redes de investigación e información”, toda vez que se financiarán \nestrategias de fortalecimiento que tendrán como resultado nuevos procesos de gestión editorial. \n \n● “Numeral 2. Difusión científica y tecnológica, esto es, información, publicación, divulgación y asesoría en ciencia y \ntecnología”, toda vez que las estrategias de for talecimiento tendrán como resultado el incremento del número de revistas \neditadas en Colombia con alta visibilidad, lo cual tiene un impacto positivo en los indicadores de difusión científica. \n  \nLa financiación de esta convocatoria es posible gracias a los convenios de recursos 408 de 2019 y 294 de 2022 firmado por \nel Ministerio de Ciencia, Tecnología e Innovación y el Fondo Francisco José de Caldas. \n \n \n \n \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 4 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia",
+      "n_caracteres": 9730
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "texto": "OBJETIVO GENERAL \n \nFortalecer las capacidades relacionadas con la gestión editorial, la visibi lidad y el impacto en su gran área de conocimiento \nde las revistas científicas colombianas indexadas para el año 2022 en Publindex, de acuerdo con lo definido en el numeral 3 \nde los términos de referencia y que sean editadas por al menos una institución editora nacional. \n \nOBJETIVOS ESPECÍFICOS \n \n• Financiar propuestas que instalen en las revistas editadas por instituciones colombianas, un conjunto de \ncompetencias técnicas en edición científica mediante la formulación de estrategias sustentables para aumentar  la \ncalidad y visibilidad de la publicación con parámetros cualitativos y cuantitativos de cumplimiento al final de la \nejecución del proyecto. \n \n• Aumentar la línea base del número de revistas clasificadas por criterio de los Índice Bibliográficos Citacionales (WOS \n-JCR y Scopus) de acuerdo con el actual modelo de indexación PUBLINDEX.  \n \n• Promover iniciativas que respondan a los lineamientos de Open Access. \n \n• Generar más oportunidades y/o alternativas para que los investigadores realicen publicaciones de a lto impacto en \nrevistas nacionales de alta visibilidad.",
+      "n_caracteres": 1194
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "texto": "Instituciones de educación superior (públicas o privadas) u otras entidades que actúen como instituciones editoras \ncolombianas de acuerdo a lo registrado en el ISSN otorgado por la biblio teca nacional y con personería jurídica nacional, \nque avalen o cuenten con revistas científicas especializadas en la publicación de artículos resultados de procesos de \ninvestigación indexadas en las categorías B como resultado de ubicarse en el cuartil 1 del H5 de acuerdo con los resultados \nde la convocatoria N°910 de 2021. Anexo 1: Listado de revistas clasificadas en categoría B como resultado de ubicarse en \nel cuartil 1 del H5 en la convocatoria N°910 de 2021.",
+      "n_caracteres": 659
+    },
+    {
+      "numero": 4,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "texto": "Los requisitos para participar en la presente convocatoria son los siguientes: \n \n1. Registro de la propuesta de fortalecimiento institucional en el aplicativo SIGP \nhttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/faces/proyecto/invitacionEspecial.xhtml  \n2. Presentar carta de aval institucional en el formato correspondiente (anexo 2) por parte de la Instituciones editoras \ncolombianas con personería jur ídica nacional comprometiendo una contrapartida al menos del 30% en especie o efectivo \ndel valor total de la propuesta. \n3. Cumplir con las especificaciones del numeral 3 - “Dirigida A” definidas en los presentes términos de referencia. \n4. Las revistas participantes deben tener la información completamente diligenciada, actualizada y vinculada en el aplicativo \nPublindex (plataforma ScienTI -Colombia: https://scienti.minciencias.gov.co/publindex/), teniendo como plazo máximo, la \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 5 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nfecha y hora de cierre establecida en el cronograma, definido en el numeral “13. CRONOGRAMA” de estos términos de \nreferencia. \n5. Diligenciar el Pre -evaluation of Scopus submission - https://www.readyforscopus.com/, presentar tracking id (Código de \nrastreo) y obtener como mínimo el 70% (adjuntar reporte), para revistas no aceptadas en Scopus, o carta de aceptación en \nel índice bibliográfico citacional Scopus o WOS - JCR. \n6. Estar admitida en uno de los 54  SIRES (reconocidos por Minciencias y listados en el anexo N° 3 de los presentes \ntérminos de referencia)  \n7. Presentar la simulación del citescore de Scopus a diciembre del año 2021. https://www.scopus.com/sources  \n8. Inscribirse en el plazo fijado, de acuerdo con las fechas y horas establecidas en numeral “13. CRONOGRAMA” de los \npresentes términos de referencia. \n \nEl Ministerio de Ciencia, Tecnología e Innovación , garantizando los princi pios de mérito , calidad, transparencia y equidad \nestablece una etapa de ajustes de requisitos que se realizará en el periodo señalado en el Cronograma (Numeral 13). \n \nNota:  \n• El Ministerio de Ciencia, Tecnología e Innovación  podrá solicitar en cualquier mome nto, información y \ndocumentación adicional, complementaria o aclaraciones de los documentos entregados.   \n \n5. CONDICIONES INHABILITANTES. \n \n1. Tener un código International Standard Serial Number / Número Internacional Normalizado de Publicaciones \nSeriadas asignado por una institución diferente al Centro Nacional de ISSN. \n \n2. No podrán participar en la presente Convocatoria revistas con denuncias de control social, en proceso de \nevaluación, canceladas o descontinuadas en los índices Bibliográficos Citacionales (WOS - JCR o. SCOPUS) o en \nlos Sistemas de Indexación y Resumen- SIR a la fecha de cierre de la convocatoria. \n \n3. Propuestas presentadas por otro medio diferente al definido en el numeral 4 de estos términos de referencia no \nserán tomadas en cuenta. \n \n4. Propuestas presentadas sin la carta de aval o sin expresar en esta carta su compromiso de contrapartida no serán \ntomadas en cuenta. \n \n5. Propuestas cuyo presupuesto solicitado excede el tope establecido. \n \n6. Propuesta cuyos rubros presupuestales no se ajustan a los rubros fina nciables establecidos en el numeral 6 de los \npresentes términos de referencia. \n. DURACIÓNACIÓN",
+      "n_caracteres": 3494
+    },
+    {
+      "numero": 6,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "texto": "Duración:  \n \nEl plazo de ejecución de las propuestas presentadas debe ser de máximo dieciocho (18) meses \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 6 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n \nFinanciación: \n \nEl Ministerio d e Ciencia, Tecnología e Innovación cuentan con la suma de MIL SETECIENTOS SETENTA Y CINCO \nMILLONES QUINIENTOS NOVENTA Y NUEVE MIL CUATROCIENTOS OCHENTA PESOS ($1.775.599.480) M/CTE para \ndesarrollar esta convocatoria. Estos se encuentran distribuidos de la siguiente manera MIL SEISCIENTOS CINCUENTA Y \nCINCO MILLONES QUINIENTOS NOVENTA Y NUEVE MIL CUATROCIENTOS OCHENTA PESOS (1.655.599.480) \nM/CTE que se encuentran contemplados en los Certificados de Disponibilidad de Recursos CDR Global No. 17604 de 2022, \ndel convenio 408 -2019 y el CDR Global No. 17555 de 2022 del convenio 294 -2022. Adicionalmente, el Ministerio de \nCiencias Tecnología e Innovación, se reserva la suma de CIENTO VEINTE MILLONES DE PESOS M/CTE ($120.000.000)  \npara gastos de evaluación de las propu estas presentadas en el marco de la presente convocatoria, sin perjuicio de que los \nrecursos que no se utilicen en el proceso de evaluación, vuelvan a hacer parte del disponible para la financiación de \niniciativas, según lo señalado en el Numeral 11. BANCO DE ELEGIBLES. \n \nSe financiará hasta $40.000.000 por revista científica nacional clasificada en categorías B como resultado de ubicarse en el \ncuartil 1 del H5 en el proceso de convocatoria N°910 de 2021. \n \nSe financiará hasta máximo $160.000.000 por Instituc ión Editora y las instituciones proponentes deberán aportar una \ncontrapartida en efectivo o en especie del 30% del valor total de la propuesta; esta debe quedar definida y soportada en lo \nconsignado en el numeral 4.2 de Requisitos y el Anexo 2. \n \nSerán financiados con recursos de Minciencias los siguientes rubros:  \n \n• Personal (científico, editorial y evaluador) \n• Servicios Técnicos (asesorías, consultorías en gestión editorial científica, tecnológica, traducciones, diagramación, \ncorrección de estilo) \n• Software (relacionados con gestión editorial, y revisión de similitudes). \n \nNotas:  \n \n• La propuesta presentada no podrá ser financiando simultáneamente por otra convocatoria o con recursos d el Ministerio \nde Ciencia, Tecnología e Innovación u otras entidades del Estado. \n• El presupuesto para el pago de personal no podrá exceder el 60% del monto total solicitado a Minciencias \n• No será financiable con recursos de Minciencias ningún otro rubro presupuestal como: construcciones e infraestructura, \nimprevistos, seguros, adquisición de vehículos, mobiliario de oficina, membresías a sociedades científicas e impuestos \n(Excepto IVA).  \n• Los costos de formulación y estructuración de la propuesta serán responsabilidad del proponente y en ningún caso se \nfinanciarán o serán responsabilidad de MINCIENCIAS. \n• Los Centros Autónomos o Institutos Públicos de Investigación y Desarrollo Tecnológico reconocidos por MINCIENCIAS \nque se presenten a esta convocatoria, no están obligados a realizar aportes de contrapartida, con base en lo definido \nen el numeral 8.2.2 Financiación, del documento 1602 Política de actores de CTeI. \n \n \n \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 7 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia",
+      "n_caracteres": 3573
+    },
+    {
+      "numero": 7,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "texto": "Los participantes en la presente convocatoria deberán inscribirse mediante el siguiente proceso: \n \n7.1. Presentar la propuesta de mejoramiento a  través del aplicativo SIGP cuyo enlace se encuentra disponible en el \nsitio WEB del Ministerio de Ciencia, Tecnología e Innovación. \n7.2. Postular una propuesta a través del formulario SIGP en el vínculo \nhttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/ \n \n7.3. Para la formulación de la propuesta debe diligenciar completamente la ficha con los siguientes campos: \n \n• Título del proyecto.  \n• Duración.  \n• Información general (Tracking ID, Admisión SIRES, enlace citescore Scopus)  \n• Lugar de ejecución.  \n• Líder del proyecto.  \n• Conformación y trayectoria de los integrantes del equipo ejecutor: Editor en jefe, editores asociados o invitados, miembros \ndel comité editorial y científico, evaluadores de los últimos tres números editados. (Categoría vigente de reconocimiento \ncomo investigador de acuerdo con al modelo de clasificación de investig adores para miembros colombianos o miembro con \nafiliación de más de dos años con institución colombiana o un índice H (SCOPUS o WOS) para los miembros nacionales e \ninternacionales)  \n• Antecedentes.  \n• Resumen ejecutivo (máximo 300 palabras).  \n• Planteamiento del problema.  \n• Justificación.  \n• Objetivos (general y específicos).  \n• Metodología.  \n• Resultados esperados.  \n• Bibliografía.  \n• Cronograma. \n• Presupuesto.  \n• Relación actualizada de autores nacionales e internacionales en los últimos tres años en el aplicativo de Publindex a \ndiciembre del año 2021. \n• Relación de miembros comité editorial y científica nacionales e internacionales en la vigencia actual en el aplicativo de \nPublindex o como un anexo a la propuesta al cierre de la convocatoria. \n• Actualización al cierre de la convocatoria de artículos en español, inglés y otros idiomas a diciembre del año 2021. \n• Descripción de la política de ética de la publicación. \n• Descripción de la política de acceso abierto de la revista. \n \n7.4. Ingresar a la página web de Minciencias (www.minciencias.gov.co ).  \n \n7.5. Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, donde se despliega Sistemas \nde Información - Plataforma SIGP, allí encontrará d isponibles los diferentes formularios en línea para aplicar a las \nconvocatorias de Minciencias (https://minciencias.gov.co/scienti).  \n \n7.6. Hacer clic en la opción registro de entidades ubicado en la parte  derecha, \nhttps://plataformasigp.minciencias.gov.co:7003/Entidades/. En caso de haberla registrado previamente, continuar con el \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 8 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \npaso número 7.7.  \n \n7.7. Realizar el pre -registro de las entidades participantes en el proyecto con la información solicitada. Minciencias en \nun periodo de 2 días hábiles remitirá a su correo electrónico de contacto las credenciales de acceso para el ingreso al \nsistema de registro de entidades, solo si la entidad fue avalada, de lo contrario el sistema enviará un correo informando que  \nla entidad fue rechazada y la razón del rechazo. \n \n7.8. Ingresar al módulo de entidades con sus credenciales y registrar la información de la entidad ejecutora y entidades \nparticipantes en el proyecto. En caso de encontrarse registradas las entidades en este sistema, no se requiere de un nuevo \nregistro, sin embargo, podrá actualizar la información. \n \n7.9. Una vez finalizado el registro de la entidad, Ingresar al enlace de Formulari o de Proyectos \nhttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/   \n \n7.10. Diligenciar la información solicitada por el formulario en línea para la present ación de los proyectos a la \nconvocatoria o invitación. Para recibir las credenciales de acceso por correo electrónico deberá registrar como mínimo el \ntítulo del proyecto, la entidad ejecutora, convocatoria, y correo electrónico.  \n \n7.11. Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un requisito requiere anexar más \nde un documento, guárdelos en una sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo \ncorrespondiente al requisito. Si requiere cambiar alg ún archivo de los que previamente adjuntó, puede hacerlo examinando \ny adjuntando el documento deseado. Es importante resaltar que el tamaño de cada archivo anexado de cada uno de los \nrequisitos cuenta con una capacidad máxima de 3MB; para el requisito “Otr os adjuntos” tiene una capacidad máxima de 10 \nMB.  \n \n7.12. Para validar, por favor hacer clic en el botón Validar, ubicado en la parte inferior del menú. Si la información \nregistrada cumple con los criterios solicitados por la convocatoria, la validación será exitosa y se activará la opción de Enviar \nformulario, en caso contrario se mostrará en pantalla la información que no cumple con los criterios definidos en la \nconvocatoria.  \n \n7.13. Una vez se oprime el botón de enviar formulario, el sistema registrará e l proyecto y generará su respectivo código \ndel proyecto.  \n \n7.14. Una vez haya sido enviado el proyecto, si la convocatoria se encuentra abierta el sistema le permite modificar el \nproyecto, oprimiendo el botón \"Modificar Proyecto\", para realizar los cambios  que consideren. Al dar clic en la opción \n\"Modificar Proyecto\" que está en el menú se muestra una pantalla de confirmación con el siguiente mensaje \"¿Está seguro \nde modificar el proyecto?, una vez confirme esta acción el proyecto ya no estará radicado en M inciencias. Para volver a \nradicarlo debe validar y enviar de nuevo el proyecto una vez lo haya modificado.\" Cabe aclarar que, si no lo vuelve a validar  \ny enviar el proyecto a Minciencias, este proyecto no quedará radicado oficialmente en Minciencias y no s eguirá a la etapa \nde revisión de requisitos, así cuente con la pantalla de evidencia de un envío anterior satisfactorio.  \n \n7.15. Para realizar seguimiento a la propuesta, deberá ingresar al formulario con el usuario y contraseña enviados \nmediante el correo  electrónico al momento de registrar la propuesta en el sistema, y por el menú de requisitos podrá \nconsultar las observaciones realizadas a los requisitos del proyecto, con el fin de que sean subsanadas por el proponente. \n \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 9 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nNotas: \n \n• Se aceptarán únicament e las propuestas que se presenten a través del formulario en línea con toda la información \nsolicitada en la presente convocatoria. \n \n• Si requieren anexar documentación adicional de las propuestas como: tablas, fórmulas, gráficas, anexos, cartas, etc.,  \nguárdelos en una sola carpeta y adjúntelas como archivo .ZIP o .RAR (archivo comprimido), en el requisito de Otros \nadjuntos. Si requieren cambiar algún archivo de los que previamente adjuntó, puede hacerlo examinando y adjuntando el \ndocumento deseado.  \n \n• Para remitir toda la documentación relacionada con cada uno de los requisitos, el tamaño máximo de envío es de 3 MB, en \ncaso de requerir información adicional al proyecto, puede utilizar la opción llamada “Otros adjuntos” y contará con un \ntamaño máximo de 10 Mb. \n \n• En caso de que se presenten errores en el aplicativo SIGP durante el proceso de inscripción y envío de la propuesta o del \ncargue de la documentación soporte, y por esta razón después de efectuados varios intentos no pueda enviarse el proyecto \nde forma normal dentro del plazo establecido, por favor capturar las pantallas con el mensaje de error junto con la fecha y \nhora en que se presentó el inconveniente que soporte el problema. Remitir antes de la fecha de cierre establecida en el \nCronograma de los presentes términos de referencia, todas las evidencias de la falla presentada exclusivamente a través \ndel formulario electrónico que se encuentra disponible en el enlace https://www.minciencias.gov.co/ciudadano/canal-pqrsd, \nexplicando en el cuerpo de dicha comunicación los inconvenientes ocurridos durante el envío. MINCIENCIAS por medio de \nla Oficina de Sistemas verificará el error reportado.  \n \n• Toda la documentación requerida deberá pres entarse en formato digital PDF, la totalidad de archivos en PDF no debe \nexceder un tamaño de 3 MB. \n \n• Es responsabilidad del Editor verificar los datos de las personas nacionales o con afiliación nacional que hagan parte de \nlos procesos de la revista, que estén registrados en el aplicativo CvLAC, y que participen en la Convocatoria. \n \n• Una vez se publiquen los resultados preliminares del proceso de fortalecimiento, se recibirán las solicitudes de aclaración \nde los participantes, de acuerdo con lo estipulado  en el numeral “12. ACLARACIONES” y “13. CRONOGRAMA” de los \npresentes términos de referencia. Una vez finalice el período de recepción de solicitudes de aclaración, no se atenderán \nsolicitudes adicionales. \n \n• No se tendrá en cuenta documentación, ni inform ación remitida por correo electrónico, postal, fax u otro medio distinto al \naplicativo SIGP dispuesto para la convocatoria. \n \n• El representante legal de la institución (o su delegado) que avale la(s) revista(s) que participen en la convocatoria, será e l \nresponsable de la información registrada por esta(s), y responderá ante cualquier reclamación al respecto. En    \nconsecuencia, con el aval declara que la información con la que ha participado en la convocatoria ha sido verificada, por lo \ncual exonera al Ministerio de Ciencia, Tecnología e Innovación de cualquier error o imprecisión sobre la misma. \n \n• El Ministerio de Ciencia, Tecnología e Innovación podrá solicitar en cualquier momento a las instituciones que avalan las \nrevistas, información y documentación adicional, complementaria o aclaraciones de la información registrada. \n \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 10 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia",
+      "n_caracteres": 10326
+    },
+    {
+      "numero": 8,
+      "titulo": "AUTORIZACION USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "texto": "Para todos los efectos legales, la presentación, inscripción o registro de la propuesta, de forma inequívoca y exclusivamente \npara los fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de información, para el \ntratamiento de sus datos personales por parte del Ministerio de Ciencia, Tecnología e Innovación.  \n \nQuien presente, inscriba o registre la propuesta como persona natural o la persona jurídica en cuyo nombre se presenta la \npropuesta declara que ha recibido autorización expresa de todas las personas naturales y jurídicas vinculadas a esta \npropuesta y a este proyecto, para suministrar las informaciones a que hace referencia la ley de manejo de datos, \ncomprometiéndose a responder ante el Ministerio de Ciencia, Tecnología e Innovación , p or cualquier demanda, litigio \npresente o eventual, reclamación judicial o extrajudicial, formulada por cualquiera de las pe rsonas naturales o jurídicas \nvinculadas a la propuestas y el proyecto. Lo anterior, de conformidad con lo establecido en la Ley 1581 de 2012 “Por la cual \nse dictan disposiciones generales para la  protección de datos  personales” y la Política de protección y tratamiento de \ndatos personales del Ministerio de Ciencia, Tecnología e Innovación, disponible en el Manual de Políticas de Seguridad y \nPrivacidad de la Información (Código: D103M01)",
+      "n_caracteres": 1372
+    },
+    {
+      "numero": 9,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "texto": "Las propuestas inscritas dentro de los pla zos establecidos para la presente convocatoria y que cumplan con la totalidad de \nlos requisitos se someterán a los siguientes criterios de evaluación:  \n \nÍtem a evaluar Criterios Puntaje \nmáximo \nExperiencia e \nidoneidad del \nproponente \n40% \nExperiencia del equipo ejecutor del proyecto (Personas con experiencia certificada en \ngestión editorial, desarrollo de proyectos de fortalecimiento de revistas científicas, \ncienciometría, bibliometría o diseño de métricas para revistas científicas).  5 puntos \n5 \n• 50% (o más) del equipo editorial o científico que integra la propuesta debe tener \nun Índice H (WOS/SCOPUS) igual o mayor a 10, recibe 15 puntos \n• 50% (o más) del equipo editorial o científico que integra la propuesta debe tener \nun Índice H (WOS/SCOPUS) mayor a 5 y menor que 10, recibe 10 puntos  \n15 \nDentro del equipo proponente se debe contar con editores que demuestren proceso \nexitoso de indexación de revistas en los índices citacionales WOS/SCOPUS en los \núltimos 3 años. \n10 \nHaber cursado y aprobado los tres niveles del programa de “Currículo el editor” de \nMinciencias y contar con un plan de mejoramiento como resultado del proceso de \nformación del programa de Currículo del Editor \n5 \n50% del equipo proponente debe contar con una formación de doctorado culminada 5 \nCalidad técnica y \nmetodológica de la \npropuesta \n10% \nArticulación y Coherencia entre el problema o necesidad a resolver con los objetivos y el \ndiseño metodológico de la propuesta, la justificación de la necesidad de la ejecución en \nconcordancia con el direccionamiento estratégico y las políticas nacionales de CTeI y las \nresponsabilidades del equipo ejecutor \n10 \nMétricas e impacto \nde la publicación  \n20% \nContar con una evaluación en el Ready for Scopus igual o mayor al 80% o carta de \naceptación en Scopus o en WOS-JCR. 10 \nContar con un Citescore que se ubique en un rango superior al Q4 de SCOPUS en \nalgunas de las áreas de conocimiento de la revista. 10 \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 11 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nPropuesta \neconómica \n5% \nConcordancia entre el presupuesto total, las actividades y los productos; además de la \njustificación adecuada de rubros, cantidades y montos solicitados con los objetivos, la \nmetodología y la duración del proyecto. \n5 \nProductos \nesperados \n25% \nEl 80% de los miembros del comité editorial y científico tengan afiliación internacional y al \nmenos el 40% de los autores en los últimos tres números 10 \nAlcance en cuanto a las metas para indexar las revistas (El desarrollo del proyecto traerá \ncomo resultado la inclusión de la(s) revista(s) en los IBC en los cuartiles 1, 2, 3 o 4) 7 \nSe evidencia un que existe un compromiso de sostenibilidad en el mediano y largo plazo \nde los resultados o entregables de la estrategia de fortalecimiento. 5 \nEl proyecto plantea una estrategia clara de divulgación de los resultados previstos, con el \nfin de que la sociedad reconozca el aporte como institución para promover la visibilidad \nde las publicaciones del país. \n3 \nTOTAL 100 \nNota:  \nLas revistas que se encuentren con denuncias de control social, en proceso de evaluación o en estado de “canceladas” o \n“descontinuadas” en los SIRES (Sistemas de Indexación y Resumen), serán excluidas del proceso de la convocatoria sin \nderecho a solicitar evaluación por parte del Ministerio de Ciencia, Tecnología e Innovación.",
+      "n_caracteres": 3592
+    },
+    {
+      "numero": 10,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "texto": "Las propuestas inscritas dentro de los plazos establecidos para la presente convocatoria y que cumplan con los requisitos, \nserán evaluados, teniendo en cuenta los criterios de evaluación descritos en el numeral 9. CRITERIOS DE EVALUACIÓN. \n \nToda información proporcionada es de carácter confi dencial y no será utilizada para ningún fin diferente a la realización de \nla evaluación. Los expertos evaluadores estarán cobijados por cláusulas de confidencialidad y de no conflicto de interés. \n \nDe acuerdo con el CRONOGRAMA de la convocatoria, se concede rá un t érmino para solicitar aclaraciones y/o \nmodificaciones a la publicación preliminar del banco de elegibles . Una vez éstas sean resueltas, se procederá a la \npublicación del banco definitivo de propuestas elegibles. \n \nLas propuestas que reciban mínimo un puntaje de 60 pasarán por evaluación de un panel de expertos.",
+      "n_caracteres": 879
+    },
+    {
+      "numero": 11,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "texto": "Las propuestas que superen 60 puntos en la evaluación ingresarán al banco de elegibles y se asignarán los recursos hasta \nsu agotamiento en estricto orden descendente. \n \nEn caso de empate en el puntaje total, se procederá de la siguiente manera:  \n \n1. Con el mejor puntaje en el ítem “Calidad técnica y metodológica de la propuesta”.  \n2. En caso de que el empate persista, se seguirá con el mayor puntaje en el ítem “Productos esperados”.  \n3. En caso de que el empate persista, se seguirá con el mayor puntaje en el ítem “Experiencia e idoneidad del proponente”. \n4. En caso de que el empate persista, se seguirá con la propuesta que tenga al líder con mayor categoría vigente a la fecha \nde cierre de la convocatoria de acuerdo con el modelo de reconocimiento de investigadores por parte de Minciencias. \n5. En caso de que, al aplicar los anteriores criterios persista el empate, se acudirá al orden de inscripción de la propuesta. \n \nLos resultado s de la convocatoria se publicarán en la página web de l Ministerio de Ciencia, Tecnología e Innovación \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 12 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \n(http://www.minciencias.gov.co) en las fechas establecidas en el Cronograma. \n \nLa vigencia del b anco de eleg ibles es de un año a partir de su publicación definitiva. La inclusión de un a propuesta en el \nbanco de elegibles no implica obligatoriedad ni compromiso alguno de l Ministerio de Ciencia, Tecnología e Innovación , de \nasignar recursos, ni genera derecho a rec ibir apo yos económicos para quienes hayan presentado l as propuestas  \ncorrespondientes.  \n \nNotas: \n• Surtida la publicación definitiva del banco de elegibles, el Ministerio de Ciencia, Tecnología e Innovación  informará \nmediante comunicación escrita y/o electrónica a los beneficiarios que hayan sido seleccionados para ser financiados , \nindicando las instrucciones y condiciones para suscribir el contrato. A partir de la fecha de comunicación, se contarán \nquince (15) días calendario como plazo máximo para que el  beneficiario remita al Ministerio de Ciencia, Tecnología e \nInnovación la totalidad de la documentación. Vencido el término, en caso de que  el beneficiario  no remita la \ndocumentación, se entenderá que desiste de su interés por contratar con el Ministerio de Ci encia, Te cnología e \nInnovación y se procederá a financiar la siguiente propuesta del banco definitivo de elegibles. \n \n• Una vez remitida la minuta del contrato a l beneficiario, éste  contará con un plazo máximo de cinco (5) días hábiles \npara devolverla firmada al Ministerio de Ciencia, Tecnología e Innovación. Vencido el término anterior, si el beneficiario \nno remite el contrato firmado , se entenderá que desiste de su interés por contratar y se proc ederá a seleccionar el \nsiguiente, en orden descendente de la lista del banco definitivo de elegibles. \n \n• El beneficiario deberá acogerse a los  procedimientos, formatos y al sistema de información definidos por el Ministerio \nde Ciencia, Tecnología e Innovación para realizar el seguimiento, evaluación y liquidación a los proyectos, programas, \ncontratos o convenios suscritos en el marco de la presente convocatoria.",
+      "n_caracteres": 3341
+    },
+    {
+      "numero": 12,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "texto": "Una vez publicados los resultados preliminares de l banco de elegibles , los interesados podrán presentar solicitudes de \naclaraciones y comentarios p or un per íodo de tres (3)  días hábile s. Por fuera de este término se considera que las \nreclamaciones son extemporáneas.  \n \nLas quejas, reclamos, sugerencias y/o solicitudes de carácter general se deben presentar  exclusivamente a través del \nformulario electrónico que se encuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con \nel asunto “ Solicitud aclaración resultados Convocatoria para el fortalecimiento de revistas científi cas edita das por \ninstituciones editoras colombianas en Publindex al año 2022”.",
+      "n_caracteres": 702
+    },
+    {
+      "numero": 13,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "ACTIVIDAD FECHA LIMITE \nApertura de la convocatoria 8 de abril de 2022 \nFecha límite para solicitar credenciales de acceso a SIGP  Hasta 4 de mayo de 2022  \n04:00 pm \nPresentación de propuestas de fortalecimiento  Hasta 9 de mayo de 2022 \n04:00 pm \nPublicación de resultados preliminares en el portal web de Minciencias  31 de mayo de 2022 \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 13 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nACTIVIDAD FECHA LIMITE \nPeriodo de solicitud de aclaraciones del banco preliminar de elegibles a través del  \nformulario: http://www.minciencias.gov.co/ciudadano/canal-pqrds 1,2 y 3 de junio de 2022 \nRespuesta a solicitud de aclaraciones    7 al 10 de junio de 2022 \nPublicación de resultados finales: listado de revistas beneficiadas en el portal web de  \nMinciencias /Módulo de Convocatorias  15 de junio de 2022 \n \nLas inscripciones o periodo de subsanación que se presenten por fuera de las fechas y horas estipuladas se entenderán \ncomo extemporáneas y por lo tanto no serán tenidas en cuenta para continuar el proceso.  \n \nNotas:  \n• Durante el periodo de Autoconsulta permanente de requisitos, el proponente podrá revisar si sus documentos se \nhan adjuntado correctamente al aplicativo. Posteriormente, en el periodo de revisión de requisitos, el Ministerio de \nCiencia, Tecnología e Innovación  verificará que los documentos adjuntos presentan la información requerida de \nforma consistente. El Ministerio de Ciencia, Tecnología e Innovación reportará en el SIGP las inconsistencias en la \ninformación de modo tal que el proponente pueda ajustarla a través del aplicativo durante el período establecido en \nel Cronograma. La etapa denominada Autoconsulta permanente de requisitos,  no exime de responsabilidad a los \ninteresados en esta convocator ia de la co nsulta permanente de la información a fin de entregar la propuesta \ncompleta. Los beneficios otorgados por el Ministerio de Ciencia, Tecnología e Innovación  para facilitar la \npresentación de  la propuesta  no desplazan la responsabilidad de los asp irantes de consultar y adjuntar \ncorrectamente los documentos necesarios para ser habilitados, evaluados o seleccionados en esta convocatoria. \n \n• Durante la operación de la convocatoria, el proponente podrá verificar el estado actual del trámite, ingresando a  \ntravés del SIGP con su usuario y contraseña, en la opción “Ver envío”.",
+      "n_caracteres": 2534
+    },
+    {
+      "numero": 14,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "texto": "El Ministerio de Ciencia, Tecnología e Innovación  podrá modificar el contenido de los términos de referencia,  así como su \ncronograma, por las causas establecidas en el  Procedimiento Tramite de adendas de condiciones de mecanismos de \noperación de CTeI (Código: M801PR03) (documento disponible en la página web del Ministerio de Ciencia, Tecnología e \nInnovación, Micrositio Calidad) . Estas causas incluyen, entre otras: fuerza mayor o ca so fortuito, eventos imprevisibles no \natribuibles al Ministerio de Ciencia, Tecnología e Innovación , ajustes a condiciones o cronograma generados por \nnecesidades de los grupos de valor o de interés , garantizando que con la modificación no se vu lnerará la e xpectativa \nprevista de los posibles participantes ni los principios de mérito, calidad, equidad y transparencia.",
+      "n_caracteres": 818
+    },
+    {
+      "numero": 15,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "texto": "De acuerdo con la resolución 0361 de 2020 del Ministerio de Ciencia, Tecnología e Innovación, que establec e que e n el \nevento en que se llegaren a generar derechos de propiedad intelectual sobre los resultados que se obtengan o se pudieran \nobtener en el marco del desarrollo de la presente convocatoria, la titularidad sobre los mismos se regirá por lo establecid o \nen el artícu lo 169 de la Ley 1955 de 2019, que determinó: “Derechos de propiedad intelectual sobre resultados de \nprogramas y proyectos de Ciencia, tecnología e innovación y de tecnologías de la información y las comunicaciones \nfinanciados con recursos pú blicos. En los  casos de proyectos de investigación y desarrollo de ciencia, tecnología e \ninnovación y de tecnologías de la información y las comunicaciones, adelantados con recursos públicos, el Estado como \ntitular de los derechos de propiedad intelectual derivados de e stos proyectos podrá ceder dichos derechos a través de la \nentidad financiadora, y autorizará su transferencia, comercialización y explotación a quien adelante y ejecute el proyecto, sin \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 14 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nque ello le constituya daño patrimonial. Las condiciones  de esta cesión serán fijadas en el respectivo contrato o convenio. \nEn todo caso, el Estado, a través de la entidad financiadora, se reserva el derecho de obtener una licencia no exclusiva y \ngratuita de estos derechos de propiedad intelectual por motivos d e interés públ ico. Así mismo, en caso de presentarse \nmotivos de seguridad y defensa nacional, el titular de los derechos de propiedad intelectual deberá ceder a título gratuito y  \nsin limitación alguna al Estado, los derechos de propiedad intelectual que le  correspondan. Los derechos de propiedad \nintelectual a ceder, así como sus condiciones de uso, serán fijados en el respectivo contrato o convenio. \nPARÁGRAFO. Cuando en el respectivo contrato o convenio se defina que el titular de derechos de propiedad int electual es \nquien adelante y ejecute el proyecto, y este realice la explotación de dichos derechos, obteniendo ganancias económicas, \ndeberá garantizar al Estado, a través de la entidad financiadora, un porcentaje de las ganancias netas obtenidas en la \nexplotación de la p ropiedad intelectual de la cual es titular, porcentaje que deberá ser acordado por mutuo acuerdo con el \nEstado, a través de la entidad financiadora. El Estado a través de la entidad financiadora, deberá invertir los dineros \nobtenidos, en pro gramas y proyec tos de Ciencia, Tecnología e Innovación y de tecnologías de la información y las \ncomunicaciones. \n \nDe cualquier forma, el Ministerio de Ciencia, Tecnología e Innovación  respetarán los derechos morales de las personas \nnaturales que participen en los proyectos derivados de la presente convocatoria. \n \nLas Partes (entidad ejecutora) del proyecto definirán entre ellas la titularidad de los derechos de propiedad intelectual que \nse generen en la ejecución de los proyectos financiados con recursos del presupuesto nacional. \n \nSin perjuicio de lo anterior, el Ministerio de Ciencia, Tecnología e Innovación se reserva el derecho de obtener una licencia  \nno exclusiva y gratuita sobre los derechos de propiedad intelectual obtenidos en desarrollo de la presente convocatoria por \nmotivos de interés nacional, comprometiéndose a respetar los derechos morales a que hubiere lugar. \n \nEn cualquier evento o medio de divulgación utilizado para difundir los resultados de la propuesta se deberá dar el respectivo \ncrédito al Ministerio de Ciencia, Tecnología e Innovación, incluyendo la imagen institucional de acuerdo con la Guía de uso \nde la marca Gobierno de Colombia - Minciencias alojado en  https://minciencias.gov.co/ministerio/sobre-minciencias, \nsección “Ministerio”, “Sobre el Ministerio”.",
+      "n_caracteres": 3998
+    },
+    {
+      "numero": 16,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "texto": "Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003, podrán desarrollar su actividad durante la \npresente convocatoria, conforme a lo estipulado en dicha normativa.",
+      "n_caracteres": 188
+    },
+    {
+      "numero": 17,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "texto": "Anexo 1: Listado de revistas clasificadas en categoría B como resultado de ubicarse en el cuartil 1 del H5 en la convocatoria \nN°910 de 2021. \nAnexo 2: Aval institucional \nAnexo 3: SIRES reconocidos por Minciencias",
+      "n_caracteres": 214
+    },
+    {
+      "numero": 18,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "texto": "Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la presente convocatoria, así \ncomo lo dispuesto en los presentes términos de referencia para el desarrollo  de esta y la entrega del recurso  o beneficio \nobjeto de esta. Una vez presentada la propuesta no será posible alegar desconocimiento de los requisitos y condiciones de \nlos términos de referencia y sus anexos. Cualquier aclaración, solicitud de subsanación de requisitos o solicitud de revisión \n\n \n \n \n \n \n \n \nCódigo: M801PR01F01 \nVersión: 01 \nVigente desde 2021-11-30 \nPágina 15 de 15  \n \nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. \nColombia \n \nde resultados preliminares debe realizarse de acuerdo con lo definido en el cronograma.  \n \nDe igual forma , al realizar la postulación de  la propuesta, el responsable de esta o su representante legal declara que la \ninformación suministrada es veraz y se hace responsable de la misma. En caso de encontrarse alguna incoherencia y/o \ninconsistencia en la información o documentación suministrada, el Ministerio de Ciencia, Tecnología e Innovación  podrá en \ncualquier momento recha zar la propuesta o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones \nlegales correspondientes. \n \nCuando el proponente, postulante o beneficiario directo renuncie al beneficio, incentivo, apoyo financiero, acompañamiento \no asesoría, debe presentar antes del inicio de la suscripción del contrato su declinación empleando el modelo sugerido de \n\"Carta de renuncia para acceder a beneficio, incentivo, apoyo financiero, acompañamiento o asesoría\" (Código: \nM801PR02MO6) u otro documento d e manifestación vol untaria para renunciar al beneficio, en el que se incluya como \nmínimo la siguiente información: Identificación, convocatoria en la que participó, beneficio al que está renunciando; motivos  \npor los cuales renuncia (opcional), teléfono de contacto, correo electrónico, dirección de correspondencia. Este documento \ndeberá estar firmado por el representante legal o beneficiario directo. El documento de declinación voluntaria deberá ser \nradicado en los canales habilitados por el Ministerio de Ci encia, Tecnología e  Innovación: formulario en línea de PQRDS  \nhttps://minciencias.gov.co/contact o al correo electrónico atencionalciudadano@minciencias.gov.co.",
+      "n_caracteres": 2422
+    },
+    {
+      "numero": 19,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "texto": "EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  \nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C. \nhttp://www.minciencias.gov.co  \n \n \nAtención al Ciudadano \nTeléfono: (+57) (601) 6258480 Extensión 2081 \nLínea gratuita nacional: 018000 914446 \nHorario: Lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua). \n \nEn caso de inquietudes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se \nencuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “ Convocatoria para \nel fortalecimiento de revistas científicas editadas por instituciones editoras colombianas en Publindex al año 2022”. \n \n \n \n \nJuan de Jesús Reyes Rodríguez \nDirector de Inteligencia de Recursos de la Ciencia, la Tecnología y la Innovación (CTeI) \n \nElaboró: Víctor Manuel Pallares Restrepo/Contratista /Dirección de Generación de Conocimiento \nRevisó: Argiro de Jesús Ramírez Aristizábal / Gestor de Ciencia y Tecnología encargado de las funciones de la Dirección de Generación de Conocimiento",
+      "n_caracteres": 1098
+    }
+  ]
+}

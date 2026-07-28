@@ -1,0 +1,251 @@
+{
+  "convocatoria": "962",
+  "objetivo": "Fomentar el acceso, desarrollo, y adopción de nuevas tecnologías en el sector agroalimentario para su transformación hacia modelos más eficientes, sostenibles, inclusivos y resilientes, mejorando la productividad y promoviendo la difusión de tecnologías avanzadas.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad ejecutora",
+      "rol": "Ejecutor principal",
+      "condicion": "Debe ser una de las siguientes: Asociaciones campesinas, asociaciones agropecuarias, cooperativas campesinas, Organizaciones Productivas Rurales. Debe tener tiempo de constitución y registro no inferior a 2 años."
+    },
+    {
+      "tipo": "Entidad aliada",
+      "rol": "Aliado",
+      "condicion": "Debe ser una de las siguientes: Empresas formalmente constituidas (Micro, Pequeña, Mediana), Actores Reconocidos del SNCTI (grupos de investigación, centros, etc.) o Tecnoparques SENA."
+    },
+    {
+      "tipo": "Colaborador",
+      "rol": "Colaborador",
+      "condicion": "Pueden ser otros Actores del SNCTI u otras MiPymes, vinculados adicionalmente a la alianza mínima."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Inteligencia Artificial aplicada al sector Agropecuario",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollos Tecnológicos e Innovaciones donde el uso de la Inteligencia Artificial permita mejorar la gestión de recursos, la productividad y la sostenibilidad en el sector agropecuario."
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación para la resiliencia y adaptación al cambio climático y a la variabilidad climática",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollo y adopción de tecnologías, e innovaciones para anticipar cómo el cambio climático y la variabilidad climática afectarán a la producción de alimentos y adaptar las estrategias agrícolas en consecuencia."
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación para el Derecho Humano a la Alimentación y la Seguridad Alimentaria y Nutrición",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollo y adopción de tecnologías, e innovaciones que conduzcan a elevar la productividad agrícola y pecuaria, el acceso a los alimentos básicos de alto valor nutritivo y de calidad, y la comercialización de productos agropecuarios."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3. 'DIRIGIDA A' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar la inscripción del proyecto en el SIGP a través del formulario electrónico.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de aval unificada y compromiso institucional (Anexo 2) debidamente diligenciada y firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Asociaciones Campesinas, Agropecuarias, Cooperativas u Organizaciones Productivas Rurales deben estar legalmente constituidas con al menos 2 años y adjuntar Certificado de Existencia y Representación Legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas formalmente constituidas deben tener tiempo de constitución y registro no inferior a 2 años (validado por RUES).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Asociaciones, Cooperativas u Organizaciones Productivas Rurales deben tener domicilio principal en el municipio de ejecución, manifestado en el Anexo 2.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar experiencia en la temática del proyecto mediante el Anexo 11 – Proyectos ejecutados.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificación de Contador o Revisor Fiscal con indicadores financieros: índice de liquidez >= 1 y nivel de endeudamiento <= 0.7 (año fiscal 2023).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética (si aplica), con acto administrativo de conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas aliadas deben diligenciar y firmar el Anexo 6 (Certificación tamaño entidad aliada).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar Hoja de Vida del Investigador Principal o Gerente del Proyecto según Anexo 7, firmada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para acreditar enfoque diferencial: adjuntar certificados de auto reconocimiento (población negra, indígena, víctimas, reincorporación, discapacidad) según corresponda.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Empresas en Ruta de Emprendimiento del SENA deben aportar carta firmada por la Coordinación Nacional de Emprendimiento (fecha no mayor a 3 meses antes de apertura).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para vincular Joven Investigador: adjuntar Anexo 9, copia de cédula, certificado de notas (promedio >= 3.8) y soporte de estado académico (máximo 28 años al 31/12/2024).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Una misma entidad ejecutora solo puede radicar un único proyecto en esta convocatoria.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentar más de un proyecto con el mismo Investigador Principal o Gerente del Proyecto.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir cabalmente con todos los requisitos del numeral 8 de la convocatoria.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No tener incompatibilidades, inhabilidades o conflicto de intereses para contratar según la ley.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta no debe contar con financiación simultánea de otra convocatoria del Ministerio, SGR u otras entidades del Estado.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora o aliada no debe estar ejecutando proyectos elegibles de la convocatoria 943-2023.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora o aliada no debe haber sido ejecutora de proyectos de las convocatorias 901-2021 y 926-2022.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1760,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 657,
+          "completion_tokens": 171
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11767,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3571,
+          "completion_tokens": 247
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7435,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2096,
+          "completion_tokens": 735
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4300,
+          "completion_tokens": 2899
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_como_aliado",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias en la temática del proyecto",
+          "Verificar que la universidad puede cumplir con los requisitos de contrapartida si aplica",
+          "Identificar una entidad ejecutora elegible para formar la alianza obligatoria"
+        ],
+        "resumen": "La Universidad del Rosario, como actor SNCTI reconocido, puede postularse como aliado en una alianza con una entidad ejecutora elegible (asociaciones campesinas, cooperativas, etc.) para esta convocatoria. No puede ser ejecutora principal debido a que el tipo de entidad no está listado para ese rol. Se deben verificar condiciones adicionales como la existencia de grupos de investigación y la capacidad de contrapartida."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias en la temática del proyecto",
+        "Verificar que la universidad puede cumplir con los requisitos de contrapartida si aplica",
+        "Identificar una entidad ejecutora elegible para formar la alianza obligatoria"
+      ],
+      "resumen": "La Universidad del Rosario, como actor SNCTI reconocido, puede postularse como aliado en una alianza con una entidad ejecutora elegible (asociaciones campesinas, cooperativas, etc.) para esta convocatoria. No puede ser ejecutora principal debido a que el tipo de entidad no está listado para ese rol. Se deben verificar condiciones adicionales como la existencia de grupos de investigación y la capacidad de contrapartida.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

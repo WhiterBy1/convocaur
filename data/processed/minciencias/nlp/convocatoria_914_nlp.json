@@ -1,0 +1,311 @@
+{
+  "convocatoria": "914",
+  "objetivo": "Contribuir al cambio de la estructura productiva del país hacia industrias y servicios con contenido tecnológico alto y con proyección exportadora, a través del apoyo financiero al desarrollo de proyectos de I+D+i dirigidos a desarrollar y validar nuevas tecnologías para la transición energética, basadas en la aplicación de resultados de investigación o la adopción o adaptación de tecnologías convergentes.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior (IES)",
+      "rol": "Ejecutora o Co-ejecutora",
+      "condicion": "Colombianas, representadas por al menos un grupo de investigación A, A1, B, C o reconocido, con aval institucional."
+    },
+    {
+      "tipo": "Centros o Institutos de Investigación",
+      "rol": "Ejecutora o Co-ejecutora",
+      "condicion": "Organizaciones públicas, privadas o mixtas, con reconocimiento vigente o en proceso de renovación por Minciencias."
+    },
+    {
+      "tipo": "Centros de Desarrollo Tecnológico",
+      "rol": "Ejecutora o Co-ejecutora",
+      "condicion": "Organizaciones públicas o privadas, con reconocimiento vigente o en proceso de renovación por Minciencias."
+    },
+    {
+      "tipo": "Personas jurídicas legalmente constituidas en Colombia",
+      "rol": "Ejecutora o Co-ejecutora",
+      "condicion": "Mínimo 2 años de constitución antes del cierre, con capacidad o visión para explotar comercialmente tecnologías del Área Estratégica."
+    },
+    {
+      "tipo": "Spin-offs",
+      "rol": "Co-ejecutora",
+      "condicion": "Empresas basadas en conocimientos gestados en IES, con capacidad o visión para explotar comercialmente tecnologías relacionadas."
+    },
+    {
+      "tipo": "SENA (Red Tecnoparque)",
+      "rol": "Co-ejecutora",
+      "condicion": "A través de los centros de la Red Tecnoparque."
+    },
+    {
+      "tipo": "Instituciones extranjeras",
+      "rol": "Co-ejecutora",
+      "condicion": "Con experiencia verificable en el Área Estratégica y disponibilidad de recursos financieros para su participación."
+    },
+    {
+      "tipo": "Representante del sector empresarial",
+      "rol": "Vinculado obligatoriamente",
+      "condicion": "Todas las propuestas deben vincular al menos un representante del sector empresarial."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta en el SIGP antes de la fecha límite establecida.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar evidencias del estado de madurez tecnológica (TRL y MRL) mediante el Anexo 9 y el formato de presentación de la tecnología (Anexo 12).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de aval unificada y compromiso institucional (Anexo 5) debidamente diligenciada y firmada por representantes legales de entidades nacionales participantes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Evidenciar que las entidades del sector productivo participantes fueron constituidas como mínimo dos años antes de la apertura de la convocatoria (excepto spin-off).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades del sector productivo no deben encontrarse en proceso de liquidación; presentar certificados de contador o revisor fiscal.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar el Anexo 7 – Experiencia en Proyectos de I+D+i con información que verifique resultados en el área estratégica en los últimos seis años.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aportar contrapartida mínima en dinero y/o especie equivalente al 30% del valor total del proyecto, excepto centros autónomos, institutos públicos, microempresas y spin-off.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las empresas (excepto micro y spin-off) deben aportar un porcentaje mínimo de contrapartida en dinero según el tamaño de la empresa, de acuerdo con el Cuadro 2.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias del trámite o existencia de permisos y licencias ambientales necesarios para la ejecución, según normatividad colombiana (si aplica).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar concepto de un comité de ética/bioética (cuando aplique) que revise y avale la propuesta, anexando el acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si se desea acceder a beneficios tributarios, diligenciar la información en SIGP y adjuntar documentos según Anexo 13 (solo si el proyecto es elegido y financiado).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Conformar un equipo ejecutor con: mínimo un investigador con reconocimiento vigente (Emérito, Senior, Asociado o Junior) vinculado a IES/centro de investigación/desarrollo tecnológico, y mínimo un investigador vinculado laboralmente a empresa participante con dedicación media tiempo; uno de ellos debe ser investigador principal.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La información de identificación, roles y responsabilidades de todos los integrantes debe estar en el formulario SIGP. Personal científico residente debe crear/actualizar CvLAC; investigadores internacionales o personal no científico adjuntar hojas de vida.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal puede participar en máximo dos propuestas.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta debe inscribirse en un único reto dentro del área estratégica para el proceso de evaluación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las tecnologías objeto de la propuesta deben contribuir al cumplimiento de las metas del país en adaptación al cambio climático y mitigación de emisiones de gases de efecto invernadero, según la NDC Colombia.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta debe tener en cuenta las normas nacionales (ICONTEC, SSP) e internacionales (IEC, HACCP, acuerdos ambientales) existentes en estándares y buenas prácticas de laboratorio, manufactura, seguridad y sostenibilidad ambiental.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Resultados e impactos esperados",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Pertinencia de la propuesta",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Composición y capacidad del equipo ejecutor",
+      "puntaje_max": 45.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Potencial comercial de los resultados",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "Diecisiete mil ochocientos treinta y dos millones de pesos M/CTE.",
+    "monto_total_cop": 17832000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": 30.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Convenio 279-2022 entre Minciencias y Fondo Francisco José de Caldas, CDR Global No.17556 de 2022",
+    "notas": "Contrapartida mínima del 30% del valor total del proyecto. Excepciones: Centros Autónomos, microempresas y Spin-off no obligados a contrapartida. Para empresas, contrapartida en dinero entre 10% y 40% de su contrapartida total."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3144,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1059,
+          "completion_tokens": 132
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7458,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2242,
+          "completion_tokens": 532
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10434,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3215,
+          "completion_tokens": 2547
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2935,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1247,
+          "completion_tokens": 1028
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3058,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1142,
+          "completion_tokens": 417
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES)",
+          "rol": "Ejecutora o Co-ejecutora",
+          "condicion": "Colombianas, representadas por al menos un grupo de investigación A, A1, B, C o reconocido, con aval institucional."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Colombianas, representadas por al menos un grupo de investigación A, A1, B, C o reconocido, con aval institucional.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con al menos un grupo de investigación categorizado A, A1, B, C o reconocido por Minciencias, con aval institucional.",
+          "Aportar contrapartida mínima del 30% del valor total del proyecto (en dinero y/o especie).",
+          "Verificar experiencia en proyectos de I+D+i en el área estratégica (últimos 6 años).",
+          "Cumplir con requisitos documentales (carta de aval unificada, anexos, etc.)."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por Minciencias, es elegible para postularse, pero debe hacerlo en alianza con otros actores (no puede postularse sola). Se sugiere que asuma el rol de ejecutora, siempre que cuente con grupos de investigación categorizados y cumpla con los requisitos de contrapartida y experiencia."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con al menos un grupo de investigación categorizado A, A1, B, C o reconocido por Minciencias, con aval institucional.",
+        "Aportar contrapartida mínima del 30% del valor total del proyecto (en dinero y/o especie).",
+        "Verificar experiencia en proyectos de I+D+i en el área estratégica (últimos 6 años).",
+        "Cumplir con requisitos documentales (carta de aval unificada, anexos, etc.)."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por Minciencias, es elegible para postularse, pero debe hacerlo en alianza con otros actores (no puede postularse sola). Se sugiere que asuma el rol de ejecutora, siempre que cuente con grupos de investigación categorizados y cumpla con los requisitos de contrapartida y experiencia.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

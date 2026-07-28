@@ -1,0 +1,374 @@
+{
+  "convocatoria": "46",
+  "objetivo": "Impulsar la infraestructura, el desarrollo científico y tecnológico en inteligencia artificial, mediante la creación y consolidación de capacidades nacionales avanzadas que habiliten la investigación, el desarrollo y la innovación, con el propósito de fortalecer la soberanía tecnológica y posicionar al país como referente regional en inteligencia artificial, promoviendo la productividad, la competitividad y la sostenibilidad nacional, a través de la conformación de un banco de proyectos elegibles y financiables.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES) acreditada de alta calidad",
+      "rol": "Aliado",
+      "condicion": null
+    },
+    {
+      "tipo": "Centro o Instituto de investigación autónomo o dependiente reconocido",
+      "rol": "Ejecutor (proponente)",
+      "condicion": "Reconocimiento vigente por Minciencias a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro de Desarrollo Tecnológico autónomo o dependiente reconocido",
+      "rol": "Ejecutor (proponente)",
+      "condicion": "Reconocimiento vigente por Minciencias a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centro de Innovación y de Productividad autónomo o dependiente reconocido",
+      "rol": "Ejecutor (proponente)",
+      "condicion": "Reconocimiento vigente por Minciencias a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Gobernación",
+      "rol": "Aliado",
+      "condicion": null
+    },
+    {
+      "tipo": "Alcaldía",
+      "rol": "Aliado",
+      "condicion": null
+    },
+    {
+      "tipo": "Empresa nacional (persona jurídica constituida en Colombia)",
+      "rol": "Aliado",
+      "condicion": null
+    },
+    {
+      "tipo": "Entidad u organización internacional (opcional)",
+      "rol": "Aliado",
+      "condicion": "Adicional a la conformación mínima"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento de Capacidades Nacionales en Ciencia, Tecnología e Innovación en Inteligencia Artificial",
+      "modalidad": null,
+      "descripcion_corta": "Reconocimiento a la IA como tecnología estratégica para la transformación productiva, social y científica del país, buscando consolidar capacidades propias, reducir dependencia externa y fortalecer la soberanía digital."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del 'DIRIGIDA A' establecidas en el numeral 3 de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del Índice de Gestión de Proyectos de Regalías - IGPR conforme la metodología del DNP (Consolidado 2021-2022).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1) debidamente diligenciada y firmada por representantes legales de todas las entidades nacionales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) según el contenido del numeral 12.1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) cumpliendo las condiciones del numeral 14.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la MGA WEB preliminar del proyecto con todos los campos diligenciados en la Tipología D – Convocatorias CTeI del SGR.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar Certificado suscrito por el Representante Legal indicando que las actividades no están siendo ni han sido financiadas con otras fuentes de recursos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta firmada por el representante legal de cada entidad participante, incluyendo nombre del proyecto, conocimiento de su contenido y compromiso.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente' (Anexo 5) debidamente diligenciado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta Aval del Comité de Ética de la Investigación o de Bioética (si aplica) y el acto administrativo que soporta la conformación del Comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las IES aliadas deben adjuntar el certificado de acreditación institucional de alta calidad vigente expedido por el MEN.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los Actores del SNCTeI (centros de investigación, desarrollo tecnológico, innovación) deben adjuntar la resolución de reconocimiento vigente expedida por Minciencias.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales: anexar carta de intención de participación (formato libre) suscrita por el representante legal, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Personas jurídicas legalmente constituidas en Colombia: deben estar constituidas mínimo 3 años antes de la apertura y presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato 'Interrelaciones de la Entidad Proponente' (Anexo 11) demostrando mínimo 3 interrelaciones activas y verificables relacionadas con el objetivo y línea temática.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe impactar las demandas territoriales de los Departamentos de cada una de las regiones del SGR, atendiendo mínimo una por región (6 demandas).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período establecidos en el numeral 21 CRONOGRAMA, de la presente convocatoria."
+    },
+    {
+      "texto": "La entidad que se presente en calidad de ejecutor o aliado en más de una (1) propuesta a esta convocatoria. En caso de que una misma entidad radique más de 1 proyecto en calidad de ejecutor o aliado, sólo se tendrá en cuenta aquel proyecto radicado en el primer lugar, teniendo en cuenta la fecha y hora de registro en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando se carguen documentos en blanco, archivos dañados o documentos de compromiso de aportarlos posteriormente."
+    },
+    {
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP, sin perjuicio de la excepción planteada en la nota del numeral. 10.3 del presente documento."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa el monto señalado en los presentes términos en el numeral 14 - DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 10.10 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender los retos estratégicos de Ciencia, Tecnología e Innovación a través de por lo menos una demanda territorial (ver Anexo 4), para cada uno de los departamentos pertenecientes a la región objeto del proyecto."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales competentes sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad técnico-científica y presupuestal del proyecto",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa la calidad metodológica, coherencia y articulación de los componentes del proyecto (infraestructura, I+D+i en IA, talento, transferencia, gobernanza, etc.), así como la coherencia presupuestal y la suficiencia de las capacidades técnicas e infraestructura."
+    },
+    {
+      "nombre": "Calidad y coherencia del proyecto en el desarrollo de los componentes",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia y articulación entre los componentes del proyecto (infraestructura, I+D+i en IA, talento, transferencia, gobernanza, etc.) para conseguir los resultados propuestos en CTeI."
+    },
+    {
+      "nombre": "Coherencia entre el presupuesto y los alcances del proyecto y justificación de los rubros",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el presupuesto está debidamente estimado y todos los rubros justificados con base en criterios de necesidad y eficiencia."
+    },
+    {
+      "nombre": "Suficiencia e idoneidad de las capacidades técnicas permanentes y de infraestructura y/o dotación de equipos para la I+D+i en IA",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la solidez, suficiencia e idoneidad de las capacidades técnicas, infraestructura científica y tecnológica y/o dotación de equipos propuestos para el desarrollo del proyecto."
+    },
+    {
+      "nombre": "Contribución al desarrollo nacional y al fortalecimiento de capacidades propias en materia de ciencia, tecnología e innovación en IA",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el grado en que la propuesta aporta al fortalecimiento de las capacidades científicas, tecnológicas e innovadoras del país en inteligencia artificial, contribuyendo al posicionamiento de Colombia como referente regional y a la soberanía tecnológica."
+    },
+    {
+      "nombre": "Capacidad técnica, idoneidad y trayectoria de la entidad proponente y de los aliados",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa la conformación de la alianza, la experticia y trayectoria de los actores, y la articulación entre ellos para el desarrollo del proyecto."
+    },
+    {
+      "nombre": "Conformación de la Alianza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si la alianza cumple con los criterios establecidos, demuestra experticia y trayectoria, y cuenta con los recursos humanos, técnicos y financieros acordes con los requerimientos del proyecto."
+    },
+    {
+      "nombre": "Articulación de la Alianza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la sinergia entre los actores del SNCTI, la interdisciplinariedad, participación y compromiso, y la coherencia entre la organización de la alianza y el componente científico-técnico del proyecto."
+    },
+    {
+      "nombre": "Sostenibilidad y gobernanza",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estructura del modelo de gobernanza en aspectos financiero, administrativo, jurídico, técnico y de ética e integridad científica."
+    },
+    {
+      "nombre": "Estructura del modelo de gobernanza",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia de la estructura del modelo de gobernanza para garantizar la toma de decisiones y acciones requeridas para la correcta ejecución del proyecto."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "SEISCIENTOS TREINTA MIL MILLONES DE PESOS ($630.000.000.000)",
+    "monto_total_cop": 630000000000.0,
+    "plazo_min_meses": 48,
+    "plazo_max_meses": 48,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2025-2026",
+    "notas": "Se espera financiar un (1) proyecto de alcance nacional, cuyo valor no exceda el monto total asignado."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 523,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 335,
+          "completion_tokens": 115
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7675,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2451,
+          "completion_tokens": 1561
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3295,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1172,
+          "completion_tokens": 110
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4377,
+          "completion_tokens": 1133
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4284,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1472,
+          "completion_tokens": 854
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10259,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3191,
+          "completion_tokens": 631
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4174,
+          "completion_tokens": 986
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "Aliado",
+      "confianza": "alta",
+      "motivo": "Las IES solo aparecen con rol de aliado/colaborador; Rosario no seria proponente/ejecutora principal.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES) acreditada de alta calidad",
+          "rol": "Aliado",
+          "condicion": null
+        }
+      ],
+      "condiciones_pendientes": [],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_como_aliado",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en calidad de aliado, ya que la convocatoria exige alianza obligatoria y asigna el rol de ejecutor principal a centros de investigación o desarrollo tecnológico. No se identifican bloqueantes adicionales, pero se recomienda verificar la capacidad institucional para cumplir con los requisitos documentales y técnicos."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en calidad de aliado, ya que la convocatoria exige alianza obligatoria y asigna el rol de ejecutor principal a centros de investigación o desarrollo tecnológico. No se identifican bloqueantes adicionales, pero se recomienda verificar la capacidad institucional para cumplir con los requisitos documentales y técnicos.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

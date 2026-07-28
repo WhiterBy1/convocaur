@@ -1,0 +1,378 @@
+{
+  "convocatoria": "926",
+  "objetivo": "Fomentar el desarrollo tecnológico y la innovación en las empresas y organizaciones del sector productivo, mediante la cofinanciación de proyectos de CTeI encaminados al fortalecimiento de sus procesos productivos, el desarrollo de bienes y servicios, la sofisticación y/o diversificación de la oferta de valor, la recuperación de mercados nacionales y la ampliación y/o inserción en nuevos mercados que contribuyan a la reactivación económica y social del país.",
+  "actores_elegibles": [
+    {
+      "tipo": "Persona Jurídica (Empresa)",
+      "rol": "ejecutor",
+      "condicion": "Micro, pequeña, mediana o grande empresa con ánimo de lucro, legalmente constituida en Colombia con mínimo 2 años de constitución y registro."
+    },
+    {
+      "tipo": "Persona Jurídica (Empresa)",
+      "rol": "beneficiaria",
+      "condicion": "Misma definición que ejecutor, pero no suscribe contrato ni aporta contrapartida; participa en desarrollo, implementación, uso y apropiación del proyecto."
+    },
+    {
+      "tipo": "Organización del Sector Productivo",
+      "rol": "ejecutor",
+      "condicion": "Gremios, federaciones gremiales, cámaras de comercio, asociaciones, corporaciones y demás organizaciones de desarrollo empresarial, constituidas en Colombia con mínimo 2 años de constitución y registro."
+    },
+    {
+      "tipo": "Spin Off",
+      "rol": "Persona Jurídica (Empresa) o Persona Jurídica (Empresa Beneficiaria)",
+      "condicion": "Debe presentar documento que la identifica como Spin-Off, suscrito por la IES que le dio origen o área encargada."
+    },
+    {
+      "tipo": "Actor del SNCTeI",
+      "rol": "aliado",
+      "condicion": "Grupos de Investigación e Innovación categorizados, Unidades de I+D+i de Empresa, Centros/Institutos de Investigación, Centros de Desarrollo Tecnológico, Centros de Innovación y Productividad, Incubadoras de Empresas de Base Tecnológica, OTRI, Centros de Ciencia y Parques Científicos, Tecnológicos y de Innovación, con resolución de reconocimiento vigente."
+    },
+    {
+      "tipo": "Tecnoparque del SENA",
+      "rol": "acompañante opcional",
+      "condicion": "Brinda acompañamiento para materialización de prototipo en TRL6, TRL7 o TRL8; debe manifestarse intención y cumplir requisitos."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Biodiversidad y Servicios Ecosistémicos",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Colombia Biointeligente",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Agro Productivo y Sostenible",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Biomasa y Química Verde",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Salud y Bienestar",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Materiales avanzados",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Eficiencia Energética",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Big data y analítica de datos",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Blockchain",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Realidad Virtual y Aumentada",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Internet de las cosas",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Automatización y Robótica",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Manufactura 3D",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Logística 4.0",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Agroalimentos",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Otra",
+      "modalidad": null,
+      "descripcion_corta": null
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral '3. DIRIGIDO A' de los presentes términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscripción del proyecto de desarrollo tecnológico o de innovación en el Sistema Integrado de Gestión de Proyectos de MINCIENCIAS – SIGP a través del formulario electrónico disponible en el portal del Ministerio de Ciencia, Tecnología e Innovación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de aval unificada y compromiso institucional, debidamente diligenciada y firmada por los Representantes Legales de todas las entidades participantes o quien haga sus veces, siempre y cuando se anexe el documento que los faculte (Anexo No. 1).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las Personas Jurídicas (Empresas) deberán estar legalmente constituidas en Colombia, con un tiempo de constitución y registro no inferior a dos (2) años contados hasta la fecha de cierre de la presente convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para el caso de las organizaciones del sector productivo que se presenten como ejecutoras en la modalidad No. 2, deberán estar legalmente constituidas en Colombia, con un tiempo de constitución no inferior a dos (2) años contados hasta la fecha de cierre de la presente convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la entidad que se presente como ejecutora del proyecto, deberá adjuntar en un solo documento en PDF: certificación expedida y firmada por contador o revisor fiscal y copia de la tarjeta profesional de quien firma el certificado, con indicadores del año fiscal 2021 (opción 1: Utilidad Neta ≥ 0 e índice de liquidez ≥ 1; opción 2: nivel de endeudamiento ≤ 0,7 y relación deuda financiera > 0 y ≤ 3,5).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética de la institución que presenta el Proyecto, donde especifique claramente que el proyecto ha sido revisado y avalado por este Comité (Si aplica).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las Persona Jurídica (Empresas) participantes como ejecutoras de los proyectos deberán diligenciar, firmar por parte de su representante legal y adjuntar en el sistema SIGP, el Anexo No 5 Certificación tamaño empresa ejecutora.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad que se presente en calidad de ejecutora del proyecto deberá realizar el autodiagnóstico de innovación en http://pactosporlainnovacion.minciencias.gov.co por al menos una persona de la entidad y adjuntar en el SIGP el certificado arrojado por la plataforma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar hoja de vida del Investigador principal o Gerente del Proyecto, de acuerdo con el Anexo 6 Hoja de Vida Investigador Principal o Gerente del Proyecto, firmada por la persona que ejercerá dicho rol.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta de compromiso programa extensionismo tecnológico, debidamente diligenciada y firmada por el Representante Legal de la entidad ejecutora o quien haga sus veces (Anexo 7).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En caso de que el proyecto elija vincular un joven investigador/innovador, se deberá adjuntar en un solo documento en PDF: Anexo 8, copia de cédula, copia del diploma o acta de grado o certificado, y certificado de notas con promedio mínimo de 3.8.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Adjuntar carta de intención red Tecnoparque, debidamente diligenciada y firmada por el Representante Legal de la entidad ejecutora o quien haga sus veces (Aplica únicamente en el caso de que el proyecto desee recibir el acompañamiento por uno de los nodos de Tecnoparques).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Problema o necesidad para resolver con el proyecto identificada y detallada",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Identificación y detalle del problema o necesidad que el proyecto busca resolver."
+    },
+    {
+      "nombre": "1.2 Coherencia y articulación en la estructura del proyecto, los objetivos, el diseño metodológico y el cronograma de actividades, concordancia entre el presupuesto total, las actividades y los objetivos planteados del proyecto",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evaluación de la coherencia interna del proyecto, incluyendo justificación de rubros, cantidades y montos solicitados."
+    },
+    {
+      "nombre": "2.1 El desarrollo del proyecto traerá como resultado una innovación o la materialización del conocimiento en un prototipo funcional para un nuevo o significativamente mejorado proceso, producto o servicio",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Resultado del proyecto como innovación o prototipo funcional para la entidad ejecutora, empresas beneficiarias, sector, país o nivel internacional."
+    },
+    {
+      "nombre": "2.2 En la propuesta, existe un mercado claramente identificado con clientes potenciales y requerimientos del prototipo definido que será desarrollado y validado en el proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Identificación de mercado, clientes potenciales y requerimientos del prototipo, con evidencia de potencial de mercado más allá del proyecto."
+    },
+    {
+      "nombre": "3.1 Novedad de la tecnología",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evaluación de si la tecnología es disruptiva, tiene potencial de serlo, o es tradicional; se demuestra necesidad y valor agregado del proceso, producto o servicio."
+    },
+    {
+      "nombre": "3.2 Antecedentes Científicos y Tecnológicos del Proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Calidad y trayectoria de la investigación que condujo al desarrollo de la tecnología, sustentando el estado de madurez tecnológica de partida (mínimo TRL4)."
+    },
+    {
+      "nombre": "3.3 Ventajas de la Tecnología",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Análisis comparativo de la tecnología o sus productos/servicios derivados frente a otras tecnologías existentes, ya sea como inventos o productos disponibles en el mercado."
+    },
+    {
+      "nombre": "4.1 Se evidencia de manera clara cuáles son los entregables e indicadores que permitirán el cumplimiento de los objetivos, los cuales contribuyen a resolver la problemática o necesidad identificada",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Claridad en entregables e indicadores para cumplir objetivos y resolver la problemática."
+    },
+    {
+      "nombre": "4.2 El proyecto permitirá mejorar la competitividad y la productividad de la(s) empresa(s) u organizaciones del sector productivo y el sector al que pertenece(n) con el desarrollo, innovación y/o sofisticación del bien o servicio resultado del proyecto",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Impacto verificable en competitividad y productividad, acorde con el sector, tamaño de la empresa y nivel de desarrollo."
+    },
+    {
+      "nombre": "4.3 El proyecto presenta una propuesta de sostenibilidad viable acorde con las actividades, entregables y resultados del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Viabilidad de la propuesta de sostenibilidad en relación con actividades, entregables y resultados."
+    },
+    {
+      "nombre": "5.1 Complementariedad del Equipo",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Perfiles y aportes multidisciplinarios de los miembros del equipo en términos técnicos, científicos y tecnológicos."
+    },
+    {
+      "nombre": "Formación académica del Gerente o Investigador Principal",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Formación académica del gerente o investigador principal: Doctorado (4 pts), Maestría (3 pts), Especialización (2 pts), Pregrado (1 pt), Ninguna (0 pts)."
+    },
+    {
+      "nombre": "Experiencia específica del Gerente o Investigador Principal",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia específica como gerente o investigador principal: más de 5 años (4 pts), entre 4 y 5 años (3 pts), entre 2 y 4 años (2 pts), 2 años (1 pt), menos de 2 años (0 pts)."
+    }
+  ],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1962,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 770,
+          "completion_tokens": 576
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9042,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2821,
+          "completion_tokens": 517
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4526,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1557,
+          "completion_tokens": 2244
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4477,
+          "completion_tokens": 1216
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6491,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2227,
+          "completion_tokens": 8191
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La Universidad del Rosario, como IES, no está listada como actor elegible en la convocatoria. Los actores elegibles son empresas, organizaciones del sector productivo, spin-offs, y actores del SNCTeI (como centros de investigación, grupos, etc.), no universidades como institución principal."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque su tipo de institución (IES/universidad) no se encuentra entre los actores elegibles definidos en los términos de referencia. La convocatoria está dirigida a empresas y organizaciones del sector productivo como ejecutores, y las IES solo pueden participar como aliadas a través de grupos o unidades específicas, no como institución principal."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La Universidad del Rosario, como IES, no está listada como actor elegible en la convocatoria. Los actores elegibles son empresas, organizaciones del sector productivo, spin-offs, y actores del SNCTeI (como centros de investigación, grupos, etc.), no universidades como institución principal."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque su tipo de institución (IES/universidad) no se encuentra entre los actores elegibles definidos en los términos de referencia. La convocatoria está dirigida a empresas y organizaciones del sector productivo como ejecutores, y las IES solo pueden participar como aliadas a través de grupos o unidades específicas, no como institución principal.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

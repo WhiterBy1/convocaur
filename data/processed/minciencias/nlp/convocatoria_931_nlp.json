@@ -1,0 +1,271 @@
+{
+  "convocatoria": "931",
+  "objetivo": "Fortalecer las capacidades en investigación en áreas relacionadas con el sector de los hidrocarburos en Colombia, mediante la financiación de proyectos de I+D+i y la vinculación de Jóvenes Investigadores e Innovadores, para generar nuevo conocimiento geocientífico, promover el aprovechamiento sostenible del recurso hidrocarburífero y fomentar vocaciones científicas en geociencias afines al sector.",
+  "actores_elegibles": [
+    {
+      "tipo": "Grupos de Investigación, Desarrollo Tecnológico e Innovación",
+      "rol": "proponente y líder del proyecto (investigador principal)",
+      "condicion": "con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, adscritos a entidades legalmente constituidas"
+    },
+    {
+      "tipo": "Otros Grupos de Investigación, Desarrollo Tecnológico e Innovación",
+      "rol": "integrante de alianza estratégica",
+      "condicion": "reconocidos a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Otros actores del SNCTI",
+      "rol": "integrante de alianza estratégica",
+      "condicion": "adscritos a entidades legalmente constituidas. Incluye: Unidades Empresariales de I+D+i reconocidas, empresas, Centros e Institutos de Investigación (CI), Centros de Desarrollo Tecnológico (CDT), Centros de Innovación y Productividad (CIP), Incubadoras de Empresa de Base Tecnológica (IEBT), Organizaciones para el fomento del uso y apropiación de la CTeI: Centros Regionales de Investigación, Innovación y Emprendimiento (CRIIE)"
+    },
+    {
+      "tipo": "Instituciones de Educación Superior (IES)",
+      "rol": "integrante de alianza estratégica",
+      "condicion": null
+    },
+    {
+      "tipo": "Entidades del sector productivo o de servicios",
+      "rol": "integrante de alianza estratégica",
+      "condicion": null
+    },
+    {
+      "tipo": "Entidades estatales",
+      "rol": "integrante de alianza estratégica",
+      "condicion": null
+    },
+    {
+      "tipo": "Entidades no gubernamentales",
+      "rol": "integrante de alianza estratégica",
+      "condicion": null
+    },
+    {
+      "tipo": "Otras entidades legalmente constituidas",
+      "rol": "integrante de alianza estratégica",
+      "condicion": null
+    },
+    {
+      "tipo": "Sociedad civil organizada",
+      "rol": "integrante de alianza estratégica",
+      "condicion": null
+    },
+    {
+      "tipo": "Instituciones de Educación Superior o Centros de Investigación o Desarrollo Tecnológico o Innovación internacionales",
+      "rol": "entidades colaboradoras",
+      "condicion": null
+    },
+    {
+      "tipo": "Actores del Sistema Nacional de CTeI o entidades del Estado o Instituciones de Educación Superior (IES)",
+      "rol": "proponente (modalidad 3)",
+      "condicion": "que cuenten con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH"
+    },
+    {
+      "tipo": "Instituciones Técnicas Profesionales, Tecnológicas y Universitarias (ITTU)",
+      "rol": "integrante de alianza estratégica (modalidad 3)",
+      "condicion": null
+    },
+    {
+      "tipo": "Parques tecnológicos",
+      "rol": "integrante de alianza estratégica (modalidad 3)",
+      "condicion": null
+    },
+    {
+      "tipo": "Oficinas de Transferencia de Resultados de Investigación - OTRI",
+      "rol": "integrante de alianza estratégica (modalidad 3)",
+      "condicion": null
+    },
+    {
+      "tipo": "Centros de Ciencia",
+      "rol": "integrante de alianza estratégica (modalidad 3)",
+      "condicion": null
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Yacimientos No Convencionales",
+      "modalidad": "1",
+      "descripcion_corta": "Investigación sobre identificación del potencial de Yacimientos No Convencionales (especialmente shale gas) en cuencas del Cesar Ranchería, Valle Medio del Magdalena, Cordillera, Valle Superior del Magdalena, y Catatumbo; y geomecánica enfocada al desarrollo de estos yacimientos."
+    },
+    {
+      "nombre": "Exploración de cuencas frontera y emergentes",
+      "modalidad": "1",
+      "descripcion_corta": "Investigación sobre identificación de oportunidades exploratorias, definición de trampas, reservorios y roca fuente, mejoramiento de datos sísmicos con algoritmos de alta tecnología, identificación de oportunidades usando análisis de datos, inteligencia artificial y/o Machine Learning, y búsqueda de nuevos paradigmas en cuencas maduras."
+    },
+    {
+      "nombre": "Modelos hidrogeológicos conceptuales en zonas de alta sensibilidad social y ambiental",
+      "modalidad": "2",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Implicaciones ambientales de la reinyección de aguas oleaginosas",
+      "modalidad": "2",
+      "descripcion_corta": "Incluye implicaciones ambientales de la reinyección de aguas en DISPOSAL o EOR, y aprestamiento y armonización jurídica del DISPOSAL y el EOR."
+    },
+    {
+      "nombre": "Evaluación de impactos ambientales acumulativos en proyectos en zonas prospectivas de hidrocarburos en la Amazonía colombiana",
+      "modalidad": "2",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Nuevas tecnologías de telemetría y sensórica para la fiscalización de componentes ambientales y riesgo",
+      "modalidad": "2",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Captura, Utilización y Secuestro de Carbono – CCUS",
+      "modalidad": "2",
+      "descripcion_corta": "Incluye captura, utilización y secuestro del CO2 derivado de la industria de los hidrocarburos, caracterización del potencial de formaciones del subsuelo para el secuestro de carbono, variables y determinantes para el uso de emisiones zonales en procesos de recobro mejorado."
+    },
+    {
+      "nombre": "Línea Hidrógeno",
+      "modalidad": "2",
+      "descripcion_corta": "Potencialidad de generación in-situ de H2 a partir de la reducción de quemas, venteos y emisiones fugitivas de CH4."
+    },
+    {
+      "nombre": "Identificación de oportunidades exploratorias para hidrocarburos en cuencas frontera",
+      "modalidad": "3",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Identificación del potencial de Yacimientos No Convencionales (especialmente shale gas) en cuencas frontera y cuencas poco exploradas en términos de YNC",
+      "modalidad": "3",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Definición de trampas, reservorios y roca fuente para hidrocarburos en las cuencas Frontera tanto onshore, como offshore de Colombia",
+      "modalidad": "3",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Mejoramiento de datos sísmicos con algoritmos de alta tecnología, conducentes a resolver geometrías complejas del subsuelo, en cuencas frontera",
+      "modalidad": "3",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Identificación de oportunidades exploratorias en cuencas Frontera, usando técnicas como análisis de datos, inteligencia artificial y/o Machine Learning, entre otras",
+      "modalidad": "3",
+      "descripcion_corta": null
+    }
+  ],
+  "requisitos": [],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [],
+  "financiacion": null,
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 484,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 341,
+          "completion_tokens": 195
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4886,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1627,
+          "completion_tokens": 929
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4450,
+          "completion_tokens": 2565
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "error": "seccion_ausente"
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "error": "seccion_ausente"
+      },
+      "criterios": {
+        "clave": "criterios",
+        "error": "seccion_ausente"
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "puede_sola_o_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES)",
+          "rol": "integrante de alianza estratégica",
+          "condicion": null
+        },
+        {
+          "tipo": "Instituciones de Educación Superior o Centros de Investigación o Desarrollo Tecnológico o Innovación internacionales",
+          "rol": "entidades colaboradoras",
+          "condicion": null
+        },
+        {
+          "tipo": "Actores del Sistema Nacional de CTeI o entidades del Estado o Instituciones de Educación Superior (IES)",
+          "rol": "proponente (modalidad 3)",
+          "condicion": "que cuenten con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH"
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "que cuenten con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "elegible_con_condiciones",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse a la convocatoria. Sin embargo, debe verificar que cuenta con grupos de investigación reconocidos por Minciencias que estén interesados en las temáticas de hidrocarburos y cuencas sedimentarias, condición necesaria para actuar como proponente o ejecutora. Puede participar en alianza estratégica sin esta condición, pero el rol sugerido es ejecutora."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse a la convocatoria. Sin embargo, debe verificar que cuenta con grupos de investigación reconocidos por Minciencias que estén interesados en las temáticas de hidrocarburos y cuencas sedimentarias, condición necesaria para actuar como proponente o ejecutora. Puede participar en alianza estratégica sin esta condición, pero el rol sugerido es ejecutora.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

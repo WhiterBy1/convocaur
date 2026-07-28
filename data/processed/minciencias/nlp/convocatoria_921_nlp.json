@@ -1,0 +1,311 @@
+{
+  "convocatoria": "921",
+  "objetivo": "Fortalecer las capacidades relacionadas con la gestión editorial, la visibilidad y el impacto en su gran área de conocimiento de las revistas científicas colombianas indexadas para el año 2022 en Publindex, editadas por al menos una institución editora nacional.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de educación superior (públicas o privadas)",
+      "rol": "institución editora",
+      "condicion": "Con personería jurídica nacional, que avalen o cuenten con revistas científicas especializadas indexadas en categoría B (cuartil 1 del H5 según convocatoria 910 de 2021)"
+    },
+    {
+      "tipo": "Otras entidades que actúen como instituciones editoras colombianas",
+      "rol": "institución editora",
+      "condicion": "Registradas en el ISSN otorgado por la Biblioteca Nacional, con personería jurídica nacional, que avalen o cuenten con revistas científicas especializadas indexadas en categoría B (cuartil 1 del H5 según convocatoria 910 de 2021)"
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [],
+  "requisitos": [
+    {
+      "texto": "Registro de la propuesta de fortalecimiento institucional en el aplicativo SIGP (https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/faces/proyecto/invitacionEspecial.xhtml)",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de aval institucional en el formato correspondiente (anexo 2) por parte de las Instituciones editoras colombianas con personería jurídica nacional comprometiendo una contrapartida al menos del 30% en especie o efectivo del valor total de la propuesta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del numeral 3 - “Dirigida A” definidas en los presentes términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las revistas participantes deben tener la información completamente diligenciada, actualizada y vinculada en el aplicativo Publindex (plataforma ScienTI -Colombia: https://scienti.minciencias.gov.co/publindex/), teniendo como plazo máximo, la fecha y hora de cierre establecida en el cronograma.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar el Pre-evaluation of Scopus submission - https://www.readyforscopus.com/, presentar tracking id (Código de rastreo) y obtener como mínimo el 70% (adjuntar reporte), para revistas no aceptadas en Scopus, o carta de aceptación en el índice bibliográfico citacional Scopus o WOS - JCR.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estar admitida en uno de los 54 SIRES (reconocidos por Minciencias y listados en el anexo N° 3 de los presentes términos de referencia).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la simulación del citescore de Scopus a diciembre del año 2021. https://www.scopus.com/sources",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribirse en el plazo fijado, de acuerdo con las fechas y horas establecidas en numeral “13. CRONOGRAMA” de los presentes términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener un código International Standard Serial Number / Número Internacional Normalizado de Publicaciones Seriadas asignado por una institución diferente al Centro Nacional de ISSN.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán participar en la presente Convocatoria revistas con denuncias de control social, en proceso de evaluación, canceladas o descontinuadas en los índices Bibliográficos Citacionales (WOS - JCR o SCOPUS) o en los Sistemas de Indexación y Resumen- SIR a la fecha de cierre de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuestas presentadas por otro medio diferente al definido en el numeral 4 de estos términos de referencia no serán tomadas en cuenta.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuestas presentadas sin la carta de aval o sin expresar en esta carta su compromiso de contrapartida no serán tomadas en cuenta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuestas cuyo presupuesto solicitado excede el tope establecido.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuesta cuyos rubros presupuestales no se ajustan a los rubros financiables establecidos en el numeral 6 de los presentes términos de referencia.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Experiencia del equipo ejecutor del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Personas con experiencia certificada en gestión editorial, desarrollo de proyectos de fortalecimiento de revistas científicas, cienciometría, bibliometría o diseño de métricas para revistas científicas."
+    },
+    {
+      "nombre": "Índice H del equipo editorial o científico",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "50% (o más) del equipo editorial o científico debe tener Índice H (WOS/SCOPUS) igual o mayor a 10 (recibe 15 puntos) o mayor a 5 y menor que 10 (recibe 10 puntos)."
+    },
+    {
+      "nombre": "Editores con proceso exitoso de indexación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Dentro del equipo proponente se debe contar con editores que demuestren proceso exitoso de indexación de revistas en los índices citacionales WOS/SCOPUS en los últimos 3 años."
+    },
+    {
+      "nombre": "Currículo el editor",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Haber cursado y aprobado los tres niveles del programa de 'Currículo el editor' de Minciencias y contar con un plan de mejoramiento como resultado del proceso de formación."
+    },
+    {
+      "nombre": "Formación de doctorado culminada",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "50% del equipo proponente debe contar con una formación de doctorado culminada."
+    },
+    {
+      "nombre": "Articulación y Coherencia",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Articulación y Coherencia entre el problema o necesidad a resolver con los objetivos y el diseño metodológico de la propuesta, la justificación de la necesidad de la ejecución en concordancia con el direccionamiento estratégico y las políticas nacionales de CTeI y las responsabilidades del equipo ejecutor."
+    },
+    {
+      "nombre": "Ready for Scopus o carta de aceptación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Contar con una evaluación en el Ready for Scopus igual o mayor al 80% o carta de aceptación en Scopus o en WOS-JCR."
+    },
+    {
+      "nombre": "Citescore superior a Q4",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Contar con un Citescore que se ubique en un rango superior al Q4 de SCOPUS en algunas de las áreas de conocimiento de la revista."
+    },
+    {
+      "nombre": "Concordancia presupuestal",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Concordancia entre el presupuesto total, las actividades y los productos; además de la justificación adecuada de rubros, cantidades y montos solicitados con los objetivos, la metodología y la duración del proyecto."
+    },
+    {
+      "nombre": "Afiliación internacional del comité editorial y autores",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "El 80% de los miembros del comité editorial y científico tengan afiliación internacional y al menos el 40% de los autores en los últimos tres números."
+    },
+    {
+      "nombre": "Metas de indexación",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Alcance en cuanto a las metas para indexar las revistas (El desarrollo del proyecto traerá como resultado la inclusión de la(s) revista(s) en los IBC en los cuartiles 1, 2, 3 o 4)."
+    },
+    {
+      "nombre": "Compromiso de sostenibilidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Se evidencia un que existe un compromiso de sostenibilidad en el mediano y largo plazo de los resultados o entregables de la estrategia de fortalecimiento."
+    },
+    {
+      "nombre": "Estrategia de divulgación",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto plantea una estrategia clara de divulgación de los resultados previstos, con el fin de que la sociedad reconozca el aporte como institución para promover la visibilidad de las publicaciones del país."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "MIL SETECIENTOS SETENTA Y CINCO MILLONES QUINIENTOS NOVENTA Y NUEVE MIL CUATROCIENTOS OCHENTA PESOS ($1.775.599.480) M/CTE",
+    "monto_total_cop": 1775599480.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 18,
+    "contrapartida_pct_min": 30.0,
+    "contrapartida_pct_max": 30.0,
+    "fuente_recursos": "Minciencias",
+    "notas": "La propuesta no podrá ser financiada simultáneamente por otra convocatoria; el presupuesto para personal no excede el 60% del monto solicitado a Minciencias; los Centros Autónomos o Institutos Públicos de Investigación reconocidos por Minciencias no están obligados a contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1194,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 509,
+          "completion_tokens": 67
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 659,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 504,
+          "completion_tokens": 218
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "error": "seccion_ausente"
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3494,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1313,
+          "completion_tokens": 2342
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3573,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1484,
+          "completion_tokens": 914
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3592,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1331,
+          "completion_tokens": 6522
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "elegible_alianza_indefinida",
+      "rol_sugerido": "institución editora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) aparece como elegible; no esta claro si la alianza es obligatoria.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de educación superior (públicas o privadas)",
+          "rol": "institución editora",
+          "condicion": "Con personería jurídica nacional, que avalen o cuenten con revistas científicas especializadas indexadas en categoría B (cuartil 1 del H5 según convocatoria 910 de 2021)"
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Con personería jurídica nacional, que avalen o cuenten con revistas científicas especializadas indexadas en categoría B (cuartil 1 del H5 según convocatoria 910 de 2021)",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Contar con al menos una revista científica indexada en categoría B (cuartil 1 del H5 según convocatoria 910 de 2021) en Publindex",
+          "Acreditar personería jurídica nacional",
+          "Presentar carta de aval institucional comprometiendo contrapartida mínima del 30%",
+          "Las revistas participantes deben tener información actualizada en Publindex",
+          "Cumplir con requisitos técnicos de Scopus/WoS y SIRES según corresponda"
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con sede en Bogotá y acreditación institucional. Puede postularse como institución editora en alianza, siempre que cumpla con los requisitos de indexación de revistas y contrapartida."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con al menos una revista científica indexada en categoría B (cuartil 1 del H5 según convocatoria 910 de 2021) en Publindex",
+        "Acreditar personería jurídica nacional",
+        "Presentar carta de aval institucional comprometiendo contrapartida mínima del 30%",
+        "Las revistas participantes deben tener información actualizada en Publindex",
+        "Cumplir con requisitos técnicos de Scopus/WoS y SIRES según corresponda"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con sede en Bogotá y acreditación institucional. Puede postularse como institución editora en alianza, siempre que cumpla con los requisitos de indexación de revistas y contrapartida.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

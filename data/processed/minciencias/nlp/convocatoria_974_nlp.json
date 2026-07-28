@@ -1,0 +1,296 @@
+{
+  "convocatoria": "974",
+  "objetivo": "Fortalecer la formación de capital humano de alto nivel, mediante el otorgamiento de apoyos económicos a profesionales universitarios colombianos con lugar de nacimiento en los municipios de la Región Pacífico6 señalados en el dirigido a, interesados en cursar un programa de maestría o doctorado en la Universidad Santiago de Cali - USC, a través de la conformación de un banco de candidatos(as) elegibles.",
+  "actores_elegibles": [
+    {
+      "tipo": "Profesional universitario (Maestría)",
+      "rol": null,
+      "condicion": "Nacido en alguno de los municipios de la Región Pacífico listados en la Tabla 1 (Cauca, Chocó, Nariño, Valle del Cauca) y que inicie estudios de maestría en la Universidad Santiago de Cali - USC."
+    },
+    {
+      "tipo": "Profesional universitario (Doctorado)",
+      "rol": null,
+      "condicion": "Nacido en alguno de los 64 municipios del departamento de Nariño, con título de maestría, y que inicie estudios de doctorado en la Universidad Santiago de Cali - USC."
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Bioeconomía y territorio",
+      "modalidad": null,
+      "descripcion_corta": "Potenciar el desarrollo territorial sostenible mediante el conocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos."
+    },
+    {
+      "nombre": "Derecho humano a la alimentación",
+      "modalidad": null,
+      "descripcion_corta": "Producir y disponer alimentos y agua de manera eficiente, soberana, autónoma y equitativa, por medio de la investigación y la innovación."
+    },
+    {
+      "nombre": "Transición energética",
+      "modalidad": null,
+      "descripcion_corta": "Garantizar el acceso y uso de energías seguras y sostenibles para todos los colombianos, a través del desarrollo, adopción y adaptación de tecnologías para la transición energética."
+    },
+    {
+      "nombre": "Soberanía sanitaria",
+      "modalidad": null,
+      "descripcion_corta": "Garantizar la disponibilidad de conocimiento, tecnologías y servicios innovadores para la salud y el bienestar de toda la población colombiana."
+    },
+    {
+      "nombre": "Ciencia para la paz",
+      "modalidad": null,
+      "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia y comprender las diversas causas de violencia como base para construir soluciones tecnológicas y sociales que fomenten y fortalezcan la convivencia pacífica en condiciones de equidad y justicia social."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir, finalizar y radicar la inscripción de la propuesta en el SIGP",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3. DIRIGIDO A",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar copia legible de la cédula de ciudadanía por ambas caras",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar Anexo 1. Carta de compromiso, conocimiento y aceptación debidamente diligenciada y firmada",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar Anexo 2. Propuesta de Investigación, Desarrollo Tecnológico y/o Innovación en formato PDF",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar Anexo 3 debidamente diligenciado y firmado; si aplica experiencia laboral, adjuntar certificaciones en un único PDF",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para docentes activos de educación pública, adjuntar certificado laboral expedido por secretaría de educación municipal o departamental con fecha a partir del 1 de enero de 2026",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Modalidad 1 Maestría: Adjuntar diploma/acta de grado del pregrado o certificado de culminación de estudios",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Modalidad 2 Doctorado: Adjuntar diploma/acta de grado de pregrado y maestría, o certificado de culminación de maestría",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Doctorado en Ciencias de la Salud: acreditar título de Maestría en investigación o especialización médico quirúrgica, o maestría en profundización con experiencia en investigación aplicada, y adjuntar Tarjeta Profesional vigente",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Modalidad 1 Maestría: Adjuntar certificado de notas del pregrado con promedio mínimo de 3.0",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Modalidad 2 Doctorado: Adjuntar certificado de notas de la maestría con promedio mínimo de 3.0 (3.8 para Doctorado en Ciencias Aplicadas)",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial (opcional): Adjuntar documentación según categorías de la Tabla No. 2 para optar por puntos adicionales",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Si algún documento está en idioma diferente al español, adjuntar traducción oficial al español en un único PDF con el original",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Durante la subsanación no se podrá modificar la información registrada en el formulario SIGP concerniente al candidato, título de la propuesta y Área OCDE (Anexo 4)",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa de Formación de Alto Nivel a través del Ministerio de Ciencia, Tecnología e Innovación, Colfuturo, Fulbright o convocatorias financiadas por el Sistema General de Regalías o el ICETEX, a la fecha de apertura de la convocatoria."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos, o no cargar uno o más documentos o certificados exigidos en los requisitos."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.Aporte técnico y científico de la propuesta.",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Calidad y articulación entre el programa de formación de alto nivel y las Políticas de Investigación e Innovación Orientadas por Misiones."
+    },
+    {
+      "nombre": "2. Aporte a la generación de soluciones para los desafíos socioterritoriales basados en ciencia, tecnología e innovación.",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Valoración de los impactos esperados sobre los desafíos socioterritoriales de la propuesta."
+    },
+    {
+      "nombre": "3. Promedio Académico del/la candidato(a).",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Promedio académico del candidato, con escala de 0.0 a 5.0, mínimo 3.0."
+    },
+    {
+      "nombre": "4. Experiencia del Candidato (Ver Anexo 3)",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia profesional y docente del candidato. La experiencia profesional se evalúa en años desde la obtención del título; la experiencia docente se evalúa si es docente activo en institución educativa pública de preescolar, básica y media."
+    },
+    {
+      "nombre": "5. Enfoque diferencial",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Acreditación de al menos una categoría de enfoque diferencial según la Tabla No. 2."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CINCUENTA Y CINCO MIL CIENTO CINCUENTA Y DOS MILLONES OCHOCIENTOS CUARENTA Y UN MIL DOSCIENTOS OCHO PESOS M/CTE ($55.152.841.208)",
+    "monto_total_cop": 55152841208.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Recursos del presupuesto nacional de 2026, CDR Global No. 20727, 20731, 20733, 20734, 20735, programa 'Becas para el cambio' del Ministerio de Ciencia, Tecnología e Innovación.",
+    "notas": "Los recursos disponibles incluyen costos de administración, seguimiento y supervisión. Los apoyos económicos individuales para maestría (hasta 2 años) y doctorado (hasta 4 años) se detallan en rubros de matrícula, sostenimiento y proyecto de investigación."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 503,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 441,
+          "completion_tokens": 1303
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2945,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1349,
+          "completion_tokens": 462
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2551,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 935,
+          "completion_tokens": 751
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9964,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3035,
+          "completion_tokens": 2719
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1967,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 776,
+          "completion_tokens": 315
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6947,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2504,
+          "completion_tokens": 1356
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6647,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2371,
+          "completion_tokens": 4802
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible; solo profesionales universitarios con lugar de nacimiento en la Región Pacífico y que inicien estudios en la Universidad Santiago de Cali."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a profesionales universitarios nacidos en municipios de la Región Pacífico que cursen maestría o doctorado en la Universidad Santiago de Cali. Las IES no figuran como actores elegibles."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo profesionales universitarios con lugar de nacimiento en la Región Pacífico y que inicien estudios en la Universidad Santiago de Cali."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a profesionales universitarios nacidos en municipios de la Región Pacífico que cursen maestría o doctorado en la Universidad Santiago de Cali. Las IES no figuran como actores elegibles.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

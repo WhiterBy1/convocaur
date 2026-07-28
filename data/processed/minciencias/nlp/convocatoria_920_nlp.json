@@ -1,0 +1,324 @@
+{
+  "convocatoria": "920",
+  "objetivo": "Fortalecer las capacidades nacionales y la generación de conocimiento a partir de acciones efectivas y estrategias integrales para la prevención, detección temprana, tratamiento y rehabilitación integral del cáncer, con enfoque diferencial, derivados de programas de CTeI ejecutados por Alianzas intersectoriales; que generen evidencia y conocimiento pertinente, que respondan a los retos de esta problemática nacional, con resultados perdurables y sostenibles en el tiempo.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior",
+      "rol": "Ejecutor o coejecutor",
+      "condicion": "Debe participar a través de grupos de investigación reconocidos por Minciencias (convocatoria 833-2018) y categorizados A1, A o B."
+    },
+    {
+      "tipo": "Institutos / Centros de Investigación y Centros de Desarrollo Tecnológico con reconocimiento vigente por el Ministerio de Ciencia, Tecnología e Innovación",
+      "rol": "Ejecutor o coejecutor",
+      "condicion": "Debe contar con reconocimiento vigente y participan a través de grupos de investigación categorizados A1, A o B."
+    },
+    {
+      "tipo": "Instituciones Prestadoras de Servicios de Salud-IPS (Privadas y Empresas Sociales del Estado (ESEs))",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Direcciones Territoriales de Salud – Secretarías de Salud Departamentales y Municipales",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Centros de Investigación nacionales o internacionales de biotecnología o bioinformática",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Centros de Investigación Clínica",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Sector productivo",
+      "rol": "Coejecutor o colaborador",
+      "condicion": "Debe ser persona jurídica pública o privada nacional o extranjera legalmente constituida con domicilio en Colombia como mínimo dos años antes de la fecha de cierre de la convocatoria."
+    },
+    {
+      "tipo": "Otros actores del SNCTI (que no pertenezcan al Grupo 1 o Grupo 2)",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Organizaciones sociales y comunitarias",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Instituciones públicas",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Sociedades científicas y agremiaciones de profesionales",
+      "rol": "Coejecutor o colaborador",
+      "condicion": null
+    },
+    {
+      "tipo": "Centros de investigación o desarrollo tecnológico no reconocidos por el Ministerio de Ciencia, Tecnología e Innovación",
+      "rol": "Colaborador",
+      "condicion": "No recibe financiación de la convocatoria ni aporta contrapartida."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Prevención y detección temprana",
+      "modalidad": null,
+      "descripcion_corta": "Control de riesgos (tabaco, ocupacionales, radiación solar, VPH) y estrategias para acceso a detección temprana en zonas urbanas, rurales y dispersas."
+    },
+    {
+      "nombre": "Tratamiento y rehabilitación integral",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollo de capacidades para atención integral, medicina traslacional/personalizada, cuidado paliativo, apoyo a cuidadores y servicios de apoyo social."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con las especificaciones del numeral 3 'Dirigida A'.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cada programa debe contar con mínimo dos (2) proyectos asociados.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta a través del Sistema Integral de Gestión de Proyectos – SIGP, en una única temática de las establecidas en el numeral 4.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta unificada de aval y compromiso institucional firmada por los Representantes Legales de las entidades ejecutoras y coejecutoras, con contrapartida mínima del 30% del valor total (en efectivo o especie).",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Evidenciar que las entidades del sector productivo hayan sido constituidas como mínimo hace dos (2) años (registro mercantil o acto administrativo).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades del sector productivo no deben estar en proceso de liquidación; presentar certificados de contador o revisor fiscal. Si son extranjeras, demostrar sucursal en Colombia.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El director del programa debe estar categorizado como Sénior, Asociado (convocatoria 833-2018) o Emérito, vinculado a la entidad ejecutora y adscrito a un grupo de investigación A1, A o B proponente.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar aval del Comité de Ética/Bioética nacional que indique revisión integral del programa y proyectos, junto con el acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias del trámite o existencia de permisos y licencias necesarios para la ejecución de la propuesta.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con todos los requisitos y lineamientos establecidos en los Términos de Referencia; subsanar dentro de los plazos si es necesario.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El director del programa no debe presentarse con el mismo rol en más de una propuesta en esta convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad establecidas por ley o impedimento legal para contratar.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El programa presentado no podrá ser financiado simultáneamente por otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación u otras entidades del Estado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad del programa (calidad técnica, coherencia técnica-presupuestal, viabilidad)",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Relevancia y pertinencia en salud pública e investigación biomédica",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Resultados y productos esperados y mecanismos de transferencia y apropiación social",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Conformación y articulación de la alianza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Enfoque por curso de vida, género, diferencial poblacional – territorial, interseccionalidad",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "ONCE MIL DOSCIENTOS CINCUENTA MILLONES DE PESOS ($11.250.000.000)",
+    "monto_total_cop": 11250000000.0,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": 30.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "Los centros de investigación autónomos no están obligados a contrapartida; otras entidades deben aportar mínimo 30%. Se permite hasta 15% de costos de administración para centros autónomos. No puede ser financiado simultáneamente por otra convocatoria."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2175,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 830,
+          "completion_tokens": 113
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5826,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2005,
+          "completion_tokens": 5589
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3905,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1380,
+          "completion_tokens": 463
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6885,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2251,
+          "completion_tokens": 1880
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "error": "seccion_ausente"
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3801,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1515,
+          "completion_tokens": 785
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 667,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 483,
+          "completion_tokens": 545
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior",
+          "rol": "Ejecutor o coejecutor",
+          "condicion": "Debe participar a través de grupos de investigación reconocidos por Minciencias (convocatoria 833-2018) y categorizados A1, A o B."
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Debe participar a través de grupos de investigación reconocidos por Minciencias (convocatoria 833-2018) y categorizados A1, A o B.",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Participar a través de grupos de investigación reconocidos por Minciencias (convocatoria 833-2018) y categorizados A1, A o B.",
+          "El director del programa debe estar categorizado como Sénior, Asociado o Emérito, vinculado a la entidad ejecutora y adscrito a un grupo de investigación A1, A o B proponente.",
+          "Presentar carta unificada de aval y compromiso institucional con contrapartida mínima del 30% del valor total.",
+          "Presentar aval del Comité de Ética/Bioética nacional."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza como entidad ejecutora. Debe verificar que participa con grupos de investigación categorizados A1, A o B y que el director del programa cumple con la categorización requerida. La alianza es obligatoria y debe cumplir con los requisitos de contrapartida y aval ético."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Participar a través de grupos de investigación reconocidos por Minciencias (convocatoria 833-2018) y categorizados A1, A o B.",
+        "El director del programa debe estar categorizado como Sénior, Asociado o Emérito, vinculado a la entidad ejecutora y adscrito a un grupo de investigación A1, A o B proponente.",
+        "Presentar carta unificada de aval y compromiso institucional con contrapartida mínima del 30% del valor total.",
+        "Presentar aval del Comité de Ética/Bioética nacional."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza como entidad ejecutora. Debe verificar que participa con grupos de investigación categorizados A1, A o B y que el director del programa cumple con la categorización requerida. La alianza es obligatoria y debe cumplir con los requisitos de contrapartida y aval ético.",
+      "fuente": "reglas+llm"
+    }
+  }
+}
