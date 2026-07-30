@@ -2,17 +2,24 @@
   "archivo": "convocatoria_1044_tdr.pdf",
   "convocatoria": "1044",
   "n_paginas": 12,
-  "n_caracteres_total": 11,
+  "n_caracteres_total": 33575,
   "toc_detectado": [],
   "n_secciones_toc": 0,
-  "n_secciones_cuerpo": 0,
-  "fingerprint": "",
-  "titulos_norm": [],
+  "n_secciones_cuerpo": 6,
+  "fingerprint": "1.CRITERIOS DE EVALUACION DE LA PROPUESTA > 8.PLAZO O DURACION > 9.VALOR O COSTO > 12.CRONOGRAMA > 13.RECEPCION DE LA PROPUESTA > 14.RECEPCION DE INQUIETUDES SOLICITUDES DE ACLARACION",
+  "titulos_norm": [
+    "CRITERIOS DE EVALUACION DE LA PROPUESTA",
+    "PLAZO O DURACION",
+    "VALOR O COSTO",
+    "CRONOGRAMA",
+    "RECEPCION DE LA PROPUESTA",
+    "RECEPCION DE INQUIETUDES SOLICITUDES DE ACLARACION"
+  ],
   "comparacion_plantilla_sgr": {
-    "n_en_doc": 0,
+    "n_en_doc": 6,
     "n_plantilla": 21,
     "coinciden_exacto": false,
-    "cobertura_plantilla": 0.0,
+    "cobertura_plantilla": 0.048,
     "faltan_vs_plantilla": [
       "PRESENTACION",
       "OBJETIVO",
@@ -33,10 +40,58 @@
       "LISTADO DE ELEGIBLES",
       "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
       "VIGILANCIA DE LOS PROYECTOS",
-      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
-      "CRONOGRAMA"
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
     ],
-    "extra_vs_plantilla": []
+    "extra_vs_plantilla": [
+      "CRITERIOS DE EVALUACION DE LA PROPUESTA",
+      "PLAZO O DURACION",
+      "VALOR O COSTO",
+      "RECEPCION DE LA PROPUESTA",
+      "RECEPCION DE INQUIETUDES SOLICITUDES DE ACLARACION"
+    ]
   },
-  "secciones": []
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "CRITERIOS DE EVALUACIÓN DE LA PROPUESTA",
+      "titulo_norm": "CRITERIOS DE EVALUACION DE LA PROPUESTA",
+      "texto": "Las propuestas inscritas dentro de los plazos establecidos para la presente invitación y que cumplan con la totalidad de los requisitos mínimos se someterán a los siguientes criterios de evaluación:\n\n\\begin{tabular}{cc}\n**CRITERIOS** & **PONDERACIÓN** \\\\\n1. Calidad de la propuesta & 30% \\\\\n2. Equipo técnico & 25% \\\\\n\\end{tabular}\n\nhttps://uis.edu.co/wp-content/uploads/2022/07/Documento-Final-Mision-de-Sabios-%C2%A8Colombia-hacia-una-sociedad-de- conocimiento%C2%A8.pdf\nAv. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia www.minciencias.gov.co\nCódigo: M801PR05MO1\nVersión: 02\nVigente desde 2021-12-06 Página 8 de 12\nMINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN\n3. Productos esperados & 20%\n4. Propuesta económica & 10%\n5. Productos y documentos adicionales a los establecidos en el anexo 1 & 15%\nTOTAL & 100%\nLa descripción de cada criterio es la siguiente:\nCRITERIOS DE EVALUACIÓN & TABLA DE PUNTUACIÓN\nPuntaje parcial & Puntaje máximo\nCalidad de la propuesta\nCoherencia interna de la propuesta: Relación lógica entre objetivos, actividades, recursos, cronograma, resultados esperados y productos. Ajuste de la propuesta a los lineamientos mínimos establecidos en el anexo 1 & 10 & 30\nClaridad de los elementos conceptuales planteados como base para abordar el estudio & 10 & 30\nClaridad de la propuesta metodológica diseñada para el logro de los objetivos. & 10 & 30\nEquipo Técnico & Puntaje parcial & Puntaje máximo\nExperiencia del Director\nExperiencia profesional mínima de (5) cinco años en la dirección y/o coordinación de:\nEstudios y/o consultorías y/o investigaciones.\nDiseño y/o implementación de políticas.\nDiseño de programas y/o proyectos de impacto en ciencia, tecnología e innovación & 10 & 25\nExperiencia del equipo en formulación o evaluación de políticas públicas o implementación de planes, programas y proyectos de ciencia, tecnología e innovación & 10 & 25\nExperiencia administrativa de la(s) entidad(es) proponente(s), asociada con el tiempo de constitución y contratos suscritos, ejecutados y terminados, junto con & 5 & 25\nhttps://uis.edu.co/wp-content/uploads/2022/07/Documento-Final-Mision-de-Sabios-%C2%A8Colombia-hacia-una-sociedad-de-conocimiento%C2%A88.pdf\nAv. Calle 26 # 57 - 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia www.minciencias.gov.co\nCódigo: M801PR05MO1\nVersión: 02\nVigente desde 2021-12-06\nPágina 9 de 12\nMINISTERIO DE CIENCIA,\nTECNOLOGÍA E INNOVACIÓN\n\nla respectiva certificación de cumplimiento, cuyo objeto se relacione con la temática de la invitación.\n\nProductos esperados & Puntaje parcial & Puntaje máximo\nDefinición clara y verificable de los productos de la propuesta. Ajuste a los entregables de acuerdo con el anexo 1 Relación actividades, productos y documentos a entregar. & 20 & 20\nPropuesta económica & Puntaje parcial & Puntaje máximo\nValor de la oferta. Concordancia entre el presupuesto total, las actividades y los objetivos planteados del desarrollo de la propuesta. Se evaluará la coherencia entre objetivos y productos esperados, además de la justificación adecuada de rubros, cantidades y montos solicitados con los objetivos, la metodología y la duración del proyecto. & 10 & 10\nValor agregado & Puntaje parcial & Puntaje máximo\nValor agregado u ofrecimientos para la ejecución del proyecto en cuanto a productos, entregables, análisis adicionales que no estén contemplados dentro de la invitación. & 15 & 15\nDescribir claramente el valor agregado de la propuesta con respecto a los términos de la invitación y sus respectivos anexos.",
+      "n_caracteres": 3661
+    },
+    {
+      "numero": 8,
+      "titulo": "PLAZO O DURACIÓN",
+      "titulo_norm": "PLAZO O DURACION",
+      "texto": "El tiempo previsto para la ejecución del proyecto será hasta de seis (6) meses contados a partir de la fecha de la legalización del contrato.",
+      "n_caracteres": 141
+    },
+    {
+      "numero": 9,
+      "titulo": "VALOR O COSTO",
+      "titulo_norm": "VALOR O COSTO",
+      "texto": "La disponibilidad de recurso de la presente invitación es de QUINIENTOS MILLONES DE PESOS M/CTE ($500.000.000) de acuerdo con el CDR global No. 17555, Convenio No.294-2022 suscrito con el Fondo Francisco José de Caldas y distribuidos de la siguiente manera\nPara el desarrollo de la propuesta se dispone de recursos de hasta por CUATROCIENTOS NOVENTA MILLONES DE PESOS M/Cte. ($490.000.000), incluido el valor del IVA y demás impuestos.\n\nhttps://uis.edu.co/wp-content/uploads/2022/07/Documento-Final-Mision-de-Sabios-%C2%A8Colombia-hacia-una-sociedad-de-conocimiento%C2%A8A8.pdf\nAv. Calle 26 # 57 - 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nwww.minciencias.gov.co\nCódigo: M801PR05M01\nVersión: 02\nVigente desde 2021-12-06\nPágina 10 de 12\nMINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN\n\nPara el proceso de evaluación se destinarán DIEZ MILLONES DE PESOS M/CTE ($10.000.000)\n\nNota: La entidad que sea seleccionada, deberá tener en cuenta, la constitución a su costo de las siguientes pólizas:\n\na) CUMPLIMIENTO: por una cuantía equivalente al veinte por ciento (20%) del valor del contrato, y con vigencia igual al plazo del contrato y doce (12) meses más. La garantía única de cumplimiento respectiva que para el efecto expida la compañía aseguradora, deberá ser entregada dentro de los tres (3) días hábiles siguientes a la fecha de suscripción del presente contrato, debidamente firmada, junto con el recibo de pago de esta, expedido por la aseguradora.\n\nEn caso de que se prorrogue el plazo de ejecución del presente contrato o se adicione el valor, LA ENTIDAD EJECUTORA se compromete a presentar el certificado de modificación de las garantías de conformidad con el nuevo plazo y/o valor pactado. La ENTIDAD EJECUTORA deberá mantener la garantía vigente durante el plazo de ejecución del contrato y deberán pagar las primas y cualquier otra expensa necesaria para constituirla, mantenerla, prorrogarla o adicionarla.\n\nb) SALARIOS, PRESTACIONES SOCIALES E INDEMNIZACIONES: Garantizar el pago de salarios, prestaciones sociales e indemnizaciones de orden laboral del personal empleado por EL CONTRATISTA para el desarrollo del objeto del contrato, por valor equivalente al diez por ciento (10%) del valor del contrato, con una vigencia igual al término de duración de este y tres (3) años más.",
+      "n_caracteres": 2366
+    },
+    {
+      "numero": 12,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "Para la presente invitación a presentar propuesta se tiene el siguiente cronograma\n\n\\begin{tabular}{cc}\n**Actividad** & **Fecha** \\\\\nApertura de la invitación & 11 de noviembre de 2022 \\\\\nCierre recepción de inquietudes o solicitudes de aclaración & 13 de enero de 202, hasta las 4:00 pm \\\\\nRespuesta a inquietudes o solicitudes de aclaración & 16 de enero de 2023 \\\\\nCierre de recepción de propuestas & 20 de enero de 2023, hasta las 4:00 p.m. \\\\\nSelección de la propuesta a financiar & 08 de febrero de 2023 \\\\\nNotificación al proponente seleccionado & 17 de febrero 2023 \\\\\n\\end{tabular}\n\nhttps://uis.edu.co/wp-content/uploads/2022/07/Documento-Final-Mision-de-Sabios-%C2%A8Colombia-hacia-una-sociedad-de- conocimiento%C2%A8.pdf\n\nAv. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia www.minciencias.gov.co\n\nCódigo: M801PR05MO1\nVersión: 02\nVigente desde 2021-12-06 Página 11 de 12",
+      "n_caracteres": 965
+    },
+    {
+      "numero": 13,
+      "titulo": "RECEPCIÓN DE LA PROPUESTA",
+      "titulo_norm": "RECEPCION DE LA PROPUESTA",
+      "texto": "La propuesta deberá presentarse exclusivamente a través del formulario electrónico que se encuentra disponible en el enlace https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/?faces-redirect=true, a más tardar el 20 de enero de 2023 antes de las: 4.00 p.m., escrita en idioma español y con cifras en pesos colombianos. El detalle del registro en SIGP se encuentra en el Anexo 1.\n\nNota 1: Toda propuesta que se presente por fuera de las fechas, horas y canales indicados en los términos de esta invitación se entenderán extemporáneas, y por lo tanto no serán evaluadas.\nNota 2: Esta invitación no genera obligatoriedad alguna para Ministerio de Ciencia, Tecnología e Innovación de suscribir contrato, o de entregar información referente al proceso interno que se está adelantando y conforme al cual el Ministerio de Ciencia, Tecnología e Innovación en su desarrollo está obligado a garantizar el mérito, calidad e idoneidad.",
+      "n_caracteres": 939
+    },
+    {
+      "numero": 14,
+      "titulo": "RECEPCIÓN DE INQUIETUDES / SOLICITUDES DE ACLARACIÓN",
+      "titulo_norm": "RECEPCION DE INQUIETUDES SOLICITUDES DE ACLARACION",
+      "texto": "En caso de presentarse inquietudes sobre las condiciones de la presente invitación, estas serán recibidas hasta el 13 de enero de 2023, únicamente a través del correo electrónico atencionalciudadano@minciencias.gov.co y serán atendidas hasta el día 16 de enero de 2023.\n\nDOCUMENTOS TÉCNICOS DE REFERENCIA PARA LA PRESENTACIÓN DE LA PROPUESTA\n1. Especificaciones de las condiciones técnicas. (Anexo 1)\n2. Relación entre objetivos, resultados y documentos a entregar. (Anexo2)\n3. Modelo Carta Aval Institucional (Anexo 3)\n\nCordialmente,\n\nSERGIO CRISTANCHO MARULANDA\nViceministro de Conocimiento, Innovación y Productividad\n\nElaboró: Angélica Saenz Cardoso / Dirección de Ciencia\nItala Caiafa Hernández / Dirección de Ciencia\nJorge Valencia / Despacho del Ministro\nCarolina Soto / Dirección de Gestión de Recursos\nRevisó: Argiro Ramírez Aristizábal / Director de Ciencia ( E )\n\nhttps://uis.edu.co/wp-content/uploads/2022/07/Documento-Final-Mision-de-Sabios-%C2%A8Colombia-hacia-una-sociedad-de-conocimiento%C2%A8A8.pdf\n\nAv. Calle 26 # 57 - 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia www.minciencias.gov.co\n\nCódigo: M801PR05MO1\nVersión: 02\nVigente desde 2021-12-06\nPágina 12 de 12",
+      "n_caracteres": 1250
+    }
+  ]
 }

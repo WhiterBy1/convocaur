@@ -2,22 +2,176 @@
   "archivo": "convocatoria_30_tdr.pdf",
   "convocatoria": "30",
   "n_paginas": 20,
-  "n_caracteres_total": 67981,
-  "toc_detectado": [],
-  "n_secciones_toc": 0,
-  "n_secciones_cuerpo": 0,
-  "fingerprint": "",
-  "titulos_norm": [],
+  "n_caracteres_total": 66293,
+  "toc_detectado": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "pagina_toc": 1
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVOS",
+      "titulo_norm": "OBJETIVOS",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 3,
+      "titulo": "MECANISMOS DE PARTICIPACIÓN",
+      "titulo_norm": "MECANISMOS DE PARTICIPACION",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 4,
+      "titulo": "DEMANDAS TERRITORIALES",
+      "titulo_norm": "DEMANDAS TERRITORIALES",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 5,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 7,
+      "titulo": "CONTENIDO DEL PROYECTO",
+      "titulo_norm": "CONTENIDO DEL PROYECTO",
+      "pagina_toc": 8
+    },
+    {
+      "numero": 8,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "pagina_toc": 9
+    },
+    {
+      "numero": 9,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 10,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 11,
+      "titulo": "LISTADO DE ELEGIBLES",
+      "titulo_norm": "LISTADO DE ELEGIBLES",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 12,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 13,
+      "titulo": "VIGILANCIA DE LOS PROYECTOS",
+      "titulo_norm": "VIGILANCIA DE LOS PROYECTOS",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 14,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "pagina_toc": 16
+    },
+    {
+      "numero": 15,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "pagina_toc": 17
+    },
+    {
+      "numero": 16,
+      "titulo": "CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALÍAS",
+      "titulo_norm": "CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
+      "pagina_toc": 17
+    },
+    {
+      "numero": 17,
+      "titulo": "ACCESO A BENEFICIOS TRIBUTARIOS",
+      "titulo_norm": "ACCESO A BENEFICIOS TRIBUTARIOS",
+      "pagina_toc": 18
+    },
+    {
+      "numero": 18,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "pagina_toc": 19
+    },
+    {
+      "numero": 19,
+      "titulo": "CIENCIA ABIERTA",
+      "titulo_norm": "CIENCIA ABIERTA",
+      "pagina_toc": 19
+    },
+    {
+      "numero": 20,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "pagina_toc": 19
+    },
+    {
+      "numero": 21,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "pagina_toc": 20
+    },
+    {
+      "numero": 22,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "pagina_toc": 20
+    },
+    {
+      "numero": 23,
+      "titulo": "MAYOR INFORMACIÓN",
+      "titulo_norm": "MAYOR INFORMACION",
+      "pagina_toc": 20
+    }
+  ],
+  "n_secciones_toc": 22,
+  "n_secciones_cuerpo": 22,
+  "fingerprint": "1.PRESENTACION > 2.OBJETIVOS > 3.MECANISMOS DE PARTICIPACION > 4.DEMANDAS TERRITORIALES > 5.REQUISITOS > 7.CONTENIDO DEL PROYECTO > 8.PROCEDIMIENTO DE INSCRIPCION > 9.AUTORIZACION USO DE DATOS PERSONALES > 10.PROCEDIMIENTO DE EVALUACION > 11.LISTADO DE ELEGIBLES > 12.ACLARACIONES > 13.VIGILANCIA DE LOS PROYECTOS > 14.CRONOGRAMA > 15.MODIFICACIONES > 16.CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS > 17.ACCESO A BENEFICIOS TRIBUTARIOS > 18.PROPIEDAD INTELECTUAL > 19.CIENCIA ABIERTA > 20.VEEDURIAS CIUDADANAS > 21.ANEXOS > 22.ACEPTACION DE TERMINOS Y VERACIDAD > 23.MAYOR INFORMACION",
+  "titulos_norm": [
+    "PRESENTACION",
+    "OBJETIVOS",
+    "MECANISMOS DE PARTICIPACION",
+    "DEMANDAS TERRITORIALES",
+    "REQUISITOS",
+    "CONTENIDO DEL PROYECTO",
+    "PROCEDIMIENTO DE INSCRIPCION",
+    "AUTORIZACION USO DE DATOS PERSONALES",
+    "PROCEDIMIENTO DE EVALUACION",
+    "LISTADO DE ELEGIBLES",
+    "ACLARACIONES",
+    "VIGILANCIA DE LOS PROYECTOS",
+    "CRONOGRAMA",
+    "MODIFICACIONES",
+    "CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
+    "ACCESO A BENEFICIOS TRIBUTARIOS",
+    "PROPIEDAD INTELECTUAL",
+    "CIENCIA ABIERTA",
+    "VEEDURIAS CIUDADANAS",
+    "ANEXOS",
+    "ACEPTACION DE TERMINOS Y VERACIDAD",
+    "MAYOR INFORMACION"
+  ],
   "comparacion_plantilla_sgr": {
-    "n_en_doc": 0,
+    "n_en_doc": 22,
     "n_plantilla": 21,
     "coinciden_exacto": false,
-    "cobertura_plantilla": 0.0,
+    "cobertura_plantilla": 0.381,
     "faltan_vs_plantilla": [
-      "PRESENTACION",
       "OBJETIVO",
       "DIRIGIDA A",
-      "DEMANDAS TERRITORIALES",
       "LINEAS TEMATICAS",
       "ALCANCE DEL PROYECTO",
       "ENFOQUE TERRITORIAL",
@@ -25,18 +179,182 @@
       "ORIENTACIONES PARA LA VINCULACION DE TALENTO HUMANO",
       "REQUISITOS HABILITANTES",
       "CAUSALES DE RECHAZO",
-      "CONTENIDO DEL PROYECTO",
-      "PROCEDIMIENTO DE INSCRIPCION",
       "DURACION Y FINANCIACION",
       "CRITERIOS DE EVALUACION",
-      "PROCEDIMIENTO DE EVALUACION",
-      "LISTADO DE ELEGIBLES",
       "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
-      "VIGILANCIA DE LOS PROYECTOS",
-      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
-      "CRONOGRAMA"
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
     ],
-    "extra_vs_plantilla": []
+    "extra_vs_plantilla": [
+      "OBJETIVOS",
+      "MECANISMOS DE PARTICIPACION",
+      "REQUISITOS",
+      "AUTORIZACION USO DE DATOS PERSONALES",
+      "ACLARACIONES",
+      "MODIFICACIONES",
+      "CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
+      "ACCESO A BENEFICIOS TRIBUTARIOS",
+      "PROPIEDAD INTELECTUAL",
+      "CIENCIA ABIERTA",
+      "VEEDURIAS CIUDADANAS",
+      "ANEXOS",
+      "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "MAYOR INFORMACION"
+    ]
   },
-  "secciones": []
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "texto": "En cumplimiento de lo dispuesto en la Ley 2056 del 30 de septiembre de 2020, por la cual se regula lo previsto en el\nparágrafo 5° del artículo 361 de la Constitución Política modificado por el Acto Legislativo 05 de 2019, para lo relacionado\ncon la inversión en ciencia, tecnología e innovación del Sistema General de Regalías, se procede desde EL MINISTERIO\nDE CIENCIA, TECNOLOGÍA E INNOVACIÓN- MINCIENCIAS con la apertura de la presente convocatoria teniendo en\ncuenta lo señalado en: el artículo 52: “ la Asignación para la Ciencia, Tecnología e Innovación tendrá como objeto\nincrementar la capacidad científica, tecnológica, de innovación promoviendo el desarrollo empresarial y la competitividad de\nlas regiones, mediante proyectos de inversión que contribuyan a la producción, uso, integración y apropiación del\nconocimiento básico y aplicado en el aparato productivo y en la sociedad en general, incluidos entre otros en el sector\nagropecuario y proyectos que promuevan la conectividad y cierre de brecha digital, contribuyendo al progreso social, al\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 1 de 20\ndinamismo económico, al crecimiento sostenible y una mayor prosperidad para toda la población. (…)” y, el artículo 53 que\nindica que “Los proyectos de inversión en ciencia, tecnología e innovación que se financian con los recursos de la\nAsignación para la Ciencia, Tecnología e Innovación, serán aprobados a través de convocatorias públicas, abiertas y\ncompetitivas”.\nAsí mismo, en cumplimiento con lo dispuesto en el Decreto 1821 de 2020, una vez recibidas en MINCIENCIAS de parte de\nlos Consejos Departamentales de Ciencia, Tecnología e Innovación -CODECTI las demandas territoriales, entendidas como\nlos problemas, las necesidades o las oportunidades que puedan ser solucionadas o transformadas mediante la ciencia, la\ntecnología y la innovación en los territorios, que se encuentran registradas en el Plan de Convocatorias 2021-2022, se\nestructuró la presente convocatoria que tiene como finalidad atender las demandas territoriales en los temas de innovación\npara la productividad, la competitividad y el desarrollo social. En este mismo contexto, se busca desde la innovación aportar\nal proceso de reactivación económica mejorando las condiciones para innovar de las empresas y/u organizaciones a través\nde la implementación de esquemas de apoyo tales como la gestión de la innovación o la conexión entre oferta y demanda\nde servicios de innovación y por otro lado, fomentar los procesos de transferencia y adopción de tecnologías que permita\ncontar en el mercado con productos con valor agregado basados en la investigación y el conocimiento científico.\nEsta convocatoria se encuentra articulada con lo establecido en El Plan Nacional de Desarrollo 2018-2022, “Pacto por\nColombia, Pacto por la Equidad”, en su pacto transversal por la Ciencia, la Tecnología y la Innovación: un sistema para\nconstruir el conocimiento de la Colombia del futuro, que busca fortalecer “(…) los sistemas nacionales y regionales de\ninnovación, robusteciendo la institucionalidad, generando mayor articulación entre distintas instancias y dando mayor\nclaridad en los roles y funciones de las diferentes entidades” , igualmente se enfoca en fortalecer “(…) la relación entre\nuniversidad y empresa, para que la innovación resuelva de manera más efectiva los retos sociales y económicos del país”.\nDe igual forma se articula con el Pacto Transversal por el Emprendimiento, La formalización y La productividad\nespecíficamente con lo establecido en su objetivo específico 4 denominado: “Fortalecer la promoción de la investigación,\nDesarrollo e Innovación (I+D) empresarial”.\nAsimismo, se encuentra articulada con la hoja de ruta trazada por la Misión de sabios para el país, en lo referente a la CTeI\ncomo motor para el desarrollo y la competitividad del país y los retos de i) Colombia bio-diversa, ii) Colombia productiva y\nsostenible y iii) Colombia equitativa, en el sentido que busca, entre otras:\n• Innovar en los sectores productivos para asegurar la comercialización de bienes y servicios de alto valor agregado\nen el marco de cadenas de valor integradas, sostenibles y rentables.\n• Uso y transferencia de conocimiento y tecnología para el aprovechamiento sostenible de la diversidad colombiana,\ntanto natural como cultural, para el desarrollo de bienes y servicios de alto valor agregado en el contexto de\ncadenas de valor eficientes y sostenibles.\n• Desarrollo y aplicación de tecnologías convergentes y de la industria 4.0, para la generación de nuevos modelos\nproductivos y sostenibles en los sectores manufacturero, agro y agroindustria, energía y salud.\nPor otro lado, la presenta convocatoria se articula con la Política Nacional de Ciencia, Tecnología e Innovación 2022-2031\nexpuesta a través del documento CONPES 4069, particularmente con las líneas de acción 7 y 8 denominadas: Mejorar las\ncapacidades y condiciones para innovar y emprender y, Aumentar la transferencia de conocimiento y tecnología hacia el\nsector productivo. A su vez, esta convocatoria responde a lo estipulado en la Política para la reactivación, la repotenciación\ny el crecimiento sostenible e incluyente – Documento CONPES 4023 en especial con lo manifestado en su Línea de acción\n3.11. Aumentar la adopción, uso y transferencia de actividades de CTeI – Estrategia para apoyar proyectos de desarrollo\ntecnológico e innovación con enfoque regional.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 2 de 20\nEn ese sentido, MINCIENCIAS en calidad de Secretaría técnica del OCAD de CTeI del SGR convoca a las entidades del\nSistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) interesadas en presentar proyectos enmarcados en el\nfortalecimiento de capacidades para la gestión, adopción e implementación de procesos de innovación empresarial.\nLos proyectos que surtan el proceso y disposiciones previstos en los términos de referencia, y resulten elegibles, deberán\nadelantar el cumplimiento de requisitos y procedimientos dispuestos por la normativa del SGR para los programas y\nproyectos de inversión, con el fin de ser sometidos a consideración del OCAD del CTeI-SGR para su viabilización,\npriorización y aprobación, conforme con lo establecido en la Ley 2056 de 2020 y el Decreto 1821 de 2020.\nCAUSALES DE CTEI\nAtendiendo al contenido del artículo 2 del Decreto 591 de 1991, por medio del cual se regulan las modalidades específicas\nde contratos de fomento de actividades científicas y tecnológicas, las actividades de Ciencia, Tecnología e Innovación que\nse ejecutan a través de la presente convocatoria están relacionadas con los numerales 1, 4 y 5 del artículo mencionado, a\nsaber:\n1. Investigación científica y desarrollo tecnológico, desarrollo de nuevos productos y procesos.\n4. Proyectos de innovación que incorporen tecnología, creación, generación, apropiación y adaptación de la misma.\n5. Transferencia tecnológica que comprende la negociación, apropiación, desagregación, asimilación, adaptación y\naplicación de nuevas tecnologías nacionales o extranjeras.\nLo anterior, considerando que los proyectos que resulten elegibles, que cumplan con los requisitos y procedimientos\ndispuestos por la normativa del SGR y, que sean viabilizados, priorizados y aprobados por el OCAD de CTeI del SGR,\nestarán orientados a la generación de capacidades en innovación para el fortalecimiento del sector empresarial colombiano\ny a su vez contribuirá al aumento de los procesos de transferencia y adopción de tecnologías como base para comercializar\nproductos (bienes y servicios) con valor agregado que permitan dar solución a las necesidades y problemáticas de los\nterritorios.\nComo resultado de los proyectos viabilizados, priorizados y aprobados por el OCAD de CTeI del SGR se espera, entre\notros, los siguientes indicadores de productos:\n• Productos (bienes y servicios) nuevos o significativamente mejorados, validados.\n• Paquetes tecnológicos transferidos.\n• Empresas apoyadas en procesos de innovación.\nTeniendo en cuenta estos elementos, el objeto de la convocatoria y las demandas territoriales definidas por los CODECTI\nen los temas de innovación para la productividad, la competitividad y el desarrollo social, se garantiza que los proyectos que\nsean aprobados favorecerán la generación de nuevos o mejores productos y servicios, mediante el apoyo a proyectos de\nDesarrollo Tecnológico e Innovación en los territorios. Es así como se espera apoyar proyectos encaminados atender las\ndemandas definidas por los CODECTI, que permitan el fortalecimiento de los procesos productivos, el desarrollo de bienes\ny servicios, así como la transferencia de conocimiento y tecnología que permita la sofisticación de la oferta productiva y la\ncontribución a la reactivación económica y social del país.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 3 de 20",
+      "n_caracteres": 8886
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVOS",
+      "titulo_norm": "OBJETIVOS",
+      "texto": "Objetivo General\nConformar un listado de proyectos elegibles para el fortalecimiento de capacidades de innovación del sector empresarial en\nlas regiones y aumentar la transferencia y adopción de tecnologías como base para comercializar productos (bienes y\nservicios) con valor agregado, basados en la investigación y uso del conocimiento científico\nObjetivos específicos\n• Conformar un listado de proyectos elegibles para el fortalecimiento de capacidades de innovación del sector\nempresarial en las regiones.\n• Conformar un listado de proyectos elegibles para el aumento de la transferencia y adopción de tecnologías como\nbase para comercializar productos (bienes y servicios) con valor agregado, basados en la investigación y uso del\nconocimiento científico.",
+      "n_caracteres": 760
+    },
+    {
+      "numero": 3,
+      "titulo": "MECANISMOS DE PARTICIPACIÓN",
+      "titulo_norm": "MECANISMOS DE PARTICIPACION",
+      "texto": "Los proyectos que se presenten en esta convocatoria deberán registrarse en uno de los siguientes mecanismos de\nparticipación.\n• Mecanismo de participación 1. Fortalecimiento de capacidades para la gestión, adopción e implementación de\nprocesos de innovación del sector empresarial regional\n• Mecanismo de participación 2. Proyectos para la validación comercial de prototipos de nuevas tecnologías,\nproductos y servicios en las regiones\nLos montos indicativos se encuentran disponibles en el numeral denominado – DURACIÓN Y FINANCIACIÓN de cada uno\nde los documentos de condiciones específicas para cada mecanismo de participación.\nNota:\nLas condiciones de cada uno de los mecanismos de participación deben ser consultadas en los documentos de condiciones\nespecíficas para el mecanismo de participación al que aplique, documentos que hacen parte integral de los términos de\nreferencia de la presente convocatoria.",
+      "n_caracteres": 912
+    },
+    {
+      "numero": 4,
+      "titulo": "DEMANDAS TERRITORIALES",
+      "titulo_norm": "DEMANDAS TERRITORIALES",
+      "texto": "Los proyectos presentados en esta convocatoria deben atender a las demandas territoriales definidas por los CODECTI,\nque se encuentran registradas en el Plan de Convocatorias 2021-2022 para la línea de innovación. Entiéndase por\ndemandas territoriales los problemas, las necesidades o las oportunidades que puedan ser solucionadas o transformadas\nmediante la ciencia, la tecnología y la innovación en los territorios, en atención a lo dispuesto en el artículo 52 de la Ley\n2056 de 2020 y, el numeral 7 del artículo 1.2.3.1.1 del Decreto 1821 de 2020.\nEn ese sentido, los proponentes deberán consultar el “LISTADO DE DEMANDAS TERRITORIALES” en los documentos de\ncondiciones específicas para el mecanismo de participación en el que quieran participar\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 4 de 20",
+      "n_caracteres": 820
+    },
+    {
+      "numero": 5,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "texto": "Los requisitos para participar en la presente convocatoria son:\n5.1. Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, el cual se debe ajustar al\nobjetivo de la convocatoria. Deberá contener la información requerida en el numeral 7-CONTENIDO DE LA\nPROPUESTA DE PROYECTO.\n5.2. Cumplir con las especificaciones del “Dirigido A” establecido para el mecanismo de participación al que se\ndesee postular.\n5.3. En el caso de proyectos que únicamente incluyan una (1) entidad, anexar “Carta de aval y compromiso\ninstitucional” firmada por el representante legal o apoderado (Anexo 1a). En cualquier caso, deberán anexarse\nel/los documento(s) que lo(s) acrediten y faculten\n5.4. En el caso de proyectos presentados en alianza, anexar “Carta de aval, compromiso institucional\nunificada y Modelo de Gobernanza” debidamente diligenciada y firmada por los representantes legales o\napoderados de todas las entidades nacionales que la conformen (Anexo 1b). En cualquier caso, deberán anexarse\nel/los documento(s) que lo(s) acrediten y faculten. El apartado denominado modelo de gobernanza corresponde al\nconjunto de condiciones que regularán la toma de decisiones y ejecución de actividades del proyecto de inversión\nentre los miembros de la alianza estratégica.\nEl modelo debe incluir la siguiente información: a) Estructura de coordinación y cooperación interinstitucional para\nel logro de los resultados esperados en el proyecto de inversión presentado. b) Definición del modelo de operación\nformal de la alianza a nivel legal, administrativo, financiero, de la propiedad intelectual y sostenibilidad en caso de\nque aplique para el proyecto de inversión. c) Definición de los mecanismos de coordinación técnica para la toma de\ndecisiones, de seguimiento, control y de reporte de información ante el Sistema General de Regalías. d)\nMecanismo de gestión de adquisiciones y transferencia de bienes y servicios entre la entidad ejecutora, las otras\nentidades de la alianza y los demás beneficiarios en el marco de la alianza.\n5.5. Adjuntar el documento técnico de acuerdo con el contenido indicado en el numeral 7-CONTENIDO DEL\nPROYECTO, subnumeral 7.1.(Anexo 2).\n5.6. Adjuntar el presupuesto requerido de acuerdo con lo establecido en el numeral 7-CONTENIDO DEL\nPROYECTO, subnumeral 7.2. (Anexo 3), el cual debe cumplir con las condiciones establecidas en el numeral -\nDURACIÓN Y FINANCIACIÓN.\n5.7. Adjuntar el formato de “Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e\nintegrantes de la alianza” (Anexo 5), debidamente diligenciado, atendiendo a lo dispuesto en las condiciones de\nparticipación.\nNota: Lo anterior, deberá estar soportado por: convenios/contratos, acuerdos, actos administrativos, actas de\nliquidación o finalización, que deberán ser incluidos en la plataforma SIGP, sección de “requisitos”, campo\n“Soportes del Anexo”, los cuales son obligatorios con la excepción de proyectos cuya información repose en el\nsistema de gestión documental de MINCIENCIAS donde será indispensable identificar con código y fuente de\nfinanciación. La entidad proponente o sus aliados cuando aplique deberá demostrar experiencia en la gestión y\nejecución de al menos un (1) proyecto de Ciencia, Tecnología e Innovación en los últimos cinco (5) años o\ndemostrar experiencia en la ejecución de al menos un (1) proyecto con recursos de CTeI del SGR.\n5.8. Para el caso de las entidades internacionales que formen parte de la propuesta, se deberá anexar carta de\nintención de participación en la propuesta suscrita por el director del instituto, centro, escuela, departamento o\ngrupo de investigación de la institución internacional. Las cartas de participación podrán ser remitidas únicamente\nen idioma español o inglés.\n5.9. En el caso de vincular a entidades del sector productivo como participantes en la alianza, estas deberán\ndemostrar que se constituyeron como mínimo hace un (1) año a partir de la fecha de apertura de la presente\nconvocatoria y que no se encuentren en proceso de liquidación o de reestructuración. Deberán presentar\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 5 de 20\ncertificado de existencia y representación legal no mayor a 90 días previo al cierre de la convocatoria.\n5.10. Para el mecanismo de participación ,1 presentar en el documento técnico numeral 7-CONTENIDO DEL\nPROYECTO subnumeral 7.1.(Anexo 2), la metodología para la selección del (los) beneficiario(s) final(es) así como\nde los proveedores de los servicios de innovación a implementar.\n5.11. Para el mecanismo de participación 2, presentar en el documento técnico numeral 7-CONTENIDO DEL\nPROYECTO subnumeral 7.1.(Anexo 2), el formato de presentación de la novedad y potencial de mercado del\nproyecto.\nNotas:\n• El Ministerio podrá solicitar en cualquier momento, información y documentación adicional, complementaria o\naclaraciones.\n• Se aceptará que en la “Carta de aval y compromiso institucional” o “Carta de aval, compromiso institucional\nunificada y Modelo de Gobernanza” las firmas de los representantes legales o apoderados vengan en hojas\ndiferentes. No obstante, estas hojas con las firmas deberán estar contenidas en un único archivo pdf.\n• Se aclara que como está establecido en los términos de referencia no se requiere adjuntar el aval de comité\nde Ética o Bioética para la presentación de los proyectos, por lo que en la Carta de aval y compromiso\nInstitucional, en su numeral 2, Aspectos Éticos, se indica: “En caso que la entidad proponente considere que la\npropuesta requiere aval de un Comité de Ética o de Bioética –debidamente constituido-, se debe declarar lo\nsiguiente: Informo a MINCIENCIAS que la propuesta de proyecto, presentada a la convocatoria será revisada\npor un Comité de Ética/Bioética debidamente constituido, y en caso de resultar elegible, se radicará ante\nMINCIENCIAS el aval correspondiente del Comité de Ética/Bioética y acto administrativo de constitución del\nmismo”.\n• Los proyectos que resulten elegibles y que requieran de aval del Comité de Ética o Bioética, deberán\npresentar dicho aval en la etapa de -CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE\nREGALÍAS- estipulado en el numeral 16 de los presentes términos de referencia.\nEl Ministerio, dando cumplimiento a lo indicado en el numeral 5 del artículo 4 de la Ley 1286 de 2009, garantizando\nlos principios del mérito y la calidad, establece el Periodo de ajuste de requisitos en el SIGP, que se realizará en la\nactividad señalada en el numeral 14-CRONOGRAMA.\nSubsanación de requisitos establecidos en el numeral 5-REQUISITOS: El periodo de subsanación de los\nrequisitos exigidos en el presente documento se tramitará con base en las siguientes reglas:\n• En la etapa de subsanación de requisitos no se podrá modificar la información registrada en el formulario SIGP\nconcerniente a la Entidad ejecutora, Alcance, Mecanismo de Participación o Título de la propuesta de\nproyecto.\n• El proponente es responsable de consultar permanentemente que sus documentos hayan quedado\nregistrados correctamente en el aplicativo SIGP antes del cierre de la convocatoria y durante el periodo de\najuste de los requisitos de la convocatoria establecido en el numeral 14-CRONOGRAMA.\n• Recuerde que, en el periodo de revisión de requisitos, MINCIENCIAS verificará que los documentos adjuntos\npresentan la información requerida de forma consistente y reportará en la sección de observaciones generales\nen el SIGP las inconsistencias en la información de tal modo que el proponente pueda ajustarla directamente\nen el aplicativo durante el período de ajuste de requisitos establecido en el numeral 14 – CRONOGRAMA.\n• Los resultados de la etapa de verificación de requisitos de la convocatoria pueden ser consultados ingresando\nal FORMULARIO DE PROYECTOS Y PROGRAMAS, con el usuario y contraseña enviados mediante correo\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 6 de 20\nelectrónico al momento de registrar la propuesta en el sistema.\nhttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/. Las observaciones se pueden consultar\nen el módulo “Requisitos”, campo “Observaciones Generales de los Requisitos”. (Ampliando el cuadro de\nobservaciones desde la esquina inferior derecha).\n• El proponente es responsable de garantizar la fiabilidad, coherencia y completitud de la información\nconsignada en el formulario SIGP y en los anexos allegados bajo el marco de la presente convocatoria. La\ninformación que no coincida no será tenida en cuenta para continuar en el proceso de la convocatoria.\n6. CONDICIONES INHABILITANTES.\nSon todas aquellas condiciones de modo, tiempo y lugar, objetivas o subjetivas, antecedentes o concomitantes, predicables\nde la entidad registrada en la convocatoria o de la propuesta de proyecto sometida a consideración del Ministerio de Ciencia,\nTecnología e Innovación – MINCIENCIAS, que impiden la continuidad de su participación en el proceso de selección, o que,\nhabiendo obtenido el beneficio de que se trate, le hacen imposible disfrutarlo, tales como:\n6.1. Cuando el proyecto no se ajusta a las condiciones y requisitos establecidos en los presentes términos de\nreferencia.\n6.2 Para los proyectos presentados al mecanismo de participación 1, cuando el valor solicitado al SGR sea inferior a\n($3.000.000.000) TRES MIL MILLONES DE PESOS M/CTE o supere el total del monto indicativo establecido para la región\ndel SGR al que pertenece el (los) departamento(s) objeto de la propuesta de acuerdo con lo establecido en el numeral 4 –\nALCANCE DE LOS PROYECTOS y numeral 5 -DURACIÓN Y FINANCIACIÓN del documento de condiciones específicas\npara el mecanismo de participación.\n6.3. Para los proyectos presentados al mecanismo de participación 2, cuando el valor solicitado al SGR sea inferior a\n($4.000.000.000) CUATRO MIL MILLONES DE PESOS M/CTE o supere el total del monto indicativo establecido para la\nregión del SGR al que pertenece el (los) departamento(s) objeto de la propuesta de acuerdo con lo establecido en el\nnumeral 4 - ALCANCE DE LOS PROYECTOS y numeral 6 -DURACIÓN Y FINANCIACIÓN del documento de condiciones\nespecíficas para el mecanismo de participación.\n6.4 Cuando la entidad proponente o alguno de los miembros de la alianza (cuando aplique) no cumple con los términos\ny condiciones establecidos en los presentes términos de referencia.\n6.5 Cuando un mismo proyecto se presenta para más de uno de los mecanismos de participación habilitados para la\npresente convocatoria.\n6.6 Cuando un proyecto se presenta para más de una región del SGR habilitada en los mecanismos de participación\n6.7 Cuando el proyecto no está articulado con las demandas territoriales del (los) departamento (s) objeto de la\npropuesta\n6.8 El proponente o alguno de sus aliados (cuando aplique) se encuentra reportado en el último Boletín de\nResponsables Fiscales expedido por la Contraloría General de la República.\n6.9 Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con\nfinanciación simultánea de otra convocatoria, o con recursos de MINCIENCIAS, del Sistema General de Regalías (SGR), o\ncon financiación de otras entidades del Estado.\n6.10 Que el proponente o alguno de los aliados (cuando aplique) se encuentre incurso en una de las causales de\nprohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley.\n6.11 En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la\nconvocatoria, la propuesta será retirada e inhabilitada del proceso y el Ministerio informará a las instancias administrativas y\njudiciales sobre dicha situación.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 7 de 20",
+      "n_caracteres": 11699
+    },
+    {
+      "numero": 7,
+      "titulo": "CONTENIDO DEL PROYECTO",
+      "titulo_norm": "CONTENIDO DEL PROYECTO",
+      "texto": "El contenido del proyecto debe contemplar lo siguiente:\n7.1. Del documento técnico\nEl documento técnico presentado por la Entidad para dar cumplimiento al requisito 5.5 deberá contemplar como mínimo los\nelementos relacionados a continuación.\n• Identificación del proyecto\n• Resumen ejecutivo.\n• Palabras clave.\n• Alineación con la política pública.\n• Identificación y descripción del problema.\n• Antecedentes.\n• Justificación.\n• Articulación del proyecto en atención a la(s) demanda(s) territorial(es) abordadas.\n• Marco conceptual.\n• Análisis de participantes.\n• Población\n• Objetivos\n• Análisis de las alternativas.\n• Metodología para desarrollar la alternativa seleccionada – Para el mecanismo de participación 1 -Deberá incluir\nla metodología para la selección del (los) beneficiario(s) final(es) así como de los proveedores de los\nservicios de innovación a implementar\n• Formato de presentación de la novedad y potencial de mercado del proyecto – Para el mecanismo de\nparticipación 2\n• Cadena de valor\n• Análisis y estrategia de sostenibilidad\n• Resultados e impacto para el (los)departamento.\n• Productos esperados.\n• Cronograma.\n• Análisis de riesgos.\n• Indicadores de gestión.\n• Aspectos éticos.\n• Idoneidad y trayectoria del proponente y demás participantes.\n• Análisis de licencias y permisos.\n• Resumen de fuentes de financiación.\n• Bibliografía\nNotas:\n• En el anexo No. 2 se describen los elementos mínimos que debe contemplar el documento técnico de los\nproyectos que se postulen a esta convocatoria.\n• La estructura del documento técnico que se pone como guía en los presentes términos de referencia atienden a la\nestructura de Marco Lógico implementado en la Metodología General Ajustada (MGA). Dicha metodología podrá\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 8 de 20\nser consultada a detalle en la página del Departamento Nacional de Planeación (DNP).\n7.2. Del componente presupuestal.\n• Talento humano.\n• Equipos y software.\n• Capacitación y eventos.\n• Servicios tecnológicos y pruebas.\n• Materiales, insumos y documentación.\n• Protección de conocimiento y divulgación\n• Gastos de viaje.\n• Infraestructura\n• Administrativos.\n• Seguimiento.\n• Otros - Sujeto a análisis de riesgos.\nNotas:\n• Los proyectos podrán incluir en su desarrollo la adquisición de infraestructura TIC (equipos de telecomunicaciones,\ncómputo, tablets, dispositivos móviles y para conectividad), siempre que la adquisición de éstos no sea el fin único\ndel proyecto propuesto, sino un habilitador o medio para llevar a cabo el desarrollo de actividades de Ciencia,\nTecnología e Innovación del mismo.\n• Los componentes incluidos en el proyecto deben guardar directa relación con el objetivo de la convocatoria y el\nmecanismo de participación al que se postule.\n• El presupuesto debe ser diligenciado en formato correspondiente al Anexo No. 3.\n• Todos los rubros del presupuesto deben estar justificados en función de los objetivos del proyecto.\n• En caso de proyectos que incluyan adecuaciones de infraestructura, se recomienda contemplar el uso de la figura\nde interventoría\n• El detalle de las actividades apoyadas y excluidas de apoyo se describen en los documentos de “condiciones\nespecíficas para el mecanismo de participación” al que se postula el proyecto.",
+      "n_caracteres": 3271
+    },
+    {
+      "numero": 8,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "texto": "8.1 Ingresar a la página web de MINCIENCIAS (www.minciencias.gov.co).\n8.2 Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, donde se despliega Sistemas\nde Información- Plataforma SIGP, allí encontrará disponibles los diferentes formularios en línea para aplicar a las\nconvocatorias de MINCIENCIAS (https://minciencias.gov.co/scienti).\n8.3 Hacer clic en la opción Formulario en línea para registro de entidades ubicado en la parte derecha,\n(https://plataformasigp.minciencias.gov.co:7003/Entidades/) En caso de haberla registrado previamente, continuar con el\npaso número 8.5.\n8.4 Realizar el pre-registro de las entidades participantes en el proyecto con la información solicitada. MINCIENCIAS\nen un periodo de 2 días hábiles remitirá a su correo electrónico de contacto las credenciales de acceso para el ingreso al\nsistema de registro de entidades, solo si la entidad fue avalada, de lo contrario el sistema enviará un correo informando que\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 9 de 20\nla entidad fue rechazada y la razón del rechazo.\n8.5 Ingresar al módulo de entidades con sus credenciales y registrar la información de la entidad ejecutora y entidades\nparticipantes en el proyecto. En caso de encontrarse registradas las entidades en este sistema, no se requiere de un nuevo\nregistro, sin embargo, podrá actualizar la información.\n8.6 Una vez finalizado el registro de la entidad, Ingresar al link de Formulario de Proyectos y/o programas:\nhttps://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/\n8.7 Diligenciar la información solicitada por el formulario en línea para la presentación de los proyectos a la\nconvocatoria, mecanismo de participación y alcance temático al cual aplica el proyecto. Para recibir las credenciales de\nacceso por correo electrónico deberá registrar como mínimo el título del proyecto, la entidad ejecutora, convocatoria, y\ncorreo electrónico. Una vez inscrito no podrá cambiar la entidad proponente, el alcance temático o el mecanismo de\nparticipación.\n8.8 Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un requisito requiere anexar más\nde un documento, guárdelos en una sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo\ncorrespondiente al requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, puede hacerlo examinando\ny adjuntando el documento deseado. Es importante resaltar que el tamaño de cada archivo anexado de cada uno de los\nrequisitos cuenta con una capacidad máxima de 3MB; para el requisito “Otros adjuntos” tiene una capacidad máxima de 10\nMB.\n8.9 Para validar, por favor hacer clic en el botón Validar, ubicado en la parte inferior del menú. Si la información\nregistrada cumple con los criterios solicitados por la convocatoria, la validación será exitosa y se activará la opción de Enviar\nformulario, en caso contrario se mostrará en pantalla la información que no cumple con los criterios definidos en la\nconvocatoria.\n8.10 Una vez se oprime el botón de enviar formulario, el sistema registrará el proyecto y generará su respectivo código\ndel proyecto.\n8.11 Una vez haya sido enviado el proyecto, si la convocatoria se encuentra abierta el sistema le permite modificar el\nproyecto, oprimiendo el botón \"Modificar Proyecto\", para realizar los cambios que consideren. Al dar clic en la opción\n\"Modificar Proyecto\" que está en el menú se muestra una pantalla de confirmación con el siguiente mensaje \"¿Está seguro\nde modificar el proyecto?, una vez confirme esta acción el proyecto ya no estará radicado en MINCIENCIAS. Para\nvolver a radicarlo debe validar y enviar de nuevo el proyecto una vez lo haya modificado.\" Cabe aclarar que, si no lo\nvuelve a validar y enviar el proyecto a MINCIENCIAS, este proyecto no quedará radicado oficialmente en MINCIENCIAS y\nno seguirá a la etapa de revisión de requisitos, así cuente con la pantalla de evidencia de un envío anterior satisfactorio.\n8.12 Para realizar seguimiento a la propuesta, deberá ingresar al formulario con el usuario y contraseña enviados\nmediante el correo electrónico al momento de registrar la propuesta en el sistema, y por el menú de requisitos podrá\nconsultar las observaciones realizadas a los requisitos del proyecto, con el fin de que sean subsanadas por el proponente.\nNotas:\n• Se aceptarán únicamente los proyectos que se presenten a través del formulario en línea con toda la información\nsolicitada en la presente convocatoria.\n• No se tendrá en cuenta para el proceso de evaluación y selección, la información enviada en medios distintos al\nSIGP (correo postal, fax, correo electrónico, enlaces de almacenamiento en nube, otro), ni posterior a la fecha y\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 10 de 20\nhora límite establecida. Excepto cuando sea solicitado directamente por MINCIENCIAS.\n• Toda la documentación requerida deberá presentarse en formato digital PDF, con excepción del presupuesto\ncorrespondiente al Anexo 3 (formato Excel). Cada archivo no debe exceder un tamaño de 3 MB.\n• Si requieren anexar documentación adicional del proyecto como: tablas, fórmulas, gráficas, anexos, cartas, etc.,\nguárdelos en una sola carpeta y adjúntelas como archivo .ZIP o .RAR (archivo comprimido), en el requisito de\nOtros adjuntos. Si requieren cambiar algún archivo de los que previamente adjuntó, puede hacerlo examinando y\nadjuntando el documento deseado.\n• Para remitir toda la documentación relacionada con cada uno de los requisitos, el tamaño máximo de envío es de 3\nMB, en caso de requerir información adicional al proyecto, puede utilizar la opción llamada “Otros adjuntos” y\ncontará con un tamaño máximo de 10 MB.\n• En caso de que se presenten errores en el aplicativo SIGP durante el proceso de inscripción y envío del proyecto o\ndel cargue de la documentación soporte, y por esta razón después de efectuados varios intentos no pueda\nenviarse el proyecto de forma normal dentro del plazo establecido, por favor capturar las pantallas con el mensaje\nde error junto con la fecha y hora en que se presentó el inconveniente que soporte el problema. Remitir antes de la\nfecha de cierre establecida en el Cronograma de los presentes términos de referencia, todas las evidencias de la\nfalla presentada exclusivamente a través del formulario electrónico que se encuentra disponible en el enlace\nhttp://www.minciencias.gov.co/ciudadano/canal-pqrds, explicando en el cuerpo de dicha comunicación los\ninconvenientes ocurridos durante el envío. MINCIENCIAS por medio de la Oficina de Sistemas verificará dicho\nerror.\n• Es responsabilidad del proponente garantizar las condiciones técnicas para la radicación de los proyectos en los\ntiempos establecidos en el cronograma, los cuales no podrán ser ampliados por circunstancias no imputables a\nMINCIENCIAS, tales como fallas en el fluido eléctrico, conexión a internet u otra condición técnica a cargo del\nproponente.",
+      "n_caracteres": 6952
+    },
+    {
+      "numero": 9,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "texto": "Para todos los efectos legales, la presentación, inscripción o registro del proyecto, de forma inequívoca y exclusivamente\npara los fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de información, para el\ntratamiento de sus datos personales por parte del Ministerio de Ciencias, Tecnología e Innovación – MINCIENCIAS y demás\nmiembros del OCAD de CTeI-SGR.\nQuien presente, inscriba o registre la propuesta de proyecto como entidad del SNCTI que adelanta actividades de I+D+i,\ndeclara que ha recibido autorización expresa de todas las personas naturales y jurídicas vinculadas a esta propuesta, para\nsuministrar las informaciones a que hace referencia la ley de manejo de datos, comprometiéndose a responder ante el\nOCAD del CTeI-SGR por medio de su Secretaría Técnica, por cualquier demanda, litigio presente o eventual, reclamación\njudicial o extrajudicial, formulada por cualquiera de las personas naturales o jurídicas vinculadas a la propuesta y al\nproyecto.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 11 de 20\nR",
+      "n_caracteres": 1082
+    },
+    {
+      "numero": 10,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "texto": "Evaluación por pares: Cada uno de los proyectos que cumplan con los requisitos de la convocatoria y no incurran en\ncondiciones inhabilitantes, serán evaluados por dos (2) pares evaluadores externos seleccionados por el Ministerio de\nCiencia, tecnología e Innovación.\nLos proyectos cuya diferencia entre las dos evaluaciones sea igual o mayor a 30 puntos, siendo una de las dos\nevaluaciones igual o superior a 70 puntos serán sometidas a consideración de un tercer evaluador, para lo cual se\npromediará esta última con la calificación que tenga menor dispersión de las dos iniciales.\nToda información proporcionada es de carácter confidencial y no será utilizada para ningún fin diferente a la realización de\nla evaluación. Los expertos evaluadores estarán cobijados por cláusulas de confidencialidad y de no conflicto de interés. La\nidentidad del evaluador será confidencial con la finalidad de garantizar la independencia y autonomía en la expedición de un\nconcepto de evaluación según lo establecido en el Articulo 1.2.3.2.5 del Decreto 1821 de 2020.\nDe acuerdo con el cronograma de la convocatoria, se concederá un término para solicitar aclaraciones y/o modificaciones a\nla publicación preliminar del listado de elegibles, una vez estas sean resueltas, se procederá a la publicación del listado\ndefinitivo de los proyectos elegibles.\nNotas:\n• Teniendo en cuenta lo establecido en el numeral 9 del artículo 1.2.3.2.3. Términos de referencia de las convocatorias y\nel artículo 1.2.3.2.5. Evaluación Técnica del Decreto 1821 de 2020, que definen como uno de los contenidos de los\ntérminos de referencia los Recursos de inversión disponibles para la evaluación de los proyectos y que “Los recursos\npara la evaluación estarán en armonía con el artículo 127 de la Ley 2056 de 2020 y deberán ser asignados por el\nÓrgano Colegiado de Administración y Decisión para cada convocatoria”, se dispone lo siguiente:\nPara el proceso de evaluación de los proyectos de inversión que se presenten en el marco de esta convocatoria se tiene un\nvalor estimado de $208.000.000 (DOSCIENTOS OCHO MILLONES DE PESOS) 1 .",
+      "n_caracteres": 2098
+    },
+    {
+      "numero": 11,
+      "titulo": "LISTADO DE ELEGIBLES",
+      "titulo_norm": "LISTADO DE ELEGIBLES",
+      "texto": "Los proyectos con puntaje igual o mayor a los 70 puntos en la evaluación conformarán el listado de proyectos elegibles y\nserán organizadas en estricto orden descendente de calificación por mecanismo de participación y por región del SGR\n1 Valor calculado con base en el histórico de proyectos recibidas para el mecanismo de participación 1 y 2 de la convocatoria 13 de la Asignación de\nCTeI del SGR, el salario mínimo legal vigente para el año 2022, el número promedio de evaluaciones por proyecto y una desviación positiva del 30%\n(por posibles variaciones en el número de proyectos a recibir)\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 12 de 20\nEn caso de que se obtengan proyectos con igual puntaje, para la ubicación de estas en el listado de elegibles, se procederá\na su desempate con la aplicación de los siguientes criterios:\n1. Al mayor puntaje del criterio “Calidad científico-técnica y presupuestal de la propuesta de proyecto”.\n2. En caso de que el empate persista, se seguirá con el mayor puntaje del criterio “Contribución al desarrollo\nregional y al fortalecimiento de capacidades propias en materia de ciencia, tecnología e innovación\n3. En caso de que el empate persista, se seguirá con el mayor puntaje del criterio “Idoneidad y trayectoria de la\nentidad proponente y de los aliados”.\n4. En caso de persistir el empate se asignará el primer lugar al que haya sido radicado primero en el ingreso de\nproyectos.\nNotas:\n• Los resultados de la convocatoria se publicarán en la página web de MINCIENCIAS\n(http://www.minciencias.gov.co) en las fechas establecidas en el numeral 14 -CRONOGRAMA-.\n• La inclusión de un proyecto en el listado de elegibles no implica obligatoriedad ni compromiso alguno de\nfinanciación por parte de MINCIENCIAS ni por parte del OCAD de CTeI del SGR.\n• Posterior a la publicación del listado de elegibles, los proyectos en calidad de elegibles deberán surtir el trámite de\nverificación y cumplimiento de requisitos del Sistema General de Regalías según lo establecido en el numeral 16 -\nCUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALÍAS, considerando la normativa del SGR\nestablecida en la guía de orientaciones transitorias para la gestión de proyectos de inversión, en el plazo\nestablecido en esta convocatoria. Una vez cumplan los requisitos, los proyectos serán sometidos a consideración\ndel OCAD para su respectiva viabilización, priorización y aprobación, conforme con lo establecido en la Ley 2056\nde 2020 y el Decreto 1821 de 2020.",
+      "n_caracteres": 2507
+    },
+    {
+      "numero": 12,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "texto": "Una vez publicados los resultados preliminares de los listados de elegibles, los proponentes podrán presentar solicitudes de\naclaraciones y comentarios en el período establecido para esta actividad en el numeral 14-CRONOGRAMA. Por fuera de\neste término se considera que las reclamaciones son extemporáneas.\nLas peticiones y reclamaciones se deben presentar exclusivamente a través del formulario electrónico que se encuentra\ndisponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “CONVOCATORIA 30 - SGR\nINNOVACIÓN TEJIDO EMPRESARIAL Y TRANSFERENCIA DE TECNOLOGÍA”.\nNota:\n• No se tendrá en cuenta para la etapa de aclaraciones, la información enviada en medios distintos al canal oficial del\nMinisterio (correo postal, fax, correo electrónico, almacenamientos en nube y otros). Excepto cuando sea solicitado\ndirectamente por MINCIENCIAS.",
+      "n_caracteres": 872
+    },
+    {
+      "numero": 13,
+      "titulo": "VIGILANCIA DE LOS PROYECTOS",
+      "titulo_norm": "VIGILANCIA DE LOS PROYECTOS",
+      "texto": "De acuerdo con lo establecido en el Artículo 1.2.1.2.12. del Decreto 1821 de 2020, las labores de apoyo a la supervisión e\ninterventoría harán parte de las actividades y costos del proyecto de inversión y se contratarán con cargo al mismo. Dichas\nlabores deberán desarrollarse de conformidad con las normas de contratación pública aplicables y vigentes.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 13 de 20\nAtendiendo el objeto y el alcance de los proyectos a financiar, con fundamento en los presentes términos de referencia, los\nproyectos deben determinar los costos y las actividades relacionadas con la vigilancia de la correcta ejecución del\nproyecto que se viabilice, priorice y apruebe por parte del OCAD del CTeI, de acuerdo con su complejidad.\nA continuación, se describen las figuras de seguimiento que pueden desarrollar los proyectos de inversión en el marco de la\npresente convocatoria.\nSupervisión\nLa supervisión consistirá en el seguimiento de las actividades técnicas, administrativas, financieras, contables y jurídicas del\nproyecto y que no requiere para su desarrollo conocimientos especializados conforme al artículo 83 de la Ley 1474 de 2011.\nEs importante mencionar, que el correcto cálculo de los valores de supervisión es responsabilidad de la entidad proponente,\neste debe encontrarse claramente soportado en el presupuesto del proyecto y debe contemplar para su cálculo variables\ntales como honorarios de personal (tener en cuenta nivel de formación y dedicación), desplazamientos, equipos, materiales\ne insumos requeridos para el correcto desarrollo del proceso de supervisión.\n• Supervisión a proyectos ejecutados por entidades de naturaleza jurídica pública\nEl ejecutor de naturaleza jurídica pública ejercerá la vigilancia de los proyectos en los términos del artículo 83 de la Ley\n1474 de 2011 y demás normas que lo modifiquen o adicionen y, en atención a las particularidades\nnormativas aplicables a la supervisión.\nDe conformidad con la Ley 1474 de 2011, la supervisión será ejercida por un funcionario de la entidad ejecutora y\nen virtud de ello, no podrá incluirse en el valor de financiamiento de la propuesta de proyecto, pero sí deberá\nestar contemplada en los recursos de contrapartida. En caso de requerirse personal de apoyo para la supervisión,\ndicho valor podrá incluirse en los costos con cargo a los recursos de financiamiento de la propuesta.\nEl rubro de supervisión no estará limitado a un porcentaje del valor total del proyecto, sino que será\ndeterminado teniendo en cuenta criterios de estimación objetiva de costos acordes con los lineamientos que para el\nefecto ha establecido Colombia Compra Eficiente.\n• Supervisión a los proyectos que ejecuten entidades de naturaleza jurídica privada:\nMINCIENCIAS o los departamentos que así lo soliciten, con cargo a los recursos de\nfinanciación de los proyectos, vigilarán directamente o a través de terceros, que la correcta ejecución de los proyectos\nsea en los términos del artículo 83 de la Ley 1474 de 2011, en cumplimiento de lo contenido en el artículo 55 de\nla Ley 2056 de 2020 y el artículo 1.2.3.3.2 del Decreto 1821 de 2020.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 14 de 20\nConsiderando lo expuesto, los proyectos a ser ejecutados por Entidades de naturaleza jurídica privada, deben incluir\npara la supervisión un valor mínimo de $8.500.0002 por cada mes de ejecución del proyecto, para soportar los\ngastos de honorarios de personal y demás costos que se requieran para el correcto desarrollo de la figura de\nsupervisión. La cantidad de personal y el monto máximo de esta actividad será cuantificado por la entidad proponente\nconforme a los requerimientos y alcances del proyecto.\nInterventoría\nConforme al artículo 83 de la Ley 1474 de 2011, se entenderá como interventoría el seguimiento técnico que sobre el\ncumplimiento del contrato y/o proyecto que realice una persona natural o jurídica contratada para tal fin por la Entidad\nEstatal, cuando el seguimiento del contrato y/o proyecto suponga conocimiento especializado en la materia, o cuando la\ncomplejidad o la extensión del mismo lo justifiquen.\nLa interventoría puede incluir en su objeto el seguimiento administrativo, técnico, financiero, contable y jurídico del contrato\ny/o proyecto. Es importante mencionar, que el correcto cálculo de los valores de interventoría es responsabilidad de la\nentidad proponente, este debe encontrarse claramente soportado en el presupuesto del proyecto y debe contemplar para su\ncálculo, conforme la necesidad de la actividad de vigilancia del proyecto, los siguientes componentes tales como: cantidad\nde personal y honorarios (tener en cuenta nivel de formación y dedicación durante la ejecución del proyecto), locación,\nequipos, materiales e insumos, pruebas o estudios, IVA del contrato de interventoría, el desagregado del factor multiplicador\ndel valor de la interventoría y el margen de utilidad, requeridos para el correcto desarrollo del proceso de interventoría.\n• Interventoría a proyectos ejecutados por entidades de naturaleza jurídica pública\nLas entidades de naturaleza jurídica pública, para el proceso de interventoría deberán seguir lo establecido en el\nartículo 55 de la Ley 2056 de 2020, así como lo establecido en el artículo 83 de la Ley 1474 de 2011.\n• Interventoría a los proyectos que ejecuten entidades de naturaleza jurídica privada:\nDe acuerdo con lo establecido en el artículo 83 de la Ley 1474 de 2011, en cumplimiento de lo contenido en el artículo\n55 de la Ley 2056 de 2020 y el artículo 1.2.3.3.2 del Decreto 1821 de 2020 MINCIENCIAS o los departamentos que así\nlo soliciten, realizarán la interventoría a los proyectos que cuenten con ejecutor de naturaleza jurídica privada.\nPara la interventoría, las entidades proponentes deberán contemplar un porcentaje mínimo del 5%3 del valor total del\nproyecto. No obstante, este porcentaje podrá incrementarse según el análisis de componentes para el cálculo mencionado\nanteriormente.\nNotas:\n● Se recomienda que los costos de apoyo a la supervisión se contemplen desde la etapa precontractual hasta la\netapa de cierre y liquidación del proyecto.\n2 Valor calculado con base en la Resolución de MINCIENCIAS No. 608 del 2020 por la cual se adopta la tabla de honorarios para la contratación de\nprestación de servicios profesionales y de apoyo a la gestión que celebre el Ministerio de Ciencia, Tecnología e Innovación con personas naturales.\nAsimismo, este valor contempla el cálculo de gastos mínimos de desplazamiento.\n3 Porcentaje calculado con los valores históricos de los proyectos aprobados de las convocatorias del Plan bienal del FCTeI-SGR de 2019-2020.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 15 de 20\n● El apoyo a la supervisión se financiará con cargo a los recursos del proyecto y deberá ser vinculado mediante\ncontrato de prestación de servicios, salvo que la entidad asuma dicho costo con cargo a recursos de contrapartida,\nlo cual deberá especificarse en los componentes presupuestales de la propuesta.\n● Para proyectos presentados por entidades de naturaleza jurídica privada no se permitirá el aporte de contrapartida\npara el desarrollo de actividades de seguimiento (supervisión / interventoría).\n● Los departamentos que soliciten al OCAD de CTeI del SGR la designación para la vigilancia de los proyectos que\nse desarrollen en su territorio, deberán remitir a la Secretaría Técnica, la solicitud acompañada de la justificación\ntécnica, administrativa y financiera y la idoneidad para realizar las actividades definidas, en atención a lo estipulado\nen el artículo 1.2.3.3.2 del Decreto 1821 de 2020.\n● Para efectos de las funciones de los supervisores, se recomienda consultar lo dispuesto en la Ley 1474 de 2011 y\nen el portal Colombia Compra Eficiente (https://www.colombiacompra.gov.co/colombia-compra/colombia-compra-\neficiente).\n● Para las entidades de naturaleza pública y privada, la supervisión e interventoría de los proyectos de inversión\nestará sujeta a la entidad pública que designe el OCAD para adelantar las actividades de vigilancia y seguimiento\nde los proyectos, en los términos establecidos en la Ley 2056 de 2020 y el Decreto 1821 de 2020.",
+      "n_caracteres": 8214
+    },
+    {
+      "numero": 14,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "ACTIVIDAD FECHA MÁXIMA\nApertura de la convocatoria 01 de agosto de 2022\n30 de septiembre de 2022 hasta las 4:00 p.m.\nCierre de la convocatoria\n(hora colombiana)\n12 de octubre de 2022 hasta el 14 de octubre de 2022 a las 4:00\nPeriodo de ajuste de los requisitos de la convocatoria.\np.m. (hora colombiana)\nPublicación del listado preliminar de elegibles Hasta el 22 de noviembre de 2022\nPeríodo de solicitud de aclaraciones del listado 23 de noviembre de 2022 hasta el 25 de noviembre de 2022 a\npreliminar de elegibles las 4:00 p.m. (hora colombiana)\nRespuesta a solicitud de aclaraciones 28 de noviembre de 2022 hasta el 01 de diciembre de 2022\nPublicación del listado definitivo de elegibles Hasta el 09 de diciembre de 2022\nSolicitud creación de Rol formulador CTeI 23 de noviembre de 2022 hasta el 13 de diciembre de 2022\nTiempo de cargue y transferencia de información de 12 de diciembre de 2022 hasta el 27 de enero de 2023 a las 4:00\nproyectos de inversión en SUIFP – SGR p.m. (hora colombiana)\nTiempo verificación y cumplimiento de requisitos del\n30 de enero de 2023 hasta el 30 de marzo de 2023\nSGR\nNotas:\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 16 de 20\n• Los proyectos que queden como elegibles en el listado definitivo de elegibles deberán cargar la información del\nproyecto de inversión en el SUIFP-SGR en el plazo establecido, de lo contrario, el proyecto de inversión no pasará\na la verificación de requisitos de viabilidad del SGR.\n• Durante la etapa de verificación de requisitos del SGR, los proyectos podrán presentarse para el cumplimiento de\nrequisitos máximo hasta tres (3) días hábiles previos a la fecha de cierre de la actividad.",
+      "n_caracteres": 1676
+    },
+    {
+      "numero": 15,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "texto": "MINCIENCIAS en coordinación con el DNP, y con previa autorización del OCAD de CTeI del SGR, podrán modificar el\ncontenido de los términos de referencia, así como su cronograma, por las causas establecidas en el Instructivo Trámite de\nAdendas a Convocatorias de CTeI (documento disponible en la página web de MINCIENCIAS, Micrositio Calidad), esto es:\npor fuerza mayor o caso fortuito, o por causas imprevisibles no atribuibles a MINCIENCIAS, o por necesidad de la Entidad,\nacordes con el interés general, garantizando que con la modificación no se vulnerarán los principios de igualdad, eficacia,\neconomía, imparcialidad y publicidad, establecidos en el artículo 209 de la Constitución Política.",
+      "n_caracteres": 695
+    },
+    {
+      "numero": 16,
+      "titulo": "CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALÍAS",
+      "titulo_norm": "CUMPLIMIENTO DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
+      "texto": "Para los proyectos que resulten elegibles en el marco de la presente convocatoria, las entidades proponentes deberán\niniciar el proceso de estructuración del proyecto y el cumplimiento de las condiciones dispuestas por la normatividad del\nSGR. Para efectos de este trámite, deberán incluir la ficha de la propuesta registrada en el SIGP al transferir el proyecto al\nBanco de proyectos del OCAD de la Secretaría Técnica del OCAD de CTeI del SGR obteniendo el BPIN en la plataforma\nMGA WEB del DNP. Lo anterior, se deberá realizar en el plazo contemplado para la actividad “Tiempo de cargue de\ninformación de proyectos de inversión en SUIFP-SGR” establecido en el numeral 14– CRONOGRAMA.\nUna vez el proyecto de inversión pública susceptible de ser financiado con recursos de la Asignación para la inversión en\nCTeI cumpla los requisitos de la normatividad del SGR, se someterá a consideración del Órgano Colegiado de\nAdministración y Decisión (OCAD) de CTeI del SGR para ser viabilizado, priorizado y aprobado.\nEl plazo máximo para que los proyectos de inversión cumplan con los requisitos establecidos en la guía de\norientaciones transitorias para la gestión de proyectos de inversión, o la que haga sus veces, es el plazo establecido en el\nnumeral 14 -CRONOGRAMA de los términos de referencia.\nNotas:\n● Cuando se presenten cambios en el proyecto ya evaluado posterior a la publicación del listado definitivo de\nelegibles, que alteren sustancialmente las actividades y alcance de la propuesta, o tengan por objeto el cambio en\nlos objetivos, la entidad proponente o su idoneidad y trayectoria, o que implique modificaciones técnicas de los\nestudios que soportan su viabilidad, se entenderá como una propuesta diferente a la incluida en la lista de\nelegibles.\n● Los proyectos elegibles que requieran del aval del Comité de Ética o Bioética deberán presentar dicho aval en esta\netapa según lo establecido en el numeral 5 – REQUISITOS.\n● No serán tenidos en cuenta para el proceso de verificación de requisitos del SGR proyectos presentados por fuera\nde los plazos establecidos para la actividad “Tiempo de cargue de información de proyectos de inversión en SUIFP\n– SGR” establecido en el numeral 14– CRONOGRAMA.\n● Los proyectos de inversión transferidos tendrán hasta cuatro (4) procesos de verificación por parte\nde MINCIENCIAS para lograr el cumplimiento de requisitos del Sistema General de Regalías. En el caso de que un\nproyecto haya surtido cuatro (4) procesos de verificación sin lograr el cumplimiento de requisitos del SGR, este\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 17 de 20\nserá retirado del proceso.\n● Durante la etapa de verificación de requisitos del SGR, los proyectos podrán presentar subsanaciones a las\nobservaciones emitidas por MINCIENCIAS máximo hasta tres (3) días hábiles previos a la fecha de cierre de la\nactividad.\n● De acuerdo con lo establecido en el Artículo 1.2.3.2.8. Priorización de Proyectos de Inversión, del Decreto 1821 de\n2020 que menciona: “La priorización de proyectos de inversión para la aprobación por parte del Órgano Colegiado\nde Administración y Decisión de Ciencia, Tecnología e Innovación, respetará el orden de elegibilidad con base en\nel puntaje de evaluación de los proyectos y los recursos disponibles para la aprobación de proyectos, de acuerdo\ncon las reglas establecidas en los términos de referencia”, la verificación de requisitos de los proyectos de\ninversión se realizará conforme a la posición de los proyectos en el listado definitivo de elegibles y la disponibilidad\nde recursos para la aprobación de proyectos.",
+      "n_caracteres": 3595
+    },
+    {
+      "numero": 17,
+      "titulo": "ACCESO A BENEFICIOS TRIBUTARIOS",
+      "titulo_norm": "ACCESO A BENEFICIOS TRIBUTARIOS",
+      "texto": "Las entidades participantes en los proyectos que sean aprobados por parte del OCAD de CTeI del SGR y, que hayan dado\ninicio a la ejecución de los mismos, podrán realizar el trámite para acceder a los siguientes beneficios tributarios en CTeI:\nPara instituciones de educación y centros de investigación y desarrollo tecnológico reconocidos por MINCIENCIAS:\n• Exención del IVA por importación de equipos y elementos: Todos los equipos y elementos que importen estas\ninstituciones, en el marco de los proyectos apoyados en esta iniciativa podrán solicitar la exención de IVA la cual\nincluye el valor del equipo, los seguros y fletes. (Art. 428-1 del Estatuto Tributario, en adelante E.T.)\nPara Empresas:\n• Deducción y descuento por inversión en CTeI: La inversión realizada por las empresas en los rubros aprobados por el\nConsejo Nacional de Beneficios Tributarios (CNBT), podrá deducirse en un 100% (Art. 158-1 del Estatuto Tributario, en\nadelante E.T., y descontar directamente del impuesto a pagar el 25% de la inversión (Art. 256 del E.T.) hasta un tope\ndel 25% del impuesto a pagar (Art. 258 del E.T.)\n• Crédito fiscal por inversión en CTeI: La inversión realizada por las micro, pequeñas y medianas empresas (MiPymes)\nen los rubros aprobados por el CNBT, podrá ser considerada para la emisión de un Certificado de Crédito Fiscal\nequivalente al 50% de dicha inversión. Este certificado podrá ser utilizado para la compensación del impuesto de renta\ny complementarios, o la solicitud de Títulos de Devolución de Impuestos (TIDIS) ante la Unidad Administrativa Especial\nDirección de Impuestos y Aduanas Nacionales (DIAN) (Art 256-1 del E.T.)\nPara el personal científico involucrado en proyectos de CTeI:\n• Ingresos no constitutivos de renta y/o Ganancia Ocasional: Las entidades podrán solicitar a MINCIENCIAS que la\nremuneración percibida por las personas naturales vinculadas como personal científico del proyecto, sea declarada\ncomo un ingreso no constitutivo de renta y/o ganancia ocasional (Art 57-2 del E.T.)\nPara el acceso a estos beneficios tributarios, por favor consultar los criterios, condiciones y directrices definidas por el\nConsejo Nacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación. Mayor información en el siguiente enlace:\nhttps://minciencias.gov.co/viceministerios/conocimiento/direccion_transferencia/beneficios-tributarios.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 18 de 20",
+      "n_caracteres": 2438
+    },
+    {
+      "numero": 18,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "texto": "Los proyectos se regirán por las siguientes reglas de propiedad intelectual:\n• En el evento en que se llegaren a generar derechos de propiedad intelectual sobre los resultados que se obtengan\no se pudieran obtener en el marco del desarrollo de la presente convocatoria, los participantes del proyecto\ndefinirán entre ellas la titularidad de los derechos de propiedad intelectual que se generen en la ejecución de los\nproyectos, siempre que la participación se realice en alianza, de conformidad con el artículo 1.2.3.1.1 del Decreto\n1821 de 2020 y las normas aplicables sobre la materia en Colombia.\n• MINCIENCIAS y el OCAD del CTeI del SGR respetarán los derechos morales de las personas naturales que\nparticipen en los proyectos derivados de la presente convocatoria.\n• MINCIENCIAS se reserva el derecho de obtener una licencia no exclusiva y gratuita sobre los derechos de\npropiedad intelectual obtenidos en desarrollo de la presente convocatoria por motivos de interés nacional,\ncomprometiéndose a respetar los derechos morales a que hubiere lugar, de conformidad con el artículo 10 de la\nLey 1753 de 2015 o la norma que la modifique o sustituya.\n• En cualquier evento o medio de divulgación utilizado para difundir los resultados del proyecto, se deberá dar el\nrespectivo reconocimiento al OCAD de Ciencia, Tecnología e Innovación del Sistema General de Regalías y al\nMinisterio de Ciencia, Tecnología e Innovación, incluyendo las imágenes institucionales del SGR y del Ministerio de\nacuerdo con el manual de imagen corporativa alojado en http://www.minciencias.gov.co, pestaña Ciudadano.",
+      "n_caracteres": 1593
+    },
+    {
+      "numero": 19,
+      "titulo": "CIENCIA ABIERTA",
+      "titulo_norm": "CIENCIA ABIERTA",
+      "texto": "De acuerdo con lo establecido en la Resolución 0361 del 19 de marzo de 2020, con el propósito de fomentar la ciencia\nabierta en Colombia, quien con recursos públicos adelante o ejecute proyectos de investigación y desarrollo de ciencia\ntecnología e innovación y de tecnologías de la información y las telecomunicaciones se obliga a poner a disposición del\nEstado y de otros investigadores a través del medio que designe el Ministerio de Ciencia Tecnología e Innovación para el\nefecto, los datos y procedimientos de la investigación, tales como, cuadernos de notas, cuadernos de campo, protocolos\nexperimentales, videos de experimentos y todos los demás elementos intermedios comunicables y potencialmente útiles\npara otros investigadores, así como poner en acceso abierto, las prepublicaciones (pre-print) o versiones previas a la\nrevisión de pares.\nEn aquellos eventos en los que no sea posible la publicación de los materiales anteriormente descritos (ya sea por razón de\nsu naturaleza, carácter de reserva o afecte derechos propios o de terceros de Propiedad Intelectual), quien con recursos\npúblicos adelante o ejecute proyectos de investigación y desarrollo de ciencia, tecnología e innovación y de tecnologías de\nla información y las telecomunicaciones, deberá exponer los motivos que impiden dicha publicación en la carta de aval.",
+      "n_caracteres": 1337
+    },
+    {
+      "numero": 20,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "texto": "Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003, podrán desarrollar su actividad durante la\npresente convocatoria, conforme a lo estipulado en dicha normativa.\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 19 de 20",
+      "n_caracteres": 260
+    },
+    {
+      "numero": 21,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "texto": "• 1.1. Condiciones específicas para el mecanismo de participación 1.\n• 1.2. Condiciones específicas para el mecanismo de participación 2.\n• Anexo 1a. Carta de aval y compromiso institucional.\n• Anexo 1b. Carta de aval, compromiso institucional y Modelo de Gobernanza.\n• Anexo 2. Documento técnico.\n• Anexo 3. Presupuesto\n• Anexo 4. Modelo de aval de la comunidad local\n• Anexo 5. Formato de “Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de\nla alianza”.\n• Anexo 6. Definiciones de las Convocatorias de CTeI del SGR.pdf\n• Anexo 7. Marco normativo del CTeI del SGR.pdf\n• Anexo 8. Distribución geográfica por departamento y regiones.pdf",
+      "n_caracteres": 673
+    },
+    {
+      "numero": 22,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "texto": "Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la presente convocatoria, así\ncomo lo dispuesto en los presentes términos de referencia para el desarrollo de la misma y la entrega del recurso. Una vez\npresentado el proyecto no será posible alegar desconocimiento de lo escrito en estos términos de referencia ni de sus\nanexos.\nDe igual forma declaran que la información suministrada es veraz y corresponde a la realidad. En caso de encontrarse\nalguna incoherencia y/o inconsistencia en la información o documentación suministrada, MINCIENCIAS podrá en cualquier\nmomento rechazar la propuesta o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones legales\ncorrespondientes.",
+      "n_caracteres": 744
+    },
+    {
+      "numero": 23,
+      "titulo": "MAYOR INFORMACIÓN",
+      "titulo_norm": "MAYOR INFORMACION",
+      "texto": "EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN - MINCIENCIAS -\nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C.\nhttp://www.minciencias.gov.co\nAtención al Usuario\nTeléfono: (+57 - 1) 6258480 Extensión 2081\nLínea gratuita nacional: 018000 914446\nHorario: Lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua).\nEn caso de inquietudes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se\nencuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “CONVOCATORIA\n30 - SGR INNOVACIÓN TEJIDO EMPRESARIAL Y TRANSFERENCIA DE TECNOLOGÍA”\nDocumento aprobado en la sesión número 25 del OCAD de CTeI el 28 de julio de 2022\nCódigo: M801PR01F01\nVersión: 00\nVigente desde 2020-01-09\nPágina 20 de 20",
+      "n_caracteres": 817
+    }
+  ]
 }

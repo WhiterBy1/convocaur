@@ -32,7 +32,7 @@ import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from pypdf import PdfReader
+import pdfplumber
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 log = logging.getLogger("extraer_secciones_tdr")
@@ -67,17 +67,19 @@ PLANTILLA_SGR_BASE = [
     "CRONOGRAMA",
 ]
 
-# Línea de TOC: "1. PRESENTACIÓN ..... 3" o "1. PRESENTACIÓN 3"
+# Línea de TOC: "1. PRESENTACIÓN ..... 3", "1 PRESENTACIÓN ..... 3" (sin punto
+# tras el número, visto en convocatorias tipo 917/932) o "1. PRESENTACIÓN 3"
 RE_TOC = re.compile(
-    r"^(\d{1,2})\.\s+"
+    r"^(\d{1,2})\.?\s*"
     r"([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜa-záéíóúñü\s,/()\-]{3,}?)"
     r"\s*(?:\.{2,}|\s+)\s*"
     r"(\d{1,3})\s*$"
 )
 
-# Encabezado de cuerpo: "1. PRESENTACIÓN" (sin puntos líderes ni página al final)
+# Encabezado de cuerpo: "1. PRESENTACIÓN" o "1 PRESENTACIÓN" (sin puntos
+# líderes ni página al final)
 RE_BODY = re.compile(
-    r"^(\d{1,2})\.\s+"
+    r"^(\d{1,2})\.?\s*"
     r"([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ\s,/()\-]{3,100}?)"
     r"(?:\s+\d{1,3})?\s*$"  # a veces el OCR/PDF pega el nº de página
 )
@@ -109,16 +111,206 @@ def proporcion_mayusculas(texto: str) -> float:
     return sum(1 for c in letras if c.isupper()) / len(letras)
 
 
-def extraer_texto_pdf(path: Path) -> tuple[str, int]:
+# Palabras cortas y muy frecuentes en prosa en español. Si el texto está bien
+# espaciado deberían aparecer decenas de veces como tokens sueltos; si el PDF
+# pegó las palabras, prácticamente no aparecerán aisladas (quedan fundidas
+# con la palabra vecina). Más confiable que el largo promedio de "palabra"
+# (los puntos suspensivos de un TOC cuentan como una palabra larga y dan
+# falsos positivos con ese otro método).
+_STOPWORDS_RE = re.compile(r"\b(de|la|el|en|y|del|los|las|para|que|con|una|por)\b", re.IGNORECASE)
+
+
+def _texto_pegado(texto: str, muestra_chars: int = 4000, minimo_stopwords: int = 15) -> bool:
+    """Detecta texto sin espacios entre palabras (glitch de extracción de
+    algunos PDF) contando stopwords cortas como tokens aislados."""
+    muestra = texto[:muestra_chars]
+    if not muestra.strip():
+        return True
+    return len(_STOPWORDS_RE.findall(muestra)) < minimo_stopwords
+
+
+def _extraer_con_pdfplumber(path: Path) -> tuple[str, int]:
+    with pdfplumber.open(str(path)) as pdf:
+        paginas = [page.extract_text() or "" for page in pdf.pages]
+        return "\n".join(paginas), len(pdf.pages)
+
+
+def _extraer_con_pypdf(path: Path) -> tuple[str, int]:
+    from pypdf import PdfReader
+
     reader = PdfReader(str(path))
-    paginas = []
-    for page in reader.pages:
-        try:
-            paginas.append(page.extract_text() or "")
-        except Exception as exc:
-            log.warning("Fallo extrayendo una página de %s: %s", path.name, exc)
-            paginas.append("")
+    paginas = [page.extract_text() or "" for page in reader.pages]
     return "\n".join(paginas), len(reader.pages)
+
+
+# PDF escaneados (sin capa de texto): ni pdfplumber ni pypdf extraen nada.
+# Como último recurso se rasteriza cada página con pymupdf y se transcribe
+# con un LLM de visión gratuito en OpenRouter. El pool gratuito comparte
+# rate-limit entre todos los usuarios y falla de forma intermitente (se
+# probó en piloto: 2 de 3 modelos fallaron por rate-limit/timeout en un
+# intento), por eso la cadena de fallback entre varios modelos en vez de
+# depender de uno solo. Configurable vía OPENROUTER_OCR_MODELS en .env
+# (lista separada por comas, mismo patrón que OPENROUTER_MODEL para nlp).
+# Orden por defecto según confiabilidad observada en el piloto.
+_MODELOS_OCR_FALLBACK_DEFAULT = [
+    "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "google/gemma-4-31b-it:free",
+    "nvidia/nemotron-nano-12b-v2-vl:free",
+]
+
+
+def _modelos_ocr_fallback() -> list[str]:
+    import os
+
+    valor = os.getenv("OPENROUTER_OCR_MODELS")
+    if not valor:
+        return _MODELOS_OCR_FALLBACK_DEFAULT
+    return [m.strip() for m in valor.split(",") if m.strip()]
+
+UMBRAL_TEXTO_VACIO = 200  # chars totales del documento; menos que esto -> intentar OCR
+
+_OCR_PROMPT = (
+    "Transcribe TODO el texto de esta imagen de un documento oficial en "
+    "español, tal cual aparece, sin resumir ni omitir nada. No agregues "
+    "comentarios tuyos, solo la transcripción."
+)
+
+
+# Límites para detectar transcripciones "degeneradas": algunos modelos
+# gratuitos, sobre todo los de razonamiento, a veces filtran su cadena de
+# pensamiento dentro del contenido final, o entran en un bucle repitiendo la
+# misma oración hasta el límite de tokens (visto en piloto: una sola página
+# devolvió 160k+ caracteres, casi todo el mismo fragmento repetido cientos de
+# veces). Una página normal de este tipo de documento ronda 1.5k-6k chars.
+MAX_CHARS_PAGINA_OCR = 9000
+_LARGO_NGRAMA_REPETICION = 40
+_MIN_REPETICIONES_SOSPECHOSAS = 4
+
+
+def _ocr_texto_degenerado(texto: str) -> bool:
+    """Detecta fuga de razonamiento (frases tipo "Self-Correction", "Draft &
+    Refinement") o bucles de repetición, ademas del tope simple de longitud."""
+    if len(texto) > MAX_CHARS_PAGINA_OCR:
+        return True
+    if re.search(r"self-correction|draft (&|and) refinement|as an ai", texto, re.IGNORECASE):
+        return True
+    if len(texto) > _LARGO_NGRAMA_REPETICION * _MIN_REPETICIONES_SOSPECHOSAS:
+        muestra = texto[len(texto) // 3 : len(texto) // 3 + _LARGO_NGRAMA_REPETICION]
+        if muestra.strip() and texto.count(muestra) >= _MIN_REPETICIONES_SOSPECHOSAS:
+            return True
+    return False
+
+
+def _ocr_pagina(imagen_png: bytes, max_reintentos_por_modelo: int = 1) -> str:
+    """Transcribe una página escaneada probando la cadena de modelos de OCR.
+
+    Si un modelo devuelve un resultado degenerado (ver `_ocr_texto_degenerado`)
+    se descarta como si hubiera fallado y se pasa al siguiente modelo de la
+    cadena. Devuelve "" si todos fallan (no debe frenar el resto del
+    documento por una sola página problemática).
+    """
+    import base64
+    import time
+
+    import requests
+
+    from convocaur.nlp.extract_llm import OPENROUTER_URL, get_api_key
+
+    b64 = base64.b64encode(imagen_png).decode("utf-8")
+    headers = {"Authorization": f"Bearer {get_api_key()}", "Content-Type": "application/json"}
+
+    for modelo in _modelos_ocr_fallback():
+        for intento in range(max_reintentos_por_modelo + 1):
+            payload = {
+                "model": modelo,
+                "reasoning": {"enabled": False},
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": [
+                            {"type": "text", "text": _OCR_PROMPT},
+                            {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{b64}"}},
+                        ],
+                    }
+                ],
+            }
+            try:
+                resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=150)
+                data = resp.json()
+            except Exception as exc:
+                log.warning("OCR: fallo de red con %s (intento %s): %s", modelo, intento, exc)
+                continue
+            if "choices" in data:
+                contenido = data["choices"][0]["message"]["content"]
+                if _ocr_texto_degenerado(contenido):
+                    log.warning(
+                        "OCR: %s devolvió una transcripción degenerada (%s chars, intento %s), se descarta",
+                        modelo, len(contenido), intento,
+                    )
+                    continue
+                return contenido
+            log.warning("OCR: %s no respondió (intento %s): %s", modelo, intento, data.get("error"))
+            time.sleep(2)
+    log.error("OCR: todos los modelos de la cadena de fallback fallaron para esta página")
+    return ""
+
+
+def _ocr_pdf(path: Path) -> tuple[str, int]:
+    """OCR página por página vía LLM de visión, para PDF sin capa de texto."""
+    import fitz
+
+    doc = fitz.open(str(path))
+    n_paginas = doc.page_count
+    textos = []
+    for i, page in enumerate(doc):
+        pix = page.get_pixmap(dpi=200)
+        log.info("  OCR %s página %s/%s ...", path.name, i + 1, n_paginas)
+        textos.append(_ocr_pagina(pix.tobytes("png")))
+    doc.close()
+    return "\n".join(textos), n_paginas
+
+
+def extraer_texto_pdf(path: Path, ocr_si_vacio: bool = True) -> tuple[str, int]:
+    """Extrae el texto completo del PDF.
+
+    pdfplumber suele preservar mejor los espacios entre palabras que pypdf,
+    pero para algunos PDF específicos ocurre lo contrario (font/encoding
+    particular). Se prueba pdfplumber primero y, si el resultado sale con
+    palabras pegadas, se reintenta con pypdf y se usa el que no esté pegado
+    (o el que tenga palabras más cortas, si ambos lo están).
+
+    Si ninguno de los dos extrae texto real (PDF escaneado), se cae a OCR
+    vía LLM de visión (ver `_ocr_pdf`), salvo que `ocr_si_vacio=False`.
+    """
+    try:
+        texto, n_paginas = _extraer_con_pdfplumber(path)
+    except Exception as exc:
+        log.warning("pdfplumber falló en %s: %s", path.name, exc)
+        texto, n_paginas = "", 0
+
+    if _texto_pegado(texto):
+        try:
+            texto_alt, n_paginas_alt = _extraer_con_pypdf(path)
+        except Exception as exc:
+            log.warning("pypdf falló en %s: %s", path.name, exc)
+            texto_alt, n_paginas_alt = "", 0
+
+        if texto_alt.strip() and not _texto_pegado(texto_alt):
+            log.info("%s: pdfplumber dio texto pegado, se usó pypdf en su lugar", path.name)
+            texto, n_paginas = texto_alt, n_paginas_alt
+        elif texto_alt.strip() and len(_STOPWORDS_RE.findall(texto_alt[:4000])) > len(
+            _STOPWORDS_RE.findall(texto[:4000])
+        ):
+            # Ambos vienen pegados: nos quedamos con el que tenga más stopwords sueltas
+            texto, n_paginas = texto_alt, n_paginas_alt
+
+    if ocr_si_vacio and len(texto.strip()) < UMBRAL_TEXTO_VACIO:
+        log.warning("%s: sin texto extraíble (%s chars), probando OCR vía LLM", path.name, len(texto.strip()))
+        texto_ocr, n_paginas_ocr = _ocr_pdf(path)
+        if len(texto_ocr.strip()) > len(texto.strip()):
+            return texto_ocr, n_paginas_ocr
+
+    return texto, n_paginas
 
 
 def detectar_toc(texto: str, max_chars_busqueda: int = 18000) -> list[dict]:
@@ -196,7 +388,8 @@ def detectar_encabezados_cuerpo(texto: str, toc: list[dict] | None = None) -> li
                 offset += len(line)
                 continue
             if permitidos is None or (num, titulo_norm) in permitidos or any(
-                t == titulo_norm for _, t in permitidos
+                t == titulo_norm or titulo_norm.startswith(t) or t.startswith(titulo_norm)
+                for _, t in permitidos
             ):
                 candidatos.append({
                     "numero": num,
@@ -266,9 +459,9 @@ def comparar_con_plantilla(titulos_norm: list[str], plantilla: list[str]) -> dic
     }
 
 
-def procesar_pdf(path: Path) -> dict:
+def procesar_pdf(path: Path, ocr_si_vacio: bool = True) -> dict:
     log.info("Procesando %s", path.name)
-    texto, n_paginas = extraer_texto_pdf(path)
+    texto, n_paginas = extraer_texto_pdf(path, ocr_si_vacio=ocr_si_vacio)
     toc = detectar_toc(texto)
     encabezados = detectar_encabezados_cuerpo(texto, toc if toc else None)
 
@@ -331,6 +524,11 @@ def main():
     parser.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
     parser.add_argument("--guardar-texto-completo", action="store_true",
                         help="Incluir texto_completo en cada JSON (archivos más pesados)")
+    parser.add_argument(
+        "--sin-ocr",
+        action="store_true",
+        help="No intentar OCR vía LLM en PDF sin capa de texto (mas rapido, deja esos documentos vacios)",
+    )
     args = parser.parse_args()
 
     pdfs = sorted(args.tdr_dir.glob("*.pdf"))
@@ -342,7 +540,7 @@ def main():
 
     for pdf in pdfs:
         try:
-            res = procesar_pdf(pdf)
+            res = procesar_pdf(pdf, ocr_si_vacio=not args.sin_ocr)
         except Exception as exc:
             log.error("Error en %s: %s", pdf.name, exc)
             resultados.append({
