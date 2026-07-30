@@ -32,7 +32,7 @@ import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from pypdf import PdfReader
+import pdfplumber
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 log = logging.getLogger("extraer_secciones_tdr")
@@ -67,17 +67,19 @@ PLANTILLA_SGR_BASE = [
     "CRONOGRAMA",
 ]
 
-# Línea de TOC: "1. PRESENTACIÓN ..... 3" o "1. PRESENTACIÓN 3"
+# Línea de TOC: "1. PRESENTACIÓN ..... 3", "1 PRESENTACIÓN ..... 3" (sin punto
+# tras el número, visto en convocatorias tipo 917/932) o "1. PRESENTACIÓN 3"
 RE_TOC = re.compile(
-    r"^(\d{1,2})\.\s+"
+    r"^(\d{1,2})\.?\s*"
     r"([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜa-záéíóúñü\s,/()\-]{3,}?)"
     r"\s*(?:\.{2,}|\s+)\s*"
     r"(\d{1,3})\s*$"
 )
 
-# Encabezado de cuerpo: "1. PRESENTACIÓN" (sin puntos líderes ni página al final)
+# Encabezado de cuerpo: "1. PRESENTACIÓN" o "1 PRESENTACIÓN" (sin puntos
+# líderes ni página al final)
 RE_BODY = re.compile(
-    r"^(\d{1,2})\.\s+"
+    r"^(\d{1,2})\.?\s*"
     r"([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ\s,/()\-]{3,100}?)"
     r"(?:\s+\d{1,3})?\s*$"  # a veces el OCR/PDF pega el nº de página
 )
@@ -109,16 +111,72 @@ def proporcion_mayusculas(texto: str) -> float:
     return sum(1 for c in letras if c.isupper()) / len(letras)
 
 
-def extraer_texto_pdf(path: Path) -> tuple[str, int]:
+# Palabras cortas y muy frecuentes en prosa en español. Si el texto está bien
+# espaciado deberían aparecer decenas de veces como tokens sueltos; si el PDF
+# pegó las palabras, prácticamente no aparecerán aisladas (quedan fundidas
+# con la palabra vecina). Más confiable que el largo promedio de "palabra"
+# (los puntos suspensivos de un TOC cuentan como una palabra larga y dan
+# falsos positivos con ese otro método).
+_STOPWORDS_RE = re.compile(r"\b(de|la|el|en|y|del|los|las|para|que|con|una|por)\b", re.IGNORECASE)
+
+
+def _texto_pegado(texto: str, muestra_chars: int = 4000, minimo_stopwords: int = 15) -> bool:
+    """Detecta texto sin espacios entre palabras (glitch de extracción de
+    algunos PDF) contando stopwords cortas como tokens aislados."""
+    muestra = texto[:muestra_chars]
+    if not muestra.strip():
+        return True
+    return len(_STOPWORDS_RE.findall(muestra)) < minimo_stopwords
+
+
+def _extraer_con_pdfplumber(path: Path) -> tuple[str, int]:
+    with pdfplumber.open(str(path)) as pdf:
+        paginas = [page.extract_text() or "" for page in pdf.pages]
+        return "\n".join(paginas), len(pdf.pages)
+
+
+def _extraer_con_pypdf(path: Path) -> tuple[str, int]:
+    from pypdf import PdfReader
+
     reader = PdfReader(str(path))
-    paginas = []
-    for page in reader.pages:
-        try:
-            paginas.append(page.extract_text() or "")
-        except Exception as exc:
-            log.warning("Fallo extrayendo una página de %s: %s", path.name, exc)
-            paginas.append("")
+    paginas = [page.extract_text() or "" for page in reader.pages]
     return "\n".join(paginas), len(reader.pages)
+
+
+def extraer_texto_pdf(path: Path) -> tuple[str, int]:
+    """Extrae el texto completo del PDF.
+
+    pdfplumber suele preservar mejor los espacios entre palabras que pypdf,
+    pero para algunos PDF específicos ocurre lo contrario (font/encoding
+    particular). Se prueba pdfplumber primero y, si el resultado sale con
+    palabras pegadas, se reintenta con pypdf y se usa el que no esté pegado
+    (o el que tenga palabras más cortas, si ambos lo están).
+    """
+    try:
+        texto, n_paginas = _extraer_con_pdfplumber(path)
+    except Exception as exc:
+        log.warning("pdfplumber falló en %s: %s", path.name, exc)
+        texto, n_paginas = "", 0
+
+    if not _texto_pegado(texto):
+        return texto, n_paginas
+
+    try:
+        texto_alt, n_paginas_alt = _extraer_con_pypdf(path)
+    except Exception as exc:
+        log.warning("pypdf falló en %s: %s", path.name, exc)
+        return texto, n_paginas
+
+    if not texto_alt.strip():
+        return texto, n_paginas
+    if not _texto_pegado(texto_alt):
+        log.info("%s: pdfplumber dio texto pegado, se usó pypdf en su lugar", path.name)
+        return texto_alt, n_paginas_alt
+
+    # Ambos vienen pegados: nos quedamos con el que tenga más stopwords sueltas
+    if len(_STOPWORDS_RE.findall(texto_alt[:4000])) > len(_STOPWORDS_RE.findall(texto[:4000])):
+        return texto_alt, n_paginas_alt
+    return texto, n_paginas
 
 
 def detectar_toc(texto: str, max_chars_busqueda: int = 18000) -> list[dict]:
@@ -196,7 +254,8 @@ def detectar_encabezados_cuerpo(texto: str, toc: list[dict] | None = None) -> li
                 offset += len(line)
                 continue
             if permitidos is None or (num, titulo_norm) in permitidos or any(
-                t == titulo_norm for _, t in permitidos
+                t == titulo_norm or titulo_norm.startswith(t) or t.startswith(titulo_norm)
+                for _, t in permitidos
             ):
                 candidatos.append({
                     "numero": num,

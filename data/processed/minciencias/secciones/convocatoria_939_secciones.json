@@ -2,21 +2,146 @@
   "archivo": "convocatoria_939_tdr.pdf",
   "convocatoria": "939",
   "n_paginas": 17,
-  "n_caracteres_total": 56505,
-  "toc_detectado": [],
-  "n_secciones_toc": 0,
-  "n_secciones_cuerpo": 0,
-  "fingerprint": "",
-  "titulos_norm": [],
+  "n_caracteres_total": 51935,
+  "toc_detectado": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "pagina_toc": 2
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "pagina_toc": 3
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "pagina_toc": 3
+    },
+    {
+      "numero": 4,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "pagina_toc": 3
+    },
+    {
+      "numero": 6,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 7,
+      "titulo": "CONTENIDOS DEL PROYECTO",
+      "titulo_norm": "CONTENIDOS DEL PROYECTO",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 8,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 9,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "pagina_toc": 7
+    },
+    {
+      "numero": 10,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "pagina_toc": 7
+    },
+    {
+      "numero": 11,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 12,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 13,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 14,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 15,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 16,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "pagina_toc": 16
+    },
+    {
+      "numero": 17,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "pagina_toc": 16
+    },
+    {
+      "numero": 18,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "pagina_toc": 17
+    },
+    {
+      "numero": 19,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "pagina_toc": 17
+    }
+  ],
+  "n_secciones_toc": 18,
+  "n_secciones_cuerpo": 18,
+  "fingerprint": "1.PRESENTACION > 2.OBJETIVO > 3.DIRIGIDA A > 4.REQUISITOS > 6.DURACION Y FINANCIACION > 7.CONTENIDOS DEL PROYECTO > 8.PROCEDIMIENTO DE INSCRIPCION > 9.AUTORIZACION USO DE DATOS PERSONALES > 10.CRITERIOS DE EVALUACION > 11.PROCEDIMIENTO DE EVALUACION > 12.BANCO DE ELEGIBLES > 13.CRONOGRAMA > 14.MODIFICACIONES > 15.PROPIEDAD INTELECTUAL > 16.VEEDURIAS CIUDADANAS > 17.ANEXOS > 18.ACEPTACION DE TERMINOS Y VERACIDAD > 19.MAS INFORMACION",
+  "titulos_norm": [
+    "PRESENTACION",
+    "OBJETIVO",
+    "DIRIGIDA A",
+    "REQUISITOS",
+    "DURACION Y FINANCIACION",
+    "CONTENIDOS DEL PROYECTO",
+    "PROCEDIMIENTO DE INSCRIPCION",
+    "AUTORIZACION USO DE DATOS PERSONALES",
+    "CRITERIOS DE EVALUACION",
+    "PROCEDIMIENTO DE EVALUACION",
+    "BANCO DE ELEGIBLES",
+    "CRONOGRAMA",
+    "MODIFICACIONES",
+    "PROPIEDAD INTELECTUAL",
+    "VEEDURIAS CIUDADANAS",
+    "ANEXOS",
+    "ACEPTACION DE TERMINOS Y VERACIDAD",
+    "MAS INFORMACION"
+  ],
   "comparacion_plantilla_sgr": {
-    "n_en_doc": 0,
+    "n_en_doc": 18,
     "n_plantilla": 21,
     "coinciden_exacto": false,
-    "cobertura_plantilla": 0.0,
+    "cobertura_plantilla": 0.381,
     "faltan_vs_plantilla": [
-      "PRESENTACION",
-      "OBJETIVO",
-      "DIRIGIDA A",
       "DEMANDAS TERRITORIALES",
       "LINEAS TEMATICAS",
       "ALCANCE DEL PROYECTO",
@@ -26,17 +151,150 @@
       "REQUISITOS HABILITANTES",
       "CAUSALES DE RECHAZO",
       "CONTENIDO DEL PROYECTO",
-      "PROCEDIMIENTO DE INSCRIPCION",
-      "DURACION Y FINANCIACION",
-      "CRITERIOS DE EVALUACION",
-      "PROCEDIMIENTO DE EVALUACION",
       "LISTADO DE ELEGIBLES",
       "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
       "VIGILANCIA DE LOS PROYECTOS",
-      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
-      "CRONOGRAMA"
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
     ],
-    "extra_vs_plantilla": []
+    "extra_vs_plantilla": [
+      "REQUISITOS",
+      "CONTENIDOS DEL PROYECTO",
+      "AUTORIZACION USO DE DATOS PERSONALES",
+      "BANCO DE ELEGIBLES",
+      "MODIFICACIONES",
+      "PROPIEDAD INTELECTUAL",
+      "VEEDURIAS CIUDADANAS",
+      "ANEXOS",
+      "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "MAS INFORMACION"
+    ]
   },
-  "secciones": []
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "texto": "El Ministerio de Ciencia, Tecnología e Innovación como ente rector del Sistema Nacional de Ciencia, Tecnología e\nInnovación (SNCTeI), es el encargado de formular la política pública de Ciencia, Tecnología e Innovación – CTeI del estado\ncolombiano, así como de direccionar, articular y fomentar la investigación científica, desarrollo e innovación en el país. En el\nejercicio de estas funciones misionales, se definió en el Plan Estratégico Institucional 2023-2026, en el objetivo estratégico\n“Adoptar enfoques de políticas públicas de investigación e innovación para resolver grandes desafíos sociales, económicos\ny ambientales del país”. Adicionalmente, esta iniciativa está alineada al PAI con el Programa Estratégico \"(PE5) Mejorar las\ncapacidades para la transferencia de conocimiento y tecnología, con el fin de incrementar los niveles de productividad del\npaís aportando a la reindustrialización en los retos priorizados\". Con el fin de dar plena transparencia al proceso de\nbeneficios de este mecanismo para los grupos de valor.\nPor consiguiente, la presente convocatoria está orientada a la calificación de los proyectos como de investigación científica,\ndesarrollo e innovación cuyo propósito sea obtener resultados relevantes para el desarrollo del país e impulsar la\ncompetitividad de las empresas. El personal vinculado en los proyectos podrá acceder al beneficio tributario de Ingresos No\nConstitutivos de Renta y/o Ganancia Ocasional, aplicable a la remuneración de personas naturales por la ejecución directa\nde labores de carácter científico, tecnológico o de innovación, siempre que dicha remuneración provenga de los recursos\ndestinados al respectivo proyecto, como lo establece el artículo 57-2 del E.T. (ver Anexo 1. Antecedentes)\nEl Consejo Nacional de Beneficios Tributarios, en adelante CNBT ha establecido los criterios y condiciones para la\ncalificación de proyectos de investigación científica, desarrollo e innovación en el Documento de “Tipología de Proyectos\nCalificados como de Carácter Científico, Tecnológico e Innovación” versión 6. La nueva versión de este documento fue\nrealizada teniendo en cuenta tanto las tendencias internacionales en políticas de ciencia, tecnología e innovación, como\ncambios en manuales y directrices de la Organización para la Cooperación y el Desarrollo Económico (OCDE).\nEsta convocatoria se encuentra dirigida a entidades que implementaron proyectos de CTeI, y que en dicho proceso\ninvolucraron personas naturales nacionales y/o extranjeras, declarantes del impuesto de renta en Colombia, y que\nejecutaron actividades directas de I+D+i durante la vigencia 2022. Para esta convocatoria podrán presentarse: proyectos\nnuevos; proyectos cofinanciados por el Ministerio de Ciencia, Tecnología e Innovación; proyectos previamente calificados\npor el CNBT.\nEl registro de las propuestas deberá contemplar los requisitos descritos en el numeral 4. REQUISITOS de la presente\nconvocatoria. Todas las propuestas que cumplan con los requisitos serán evaluadas de la siguiente manera: las propuestas\nnuevas serán sometidas a la evaluación de expertos en las temáticas de los proyectos, aquellas que superen los 80 puntos\nserán calificadas y podrán acceder al beneficio tributario; las propuestas cofinanciadas por el Ministerio de Ciencia,\nTecnología e Innovación serán evaluadas por el área técnica respectiva, la cual emitirá un concepto homologando el\nconcepto técnico previamente realizado y el estado actual de ejecución del proyecto; las propuestas calificadas como de\nCTeI en otras convocatorias tendrán homologada la evaluación realizada, siempre que la entidad haya presentado\noportunamente el informe técnico y financiero del respectivo proyecto.\nLos proyectos postulados a la presente convocatoria deberán tener ejecución en la vigencia 2022, según el Acuerdo 31 de\n2022 “Por el cual se ordena la apertura de convocatoria de Registro de solicitudes que accederán a los beneficios tributarios\nde ingresos no constitutivos de renta 2022”.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 2 de 17\nNota: Se entenderá por empresa, todas aquellas de naturaleza, pública, privada y mixta que desarrollen proyectos de\nciencia, tecnología e innovación.",
+      "n_caracteres": 4359
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO",
+      "titulo_norm": "OBJETIVO",
+      "texto": "Calificar proyectos como de investigación científica, desarrollo e innovación para que el personal vinculado, que haya\nejecutado actividades directas de I+D+i, acceda al beneficio tributario de Ingresos No Constitutivos de Renta y/o Ganancia\nOcasional, siempre que la remuneración de este personal provenga de recursos destinados para el proyecto, según los\ncriterios y las condiciones definidas por el Consejo Nacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación\n(CNBT) y lo establecido por el artículo 57-2 del E.T.",
+      "n_caracteres": 535
+    },
+    {
+      "numero": 3,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "texto": "Esta convocatoria se encuentra dirigida a:\nEntidades que hayan ejecutado proyectos de CTeI, y que en dicho proceso se hayan involucrado personas naturales\nnacionales y/o extranjeras, declarantes del impuesto de renta en Colombia, para el desarrollo de actividades directas de\nI+D+i durante la vigencia 2022.\n.\nPodrán presentarse a la convocatoria:\n Entidades que postulen proyectos de ciencia, tecnología e innovación cofinanciados por el Ministerio de Ciencia,\nTecnología e Innovación en convocatorias previas, así como aquellos financiados a través del Fondo de Ciencia,\nTecnología e Innovación del Sistema General de Regalías, con ejecución en la vigencia 2022.\n Entidades que postulen proyectos calificados previamente por el CNBT en el marco de las convocatorias de beneficios\ntributarios, con ejecución en la vigencia 2022, siempre que presenten oportunamente los formatos de seguimiento a la\nejecución técnica y/o presupuestales definidos por la Secretaría Técnica del CNBT.\n Entidades que postulen proyectos nuevos, con ejecución en la vigencia 2022, que no han sido financiados por el\nMinisterio de Ciencia, Tecnología e Innovación o por el Fondo de Ciencia Tecnología e Innovación del Sistema General\nde Regalías o calificados por el CNBT",
+      "n_caracteres": 1251
+    },
+    {
+      "numero": 4,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "texto": "La presente convocatoria establece los siguientes requisitos que deben ser cumplidos por los postulantes:\n4.1. Cumplir con lo establecido en el numeral “3. DIRIGIDA A” de los presentes términos de referencia.\n4.2. Inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos del Ministerio de Ciencia, Tecnología e\nInnovación – SIGP, a través del formulario en línea disponible en el portal del Ministerio de Ciencia, Tecnología e Innovación\n(www.minciencias.gov.co).\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 3 de 17\n4.3. El proyecto inscrito deberá ser formulado en español, incluido el título.\n4.4. La carta de presentación y aval para acceder al beneficio tributario de Ingresos No Constitutivos de Renta, debe estar\nfirmada por el representante legal de la entidad ejecutora. En caso de que el representante legal no cuente con la\ncompetencia para asumir los compromisos consignados en la carta institucional, deberá presentar la documentación\nnecesaria para facultar al órgano competente (Ver Anexo 4). Si el proyecto financiado no se encuentra registrado en la\nplataforma SIGP, se deberá indicar en la carta de aval el título, convocatoria y código del proyecto, convenio o contrato que\nfue calificado y financiado con anterioridad.\n4.5. Las entidades participantes deberán estar legalmente constituidas en Colombia y demostrarlo mediante certificado de\nexistencia y representación legal vigente o documento equivalente adjuntando documento en el formulario de inscripción.\n4.6. Presentar el Aval del Comité de Ética/Bioética de la institución que presenta el proyecto, cuando aplique, donde se\nespecifique claramente que el proyecto ha sido revisado y avalado en sus componentes éticos e instrumentos a emplear. En\ncaso de que la institución que presenta el proyecto no cuente con un Comité de Ética, podrá solicitar este aval ante otra\nentidad que cuente con uno. Debe anexar a este aval, el acto administrativo que soporta la conformación del Comité de\nética que lo expide. Para proyectos del área de salud este requisito será obligatorio.\n4.7. Presentar Formato de Informe de Personal y uso del beneficio tributario (Ver Anexo 6) debidamente diligenciado\ncorrespondiente al proyecto previamente (proyectos calificado o cofinanciado). La información consignada en el formato de\nseguimiento está sujeto a verificación y aprobación por parte de la Secretaría Técnica del CNBT.\nNota:\n El Ministerio de Ciencia, Tecnología e Innovación podrá solicitar en cualquier momento, información y\ndocumentación adicional, complementaria o aclaraciones de los documentos entregados.\n5. CONDICIONES INHABILITANTES.\nLa presente convocatoria cuenta con las siguientes condiciones inhabilitantes:\n5.1. No podrán presentar y avalar personal vinculado para el acceso al beneficio tributario las entidades que no estén\nlegalmente constituidas en Colombia.\n5.2. No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional las remuneraciones\nque no sean provenientes de proyectos de ciencia, tecnología e innovación.\n5.3. No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que\nreciba el contribuyente que provengan de actividades ilícitas.\n5.4. No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que\nreciba el contribuyente por concepto de representación legal.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 4 de 17\n5.5. No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y la\nnormatividad vigente o que éstos no se subsanen dentro de los plazos establecidos en el numeral “14. CRONOGRAMA”.\n5.6. Estar inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidos en la Constitución, en la\nley, reglamentos, entre otros.",
+      "n_caracteres": 4145
+    },
+    {
+      "numero": 6,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "texto": "La duración del proyecto podrá ser determinada por la entidad postulante, teniendo en cuenta su tipología, alcance,\nobjetivos, metodología y resultados esperados. Una vez definido el periodo de ejecución del proyecto, deberá estar\nestablecido el personal requerido y el tiempo de dedicación semanal necesario para el desarrollo de actividades propuestas,\nsiendo este el insumo para la identificación de la remuneración que será objeto del beneficio tributario de Ingresos no\nConstitutivos de Renta y/o Ganancia Ocasional.",
+      "n_caracteres": 521
+    },
+    {
+      "numero": 7,
+      "titulo": "CONTENIDOS DEL PROYECTO",
+      "titulo_norm": "CONTENIDOS DEL PROYECTO",
+      "texto": "Los contenidos solicitados para el registro de los proyectos en el marco de la presente convocatoria se encuentran definidos\nen el documento “Tipología de Proyectos calificados como de carácter científico, tecnológico o de innovación” versión 6\n(Anexo 3), aprobado por el CNBT mediante Acta 01 de 2021, en los numerales 2.1.3 para investigación científica, 2.2.3 para\ndesarrollo y 2.3.3 para innovación.",
+      "n_caracteres": 403
+    },
+    {
+      "numero": 8,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "texto": "Para la inscripción de proyectos a través del Sistema Integrado de Gestión de Proyectos – SIGP – formulario en línea, se\ndeberá seguir el siguiente procedimiento:\n8.1. Ingresar a la página web del Ministerio de Ciencia, Tecnología e Innovación (www.minciencias.gov.co).\n8.2. Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, donde se despliega Beneficios\nTributarios, allí encontrará disponibles los diferentes formularios en línea para aplicar a las convocatorias del Ministerio\nde ciencia, tecnología e innovación (https://minciencias.gov.co/scienti).\n8.3. Realizar el pre-registro de las entidades participantes en el proyecto con la información solicitada. El Ministerio de\nCiencia, Tecnología e Innovación en un periodo de dos (2) días hábiles remitirá a su correo electrónico de contacto las\ncredenciales de acceso para el ingreso al sistema de registro de entidades, solo si la entidad fue avalada, de lo\ncontrario el sistema enviará un correo informando que la entidad fue rechazada y la razón del rechazo. El pre-registro\ndeberá ser realizado máximo cuatro (4) días hábiles antes de la fecha de cierre de la convocatoria, ver numeral “14.\nCRONOGRAMA”.\n8.4. Ingresar al módulo de entidades con sus credenciales y registrar la información de la entidad ejecutora y entidades\nparticipantes en el proyecto, seleccionado la opción convocatoria de beneficios tributarios. En caso de encontrarse\nregistradas las entidades en este sistema, no se requiere de un nuevo registro, sin embargo, podrá actualizar la\ninformación.\n8.5. Una vez finalizado el registro de la entidad, ingresar al link de Formulario disponible en:\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 5 de 17\nhttps://plataformasigp.minciencias.gov.co:7003/FormularioEstimulos/.\n8.6. Diligenciar la información solicitada por el formulario en línea para la presentación de los proyectos a la convocatoria.\nPara recibir las credenciales de acceso de la propuesta por correo electrónico, deberá registrar como mínimo el título\ndel proyecto, la entidad ejecutora, la convocatoria, y correo electrónico.\n8.7. Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un requisito necesita anexar más de\nun documento, guárdelos en una sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo\ncorrespondiente al requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, puede hacerlo\nexaminando y adjuntando el documento deseado. Es importante resaltar que el tamaño de cada archivo anexado de\ncada uno de los requisitos cuenta con una capacidad máxima de 3MB; el requisito “Otros adjuntos” tiene una capacidad\nmáxima de 10 MB. No se recibirán documentos con link de descarga. De hacer cambios en los adjuntos, el sistema\nsolo tendrá en cuenta el último documento cargado.\n8.8. Para validar, por favor haga clic en el botón “Validar”, ubicado en la parte inferior del menú. Si la información registrada\ncumple con los criterios solicitados por la convocatoria, la validación será exitosa y se activará la opción de “Enviar\nformulario”, en caso contrario se mostrará en pantalla la información que no cumple con los criterios definidos en la\nconvocatoria.\n8.9. Una vez se oprime el botón de “Enviar formulario”, el sistema registrará el proyecto y generará su respectivo código del\nproyecto.\n8.10. Al momento en que el proyecto haya sido enviado, si la convocatoria se encuentra abierta el sistema le permite\nmodificar el proyecto, oprimiendo el botón \"Modificar Proyecto\", para realizar los cambios que considere pertinente. Al\ndar clic en la opción \"Modificar Proyecto\" que está en el menú se muestra una pantalla de confirmación con el siguiente\nmensaje \"¿Está seguro de modificar el proyecto?”, una vez confirme esta acción el proyecto ya no estará radicado en el\nMinisterio de Ciencia, Tecnología e Innovación. Para volver a radicarlo debe validar y enviar de nuevo el proyecto\nuna vez lo haya modificado. Cabe aclarar que, si no lo vuelve a validar y enviar el proyecto al Ministerio de Ciencia,\nTecnología e Innovación, este proyecto no quedará radicado oficialmente y no seguirá a la etapa de revisión de\nrequisitos, así cuente con la pantalla de evidencia de un envío anterior satisfactorio.\n8.11. Para realizar el seguimiento a la propuesta, deberá ingresar al formulario con el usuario y contraseña enviados\nmediante el correo electrónico al momento de registrar la propuesta en el sistema, y por el menú de requisitos podrá\nconsultar las observaciones realizadas a los requisitos del proyecto, con el fin de que sean subsanadas por el\nproponente.\nNotas:\n Los proyectos previamente calificados por el CNBT o cofinanciados por el Ministerio de Ciencia, Tecnología e\nInnovación podrán indicar en el Formulario de solicitud el código (últimos 5 dígitos) del proyecto previo, para\nacceder a la información registrada en el sistema SIGP, siempre que la propuesta haya sido registrada en esta\nplataforma. En todo caso, la entidad deberá indicar en la Carta de aval Presentación y compromisos el código del\nproyecto, convenio o contrato y la convocatoria donde el proyecto fue evaluado.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 6 de 17\n Los cambios en relación con el personal científico que se presenten en los proyectos previamente calificados por el\nCNBT o cofinanciados por el Ministerio de Ciencia, Tecnología e Innovación deben ser reportados oportunamente\nen la presentación de los formatos de seguimiento a la ejecución técnica y/o presupuestal, coincidir con la\ninformación de la Carta de presentación, aval y aceptación de compromisos, y con la registrada en el formulario de\nsolicitud de acceso al beneficio tributario en mención.\n No se tendrá en cuenta para el proceso de evaluación y selección, la información enviada en medios distintos al\nSIGP (correo postal, fax, correo electrónico, otro). Excepto cuando sea solicitado directamente por el Ministerio de\nCiencia, Tecnología e Innovación.\nEn caso de que se presenten errores en el aplicativo SIGP durante el proceso de inscripción y envío del proyecto o\ndel cargue de la documentación soporte, y por esta razón después de efectuados varios intentos no pueda enviarse el\nproyecto de forma normal, por favor capturar las pantallas con el mensaje de error junto con la fecha y hora en que se\npresentó el inconveniente que soporte el problema. Remitir todas las evidencias de la falla presentada, exclusivamente a\ntravés del formulario electrónico que se encuentra disponible en el enlace https://minciencias.gov.co/contact, explicando en\nel cuerpo de dicha comunicación los inconvenientes ocurridos durante el envío. El Ministerio de Ciencia, Tecnología e\nInnovación por medio de la Oficina de Sistemas verificará el error reportado.",
+      "n_caracteres": 7075
+    },
+    {
+      "numero": 9,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "texto": "Para todos los efectos legales, la presentación, inscripción o registro del proyecto, de forma inequívoca y exclusivamente\npara los fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de información, para el\ntratamiento de sus datos personales por parte del Ministerio de Ciencia, Tecnología e Innovación.\nQuien presente, inscriba o registre el proyecto como persona jurídica en cuyo nombre se presenta la propuesta, declara que\nha recibido autorización expresa de todas las personas naturales y jurídicas vinculadas al proyecto, para suministrar la\ninformación a que hace referencia la ley de manejo de datos, comprometiéndose a responder ante el Ministerio de Ciencia,\nTecnología e Innovación, por cualquier demanda, litigio presente o eventual, reclamación judicial o extrajudicial, formulada\npor cualquiera de las personas naturales o jurídicas vinculadas a la propuesta y el proyecto.\nLo anterior, de conformidad con la Resolución 0693 de 2022 \"Por medio de la cual se adopta la Política de Protección y\nTratamiento de Datos Personales”.",
+      "n_caracteres": 1085
+    },
+    {
+      "numero": 10,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "texto": "Los proyectos nuevos (sin previa evaluación) inscritos dentro de los plazos establecidos para la presente convocatoria y que\ncumplan con la totalidad de los requisitos, se someterán a los siguientes criterios de evaluación de acuerdo con el\nDocumento “Tipología de Proyectos Calificados como de Carácter Científico, Tecnológico e Innovación” versión 6.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 7 de 17\nINVESTIGACIÓN CIENTIFICA.\nPuntaje\nNo. Criterio\nmáximo\n1. Calidad del proyecto 40\nExiste coherencia entre la descripción del problema o necesidad, el estado del\narte, el desafío u oportunidad a abordar, los objetivos del proyecto, la\n1.1. 15\nmetodología utilizada, actividades planteadas, los resultados esperados y el\npresupuesto definido.\nEl proyecto establece la diferencia entre lo existente en la literatura científica o\n1.2. el área de conocimiento, y el nuevo conocimiento que se generará, 10\nevidenciando una revisión de literatura sistemática.\nLa metodología planteada permite la obtención de resultados, el alcance del\n1.3. objetivo general y responde a la naturaleza de un proyecto de investigación 8\ncientífica.\nEl equipo de trabajo definido para el proyecto es idóneo y cuenta con las\n1.4. capacidades administrativas, técnicas y científicas necesarias para la ejecución 7\ndel proyecto.\n2. Pertinencia del proyecto 35\nLa propuesta contribuye al fortalecimiento de la investigación científica en el\npaís, la región o en un sector de la economía, y se justifica su aporte en el\nprogreso del conocimiento a partir de documentos de carácter científico tales\ncomo artículos, tesis de maestría o doctorado, entre otros, que sustenten la\n2.1. relevancia del conocimiento generado; o, la propuesta aporta al cumplimiento 10\nde estrategias contempladas en documentos de política tales como:\nDocumento de Misión de Sabios (incluyendo por lo menos uno de los 8 focos\npropuestos), Libro Verde 2030, documentos CONPES vigentes, Plan de\nDesarrollo Nacional, planes de desarrollo de entidades territoriales.\nLa propuesta evidencia un proceso de investigación sistemática para el\nentendimiento de un objeto de estudio delimitado, aportando a la construcción\n2.2. de nuevos conocimientos y el progreso del campo científico; este proceso 10\ninvolucra actividades que apoyan la transferencia, divulgación y apropiación del\nconocimiento, así como la formación científica del país\nLa propuesta evidencia relaciones de colaboración entre las empresas con los\nactores asociados por el Ministerio de Ciencia, Tecnología e Innovación, y su\n2.3. 10\nparticipación en actividades de generación, apropiación y divulgación del\nconocimiento generado.\nEl proyecto presentado, evidencia el cumplimiento de todos los requisitos\n2.4. reglamentarios para su ejecución. (Licencias ambientales, comité de ética, 5\nrequisitos legales, entre otros)\n3. Impacto potencial del proyecto 25\nLos resultados del proyecto, traerá consigo un aporte al avance del\n3.1. conocimiento científico del país, teniendo en cuenta las necesidades locales, 9\nnacionales y globales.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 8 de 17\nPuntaje\nNo. Criterio\nmáximo\nLos resultados son medibles, cuantificables, responden a los objetivos del\n3.2. proyecto y son coherentes con la naturaleza de un proyecto de investigación 8\ncientífica\nLos impactos a corto, mediano y largo plazo derivados de la ejecución del\n3.3. proyecto, fueron identificados y cuantificados, y se consideran adecuados con 8\nbase en el proyecto formulado.\nTotal 100\nPuntaje Adicional: Las propuestas evaluadas en esta convocatoria podrán acceder a un puntaje adicional, de acuerdo con\nlo establecido en el Anexo 1 del documento de Tipologías de Proyectos versión 6 (Anexo 3).\nPuntaje adicional del proyecto 10\nProyectos que contemplen tecnologías 4.0, convergentes, verdes o socialmente\n2.5\nincluyentes.\nProyecto en cooperación con uno o varios actores internacionales (universidad,\n2.5\ncentro de investigación, empresa diferente a la casa matriz, etc.).\nProyectos que se ejecuten en departamentos con índice departamental de\n5\ninnovación para Colombia (IDIC) bajo, medio-bajo y medio.\nDESARROLLO.\nPuntaje\nNo. Criterio\nmáximo\n1. Calidad del proyecto 40\nExiste coherencia entre la descripción del problema o necesidad, el estado del\narte, el desafío u oportunidad a abordar, los objetivos del proyecto, la\n1.1. 15\nmetodología utilizada, las actividades planteadas, los resultados esperados y el\npresupuesto definido.\nEl proyecto establece la diferencia entre lo existente en la literatura científica, el\nmercado, la empresa, y los nuevos prototipos, experimentos, procesos o\n1.2. 10\nplantas pilotos que se generarán, evidenciando una revisión de literatura\nsistemática.\nLa metodología planteada permite la obtención de resultados, el alcance del\n1.3. 8\nobjetivo general y responde a la naturaleza de un proyecto de Desarrollo.\nEl equipo de trabajo definido para el proyecto es idóneo y cuenta con las\n1.4. capacidades administrativas, técnicas y científicas necesarias para la ejecución 7\ndel proyecto.\n2. Pertinencia del proyecto 35\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 9 de 17\nPuntaje\nNo. Criterio\nmáximo\nLa propuesta contribuye al fortalecimiento de la competitividad, productividad,\ndiversificación o sofisticación del sector productivo, el país o la región, y se\njustifica su aporte con base en documentos de política tales como: Documento\nde Misión de Sabios (incluyendo por lo menos uno de los 8 focos propuestos),\n2.1. 10\nLibro Verde 2030, documentos CONPES vigentes, Plan de Desarrollo\nNacional, Plan de Desarrollo de las Entidades Territoriales, documentos de\ncarácter científico tales como artículos, tesis de maestría o doctorado, entre\notros, que sustenten la relevancia del proyecto.\nLa propuesta plantea actividades que apoyan el desarrollo de nuevos\nproductos, servicios, procesos a nivel de prototipos a escala laboratorio o\n2.2. funcionales, plantas piloto o procesos pilotos que responden a una necesidad 8\nidentificada en la empresa y/o sector, y establece estrategias para su posterior\ndivulgación y apropiación.\nLa propuesta evidencia el uso de conocimiento disponible en el diseño de\nprocesos y productos nuevos o significativamente mejorados a nivel de\n2.3. prototipos a escala laboratorio o funcionales, plantas piloto o procesos pilotos, 6\nlo cual representa una estrategia clara de la empresa para la construcción de\ncapacidades de I+D+i a partir de una adecuada distribución de los recursos.\nLa propuesta evidencia coherencia entre la capacidad de gestión administrativa\ny técnica del grupo, centro, unidad de I+D+i reconocidas o el investigador que\n2.4. 6\ncumple el rol de actor asociado en el proyecto a calificar, con las actividades de\ndesarrollo y divulgación del conocimiento y capacidades generadas.\nEl proyecto presentado evidencia y justifica el cumplimiento de todos los\n2.5. requisitos reglamentarios para su ejecución. (Licencias ambientales, comité de 5\nética, requisitos legales, entre otros).\n3. Impacto potencial del proyecto 25\nLos resultados del proyecto traerán consigo la materialización de un\nconocimiento en un prototipo, planta piloto, proceso piloto, entre otros, y se\n3.1. evidencia un aporte a la competitividad y sofisticación de las entidades 8\nejecutoras, teniendo en cuenta las necesidades locales, nacionales e\ninternacionales.\nLos resultados son medibles, cuantificables, responden a los objetivos del\n3.2. 6\nproyecto y son coherentes con la naturaleza de un proyecto de Desarrollo.\nLos impactos a corto, mediano y largo plazo derivados de la ejecución del\n3.3. proyecto, fueron identificados y cuantificados, y se consideran adecuados con 6\nbase en el proyecto formulado.\nLa propuesta contempla una estrategia de sostenibilidad en los ámbitos social,\n3.4. económico o medioambiental de los resultados del Desarrollo a mediano y 5\nlargo plazo, y justifica su aporte a los Objetivos de Desarrollo Sostenible (ODS)\nTotal 100\nPuntaje Adicional: Las propuestas evaluadas en esta convocatoria podrán acceder a un puntaje adicional, de acuerdo con\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 10 de 17\nlo establecido en el Anexo 1 del documento de Tipologías de Proyectos versión 6 (Anexo 3).\nPuntaje adicional del proyecto 10\nProyectos que contemplen tecnologías 4.0, convergentes, verdes o socialmente\n2.5\nincluyentes.\nProyecto en cooperación con uno o varios actores internacionales (universidad,\n2.5\ncentro de investigación, empresa diferente a la casa matriz, etc.).\nProyectos que se ejecuten en departamentos con índice departamental de\n5\ninnovación para Colombia (IDIC) bajo, medio-bajo y medio.\nINNOVACIÓN.\nPuntaje\nNo. Criterio\nmáximo\n1. Calidad del proyecto 40\nExiste coherencia entre la descripción del problema o necesidad, el estado del\narte, el desafío u oportunidad a abordar, los objetivos del proyecto, la\n1.1. 15\nmetodología utilizada, las actividades planteadas, los resultados esperados y el\npresupuesto definido.\nEl proyecto establece la diferencia entre lo existente en el mercado y la\n1.2. empresa, y productos o procesos nuevos o significativamente mejorados que 10\nse generarán como resultado del proyecto.\nLa metodología planteada permite la obtención de resultados, el alcance del\n1.3. 8\nobjetivo general y responde a la naturaleza de un proyecto de innovación.\nEl equipo de trabajo definido para el proyecto es idóneo y cuenta con las\n1.4. capacidades administrativas, técnicas y científicas necesarias para la ejecución 7\ndel proyecto.\n2. Pertinencia del proyecto 35\nLa propuesta contribuye al fortalecimiento de la competitividad, productividad,\ndiversificación o sofisticación del sector productivo, el país o la región, y se\njustifica su aporte con base en documentos de política tales como: Documento\nde Misión de Sabios (incluyendo por lo menos uno de los 8 focos propuestos),\n2.1. 10\nLibro Verde 2030, documentos CONPES vigentes, Plan de Desarrollo\nNacional, Plan de Desarrollo de las Entidades Territoriales, documentos de\ncarácter científico tales como artículos, tesis de maestría o doctorado, entre\notros, que sustenten la relevancia del proyecto.\nLa propuesta plantea actividades que apoyan el desarrollo de productos,\nservicios, procesos nuevos o significativamente mejorados, siendo coherentes\n2.2. con las capacidades de la empresa y las necesidades del sector, y agregan 8\nvalor mediante su introducción al mercado o implementación en la empresa,\ngenerando cambios en el posicionamiento de la empresa.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 11 de 17\nPuntaje\nNo. Criterio\nmáximo\nLa propuesta evidencia coherencia entre la capacidad de gestión administrativa\ny técnica del grupo, centro, unidad de I+D+i reconocidas o el investigador que\n2.3. cumple el rol de actor asociado en el proyecto a calificar, con las actividades de 6\ndesarrollo de productos, procesos y divulgación del conocimiento y\ncapacidades generadas.\nLa propuesta evidencia uso y transferencia del conocimiento o desarrollos en\nlos procesos y productos nuevos o significativamente mejorados, lo cual\n2.4. 6\nrepresenta una estrategia clara de la empresa para la construcción de\ncapacidades de I+D+i a partir de una adecuada distribución de los recursos.\nEl proyecto presentado, evidencia y justifica el cumplimiento de todos los\n2.5. requisitos reglamentarios para su ejecución. (Licencias ambientales, comité de 5\nética, requisitos legales, entre otros).\n3. Impacto potencial del proyecto 25\nLos resultados del proyecto traerán consigo el desarrollo e introducción al\nmercado de nuevos o significativamente mejorados productos y procesos, y se\n3.1. evidencia un aporte a la competitividad y sofisticación de las entidades 8\nejecutoras, teniendo en cuenta las necesidades locales, nacionales e\ninternacionales.\nLos resultados son medibles, cuantificables, responden a los objetivos del\n3.2. proyecto y son coherentes con la naturaleza de un proyecto de innovación, e 6\nincluyen un componente de apropiación\nLos impactos a corto, mediano y largo plazo derivados de la ejecución del\n3.3. proyecto, fueron identificados y cuantificados, y se consideran adecuados con 6\nbase en el proyecto formulado y su tipología.\nLa propuesta contempla una estrategia de sostenibilidad en los ámbitos social,\n3.4. económico o medioambiental de los resultados de la innovación a mediano y 5\nlargo plazo, y justifica su aporte a los Objetivos de Desarrollo Sostenible (ODS)\nTotal 100\nPuntaje Adicional: Las propuestas evaluadas en esta convocatoria podrán acceder a un puntaje adicional, de acuerdo con\nlo establecido en el Anexo 1 del documento de Tipologías de Proyectos versión 6 (Anexo 3).\nPuntaje adicional del proyecto 10\nProyectos que contemplen tecnologías 4.0, convergentes, verdes o socialmente\n2.5\nincluyentes.\nProyecto en cooperación con uno o varios actores internacionales (universidad,\n2.5\ncentro de investigación, empresa diferente a la casa matriz, etc.).\nProyectos que se ejecuten en departamentos con índice departamental de\n5\ninnovación para Colombia (IDIC) bajo, medio-bajo y medio.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 12 de 17\nNota:\n Los criterios relacionados aplicaran para los proyectos registrados sin previa evaluación y/o calificación.\n En el proyecto se deberá aportar toda la información necesaria para su evaluación, conforme a lo requerido en el\ndocumento “Tipología de Proyectos Calificados como de Carácter Científico, Tecnológico e Innovación” versión 6\n(Anexo 3), aprobado por el CNBT mediante Acta 01 de 2021, o la norma que lo reglamente o lo sustituya. El\ndesglose de cada uno de los criterios de evaluación, podrán ser consultados en el documento “Tipología de\nProyectos Calificados como de Carácter Científico, Tecnológico e Innovación” versión 6.\n Para los proyectos cofinanciados por el Ministerio de Ciencia, Tecnología e Innovación o previamente calificados\npor el CNBT, se homologará la evaluación realizada, siempre que dicho proyecto esté siendo ejecutado de forma\nsatisfactoria.",
+      "n_caracteres": 14877
+    },
+    {
+      "numero": 11,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "texto": "Los proyectos nuevos (que no hayan sido evaluados y/o calificados en otras convocatorias del ministerio) inscritos dentro de\nlos plazos establecidos para la presente convocatoria y que cumplan con los requisitos, serán evaluados por el Ministerio de\nCiencia, Tecnología e Innovación, teniendo en cuenta los criterios de evaluación descritos en el Numeral 10 (Criterios de\nevaluación).\nToda información proporcionada es de carácter confidencial y no será utilizada para ningún fin diferente a la realización de\nla evaluación. Los expertos evaluadores estarán cobijados por cláusulas de confidencialidad y no conflicto de interés.\nLos proyectos que cumplan con los requisitos establecidos en la presente convocatoria serán evaluados por la Secretaría\nTécnica del CNBT, contando con la participación de expertos en temáticas directamente relacionadas con el proyecto\npostulado.\nNotas:\n Los evaluadores de las propuestas podrán solicitar información adicional a los proponentes en los siguientes\ncasos:\n Cuando exista inconsistencia o se requiera información para aclarar la remuneración recibida por el personal\nvinculado al proyecto y sus funciones.\n Cuando se requiera información adicional para validar la tipología del proyecto (Investigación científica,\nDesarrollo e Innovación).\n Cuando se requiera de información adicional para completar la metodología propuesta (retos y desafíos para\nenfrentarla) y problema/necesidad que pretende resolver el proyecto.\n Cuando se requiera información adicional para determinar y comprender claramente el alcance del estado del\narte.\n Cuando se presente incoherencia entre la descripción técnica y el presupuesto presentado.\n Respecto a la forma de divulgación de resultados, esta debe realizarse en un medio idóneo, teniendo en cuenta\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 13 de 17\nque no se afecte los requisitos exigidos para la protección de los resultados por propiedad intelectual. El CNBT\npodrá establecer formas especiales de divulgación para proyectos específicos de CTeI.\n Los proyectos de ciencia, tecnología e innovación cofinanciados por el Ministerio de Ciencia, Tecnología e\nInnovación previamente calificados en otras convocatorias previas, así como aquellos calificados por el CNBT, no\nrequerirán evaluación técnica adicional, pero en todo caso deberán inscribirse y cumplir los requisitos establecidos\nen el numeral “4. REQUISITOS”, para acceder a los beneficios tributarios, de acuerdo con lo dispuesto en el\nAcuerdo 17 de 2017 del CNBT.\n Al finalizar el proceso de evaluación y decisión de los proyectos postulados para acceder al beneficio tributario, se\nemitirá al representante legal de la entidad el respectivo acto administrativo de carácter particular, informando\nsobre el resultado del proceso.",
+      "n_caracteres": 2936
+    },
+    {
+      "numero": 12,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "texto": "Los resultados de la convocatoria se informarán mediante banco de proyectos, publicado en la página web del Ministerio de\nCiencia, Tecnología e Innovación (http://www.minciencias.gov.co) en las fechas establecidas en el Cronograma.\nLas propuestas que cuenten con aprobación en el banco de elegibles de la convocatoria podrán acceder al beneficio\ntributario de Ingresos no Constitutivos de Renta y/o Ganancia Ocasional.\nAdicionalmente, una vez terminado el proceso de evaluación y decisión se emitirá al representante legal de la entidad el\nrespectivo acto administrativo motivado informando sobre el resultado del proceso de evaluación.\nNotas:\n La identificación de proyectos en el banco de proyectos calificados se realizará con el código de la propuesta.\n A través de la página web del Ministerio de Ciencia, Tecnología e Innovación, se publicará los resultados de los\nproyectos (la información publicada será de carácter informativo). El Ministerio de Ciencia, Tecnología e Innovación\nnotificará mediante acto administrativo de carácter particular el valor aprobado a los representantes legales de las\nentidades que inscribieron proyectos en la convocatoria.\n En caso de no estar de acuerdo con la decisión de la Secretaría técnica del CNBT materializada por el Ministerio\nde Ciencia, Tecnología e Innovación, el interesado podrá interponer recurso de reposición de conformidad con lo\nseñalado en los artículos 74 y 76 de la Ley 1437 de 2011, y, si se diera lugar a corrección de errores formales\nsegún lo señalado en artículo 45 de la Ley 1437 de 2011, el interesado deberá remitir la solicitud a través de los\ndiferentes medios dispuestos por el Ministerio de Ciencia, Tecnología e Innovación, y siguientes del Código de\nProcedimiento Administrativo y de lo Contencioso Administrativo, una vez notificado el contenido del respectivo\nacto administrativo de carácter particular.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 14 de 17",
+      "n_caracteres": 2098
+    },
+    {
+      "numero": 13,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "La presente convocatoria se rige bajo el siguiente cronograma:\nACTIVIDAD FECHA LÍMITE\nApertura de la convocatoria 31 de marzo de 2023\n17 de mayo de 2023.\nCierre de la convocatoria\nHora: 5:00 pm\nPeriodo de revisión de requisitos 18 de mayo de 2023 al 31 de mayo de 2023\n01 de junio al 05 de junio de 2023\nPeriodo de subsanación de requisitos\nHora: 5:00 pm\nPublicación del banco de proyectos calificados 28 de julio de 2023\nDurante el periodo de subsanación de requisitos no se exime de responsabilidad a los interesados en esta convocatoria, de\nla consulta permanente de la información en la Plataforma SIGP, a fin de entregar la propuesta completa. Las condiciones\nestablecidas para facilitar la presentación de las propuestas no desplazan la responsabilidad de los aspirantes, de consultar\ny adjuntar correctamente los documentos necesarios para ser habilitados, evaluados y seleccionados en esta convocatoria.",
+      "n_caracteres": 911
+    },
+    {
+      "numero": 14,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "texto": "En el Instructivo Trámite de Adendas a Convocatorias de CTeI (Disponible en la página web del Ministerio de Ciencia,\nTecnología e Innovación, Micrositio Calidad), se determina que por fuerza mayor o caso fortuito, por causas imprevisibles no\natribuibles al Ministerio de Ciencia, Tecnología e Innovación y/o por necesidades de la entidad, que estén alineadas con el\ninterés general, será posible modificar el contenido de los términos de referencia de Convocatorias de CTeI, así como su\ncronograma, siempre que dicho cambio, no vulnere la expectativa prevista de los posibles participantes.",
+      "n_caracteres": 590
+    },
+    {
+      "numero": 15,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "texto": "De acuerdo con la Resolución No. 0361 de 2020 del Ministerio de Ciencia, Tecnología e Innovación, que establece que en\nel evento en que se llegaren a generar derechos de propiedad intelectual sobre los resultados que se obtengan o se\npudieran obtener en el marco del desarrollo de la presente convocatoria y/o contrato, la titularidad sobre los mismos se\nregirá por lo establecido en el artículo 169 de la Ley 1955 de 2019, que determinó: Derechos de propiedad intelectual sobre\nresultados de programas y proyectos de Ciencia, tecnología e innovación y de tecnologías de la información y las\ncomunicaciones financiados con recursos públicos. En los casos de proyectos de investigación y desarrollo de ciencia,\ntecnología e innovación y de tecnologías de la información y las comunicaciones, adelantados con recursos públicos, el\nEstado como titular de los derechos de propiedad intelectual derivados de estos proyectos podrá ceder dichos derechos a\ntravés de la entidad financiadora, y autorizará su transferencia, comercialización y explotación a quien adelante y ejecute el\nproyecto, sin que ello le constituya daño patrimonial. Las condiciones de esta cesión serán fijadas en el respectivo contrato\no convenio.\nEn todo caso, el Estado, a través de la entidad financiadora, se reserva el derecho de obtener una licencia no exclusiva y\ngratuita de estos derechos de propiedad intelectual por motivos de interés público. Así mismo, en caso de presentarse\nmotivos de seguridad y defensa nacional, el titular de los derechos de propiedad intelectual deberá ceder a título gratuito y\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 15 de 17\nsin limitación alguna al Estado, los derechos de propiedad intelectual que le correspondan. Los derechos de propiedad\nintelectual a ceder, así como sus condiciones de uso, serán fijados en el respectivo contrato o convenio.\nPARÁGRAFO. Cuando en el respectivo contrato o convenio se defina que el titular de derechos de propiedad intelectual es\nquien adelante y ejecute el proyecto, y este realice la explotación de dichos derechos, obteniendo ganancias económicas,\ndeberá garantizar al Estado, a través de la entidad financiadora, un porcentaje de las ganancias netas obtenidas en la\nexplotación de la propiedad intelectual de la cual es titular, porcentaje que deberá ser acordado por mutuo acuerdo con el\nEstado, a través de la entidad financiadora. El Estado a través de la entidad financiadora, deberá invertir los dineros\nobtenidos, en programas y proyectos de Ciencia, Tecnología e Innovación y de tecnologías de la información y las\ncomunicaciones.\nDe cualquier forma, el Ministerio de Ciencia, Tecnología e Innovación (y las entidades cooperantes, si aplica) respetarán los\nderechos morales de las personas naturales que participen en los proyectos derivados de la presente convocatoria.\nLas Partes (entidad ejecutora) del proyecto definirán entre ellas la titularidad de los derechos de propiedad intelectual que\nse generen en la ejecución de los proyectos financiados con recursos del presupuesto nacional.\nSin perjuicio de lo anterior, el Ministerio de Ciencia, Tecnología e Innovación se reserva el derecho de obtener una licencia\nno exclusiva y gratuita sobre los derechos de propiedad intelectual obtenidos en desarrollo de la presente convocatoria y/o\ncontrato por motivos de interés nacional, comprometiéndose a respetar los derechos morales a que hubiere lugar.\nEn cualquier evento o medio de divulgación utilizado para difundir los resultados del programa / propuesta / proyecto se\ndeberá dar el respectivo crédito al Ministerio de Ciencia, Tecnología e Innovación (y la entidad cooperante, si aplica),\nincluyendo la imagen institucional de acuerdo con la Guía de uso de la marca Gobierno de Colombia - Ministerio de Ciencia,\nTecnología e Innovación alojado en https://minciencias.gov.co/ministerio/sobre-minciencias, sección “Ministerio”, “Sobre el\nMinisterio”.",
+      "n_caracteres": 4075
+    },
+    {
+      "numero": 16,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "texto": "Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003 y demás normas concordantes y\ncomplementarias, podrán desarrollar su actividad durante la presente convocatoria, conforme a lo estipulado en dicha\nnormativa.",
+      "n_caracteres": 233
+    },
+    {
+      "numero": 17,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "texto": " Anexo 1: Antecedentes de la convocatoria.\n Anexo 2: Acuerdo 17 de 2017 del CNBT.\n Anexo 3: Documento de tipología de proyectos calificados como de carácter científico, tecnológico o de innovación,\nVersión 06.\n Anexo 4: Carta de presentación, aval y aceptación de compromisos.\n Anexo 5: Acuerdo 31 de 2022 del CNBT\n Anexo 6: Formato de Informe de Personal y uso del beneficio tributario\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 16 de 17",
+      "n_caracteres": 606
+    },
+    {
+      "numero": 18,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "texto": "Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la presente convocatoria, así\ncomo lo dispuesto en los términos de referencia para el desarrollo de la misma y el acceso al Beneficio Tributario de\nIngresos no Constitutivos de Renta y/o Ganancia Ocasional. Una vez presentado el proyecto no será posible alegar\ndesconocimiento de lo escrito en estos términos de referencia ni de sus anexos. El momento para referirse a lo establecido\nen los términos de referencia de la convocatoria y sus anexos es antes del cierre de la convocatoria.\nDe igual forma declaran que la información suministrada es veraz y corresponde a la realidad. En caso de encontrarse\nalguna incoherencia y/o inconsistencia en la información o documentación suministrada, el Ministerio de Ciencia, Tecnología\ne Innovación podrá en cualquier momento rechazar la propuesta o si es el caso declarar la pérdida del beneficio, sin\nperjuicio de las acciones legales correspondientes.",
+      "n_caracteres": 988
+    },
+    {
+      "numero": 19,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "texto": "MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN\nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C.\nhttp://www.minciencias.gov.co\nAtención al Ciudadano\nTeléfono: (+57) (601) 6258480 Extensión 2081\nLínea gratuita nacional: 018000 914446\nHorario: lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua).\nEn caso de inquietudes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se\nencuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “Convocatoria\nIngresos No Constitutivos – 2022”.\nJULIAN FERRO ARELLANA\nDirector de Desarrollo Tecnológico e Innovación\nMinisterio de Ciencia, Tecnología e Innovación\nRevisó: Bibiana Rivera Bonilla / Profesional Especializado 2028 Grado 15 / DDTI\nReviso: Juan Sebastián Ladino / Contratista/ DDTI\nProyectó: Juan Carlos Quintana Marín / Contratista BT / DDTI\nProyectó: Joan Paul Cujar Abadía / Contratista BT / DDTI\nProyectó: Diana Julieth Plata Cárdenas / Contratista BT / DDTI\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C.\nColombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 17 de 17",
+      "n_caracteres": 1254
+    }
+  ]
 }
