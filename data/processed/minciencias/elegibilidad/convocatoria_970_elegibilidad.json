@@ -1,0 +1,55 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Actor reconocido dependiente de IES",
+        "rol": "Ejecutor (Modalidad 1)",
+        "condicion": "Apoyo a empresas en proyectos I+D, con interés manifiesto de la empresa y participación de su personal."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Apoyo a empresas en proyectos I+D, con interés manifiesto de la empresa y participación de su personal.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Requiere grupos de investigación categorizados por Minciencias para cumplir con el apoyo a empresas en proyectos I+D."
+      ],
+      "resumen": "Universidad del Rosario, como IES privada reconocida en SNCTI, es elegible para postularse a la convocatoria, pero solo en alianza, no en solitario. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para cumplir con las condiciones de apoyo a empresas."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Requiere grupos de investigación categorizados por Minciencias para cumplir con el apoyo a empresas en proyectos I+D."
+    ],
+    "resumen": "Universidad del Rosario, como IES privada reconocida en SNCTI, es elegible para postularse a la convocatoria, pero solo en alianza, no en solitario. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para cumplir con las condiciones de apoyo a empresas.",
+    "fuente": "reglas+llm"
+  }
+}

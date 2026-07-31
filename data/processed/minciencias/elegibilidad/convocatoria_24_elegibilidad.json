@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "El perfil indica que la Universidad del Rosario es una IES privada, pero la convocatoria no lista IES/universidades como actor elegible en ninguna de las categorías (Academia, Sector Productivo, Estado, Sociedad Civil Organizada)."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse porque su tipo institucional (IES privada) no está incluido como actor elegible en la convocatoria. La convocatoria exige alianzas, pero las IES no son mencionadas como posibles proponentes o ejecutores."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "El perfil indica que la Universidad del Rosario es una IES privada, pero la convocatoria no lista IES/universidades como actor elegible en ninguna de las categorías (Academia, Sector Productivo, Estado, Sociedad Civil Organizada)."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse porque su tipo institucional (IES privada) no está incluido como actor elegible en la convocatoria. La convocatoria exige alianzas, pero las IES no son mencionadas como posibles proponentes o ejecutores.",
+    "fuente": "reglas+llm"
+  }
+}

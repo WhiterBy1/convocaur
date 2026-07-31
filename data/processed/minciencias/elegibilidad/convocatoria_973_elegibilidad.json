@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo docentes de aula de establecimientos educativos oficiales de Cundinamarca pueden postularse como proponentes."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES. La universidad no figura como actor elegible ni como aliado en los términos de referencia."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible; solo docentes de aula de establecimientos educativos oficiales de Cundinamarca pueden postularse como proponentes."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES. La universidad no figura como actor elegible ni como aliado en los términos de referencia.",
+    "fuente": "reglas+llm"
+  }
+}

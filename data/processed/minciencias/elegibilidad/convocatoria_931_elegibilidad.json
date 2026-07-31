@@ -1,0 +1,62 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "puede_sola_o_alianza",
+    "rol_sugerido": "participante",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior (IES)",
+        "rol": null,
+        "condicion": "Aplica para Modalidades 1, 2 y 3. En Modalidad 3, deben contar con grupos de investigación reconocidos y estar interesadas en vincular semilleros y jóvenes investigadores."
+      },
+      {
+        "tipo": "Instituciones de Educación Superior o Centros de Investigación o Desarrollo Tecnológico o Innovación internacionales",
+        "rol": "Entidad colaboradora",
+        "condicion": "En calidad de entidades colaboradoras. Aplica para Modalidades 1 y 2."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Aplica para Modalidades 1, 2 y 3. En Modalidad 3, deben contar con grupos de investigación reconocidos y estar interesadas en vincular semilleros y jóvenes investigadores.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias para participar en Modalidad 3.",
+        "Verificar interés en vincular semilleros y jóvenes investigadores para Modalidad 3."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse a la convocatoria en modalidades 1, 2 y 3. Para la Modalidad 3, debe contar con grupos de investigación reconocidos y estar interesada en vincular semilleros y jóvenes investigadores. No requiere alianza obligatoria, por lo que puede postularse sola o en alianza."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias para participar en Modalidad 3.",
+      "Verificar interés en vincular semilleros y jóvenes investigadores para Modalidad 3."
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse a la convocatoria en modalidades 1, 2 y 3. Para la Modalidad 3, debe contar con grupos de investigación reconocidos y estar interesada en vincular semilleros y jóvenes investigadores. No requiere alianza obligatoria, por lo que puede postularse sola o en alianza.",
+    "fuente": "reglas+llm"
+  }
+}

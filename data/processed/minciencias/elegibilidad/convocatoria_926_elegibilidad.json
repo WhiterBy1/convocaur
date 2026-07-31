@@ -1,0 +1,40 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La Universidad del Rosario es una IES/universidad, y la convocatoria no lista a las IES como actor elegible para postular como proponente o ejecutor. Solo son elegibles como aliados.",
+        "Alianza obligatoria no aplica directamente porque no es el tipo de actor buscado."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse como proponente o ejecutora en esta convocatoria, ya que está dirigida exclusivamente a empresas y organizaciones del sector productivo. Solo podría participar como aliada opcional si es acreditada como actor SNCTeI, pero su rol principal no es elegible."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La Universidad del Rosario es una IES/universidad, y la convocatoria no lista a las IES como actor elegible para postular como proponente o ejecutor. Solo son elegibles como aliados.",
+      "Alianza obligatoria no aplica directamente porque no es el tipo de actor buscado."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse como proponente o ejecutora en esta convocatoria, ya que está dirigida exclusivamente a empresas y organizaciones del sector productivo. Solo podría participar como aliada opcional si es acreditada como actor SNCTeI, pero su rol principal no es elegible.",
+    "fuente": "reglas+llm"
+  }
+}

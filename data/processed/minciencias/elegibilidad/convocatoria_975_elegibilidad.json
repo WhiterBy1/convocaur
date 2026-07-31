@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria está dirigida exclusivamente a profesionales colombianos como beneficiarios directos, no a instituciones. Por lo tanto, no puede postularse como proponente ni ejecutora."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria está dirigida exclusivamente a profesionales colombianos como beneficiarios directos, no a instituciones. Por lo tanto, no puede postularse como proponente ni ejecutora.",
+    "fuente": "reglas+llm"
+  }
+}

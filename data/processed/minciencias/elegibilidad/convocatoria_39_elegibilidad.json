@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Validar que la convocatoria permita participación individual de IES acreditadas institucionalmente",
+        "Verificar grupos de investigación reconocidos por Minciencias",
+        "Confirmar capacidad de contrapartida si aplica"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, reconocida como actor SNCTI y con acreditación institucional. Cumple con los requisitos base para postularse como ejecutora en la mayoría de convocatorias Minciencias. Sin embargo, se deben verificar condiciones específicas según la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Validar que la convocatoria permita participación individual de IES acreditadas institucionalmente",
+      "Verificar grupos de investigación reconocidos por Minciencias",
+      "Confirmar capacidad de contrapartida si aplica"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada, reconocida como actor SNCTI y con acreditación institucional. Cumple con los requisitos base para postularse como ejecutora en la mayoría de convocatorias Minciencias. Sin embargo, se deben verificar condiciones específicas según la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

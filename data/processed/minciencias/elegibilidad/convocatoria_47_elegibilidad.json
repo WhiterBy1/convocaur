@@ -1,0 +1,59 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES)",
+        "rol": null,
+        "condicion": "Al menos una IES con personería jurídica vigente expedida por el Ministerio de Educación Nacional. Puede estar representada por un grupo o centro de investigación asociado."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Al menos una IES con personería jurídica vigente expedida por el Ministerio de Educación Nacional. Puede estar representada por un grupo o centro de investigación asociado.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con al menos un grupo de investigación categorizado por Minciencias para representar a la IES en la alianza",
+        "Verificar que la alianza incluya al menos dos organizaciones comunitarias o campesinas formalmente constituidas con mínimo un año de antigüedad",
+        "Acreditar adecuado desempeño según metodología DNP si aplica"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria, preferiblemente como ejecutora. Debe asegurar grupos de investigación categorizados y cumplir los requisitos de la alianza, incluyendo organizaciones comunitarias."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Contar con al menos un grupo de investigación categorizado por Minciencias para representar a la IES en la alianza",
+      "Verificar que la alianza incluya al menos dos organizaciones comunitarias o campesinas formalmente constituidas con mínimo un año de antigüedad",
+      "Acreditar adecuado desempeño según metodología DNP si aplica"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria, preferiblemente como ejecutora. Debe asegurar grupos de investigación categorizados y cumplir los requisitos de la alianza, incluyendo organizaciones comunitarias.",
+    "fuente": "reglas+llm"
+  }
+}

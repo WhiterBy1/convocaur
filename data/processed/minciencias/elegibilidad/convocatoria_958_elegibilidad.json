@@ -1,0 +1,66 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "puede_sola_o_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior (IES)",
+        "rol": "ejecutora",
+        "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria. No requiere reconocimiento como entidad SNCTI."
+      },
+      {
+        "tipo": "Centros de investigación y desarrollo o universidades internacionales",
+        "rol": "aliada",
+        "condicion": null
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria. No requiere reconocimiento como entidad SNCTI.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria.",
+        "Contar con reconocimiento de la Convocatoria 894 de 2021 para el grupo de investigación A1 líder y para al menos otro grupo A, B o C inscrito en la propuesta.",
+        "El investigador principal del proyecto debe estar adscrito al grupo de investigación A1 líder.",
+        "Presentar el ANEXO 5. FORMATO DE EXPERIENCIA ESPECÍFICA con soportes de al menos dos proyectos ejecutados en los últimos cinco años relacionados con la línea temática."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse de forma individual o en alianza. Debe verificar que cuenta con grupos de investigación categorizados, especialmente un grupo A1 líder y al menos otro grupo A, B o C, y cumplir con los requisitos documentales y de experiencia específica."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Debe tener grupos de investigación con reconocimiento vigente al cierre de la convocatoria.",
+      "Contar con reconocimiento de la Convocatoria 894 de 2021 para el grupo de investigación A1 líder y para al menos otro grupo A, B o C inscrito en la propuesta.",
+      "El investigador principal del proyecto debe estar adscrito al grupo de investigación A1 líder.",
+      "Presentar el ANEXO 5. FORMATO DE EXPERIENCIA ESPECÍFICA con soportes de al menos dos proyectos ejecutados en los últimos cinco años relacionados con la línea temática."
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse de forma individual o en alianza. Debe verificar que cuenta con grupos de investigación categorizados, especialmente un grupo A1 líder y al menos otro grupo A, B o C, y cumplir con los requisitos documentales y de experiencia específica.",
+    "fuente": "reglas+llm"
+  }
+}

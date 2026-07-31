@@ -1,0 +1,55 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior",
+        "rol": "ejecutor o coejecutor",
+        "condicion": "Debe estar reconocida y categorizada como A1, A o B por Minciencias según convocatoria 833-2018"
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Debe estar reconocida y categorizada como A1, A o B por Minciencias según convocatoria 833-2018",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe estar reconocida y categorizada como A1, A o B por Minciencias según convocatoria 833-2018"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en alianza como entidad ejecutora. Debe verificar que sus grupos de investigación estén categorizados como A1, A o B según la convocatoria 833-2018."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Debe estar reconocida y categorizada como A1, A o B por Minciencias según convocatoria 833-2018"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en alianza como entidad ejecutora. Debe verificar que sus grupos de investigación estén categorizados como A1, A o B según la convocatoria 833-2018.",
+    "fuente": "reglas+llm"
+  }
+}

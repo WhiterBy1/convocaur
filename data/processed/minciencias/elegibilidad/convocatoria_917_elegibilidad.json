@@ -1,0 +1,55 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior (IES)",
+        "rol": null,
+        "condicion": "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique"
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique"
+      ],
+      "resumen": "La Universidad del Rosario (IES privada, sede Bogotá) es elegible para postularse solo en alianza como ejecutora. Debe verificar que cuenta con investigadores categorizados según convocatoria 833 de 2018."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique"
+    ],
+    "resumen": "La Universidad del Rosario (IES privada, sede Bogotá) es elegible para postularse solo en alianza como ejecutora. Debe verificar que cuenta con investigadores categorizados según convocatoria 833 de 2018.",
+    "fuente": "reglas+llm"
+  }
+}

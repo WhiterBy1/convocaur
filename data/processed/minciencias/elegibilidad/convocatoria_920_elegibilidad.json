@@ -1,0 +1,46 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior",
+        "rol": "Ejecutor o coejecutor",
+        "condicion": "Deben pertenecer al Grupo 1 y actuar a través de grupos de investigación reconocidos (convocatoria 833-2018) categorizados A1, A o B."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Deben pertenecer al Grupo 1 y actuar a través de grupos de investigación reconocidos (convocatoria 833-2018) categorizados A1, A o B.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "": "{\n  \"puede_postularse\": true,\n  \"modo\": \"solo_en_alianza\",\n  \"rol_sugerido\": \"ejecutora\",\n  \"bloqueantes\": [],\n  \"condiciones_a_verificar\": [\n    \"Pertenecer al Grupo 1 y actuar a través de grupos de investigación reconocidos (convocatoria 833-2018) categorizados A1, A o B.\",\n    \"El director del programa debe estar categorizado como Sénior, Asociado o Emérito según la convocatoria 833-2018 y vinculado a la entidad ejecutora y adscrito a un grupo A1, A o B.\",\n    \"Cumplir con la contrapartida mínima del 30% del valor total de la propuesta, en efectivo o especie, reflejando la participación de todas las entidades de la alianza.\",\n    \"Presentar carta unificada de aval y compromiso institucional firmada por los representantes legales de las entidades ejecutoras y coejecutoras.\",\n    \"Inscribir la propuesta en el SIGP en una única temática de las establecidas en el numeral 4.\",\n    \"Cada programa debe contar con mínimo dos proyectos asociados.\",\n    \"Presentar aval del Comité de Ética/Bioética nacional que revise y avale el programa y cada proyecto.\"\n  ],\n  \"resumen\": \"La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como entidad ejecutora. Debe verificar que cuenta con grupos de investigación categorizados A1, A o B y un director de programa con categoría Sénior, Asociado o Emérito. Además, debe cumplir con los requisitos documentales y de contrapartida establecidos en la convocatoria.\"\n}"
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  }
+}

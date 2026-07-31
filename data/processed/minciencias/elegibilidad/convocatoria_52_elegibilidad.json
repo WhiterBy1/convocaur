@@ -1,0 +1,69 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior",
+        "rol": "Proponente",
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto.",
+        "riesgo": "acreditacion",
+        "nota": "Verificar vigencia de acreditacion institucional/programas."
+      },
+      {
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      },
+      {
+        "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto.",
+        "riesgo": "experiencia",
+        "nota": "Validar experiencia acreditada en CTeI/regiones."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar vigencia de acreditación institucional o de programas afines a las líneas temáticas.",
+        "Validar que la Universidad del Rosario cuente con grupos de investigación categorizados por Minciencias.",
+        "Acreditar experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria, por lo que solo puede participar como parte de una alianza, asumiendo el rol de ejecutora. Se deben verificar condiciones específicas como acreditación vigente, grupos de investigación categorizados y experiencia en proyectos CTeI en la zona de influencia."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar vigencia de acreditación institucional o de programas afines a las líneas temáticas.",
+      "Validar que la Universidad del Rosario cuente con grupos de investigación categorizados por Minciencias.",
+      "Acreditar experiencia previa en proyectos CTeI en la zona de influencia con financiación de al menos la mitad del monto del proyecto."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria, por lo que solo puede participar como parte de una alianza, asumiendo el rol de ejecutora. Se deben verificar condiciones específicas como acreditación vigente, grupos de investigación categorizados y experiencia en proyectos CTeI en la zona de influencia.",
+    "fuente": "reglas+llm"
+  }
+}

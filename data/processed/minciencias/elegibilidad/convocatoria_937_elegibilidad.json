@@ -1,0 +1,45 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "puede_sola_o_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) colombiana",
+        "rol": null,
+        "condicion": "Reconocimiento vigente por el Ministerio de Educación Nacional"
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse sola o en alianza. Debe cumplir con los requisitos técnicos y documentales de la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse sola o en alianza. Debe cumplir con los requisitos técnicos y documentales de la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

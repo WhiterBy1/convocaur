@@ -1,0 +1,53 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES)",
+        "rol": "Ejecutor o aliado",
+        "condicion": "Debe estar en la zona de influencia del proyecto."
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Acreditar domicilio en el departamento de Córdoba (la sede principal está en Bogotá, se debe verificar si tiene sede o representación en Córdoba).",
+        "Cumplir con el adecuado desempeño según metodología DNP.",
+        "Formalizar alianza con al menos un actor elegible con presencia en Córdoba."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria y acreditación de domicilio en Córdoba, lo que requiere verificar su presencia en el departamento o asociarse con un actor local."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Acreditar domicilio en el departamento de Córdoba (la sede principal está en Bogotá, se debe verificar si tiene sede o representación en Córdoba).",
+      "Cumplir con el adecuado desempeño según metodología DNP.",
+      "Formalizar alianza con al menos un actor elegible con presencia en Córdoba."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria y acreditación de domicilio en Córdoba, lo que requiere verificar su presencia en el departamento o asociarse con un actor local.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad tenga al menos un Grupo de Investigación/Desarrollo Tecnológico/Innovación reconocido por Minciencias a la fecha de apertura.",
+        "Incluir al menos una Organización y/o Comunidad Campesina como beneficiario en el proyecto, localizada en el departamento objeto de la propuesta.",
+        "Formar alianza con al menos 2 actores de aspas diferentes de la cuádruple hélice, anexando carta de aval y modelo de gobernanza.",
+        "Demostrar experiencia en gestión/ejecución de al menos un proyecto de CTeI que involucre comunidades campesinas en los últimos 5 años, o un proyecto de CTeI del SGR."
+      ],
+      "resumen": "La Universidad del Rosario es elegible como proponente o aliado en esta convocatoria, ya que es una IES privada reconocida y la convocatoria incluye a las IES como actores elegibles. Sin embargo, la convocatoria exige alianzas obligatorias con al menos dos actores de diferentes hélices y la inclusión de una organización campesina como beneficiario. Además, se deben verificar condiciones como la existencia de un grupo de investigación reconocido y experiencia en proyectos CTeI con comunidades campesinas."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la universidad tenga al menos un Grupo de Investigación/Desarrollo Tecnológico/Innovación reconocido por Minciencias a la fecha de apertura.",
+      "Incluir al menos una Organización y/o Comunidad Campesina como beneficiario en el proyecto, localizada en el departamento objeto de la propuesta.",
+      "Formar alianza con al menos 2 actores de aspas diferentes de la cuádruple hélice, anexando carta de aval y modelo de gobernanza.",
+      "Demostrar experiencia en gestión/ejecución de al menos un proyecto de CTeI que involucre comunidades campesinas en los últimos 5 años, o un proyecto de CTeI del SGR."
+    ],
+    "resumen": "La Universidad del Rosario es elegible como proponente o aliado en esta convocatoria, ya que es una IES privada reconocida y la convocatoria incluye a las IES como actores elegibles. Sin embargo, la convocatoria exige alianzas obligatorias con al menos dos actores de diferentes hélices y la inclusión de una organización campesina como beneficiario. Además, se deben verificar condiciones como la existencia de un grupo de investigación reconocido y experiencia en proyectos CTeI con comunidades campesinas.",
+    "fuente": "reglas+llm"
+  }
+}

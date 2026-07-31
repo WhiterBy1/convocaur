@@ -1,0 +1,60 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES)",
+        "rol": "ejecutor",
+        "condicion": "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales"
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales",
+        "riesgo": "territorio",
+        "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+      },
+      {
+        "condicion": "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, con sede en Bogotá D.C., y puede postularse a la convocatoria, pero únicamente como parte de una alianza, no en solitario. Su rol sugerido es como entidad ejecutora, aunque debe verificar que cuenta con grupos de investigación categorizados y domicilio en la región de la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, con sede en Bogotá D.C., y puede postularse a la convocatoria, pero únicamente como parte de una alianza, no en solitario. Su rol sugerido es como entidad ejecutora, aunque debe verificar que cuenta con grupos de investigación categorizados y domicilio en la región de la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

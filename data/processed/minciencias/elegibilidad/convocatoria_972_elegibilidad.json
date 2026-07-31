@@ -1,0 +1,59 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior",
+        "rol": "ejecutor",
+        "condicion": null
+      },
+      {
+        "tipo": "Institución de Educación Superior",
+        "rol": "coejecutor",
+        "condicion": null
+      },
+      {
+        "tipo": "Institución de Educación Superior Internacional",
+        "rol": "coejecutor",
+        "condicion": null
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe conformar una alianza con una empresa operadora de hidrocarburos (Modalidad I) o una empresa del sector productivo de hidrocarburos (Modalidad II) como coejecutora."
+      ],
+      "resumen": "La Universidad del Rosario es elegible como entidad ejecutora, pero solo puede postularse en alianza con una empresa operadora o del sector de hidrocarburos, según la modalidad de la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Debe conformar una alianza con una empresa operadora de hidrocarburos (Modalidad I) o una empresa del sector productivo de hidrocarburos (Modalidad II) como coejecutora."
+    ],
+    "resumen": "La Universidad del Rosario es elegible como entidad ejecutora, pero solo puede postularse en alianza con una empresa operadora o del sector de hidrocarburos, según la modalidad de la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

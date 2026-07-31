@@ -1,0 +1,59 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "elegible_alianza_indefinida",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) aparece como elegible; no esta claro si la alianza es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de educación superior (pública o privada)",
+        "rol": null,
+        "condicion": "Debe avalar o contar con revistas científicas especializadas en categoría B (cuartil 1 H5, convocatoria 910 de 2021)."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Debe avalar o contar con revistas científicas especializadas en categoría B (cuartil 1 H5, convocatoria 910 de 2021).",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "La Universidad del Rosario debe avalar o contar con revistas científicas especializadas en categoría B (cuartil 1 H5, según convocatoria 910 de 2021) para ser elegible como institución editora.",
+        "Debe comprometer una contrapartida mínima del 30% del valor total de la propuesta, en especie o efectivo, según lo exigen los términos de referencia.",
+        "Las revistas participantes deben estar actualizadas en Publindex y cumplir los requisitos técnicos (pre-evaluation Scopus, Citescore, etc.)."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con sede en Bogotá. Puede postularse como ejecutora, pero debe verificar que cuenta con revistas científicas en categoría B (cuartil 1 H5) y cumplir con la contrapartida del 30% y los demás requisitos técnicos y documentales de la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "La Universidad del Rosario debe avalar o contar con revistas científicas especializadas en categoría B (cuartil 1 H5, según convocatoria 910 de 2021) para ser elegible como institución editora.",
+      "Debe comprometer una contrapartida mínima del 30% del valor total de la propuesta, en especie o efectivo, según lo exigen los términos de referencia.",
+      "Las revistas participantes deben estar actualizadas en Publindex y cumplir los requisitos técnicos (pre-evaluation Scopus, Citescore, etc.)."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con sede en Bogotá. Puede postularse como ejecutora, pero debe verificar que cuenta con revistas científicas en categoría B (cuartil 1 H5) y cumplir con la contrapartida del 30% y los demás requisitos técnicos y documentales de la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

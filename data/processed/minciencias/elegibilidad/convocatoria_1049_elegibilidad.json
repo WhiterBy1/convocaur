@@ -1,0 +1,44 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Formar alianza con los actores requeridos: entidad coejecutora (diferente a centro de ciencia), centro de ciencia, y aliado obligatorio (firmantes de paz, consejos comunitarios, etc.)",
+        "Asegurar que al menos un integrante de la alianza (ejecutora o coejecutora) tenga sede en el territorio de ejecución del proyecto",
+        "Verificar que la universidad pueda gestionar los permisos de recolección y acceso a recursos genéticos",
+        "Confirmar que la universidad no asuma más de un rol en la propuesta"
+      ],
+      "resumen": "La Universidad del Rosario es una IES acreditada, elegible como entidad ejecutora en esta convocatoria. Sin embargo, debe postularse en alianza con una entidad coejecutora, un centro de ciencia y un aliado obligatorio, cumpliendo las condiciones territoriales y de permisos."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Formar alianza con los actores requeridos: entidad coejecutora (diferente a centro de ciencia), centro de ciencia, y aliado obligatorio (firmantes de paz, consejos comunitarios, etc.)",
+      "Asegurar que al menos un integrante de la alianza (ejecutora o coejecutora) tenga sede en el territorio de ejecución del proyecto",
+      "Verificar que la universidad pueda gestionar los permisos de recolección y acceso a recursos genéticos",
+      "Confirmar que la universidad no asuma más de un rol en la propuesta"
+    ],
+    "resumen": "La Universidad del Rosario es una IES acreditada, elegible como entidad ejecutora en esta convocatoria. Sin embargo, debe postularse en alianza con una entidad coejecutora, un centro de ciencia y un aliado obligatorio, cumpliendo las condiciones territoriales y de permisos.",
+    "fuente": "reglas+llm"
+  }
+}

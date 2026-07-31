@@ -1,0 +1,51 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) nacional",
+        "rol": "Ejecutora o coejecutora",
+        "condicion": "Con acreditación institucional vigente de alta calidad a la fecha de cierre de la convocatoria"
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Con acreditación institucional vigente de alta calidad a la fecha de cierre de la convocatoria",
+        "riesgo": "acreditacion",
+        "nota": "Verificar vigencia de acreditacion institucional/programas."
+      },
+      {
+        "condicion": "Con acreditación institucional vigente de alta calidad a la fecha de cierre de la convocatoria",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "": "{\n  \"puede_postularse\": true,\n  \"modo\": \"solo_en_alianza\",\n  \"rol_sugerido\": \"ejecutora\",\n  \"bloqueantes\": [],\n  \"condiciones_a_verificar\": [\n    \"Acreditación institucional vigente de alta calidad a la fecha de cierre de la convocatoria\",\n    \"Contar con grupos de investigación categorizados por Minciencias (cruzar con capacidad institucional)\",\n    \"Cumplir con la contrapartida mínima del 30% del valor solicitado\"\n  ],\n  \"resumen\": \"La Universidad del Rosario, como IES privada con acreditación institucional y reconocimiento SNCTI, es elegible para postularse en alianza como ejecutora. Debe verificar la vigencia de su acreditación, la existencia de grupos de investigación categorizados y la capacidad de aportar la contrapartida requerida.\"\n}"
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la Universidad del Rosario cumple con los requisitos de experiencia en proyectos de CTeI (últimos cinco años) según el Anexo 5.",
+        "Validar que la carta de aval y compromiso institucional esté firmada por el representante legal con facultades acreditadas.",
+        "Asegurar que el presupuesto cumple con las condiciones de duración y financiación del numeral 7.2."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse como entidad única (modo 'sola') a la convocatoria, siempre que cumpla con los requisitos documentales y de experiencia específicos."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la Universidad del Rosario cumple con los requisitos de experiencia en proyectos de CTeI (últimos cinco años) según el Anexo 5.",
+      "Validar que la carta de aval y compromiso institucional esté firmada por el representante legal con facultades acreditadas.",
+      "Asegurar que el presupuesto cumple con las condiciones de duración y financiación del numeral 7.2."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse como entidad única (modo 'sola') a la convocatoria, siempre que cumpla con los requisitos documentales y de experiencia específicos.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) pública",
+        "rol": "Entidad ejecutora",
+        "condicion": "Registrada ante el Ministerio de Educación Nacional, con domicilio en la región del Caribe colombiano"
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Registrada ante el Ministerio de Educación Nacional, con domicilio en la región del Caribe colombiano",
+        "riesgo": "territorio",
+        "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [
+        "No es IES pública, requisito para ser entidad ejecutora",
+        "No tiene domicilio en la región Caribe colombiana"
+      ],
+      "condiciones_a_verificar": [
+        "Verificar si puede participar como entidad aliada dentro de una alianza liderada por una IES pública con domicilio en el Caribe",
+        "Confirmar la disponibilidad de contrapartida y aportes desde Bogotá",
+        "Validar que la universidad cuente con grupos de investigación reconocidos que puedan ser adscritos a la entidad ejecutora"
+      ],
+      "resumen": "La Universidad del Rosario, por ser IES privada con sede en Bogotá, no puede asumir el rol de entidad ejecutora en esta convocatoria. Sin embargo, como actor reconocido del SNCTI, podría participar en calidad de entidad aliada dentro de una alianza que cumpla los requisitos territoriales, sujeto a verificación de su rol y aportes."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_como_aliado",
+    "rol_sugerido": "aliado",
+    "bloqueantes": [
+      "No es IES pública, requisito para ser entidad ejecutora",
+      "No tiene domicilio en la región Caribe colombiana"
+    ],
+    "condiciones_a_verificar": [
+      "Verificar si puede participar como entidad aliada dentro de una alianza liderada por una IES pública con domicilio en el Caribe",
+      "Confirmar la disponibilidad de contrapartida y aportes desde Bogotá",
+      "Validar que la universidad cuente con grupos de investigación reconocidos que puedan ser adscritos a la entidad ejecutora"
+    ],
+    "resumen": "La Universidad del Rosario, por ser IES privada con sede en Bogotá, no puede asumir el rol de entidad ejecutora en esta convocatoria. Sin embargo, como actor reconocido del SNCTI, podría participar en calidad de entidad aliada dentro de una alianza que cumpla los requisitos territoriales, sujeto a verificación de su rol y aportes.",
+    "fuente": "reglas+llm"
+  }
+}

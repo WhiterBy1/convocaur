@@ -1,0 +1,45 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior (IES) colombianas",
+        "rol": "Coejecutora",
+        "condicion": "Entidades con reconocimiento oficial como prestadoras del servicio público de educación superior en Colombia (Instituciones Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas y Universidades)."
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada elegible para la convocatoria, pero debe postularse en alianza obligatoria. Su rol sugerido es ejecutora, aunque la convocatoria asigna a las IES el rol de coejecutora. Se recomienda validar la capacidad institucional para cumplir requisitos específicos como grupos de investigación y contrapartida."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario es una IES privada elegible para la convocatoria, pero debe postularse en alianza obligatoria. Su rol sugerido es ejecutora, aunque la convocatoria asigna a las IES el rol de coejecutora. Se recomienda validar la capacidad institucional para cumplir requisitos específicos como grupos de investigación y contrapartida.",
+    "fuente": "reglas+llm"
+  }
+}

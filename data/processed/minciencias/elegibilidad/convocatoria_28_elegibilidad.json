@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años relacionado con Ciencias Básicas y/o del Espacio",
+        "Carta de aval y compromiso institucional firmada por representante legal",
+        "Acreditación de facultades del representante legal"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible como entidad académica para postularse como proponente o aliado en la convocatoria. Sin embargo, deberá verificar que cumple con la experiencia en proyectos de CTeI en el área temática y los requisitos documentales exigidos."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años relacionado con Ciencias Básicas y/o del Espacio",
+      "Carta de aval y compromiso institucional firmada por representante legal",
+      "Acreditación de facultades del representante legal"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible como entidad académica para postularse como proponente o aliado en la convocatoria. Sin embargo, deberá verificar que cumple con la experiencia en proyectos de CTeI en el área temática y los requisitos documentales exigidos.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad cumple con el perfil de entidad elegible definido en el numeral 'Dirigido a' de los TdR",
+        "Verificar que la universidad cuenta con la capacidad de comprometer la contrapartida mínima del 15%",
+        "Verificar que la universidad tiene experiencia en al menos 1 proyecto de I+D+i en salud si actúa como entidad ejecutora"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse en alianza con otras entidades para esta convocatoria territorial en salud. Se sugiere su rol como entidad ejecutora, sujeto a verificación de experiencia en I+D+i salud y capacidad de contrapartida."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la universidad cumple con el perfil de entidad elegible definido en el numeral 'Dirigido a' de los TdR",
+      "Verificar que la universidad cuenta con la capacidad de comprometer la contrapartida mínima del 15%",
+      "Verificar que la universidad tiene experiencia en al menos 1 proyecto de I+D+i en salud si actúa como entidad ejecutora"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse en alianza con otras entidades para esta convocatoria territorial en salud. Se sugiere su rol como entidad ejecutora, sujeto a verificación de experiencia en I+D+i salud y capacidad de contrapartida.",
+    "fuente": "reglas+llm"
+  }
+}

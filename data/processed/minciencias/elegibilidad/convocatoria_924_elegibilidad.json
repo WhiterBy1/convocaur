@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida exclusivamente a servidores públicos del Departamento del Atlántico, no a instituciones educativas.",
+        "Universidad del Rosario no es una entidad del sector público ni tiene sede en el Atlántico.",
+        "Los requisitos exigen que el beneficiario curse una maestría en una universidad acreditada con domicilio en el Atlántico, lo cual no aplica a la Universidad del Rosario."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse porque la convocatoria está diseñada para servidores públicos del Atlántico que estudian maestrías en universidades de esa región. La universidad no es un actor elegible ni cumple las condiciones geográficas."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria está dirigida exclusivamente a servidores públicos del Departamento del Atlántico, no a instituciones educativas.",
+      "Universidad del Rosario no es una entidad del sector público ni tiene sede en el Atlántico.",
+      "Los requisitos exigen que el beneficiario curse una maestría en una universidad acreditada con domicilio en el Atlántico, lo cual no aplica a la Universidad del Rosario."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse porque la convocatoria está diseñada para servidores públicos del Atlántico que estudian maestrías en universidades de esa región. La universidad no es un actor elegible ni cumple las condiciones geográficas.",
+    "fuente": "reglas+llm"
+  }
+}

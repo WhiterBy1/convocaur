@@ -1,0 +1,48 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Ser institución editora colombiana con ISSN otorgado por la Biblioteca Nacional y personería jurídica",
+        "Estar incluido en la lista de actores del SNCTI que cumplen con el requisito de ser institución editora colombiana",
+        "Avalar revistas científicas especializadas indexadas de la convocatoria No. 910 de 2021",
+        "Las revistas a fortalecer deben estar clasificadas en categorías B o C por H5 resultado de la convocatoria 910-2021",
+        "Cumplir con causales de CTeI del Decreto 591-1991 art. 2 numerales 1 y 2",
+        "Presentar plan de fortalecimiento de capacidades institucionales relacionadas con gestión editorial, visibilidad e impacto"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, cumple con el requisito base de ser institución de educación superior, pero debe verificar que actúa como institución editora de revistas científicas indexadas en categorías B o C de la convocatoria 910-2021 y que cuenta con los ISSN correspondientes. Por lo tanto, es elegible con condiciones."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Ser institución editora colombiana con ISSN otorgado por la Biblioteca Nacional y personería jurídica",
+      "Estar incluido en la lista de actores del SNCTI que cumplen con el requisito de ser institución editora colombiana",
+      "Avalar revistas científicas especializadas indexadas de la convocatoria No. 910 de 2021",
+      "Las revistas a fortalecer deben estar clasificadas en categorías B o C por H5 resultado de la convocatoria 910-2021",
+      "Cumplir con causales de CTeI del Decreto 591-1991 art. 2 numerales 1 y 2",
+      "Presentar plan de fortalecimiento de capacidades institucionales relacionadas con gestión editorial, visibilidad e impacto"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, cumple con el requisito base de ser institución de educación superior, pero debe verificar que actúa como institución editora de revistas científicas indexadas en categorías B o C de la convocatoria 910-2021 y que cuenta con los ISSN correspondientes. Por lo tanto, es elegible con condiciones.",
+    "fuente": "reglas+llm"
+  }
+}

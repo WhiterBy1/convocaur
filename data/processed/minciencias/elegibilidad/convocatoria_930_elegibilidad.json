@@ -1,0 +1,79 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior",
+        "rol": "Ejecutora",
+        "condicion": "A través de grupos de investigación categorizados A1, A, B, C, con reconocimiento vigente al cierre de la convocatoria"
+      },
+      {
+        "tipo": "Instituciones de Educación Superior",
+        "rol": "Co-ejecutora",
+        "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
+      },
+      {
+        "tipo": "Universidades e institutos de investigación con Grupos Tándem Max Planck",
+        "rol": "Ejecutora",
+        "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia"
+      },
+      {
+        "tipo": "Universidades e institutos de investigación con Grupos Tándem Max Planck",
+        "rol": "Co-ejecutora",
+        "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "A través de grupos de investigación categorizados A1, A, B, C, con reconocimiento vigente al cierre de la convocatoria",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      },
+      {
+        "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [
+        "No se ha verificado la existencia de grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck"
+      ],
+      "condiciones_a_verificar": [
+        "Contar con grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck con reconocimiento vigente al cierre de la convocatoria"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada elegible para postularse en alianza como ejecutora, pero requiere verificar que cuenta con grupos de investigación categorizados (A1, A, B, C) o Grupos Tándem Max Planck, según lo exige la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [
+      "No se ha verificado la existencia de grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck"
+    ],
+    "condiciones_a_verificar": [
+      "Contar con grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck con reconocimiento vigente al cierre de la convocatoria"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada elegible para postularse en alianza como ejecutora, pero requiere verificar que cuenta con grupos de investigación categorizados (A1, A, B, C) o Grupos Tándem Max Planck, según lo exige la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

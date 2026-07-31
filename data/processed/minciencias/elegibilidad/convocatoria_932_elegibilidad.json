@@ -1,0 +1,45 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) o actor reconocido del Sistema Nacional de CTeI",
+        "rol": null,
+        "condicion": "Excepto Empresas Altamente Innovadoras (EAI) y Unidades de I+D+i de Empresas"
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse a la convocatoria de estancias cortas de I+D+i, pero únicamente en alianza con una empresa u otro actor elegible, desempeñando el rol de entidad ejecutora. No se identifican condiciones bloqueantes adicionales a la obligatoriedad de la alianza."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse a la convocatoria de estancias cortas de I+D+i, pero únicamente en alianza con una empresa u otro actor elegible, desempeñando el rol de entidad ejecutora. No se identifican condiciones bloqueantes adicionales a la obligatoriedad de la alianza.",
+    "fuente": "reglas+llm"
+  }
+}

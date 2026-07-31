@@ -1,0 +1,44 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Demostrar experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos de CTeI del SGR",
+        "Acreditar grupos de investigación reconocidos por Minciencias si se requiere para la propuesta",
+        "Verificar capacidad de contrapartida y cumplimiento de requisitos financieros",
+        "Adjuntar carta de aval y compromiso institucional unificada firmada por representante legal"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como proponente o aliado en esta convocatoria. Debe verificar su experiencia en proyectos de CTeI y cumplir con los requisitos documentales y financieros establecidos."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Demostrar experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos de CTeI del SGR",
+      "Acreditar grupos de investigación reconocidos por Minciencias si se requiere para la propuesta",
+      "Verificar capacidad de contrapartida y cumplimiento de requisitos financieros",
+      "Adjuntar carta de aval y compromiso institucional unificada firmada por representante legal"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como proponente o aliado en esta convocatoria. Debe verificar su experiencia en proyectos de CTeI y cumplir con los requisitos documentales y financieros establecidos.",
+    "fuente": "reglas+llm"
+  }
+}
