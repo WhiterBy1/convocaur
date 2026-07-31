@@ -1,113 +1,99 @@
 {
   "convocatoria": "947",
-  "objetivo": "Conformar un listado de propuestas elegibles para diseñar e implementar Centros de Interés en CTeI con enfoque STEM+ mediante la metodología del Programa Ondas. Busca promover competencias del siglo XXI en niños, niñas y adolescentes de educación preescolar, básica y media. Esto se enmarca en estrategias de ampliación y resignificación del tiempo escolar en 90 establecimientos educativos de seis departamentos.",
+  "objetivo": "Conformar un listado de propuestas elegibles para diseñar e implementar Centros de Interés en CTeI con enfoque STEM+ mediante la metodología del Programa Ondas, con el fin de promover competencias del Siglo XXI en niños, niñas y adolescentes de educación preescolar, básica y media en 90 establecimientos educativos de seis departamentos.",
   "actores_elegibles": [
     {
-      "tipo": "Institución de Educación Superior (IES) pública y/o privada con acreditación institucional de alta calidad",
-      "rol": "Entidad Ejecutora",
-      "condicion": "Debe contar con mínimo un programa de educación con registro calificado en pregrado y/o posgrado; tener experiencia en al menos un proyecto del Programa Ondas; tener domicilio en Colombia; solo puede participar bajo un rol y con una sola propuesta."
+      "tipo": "Institución de Educación Superior (IES) pública o privada con acreditación institucional de alta calidad",
+      "rol": "Entidad ejecutora",
+      "condicion": "Debe tener programa de educación con registro calificado, experiencia en al menos un proyecto del Programa Ondas, domicilio en Colombia, y solo puede participar bajo un rol y con una sola propuesta."
     },
     {
-      "tipo": "Institución de Educación Superior (IES) presente en territorio colombiano (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades)",
-      "rol": "Entidad Aliada",
-      "condicion": "Tener domicilio en alguno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo); garantizar aliados en al menos 4 de esos departamentos; experiencia en al menos 1 proyecto de CTI; estar registrada en SIGP; solo un rol y una propuesta."
+      "tipo": "Institución de Educación Superior (IES) (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades)",
+      "rol": "Entidad aliada",
+      "condicion": "Debe tener domicilio en al menos uno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) garantizando presencia en al menos cuatro de ellos, experiencia en al menos un proyecto de CTI, estar registrada en SIGP, y no estar en liquidación o reestructuración. No se cuentan sedes o seccionales de la IES ejecutora ni sus centros de investigación o desarrollo tecnológico."
     },
     {
-      "tipo": "Centro o Instituto de Investigación",
-      "rol": "Entidad Aliada",
-      "condicion": "Organización pública, privada o mixta independiente; reconocimiento vigente de Minciencias; domicilio en departamentos focalizados; experiencia en al menos 1 proyecto de CTI; registro en SIGP; solo un rol y una propuesta."
+      "tipo": "Centro o Instituto de Investigación (público, privado o mixto)",
+      "rol": "Entidad aliada",
+      "condicion": "Con reconocimiento vigente de Minciencias al cierre de la convocatoria. Debe cumplir con las mismas condiciones de domicilio (departamentos focalizados), experiencia en CTI, registro SIGP, y no estar en liquidación/reestructuración."
     },
     {
-      "tipo": "Centro de Desarrollo Tecnológico",
-      "rol": "Entidad Aliada",
-      "condicion": "Organización pública o privada dedicada a investigación aplicada y desarrollo de tecnología propia; reconocimiento vigente de Minciencias; domicilio en departamentos focalizados; experiencia en al menos 1 proyecto de CTI; registro en SIGP; solo un rol y una propuesta."
+      "tipo": "Centro de Desarrollo Tecnológico (público o privado)",
+      "rol": "Entidad aliada",
+      "condicion": "Con reconocimiento vigente de Minciencias al cierre de la convocatoria. Debe cumplir con las mismas condiciones de domicilio (departamentos focalizados), experiencia en CTI, registro SIGP, y no estar en liquidación/reestructuración."
     }
   ],
   "alianza_obligatoria": true,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Centros de Interés en CTeI con enfoque STEM+",
+      "modalidad": "Programa Ondas",
+      "descripcion_corta": "Propuesta para diseñar e implementar centros de interés en CTeI con enfoque STEM+ dirigidos a niños, niñas y adolescentes en 90 establecimientos educativos de seis departamentos."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Inscribir la propuesta en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustada al objeto de la convocatoria y conteniendo la información del numeral 9.",
+      "texto": "Inscribir la propuesta en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustándose al objeto de la convocatoria y conteniendo la información del numeral 9.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con todos los elementos y condiciones descritas en el 'dirigido a' del numeral 3 (entidad ejecutora).",
+      "texto": "Cumplir con todos los elementos y condiciones descritas en el 'dirigido a' del numeral 3.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Ser una Institución de Educación Superior pública o privada con acreditación institucional de alta calidad al cierre de la convocatoria.",
+      "texto": "Ser una Institución de Educación Superior pública o privada con acreditación institucional de alta calidad al cierre de la convocatoria, adjuntando certificado de existencia y representación legal expedido por el MEN con fecha no mayor a tres meses.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el certificado de existencia y representación legal expedido por el MEN con fecha no mayor a tres meses al cierre, para acreditar la acreditación institucional (verificada también por el SNIES).",
+      "texto": "Contar con mínimo un programa de educación con registro calificado por el MEN en pregrado y/o posgrado al cierre de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener experiencia en la ejecución de al menos un proyecto del Programa Ondas del Ministerio de Ciencia, Tecnología e Innovación, adjuntando actas de liquidación del contrato(s)/convenio(s).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener domicilio en el territorio nacional, adjuntando certificado de existencia y representación legal expedido por el MEN con fecha no mayor a tres meses.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Solo se puede participar bajo un rol y con una sola propuesta, ya sea como entidad ejecutora o como entidad aliada.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cada entidad aliada debe tener domicilio en alguno de los seis departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) y garantizar aliados en al menos cuatro de ellos. Adjuntar certificado de existencia y representación legal si no cuenta con RUES.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con experiencia en la ejecución de al menos un proyecto de Ciencia, Tecnología e Innovación, adjuntando convenio(s)/contrato(s) con actas de liquidación o finalización.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Todas las entidades aliadas deben estar registradas en el sistema integral de gestión de proyectos - SIGP.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Contar con mínimo un programa de educación con registro calificado por el MEN en pregrado y/o posgrado (especialización, maestría o doctorado) al cierre de la convocatoria.",
+      "texto": "Solo se puede participar bajo un rol y con una sola propuesta, ya sea como entidad aliada o como entidad ejecutora.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Tener experiencia en la ejecución de al menos un proyecto del Programa Ondas del Minciencias al cierre de la convocatoria.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar las actas de liquidación del/los contrato(s)/convenio(s) que demuestren la experiencia en ejecución del Programa Ondas, relacionadas en el Anexo 2.",
+      "texto": "Adjuntar la 'Carta de aval, compromiso institucional unificado y Modelo de Gobernanza' (Anexo 1) debidamente diligenciada y firmada por los representantes legales de todas las entidades.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Tener domicilio en el territorio nacional.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar el certificado de existencia y representación legal expedido por el MEN con fecha no mayor a tres meses al cierre para acreditar domicilio nacional.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Solo se puede participar bajo un rol y con una sola propuesta, ya sea como entidad ejecutora o como entidad aliada (verificado en SIGP).",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Cada entidad aliada debe tener domicilio en al menos cuatro de los seis departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño y Putumayo).",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Para verificar el domicilio de entidades aliadas sin RUES, adjuntar certificado de existencia y representación legal expedido por Cámara de Comercio o MEN con fecha no mayor a tres meses.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Cada entidad aliada debe contar con experiencia en la ejecución de al menos un proyecto de Ciencia, Tecnología e Innovación.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar convenio(s)/contrato(s) con actas de liquidación o finalización que demuestren experiencia en CTI, relacionados en el Anexo 2.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Todas las entidades aliadas deben estar registradas en el SIGP según el procedimiento de inscripción.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar la 'Carta de aval, compromiso institucional unificado y Modelo de Gobernanza' (Anexo 1) debidamente diligenciada y firmada por los representantes legales de todas las entidades (ejecutora y aliadas) o delegados autorizados.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar el Anexo 3 'Conformación del equipo de trabajo' totalmente diligenciado, con soportes de hojas de vida de los perfiles diferentes a doctores, asesores y coordinador general.",
+      "texto": "Adjuntar el Anexo 3. Conformación del equipo de trabajo totalmente diligenciado, con los soportes de las hojas de vida de los perfiles diferentes a doctores, asesores y coordinador general.",
       "tipo": "documental",
       "severidad": "obligatorio"
     }
@@ -186,13 +172,13 @@
     }
   ],
   "financiacion": {
-    "monto_total_texto": "CINCO MIL TREINTA Y SEIS MILLONES DOSCIENTOS CUARENTA Y SEIS MIL DOSCIENTOS CUARENTA Y SEIS PESOS M/TCE ($5.036.246.246)",
+    "monto_total_texto": "Cinco mil treinta y seis millones doscientos cuarenta y seis mil doscientos cuarenta y seis pesos M/TCE ($5.036.246.246)",
     "monto_total_cop": 5036246246.0,
     "plazo_min_meses": null,
     "plazo_max_meses": null,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
-    "fuente_recursos": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación (CDR No. 18847, 18855, 18856 del 17 de noviembre de 2023)",
     "notas": "La propuesta presentada no podrá ser financiada simultáneamente por otra convocatoria o con recursos del Ministerio de Ciencia, Tecnología e Innovación u otras entidades del Estado."
   },
   "meta": {
@@ -201,70 +187,77 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 554,
+        "chars_enviados": 550,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 362,
-          "completion_tokens": 106
+          "prompt_tokens": 361,
+          "completion_tokens": 90
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4241,
+        "chars_enviados": 4139,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1404,
-          "completion_tokens": 450
+          "prompt_tokens": 1370,
+          "completion_tokens": 759
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4912,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1612,
+          "completion_tokens": 1083
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 5322,
+        "chars_enviados": 5187,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1786,
-          "completion_tokens": 1945
+          "prompt_tokens": 1722,
+          "completion_tokens": 2008
         }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2101,
+        "chars_enviados": 2078,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 831,
-          "completion_tokens": 594
+          "prompt_tokens": 799,
+          "completion_tokens": 474
         }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 717,
+        "chars_enviados": 708,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 572,
-          "completion_tokens": 702
+          "prompt_tokens": 568,
+          "completion_tokens": 205
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2210,
+        "chars_enviados": 2122,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 974,
-          "completion_tokens": 1985
+          "prompt_tokens": 938,
+          "completion_tokens": 2156
         }
       }
     }
@@ -279,34 +272,34 @@
       "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
       "actores_ies_match": [
         {
-          "tipo": "Institución de Educación Superior (IES) pública y/o privada con acreditación institucional de alta calidad",
-          "rol": "Entidad Ejecutora",
-          "condicion": "Debe contar con mínimo un programa de educación con registro calificado en pregrado y/o posgrado; tener experiencia en al menos un proyecto del Programa Ondas; tener domicilio en Colombia; solo puede participar bajo un rol y con una sola propuesta."
+          "tipo": "Institución de Educación Superior (IES) pública o privada con acreditación institucional de alta calidad",
+          "rol": "Entidad ejecutora",
+          "condicion": "Debe tener programa de educación con registro calificado, experiencia en al menos un proyecto del Programa Ondas, domicilio en Colombia, y solo puede participar bajo un rol y con una sola propuesta."
         },
         {
-          "tipo": "Institución de Educación Superior (IES) presente en territorio colombiano (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades)",
-          "rol": "Entidad Aliada",
-          "condicion": "Tener domicilio en alguno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo); garantizar aliados en al menos 4 de esos departamentos; experiencia en al menos 1 proyecto de CTI; estar registrada en SIGP; solo un rol y una propuesta."
+          "tipo": "Institución de Educación Superior (IES) (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades)",
+          "rol": "Entidad aliada",
+          "condicion": "Debe tener domicilio en al menos uno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) garantizando presencia en al menos cuatro de ellos, experiencia en al menos un proyecto de CTI, estar registrada en SIGP, y no estar en liquidación o reestructuración. No se cuentan sedes o seccionales de la IES ejecutora ni sus centros de investigación o desarrollo tecnológico."
         }
       ],
       "condiciones_pendientes": [
         {
-          "condicion": "Debe contar con mínimo un programa de educación con registro calificado en pregrado y/o posgrado; tener experiencia en al menos un proyecto del Programa Ondas; tener domicilio en Colombia; solo puede participar bajo un rol y con una sola propuesta.",
+          "condicion": "Debe tener programa de educación con registro calificado, experiencia en al menos un proyecto del Programa Ondas, domicilio en Colombia, y solo puede participar bajo un rol y con una sola propuesta.",
           "riesgo": "territorio",
           "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
         },
         {
-          "condicion": "Debe contar con mínimo un programa de educación con registro calificado en pregrado y/o posgrado; tener experiencia en al menos un proyecto del Programa Ondas; tener domicilio en Colombia; solo puede participar bajo un rol y con una sola propuesta.",
+          "condicion": "Debe tener programa de educación con registro calificado, experiencia en al menos un proyecto del Programa Ondas, domicilio en Colombia, y solo puede participar bajo un rol y con una sola propuesta.",
           "riesgo": "experiencia",
           "nota": "Validar experiencia acreditada en CTeI/regiones."
         },
         {
-          "condicion": "Tener domicilio en alguno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo); garantizar aliados en al menos 4 de esos departamentos; experiencia en al menos 1 proyecto de CTI; estar registrada en SIGP; solo un rol y una propuesta.",
+          "condicion": "Debe tener domicilio en al menos uno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) garantizando presencia en al menos cuatro de ellos, experiencia en al menos un proyecto de CTI, estar registrada en SIGP, y no estar en liquidación o reestructuración. No se cuentan sedes o seccionales de la IES ejecutora ni sus centros de investigación o desarrollo tecnológico.",
           "riesgo": "territorio",
           "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
         },
         {
-          "condicion": "Tener domicilio en alguno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo); garantizar aliados en al menos 4 de esos departamentos; experiencia en al menos 1 proyecto de CTI; estar registrada en SIGP; solo un rol y una propuesta.",
+          "condicion": "Debe tener domicilio en al menos uno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) garantizando presencia en al menos cuatro de ellos, experiencia en al menos un proyecto de CTI, estar registrada en SIGP, y no estar en liquidación o reestructuración. No se cuentan sedes o seccionales de la IES ejecutora ni sus centros de investigación o desarrollo tecnológico.",
           "riesgo": "experiencia",
           "nota": "Validar experiencia acreditada en CTeI/regiones."
         }
@@ -326,10 +319,12 @@
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Contar con mínimo un programa de educación con registro calificado en pregrado y/o posgrado",
-          "Tener experiencia en al menos un proyecto del Programa Ondas"
+          "Tener programa de educación con registro calificado al cierre de la convocatoria.",
+          "Experiencia en al menos un proyecto del Programa Ondas (adjuntar actas de liquidación).",
+          "Domicilio en Colombia (certificado MEN vigente).",
+          "No participar en más de una propuesta (único rol)."
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada con sede en Bogotá, es elegible para postularse como entidad ejecutora en alianza obligatoria. Debe verificar que cumple con los requisitos de contar con un programa con registro calificado y experiencia en proyectos Ondas."
+        "resumen": "Universidad del Rosario, como IES privada con acreditación institucional, es elegible para postularse como entidad ejecutora en alianza con otras entidades aliadas que cumplan requisitos de domicilio regional. Debe verificar que cuenta con programa de educación con registro calificado y experiencia en el Programa Ondas, y que se presenta bajo un solo rol y una única propuesta."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -339,10 +334,12 @@
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Contar con mínimo un programa de educación con registro calificado en pregrado y/o posgrado",
-        "Tener experiencia en al menos un proyecto del Programa Ondas"
+        "Tener programa de educación con registro calificado al cierre de la convocatoria.",
+        "Experiencia en al menos un proyecto del Programa Ondas (adjuntar actas de liquidación).",
+        "Domicilio en Colombia (certificado MEN vigente).",
+        "No participar en más de una propuesta (único rol)."
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada con sede en Bogotá, es elegible para postularse como entidad ejecutora en alianza obligatoria. Debe verificar que cumple con los requisitos de contar con un programa con registro calificado y experiencia en proyectos Ondas.",
+      "resumen": "Universidad del Rosario, como IES privada con acreditación institucional, es elegible para postularse como entidad ejecutora en alianza con otras entidades aliadas que cumplan requisitos de domicilio regional. Debe verificar que cuenta con programa de educación con registro calificado y experiencia en el Programa Ondas, y que se presenta bajo un solo rol y una única propuesta.",
       "fuente": "reglas+llm"
     }
   }

@@ -1,177 +1,393 @@
 {
   "convocatoria": "931",
-  "objetivo": "Fortalecer las capacidades en investigación en áreas relacionadas con el sector de los hidrocarburos en Colombia, mediante la financiación de proyectos de I+D+i y la vinculación de Jóvenes Investigadores e Innovadores, para generar nuevo conocimiento geocientífico, promover el aprovechamiento sostenible del recurso hidrocarburífero y fomentar vocaciones científicas en geociencias afines al sector.",
+  "objetivo": "Fortalecer las capacidades en investigación en áreas relacionadas con el sector de los hidrocarburos en Colombia, a través de la financiación de proyectos de I+D+i, así como la vinculación de Jóvenes Investigadores e Innovadores, que permitan la generación de nuevo conocimiento geocientífico del sector de hidrocarburos, el aprovechamiento sostenible del recurso hidrocarburífero y el fomento de vocaciones científicas en el área de geociencias afines al sector de hidrocarburos.",
   "actores_elegibles": [
     {
-      "tipo": "Grupos de Investigación, Desarrollo Tecnológico e Innovación",
-      "rol": "proponente y líder del proyecto (investigador principal)",
-      "condicion": "con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, adscritos a entidades legalmente constituidas"
+      "tipo": "Grupo de Investigación, Desarrollo Tecnológico e Innovación",
+      "rol": null,
+      "condicion": "Reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, adscrito a entidad legalmente constituida. Aplica para Modalidades 1, 2 y 3."
     },
     {
       "tipo": "Otros Grupos de Investigación, Desarrollo Tecnológico e Innovación",
-      "rol": "integrante de alianza estratégica",
-      "condicion": "reconocidos a la fecha de cierre de la convocatoria"
+      "rol": null,
+      "condicion": "Reconocidos a la fecha de cierre de la convocatoria. Aplica para Modalidades 1 y 2."
     },
     {
-      "tipo": "Otros actores del SNCTI",
-      "rol": "integrante de alianza estratégica",
-      "condicion": "adscritos a entidades legalmente constituidas. Incluye: Unidades Empresariales de I+D+i reconocidas, empresas, Centros e Institutos de Investigación (CI), Centros de Desarrollo Tecnológico (CDT), Centros de Innovación y Productividad (CIP), Incubadoras de Empresa de Base Tecnológica (IEBT), Organizaciones para el fomento del uso y apropiación de la CTeI: Centros Regionales de Investigación, Innovación y Emprendimiento (CRIIE)"
+      "tipo": "Unidades Empresariales de I+D+i",
+      "rol": null,
+      "condicion": "Actor del SNCTI, adscrito a entidad legalmente constituida. Aplica para Modalidades 1 y 2."
+    },
+    {
+      "tipo": "Empresas",
+      "rol": null,
+      "condicion": "Actor del SNCTI, adscrito a entidad legalmente constituida. Para Modalidades 1 y 2, si participan como coejecutoras deben tener domicilio en Colombia mínimo 3 años antes del cierre. Aplica también para Modalidad 3."
+    },
+    {
+      "tipo": "Centros e Institutos de Investigación (CI)",
+      "rol": null,
+      "condicion": "Actor del SNCTI, adscrito a entidad legalmente constituida. Aplica para Modalidades 1, 2 y 3."
+    },
+    {
+      "tipo": "Centros de Desarrollo Tecnológico (CDT)",
+      "rol": null,
+      "condicion": "Actor del SNCTI, adscrito a entidad legalmente constituida. Aplica para Modalidades 1, 2 y 3."
+    },
+    {
+      "tipo": "Centros de Innovación y Productividad (CIP)",
+      "rol": null,
+      "condicion": "Actor del SNCTI, adscrito a entidad legalmente constituida. Aplica para Modalidades 1, 2 y 3."
+    },
+    {
+      "tipo": "Incubadoras de Empresa de Base Tecnológica (IEBT)",
+      "rol": null,
+      "condicion": "Actor del SNCTI, adscrito a entidad legalmente constituida. Aplica para Modalidades 1, 2 y 3."
+    },
+    {
+      "tipo": "Organizaciones para el fomento del uso y apropiación de la CTeI: Centros Regionales de Investigación, Innovación y Emprendimiento (CRIIE)",
+      "rol": null,
+      "condicion": "Actor del SNCTI, adscrito a entidad legalmente constituida. Aplica para Modalidades 1, 2 y 3."
     },
     {
       "tipo": "Instituciones de Educación Superior (IES)",
-      "rol": "integrante de alianza estratégica",
-      "condicion": null
+      "rol": null,
+      "condicion": "Aplica para Modalidades 1, 2 y 3. En Modalidad 3, deben contar con grupos de investigación reconocidos y estar interesadas en vincular semilleros y jóvenes investigadores."
     },
     {
       "tipo": "Entidades del sector productivo o de servicios",
-      "rol": "integrante de alianza estratégica",
-      "condicion": null
+      "rol": null,
+      "condicion": "Adscritas a entidad legalmente constituida. Aplica para Modalidades 1 y 2."
     },
     {
       "tipo": "Entidades estatales",
-      "rol": "integrante de alianza estratégica",
-      "condicion": null
+      "rol": null,
+      "condicion": "Aplica para Modalidades 1, 2 y 3."
     },
     {
       "tipo": "Entidades no gubernamentales",
-      "rol": "integrante de alianza estratégica",
-      "condicion": null
+      "rol": null,
+      "condicion": "Adscritas a entidad legalmente constituida. Aplica para Modalidades 1 y 2."
     },
     {
-      "tipo": "Otras entidades legalmente constituidas",
-      "rol": "integrante de alianza estratégica",
-      "condicion": null
-    },
-    {
-      "tipo": "Sociedad civil organizada",
-      "rol": "integrante de alianza estratégica",
-      "condicion": null
+      "tipo": "Otras entidades legalmente constituidas y sociedad civil organizada",
+      "rol": null,
+      "condicion": "Aplica para Modalidades 1 y 2."
     },
     {
       "tipo": "Instituciones de Educación Superior o Centros de Investigación o Desarrollo Tecnológico o Innovación internacionales",
-      "rol": "entidades colaboradoras",
-      "condicion": null
-    },
-    {
-      "tipo": "Actores del Sistema Nacional de CTeI o entidades del Estado o Instituciones de Educación Superior (IES)",
-      "rol": "proponente (modalidad 3)",
-      "condicion": "que cuenten con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH"
-    },
-    {
-      "tipo": "Instituciones Técnicas Profesionales, Tecnológicas y Universitarias (ITTU)",
-      "rol": "integrante de alianza estratégica (modalidad 3)",
-      "condicion": null
-    },
-    {
-      "tipo": "Parques tecnológicos",
-      "rol": "integrante de alianza estratégica (modalidad 3)",
-      "condicion": null
-    },
-    {
-      "tipo": "Oficinas de Transferencia de Resultados de Investigación - OTRI",
-      "rol": "integrante de alianza estratégica (modalidad 3)",
-      "condicion": null
+      "rol": "Entidad colaboradora",
+      "condicion": "En calidad de entidades colaboradoras. Aplica para Modalidades 1 y 2."
     },
     {
       "tipo": "Centros de Ciencia",
-      "rol": "integrante de alianza estratégica (modalidad 3)",
-      "condicion": null
+      "rol": null,
+      "condicion": "Actor del SNCTI. Aplica para Modalidad 3."
+    },
+    {
+      "tipo": "Oficinas de Transferencia de Resultados de Investigación (OTRI)",
+      "rol": null,
+      "condicion": "Actor del SNCTI. Aplica para Modalidad 3."
+    },
+    {
+      "tipo": "Parques tecnológicos",
+      "rol": null,
+      "condicion": "Actor del SNCTI. Aplica para Modalidad 3."
+    },
+    {
+      "tipo": "Instituciones Técnicas Profesionales, Tecnológicas y Universitarias (ITTU)",
+      "rol": null,
+      "condicion": "Actor del SNCTI. Aplica para Modalidad 3."
     }
   ],
   "alianza_obligatoria": false,
   "lineas_tematicas": [
     {
       "nombre": "Yacimientos No Convencionales",
-      "modalidad": "1",
-      "descripcion_corta": "Investigación sobre identificación del potencial de Yacimientos No Convencionales (especialmente shale gas) en cuencas del Cesar Ranchería, Valle Medio del Magdalena, Cordillera, Valle Superior del Magdalena, y Catatumbo; y geomecánica enfocada al desarrollo de estos yacimientos."
+      "modalidad": "Modalidad 1",
+      "descripcion_corta": "Identificación del potencial de Yacimientos No Convencionales (especialmente shale gas) en cuencas del Cesar Ranchería, Valle Medio del Magdalena, Cordillera, Valle Superior del Magdalena, y Catatumbo; y geomecánica enfocada al desarrollo de YNC."
     },
     {
       "nombre": "Exploración de cuencas frontera y emergentes",
-      "modalidad": "1",
-      "descripcion_corta": "Investigación sobre identificación de oportunidades exploratorias, definición de trampas, reservorios y roca fuente, mejoramiento de datos sísmicos con algoritmos de alta tecnología, identificación de oportunidades usando análisis de datos, inteligencia artificial y/o Machine Learning, y búsqueda de nuevos paradigmas en cuencas maduras."
+      "modalidad": "Modalidad 1",
+      "descripcion_corta": "Identificación de oportunidades exploratorias para hidrocarburos en cuencas frontera (Offshore Caribe, Offshore Pacífico, Chocó, Tumaco, Cauca Patía, Cordillera, Urabá y Amagá), definición de trampas, reservorios y roca fuente, mejoramiento de datos sísmicos, uso de inteligencia artificial y búsqueda de nuevos paradigmas en cuencas maduras."
     },
     {
       "nombre": "Modelos hidrogeológicos conceptuales en zonas de alta sensibilidad social y ambiental",
-      "modalidad": "2",
+      "modalidad": "Modalidad 2",
       "descripcion_corta": null
     },
     {
       "nombre": "Implicaciones ambientales de la reinyección de aguas oleaginosas",
-      "modalidad": "2",
-      "descripcion_corta": "Incluye implicaciones ambientales de la reinyección de aguas en DISPOSAL o EOR, y aprestamiento y armonización jurídica del DISPOSAL y el EOR."
+      "modalidad": "Modalidad 2",
+      "descripcion_corta": "Incluye implicaciones ambientales de la reinyección de aguas en DISPOSSAL o EOR, y aprestamiento y armonización jurídica del DISPOSSAL y el EOR."
     },
     {
       "nombre": "Evaluación de impactos ambientales acumulativos en proyectos en zonas prospectivas de hidrocarburos en la Amazonía colombiana",
-      "modalidad": "2",
+      "modalidad": "Modalidad 2",
       "descripcion_corta": null
     },
     {
       "nombre": "Nuevas tecnologías de telemetría y sensórica para la fiscalización de componentes ambientales y riesgo",
-      "modalidad": "2",
+      "modalidad": "Modalidad 2",
       "descripcion_corta": null
     },
     {
       "nombre": "Captura, Utilización y Secuestro de Carbono – CCUS",
-      "modalidad": "2",
-      "descripcion_corta": "Incluye captura, utilización y secuestro del CO2 derivado de la industria de los hidrocarburos, caracterización del potencial de formaciones del subsuelo para el secuestro de carbono, variables y determinantes para el uso de emisiones zonales en procesos de recobro mejorado."
+      "modalidad": "Modalidad 2",
+      "descripcion_corta": "Incluye captura, utilización y secuestro del CO2 derivado de la industria de hidrocarburos, caracterización regional del potencial de secuestro en formaciones hidrogeológicas, y variables para uso de emisiones zonales en recobro mejorado."
     },
     {
       "nombre": "Línea Hidrógeno",
-      "modalidad": "2",
+      "modalidad": "Modalidad 2",
       "descripcion_corta": "Potencialidad de generación in-situ de H2 a partir de la reducción de quemas, venteos y emisiones fugitivas de CH4."
     },
     {
-      "nombre": "Identificación de oportunidades exploratorias para hidrocarburos en cuencas frontera",
-      "modalidad": "3",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "Identificación del potencial de Yacimientos No Convencionales (especialmente shale gas) en cuencas frontera y cuencas poco exploradas en términos de YNC",
-      "modalidad": "3",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "Definición de trampas, reservorios y roca fuente para hidrocarburos en las cuencas Frontera tanto onshore, como offshore de Colombia",
-      "modalidad": "3",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "Mejoramiento de datos sísmicos con algoritmos de alta tecnología, conducentes a resolver geometrías complejas del subsuelo, en cuencas frontera",
-      "modalidad": "3",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "Identificación de oportunidades exploratorias en cuencas Frontera, usando técnicas como análisis de datos, inteligencia artificial y/o Machine Learning, entre otras",
-      "modalidad": "3",
-      "descripcion_corta": null
+      "nombre": "Vinculación de semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados",
+      "modalidad": "Modalidad 3",
+      "descripcion_corta": "Propuestas de I+D+i relacionadas con cuencas sedimentarias definidas por la ANH, abiertas a diferentes temáticas de generación de nuevo conocimiento geocientífico en cuencas frontera."
     }
   ],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta en el SIGP. Para Modalidad 2 y 3, anexar propuesta de Jóvenes Investigadores (Anexo 6). Para Modalidad 3 – mecanismo 2, anexar anteproyecto de trabajo de grado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigido A' establecidas en la modalidad de participación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Modalidades 1 y 2, el investigador principal debe estar adscrito al grupo de investigación proponente.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de aval y compromiso institucional unificada (Anexo 2) firmada por representantes legales o apoderados de todas las entidades participantes.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar concepto de un comité de ética/bioética cuando aplique, con acto administrativo que soporte su conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades internacionales colaboradoras deben anexar carta de intención de participación en español o inglés, firmada por autoridad competente.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Información de identificación, roles y responsabilidades de todos los integrantes en el SIGP. Personal científico residente en Colombia debe crear/actualizar CvLAC. Investigadores internacionales incluir hojas de vida como anexos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para jóvenes en Modalidades 2 y 3: edad máxima 28 años al 31 de diciembre de 2022. Adjuntar copia de cédula por ambas caras.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para jóvenes en Modalidades 2 y 3: promedio académico general acumulado mínimo 3.8 (escala 0-5). Adjuntar certificado de la IES.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para jóvenes en Modalidades 2 y 3: estado académico - pregrado mínimo 70% créditos; profesionales graduados en últimos 3 años; semilleros cursando 4to semestre en adelante. Adjuntar certificado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para jóvenes de poblaciones afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto o discapacidad: anexar certificación opcional.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "La propuesta debe presentarse en español y en pesos colombianos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "El investigador principal que presente más de un proyecto con este rol en la presente convocatoria."
+    },
+    {
+      "texto": "La propuesta presentada no podrá ser financiada simultáneamente por otra convocatoria o con recursos del Ministerio de Ciencia, Tecnología e Innovación u otras entidades del Estado."
+    },
+    {
+      "texto": "Estar incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley."
+    },
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos por el MINISTERIO."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por El MINISTERIO, en su participación como joven investigador e innovador."
+    },
+    {
+      "texto": "El joven investigador no podrá estar vinculado de manera simultánea en dos o más proyectos de la presente convocatoria."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más períodos."
+    },
+    {
+      "texto": "Si se encuentra contradicción entre los documentos o la información aportada que impida evaluar, y que no se aporte la totalidad de REQUISITOS, la propuesta podrá ser inhabilitada."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "CALIDAD DE LA PROPUESTA",
+      "puntaje_max": 60.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "CONFORMACIÓN DEL EQUIPO DE INVESTIGACIÓN",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "RESULTADOS Y PRODUCTOS ESPERADOS",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "PRESUPUESTO",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "CALIDAD DE LA PROPUESTA",
+      "puntaje_max": 50.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "RESULTADOS Y PRODUCTOS ESPERADOS",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "CONFORMACIÓN DEL EQUIPO DE INVESTIGACIÓN",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "PROPUESTA DE VINCULACIÓN DE JÓVENES INVESTIGADORES E INNOVADORES",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "PRESUPUESTO",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Claridad y coherencia de la propuesta respecto a los objetivos, actividades de investigación y formación y, resultados esperados para el joven investigador e innovador.",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Pertinencia de la propuesta respecto al proceso necesario para la formación del joven en actividades en las temáticas definidas.",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Promedio académico del candidato",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Experiencia en investigación",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Categoría vigente del grupo de investigación, desarrollo tecnológico o de innovación",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Reconocimiento y trayectoria del tutor como investigador",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Claridad y coherencia del trabajo de grado respecto a los objetivos, metodología, cronograma y, resultados esperados.",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Pertinencia del trabajo de grado respecto al proceso necesario para la formación del joven en actividades en las temáticas definidas.",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Promedio académico del candidato",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Experiencia en investigación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Reconocimiento y trayectoria del tutor como investigador",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "VEINTICINCO MIL DOSCIENTOS TREINTA Y CINCO MILLONES SETECIENTOS CATORCE MIL SESENTA Y UN PESOS M/CTE ($25.235.714.061)",
+    "monto_total_cop": 25235714061.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 18,
+    "contrapartida_pct_min": 20.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Convenios entre el Ministerio de Ciencia, Tecnología e Innovación, la Agencia Nacional de Hidrocarburos (ANH) y el Fondo Francisco José de Caldas",
+    "notas": "Para Modalidades 1 y 2, contrapartida mínima del 20% del valor total del proyecto (excepto Centros Autónomos o Institutos Públicos reconocidos). Modalidad 3 tiene condiciones específicas de contrapartida en especie/dinero para fortalecimiento de segunda lengua y formación. Plazos: Modalidad 1 hasta 18 meses, Modalidad 2 y 3 mínimo 12 meses."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 484,
+        "chars_enviados": 480,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 341,
-          "completion_tokens": 195
+          "prompt_tokens": 340,
+          "completion_tokens": 479
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4886,
+        "chars_enviados": 4627,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1627,
-          "completion_tokens": 929
+          "prompt_tokens": 1574,
+          "completion_tokens": 2306
         }
       },
       "lineas_tematicas": {
@@ -181,25 +397,53 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4450,
-          "completion_tokens": 2565
+          "prompt_tokens": 4420,
+          "completion_tokens": 722
         }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7213,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2314,
+          "completion_tokens": 2699
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2438,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 927,
+          "completion_tokens": 722
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4923,
+          "completion_tokens": 915
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4191,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1783,
+          "completion_tokens": 3903
+        }
       }
     }
   },
@@ -208,29 +452,24 @@
     "reglas": {
       "puede_postularse": true,
       "modo": "puede_sola_o_alianza",
-      "rol_sugerido": "ejecutora",
+      "rol_sugerido": "participante",
       "confianza": "media",
       "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
       "actores_ies_match": [
         {
           "tipo": "Instituciones de Educación Superior (IES)",
-          "rol": "integrante de alianza estratégica",
-          "condicion": null
+          "rol": null,
+          "condicion": "Aplica para Modalidades 1, 2 y 3. En Modalidad 3, deben contar con grupos de investigación reconocidos y estar interesadas en vincular semilleros y jóvenes investigadores."
         },
         {
           "tipo": "Instituciones de Educación Superior o Centros de Investigación o Desarrollo Tecnológico o Innovación internacionales",
-          "rol": "entidades colaboradoras",
-          "condicion": null
-        },
-        {
-          "tipo": "Actores del Sistema Nacional de CTeI o entidades del Estado o Instituciones de Educación Superior (IES)",
-          "rol": "proponente (modalidad 3)",
-          "condicion": "que cuenten con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH"
+          "rol": "Entidad colaboradora",
+          "condicion": "En calidad de entidades colaboradoras. Aplica para Modalidades 1 y 2."
         }
       ],
       "condiciones_pendientes": [
         {
-          "condicion": "que cuenten con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH",
+          "condicion": "Aplica para Modalidades 1, 2 y 3. En Modalidad 3, deben contar con grupos de investigación reconocidos y estar interesadas en vincular semilleros y jóvenes investigadores.",
           "riesgo": "grupos_minciencias",
           "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
         }
@@ -246,25 +485,27 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "elegible_con_condiciones",
-        "rol_sugerido": "ejecutora",
+        "modo": "sola",
+        "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Contar con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH."
+          "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias para participar en Modalidad 3.",
+          "Verificar interés en vincular semilleros y jóvenes investigadores para Modalidad 3."
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse a la convocatoria. Sin embargo, debe verificar que cuenta con grupos de investigación reconocidos por Minciencias que estén interesados en las temáticas de hidrocarburos y cuencas sedimentarias, condición necesaria para actuar como proponente o ejecutora. Puede participar en alianza estratégica sin esta condición, pero el rol sugerido es ejecutora."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse a la convocatoria en modalidades 1, 2 y 3. Para la Modalidad 3, debe contar con grupos de investigación reconocidos y estar interesada en vincular semilleros y jóvenes investigadores. No requiere alianza obligatoria, por lo que puede postularse sola o en alianza."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
-      "rol_sugerido": "ejecutora",
+      "modo": "sola",
+      "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Contar con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria, interesados en vincular semilleros de investigación, jóvenes investigadores e innovadores de pregrado y recién graduados a propuestas de I+D+i relacionadas con alguna de las 23 cuencas sedimentarias definidas en el Mapa de Tierras de la ANH."
+        "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias para participar en Modalidad 3.",
+        "Verificar interés en vincular semilleros y jóvenes investigadores para Modalidad 3."
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse a la convocatoria. Sin embargo, debe verificar que cuenta con grupos de investigación reconocidos por Minciencias que estén interesados en las temáticas de hidrocarburos y cuencas sedimentarias, condición necesaria para actuar como proponente o ejecutora. Puede participar en alianza estratégica sin esta condición, pero el rol sugerido es ejecutora.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse a la convocatoria en modalidades 1, 2 y 3. Para la Modalidad 3, debe contar con grupos de investigación reconocidos y estar interesada en vincular semilleros y jóvenes investigadores. No requiere alianza obligatoria, por lo que puede postularse sola o en alianza.",
       "fuente": "reglas+llm"
     }
   }

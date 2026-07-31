@@ -1,53 +1,189 @@
 {
   "convocatoria": "1041",
-  "objetivo": null,
-  "actores_elegibles": [],
+  "objetivo": "Fortalecer las capacidades institucionales relacionadas con la gestión editorial, la visibilidad y el impacto de las revistas científicas colombianas indexadas.",
+  "actores_elegibles": [
+    {
+      "tipo": "entidad ejecutora",
+      "rol": "institución que presenta la propuesta",
+      "condicion": "debe estar registrada en el sistema SIGP"
+    },
+    {
+      "tipo": "institución que avala la propuesta",
+      "rol": "representante legal o delegado",
+      "condicion": "responsable de la información registrada"
+    }
+  ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "TIPO I: Fortalecimiento del sitio web de cada una de las revistas indexadas de la institución",
+      "modalidad": null,
+      "descripcion_corta": "Resultados relacionados con mejoras en el sitio web de las revistas, incluyendo alcance, política de ciencia abierta, DOI, ORCID, política de archivo, tarifas, y ética de publicación."
+    },
+    {
+      "nombre": "TIPO II: Fortalecimiento técnico y tecnológico (implementación de software relacionados con gestión editorial)",
+      "modalidad": null,
+      "descripcion_corta": "Resultados relacionados con la implementación de software para revisión de similitudes, manejo de metadatos, marcaciones, DOI, traducción, diagramación y corrección de estilo."
+    },
+    {
+      "nombre": "TIPO III: Estrategias de aumento de la visibilidad de las revistas",
+      "modalidad": null,
+      "descripcion_corta": "Resultados relacionados con disminución de endogamia, diversificación geográfica internacional, acreditación de experticia y estrategia de publicación en inglés."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Ser institución de educación superior (pública o privada) u otra entidad que actúe como institución editora colombiana, con ISSN otorgado por la Biblioteca Nacional y personería jurídica colombiana.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Avalar revistas científicas especializadas indexadas de acuerdo con los resultados de la convocatoria No. 910 de 2021.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estar incluido en la lista de actores del SNCTI que cumplen con el requisito de ser institución editora colombiana según el ISSN y personería jurídica.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No ser la Universidad San Buenaventura sede Bogotá, excluida de esta invitación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las revistas a fortalecer deben estar clasificadas en las categorías B o C por H5 como resultado de la convocatoria 910-2021.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar un plan de fortalecimiento de capacidades institucionales relacionadas con gestión editorial, visibilidad e impacto de publicaciones.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las causales de CTeI definidas en el artículo 2 del Decreto 591-1991, numerales 1 y 2.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ser actor del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con personería jurídica colombiana.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Tener registro ISSN otorgado por la Biblioteca Nacional para las revistas que avala.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
   "criterios_evaluacion": [],
-  "financiacion": null,
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "El texto proporcionado solo contiene un cronograma, sin información sobre financiación."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 722,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 409,
+          "completion_tokens": 121
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8457,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2630,
+          "completion_tokens": 99
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4292,
+          "completion_tokens": 1231
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4326,
+          "completion_tokens": 1519
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4265,
+          "completion_tokens": 310
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 432,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 495,
+          "completion_tokens": 611
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4292,
+          "completion_tokens": 13
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -60,11 +196,14 @@
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Validar grupos de investigación reconocidos por Minciencias",
-          "Verificar experiencia en temática de la convocatoria",
-          "Cumplir requisitos de contrapartida si aplica"
+          "Ser institución editora colombiana con ISSN otorgado por la Biblioteca Nacional y personería jurídica",
+          "Estar incluido en la lista de actores del SNCTI que cumplen con el requisito de ser institución editora colombiana",
+          "Avalar revistas científicas especializadas indexadas de la convocatoria No. 910 de 2021",
+          "Las revistas a fortalecer deben estar clasificadas en categorías B o C por H5 resultado de la convocatoria 910-2021",
+          "Cumplir con causales de CTeI del Decreto 591-1991 art. 2 numerales 1 y 2",
+          "Presentar plan de fortalecimiento de capacidades institucionales relacionadas con gestión editorial, visibilidad e impacto"
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por SNCTI, es elegible para postularse a convocatorias Minciencias. Su elegibilidad está sujeta a verificar condiciones específicas como grupos de investigación, experiencia temática y capacidad de contrapartida. Puede postularse sola o en alianza según los requisitos de cada convocatoria."
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, cumple con el requisito base de ser institución de educación superior, pero debe verificar que actúa como institución editora de revistas científicas indexadas en categorías B o C de la convocatoria 910-2021 y que cuenta con los ISSN correspondientes. Por lo tanto, es elegible con condiciones."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -74,11 +213,14 @@
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Validar grupos de investigación reconocidos por Minciencias",
-        "Verificar experiencia en temática de la convocatoria",
-        "Cumplir requisitos de contrapartida si aplica"
+        "Ser institución editora colombiana con ISSN otorgado por la Biblioteca Nacional y personería jurídica",
+        "Estar incluido en la lista de actores del SNCTI que cumplen con el requisito de ser institución editora colombiana",
+        "Avalar revistas científicas especializadas indexadas de la convocatoria No. 910 de 2021",
+        "Las revistas a fortalecer deben estar clasificadas en categorías B o C por H5 resultado de la convocatoria 910-2021",
+        "Cumplir con causales de CTeI del Decreto 591-1991 art. 2 numerales 1 y 2",
+        "Presentar plan de fortalecimiento de capacidades institucionales relacionadas con gestión editorial, visibilidad e impacto"
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por SNCTI, es elegible para postularse a convocatorias Minciencias. Su elegibilidad está sujeta a verificar condiciones específicas como grupos de investigación, experiencia temática y capacidad de contrapartida. Puede postularse sola o en alianza según los requisitos de cada convocatoria.",
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, cumple con el requisito base de ser institución de educación superior, pero debe verificar que actúa como institución editora de revistas científicas indexadas en categorías B o C de la convocatoria 910-2021 y que cuenta con los ISSN correspondientes. Por lo tanto, es elegible con condiciones.",
       "fuente": "reglas+llm"
     }
   }

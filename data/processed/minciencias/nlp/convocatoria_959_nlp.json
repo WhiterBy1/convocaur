@@ -1,159 +1,249 @@
 {
   "convocatoria": "959",
-  "objetivo": "Conformar un banco de propuestas elegibles para seleccionar un proponente que ejecute el programa especial Colombia Robótica, con el fin de fomentar el desarrollo de vocaciones científicas y habilidades del Siglo XXI asociadas al enfoque STEAM en niñas, niños y adolescentes, mediante el uso de herramientas de programación, ciencias computacionales y/o robótica en ambientes de aprendizaje STEAM que les permita involucrarse activamente en la cuarta y quinta revolución industrial.",
+  "objetivo": "Conformar un banco de propuestas elegibles para seleccionar un proponente para la ejecución del programa especial Colombia Robótica. Este programa busca fomentar el desarrollo de vocaciones científicas y habilidades del Siglo XXI asociadas al enfoque STEAM en niñas, niños y adolescentes, mediante el uso de herramientas de programación, ciencias computacionales y robótica en ambientes de aprendizaje que les permitan involucrarse activamente en la cuarta y quinta revolución industrial.",
   "actores_elegibles": [],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Robótica Educativa: Pensamiento computacional y robótica",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Electrónica maker",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Inteligencia artificial (IA) e internet de las cosas (IoT)",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Energías renovables",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias y ambiente",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ingeniería y construcciones",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Diseño, modelación e impresión 3D",
+      "modalidad": null,
+      "descripcion_corta": null
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Garantizar recursos tecnológicos, técnicos, administrativos, financieros y de talento humano para el cumplimiento del objeto contractual.",
+      "texto": "Cumplir con el numeral 3 'DIRIGIDO A' de los TdR",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con el numeral 3 'Dirigida a' de los TdR.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Inscribir y finalizar la propuesta en el SIGP de Minciencias.",
+      "texto": "Inscribir y finalizar la propuesta en el SIGP del Ministerio de Ciencia, Tecnología e Innovación",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar Anexo 5 'Carta de aval unificada y compromiso institucional' con contrapartida mínima del 5% del valor financiado.",
+      "texto": "Adjuntar Anexo 5 'Carta de aval unificada y compromiso institucional' con contrapartida mínima del 5% del valor financiado",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Fotocopia de la cédula de ciudadanía del representante legal.",
+      "texto": "Fotocopia de la cédula de ciudadanía del representante legal",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Copia del RUT.",
+      "texto": "Copia del RUT",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Certificado de Existencia y Representación Legal (Cámara de Comercio) con máximo 30 días de expedición y constitución mínima de 7 años.",
+      "texto": "Certificado de Existencia y Representación Legal (Cámara de Comercio, máximo 30 días de expedición, constitución mínima 7 años previos a apertura)",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Registro Único de Proponentes (RUP) con máximo 30 días de expedición.",
+      "texto": "Registro Único de Proponentes (RUP) con máximo 30 días calendario de expedición",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Certificado de antecedentes de responsabilidad fiscal del representante legal y persona jurídica.",
+      "texto": "Certificado de antecedentes de responsabilidad fiscal del representante legal y persona jurídica",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Certificado de cumplimiento de pagos a salud, riesgos profesionales, pensiones y parafiscales (últimos 6 meses).",
+      "texto": "Certificado de cumplimiento de pagos a salud, riesgos profesionales, pensiones y parafiscales (últimos 6 meses)",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Autorización del representante legal para comprometer a la persona jurídica por el valor del contrato.",
+      "texto": "Autorización del representante legal para comprometer a la persona jurídica por el valor del contrato (si aplica limitación)",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar RUP renovado y en firme para verificar capacidad financiera (Liquidez >= 1.2, Endeudamiento <= 60%, Cobertura de intereses >= 2).",
+      "texto": "Certificado RUP renovado y en firme para verificar capacidad financiera (Decreto 1082 de 2015)",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades con ánimo de lucro: Rentabilidad de Patrimonio >= 0.2 y Rentabilidad del Activo >= 0.1.",
+      "texto": "Indicador de liquidez: Activo corriente / Pasivo corriente >= 1.2 veces",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para ESAL: Rentabilidad de Patrimonio >= 0 y Rentabilidad del Activo >= 0.",
+      "texto": "Nivel de endeudamiento: Pasivo total / Activo total <= 60%",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar Anexo 6 'Soporte de idoneidad, trayectoria y experiencia' con mínimo 5 años de experiencia en proyectos STEAM y sumatoria >= 60% del presupuesto.",
-      "tipo": "tecnico",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar estados financieros de los últimos 3 años con dictamen favorable.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Presentar hojas de vida de: 1 Director de Proyecto (10 años experiencia general, 5 específica, maestría deseable).",
-      "tipo": "tecnico",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Presentar hojas de vida de: 1 Coordinador de Dotación y Gestión de Laboratorios STEAM (5 años experiencia general, 3 específica, maestría indispensable).",
-      "tipo": "tecnico",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Presentar hojas de vida de: 1 Coordinador Pedagógico (5 años experiencia general, 3 específica, maestría indispensable).",
-      "tipo": "tecnico",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Presentar plan de trabajo y propuesta de seguimiento con doctores para apropiación social del conocimiento.",
-      "tipo": "tecnico",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No estar reportado en el Boletín de responsables fiscales de la Contraloría.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La propuesta debe contener los mínimos establecidos en el numeral 9 de la convocatoria.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Contrapartida propuesta no inferior al 5% del valor total del presupuesto.",
+      "texto": "Razón de cobertura de interés: Utilidad operacional / Gastos de intereses >= 2 veces (si gastos de intereses = 0 y utilidad operacional positiva, cumple)",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Resultados de la propuesta no inferiores a los mínimos solicitados.",
-      "tipo": "habilitante",
+      "texto": "Para entidades con ánimo de lucro: Rentabilidad de Patrimonio (Utilidad Operacional/Patrimonio) >= 0.2",
+      "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La propuesta no debe impactar entidades territoriales distintas a las focalizadas.",
-      "tipo": "habilitante",
+      "texto": "Para entidades con ánimo de lucro: Rentabilidad del Activo (Utilidad Operacional/Activo Total) >= 0.1",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para ESAL: Rentabilidad de Patrimonio (Utilidad Operacional/Patrimonio) >= 0",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para ESAL: Rentabilidad del Activo (Utilidad Operacional/Activo Total) >= 0",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar Anexo 6 'Soporte de idoneidad, trayectoria y experiencia' con mínimo 5 años de experiencia específica en proyectos STEAM con equipamiento de laboratorios, suma >= 60% del presupuesto de la convocatoria",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar estados financieros de los últimos 3 años con dictamen favorable, firmados por revisor fiscal o contador y representante legal",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar hojas de vida con certificados de experiencia y formación para: 1 Director de Proyecto, 1 Coordinador de Dotación y Gestión de Laboratorios STEAM, 1 Coordinador Pedagógico",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Director de Proyecto: Título profesional en Ingeniería (Electrónica, Mecatrónica, Mecánica o afines), maestría en Gestión de Proyectos o afines, mínimo 10 años de experiencia profesional, 5 años específica en sector público/privado como director de proyectos educativos o tecnológicos",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Coordinador de Dotación y Gestión de Laboratorios STEAM: Título profesional en Ingeniería (Electrónica, Mecatrónica, Mecánica, Industrial o afines), maestría en Gestión de Proyectos o afines, mínimo 5 años de experiencia profesional, 3 años específica en coordinación de proyectos de dotación y gestión de laboratorios STEAM",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Coordinador Pedagógico: Título profesional en Educación, Pedagogía o afines, maestría en Tecnología Educativa o afines, mínimo 5 años de experiencia profesional, 3 años específica en creación de planes de estudio STEAM, formación docente o implementación de laboratorios STEAM",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar plan de trabajo y propuesta de seguimiento con doctores para apropiación social del conocimiento, incluyendo articulación interinstitucional, fortalecimiento del PEI con enfoque STEAM y gestión de equipamiento tecnológico",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "Aporte técnico y científico de la propuesta",
+      "puntaje_max": null,
+      "peso_pct": 50.0,
+      "descripcion": "Se evalúa la calidad técnica, científica, alineación de objetivos, metodología y equipamiento STEAM."
+    },
+    {
+      "nombre": "Contribución de la propuesta al fortalecimiento del SNCTI",
+      "puntaje_max": null,
+      "peso_pct": 15.0,
+      "descripcion": "Evalúa pertinencia de la propuesta pedagógica, transferencia de conocimiento y apropiación social del conocimiento."
+    },
+    {
+      "nombre": "Capacidad técnica, idoneidad y trayectoria",
+      "puntaje_max": null,
+      "peso_pct": 20.0,
+      "descripcion": "Evalúa experiencia del proponente en CTeI y vocaciones científicas, y pertinencia del recurso humano propuesto."
+    },
+    {
+      "nombre": "Capacidad de gestión y articulación de actores",
+      "puntaje_max": null,
+      "peso_pct": 10.0,
+      "descripcion": "Evalúa estrategia de gestión y articulación de actores del ecosistema CTeI regional."
+    },
+    {
+      "nombre": "Enfoque diferencial y territorial",
+      "puntaje_max": null,
+      "peso_pct": 5.0,
+      "descripcion": "Evalúa acciones para cerrar brechas diferenciales con enfoque territorial y participativo."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "No se encontró información de financiación en el texto proporcionado."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 444,
+        "chars_enviados": 463,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 354,
-          "completion_tokens": 536
+          "prompt_tokens": 352,
+          "completion_tokens": 117
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4203,
+          "completion_tokens": 19
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13145,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4020,
+          "completion_tokens": 523
+        }
       },
       "requisitos": {
         "clave": "requisitos",
@@ -162,21 +252,42 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 5026,
-          "completion_tokens": 1394
+          "prompt_tokens": 4901,
+          "completion_tokens": 1633
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4150,
+          "completion_tokens": 11
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2853,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1208,
+          "completion_tokens": 201
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9305,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3035,
+          "completion_tokens": 368
+        }
       }
     }
   },
@@ -200,16 +311,12 @@
         "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Garantizar recursos tecnológicos, técnicos, administrativos, financieros y de talento humano para el cumplimiento del objeto contractual.",
-          "Cumplir con el numeral 3 'Dirigida a' de los TdR.",
-          "Inscribir y finalizar la propuesta en el SIGP de Minciencias.",
-          "Adjuntar Anexo 5 'Carta de aval unificada y compromiso institucional' con contrapartida mínima del 5% del valor financiado.",
-          "Fotocopia de la cédula de ciudadanía del representante legal.",
-          "Copia del RUT.",
-          "Certificado de Existencia y Representación Legal (Cámara de Comercio) con máximo 30 días de expedición y constitución mínima de 7 años.",
-          "Registro Único de Proponentes (RUP) con máximo 30 días de expedición."
+          "Cumplir con el numeral 3 'DIRIGIDO A' de los TdR",
+          "Inscribir y finalizar la propuesta en el SIGP",
+          "Adjuntar Anexo 5 con compromiso de contrapartida mínima del 5%",
+          "Presentar documentación legal vigente (RUT, Cámara de Comercio, RUP, cédula, antecedentes fiscales)"
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse como proponente en la convocatoria Colombia Robótica. Debe cumplir con los requisitos documentales y de contrapartida establecidos en los TdR."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es apta para postularse como proponente a la convocatoria. No presenta bloqueantes de tipología, aunque debe verificar el cumplimiento de requisitos documentales y la contrapartida."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -219,16 +326,12 @@
       "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Garantizar recursos tecnológicos, técnicos, administrativos, financieros y de talento humano para el cumplimiento del objeto contractual.",
-        "Cumplir con el numeral 3 'Dirigida a' de los TdR.",
-        "Inscribir y finalizar la propuesta en el SIGP de Minciencias.",
-        "Adjuntar Anexo 5 'Carta de aval unificada y compromiso institucional' con contrapartida mínima del 5% del valor financiado.",
-        "Fotocopia de la cédula de ciudadanía del representante legal.",
-        "Copia del RUT.",
-        "Certificado de Existencia y Representación Legal (Cámara de Comercio) con máximo 30 días de expedición y constitución mínima de 7 años.",
-        "Registro Único de Proponentes (RUP) con máximo 30 días de expedición."
+        "Cumplir con el numeral 3 'DIRIGIDO A' de los TdR",
+        "Inscribir y finalizar la propuesta en el SIGP",
+        "Adjuntar Anexo 5 con compromiso de contrapartida mínima del 5%",
+        "Presentar documentación legal vigente (RUT, Cámara de Comercio, RUP, cédula, antecedentes fiscales)"
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse como proponente en la convocatoria Colombia Robótica. Debe cumplir con los requisitos documentales y de contrapartida establecidos en los TdR.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es apta para postularse como proponente a la convocatoria. No presenta bloqueantes de tipología, aunque debe verificar el cumplimiento de requisitos documentales y la contrapartida.",
       "fuente": "reglas+llm"
     }
   }

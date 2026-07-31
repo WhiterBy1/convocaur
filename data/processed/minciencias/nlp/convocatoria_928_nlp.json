@@ -1,9 +1,9 @@
 {
   "convocatoria": "928",
-  "objetivo": "Gestionar y desarrollar estancias postdoctorales internacionales en actividades de Ciencia, Tecnología e Innovación que permitan articular los actores del Sistema Nacional de CTeI y que promuevan la Diplomacia Científica entre Colombia y los países priorizados para el establecimiento de nodos de Diplomacia Científica.",
+  "objetivo": "Gestionar y desarrollar estancias postdoctorales internacionales en actividades de Ciencia Tecnología e Innovación que permitan articular los actores del Sistema Nacional de CTeI y que promuevan la Diplomacia Científica entre Colombia y los países priorizados para el establecimiento de nodos de Diplomacia Científica.",
   "actores_elegibles": [
     {
-      "tipo": "Instituciones de Educación superior",
+      "tipo": "Instituciones de Educación Superior",
       "rol": null,
       "condicion": null
     },
@@ -58,215 +58,203 @@
   ],
   "requisitos": [
     {
-      "texto": "Entidad legalmente constituida, anexar Acta/Resolución/Documento de existencia y representación legal.",
+      "texto": "Estar legalmente constituida. Anexar Acta/Resolución/Documento de existencia y representación legal.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para IES: personería jurídica vigente del MEN, anexar Certificado de existencia y representación legal expedido por el MEN.",
+      "texto": "Para IES: tener personería jurídica vigente del MEN. Anexar Certificado de existencia y representación legal expedido por el MEN.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
       "texto": "Cumplir con el numeral 3 'dirigido a' de los TdR.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Entidad registrada en la plataforma SIGP del Ministerio.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Diligenciar el aplicativo dispuesto para la convocatoria según el procedimiento de inscripción.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Entidad debe verificar que el Doctor cumpla los requisitos del numeral 6.2 y esté inscrito en SCIENTI al cierre.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Diligenciar carta de aval y compromiso institucional avalando al Doctor y al plan de trabajo (Anexo 1).",
+      "texto": "Estar registrada en la plataforma SIGP del Ministerio.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar el aplicativo dispuesto para la convocatoria según el procedimiento de inscripción (numeral 10).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Verificar que el Doctor esté vinculado por contrato laboral a la entidad y cumpla requisitos del numeral 6.2, y esté inscrito en SCIENTI al cierre.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para centros/institutos públicos de I+D: acreditar adscripción o vinculación a ministerios u otras entidades, adjuntar certificados.",
+      "texto": "Diligenciar carta de aval y compromiso institucional (Anexo 1).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Demostrar vinculación laboral del Doctor a la entidad proponente.",
+      "texto": "Para Centros/Institutos públicos de I+D: estar adscritos/viculados a entidades del orden nacional y adjuntar certificados correspondientes.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar Formato de Declaración de no Inhabilidad de la entidad (Anexo 3).",
+      "texto": "Demostrar vinculación laboral del Doctor a la entidad proponente (numeral 6.2.4).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Nacionalidad colombiana vigente, adjuntar fotocopia de la cédula de ciudadanía.",
+      "texto": "Presentar Formato de Declaración de no Inhabilidad del representante legal (Anexo 3).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Contar con título de doctorado (PhD o nivel 8 UNESCO), adjuntar copia del título o acta de grado.",
+      "texto": "Doctor: tener nacionalidad colombiana vigente. Adjuntar fotocopia de cédula de ciudadanía.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Inscribir hoja de vida en la plataforma CvLAC del Ministerio.",
+      "texto": "Doctor: contar con título de doctorado (PhD o nivel 8 UNESCO). Adjuntar copia del título o acta de grado.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Estar inscrito en el Portafolio de Doctores del Ministerio a través de Scienti.",
+      "texto": "Doctor: inscribir hoja de vida en CvLAC.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Doctor: estar inscrito en el Portafolio de Doctores en Scienti.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Doctor: estar vinculado por contrato laboral a la entidad postulante. Acreditar con carta de aval (Anexo 1).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Encontrarse vinculado por contrato laboral a la entidad postulante, con carta de aval del representante legal.",
+      "texto": "Doctor: anexar copia del contrato laboral vigente con la entidad proponente.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Anexar copia del contrato laboral vigente con la entidad proponente.",
+      "texto": "Doctor: presentar plan de trabajo con actividades y resultados en Diplomacia Científica.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Presentar plan de trabajo con actividades y resultados de diplomacia científica según numeral 1.",
+      "texto": "Doctor: presentar prueba de suficiencia en inglés IELTS o TOEFL nivel B2 vigente (o certificado de estudios en país anglófono >2 años).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Prueba de suficiencia en inglés IELTS o TOEFL nivel B2 vigente (o estudios en país anglófono por más de 2 años).",
+      "texto": "Doctor: presentar carta de compromiso para participar en capacitaciones en Diplomacia Científica (Anexo 4).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Carta de compromiso para participar en capacitaciones de diplomacia científica (Anexo 4).",
+      "texto": "Doctor: presentar declaración de no inhabilidad (Anexo 2).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Doctor: Presentar declaración de no inhabilidad (Anexo 2).",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Opcional: Copia del acta de grado o diploma de estudios de pregrado o postgrado obtenido en el país de destino.",
+      "texto": "Opcional: copia del acta de grado o diploma de estudios de pregrado o postgrado obtenido en el país de destino.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Opcional: Certificado de inclusión en el Registro Único de Víctimas.",
+      "texto": "Opcional: prueba de suficiencia en idioma del país receptor (diferente a inglés/español) según MCER.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Opcional: Certificación de autorreconocimiento como miembro de Comunidad Negra, Afrocolombiana, Raizal y Palenquera.",
+      "texto": "Opcional: certificado de inclusión en el Registro Único de Víctimas.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Opcional: Formulario de experiencia en Diplomacia Científica y antecedentes de colaboración con Misión Diplomática (Anexo 5).",
+      "texto": "Opcional: certificación de autorreconocimiento como miembro de Comunidad Negra, Afrocolombiana, Raizal y Palenquera.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Documentos en idioma diferente al español deben adjuntar traducción oficial al español (tanto original como traducción).",
+      "texto": "Opcional: certificación de existencia, representación o pertenencia de Kumpañy.",
       "tipo": "documental",
-      "severidad": "obligatorio"
+      "severidad": "deseable"
     }
   ],
   "causales_rechazo": [],
   "criterios_evaluacion": [
     {
-      "nombre": "Universidad Acreditada o reconocimiento de los Actores del SNCTI (SI)",
+      "nombre": "Universidad Acreditada o reconocimiento de los Actores del SNCTI",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": null
+      "descripcion": "Se otorga 5 puntos si la universidad está acreditada o reconocida, 0 en caso contrario."
     },
     {
-      "nombre": "Universidad Acreditada o reconocimiento de los Actores del SNCTI (NO)",
-      "puntaje_max": 0.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "Calidad de la propuesta del plan de trabajo - Alcance de las actividades propuestas",
+      "nombre": "Alcance de las actividades propuestas para promover la Diplomacia Científica de Colombia en el país destino",
       "puntaje_max": 15.0,
       "peso_pct": null,
-      "descripcion": "Alcance de las actividades propuestas para promover la Diplomacia Científica de Colombia en el país destino"
+      "descripcion": "Evalúa el alcance de las actividades para promover la diplomacia científica."
     },
     {
-      "nombre": "Calidad de la propuesta del plan de trabajo - Concordancia presupuesto-actividades-objetivos",
+      "nombre": "Calidad de la propuesta del plan de trabajo",
       "puntaje_max": 15.0,
       "peso_pct": null,
-      "descripcion": "Concordancia entre el presupuesto total, las actividades y los objetivos planteados en el Plan de Trabajo de la estancia postdoctoral"
+      "descripcion": "Concordancia entre el presupuesto total, las actividades y los objetivos planteados en el Plan de Trabajo de la estancia postdoctoral."
     },
     {
-      "nombre": "Título más alto obtenido en el país de destino (Doctorado)",
+      "nombre": "Título más alto obtenido en el país de destino",
       "puntaje_max": 15.0,
       "peso_pct": null,
-      "descripcion": null
+      "descripcion": "Puntaje según el título: Doctorado 15, Maestría 7, Pregrado 5."
     },
     {
-      "nombre": "Título más alto obtenido en el país de destino (Maestría)",
-      "puntaje_max": 7.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "Título más alto obtenido en el país de destino (Pregrado)",
-      "puntaje_max": 5.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "Reconocimiento del Doctor (Investigador senior e Investigador emérito)",
+      "nombre": "Reconocimiento del Doctor",
       "puntaje_max": 25.0,
       "peso_pct": null,
-      "descripcion": null
+      "descripcion": "Puntaje según categoría: Investigador senior/emérito 25, asociado 15, junior 10."
     },
     {
-      "nombre": "Reconocimiento del Doctor (Investigador asociado)",
-      "puntaje_max": 15.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "Reconocimiento del Doctor (Investigador junior)",
+      "nombre": "Antecedentes de colaboración con la Misión Diplomática de Colombia en el país receptor",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": null
+      "descripcion": "Experiencia previa de colaboración con la misión diplomática."
     },
     {
-      "nombre": "Experiencia en Diplomacia Científica - Antecedentes de colaboración con la Misión Diplomática",
-      "puntaje_max": 10.0,
-      "peso_pct": null,
-      "descripcion": "Antecedentes de colaboración con la Misión Diplomática de Colombia en el país receptor"
-    },
-    {
-      "nombre": "Experiencia en Diplomacia Científica - Experiencia demostrada en actividades asociadas",
+      "nombre": "Experiencia demostrada en actividades asociadas con Diplomacia Científica",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Experiencia demostrada en actividades asociadas con Diplomacia Científica"
+      "descripcion": "Experiencia demostrada en actividades de diplomacia científica."
+    },
+    {
+      "nombre": "Nacido en un municipio Programa de Desarrollo con Enfoque Territorial (PDET) y/o en un Departamento con IDIC 2021 Medio - Bajo o Bajo",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Condición diferencial de priorización por origen geográfico."
+    },
+    {
+      "nombre": "Perteneciente a Comunidades Negras, Afrodescendientes, Raizales, Palanquera, Indígena, o Pueblo Rom (gitano), y/o Víctima de desplazamiento por conflicto interno armado",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Condición diferencial de priorización por pertenencia étnica o condición de víctima."
+    },
+    {
+      "nombre": "Género",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Se otorga puntaje si el candidato es mujer."
     }
   ],
   "financiacion": {
-    "monto_total_texto": "DOS MIL OCHOCIENTOS NOVENTA Y DOS MILLONES DE PESOS M/CTE ($ 2.892.000.000)",
+    "monto_total_texto": "$2.892.000.000",
     "monto_total_cop": 2892000000.0,
     "plazo_min_meses": 10,
     "plazo_max_meses": 10,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
-    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
-    "notas": "Presupuesto total para estancias postdoctorales de 10 meses. Aporte por estancia: hasta $180.000.000 (honorarios $11.000.000/mes, plan de trabajo hasta $60.000.000, seguro $3.000.000, tiquetes $7.000.000). Se financian hasta 16 propuestas. Operación: $12.000.000."
+    "fuente_recursos": "Certificado de Disponibilidad de Recursos CDR Nro. 17429 – 2021 y CDR Nro. 17652 – 2022",
+    "notas": "Monto total para la convocatoria. Por estancia: hasta $180.000.000 (honorarios $11.000.000/mes, plan de trabajo hasta $60.000.000, seguro $3.000.000, tiquetes $7.000.000). $12.000.000 para operación del mecanismo. Se financian hasta 16 propuestas."
   },
   "meta": {
     "secciones": {
@@ -274,11 +262,11 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 323,
+        "chars_enviados": 318,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 298,
-          "completion_tokens": 79
+          "prompt_tokens": 314,
+          "completion_tokens": 78
         }
       },
       "dirigida_a": {
@@ -288,19 +276,19 @@
         "chars_enviados": 99,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 328,
-          "completion_tokens": 177
+          "prompt_tokens": 350,
+          "completion_tokens": 85
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 910,
+        "chars_enviados": 891,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 520,
-          "completion_tokens": 335
+          "prompt_tokens": 516,
+          "completion_tokens": 253
         }
       },
       "requisitos": {
@@ -310,34 +298,41 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4245,
-          "completion_tokens": 4286
+          "prompt_tokens": 4250,
+          "completion_tokens": 1392
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3954,
+          "completion_tokens": 202
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3346,
+        "chars_enviados": 7732,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1323,
-          "completion_tokens": 228
+          "prompt_tokens": 2416,
+          "completion_tokens": 221
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2003,
+        "chars_enviados": 2244,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 881,
-          "completion_tokens": 4413
+          "prompt_tokens": 1010,
+          "completion_tokens": 4160
         }
       }
     }
@@ -352,7 +347,7 @@
       "motivo": "Rosario (IES) aparece como elegible; no esta claro si la alianza es obligatoria.",
       "actores_ies_match": [
         {
-          "tipo": "Instituciones de Educación superior",
+          "tipo": "Instituciones de Educación Superior",
           "rol": null,
           "condicion": null
         }
@@ -369,29 +364,27 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "elegible_con_condiciones",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias para el desarrollo de estancias postdoctorales",
-          "Verificar que cumpla con los requisitos de contrapartida si aplica",
-          "Verificar que el doctor propuesto cumpla con los requisitos del numeral 6.2 y esté inscrito en SCIENTI"
+          "Verificar si la convocatoria exige postulación en alianza o permite participación individual.",
+          "Verificar que la universidad cumpla con los requisitos documentales y técnicos (registro SIGP, carta de aval, etc.)."
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria. Puede participar como ejecutora de manera individual, sujeto a verificar que cuenta con grupos de investigación y que el doctor propuesto cumple los requisitos."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria de estancias postdoctorales internacionales. Sin embargo, se debe confirmar si la convocatoria exige participación en alianza o permite postulación individual. Se recomienda verificar los requisitos documentales y técnicos antes de la inscripción."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "elegible_con_condiciones",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias para el desarrollo de estancias postdoctorales",
-        "Verificar que cumpla con los requisitos de contrapartida si aplica",
-        "Verificar que el doctor propuesto cumpla con los requisitos del numeral 6.2 y esté inscrito en SCIENTI"
+        "Verificar si la convocatoria exige postulación en alianza o permite participación individual.",
+        "Verificar que la universidad cumpla con los requisitos documentales y técnicos (registro SIGP, carta de aval, etc.)."
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria. Puede participar como ejecutora de manera individual, sujeto a verificar que cuenta con grupos de investigación y que el doctor propuesto cumple los requisitos.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria de estancias postdoctorales internacionales. Sin embargo, se debe confirmar si la convocatoria exige participación en alianza o permite postulación individual. Se recomienda verificar los requisitos documentales y técnicos antes de la inscripción.",
       "fuente": "reglas+llm"
     }
   }

@@ -4,27 +4,38 @@
   "actores_elegibles": [
     {
       "tipo": "Academia",
-      "rol": "aliado",
-      "condicion": "Instituciones de Educación Superior públicas o privadas (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades), incluyendo ESAP, ITEC, Instituto Caro y Cuervo, Universidad Militar Nueva Granada, Escuelas de Formación de las Fuerzas Militares y Policía Nacional, SENA, Escuela Nacional del Deporte."
+      "rol": "proponente o aliado",
+      "condicion": "Instituciones de Educación Superior públicas o privadas (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades), incluyendo ESAP, ITEC, Instituto Caro y Cuervo, Universidad Militar Nueva Granada, Escuelas de Formación de las Fuerzas Militares y de la Policía Nacional, SENA, Escuela Nacional del Deporte."
     },
     {
       "tipo": "Sector Productivo",
-      "rol": "aliado",
-      "condicion": "Persona jurídica de economía mixta, pública o privada con o sin ánimo de lucro, gremio, cámara de comercio, centro de desarrollo empresarial o corporación legalmente constituida en Colombia. Incluye entidades clasificadas como: i) Generación de conocimiento científico (centros e institutos de investigación), ii) Desarrollo tecnológico y transferencia de tecnología (centros de desarrollo tecnológico, OTRIS), iii) Innovación y productividad (EIAs, unidades empresariales de I+D+i, incubadoras, centros de innovación y productividad, parques científicos, tecnológicos o de innovación)."
+      "rol": "proponente o aliado",
+      "condicion": "Persona jurídica de economía mixta, pública o privada con o sin ánimo de lucro, gremio, cámara de comercio, centro de desarrollo empresarial o corporación legalmente constituida en Colombia. Incluye entidades clasificadas como: generación de conocimiento científico (centros e institutos de investigación), desarrollo tecnológico y transferencia de tecnología (centros de desarrollo tecnológico, OTRIS), innovación y productividad (EIAs, unidades empresariales de I+D+i, incubadoras, centros de innovación y productividad, parques científicos, tecnológicos o de innovación)."
     },
     {
       "tipo": "Estado",
-      "rol": "aliado",
+      "rol": "proponente o aliado",
       "condicion": "Entidades gubernamentales del orden nacional, regional, departamental o municipal."
     },
     {
       "tipo": "Sociedad Civil Organizada",
       "rol": "aliado o beneficiario",
-      "condicion": "Asociación, fundación, corporación, entidad del tercer sector, agremiación, grupos u organizaciones comunitarias con personería jurídica legalmente constituida en Colombia. Como aliado: organizaciones de base comunitaria con representación legal. Como beneficiario: organizaciones y comunidades sin representación legal (deben presentar carta de aval firmada por un representante)."
+      "condicion": "Asociación, fundación, corporación, entidad del tercer sector, agremiación, grupos u organizaciones comunitarias con personería jurídica. Las organizaciones de base comunitaria con representación legal pueden ser aliados; organizaciones y comunidades sin representación legal pueden ser beneficiarios."
     }
   ],
   "alianza_obligatoria": true,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Educación con calidad",
+      "modalidad": null,
+      "descripcion_corta": "Misión definida por los CODECTI para atender demandas territoriales."
+    },
+    {
+      "nombre": "Apropiación social de la ciencia, la tecnología e innovación y Vocaciones en Ciencia, Tecnología e Innovación",
+      "modalidad": null,
+      "descripcion_corta": "Línea registrada en el Plan de Convocatorias 2021-2022 para la presente convocatoria."
+    }
+  ],
   "requisitos": [
     {
       "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustada al objetivo de la convocatoria y con la información del numeral 8.",
@@ -33,121 +44,106 @@
     },
     {
       "texto": "Cumplir con las especificaciones del 'Dirigido A' establecido.",
-      "tipo": "habilitante",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar la 'Carta de aval y compromiso institucional unificada' diligenciada y firmada por representantes legales de todas las entidades de la alianza.",
+      "texto": "Adjuntar la 'Carta de aval y compromiso institucional unificada' diligenciada y firmada por representantes legales de todas las entidades de la alianza, con documentos que acrediten su facultad.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el documento técnico según el numeral 8.1 (Anexo 2).",
+      "texto": "Adjuntar el documento técnico según el contenido del numeral 8.1 (Anexo 2).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el presupuesto requerido según el numeral 8.2 (Anexo 3), cumpliendo condiciones del numeral 10.",
+      "texto": "Adjuntar el presupuesto requerido según numeral 8.2 (Anexo 3), cumpliendo condiciones del numeral 10.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar el Modelo de Gobernanza de la alianza suscrito por representantes legales (Anexo 4).",
+      "texto": "Anexar el Modelo de Gobernanza de la alianza suscrito por representantes legales (Anexo 4), incluyendo estructura de coordinación, modelo de operación, mecanismos de decisión y gestión de adquisiciones.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' con soportes.",
+      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza', con soportes (convenios, actas, etc.) en SIGP. La entidad proponente debe demostrar experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos de CTeI del SGR.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Demostrar experiencia en gestión y ejecución de al menos un proyecto de CTeI en los últimos 5 años o con recursos del SGR.",
+      "texto": "Para entidades internacionales sin sede en Colombia, anexar carta de intención de participación suscrita por el director de la institución, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal debe estar vinculado a alguna entidad de la alianza y relacionar su CvLAC en la propuesta. Solo puede ser investigador principal en una propuesta.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades internacionales sin sede en Colombia, anexar carta de intención de participación suscrita por el director.",
+      "texto": "Los investigadores vinculados a entidades de la propuesta deben registrar líneas de investigación y enlace ORCID en el anexo 11.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El investigador principal debe estar vinculado a alguna entidad de la alianza y relacionar su CvLAC en la propuesta.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El investigador principal solo puede participar en una sola propuesta.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Los investigadores participantes deben registrar líneas de investigación y enlace ORCID en el anexo 11.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La alianza debe registrar grupos de investigación vinculados en áreas de educación para preescolar, básica y media.",
+      "texto": "La alianza debe registrar grupos de investigación vinculados a entidades que la conforman, en áreas relacionadas con generación de conocimiento en educación (preescolar, básica y media).",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Entidades del sector productivo deben demostrar constitución mínima de 5 años y no estar en liquidación o reestructuración.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre de la convocatoria.",
+      "texto": "Las entidades del sector productivo deben demostrar constitución mínima de 5 años a partir de la apertura de la convocatoria y no estar en liquidación o reestructuración. Presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Incluir estrategia con componentes de Promoción de la investigación, educación no formal y Red de experiencias de educadores.",
+      "texto": "La propuesta debe incluir una estrategia con componentes de Promoción de la investigación, Promoción de la educación no formal y Red de experiencias y aprendizajes de educadores, orientada a necesidades en educación para primera infancia, básica y media en cada región del SGR.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El Ministerio puede solicitar información adicional en cualquier momento.",
+      "texto": "El Ministerio podrá solicitar información y documentación adicional en cualquier momento.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las firmas en la carta de aval y modelo de gobernanza pueden venir en hojas separadas pero en un único PDF.",
+      "texto": "Se acepta que las firmas en la 'Carta de aval y compromiso institucional unificada' y el 'modelo de gobernanza' vengan en hojas diferentes, pero en un único archivo pdf.",
       "tipo": "documental",
-      "severidad": "obligatorio"
+      "severidad": "deseable"
     },
     {
-      "texto": "No se requiere adjuntar aval de comité de Ética o Bioética para la presentación, pero se declara en la carta de aval.",
+      "texto": "No se requiere adjuntar aval de comité de Ética o Bioética para la presentación; en caso de requerirse, se declarará en la carta de aval y se presentará en etapa de cumplimiento de requisitos del SGR si resulta elegible.",
       "tipo": "documental",
-      "severidad": "obligatorio"
+      "severidad": "deseable"
     },
     {
-      "texto": "Propuestas elegibles que requieran aval de Ética/Bioética deben presentarlo en la etapa de cumplimiento de requisitos del SGR.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Periodo de ajuste de requisitos en SIGP según cronograma.",
+      "texto": "Periodo de ajuste de requisitos en SIGP según numeral 16 del cronograma.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "En subsanación no se puede modificar entidad ejecutora o título de la propuesta.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Proponente debe consultar permanentemente que los documentos estén registrados correctamente en SIGP.",
+      "texto": "En subsanación no se puede modificar la entidad ejecutora ni el título de la propuesta en SIGP.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "MINCIENCIAS reportará inconsistencias en observaciones generales del SIGP para subsanación.",
+      "texto": "El proponente es responsable de consultar permanentemente que sus documentos estén registrados correctamente en SIGP antes del cierre y durante el periodo de ajuste.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Proponente es responsable de la fiabilidad, coherencia y completitud de la información en SIGP y anexos.",
+      "texto": "MINCIENCIAS verificará documentos en periodo de revisión y reportará inconsistencias en observaciones generales en SIGP para que el proponente ajuste durante subsanaciones.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los resultados de verificación de requisitos se consultan en el formulario de proyectos SIGP con usuario y contraseña, en el módulo 'Requisitos', campo 'Observaciones Generales de los Requisitos'.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de la fiabilidad, coherencia y completitud de la información en SIGP y anexos; información no coincidente no será tenida en cuenta.",
       "tipo": "otro",
       "severidad": "obligatorio"
     }
@@ -157,37 +153,128 @@
       "texto": "Que la propuesta de proyecto no esté ajustada a las condiciones y requisitos establecidos en los presentes términos de referencia."
     },
     {
-      "texto": "Que el valor solicitado al SGR en la propuesta de proyecto sea inferior a $3.000.000.000 o supere los $10.000.000.000."
+      "texto": "Que el valor solicitado al SGR en la propuesta de proyecto sea inferior a $3.000.000.000 o superior a $10.000.000.000."
     },
     {
-      "texto": "Que la entidad proponente o alguno de los miembros de la alianza no cumpla con los términos y condiciones establecidos en los presentes términos de referencia."
+      "texto": "Que la entidad proponente o alguno de los miembros de la alianza no cumpla con los términos y condiciones establecidos."
     },
     {
-      "texto": "En calidad de Investigador Principal, un investigador solo podrá fungir en una (1) sola propuesta. Si como Investigador Principal participa en más de una propuesta, solo se tendrá en cuenta la primera propuesta registrada."
+      "texto": "En calidad de Investigador Principal, un investigador solo podrá fungir en una (1) sola propuesta; si participa en más, solo se tendrá en cuenta la primera registrada."
     },
     {
-      "texto": "Que la propuesta presentada se encuentre en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, con recursos de MINCIENCIAS, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+      "texto": "Que la propuesta presentada se encuentre en ejecución o ya cuente con financiación simultánea de otra convocatoria de MINCIENCIAS, SGR u otras entidades del Estado."
     },
     {
       "texto": "Que el proponente o alguno de los aliados se encuentre reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
     },
     {
-      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley."
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley."
     },
     {
-      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, la propuesta será retirada e inhabilitada del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
+      "texto": "En caso de alteración a los documentos presentados, la propuesta será retirada e inhabilitada y el Ministerio informará a instancias administrativas y judiciales."
     }
   ],
-  "criterios_evaluacion": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad científico-técnica de la propuesta de proyecto",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa claridad, viabilidad y sostenibilidad de la estrategia en regiones del SGR."
+    },
+    {
+      "nombre": "Claridad y viabilidad de la estrategia en cada región del SGR",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Viabilidad técnica, administrativa, jurídica, financiera y ambiental."
+    },
+    {
+      "nombre": "Coherencia y viabilidad de la sostenibilidad de la estrategia",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Plan de sostenibilidad a largo plazo en regiones foco."
+    },
+    {
+      "nombre": "Contribución al desarrollo regional y fortalecimiento de capacidades en CTeI",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Generación de productos CTeI y vinculación de personal de alto nivel."
+    },
+    {
+      "nombre": "Contribución a la generación de productos CTeI para educación preescolar, básica y media",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Mejoramiento de calidad y acceso a educación en departamentos foco."
+    },
+    {
+      "nombre": "Vinculación de personal de alto nivel (estancias posdoctorales) mínimo 12 meses",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según número de doctores vinculados: más de 5 (5 pts), 3-5 (3 pts), 1-2 (1 pt)."
+    },
+    {
+      "nombre": "Idoneidad y trayectoria de la entidad proponente y aliados",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Experiencia en proyectos CTeI del SGR y áreas relacionadas."
+    },
+    {
+      "nombre": "Experiencia y trayectoria de la entidad proponente y aliados",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Incluye idoneidad de grupos de investigación, trayectoria del investigador principal e índice H."
+    },
+    {
+      "nombre": "Participación de investigadores con publicaciones relacionadas con vocaciones productivas y culturales",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Deben indicar citación, DOI y cuartil de la publicación."
+    },
+    {
+      "nombre": "Aportes de los integrantes de la alianza para la consecución de objetivos",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Aportes financieros, técnicos, tecnológicos y de talento humano de alto nivel."
+    },
+    {
+      "nombre": "Participación de entidades certificadas en educación de las regiones",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "3 o más entidades: 5 pts; 2 entidades: 2 pts."
+    },
+    {
+      "nombre": "Estrategia de Universalización de la Educación aplicada con Investigación",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Incluye articulación con líneas de investigación, formación en CTeI y red de experiencias."
+    },
+    {
+      "nombre": "Pertinencia e impacto del proyecto al desarrollo regional",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Contribución a CONPES 4069 y Plan Decenal de Educación, y articulación con demandas territoriales."
+    },
+    {
+      "nombre": "Contribución al cumplimiento de acciones para CONPES 4069 y Plan Decenal de Educación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Enfocado en segundo, sexto y décimo desafíos estratégicos."
+    },
+    {
+      "nombre": "Relación y articulación de la propuesta con demandas territoriales",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "De acuerdo con alcance y objetivos."
+    }
+  ],
   "financiacion": {
-    "monto_total_texto": "DIEZ MIL MILLONES DE PESOS M/CTE ($ 10.000.000.000)",
+    "monto_total_texto": "DIEZ MIL MILLONES DE PESOS M/CTE ($10.000.000.000)",
     "monto_total_cop": 10000000000.0,
     "plazo_min_meses": null,
     "plazo_max_meses": 36,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Asignación para la CTeI del SGR 2021-2022",
-    "notas": "Propuestas regionales tienen monto indicativo máximo de $1.666.666.666 por región. Se requieren mínimo 2 regiones, incluyendo Llanos o Centro Sur. Monto solicitable: desde $3.000.000.000 hasta $10.000.000.000."
+    "notas": "Monto total asignado a la convocatoria. Las propuestas pueden solicitar entre $3.000.000.000 y $10.000.000.000."
   },
   "meta": {
     "secciones": {
@@ -195,64 +282,78 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 358,
+        "chars_enviados": 352,
         "intento": 1,
         "usage": {
           "prompt_tokens": 305,
-          "completion_tokens": 84
+          "completion_tokens": 268
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 6541,
+        "chars_enviados": 6375,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2050,
-          "completion_tokens": 468
+          "prompt_tokens": 1989,
+          "completion_tokens": 455
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1195,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 596,
+          "completion_tokens": 123
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 10000,
+        "chars_enviados": 9778,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3090,
-          "completion_tokens": 1233
+          "prompt_tokens": 3019,
+          "completion_tokens": 1566
         }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2186,
+        "chars_enviados": 2152,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 871,
-          "completion_tokens": 429
+          "prompt_tokens": 855,
+          "completion_tokens": 365
         }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 6498,
+        "chars_enviados": 6297,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2139,
-          "completion_tokens": 201
+          "prompt_tokens": 2070,
+          "completion_tokens": 865
         }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7538,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2461,
+          "completion_tokens": 1069
+        }
       }
     }
   },
@@ -273,28 +374,30 @@
       "data": {
         "puede_postularse": true,
         "modo": "solo_en_alianza",
-        "rol_sugerido": "aliado",
+        "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar que la Universidad del Rosario cumpla con la condición de 'Instituciones de Educación Superior privadas' como aliado.",
-          "Confirmar que la alianza incluya al menos un proponente elegible (no IES) según los actores listados.",
-          "Validar la experiencia en proyectos de CTeI en los últimos 5 años o con recursos del SGR."
+          "Demostrar experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos de CTeI del SGR",
+          "Acreditar grupos de investigación reconocidos por Minciencias si se requiere para la propuesta",
+          "Verificar capacidad de contrapartida y cumplimiento de requisitos financieros",
+          "Adjuntar carta de aval y compromiso institucional unificada firmada por representante legal"
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse únicamente en alianza, desempeñando el rol de aliado. No puede ser proponente o ejecutora principal porque la convocatoria no lista IES como actor elegible para ese rol, pero sí como aliado. Se requiere verificar su experiencia en CTeI y conformar una alianza con un proponente elegible."
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como proponente o aliado en esta convocatoria. Debe verificar su experiencia en proyectos de CTeI y cumplir con los requisitos documentales y financieros establecidos."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
       "modo": "solo_en_alianza",
-      "rol_sugerido": "aliado",
+      "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar que la Universidad del Rosario cumpla con la condición de 'Instituciones de Educación Superior privadas' como aliado.",
-        "Confirmar que la alianza incluya al menos un proponente elegible (no IES) según los actores listados.",
-        "Validar la experiencia en proyectos de CTeI en los últimos 5 años o con recursos del SGR."
+        "Demostrar experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos de CTeI del SGR",
+        "Acreditar grupos de investigación reconocidos por Minciencias si se requiere para la propuesta",
+        "Verificar capacidad de contrapartida y cumplimiento de requisitos financieros",
+        "Adjuntar carta de aval y compromiso institucional unificada firmada por representante legal"
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse únicamente en alianza, desempeñando el rol de aliado. No puede ser proponente o ejecutora principal porque la convocatoria no lista IES como actor elegible para ese rol, pero sí como aliado. Se requiere verificar su experiencia en CTeI y conformar una alianza con un proponente elegible.",
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como proponente o aliado en esta convocatoria. Debe verificar su experiencia en proyectos de CTeI y cumplir con los requisitos documentales y financieros establecidos.",
       "fuente": "reglas+llm"
     }
   }

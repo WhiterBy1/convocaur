@@ -1,53 +1,197 @@
 {
   "convocatoria": "939",
-  "objetivo": null,
-  "actores_elegibles": [],
+  "objetivo": "Calificar proyectos de investigación científica, desarrollo e innovación para que el personal vinculado que ejecute actividades directas de I+D+i acceda al beneficio tributario de Ingresos No Constitutivos de Renta y/o Ganancia Ocasional, siempre que su remuneración provenga de recursos del proyecto, según los criterios del CNBT y el artículo 57-2 del E.T.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad",
+      "rol": null,
+      "condicion": "Haber ejecutado proyectos de CTeI involucrando personas naturales declarantes de renta en Colombia durante 2022, y postular proyectos que cumplan al menos una de las siguientes condiciones: (1) proyectos cofinanciados por Minciencias o SGR con ejecución en 2022, (2) proyectos calificados por CNBT con ejecución en 2022 y presentación oportuna de formatos, (3) proyectos nuevos con ejecución en 2022 no financiados ni calificados."
+    }
+  ],
   "alianza_obligatoria": null,
   "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "requisitos": [
+    {
+      "texto": "Cumplir con los criterios de elegibilidad definidos en la sección 'Dirigida a' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir el proyecto en el SIGP mediante el formulario en línea en www.minciencias.gov.co.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Formular el proyecto en español, incluyendo el título.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de presentación y aval firmada por el representante legal, con documentación adicional si no tiene competencia, y especificar datos del proyecto si no está registrado en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Demostrar constitución legal en Colombia mediante certificado de existencia y representación legal vigente.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar aval del comité de ética/bioética (o de otra entidad) con el acto administrativo de conformación; obligatorio para proyectos de salud.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar Formato de Informe de Personal y uso del beneficio tributario (Anexo 6) diligenciado para proyectos previamente calificados o cofinanciados.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No podrán presentar y avalar personal vinculado para el acceso al beneficio tributario las entidades que no estén legalmente constituidas en Colombia."
+    },
+    {
+      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional las remuneraciones que no sean provenientes de proyectos de ciencia, tecnología e innovación."
+    },
+    {
+      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que reciba el contribuyente que provengan de actividades ilícitas."
+    },
+    {
+      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que reciba el contribuyente por concepto de representación legal."
+    },
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y la normatividad vigente o que éstos no se subsanen dentro de los plazos establecidos en el numeral '14. CRONOGRAMA'."
+    },
+    {
+      "texto": "Estar inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidos en la Constitución, en la ley, reglamentos, entre otros."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad del proyecto",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Calidad del proyecto para Investigación Científica, Desarrollo e Innovación."
+    },
+    {
+      "nombre": "Pertinencia del proyecto",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Pertinencia del proyecto para Investigación Científica, Desarrollo e Innovación."
+    },
+    {
+      "nombre": "Impacto potencial del proyecto",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Impacto potencial del proyecto para Investigación Científica, Desarrollo e Innovación."
+    },
+    {
+      "nombre": "Puntaje adicional del proyecto",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje adicional para Investigación Científica, Desarrollo e Innovación."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "No se especifican cifras concretas de financiación ni plazos."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 535,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 351,
+          "completion_tokens": 92
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1251,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 653,
+          "completion_tokens": 712
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 553,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 419,
+          "completion_tokens": 126
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4145,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1490,
+          "completion_tokens": 3485
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4013,
+          "completion_tokens": 511
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 521,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 488,
+          "completion_tokens": 418
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4221,
+          "completion_tokens": 251
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -55,30 +199,26 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "elegible_con_condiciones",
-        "rol_sugerido": "proponente",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar que la universidad cuente con grupos de investigacion reconocidos por Minciencias",
-          "Verificar capacidad institucional para ejecutar proyectos",
-          "Verificar cumplimiento de requisitos especificos de la convocatoria (si aplica)"
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible."
         ],
-        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse a convocatorias Minciencias. Sin embargo, se deben verificar condiciones especificas como la existencia de grupos de investigacion registrados y la capacidad institucional para cumplir con los requisitos de la convocatoria."
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no es elegible para postularse a esta convocatoria porque, según los actores elegibles definidos, no se incluye a las IES/universidades como entidades que pueden postular proyectos. Además, no se cuenta con información sobre el cumplimiento de las condiciones específicas de ejecución de proyectos en 2022."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
-      "rol_sugerido": "proponente",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar que la universidad cuente con grupos de investigacion reconocidos por Minciencias",
-        "Verificar capacidad institucional para ejecutar proyectos",
-        "Verificar cumplimiento de requisitos especificos de la convocatoria (si aplica)"
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible."
       ],
-      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse a convocatorias Minciencias. Sin embargo, se deben verificar condiciones especificas como la existencia de grupos de investigacion registrados y la capacidad institucional para cumplir con los requisitos de la convocatoria.",
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no es elegible para postularse a esta convocatoria porque, según los actores elegibles definidos, no se incluye a las IES/universidades como entidades que pueden postular proyectos. Además, no se cuenta con información sobre el cumplimiento de las condiciones específicas de ejecución de proyectos en 2022.",
       "fuente": "reglas+llm"
     }
   }

@@ -4,244 +4,257 @@
   "actores_elegibles": [
     {
       "tipo": "Instituciones de Educación Superior",
-      "rol": null,
-      "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto."
+      "rol": "Miembro de la alianza",
+      "condicion": "Al menos una Universidad o Institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto."
     },
     {
       "tipo": "Organizaciones comunitarias, étnicas y/o campesinas",
-      "rol": null,
-      "condicion": "Mínimo una organización con domicilio en la región SGR, actividades relacionadas con las líneas temáticas, y constitución legal de al menos 1 año. Organizaciones adicionales deben ser de distintos municipios/departamentos dentro de la misma región."
+      "rol": "Miembro de la alianza",
+      "condicion": "Mínimo una organización con domicilio o acciones en la región SGR, actividades relacionadas con líneas temáticas, constitución legal de al menos 1 año previo a la apertura. Si se vinculan más, deben pertenecer a distintos municipios/departamentos dentro de la misma región."
     },
     {
       "tipo": "Entidades territoriales",
-      "rol": null,
-      "condicion": "Al menos dos entidades territoriales de la región SGR, de departamentos diferentes. Al menos una debe ser Gobernación y al menos una debe pertenecer al departamento donde se ejecuta el proyecto."
+      "rol": "Miembro de la alianza",
+      "condicion": "Al menos dos entidades territoriales de la región SGR, de departamentos diferentes. Al menos una debe ser Gobernación y al menos una debe pertenecer al departamento donde se ejecutará el proyecto."
     },
     {
       "tipo": "Sector empresarial",
-      "rol": null,
-      "condicion": "Al menos una empresa colombiana micro, pequeña o mediana, gremio, asociación empresarial, cámara de comercio u otra organización del sector productivo, con mínimo 1 año de constitución y domicilio en la región SGR."
+      "rol": "Miembro de la alianza",
+      "condicion": "Al menos una empresa colombiana micro, pequeña o mediana, gremios, asociaciones empresariales, cámaras de comercio u otras organizaciones del sector productivo, con mínimo 1 año de constitución y domicilio en la región SGR."
     },
     {
       "tipo": "Institutos de Investigación del Sistema Nacional Ambiental",
-      "rol": null,
-      "condicion": "Opcional: IDEAM, INVEMAR, Instituto Humboldt, Sinchi, Instituto Pacífico. Adscritos al Ministerio de Ambiente."
+      "rol": "Miembro opcional de la alianza",
+      "condicion": "Adscritos al Ministerio de Ambiente: IDEAM, INVEMAR, Instituto Humboldt, Sinchi, Instituto Pacífico."
     },
     {
       "tipo": "Corporaciones autónomas regionales y Corporaciones de Desarrollo Sostenible",
-      "rol": null,
-      "condicion": "Opcional: pertenecientes a las regiones SGR donde se desarrolla el proyecto."
+      "rol": "Miembro opcional de la alianza",
+      "condicion": "Pertenecientes a las regiones SGR donde se desarrollará el proyecto."
     },
     {
       "tipo": "Unidad Administrativa Especial de Parques Nacionales Naturales de Colombia",
-      "rol": null,
-      "condicion": "Opcional."
+      "rol": "Miembro opcional de la alianza",
+      "condicion": null
     },
     {
       "tipo": "Centros de Investigación y Centros de Desarrollo Tecnológico Autónomos o Independientes",
-      "rol": null,
-      "condicion": "Opcional."
+      "rol": "Miembro opcional de la alianza",
+      "condicion": null
     }
   ],
   "alianza_obligatoria": true,
   "lineas_tematicas": [
     {
-      "nombre": "5.1.1 Investigación y desarrollo para el conocimiento conservación, revalorización y uso sostenible de la biodiversidad y los servicios ecosistémicos en los territorios.",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": "El fortalecimiento de las capacidades científicas y tecnológicas es una necesidad de los territorios, que enfrentan la pérdida de biodiversidad y la degradación de ecosistemas estratégicos."
+      "nombre": "Investigación y desarrollo para el conocimiento conservación, revalorización y uso sostenible de la biodiversidad y los servicios ecosistémicos en los territorios",
+      "modalidad": "Modalidad 1. Fortalecimiento de capacidades territoriales en conocimiento, conservación, revalorización y uso sostenible de la biodiversidad y los servicios ecosistémicos en los territorios",
+      "descripcion_corta": "Generar conocimiento para la conservación, uso sostenible y valorización de la biodiversidad y servicios ecosistémicos, incluyendo restauración ecológica, plataformas de información y colecciones biológicas."
     },
     {
-      "nombre": "5.1.1.1. I+D sobre el conocimiento, conservación, restauración ecológica y revalorización de la biodiversidad y los servicios ecosistémicos con integración de saberes tradicionales.",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
+      "nombre": "I+D+i para la gestión del riesgo y el cambio climático",
+      "modalidad": "Modalidad 1. Fortalecimiento de capacidades territoriales en conocimiento, conservación, revalorización y uso sostenible de la biodiversidad y los servicios ecosistémicos en los territorios",
+      "descripcion_corta": "Desarrollar soluciones basadas en ciencia, tecnología e innovación para la gestión del riesgo y adaptación al cambio climático, incluyendo monitoreo, restauración de ecosistemas y sistemas de alerta temprana."
     },
     {
-      "nombre": "5.1.1.2. Fortalecimiento de colecciones biológicas que contribuyan a la actualización y/o generación de nuevo conocimiento de la biodiversidad, la bioprospección y la consolidación de capacidades científicas del país a través de expediciones científicas, contribuyendo al fortalecimiento de capacidades territoriales para la gestión sostenible de ecosistemas y servicios ecosistémicos.",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
+      "nombre": "Desarrollo de bioproductos y bioservicios basados en biodiversidad y servicios ecosistémicos",
+      "modalidad": "Modalidad 2. Desarrollo e innovación en bioproductos, bioservicios y modelos circulares orientados a la generación de soluciones innovadoras con impactos en los territorios",
+      "descripcion_corta": "Promover proyectos de I+D para diseñar, desarrollar y validar bioproductos y bioservicios de alto valor agregado, desde TRL 3 hasta escalamiento comercial."
     },
     {
-      "nombre": "5.1.2. I+D+i para la gestión del riesgo y el cambio climático.",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": "La creciente vulnerabilidad ambiental y la intensificación de fenómenos como sequías, inundaciones y pérdida de integridad ecosistémica demandan soluciones basadas en ciencia, tecnología e innovación que fortalezcan la acción climática del país."
-    },
-    {
-      "nombre": "5.1.2.1. Investigación, diseño y validación de soluciones basadas en la naturaleza (SbN) para la mitigación, adaptación y gestión de riesgos asociados a eventos extremos de la variabilidad climática.",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.1.2.2. Desarrollo y prueba de tecnologías para el uso eficiente y sostenible del recurso hídrico en ecosistemas con estrés climático, incluyendo soluciones tecnológicas para monitoreo, reducción de pérdidas, gestión eficiente y seguimiento de calidad ambiental",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.1.2.3. Modelación y validación de sistemas predictivos de riesgos climáticos como herramientas de adaptación territorial, incluyendo herramientas digitales, sistemas de información geográfica y plataformas participativas de monitoreo y alerta temprana",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.1.2.4. Implementación y monitoreo de estrategias de restauración ecológica en páramos, humedales, manglares, bosques tropicales, ecosistemas marino-costeros y otros ecosistemas, para fortalecer la acción climática y la seguridad hídrica.",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.1.2.5. Investigación, desarrollo, validación e implementación de soluciones para la gestión integral de la erosión costera y la adaptación climática en territorios marino-costeros.",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.1.2.6. Desarrollo y fortalecimiento de redes de monitoreo ambiental, hidrometeorológico y sistemas de pronóstico y alerta temprana para la gestión del riesgo y la adaptación al cambio climático",
-      "modalidad": "Modalidad 1",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.2.1. Desarrollo de bioproductos y bioservicios basados en biodiversidad y servicios ecosistémicos.",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": "Esta línea promueve proyectos de I+D orientados al uso sostenible de la biodiversidad y la biomasa para diseñar, desarrollar y validar bioproductos y bioservicios de alto valor agregado."
-    },
-    {
-      "nombre": "5.2.1.1 Investigación y validación de compuestos, genes, microorganismos o extractos provenientes de biodiversidad o biomasa primaria para el desarrollo de bioproductos en sectores como alimentos, cosmética, farmacéutica, entre otros.",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.2.1.2 Diseño, modelación y validación de prototipos experimentales de bioservicios basados en la naturaleza (por ejemplo, servicios ecosistémicos de regulación y provisión, depuración, polinización).",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.2.1.3 Desarrollo y escalado de bioproductos desde TRL 3, incluyendo estudios de eficacia, desempeño técnico y análisis de ciclo de vida, así como el desarrollo e implementación de soluciones basadas en procesos de biofiltración, biorremediación y restauración ecológica",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.2.2. Investigación y desarrollo para la transición hacia sistemas productivos sostenibles y circulares.",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": "Esta línea se orienta a promover proyectos de I+D que transformen sistemas productivos con baja sostenibilidad social, económica y ambiental en modelos sostenibles, circulares y resilientes."
-    },
-    {
-      "nombre": "5.2.2.1 Investigación y diseño de modelos innovadores para la valorización de residuos agroindustriales o forestales en bioinsumos, bioenergía y bioproductos de alto valor agregado.",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.2.2.2 Desarrollo de bioproductos con potencial de escalamiento comercial e innovación en empaques a partir de materiales biodegradables o reutilizables.",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": null
-    },
-    {
-      "nombre": "5.2.2.3. Innovación Orientada a la consolidación de negocios verdes en Bioeconomía, mediante el uso sostenible de la biomasa y la biodiversidad, la generación de valor agregado y su articulación en cadenas de bioeconomía.",
-      "modalidad": "Modalidad 2",
-      "descripcion_corta": null
+      "nombre": "Investigación y desarrollo para la transición hacia sistemas productivos sostenibles y circulares",
+      "modalidad": "Modalidad 2. Desarrollo e innovación en bioproductos, bioservicios y modelos circulares orientados a la generación de soluciones innovadoras con impactos en los territorios",
+      "descripcion_corta": "Transformar sistemas productivos en modelos sostenibles y circulares, valorizando residuos y subproductos, y creando cadenas de valor bioeconómicas."
     }
   ],
   "requisitos": [
     {
-      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria.",
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con las especificaciones y condiciones del numeral 3 'Dirigida a'.",
+      "texto": "Cumplir con las especificaciones y condiciones del 'DIRIGIDA A' establecidas en el numeral 3.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Acreditar el adecuado desempeño del proponente según el artículo 1.2.1.2.29 del Decreto 1821 de 2020, mediante consulta del informe de la última medición anual de desempeño del SGR.",
+      "texto": "Acreditar el adecuado desempeño del proponente según la última medición anual del DNP, salvo que no haya sido evaluado en los dos años anteriores.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1) debidamente diligenciada y firmada por los representantes legales o apoderados de todas las entidades nacionales de la alianza.",
+      "texto": "Anexar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' debidamente diligenciada y firmada por los representantes legales o apoderados de todas las entidades nacionales.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el Documento Técnico (Anexo 2) de acuerdo con el numeral 12.1, incluido en la plataforma SIGP.",
+      "texto": "Adjuntar el Documento técnico (Anexo 2) conforme al contenido del numeral 12.1.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el Presupuesto del proyecto (Anexo 3) según el numeral 12.2, soportado con estudio de mercado y al menos dos cotizaciones o acto administrativo de precios de referencia.",
+      "texto": "Adjuntar el Presupuesto (Anexo 3) con estudio de mercado y al menos dos cotizaciones, cumpliendo el numeral 14.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5) debidamente diligenciado, con soportes (convenios, contratos, actas, etc.).",
+      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5) debidamente diligenciado.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar la carta Aval del Comité de Ética de la Investigación o de Bioética (si aplica), con el acto administrativo que soporta la conformación del comité.",
+      "texto": "Adjuntar Carta Aval del Comité de Ética de la Investigación o de Bioética, cuando aplique, incluyendo el acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Adjuntar Cartas de participación firmadas por el representante legal de cada entidad aliada, indicando nombre del proyecto, conocimiento y compromiso.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar cartas de participación firmadas por el representante legal de cada entidad participante, incluyendo nombre del proyecto, compromiso y, si aplica, nombre y código del grupo de investigación.",
+      "texto": "Para entidades del sector productivo: acreditar constitución mínima de un año antes de la apertura y presentar certificado de existencia y representación legal no mayor a 90 días.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades del sector productivo: haberse constituido al menos un año antes de la apertura de la convocatoria y presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "texto": "Para organizaciones comunitarias, étnicas y/o campesinas: acreditar constitución mínima de un año antes de la apertura y presentar certificado de existencia y representación legal no mayor a 90 días.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para organizaciones comunitarias, étnicas y/o campesinas: haberse constituido al menos un año antes de la apertura y presentar certificado de existencia y representación legal no mayor a 90 días, avalado por entidad competente.",
+      "texto": "Presentar el proyecto de inversión formulado en la Metodología General Ajustada (MGA) en borrador (Anexo 17).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar el proyecto de inversión formulado en la Metodología General Ajustada (MGA) en borrador, con todos los campos diligenciados en la Tipología D – Convocatorias CTeI del SGR.",
+      "texto": "Presentar Certificados de no financiación con otras fuentes de recursos, suscritos por el representante legal de cada entidad territorial del lugar de ejecución y de la entidad proponente.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales aliadas: no suscribir la carta aval, pero registrar su participación en SIGP y presentar 'Carta entidad internacional'.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Los grupos de investigación categoría A1, A o B participantes deben estar registrados en el apartado 'Grupos' del SIGP y en el Documento técnico.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Cuantificar y reportar el aporte de contrapartida (especie o efectivo) de cada entidad en la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza'.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Garantizar la completa coherencia entre la información consignada en el SIGP y los Anexos 1, 2 y 3.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar los soportes de la experiencia en proyectos CTeI (convenios/contratos, actos administrativos, actas de liquidación, etc.) para cada experiencia presentada en el Anexo 5.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar Certificado de no financiación con otras fuentes de recursos, suscrito por el Representante Legal de cada entidad territorial del lugar de ejecución y de la entidad proponente.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Las entidades en proceso de liquidación o reestructuración no podrán participar.",
+      "texto": "Las entidades que se encuentren en proceso de liquidación o reestructuración no podrán participar.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No se aceptará que las firmas de los representantes legales o apoderados en la 'Carta de aval, compromiso institucional unificado y Modelo de Gobernanza' vengan en hojas diferentes.",
+      "texto": "En la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' las firmas no pueden venir en hojas diferentes, so pena de rechazo.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad proponente y sus aliados garantizarán la veracidad de la información suministrada.",
-      "tipo": "habilitante",
+      "texto": "En el período de ajuste de requisitos no se podrá modificar la información del SIGP sobre entidad proponente, alcance, línea temática, mecanismo de participación o título del proyecto.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "En el período de ajuste de requisitos no se podrá modificar la entidad proponente, alcance, línea temática, mecanismo de participación o título del proyecto.",
-      "tipo": "habilitante",
+      "texto": "En el período de ajuste no se podrá subsanar la omisión del cargue de un documento en blanco o dañado.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar la representación legal mediante Certificado de Existencia y Representación Legal (Cámara de Comercio), resolución del Ministerio de Educación, acto administrativo o norma de creación, según el tipo de entidad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el período de ajuste no se podrá subsanar el cargue de un documento que no corresponda al solicitado.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Modelo de Gobernanza debe incluir: estructura de coordinación, modelo de operación formal, mecanismos de coordinación técnica y mecanismo de gestión de adquisiciones y transferencia de bienes.",
+      "tipo": "documental",
       "severidad": "obligatorio"
     }
   ],
-  "causales_rechazo": [],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21. CRONOGRAMA."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto no se encuentre en el rango señalado en el numeral 14. DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética y los soportes respectivos no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender al menos una demanda territorial del Reto 1 y al menos una demanda ambiental, en los casos en que el departamento haya definido estas demandas."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentre en ejecución o la fase en la que se presenta ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso."
+    },
+    {
+      "texto": "Cuando una misma entidad ostente al mismo tiempo la calidad de Proponente y Beneficiario en un mismo proyecto."
+    },
+    {
+      "texto": "Cuando se identifique que el mismo proyecto ha sido presentado por diferentes entidades proponentes."
+    },
+    {
+      "texto": "Cargar hojas en blanco o archivos dañados, o certificados de compromiso de posterior suscripción o aporte de alguno de los requisitos exigidos, o no cargar uno o más documentos o certificados exigidos, o cargar documentos sin la totalidad de las firmas."
+    },
+    {
+      "texto": "Cuando los recursos solicitados al SGR destinados para la Movilidad del personal vinculado con actividades misionales del proyecto excedan el 2% del total del monto solicitado al SGR por proyecto."
+    },
+    {
+      "texto": "Cuando los recursos solicitados al SGR destinados para la construcción, adecuación y/o mejoramiento de infraestructura de CTeI excedan el 20% del valor total del proyecto. Esta restricción no aplica para dotación de equipos de CTeI."
+    },
+    {
+      "texto": "Cuando el proyecto no incluya los recursos para vigilancia de los proyectos en el rubro de 'Seguimiento', atendiendo los lineamientos dados en el numeral 19 VIGILANCIA DE LOS PROYECTOS."
+    },
+    {
+      "texto": "No se aceptará que en la 'Carta de aval, compromiso institucional unificado y Modelo de Gobernanza' las firmas de los representantes legales o apoderados vengan en hojas diferentes."
+    }
+  ],
   "criterios_evaluacion": [
     {
       "nombre": "Calidad técnico-científica y presupuestal del proyecto",
       "puntaje_max": 45.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la calidad técnico-científica, coherencia del proyecto, relación presupuesto-actividades, productos de conocimiento, madurez tecnológica y estrategia de apropiación social del conocimiento."
+      "descripcion": "Evalúa coherencia técnica, presupuesto, productos de nuevo conocimiento, TRL y apropiación social del conocimiento."
     },
     {
       "nombre": "Contribución del proyecto al desarrollo territorial, regional y nacional para el fortalecimiento de capacidades en materia de CTeI",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la pertinencia e impacto de los resultados frente al desarrollo territorial y la atención a demandas territoriales del Plan Bienal de Convocatorias."
+      "descripcion": "Evalúa pertinencia e impacto frente a demandas territoriales y retos estratégicos."
     },
     {
       "nombre": "Capacidad técnica, idoneidad y trayectoria de la entidad proponente y de los aliados",
       "puntaje_max": 17.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la conformación de alianzas entre entidades del SNCTI para contribuir al logro de objetivos y resultados."
+      "descripcion": "Evalúa conformación de alianzas entre actores del SNCTI."
     }
   ],
   "financiacion": {
@@ -252,7 +265,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Sistema General de Regalías – Asignación para la Ciencia, Tecnología e Innovación, bienio 2025–2026",
-    "notas": "No se especifica porcentaje de contrapartida. Los recursos se distribuyen en 6 regiones y 2 modalidades. Monto por proyecto entre $12.000.000.000 y $15.624.633.964."
+    "notas": "El monto total se distribuye equitativamente entre dos modalidades y seis regiones. No se especifica contrapartida."
   },
   "meta": {
     "secciones": {
@@ -260,33 +273,33 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 755,
+        "chars_enviados": 735,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 427,
-          "completion_tokens": 159
+          "prompt_tokens": 420,
+          "completion_tokens": 207
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 13720,
+        "chars_enviados": 13378,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4139,
-          "completion_tokens": 2197
+          "prompt_tokens": 4050,
+          "completion_tokens": 708
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 10622,
+        "chars_enviados": 10334,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3174,
-          "completion_tokens": 4246
+          "prompt_tokens": 3103,
+          "completion_tokens": 547
         }
       },
       "requisitos": {
@@ -296,23 +309,30 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4373,
-          "completion_tokens": 1240
+          "prompt_tokens": 4383,
+          "completion_tokens": 5813
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4961,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1658,
+          "completion_tokens": 710
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 12922,
+        "chars_enviados": 12591,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3922,
-          "completion_tokens": 894
+          "prompt_tokens": 3794,
+          "completion_tokens": 684
         }
       },
       "criterios": {
@@ -322,8 +342,8 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4336,
-          "completion_tokens": 270
+          "prompt_tokens": 4361,
+          "completion_tokens": 251
         }
       }
     }
@@ -333,34 +353,34 @@
     "reglas": {
       "puede_postularse": true,
       "modo": "solo_en_alianza",
-      "rol_sugerido": "ejecutora",
+      "rol_sugerido": "Miembro de la alianza",
       "confianza": "media",
       "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
       "actores_ies_match": [
         {
           "tipo": "Instituciones de Educación Superior",
-          "rol": null,
-          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto."
+          "rol": "Miembro de la alianza",
+          "condicion": "Al menos una Universidad o Institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto."
         }
       ],
       "condiciones_pendientes": [
         {
-          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+          "condicion": "Al menos una Universidad o Institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto.",
           "riesgo": "territorio",
           "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
         },
         {
-          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+          "condicion": "Al menos una Universidad o Institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto.",
           "riesgo": "acreditacion",
           "nota": "Verificar vigencia de acreditacion institucional/programas."
         },
         {
-          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+          "condicion": "Al menos una Universidad o Institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto.",
           "riesgo": "grupos_minciencias",
           "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
         },
         {
-          "condicion": "Al menos una universidad o institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe acreditar experiencia en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.",
+          "condicion": "Al menos una Universidad o Institución universitaria acreditada, en proceso de acreditación o con programas acreditados afines a las líneas temáticas. Debe tener experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto.",
           "riesgo": "experiencia",
           "nota": "Validar experiencia acreditada en CTeI/regiones."
         }
@@ -375,17 +395,32 @@
     "llm": {
       "ok": true,
       "data": {
-        "": "{\n  \"puede_postularse\": true,\n  \"modo\": \"solo_en_alianza\",\n  \"rol_sugerido\": \"ejecutora\",\n  \"bloqueantes\": [],\n  \"condiciones_a_verificar\": [\n    \"Acreditación institucional vigente o programas acreditados afines a las líneas temáticas.\",\n    \"Experiencia acreditada en proyectos CTeI en regiones SGR por al menos el 50% del valor del proyecto.\",\n    \"Grupos de investigación categorizados por Minciencias.\",\n    \"Sede o domicilio en la región SGR (riesgo territorial).\"\n  ],\n  \"resumen\": \"La Universidad del Rosario (IES privada, sede Bogotá, actor SNCTI) es elegible pero debe postularse en alianza obligatoria. Se sugiere rol ejecutor. Se deben verificar acreditación, experiencia en regiones SGR, grupos Minciencias y posible presencia regional.\"\n}"
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Acreditación institucional vigente o programas acreditados afines a las líneas temáticas.",
+          "Experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto.",
+          "Grupos de investigación categorizados por Minciencias.",
+          "Posible exigencia de sede o domicilio regional, dado que la sede principal está en Bogotá."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada acreditada y elegible para postularse, pero solo como parte de una alianza obligatoria en esta convocatoria. Debe verificar su acreditación, experiencia en proyectos CTeI en la región SGR, y contar con grupos de investigación categorizados. Su sede principal en Bogotá puede representar un desafío si se requiere presencia regional."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
       "modo": "solo_en_alianza",
-      "rol_sugerido": "ejecutora",
+      "rol_sugerido": "aliado",
       "bloqueantes": [],
-      "condiciones_a_verificar": [],
-      "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "condiciones_a_verificar": [
+        "Acreditación institucional vigente o programas acreditados afines a las líneas temáticas.",
+        "Experiencia previa en proyectos CTeI en la región SGR, con sumatoria igual o superior al 50% del valor del proyecto.",
+        "Grupos de investigación categorizados por Minciencias.",
+        "Posible exigencia de sede o domicilio regional, dado que la sede principal está en Bogotá."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y elegible para postularse, pero solo como parte de una alianza obligatoria en esta convocatoria. Debe verificar su acreditación, experiencia en proyectos CTeI en la región SGR, y contar con grupos de investigación categorizados. Su sede principal en Bogotá puede representar un desafío si se requiere presencia regional.",
       "fuente": "reglas+llm"
     }
   }

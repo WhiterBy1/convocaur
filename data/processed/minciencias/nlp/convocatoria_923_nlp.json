@@ -1,169 +1,149 @@
 {
   "convocatoria": "923",
-  "objetivo": "La convocatoria de Movilidad Académica con Europa 2022 tiene como objetivo, conformar un Banco Definitivo de Elegibles para financiar movilidades internacionales, de investigadores con reconocimiento vigente por el Ministerio de Ciencia, Tecnología e Innov ación y estudiantes de do ctorado que, hagan parte de las entidades del Sistema Nacional de Cienc ia, Tecnología e Innovación -SNCTEITI, y sus pares en Francia y Alemania en el marco del desarroll o de proyectos o anteproyectos conjuntos de investigación, desarrollo tecnológico e innovación.",
+  "objetivo": "Conformar un Banco Definitivo de Elegibles para financiar movilidades internacionales de investigadores con reconocimiento vigente por el Ministerio de Ciencia, Tecnología e Innovación y estudiantes de doctorado que hagan parte de las entidades del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTeI) y sus pares en Francia y Alemania, en el marco del desarrollo de proyectos o anteproyectos conjuntos de investigación, desarrollo tecnológico e innovación.",
   "actores_elegibles": [
     {
       "tipo": "Investigador Junior",
       "rol": "Investigador",
-      "condicion": "Reconocimiento vigente por Minciencias al cierre de la convocatoria"
+      "condicion": "Con reconocimiento vigente de Minciencias al cierre de la convocatoria"
     },
     {
       "tipo": "Investigador Asociado",
       "rol": "Investigador",
-      "condicion": "Reconocimiento vigente por Minciencias al cierre de la convocatoria"
+      "condicion": "Con reconocimiento vigente de Minciencias al cierre de la convocatoria"
     },
     {
       "tipo": "Investigador Senior",
       "rol": "Investigador",
-      "condicion": "Reconocimiento vigente por Minciencias al cierre de la convocatoria"
+      "condicion": "Con reconocimiento vigente de Minciencias al cierre de la convocatoria"
     },
     {
       "tipo": "Investigador Emérito",
       "rol": "Investigador",
-      "condicion": "Reconocimiento vigente por Minciencias al cierre de la convocatoria"
+      "condicion": "Con reconocimiento vigente de Minciencias al cierre de la convocatoria"
     },
     {
       "tipo": "Estudiante de doctorado",
-      "rol": null,
-      "condicion": "Hacer parte de entidades del SNCTeI y sus pares en Francia o Alemania, en el marco de proyectos conjuntos"
+      "rol": "Estudiante",
+      "condicion": "Hacer parte de entidades del SNCTeI y sus pares en Francia o Alemania"
     }
   ],
-  "alianza_obligatoria": null,
+  "alianza_obligatoria": true,
   "lineas_tematicas": [
     {
       "nombre": "Biotecnología, Bioeconomía y Medio Ambiente",
-      "modalidad": "Ecos-Nord",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
-      "nombre": "Ciencias Básicas y del Espacio",
-      "modalidad": "Ecos-Nord",
+      "nombre": "Ciencias Básicas y",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Ciencias de la Vida y de la Salud",
-      "modalidad": "PROCOL",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Ciencias Sociales, Desarrollo Humano y Equidad",
-      "modalidad": "PROCOL",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Energía sostenible",
-      "modalidad": "PROCOL",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Industrias creativas y culturales",
-      "modalidad": "PROCOL",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Océanos y recursos hidrológicos",
-      "modalidad": "PROCOL",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Tecnologías convergentes e Industrias 4.0",
-      "modalidad": "PROCOL",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Biotecnología, Biodiversidad, Investigación Marina, Salud, Geociencias y Bioeconomía",
-      "modalidad": "BMBF",
+      "modalidad": null,
       "descripcion_corta": null
     }
   ],
   "requisitos": [
     {
-      "texto": "Uso de la plataforma SIGP para acreditar los requisitos de la convocatoria.",
+      "texto": "Carta unificada de aval y compromiso institucional de la propuesta de movilidad por parte de la entidad ejecutora del SNC TEITI, suscrita por el representante legal o su delegado, especificando contrapartida en dinero o especie de mínimo el 50% respecto al valor a financiar (Anexo 1).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Documento de productos esperados donde se relacionen actividades, indicadores y resultados deseados dentro del marco del anteproyecto o proyecto (Anexo 2).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Carta unificada de aval y compromiso institucional de la entidad ejecutora del SNC TEITI, suscrita por el representante legal o delegado, especificando contrapartida mínima del 50% en dinero o especie respecto al valor a financiar.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Documento de productos esperados con actividades, indicadores y resultados deseados del anteproyecto o proyecto (Anexo 2).",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Las entidades colombianas que avalen deben estar constituidas al menos 24 meses antes de la apertura de la convocatoria, verificado en RUES o documento equivalente.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Para personas jurídicas: documento que acredite existencia y representación legal con fecha de expedición no mayor a 3 meses (o certificación del MEN para instituciones educativas, no mayor a 90 días).",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Registrar las hojas de vida de los investigadores en el aplicativo CvLAC de la plataforma ScienTI.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El investigador colombiano debe tener reconocimiento vigente como Junior, Asociado, Senior o Emérito por Minciencias al cierre de la convocatoria.",
+      "texto": "La entidad colombiana que avala la postulación debe estar constituida al menos 24 meses antes de la apertura de la convocatoria, verificado en RUES o documento equivalente.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El estudiante de doctorado debe anexar certificado doctoral en curso expedido por la oficina responsable de la IES en Colombia, que acredite su condición de estudiante activo.",
+      "texto": "Documento que acredite la existencia y representación legal de la entidad con fecha de expedición no mayor a 3 meses (o certificación del Ministerio de Educación para Instituciones Educativas, no mayor a 90 días).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Formato de movilidad completamente diligenciado con datos básicos de investigadores colombianos y extranjeros, cronograma y fechas de intercambios (Anexo 3).",
+      "texto": "Registrar las hojas de vida de los investigadores en el aplicativo CvLAC de la plataforma ScienTI del Ministerio de Ciencia, Tecnología e Innovación.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar resumen firmado de las hojas de vida de todos los investigadores extranjeros incluidos en el formato de movilidad (Anexo 4).",
+      "texto": "El investigador colombiano debe tener reconocimiento vigente como Junior, Asociado, Senior o Emérito por parte del Ministerio de Ciencia, Tecnología e Innovación al momento del cierre de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El estudiante de doctorado (Investigador en Formación) debe anexar certificado doctoral en curso expedido por la oficina responsable de la Institución de Educación Superior en Colombia, que dé cuenta de su condición de estudiante activo al momento de la presentación de la propuesta.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Los investigadores europeos deben presentar la propuesta de movilidad ante la respectiva contraparte europea (Ecos Nord, DAAD-PROCOL, BMBF).",
+      "texto": "Formato de movilidad completamente diligenciado, que contenga datos básicos de los investigadores colombianos y extranjeros, cronograma de actividades y fechas de los intercambios que aplican a financiación (Anexo 3).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con la totalidad de requisitos exigidos para que la propuesta sea incluida en el banco preliminar de elegibles.",
+      "texto": "Los investigadores europeos deben presentar el resumen firmado de las hojas de vida de la totalidad de los investigadores extranjeros incluidos en el formato de movilidad, evidenciando formación y actividades académicas e investigativas (Anexo 4).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los investigadores europeos deben presentar la propuesta de movilidad en el marco del proyecto trabajado de manera conjunta con su par colombiano ante la respectiva contraparte europea (Ecos Nord, DAAD-PROCOL y BMBF).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta de movilidad no podrá ser financiada si el anteproyecto o proyecto es beneficiario de dos o más convocatorias financiadas o cofinanciadas por el Ministerio de Ciencia, Tecnología e Innovación y/o por otra entidad del estado colombiano, en las cuales también se apoyen movilidades internacionales y gastos de estadía para el mismo destino.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Una misma entidad colombiana puede presentar más de una propuesta, pero cada una debe diligenciarse por separado y cumplir requisitos.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Los postulantes pueden participar como parte del equipo de investigación de más de una propuesta, pero solo pueden aplicar al beneficio de movilidad de una sola.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La propuesta de movilidad no podrá ser financiada si el anteproyecto o proyecto es beneficiario de dos o más convocatorias financiadas o cofinanciadas por Minciencias u otra entidad estatal colombiana que apoyen movilidades internacionales para el mismo destino.",
+      "texto": "La propuesta de movilidad no podrá ser financiada si los aspirantes a las movilizaciones son beneficiarios de otra convocatoria financiada o cofinanciada por el Ministerio de Ciencia, Tecnología e Innovación y/o por cualquier otra entidad del Estado Colombiano, en las cuales también se apoyen movilidades internacionales y gastos de estadía para el mismo destino.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La propuesta de movilidad no podrá ser financiada si los aspirantes son beneficiarios de otra convocatoria financiada o cofinanciada por Minciencias u otra entidad estatal colombiana que apoye movilidades internacionales para el mismo destino.",
+      "texto": "El investigador principal no podrá desempeñar este rol en más de una propuesta de movilidad en la presente convocatoria (al cual se referencia en el Anexo 1).",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El investigador principal no podrá desempeñar este rol en más de una propuesta de movilidad en la presente convocatoria.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La entidad que avala la propuesta y su representante legal no pueden estar incursos en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades legales.",
+      "texto": "La entidad que avala la propuesta y su representante legal no pueden estar incursos en ninguna de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     }
@@ -217,60 +197,6 @@
       "puntaje_max": 3.0,
       "peso_pct": null,
       "descripcion": null
-    },
-    {
-      "nombre": "CALIDAD CIENTÍFICA DEL PROYECTO DE INVESTIGACIÓN",
-      "puntaje_max": 30.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "JUSTIFICACIÓN",
-      "puntaje_max": 10.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "PRODUCTOS ESPERADOS",
-      "puntaje_max": 5.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "CONFORMACIÓN DEL EQUIPO DE INVESTIGACIÓN",
-      "puntaje_max": 10.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "PERTINENCIA DE LA PROPUESTA DE MOVILIDAD",
-      "puntaje_max": 20.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "VALOR DE LA COOPERACIÓN Y EFECTO MULTIPLICADOR",
-      "puntaje_max": 15.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "ENFOQUE DIFERENCIAL",
-      "puntaje_max": 3.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "JÓVENES INVESTIGADORES Y SEMILLEROS DE INVESTIGACIÓN",
-      "puntaje_max": 4.0,
-      "peso_pct": null,
-      "descripcion": null
-    },
-    {
-      "nombre": "FORTALECIMIENTO DE CAPACIDADES TERRITORIALES DE CTeI",
-      "puntaje_max": 3.0,
-      "peso_pct": null,
-      "descripcion": null
     }
   ],
   "financiacion": {
@@ -280,7 +206,7 @@
     "plazo_max_meses": 36,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
-    "fuente_recursos": "CDP No. 22922 del 06 de enero del 2022",
+    "fuente_recursos": "CDP No. 22922 del 06 de enero del 2022, Ministerio de Ciencia, Tecnología e Innovación",
     "notas": "Los Centros Autónomos reconocidos no están obligados a realizar aportes de contrapartida. La convocatoria no financia seguros médicos, inscripciones, tasas aeroportuarias, trámites consulares u otros gastos adicionales."
   },
   "meta": {
@@ -289,70 +215,77 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1283,
+        "chars_enviados": 1218,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 706,
-          "completion_tokens": 1975
+          "prompt_tokens": 600,
+          "completion_tokens": 289
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1019,
+        "chars_enviados": 991,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 562,
-          "completion_tokens": 275
+          "prompt_tokens": 570,
+          "completion_tokens": 266
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1526,
+        "chars_enviados": 1409,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 817,
-          "completion_tokens": 378
+          "prompt_tokens": 763,
+          "completion_tokens": 2272
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 6766,
+        "chars_enviados": 6468,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2308,
-          "completion_tokens": 1245
+          "prompt_tokens": 2147,
+          "completion_tokens": 2714
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4083,
+          "completion_tokens": 289
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2208,
+        "chars_enviados": 3533,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1036,
-          "completion_tokens": 189
+          "prompt_tokens": 1387,
+          "completion_tokens": 187
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1512,
+        "chars_enviados": 1415,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 842,
-          "completion_tokens": 1921
+          "prompt_tokens": 844,
+          "completion_tokens": 421
         }
       }
     }
@@ -376,10 +309,10 @@
         "modo": "no_elegible",
         "rol_sugerido": null,
         "bloqueantes": [
-          "La convocatoria solo permite postulaciones de investigadores individuales (Junior, Asociado, Senior, Emérito) y estudiantes de doctorado, no de instituciones como IES."
+          "La convocatoria no lista IES/universidades como actor elegible; solo investigadores individuales y estudiantes de doctorado."
         ],
         "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario, como IES, no puede postularse como institución a esta convocatoria de movilidad académica, ya que los actores elegibles son investigadores individuales con reconocimiento vigente y estudiantes de doctorado. La universidad podría actuar como entidad ejecutora avalando a sus investigadores, pero no como postulante directo."
+        "resumen": "La Universidad del Rosario no puede postularse como institución a esta convocatoria, ya que los actores elegibles son exclusivamente investigadores con reconocimiento vigente y estudiantes de doctorado. La institución solo podría participar como entidad avaladora, pero no como proponente."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -388,10 +321,10 @@
       "modo": "no_elegible",
       "rol_sugerido": null,
       "bloqueantes": [
-        "La convocatoria solo permite postulaciones de investigadores individuales (Junior, Asociado, Senior, Emérito) y estudiantes de doctorado, no de instituciones como IES."
+        "La convocatoria no lista IES/universidades como actor elegible; solo investigadores individuales y estudiantes de doctorado."
       ],
       "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario, como IES, no puede postularse como institución a esta convocatoria de movilidad académica, ya que los actores elegibles son investigadores individuales con reconocimiento vigente y estudiantes de doctorado. La universidad podría actuar como entidad ejecutora avalando a sus investigadores, pero no como postulante directo.",
+      "resumen": "La Universidad del Rosario no puede postularse como institución a esta convocatoria, ya que los actores elegibles son exclusivamente investigadores con reconocimiento vigente y estudiantes de doctorado. La institución solo podría participar como entidad avaladora, pero no como proponente.",
       "fuente": "reglas+llm"
     }
   }

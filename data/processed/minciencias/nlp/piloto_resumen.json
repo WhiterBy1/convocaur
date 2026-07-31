@@ -1,38 +1,32 @@
 [
   {
-    "convocatoria": "48",
-    "objetivo_len": 259,
-    "n_actores": 8,
-    "alianza_obligatoria": true,
-    "n_lineas": 18,
-    "n_requisitos": 17,
+    "convocatoria": "35",
+    "objetivo_len": 338,
+    "n_actores": 2,
+    "alianza_obligatoria": null,
+    "n_lineas": 29,
+    "n_requisitos": 23,
     "n_rechazo": 0,
-    "n_criterios": 3,
-    "monto_cop": 749982430291.0,
-    "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\desarrollo\\data\\processed\\minciencias_tdr_nlp\\convocatoria_48_nlp.json"
+    "n_criterios": 9,
+    "monto_cop": 400000000000.0,
+    "urosario_puede_postularse": true,
+    "urosario_modo": "solo_en_alianza",
+    "urosario_rol": "ejecutora",
+    "archivo": "D:\\Descargas 2\\Proyecto SAMSUNG\\trabajo\\convocaur\\data\\processed\\minciencias\\nlp\\convocatoria_35_nlp.json"
   },
   {
-    "convocatoria": "45",
-    "objetivo_len": 388,
-    "n_actores": 5,
-    "alianza_obligatoria": false,
-    "n_lineas": 2,
-    "n_requisitos": 25,
-    "n_rechazo": 10,
-    "n_criterios": 6,
-    "monto_cop": 200000000000.0,
-    "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\desarrollo\\data\\processed\\minciencias_tdr_nlp\\convocatoria_45_nlp.json"
-  },
-  {
-    "convocatoria": "976",
-    "objetivo_len": 297,
-    "n_actores": 4,
+    "convocatoria": "972",
+    "objetivo_len": 396,
+    "n_actores": 15,
     "alianza_obligatoria": true,
-    "n_lineas": 9,
-    "n_requisitos": 15,
-    "n_rechazo": 7,
-    "n_criterios": 11,
-    "monto_cop": 24000000000.0,
-    "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\desarrollo\\data\\processed\\minciencias_tdr_nlp\\convocatoria_976_nlp.json"
+    "n_lineas": 17,
+    "n_requisitos": 24,
+    "n_rechazo": 1,
+    "n_criterios": 17,
+    "monto_cop": null,
+    "urosario_puede_postularse": true,
+    "urosario_modo": "solo_en_alianza",
+    "urosario_rol": "ejecutora",
+    "archivo": "D:\\Descargas 2\\Proyecto SAMSUNG\\trabajo\\convocaur\\data\\processed\\minciencias\\nlp\\convocatoria_972_nlp.json"
   }
 ]

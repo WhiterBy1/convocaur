@@ -1,6 +1,6 @@
 {
   "convocatoria": "924",
-  "objetivo": "Formar profesionales, en focos priorizados por el Departamento del Atlántico que promuevan iniciativas de articulación academia - empresa - sector productivo, para afrontar los procesos de competitividad y desarrollo regional de manera eficiente.",
+  "objetivo": "Formar profesionales en focos priorizados por el Departamento del Atlántico que promuevan iniciativas de articulación academia-empresa-sector productivo para afrontar los procesos de competitividad y desarrollo regional de manera eficiente.",
   "actores_elegibles": [
     {
       "tipo": "Servidores públicos",
@@ -9,85 +9,140 @@
     }
   ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Buen gobierno en los entes territoriales locales",
+      "modalidad": null,
+      "descripcion_corta": "Temática priorizada enfocada en buen gobierno a nivel de entes territoriales locales."
+    },
+    {
+      "nombre": "Buen gobierno para el desarrollo municipal y departamental",
+      "modalidad": null,
+      "descripcion_corta": "Temática priorizada enfocada en buen gobierno para el desarrollo a nivel municipal y departamental."
+    },
+    {
+      "nombre": "Definición de políticas públicas para mejorar indicadores de buen gobierno",
+      "modalidad": null,
+      "descripcion_corta": "Temática priorizada enfocada en definición de políticas públicas para mejorar indicadores de buen gobierno."
+    },
+    {
+      "nombre": "O programas relacionados, según la oferta académica",
+      "modalidad": null,
+      "descripcion_corta": "Temática priorizada que incluye otros programas relacionados según la oferta académica."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Ser colombiano y adjuntar fotocopia de la cédula de ciudadanía legible.",
+      "texto": "Ser colombiano. Adjuntar fotocopia de la cédula de ciudadanía legible por ambas caras.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Ser servidor público de una entidad del sector público en el Departamento del Atlántico, adjuntando certificación expedida en 2022.",
+      "texto": "Ser servidor de una entidad del sector público en el Departamento del Atlántico. Adjuntar certificación expedida por la entidad que conste vinculación, con fecha de expedición del año 2022.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Tener título profesional y adjuntar copia del diploma o acta de grado (convalidado si es del exterior).",
+      "texto": "Tener título profesional. Adjuntar copia del diploma o acta de grado del pregrado. Si es en el exterior, debe estar convalidado por el Ministerio de Educación Nacional.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Estar admitido o estudiando una maestría en universidad acreditada por MEN (con domicilio en Atlántico) y adjuntar certificación de 2022.",
+      "texto": "Estar admitido o estudiando un programa de maestría en una universidad acreditada por el Ministerio de Educación Nacional, con domicilio en el Departamento del Atlántico. Adjuntar certificación de la oficina responsable de la universidad, con fecha de expedición del 2022.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar certificado de notas del pregrado con promedio general en escala de 0 a 5 (o equivalencia si es diferente).",
+      "texto": "Adjuntar el certificado de notas del pregrado o el certificado del promedio general acumulado del pregrado, emitido por el área responsable de la universidad, señalando explícitamente el promedio general acumulado en una escala de 0 a 5. Si la escala es diferente, adjuntar la equivalencia.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Contar con carta de aval de la entidad pública de vinculación según modelo Anexo 1, firmada por representante legal, talento humano o supervisor.",
-      "tipo": "documental",
+      "texto": "Contar con la carta de aval de la entidad pública de vinculación, comprometiéndose a otorgar tiempo para la realización de los estudios de maestría. Adjuntar la carta en el modelo del Anexo 1, firmada por el representante legal, área de talento humano o supervisor.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para servidores públicos de poblaciones afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto o con discapacidad: anexar certificación correspondiente (opcional).",
+      "texto": "Para servidores públicos miembros de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto armado o con discapacidad, anexar certificación expedida por la entidad correspondiente. Este requisito es opcional y no inhabilitante.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Adjuntar formato de no inhabilidad diligenciado y firmado según Anexo 2.",
+      "texto": "Adjuntar diligenciado y firmado el formato de no inhabilidad según el Anexo 2.",
       "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No tener título de maestría.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No haber recibido financiación previa para maestría o doctorado por parte del Ministerio o con recursos del Sistema General de Regalías.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No recibir financiación simultánea de otras convocatorias financiadas con recursos del Sistema General de Regalías.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Cumplir con todos los requisitos y lineamientos de los TdR y subsanar dentro de los plazos.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No estar incurso en causales de prohibiciones, incompatibilidades, impedimentos, inhabilidades o conflicto de intereses.",
-      "tipo": "habilitante",
       "severidad": "obligatorio"
     }
   ],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
+  "causales_rechazo": [
+    {
+      "texto": "No legalizar el crédito educativo ante el operador académico y financiero."
+    },
+    {
+      "texto": "No cumplir con las obligaciones establecidas por el operador académico y financiero."
+    },
+    {
+      "texto": "No iniciar los estudios a más tardar en el segundo semestre de 2022."
+    },
+    {
+      "texto": "El programa de maestría no está registrado ante el Ministerio de Educación Nacional en el SNIES."
+    },
+    {
+      "texto": "El programa de maestría no se oferta en universidades acreditadas del Departamento del Atlántico."
+    },
+    {
+      "texto": "El programa de maestría es virtual, semipresencial o a distancia."
+    },
+    {
+      "texto": "No mantener un promedio académico semestral mínimo de 3.8 (o su equivalente en escala de 0.0 a 5.0) durante el desarrollo del programa."
+    },
+    {
+      "texto": "Solicitar financiación para rubros no mencionados en la convocatoria."
+    },
+    {
+      "texto": "No resultar financiable según los criterios de evaluación de la convocatoria."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Ubicación de la entidad pública en la que se encuentra vinculado el candidato",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Se asigna puntaje según ubicación: fuera de Barranquilla 25 puntos, en Barranquilla 15 puntos."
+    },
+    {
+      "nombre": "Promedio académico del pregrado",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Se asigna puntaje según promedio: >=4.7 y <=5.0: 20 pts; >=4.3 y <4.7: 15 pts; >=4.1 y <4.3: 10 pts; >=3.8 y <4.1: 5 pts."
+    },
+    {
+      "nombre": "Estado frente al programa académico",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Se asigna puntaje según estado: Admitido 30 puntos, Estudiando 20 puntos."
+    },
+    {
+      "nombre": "Edad del funcionario público",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Se asigna puntaje según edad: <=28 años: 15 pts; entre 29 y 39: 10 pts; 40 en adelante: 5 pts."
+    },
+    {
+      "nombre": "Pertenece a población afrocolombiana, indígena, raizal, ROM o palenquera, se encuentra en condición de discapacidad o es víctima del conflicto armado",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se asigna 10 puntos si pertenece a alguna de estas poblaciones."
+    }
+  ],
   "financiacion": {
-    "monto_total_texto": "NOVECIENTOS SETENTA Y CINCO MILLONES SETECIENTOS MIL PESOS M/CTE ($975.700.000)",
+    "monto_total_texto": "$975.700.000",
     "monto_total_cop": 975700000.0,
     "plazo_min_meses": null,
     "plazo_max_meses": 24,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
-    "fuente_recursos": "Fondo de Ciencia, Tecnología e Innovación del Sistema General de Regalías asignados al Departamento del Atlántico por el OCAD del FCTeI",
-    "notas": "Presupuesto total de la convocatoria. Monto máximo por beneficiario: $44.350.000. Plazo máximo de dos años (24 meses). Se financian matrícula y curso de inglés (hasta $10.000.000)."
+    "fuente_recursos": "Fondo de Ciencia, Tecnología e Innovación del Sistema General de Regalías (SGR) asignados al Departamento del Atlántico",
+    "notas": "Período máximo de 2 años. Monto máximo por beneficiario: $44.350.000. Rubros: matrícula (según universidad) y curso de inglés hasta $10.000.000. No incluye gastos de convocatoria, selección, legalización o seguimiento. Los beneficiarios pueden usar los recursos en ambos rubros o solo matrícula. Si se postulan a varias convocatorias financiadas, deben escoger una."
   },
   "meta": {
     "secciones": {
@@ -95,57 +150,78 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 542,
+        "chars_enviados": 526,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 364,
-          "completion_tokens": 374
+          "prompt_tokens": 333,
+          "completion_tokens": 57
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 237,
+        "chars_enviados": 232,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 367,
-          "completion_tokens": 335
+          "prompt_tokens": 362,
+          "completion_tokens": 393
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4240,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1371,
+          "completion_tokens": 1044
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4755,
+        "chars_enviados": 4431,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1592,
-          "completion_tokens": 2620
+          "prompt_tokens": 1506,
+          "completion_tokens": 2228
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2239,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 825,
+          "completion_tokens": 980
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": true,
-        "chars_enviados": 14018,
+        "truncado": false,
+        "chars_enviados": 2737,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4318,
-          "completion_tokens": 217
+          "prompt_tokens": 1143,
+          "completion_tokens": 1460
         }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1331,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 810,
+          "completion_tokens": 2060
+        }
       }
     }
   },
@@ -168,10 +244,12 @@
         "modo": "no_elegible",
         "rol_sugerido": null,
         "bloqueantes": [
-          "La convocatoria no lista IES/universidades como actor elegible; está dirigida a servidores públicos del Atlántico."
+          "La convocatoria está dirigida exclusivamente a servidores públicos del Departamento del Atlántico, no a instituciones educativas.",
+          "Universidad del Rosario no es una entidad del sector público ni tiene sede en el Atlántico.",
+          "Los requisitos exigen que el beneficiario curse una maestría en una universidad acreditada con domicilio en el Atlántico, lo cual no aplica a la Universidad del Rosario."
         ],
         "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque no es un actor elegible según el tipo de participante requerido (servidores públicos del Atlántico). Además, la convocatoria no contempla IES como proponentes o ejecutoras."
+        "resumen": "La Universidad del Rosario no puede postularse porque la convocatoria está diseñada para servidores públicos del Atlántico que estudian maestrías en universidades de esa región. La universidad no es un actor elegible ni cumple las condiciones geográficas."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -180,10 +258,12 @@
       "modo": "no_elegible",
       "rol_sugerido": null,
       "bloqueantes": [
-        "La convocatoria no lista IES/universidades como actor elegible; está dirigida a servidores públicos del Atlántico."
+        "La convocatoria está dirigida exclusivamente a servidores públicos del Departamento del Atlántico, no a instituciones educativas.",
+        "Universidad del Rosario no es una entidad del sector público ni tiene sede en el Atlántico.",
+        "Los requisitos exigen que el beneficiario curse una maestría en una universidad acreditada con domicilio en el Atlántico, lo cual no aplica a la Universidad del Rosario."
       ],
       "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque no es un actor elegible según el tipo de participante requerido (servidores públicos del Atlántico). Además, la convocatoria no contempla IES como proponentes o ejecutoras.",
+      "resumen": "La Universidad del Rosario no puede postularse porque la convocatoria está diseñada para servidores públicos del Atlántico que estudian maestrías en universidades de esa región. La universidad no es un actor elegible ni cumple las condiciones geográficas.",
       "fuente": "reglas+llm"
     }
   }

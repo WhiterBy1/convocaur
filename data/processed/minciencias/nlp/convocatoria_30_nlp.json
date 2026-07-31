@@ -1,42 +1,167 @@
 {
   "convocatoria": "30",
-  "objetivo": null,
+  "objetivo": "Conformar un listado de proyectos elegibles para el fortalecimiento de capacidades de innovación del sector empresarial en las regiones y aumentar la transferencia y adopción de tecnologías como base para comercializar productos (bienes y servicios) con valor agregado, basados en la investigación y uso del conocimiento científico",
   "actores_elegibles": [],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento de capacidades para la gestión, adopción e implementación de procesos de innovación del sector empresarial regional",
+      "modalidad": "Mecanismo de participación 1",
+      "descripcion_corta": "Proyectos para fortalecer capacidades de innovación empresarial en regiones."
+    },
+    {
+      "nombre": "Proyectos para la validación comercial de prototipos de nuevas tecnologías, productos y servicios en las regiones",
+      "modalidad": "Mecanismo de participación 2",
+      "descripcion_corta": "Proyectos para validar comercialmente prototipos tecnológicos en regiones."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y con la información del numeral 7.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigido A' establecido para el mecanismo de participación al que se postule.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para proyectos de una sola entidad, anexar 'Carta de aval y compromiso institucional' (Anexo 1a) firmada por el representante legal o apoderado, junto con documentos que acrediten su facultad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para proyectos en alianza, anexar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1b) firmada por representantes legales de todas las entidades nacionales, con documentos de acreditación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico según el contenido del numeral 7.1 (Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto requerido según el numeral 7.2 (Anexo 3), cumpliendo las condiciones de duración y financiación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5) con soportes, demostrando experiencia en al menos un proyecto de CTeI en los últimos cinco años o con recursos del SGR.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales en la propuesta, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo en alianza, demostrar constitución mínima de un año a partir de la apertura de la convocatoria y no estar en liquidación o reestructuración; presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para el mecanismo de participación 1, presentar en el documento técnico (Anexo 2) la metodología para la selección de beneficiarios finales y proveedores de servicios de innovación.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para el mecanismo de participación 2, presentar en el documento técnico (Anexo 2) el formato de presentación de la novedad y potencial de mercado del proyecto.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
   "criterios_evaluacion": [],
-  "financiacion": null,
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "No se encontró información financiera en el texto proporcionado (solo cronograma)."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 760,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 393,
+          "completion_tokens": 117
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 912,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 514,
+          "completion_tokens": 116
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2584,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 920,
+          "completion_tokens": 152
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11699,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3510,
+          "completion_tokens": 1962
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3870,
+          "completion_tokens": 13
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1696,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 892,
+          "completion_tokens": 266
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2135,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 866,
+          "completion_tokens": 256
+        }
       }
     }
   },
@@ -60,11 +185,11 @@
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar grupos de investigación reconocidos por Minciencias",
-          "Confirmar experiencia en proyectos de I+D+i",
-          "Validar capacidad de contrapartida si aplica"
+          "Verificar que la Universidad del Rosario cumple con los requisitos de experiencia en proyectos de CTeI (últimos cinco años) según el Anexo 5.",
+          "Validar que la carta de aval y compromiso institucional esté firmada por el representante legal con facultades acreditadas.",
+          "Asegurar que el presupuesto cumple con las condiciones de duración y financiación del numeral 7.2."
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. No se identifican bloqueantes en su perfil, por lo que puede postularse de forma individual como ejecutora, sujeto a verificación de condiciones específicas según la convocatoria."
+        "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse como entidad única (modo 'sola') a la convocatoria, siempre que cumpla con los requisitos documentales y de experiencia específicos."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -74,11 +199,11 @@
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar grupos de investigación reconocidos por Minciencias",
-        "Confirmar experiencia en proyectos de I+D+i",
-        "Validar capacidad de contrapartida si aplica"
+        "Verificar que la Universidad del Rosario cumple con los requisitos de experiencia en proyectos de CTeI (últimos cinco años) según el Anexo 5.",
+        "Validar que la carta de aval y compromiso institucional esté firmada por el representante legal con facultades acreditadas.",
+        "Asegurar que el presupuesto cumple con las condiciones de duración y financiación del numeral 7.2."
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. No se identifican bloqueantes en su perfil, por lo que puede postularse de forma individual como ejecutora, sujeto a verificación de condiciones específicas según la convocatoria.",
+      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse como entidad única (modo 'sola') a la convocatoria, siempre que cumpla con los requisitos documentales y de experiencia específicos.",
       "fuente": "reglas+llm"
     }
   }

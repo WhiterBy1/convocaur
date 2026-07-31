@@ -1,53 +1,257 @@
 {
   "convocatoria": "1051",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "objetivo": "Conformar un listado de elegibles para la financiación de proyectos de innovación en el marco de procesos de apropiación social del conocimiento que contribuyan a solucionar los problemas de productividad que impiden asegurar la soberanía alimentaria, el derecho a la alimentación y la construcción de paz de las comunidades de base negra, afrocolombiana, raizal y palenquera ubicadas en San Andrés, Providencia y Santa Catalina, Antioquia, Bolívar, Cauca, Chocó, Nariño, San Basilio de Palenque y Valle del Cauca.",
+  "actores_elegibles": [
+    {
+      "tipo": "Consejo Comunitario de las Comunidades Negras",
+      "rol": "ejecutor",
+      "condicion": "Ubicado en el Archipiélago de San Andrés, Providencia y Santa Catalina, Antioquia, Bolívar, Cauca, Chocó, Nariño, San Basilio de Palenque o Valle del Cauca. Debe presentar proyectos de innovación en el marco de procesos de apropiación social del conocimiento."
+    },
+    {
+      "tipo": "Organización de base de Comunidades Negras, Afrocolombianas, Raizales y Palenqueras",
+      "rol": "ejecutor",
+      "condicion": "Ubicada en el Archipiélago de San Andrés, Providencia y Santa Catalina, Antioquia, Bolívar, Cauca, Chocó, Nariño, San Basilio de Palenque o Valle del Cauca. Debe presentar proyectos de innovación en el marco de procesos de apropiación social del conocimiento."
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Turismo sostenible asociado a la biodiversidad",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos que fomenten el turismo sostenible a partir del reconocimiento y protección de saberes locales y comunitarios asociados a la biodiversidad."
+    },
+    {
+      "nombre": "Sostenibilidad y seguridad alimentaria",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos centrados en la implementación de prácticas y enfoques que promueven el uso responsable de los recursos naturales, la equidad social y el acceso a alimentos nutritivos."
+    },
+    {
+      "nombre": "Innovación y tecnología en la agricultura",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de desarrollo, implementación y aplicación de nuevas tecnologías y enfoques innovadores para mejorar la eficiencia, sostenibilidad y productividad en el sector agrícola."
+    },
+    {
+      "nombre": "Cambio climático y medio ambiente",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos enfocados en la investigación, estudio y comprensión de los efectos del cambio climático, así como en el desarrollo de soluciones para mitigar y adaptarse."
+    },
+    {
+      "nombre": "Fortalecimiento comunitario",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos basados en la colaboración y participación activa de la comunidad para fortalecer capacidades, fomentar la autogestión y promover el desarrollo sostenible mediante enfoques científicos y tecnológicos."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "No postularse con más de un proyecto de innovación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No alterar los documentos solicitados en la sección de requisitos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad, y estar apto para contratar según la Constitución, Ley y Reglamentos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con todos los requisitos y lineamientos establecidos en los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar siendo financiado simultáneamente con recursos de otra convocatoria del Ministerio o de otra entidad del Estado.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Postularse con más de un (01) proyecto de innovación."
+    },
+    {
+      "texto": "Alterar alguno de los documentos solicitados en la sección de requisitos."
+    },
+    {
+      "texto": "Que la persona jurídica o el representante legal se encuentre incurso en alguna causal de inhabilidad e incompatibilidad y no esté apto para contratar según la Constitución, Ley y Reglamentos."
+    },
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la invitación."
+    },
+    {
+      "texto": "Que el proyecto se encuentre simultáneamente siendo financiado con recursos de otra convocatoria del Ministerio o de otra entidad del Estado."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Experiencia en formulación y ejecución de proyectos",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Se evaluará la experiencia específica del participante ejecutor con el fin de reconocer la idoneidad en la ejecución de recursos financieros, técnicos y humanos. Se valorará que el ejecutor acredite haber participado en más de un proyecto en beneficio de la comunidad de base negra, afrocolombiana, raizal y palenquera."
+    },
+    {
+      "nombre": "Impacto social, económico y ambiental en el territorio",
+      "puntaje_max": 15.0,
+      "peso_pct": 15.0,
+      "descripcion": "Se evaluará el impacto del proyecto en la productividad de los territorios con enfoque sostenible. Se evaluarán también los proyectos que incorporen insumos locales."
+    },
+    {
+      "nombre": "Cooperativismo",
+      "puntaje_max": 7.0,
+      "peso_pct": 7.0,
+      "descripcion": "Se valorará que evidencien alianzas locales, es decir, la postulación de un Consejo comunitario con una o más Organizaciones Comunitarias o la postulación de una o más Organizaciones Comunitarias en conjunto."
+    },
+    {
+      "nombre": "Pertinencia del proyecto como una contribución a la solución de productividad de los retos planteados",
+      "puntaje_max": 13.0,
+      "peso_pct": 13.0,
+      "descripcion": "Se evaluará que el proyecto de innovación frente a los problemas de productividad responda claramente a los retos de garantizar la soberanía alimentaria y/o a la misión de paz, en la comunidad de base donde se proyecte su impacto."
+    },
+    {
+      "nombre": "Calidad en el Proceso de Apropiación Social de Conocimiento",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Se evaluará que el proyecto incluya una metodología sólida y coherente a través de la cual se evidencia que se promueve el trabajo colaborativo y participativo en su estructuración e implementación. Igualmente. Se valorará que los proyectos involucran en su plan de transferencia de conocimiento en la ejecución de la solución a los maestros coinvestigadores del Programa Ondas, y por ende, a la institución educativa de la comunidad con el fin de asegurar la transferencia del conocimiento a las nuevas generaciones."
+    },
+    {
+      "nombre": "Calidad Técnica y viabilidad del proyecto de innovación",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Se evaluará la concordancia entre la descripción del problema o la necesidad, el reto, los objetivos, actividades, metodología, los resultados esperados y el presupuesto definido."
+    },
+    {
+      "nombre": "Componente Innovador",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Se evaluará la descripción respecto a que los resultados del proyecto traerán consigo el desarrollo e introducción al mercado de nuevos o significativamente mejorados productos, procesos y servicios teniendo en cuenta las necesidades locales de las comunidades."
+    },
+    {
+      "nombre": "Resultados Esperados",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "La innovación ha tenido un impacto transformador en el problema social que aborda. Su capacidad de influir en prácticas y sistemas más amplios, generando un cambio sostenible y a largo plazo. Establece un ecosistema sólido de colaboración y apoyo que permite la expansión continua y la adaptación a medida que surgen desafíos."
+    },
+    {
+      "nombre": "Sostenibilidad y Replicabilidad",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Se valorará que el proyecto presente una propuesta de sostenibilidad viable acorde con las actividades, entregables y resultados del proyecto. Así como también, que el proyecto de innovación puedan implementarse en otros contextos con las adecuaciones o adaptaciones pertinentes."
+    },
+    {
+      "nombre": "Enfoque de género",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Se valorará que el equipo de trabajo esté integrado por al menos una mujer."
+    },
+    {
+      "nombre": "Interseccionalidad",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Se valorará que el equipo de trabajo esté conformado por al menos un ciudadano que acredite ser parte de más de un enfoque diferencial, distinto al enfoque étnico de base."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "El texto proporcionado corresponde a un cronograma de actividades, no contiene información sobre financiación."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 518,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 371,
+          "completion_tokens": 851
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1067,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 696,
+          "completion_tokens": 1063
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4090,
+          "completion_tokens": 695
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1493,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 783,
+          "completion_tokens": 1351
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1493,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 702,
+          "completion_tokens": 181
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 469,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 530,
+          "completion_tokens": 111
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7292,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2498,
+          "completion_tokens": 3441
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -55,30 +259,17 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "sola",
-        "rol_sugerido": "ejecutora",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Verificar experiencia en proyectos de I+D+i",
-          "Verificar capacidad de contrapartida si aplica"
-        ],
-        "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y experiencia."
+        "": "JSON inválido"
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "sola",
-      "rol_sugerido": "ejecutora",
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
       "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Verificar experiencia en proyectos de I+D+i",
-        "Verificar capacidad de contrapartida si aplica"
-      ],
-      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y experiencia.",
+      "condiciones_a_verificar": [],
+      "resumen": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "fuente": "reglas+llm"
     }
   }

@@ -1,91 +1,483 @@
 {
   "convocatoria": "35",
-  "objetivo": "Conformar un listado de proyectos estratégicos de formación de capital humano a nivel de doctorado para responder a los retos en Ciencia, Tecnología e Innovación establecidos en el plan bienal de convocatorias 2023-2024, otorgando créditos educativos condonables a 1.000 profesionales que inicien su formación doctoral en el país.",
-  "actores_elegibles": [],
+  "objetivo": "Conformar un listado de proyectos estratégicos de formación de capital humano a nivel de doctorado para responder a los retos en Ciencia, Tecnología e Innovación establecidos en el plan bienal de convocatorias 2023-2024, otorgando créditos educativos condonables a 1.000 profesionales que inicien su formación a nivel doctoral en el país.",
+  "actores_elegibles": [
+    {
+      "tipo": "personas naturales",
+      "rol": "beneficiarios",
+      "condicion": "profesionales colombianos que se formen a nivel de doctorado en programas nacionales con registro calificado vigente"
+    },
+    {
+      "tipo": "instituciones de educación superior",
+      "rol": "ejecutoras",
+      "condicion": "con programas doctorales nacionales con registro calificado vigente"
+    }
+  ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Generación de conocimiento científico y uso del conocimiento (científico, ancestral o tradicional) para la preservación, conservación, monitoreo, manejo y uso sostenible de la biodiversidad.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Modelo de bioeconomía, para impulsar los servicios ecosistémicos, las cadenas de valor, negocios verdes, economía azul, economía circular, economía forestal, los bioproductos y el turismo de naturaleza.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Capacidades, acceso y apropiación social del conocimiento para la preservación, conservación, uso, manejo sostenible de la biodiversidad, mitigación y adaptación al cambio climático.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación para la preservación, conservación, uso, manejo sostenible de la biodiversidad, mitigación y adaptación al cambio climático.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Fortalecimiento de la articulación, gobernanza e innovación pública de la CTeI para la preservación, conservación, uso, manejo sostenible de la biodiversidad, mitigación y adaptación al cambio climático.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Generación de conocimiento científico y uso del conocimiento (científico, ancestral o tradicional) para la productividad agroalimentaria sostenible, social, ambiental y económicamente.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Gestión del Conocimiento y Apropiación Social de la CTeI para los sistemas agroalimentarios, la economía circular y las cadenas de valor.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Generación e implementación de procesos de bioeconomía, agroindustria y agregación de valor en los sistemas agroalimentarios a través de la CTeI para el acceso y disponibilidad de alimentos, que permitan garantizar la seguridad alimentaria y nutricional.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación y transferencia de tecnologías para la producción, transformación, preservación, y agregación de valor en las cadenas agroalimentarias, unidades productivas agropecuarias rurales y la agricultura familiar (urbana, peri urbana y rural), para impulsar la competitividad, resolver brechas tecnológicas de CTeI, fomentar la sostenibilidad y promover la adaptación al cambio climático.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Fortalecimiento de Capacidades Institucionales para dinamizar la gobernanza, la innovación pública de la CTeI, y las políticas y agendas que permitan consolidar la soberanía y seguridad alimentaria, nutricional y el derecho a la alimentación.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Generación y uso de conocimiento en fuentes no convencionales de energías renovables en sistemas de producción y almacenamiento de energía para el uso sostenible de los recursos naturales.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Gestión del conocimiento para el desarrollo de sistemas híbridos que permitan la diversificación de las matrices energéticas a partir de la inclusión de Fuentes No Convencionales de Energías Renovables",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación en fuentes no convencionales de energías renovables en sistemas de producción, almacenamiento, distribución y consumo de energía, que aprovechen sosteniblemente los recursos regionales.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Capacidades y apropiación social de la CTeI para la gestión energética y uso de fuentes no convencionales de energías renovables.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Fortalecimiento de capacidades institucionales que dinamicen la gobernanza y la innovación pública de la CTeI en la producción de energías a partir de fuentes no convencionales de energías renovables, para aprovechar el potencial de los recursos energéticos regionales hacia la transición energética, que involucre toda la cadena de generación, transporte, almacenamiento y distribución de energía.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Generación de conocimiento científico y uso del conocimiento (científico, ancestral o tradicional) y el diálogo de saberes, para mejorar la salud y el bienestar de la población.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Investigación, Desarrollo Tecnológico e Innovación en principios bioactivos de interés farmacológico, dispositivos médicos, vacunas y tecnologías sanitarias, que contribuyan a la prevención, control, vigilancia, tratamiento y disminución de la morbimortalidad por enfermedades.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación para mejorar el bienestar de la población mediante el acceso a servicios de salud, medicamentos (principios bioactivos de interés farmacológico, dispositivos médicos y vacunas) y tecnologías sanitarias, que contribuyan a la prevención, control, vigilancia, tratamiento, disminución de la mortalidad por enfermedades, y al fortalecimiento de la red hospitalaria.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Modelos simplificados y con enfoque diferencial, para mejorar la atención de pacientes y comunidades vulnerables, que reconozcan los determinantes sociales, ambientales, moleculares o genéticos asociados a las enfermedades de mayor prevalencia en la región.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Capacidades y apropiación social de la CTeI para mejorar el bienestar de la población, mediante la promoción de hábitos de vida saludable que respondan a las particularidades geográficas y reconozca los saberes (científico, ancestral o tradicional).",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Fortalecimiento de capacidades institucionales que dinamicen la gobernanza y la innovación pública de la CTeI para: mitigar las problemáticas prioritarias; fomentar la investigación, el desarrollo tecnológico y la innovación del sector salud, e impulsar la transformación digital del sector mediante tecnologías convergentes 4.0 que mejoren la promoción, prevención y atención, así como, el control, vigilancia y rendición de cuentas con participación ciudadana.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Generación y uso de conocimiento para mejorar la convivencia y seguridad ciudadana, el diálogo, la memoria, convivencia y reconciliación, que contribuyan a la comprensión de las distintas formas de violencia y provea soluciones para el establecimiento de una cultura de paz que fomente el cumplimiento de los acuerdos de paz, la inclusión fronteriza, la atención a víctimas de violencia y participación ciudadana en reducción del conflicto y todas las formas de violencia.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación para el fortalecimiento del tejido empresarial, la dinamización económica, el emprendimiento, la empleabilidad, la inclusión productiva, la inserción laboral, la participación ciudadana, la protección de la vida y la transformación del tejido social como mecanismo para generar oportunidades hacia la construcción de paz territorial, el cierre de brechas y la disminución de los índices de violencia.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Capacidades y apropiación social de la CTeI, para la prevención y mitigación de las diferentes formas de violencia, la participación y acompañamiento a población vulnerable y víctimas del conflicto, para la construcción de paz desde un enfoque diferencial e interseccional a través de la CTeI.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Fortalecimiento de Capacidades Institucionales para dinamizar la gobernanza, la acción articulada entre entidades y la innovación pública de la CTeI para mejorar el monitoreo, vigilancia, prevención, respuesta, atención, seguimiento y mitigación de todas las formas de violencia.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Generación y uso de conocimiento para mejorar la planificación y ordenamiento productivo, territorial, social, ambiental y el mejoramiento de la conectividad (aérea, fluvial, terrestre, digital, entre otras), orientadas a la convergencia regional, competitiva y sostenible.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Desarrollo Tecnológico e Innovación para el fortalecimiento de la productividad y competitividad de los ecosistemas departamentales de CTeI, a partir de la planificación y ordenamiento productivo, territorial, social, ambiental y mejoramiento de la conectividad (aérea, fluvial, terrestre, digital, entre otras), orientadas a la convergencia regional, competitiva y sostenible.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Capacidades y apropiación social de la CTeI para propiciar la participación y comunicación de los instrumentos de planificación del territorio que garanticen la participación ciudadana hacia la convergencia regional y el ordenamiento del territorio.",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Fortalecimiento de capacidades institucionales para dinamizar la gobernanza y la innovación pública de la CTeI, para mejorar las capacidades de los gobiernos locales y las comunidades en la elaboración de instrumentos para la toma de decisiones.",
+      "modalidad": null,
+      "descripcion_corta": null
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria y al contenido del numeral 9.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La alianza debe integrar al menos una Institución de Educación Superior Colombiana con programa(s) de Doctorado con registro calificado vigente (MEN) a la fecha de cierre en la región correspondiente.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente debe demostrar acreditación del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología del DNP, con corte al cierre, salvo si no fue medida en los últimos 2 años.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar al menos uno de los siguientes: dos proyectos de formación de alto nivel, dos proyectos de administración de beneficios educativos ejecutados o en ejecución en los últimos 5 años, o un proyecto de CTeI aprobado con recursos SGR relacionado con formación de alto nivel.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el(los) registro(s) calificado(s) de los programas de doctorado vigentes al momento de presentar el proyecto.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los proyectos deben presentarse en alianza y anexar 'Carta de aval, compromiso institucional unificado y Modelo de Gobernanza' firmado por representantes legales o apoderados de todas las entidades nacionales (Anexo 1b).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico según contenido del numeral 9 (Anexo 2), incluido en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los proyectos deben atender al menos una Demanda territorial de los 6 retos estratégicos del plan bienal de convocatorias 2023-2024, registrado en SIGP y Anexo 2.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Establecer un porcentaje mínimo de cupos por región para población con enfoque diferencial (étnico, territorial, género, discapacidad, etc.) según numeral 7. Es obligatoria al menos una categoría.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar presupuesto del proyecto según numeral 8 y 9 (Anexo 3), cumpliendo condiciones de duración y financiación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Solicitar al SGR el monto indicativo para la región objeto del proyecto, garantizando coherencia entre SIGP, Anexo 2 y Anexo 3.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar los Términos de Referencia de la convocatoria para selección de beneficiarios (Anexo 4).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5) con soportes en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si se vinculan Entidades Administradoras de Apoyos Educativos, deben estar constituidas mínimo 1 año antes de la apertura y presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No alterar ningún documento presentado para participar.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad legales.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No incumplir las condiciones y requisitos de los TdR para el proyecto estratégico de formación doctoral.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la totalidad de anexos diligenciados: 1b, 2, 3, 4 y 5.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No solicitar un monto distinto al establecido para la región.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No solicitar un número de cupos distinto al establecido para la región.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentar programas que no sean de Doctorado.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentar programas de Doctorado sin registro calificado vigente ante el MEN a la apertura de la convocatoria.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentar un proyecto que ya cuente con financiación simultánea de otra convocatoria (Ministerio, SGR u otras entidades del Estado).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Congruencia técnica y científica del proyecto",
+      "puntaje_max": 21.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia entre el abordaje de retos, programas doctorales, perfil de beneficiarios, metodología, presupuesto, cronograma y resultados/ productos de CTeI."
+    },
+    {
+      "nombre": "1.2 Términos de referencia para selección de beneficiarios",
+      "puntaje_max": 21.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa los TdR de la convocatoria para selección de beneficiarios, promoviendo equidad y coherencia con el proyecto presentado."
+    },
+    {
+      "nombre": "2.1 Pertinencia y contribución de los programas doctorales",
+      "puntaje_max": 16.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la pertinencia de los programas doctorales para generar nuevo conocimiento y atender interdisciplinariamente demandas territoriales y retos."
+    },
+    {
+      "nombre": "3.1 Experiencia, capacidad técnica e idoneidad del ejecutor y aliados",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la experiencia en proyectos de CTeI relacionados con formación de alto nivel: hasta 3 proyectos 5 pts, 4-5 proyectos 6 pts, más de 6 proyectos 7 pts."
+    },
+    {
+      "nombre": "3.2 Conformación de alianzas entre entidades del SNCTeI",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estructura, coordinación y mecanismos de operación de la alianza para el logro de resultados, incluyendo aspectos legales, administrativos y de propiedad intelectual."
+    },
+    {
+      "nombre": "4.1 Estrategia de divulgación pública de la CTeI",
+      "puntaje_max": 9.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estrategia de divulgación con tres componentes aditivos de 3 pts cada uno: divulgación masiva, visibilidad de actividades y productos de apropiación social."
+    },
+    {
+      "nombre": "4.2 Sostenibilidad del proyecto",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estrategia de sostenibilidad, incluyendo actividades, compromisos y articulación de actores posteriores a la formación de beneficiarios."
+    },
+    {
+      "nombre": "5.1 Porcentaje de población con enfoque diferencial",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de población con enfoque diferencial: 40% (mínimo) 0 pts, 41-50% 4 pts, más de 51% 6 pts."
+    },
+    {
+      "nombre": "5.2 Categorías de enfoque diferencial incluidas",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la inclusión de categorías de enfoque diferencial: solo 1 (mínimo) 0 pts, 2-3 2 pts, 4-5 4 pts, 6-7 6 pts."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "$ 400.000.000.000 CUATROCIENTOS MIL MILLONES DE PESOS M/CTE",
+    "monto_total_cop": 400000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 96,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Asignación para la CTeI del Sistema General de Regalías, bienio 2023-2024",
+    "notas": "Monto total indicativo. Plazo máximo de 96 meses (8 años). No se especifica contrapartida mínima o máxima."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 661,
+        "chars_enviados": 676,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 432,
-          "completion_tokens": 88
+          "prompt_tokens": 419,
+          "completion_tokens": 250
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4195,
+          "completion_tokens": 108
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4207,
+          "completion_tokens": 2308
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13773,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4350,
+          "completion_tokens": 1491
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4142,
+          "completion_tokens": 399
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9774,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3574,
+          "completion_tokens": 162
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8170,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2878,
+          "completion_tokens": 7623
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
-      "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
-      "actores_ies_match": [],
+      "puede_postularse": true,
+      "modo": "elegible_alianza_indefinida",
+      "rol_sugerido": "ejecutora",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) aparece como elegible; no esta claro si la alianza es obligatoria.",
+      "actores_ies_match": [
+        {
+          "tipo": "instituciones de educación superior",
+          "rol": "ejecutoras",
+          "condicion": "con programas doctorales nacionales con registro calificado vigente"
+        }
+      ],
       "condiciones_pendientes": [],
-      "capa": "reglas"
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
     },
     "llm": {
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Validar grupos de investigación reconocidos por Minciencias",
-          "Verificar capacidad institucional para formación doctoral",
-          "Confirmar contrapartida y cofinanciación si aplica"
+          "Contar con programas de doctorado con registro calificado vigente",
+          "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP",
+          "Acreditar experiencia en proyectos de formación de alto nivel o administración de beneficios educativos o proyectos CTeI con SGR relacionados con formación",
+          "Presentar carta de aval y modelo de gobernanza firmado por representantes legales de todas las entidades de la alianza"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias de formación de capital humano a nivel doctoral, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad institucional."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse en esta convocatoria, pero debe hacerlo en alianza con al menos otra IES que cuente con programas doctorales con registro calificado. Se sugiere que actúe como entidad ejecutora, sujeto a verificación de condiciones específicas como acreditación IGPR y experiencia en proyectos de formación."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Validar grupos de investigación reconocidos por Minciencias",
-        "Verificar capacidad institucional para formación doctoral",
-        "Confirmar contrapartida y cofinanciación si aplica"
+        "Contar con programas de doctorado con registro calificado vigente",
+        "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP",
+        "Acreditar experiencia en proyectos de formación de alto nivel o administración de beneficios educativos o proyectos CTeI con SGR relacionados con formación",
+        "Presentar carta de aval y modelo de gobernanza firmado por representantes legales de todas las entidades de la alianza"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias de formación de capital humano a nivel doctoral, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad institucional.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse en esta convocatoria, pero debe hacerlo en alianza con al menos otra IES que cuente con programas doctorales con registro calificado. Se sugiere que actúe como entidad ejecutora, sujeto a verificación de condiciones específicas como acreditación IGPR y experiencia en proyectos de formación.",
       "fuente": "reglas+llm"
     }
   }

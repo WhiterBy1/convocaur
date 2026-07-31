@@ -1,66 +1,106 @@
 {
   "convocatoria": "918",
-  "objetivo": "Fortalecer las interacciones entre los actores del SNCTI mediante proyectos de investigación que contribuyan a solucionar problemas de salud pública a nivel regional, generando conocimiento e impactos con relevancia científica, tecnológica, económica, social y competitiva para el país.",
+  "objetivo": "Fortalecer las interacciones entre los diferentes actores del SNCTI mediante el desarrollo de proyectos de investigación, que contribuyan a la solución de los principales problemas y necesidades de salud pública a nivel regional, a través de la generación de conocimiento e impactos, con relevancia científica, tecnológica, económica, social y competitiva para el país.",
   "actores_elegibles": [
     {
       "tipo": "Instituciones de educación superior",
-      "rol": "Ejecutor/Co-ejecutor",
+      "rol": "EJECUTOR",
+      "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+    },
+    {
+      "tipo": "Instituciones de educación superior",
+      "rol": "COEJECUTOR",
       "condicion": null
     },
     {
-      "tipo": "Institutos/Centros de investigación",
-      "rol": "Ejecutor/Co-ejecutor",
-      "condicion": "con reconocimiento vigente por Minciencias"
+      "tipo": "Institutos / Centros de investigación y Centros de desarrollo tecnológico con reconocimiento vigente",
+      "rol": "EJECUTOR",
+      "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
     },
     {
-      "tipo": "Centros de desarrollo tecnológico",
-      "rol": "Ejecutor/Co-ejecutor",
-      "condicion": "con reconocimiento vigente por Minciencias"
+      "tipo": "Institutos / Centros de investigación y Centros de desarrollo tecnológico con reconocimiento vigente",
+      "rol": "COEJECUTOR",
+      "condicion": null
     },
     {
       "tipo": "Organizaciones sin ánimo de lucro",
-      "rol": "Ejecutor/Co-ejecutor",
+      "rol": "EJECUTOR",
+      "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+    },
+    {
+      "tipo": "Organizaciones sin ánimo de lucro",
+      "rol": "COEJECUTOR",
       "condicion": null
     },
     {
       "tipo": "Entidades gubernamentales",
-      "rol": "Ejecutor/Co-ejecutor",
+      "rol": "EJECUTOR",
+      "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+    },
+    {
+      "tipo": "Entidades gubernamentales",
+      "rol": "COEJECUTOR",
       "condicion": null
     },
     {
       "tipo": "Sector productivo",
-      "rol": "Ejecutor/Co-ejecutor",
-      "condicion": "persona jurídica de economía mixta, pública o privada, nacional o extranjera con domicilio en Colombia mínimo 2 años antes del cierre; o entidad articuladora (pública, Cámara de Comercio, OSAL)"
+      "rol": "EJECUTOR",
+      "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018. Incluye personas jurídicas de economía mixta, pública o privada, y entidades articuladoras como entidades públicas, cámaras de comercio y organizaciones sin ánimo de lucro."
+    },
+    {
+      "tipo": "Sector productivo",
+      "rol": "COEJECUTOR",
+      "condicion": null
     },
     {
       "tipo": "Organizaciones sociales",
-      "rol": "Ejecutor/Co-ejecutor",
+      "rol": "EJECUTOR",
+      "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+    },
+    {
+      "tipo": "Organizaciones sociales",
+      "rol": "COEJECUTOR",
       "condicion": null
     },
     {
       "tipo": "Organizaciones no gubernamentales",
-      "rol": "Ejecutor/Co-ejecutor",
+      "rol": "EJECUTOR",
+      "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+    },
+    {
+      "tipo": "Organizaciones no gubernamentales",
+      "rol": "COEJECUTOR",
       "condicion": null
     },
     {
-      "tipo": "Entidades colombianas o extranjeras",
-      "rol": "Co-ejecutor",
-      "condicion": "adicionales al mínimo de actores, deben demostrar participación y compromiso técnico y presupuestal"
+      "tipo": "Otras entidades colombianas o extranjeras",
+      "rol": "COEJECUTOR",
+      "condicion": "Deben demostrar participación y compromiso técnico y presupuestal (aportes de contrapartida)"
     },
     {
-      "tipo": "Institutos/Centros de investigación o desarrollo tecnológico no reconocidos por Minciencias",
-      "rol": "Co-ejecutor",
-      "condicion": "adicionales al mínimo de actores, deben demostrar participación y compromiso técnico y presupuestal"
+      "tipo": "Otras entidades colombianas o extranjeras",
+      "rol": "COLABORADORA",
+      "condicion": "No reciben recursos de financiación ni realizan aportes de contrapartida, pero contribuyen al alcance de los objetivos"
+    },
+    {
+      "tipo": "Institutos / Centros de investigación o desarrollo tecnológico no reconocidos",
+      "rol": "COEJECUTOR",
+      "condicion": "Deben demostrar participación y compromiso técnico y presupuestal (aportes de contrapartida)"
+    },
+    {
+      "tipo": "Institutos / Centros de investigación o desarrollo tecnológico no reconocidos",
+      "rol": "COLABORADORA",
+      "condicion": "No reciben recursos de financiación ni realizan aportes de contrapartida, pero contribuyen al alcance de los objetivos"
     },
     {
       "tipo": "Otros actores del SNCTI",
-      "rol": "Co-ejecutor",
-      "condicion": "adicionales al mínimo de actores, deben demostrar participación y compromiso técnico y presupuestal"
+      "rol": "COEJECUTOR",
+      "condicion": "Deben demostrar participación y compromiso técnico y presupuestal (aportes de contrapartida)"
     },
     {
-      "tipo": "Entidades colaboradoras",
-      "rol": "Colaborador",
-      "condicion": "no reciben recursos ni aportan contrapartida, contribuyen a objetivos del proyecto"
+      "tipo": "Otros actores del SNCTI",
+      "rol": "COLABORADORA",
+      "condicion": "No reciben recursos de financiación ni realizan aportes de contrapartida, pero contribuyen al alcance de los objetivos"
     }
   ],
   "alianza_obligatoria": true,
@@ -123,77 +163,108 @@
   ],
   "requisitos": [
     {
-      "texto": "Cumplir con las especificaciones del numeral 3 'Dirigida A' definido en los presentes términos de referencia.",
+      "texto": "Cumplir con las especificaciones del numeral 3 'Dirigida A' de los TdR.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP en una única temática y categoría de las establecidas en el numeral 4.",
+      "texto": "Inscribir el proyecto en el SIGP en una única temática y categoría del numeral 4.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar carta unificada de aval y compromiso institucional debidamente diligenciada y firmada por los Representantes legales de las entidades que hagan parte de la alianza en calidad de ejecutor y coejecutor o quien haga sus veces, siempre y cuando se anexe el documento que lo faculte para firmar. La contrapartida debe corresponder mínimo al 30% del valor total de la propuesta constituido en aportes en dinero y/o en especie, que refleje la participación y aportes de todas las entidades que conforman la alianza (Anexo 2).",
+      "texto": "Presentar carta unificada de aval y compromiso institucional (Anexo 2) firmada por representantes legales de todas las entidades ejecutoras y coejecutoras, con contrapartida mínima del 30% del valor total de la propuesta en dinero y/o especie.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El Investigador Principal de la propuesta debe estar categorizado como Senior o Asociado, según los resultados de la convocatoria 833-2018 o categoría Emérito y estar vinculado a la entidad Ejecutora (Anexar certificado que lo acredite) y adscrito al grupo de investigación A1, A, B o C que lidera la alianza.",
+      "texto": "El Investigador Principal debe estar categorizado como Senior, Asociado o Emérito (según convocatoria 833-2018) y estar vinculado a la entidad ejecutora y adscrito a un grupo de investigación A1, A, B o C.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Los actores del SNCTI que hagan parte de la alianza deben estar legalmente constituidos en Colombia, como mínimo dos años antes de la fecha de cierre de la presente Convocatoria, lo cual se verificará a través del registro mercantil o el acto administrativo de creación.",
+      "texto": "Los actores del SNCTI de la alianza deben estar legalmente constituidos en Colombia al menos dos años antes del cierre de la convocatoria (verificable mediante registro mercantil o acto administrativo).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las entidades del sector productivo participantes no deben encontrarse en proceso de liquidación, lo cual deberá constar a través de certificados emitidos por contadores o revisores fiscales. Si alguna entidad tiene constitución fuera del país, se deberá demostrar sucursal con personería jurídica en Colombia. Toda la documentación que permita verificar el cumplimiento de este requisito deberá ser presentada como anexo de la propuesta.",
+      "texto": "Las entidades del sector productivo no deben estar en proceso de liquidación; presentar certificado de contador o revisor fiscal. Si hay entidad internacional, debe demostrar sucursal con personería jurídica en Colombia.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar el aval del Comité de Ética/Bioética nacional donde especifique claramente que la propuesta ha sido revisada y avalada en sus componentes éticos e instrumentos a emplear. Adicionalmente, se debe anexar a este aval, el acto administrativo que soporta la conformación del Comité de Ética que lo expide. En caso de que la institución que presenta la propuesta no cuente con un Comité de ética, podrá solicitar este aval ante otra entidad nacional que cuente con este Comité.",
+      "texto": "Presentar aval del Comité de Ética/Bioética nacional que avale la propuesta, junto con el acto administrativo de conformación del comité. Si la entidad no cuenta con comité, puede solicitar aval ante otra entidad nacional.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar las evidencias del trámite o la existencia de permisos y licencias necesarios para la ejecución de la propuesta, de acuerdo con la normatividad colombiana vigente (para validación en la etapa de evaluación de la propuesta).",
+      "texto": "Presentar evidencias del trámite o existencia de permisos y licencias requeridos por la normatividad colombiana para la ejecución de la propuesta.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No cumplir con los requisitos y lineamientos establecidos en los Términos de Referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos por el Ministerio de Ciencia, Tecnología e Innovación.",
+      "texto": "No incumplir los requisitos y lineamientos de los TdR o no subsanarlos en los plazos establecidos.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Que el Investigador Principal se presente con este mismo rol en más de una propuesta en esta convocatoria. El Ministerio de Ciencia, Tecnología e Innovación verificará si el investigador principal del proyecto presenta más de una propuesta; si eso ocurre solo se tendrá en cuenta la primera propuesta presentada.",
+      "texto": "El Investigador Principal no puede presentarse con ese rol en más de una propuesta en esta convocatoria.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Que la propuesta presentada esté financiada simultáneamente con recursos de otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación o Entidades del Estado.",
+      "texto": "La propuesta no debe estar financiada simultáneamente con recursos de otra convocatoria de Minciencias o entidades del Estado.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad establecidas por Ley y/o que tengan impedimento legal para contratar.",
+      "texto": "No estar incurso en causales de inhabilidad, incompatibilidad o impedimento legal para contratar.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta (calidad teórico-metodológica, pregunta-problema, coherencia técnica-presupuestal, viabilidad)",
+      "puntaje_max": 45.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Relevancia y pertinencia en salud pública",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Resultados y productos esperados y mecanismos de transferencia y apropiación social",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Conformación y articulación de la alianza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Fortalecimiento de las capacidades regionales",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    }
+  ],
   "financiacion": {
-    "monto_total_texto": "Hasta DIECIOCHO MIL MILLONES DE PESOS M/CTE ($18.000.000.000)",
+    "monto_total_texto": "DIECIOCHO MIL MILLONES DE PESOS M/CTE ($18.000.000.000)",
     "monto_total_cop": 18000000000.0,
     "plazo_min_meses": 24,
     "plazo_max_meses": 36,
     "contrapartida_pct_min": 30.0,
-    "contrapartida_pct_max": null,
-    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
-    "notas": "Contrapartida mínima del 30% del valor solicitado. Nota 1: Centros/institutos autónomos no requieren contrapartida, pero otras entidades deben cubrir el 30%. Nota 2: Recursos FIS disponibles para salud. Nota 3: No financiamiento simultáneo."
+    "contrapartida_pct_max": 30.0,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación (CDP No. 122 del 15 de marzo del 2022)",
+    "notas": "Monto máximo por proyecto: $900.000.000 COP. Contrapartida mínima del 30% del valor solicitado, en dinero o especie. Excepciones para Centros/Institutos Autónomos según Res 1473 de 2016 (sin contrapartida, costos de administración hasta 15%)."
   },
   "meta": {
     "secciones": {
@@ -201,70 +272,77 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1160,
+        "chars_enviados": 1131,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 493,
-          "completion_tokens": 67
+          "prompt_tokens": 481,
+          "completion_tokens": 82
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4424,
+        "chars_enviados": 4326,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1466,
-          "completion_tokens": 563
+          "prompt_tokens": 1513,
+          "completion_tokens": 9591
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 8232,
+        "chars_enviados": 7991,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2471,
-          "completion_tokens": 823
+          "prompt_tokens": 2404,
+          "completion_tokens": 440
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 6969,
+        "chars_enviados": 6770,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2214,
-          "completion_tokens": 1187
+          "prompt_tokens": 2180,
+          "completion_tokens": 1851
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3987,
+          "completion_tokens": 204
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2727,
+        "chars_enviados": 2635,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1146,
-          "completion_tokens": 1166
+          "prompt_tokens": 1113,
+          "completion_tokens": 222
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 504,
+        "chars_enviados": 844,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 476,
-          "completion_tokens": 11
+          "prompt_tokens": 577,
+          "completion_tokens": 235
         }
       }
     }
@@ -275,16 +353,27 @@
       "puede_postularse": true,
       "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
-      "confianza": "alta",
+      "confianza": "media",
       "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
       "actores_ies_match": [
         {
           "tipo": "Instituciones de educación superior",
-          "rol": "Ejecutor/Co-ejecutor",
+          "rol": "EJECUTOR",
+          "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+        },
+        {
+          "tipo": "Instituciones de educación superior",
+          "rol": "COEJECUTOR",
           "condicion": null
         }
       ],
-      "condiciones_pendientes": [],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
       "capa": "reglas",
       "perfil_usado": {
         "nombre": "Universidad del Rosario",
@@ -299,8 +388,10 @@
         "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria. Puede actuar como ejecutora o coejecutora, pero no en solitario. No se identifican bloqueantes adicionales."
+        "condiciones_a_verificar": [
+          "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse únicamente en alianza con otros actores del SNCTI. Su rol sugerido es como ejecutora, pero debe verificar que cuenta con un grupo de investigación categorizado según la convocatoria 833 de 2018."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -309,8 +400,10 @@
       "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria. Puede actuar como ejecutora o coejecutora, pero no en solitario. No se identifican bloqueantes adicionales.",
+      "condiciones_a_verificar": [
+        "Debe contar con un grupo de investigación categorizado como A1, A, B o C según convocatoria 833 de 2018"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse únicamente en alianza con otros actores del SNCTI. Su rol sugerido es como ejecutora, pero debe verificar que cuenta con un grupo de investigación categorizado según la convocatoria 833 de 2018.",
       "fuente": "reglas+llm"
     }
   }

@@ -1,53 +1,232 @@
 {
   "convocatoria": "29",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "objetivo": "Conformar listados de propuestas de proyecto elegibles enfocadas en el fortalecimiento de capacidades de innovación para el aumento de la competitividad, la productividad y el desarrollo social del país.",
+  "actores_elegibles": [
+    {
+      "tipo": "Academia",
+      "rol": null,
+      "condicion": "Instituciones de Educación Superior públicas o privadas, incluyendo las señaladas en el artículo 137 de la Ley 30 de 1992 (ESAP, ITEC, ICyC, UMNG, escuelas de formación, SENA, END)."
+    },
+    {
+      "tipo": "Sector Productivo",
+      "rol": null,
+      "condicion": "Personas jurídicas de economía mixta, pública o privada, con o sin ánimo de lucro, gremios, cámaras de comercio, cajas de compensación, centros de desarrollo empresarial, corporaciones; además entidades clasificadas como generación de conocimiento, desarrollo tecnológico o innovación (centros de investigación, OTRIS, EIA, incubadoras, parques científicos, etc.)."
+    },
+    {
+      "tipo": "Estado",
+      "rol": null,
+      "condicion": "Entidades gubernamentales del orden nacional, regional, departamental o municipal."
+    },
+    {
+      "tipo": "Sociedad Civil Organizada",
+      "rol": null,
+      "condicion": "Asociaciones, fundaciones, corporaciones, entidades del tercer sector, agremiaciones, grupos u organizaciones comunitarias con personería jurídica. Las organizaciones de base comunitaria con representación legal deben incluirse como aliados; las sin representación legal pueden participar como beneficiarios."
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento de capacidades de innovación para el aumento de la competitividad, la productividad y el desarrollo social del país",
+      "modalidad": null,
+      "descripcion_corta": "Propuestas enfocadas en atender demandas territoriales definidas por los CODECTI para la línea de innovación."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustada al objetivo de la convocatoria, con la información requerida en el numeral 8.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigido A' establecido en los términos de referencia.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para propuestas de una sola entidad, anexar la 'Carta de aval y compromiso institucional' (Anexo 1a) firmada por el representante legal o apoderado, junto con los documentos que lo acrediten.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para propuestas en alianza, anexar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1b) firmada por los representantes legales de todas las entidades nacionales, con los documentos que los acrediten.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico según el contenido indicado en el numeral 8, subnumeral 8.1 (Anexo 2).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto requerido según el numeral 8, subnumeral 8.2 (Anexo 3), cumpliendo las condiciones del numeral 10 sobre duración y financiación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5), diligenciado, con soportes (convenios, contratos, etc.) en la plataforma SIGP. Demostrar experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos de CTeI del SGR.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales que formen parte de la propuesta, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo vinculadas en alianza, demostrar constitución mínima de 3 años a partir de la fecha de apertura de la convocatoria y no estar en liquidación o reestructuración. Presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar en el documento técnico (Anexo 2) la metodología para la selección del (los) beneficiario(s) final(es) y de los proveedores de servicios de innovación a implementar.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1. Congruencia entre los diferentes componentes del proyecto (problemática, objetivos, alternativa de solución, metodología, cadena de valor, presupuesto y sostenibilidad) para conseguir los resultados propuestos en CteI",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia interna del proyecto en sus componentes."
+    },
+    {
+      "nombre": "2.1. La propuesta de proyecto contribuye al fortalecimiento de capacidades en innovación en las empresas",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Mide la contribución al fortalecimiento de capacidades de innovación en empresas según su facturación en el año anterior."
+    },
+    {
+      "nombre": "2.2. La propuesta de proyecto presenta el listado de empresa(s) a beneficiar con servicios de innovación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Verifica que se incluya el listado de empresas a beneficiar."
+    },
+    {
+      "nombre": "3.1. Experiencia y trayectoria de la entidad proponente, sus aliados, así como del equipo de trabajo en la ejecución de proyectos de CTeI en las áreas relacionadas con la temática del proyecto",
+      "puntaje_max": 23.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa años de experiencia, proyectos ejecutados y empresas fortalecidas/apoyadas en innovación empresarial."
+    },
+    {
+      "nombre": "3.2. En la alianza se identifica la participación de diferentes hélices del ecosistema CTeI",
+      "puntaje_max": 12.0,
+      "peso_pct": null,
+      "descripcion": "Puntúa la diversidad de hélices (Academia, Empresa, Estado, Sociedad) y reconocimiento por Minciencias."
+    },
+    {
+      "nombre": "4.1. Relación y articulación de los resultados y productos de la propuesta con las demandas territoriales seleccionadas",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la pertinencia del proyecto con las demandas territoriales."
+    },
+    {
+      "nombre": "5.1. La propuesta de proyecto incluye población con enfoque diferencial (Talento humano de proponentes o aliados o Beneficiarios)",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Incentiva la inclusión de población con enfoque diferencial."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "OCHENTA Y DOS MIL NOVECIENTOS VEINTICUATRO MILLONES QUINIENTOS VEINTISEISMIL OCHOCIENTOS DIECINUEVE PESOS CON NOVENTA Y CUATRO CENTAVOS M/CTE ($ 82.924.526.819,94)",
+    "monto_total_cop": 82924526819.94,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 30,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías (SGR)",
+    "notas": "Plazo máximo de ejecución de 30 meses. Se asignan recursos del SGR por $82.924.526.819,94 distribuidos en dos grupos: Asignación Nacional (30.000 millones) y Asignación Departamental (52.924.526.814,94). Las propuestas pueden solicitar entre 3.000 y 5.000 millones para el grupo nacional, y desde 1.400 millones hasta el monto indicativo departamental para el grupo departamental. Además, la intervención para beneficiarios finales tiene una duración máxima de 15 meses."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 203,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 265,
+          "completion_tokens": 52
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6426,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1980,
+          "completion_tokens": 1348
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 901,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 519,
+          "completion_tokens": 93
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11684,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3524,
+          "completion_tokens": 1651
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3868,
+          "completion_tokens": 221
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8249,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2518,
+          "completion_tokens": 1326
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4387,
+          "completion_tokens": 3130
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -57,28 +236,24 @@
       "data": {
         "puede_postularse": true,
         "modo": "sola",
-        "rol_sugerido": "ejecutora",
+        "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar acreditación institucional vigente",
-          "Verificar grupos de investigación avalados por Minciencias",
-          "Verificar capacidad institucional para ejecutar proyectos"
+          "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos CTeI del SGR (según requisito muestra)."
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse como ejecutora en convocatorias que no requieran alianza obligatoria. Se debe verificar su capacidad institucional y grupos de investigación."
+        "resumen": "Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como proponente individual en esta convocatoria, dado que las IES están incluidas en los actores elegibles. Debe verificar el cumplimiento del requisito de experiencia mínima en proyectos de CTeI."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
       "modo": "sola",
-      "rol_sugerido": "ejecutora",
+      "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar acreditación institucional vigente",
-        "Verificar grupos de investigación avalados por Minciencias",
-        "Verificar capacidad institucional para ejecutar proyectos"
+        "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos CTeI del SGR (según requisito muestra)."
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse como ejecutora en convocatorias que no requieran alianza obligatoria. Se debe verificar su capacidad institucional y grupos de investigación.",
+      "resumen": "Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como proponente individual en esta convocatoria, dado que las IES están incluidas en los actores elegibles. Debe verificar el cumplimiento del requisito de experiencia mínima en proyectos de CTeI.",
       "fuente": "reglas+llm"
     }
   }

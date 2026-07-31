@@ -1,258 +1,362 @@
 {
   "convocatoria": "940",
-  "objetivo": "Conformar un Banco de Elegibles para la financiación de movilidades internacionales, en el marco del desarrollo de propuestas conjuntas de investigación, desarrollo tecnológico e innovación (I+D+i), formuladas con pares internacionales ubicados en Alemania o Francia.",
+  "objetivo": "Conformar un Banco de Elegibles para la financiación de movilidades internacionales, en el marco del desarrollo de propuestas conjuntas de investigación, desarrollo tecnológico e innovación- I+D+i, formuladas con pares internacionales ubicados en Alemania o Francia.",
   "actores_elegibles": [
     {
-      "tipo": "Entidad del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI)",
-      "rol": "Presentar la propuesta de I+D+i",
-      "condicion": null
+      "tipo": "Entidad del SNCTI",
+      "rol": "Proponente",
+      "condicion": "Modalidad Nacional: Debe presentar una propuesta de I+D+i que incluya un investigador Junior, Asociado, Senior o Emérito con reconocimiento vigente y un estudiante de doctorado con registro calificado vigente."
     },
     {
-      "tipo": "Investigador (Junior, Asociado, Senior o Emérito)",
-      "rol": "Miembro del equipo de investigación",
-      "condicion": "Reconocimiento vigente por Minciencias al cierre de la convocatoria, colombiano o extranjero domiciliado en Colombia, vinculado a la propuesta de una entidad SNCTI"
-    },
-    {
-      "tipo": "Estudiante de doctorado",
-      "rol": "Miembro del equipo de investigación",
-      "condicion": "Programa de doctorado con registro calificado vigente del MEN, colombiano o extranjero domiciliado en Colombia, vinculado a la propuesta de una entidad SNCTI"
-    },
-    {
-      "tipo": "Graduado de maestría",
-      "rol": "Miembro del equipo de investigación",
-      "condicion": "Graduado de maestría, colombiano o extranjero domiciliado en Colombia, vinculado a la propuesta de una entidad SNCTI con domicilio fuera de áreas metropolitanas especificadas (Modalidad 2 Regional)"
+      "tipo": "Entidad del SNCTI",
+      "rol": "Proponente",
+      "condicion": "Modalidad Regional: Debe presentar una propuesta de I+D+i que incluya un investigador Junior, Asociado, Senior o Emérito con reconocimiento vigente y un graduado de maestría o estudiante de doctorado con registro calificado vigente; además, la entidad debe tener domicilio diferente a las áreas metropolitanas de Bogotá-Cundinamarca, Valle de Aburrá, Cali, Barranquilla y Bucaramanga."
     }
   ],
   "alianza_obligatoria": true,
   "lineas_tematicas": [
     {
       "nombre": "Misión Bioeconomía y territorio",
-      "modalidad": null,
+      "modalidad": "ECOS NORD FRANCIA",
       "descripcion_corta": "Aprovechar el conocimiento, conservación y el uso sostenible de la biodiversidad, sus bienes y servicios ecosistémicos."
     },
     {
       "nombre": "Misión Hambre Cero",
-      "modalidad": null,
+      "modalidad": "ECOS NORD FRANCIA",
       "descripcion_corta": "Garantizar la soberanía alimentaria y el derecho a la alimentación."
     },
     {
       "nombre": "Misión Transición Energética",
-      "modalidad": null,
+      "modalidad": "ECOS NORD FRANCIA",
       "descripcion_corta": "Asegurar la generación, acceso y uso de energías sostenibles para todos los colombianos."
     },
     {
       "nombre": "Misión Autonomía Sanitaria",
-      "modalidad": null,
+      "modalidad": "ECOS NORD FRANCIA",
       "descripcion_corta": "Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional."
     },
     {
       "nombre": "Misión Ciencia para la Paz",
-      "modalidad": null,
+      "modalidad": "ECOS NORD FRANCIA",
       "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia."
     },
     {
       "nombre": "Ciudades Inteligentes",
-      "modalidad": null,
+      "modalidad": "ECOS NORD FRANCIA",
       "descripcion_corta": null
     },
     {
       "nombre": "Ciencias de la Educación",
-      "modalidad": null,
+      "modalidad": "ECOS NORD FRANCIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Bioeconomía y Territorio",
+      "modalidad": "DAAD ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Hambre Cero",
+      "modalidad": "DAAD ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Transición Energética",
+      "modalidad": "DAAD ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Autonomía Sanitaria",
+      "modalidad": "DAAD ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Ciencia para la Paz",
+      "modalidad": "DAAD ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias de la educación",
+      "modalidad": "DAAD ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Bioeconomía y territorio",
+      "modalidad": "BMBF ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Transición Energética",
+      "modalidad": "BMBF ALEMANIA",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Misión Autonomía Sanitaria",
+      "modalidad": "BMBF ALEMANIA",
       "descripcion_corta": null
     },
     {
       "nombre": "Geociencias",
-      "modalidad": null,
+      "modalidad": "BMBF ALEMANIA",
       "descripcion_corta": null
     }
   ],
   "requisitos": [
     {
-      "texto": "Cumplir con lo establecido en el numeral 3 'Dirigido a' de los TdR.",
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los presentes términos de referencia.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Inscribir la propuesta completa en el Sistema Integrado de Gestión de Proyectos (SIGP) dentro del cronograma.",
+      "texto": "Inscribir la propuesta completa del Programa de I+D+i en el Sistema Integrado de Gestión de Proyectos (SIGP) según las fechas del cronograma.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar carta de aval y compromiso institucional (Anexo 1) con contrapartida mínima del 50% del valor a financiar.",
+      "texto": "Adjuntar Carta Unificada de Aval y Compromiso Institucional suscrita por el representante legal o delegado, especificando contrapartida mínima del 50% respecto al valor a financiar por el Ministerio.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Aportar contrapartida mínima del 50% respecto al valor a financiar por el Ministerio.",
-      "tipo": "financiero",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Entidad del SNCTI debe estar constituida al menos 24 meses antes de la apertura, verificable en RUES o documento equivalente.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El investigador vinculado debe tener reconocimiento vigente (Junior, Asociado, Senior o Emérito) al cierre, verificado en CVLAC.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Estudiante de doctorado debe anexar certificado de estudiante activo, cursando al menos primer semestre, con expedición no mayor a 30 días.",
+      "texto": "La entidad SNCTI colombiana debe estar constituida al menos 24 meses antes de la apertura de la convocatoria, verificable en RUES o certificado equivalente.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Graduado de maestría debe anexar título de grado o acta de grado.",
+      "texto": "El investigador vinculado debe tener reconocimiento vigente como Junior, Asociado, Senior o Emérito por Minciencias (Convocatoria 894 de 2021) al cierre de la convocatoria.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El estudiante de doctorado debe anexar certificado de la IES que acredite su condición de estudiante activo, cursando al menos el primer semestre, con fecha de expedición no mayor a 30 días calendario antes del cierre.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Entregar información diligenciada del equipo de trabajo (Anexo 2).",
+      "texto": "El graduado de maestría debe anexar el título de grado o el acta de grado de la maestría.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Postulantes a movilidad deben tener hoja de vida actualizada en CVLAC.",
+      "texto": "Entregar la información diligenciada de cada miembro del equipo de trabajo (líder, postulantes a movilidad y otros) según Anexo 2.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Diligenciar el Formato de Movilidad (Anexo 3) con datos de investigadores, cronograma y fechas de movilidades.",
+      "texto": "Los postulantes a ser beneficiarios de la movilidad deben tener su hoja de vida actualizada en el aplicativo CVLAC de Minciencias.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Diligenciar en SIGP la información de productos esperados, actividades y resultados de circulación de conocimiento.",
+      "texto": "Diligenciar el Formato de Movilidad (Anexo 3) con datos de investigadores colombianos y extranjeros postulantes, cronograma y fechas de movilidades.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Investigadores europeos deben presentar la propuesta conjunta ante la contraparte europea (Ecos Nord, DAAD-PROCOL o BMBF).",
+      "texto": "Diligenciar en la plataforma SIGP la información de productos esperados, relacionando actividades y resultados deseados en circulación de conocimiento especializado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los investigadores europeos deben presentar la propuesta conjunta de CTeI ante la contraparte europea (Ecos Nord, DAAD-PROCOL o BMBF) y radicarla en su plataforma.",
       "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para acreditación de enfoque diferencial (opcional): anexar certificado de auto reconocimiento, cabildo, víctimas o discapacidad según corresponda.",
+      "texto": "Para postulantes de población negra, afrocolombiana, raizal, palenquera o ROM: anexar Certificado de Auto Reconocimiento del Ministerio del Interior.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "La propuesta no puede ser financiada si es beneficiaria de dos o más convocatorias que apoyen movilidades internacionales.",
-      "tipo": "habilitante",
+      "texto": "Para postulantes de comunidad indígena: anexar Certificado del Registro de la Autoridad o Cabildo expedido por el Ministerio del Interior.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para postulantes víctimas del conflicto armado: anexar Certificado expedido por la Unidad para la Atención y Reparación Integral para las Víctimas.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para postulantes en condición de discapacidad: anexar Certificado de Discapacidad expedido por IPS autorizada por la Secretaría de Salud.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "La propuesta de I+D+i no debe ser beneficiaria de dos o más convocatorias financiadas o cofinanciadas por Minciencias u otra entidad del Estado que apoyen movilidades internacionales.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Los aspirantes a movilizaciones no pueden ser beneficiarios de otra convocatoria que apoye movilidades internacionales.",
-      "tipo": "habilitante",
+      "texto": "Los aspirantes a movilizaciones no deben ser beneficiarios de otra convocatoria financiada o cofinanciada por Minciencias u otra entidad del Estado que apoye movilidades internacionales.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El investigador principal no puede desempeñar ese rol en más de una propuesta postulada en esta convocatoria.",
-      "tipo": "habilitante",
+      "texto": "El investigador principal no puede desempeñar ese rol en más de una propuesta de I+D+i postulada en esta convocatoria.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad y su representante legal no pueden estar incursos en causales de prohibiciones, incompatibilidades o inhabilidades.",
-      "tipo": "habilitante",
+      "texto": "La entidad que presenta la propuesta y su representante legal no deben estar incursos en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades establecidas en la Ley.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente.",
-      "tipo": "habilitante",
+      "texto": "Cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en caso de ser beneficiado.",
+      "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No estar incurso en inhabilidades o incompatibilidades para contratar según Constitución y ley.",
-      "tipo": "habilitante",
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad para contratar según Constitución, Ley 80 de 1993 y demás normas aplicables.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
       "texto": "No alterar ninguno de los documentos solicitados en la sección de requisitos.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Solicitar financiación solo para tiquetes aéreos y gastos de estadía, no para otros rubros como seguros o inscripciones.",
-      "tipo": "financiero",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Los tiquetes aéreos financiados deben ser en clase económica.",
-      "tipo": "financiero",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Proyectar al menos una movilidad internacional por cada postulante al beneficio en el formato de movilidad.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El cronograma de movilidad en SIGP debe reflejar la distribución lógica y justa de recursos entre los dos beneficiarios.",
-      "tipo": "documental",
+      "tipo": "otro",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "CALIDAD CIENTÍFICA",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa claridad de la pregunta de investigación, coherencia con hipótesis, fundamentos científicos, objetivos, cronograma y productos esperados (hasta 15 puntos). También evalúa diseño metodológico según tipología de CTeI y correspondencia entre procedimientos y objetivos (hasta 15 puntos)."
+    },
+    {
+      "nombre": "CONFORMACIÓN DEL EQUIPO DE INVESTIGACIÓN",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa experiencia y formación del líder (hasta 5 puntos) y de los miembros del equipo (hasta 5 puntos) en relación con la temática de la propuesta."
+    },
+    {
+      "nombre": "CRONOGRAMA DE MOVILIDADES INTERNACIONALES",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la distribución lógica de recursos según el planteamiento de la propuesta y la repartición justa para la movilización de los dos beneficiarios."
+    },
+    {
+      "nombre": "PRODUCTOS ESPERADOS",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Reconoce procesos que generen circulación del conocimiento especializado, evaluando la justificación del producto esperado y el indicador de medición."
+    },
+    {
+      "nombre": "PERTINENCIA DE LA PROPUESTA DE MOVILIDAD",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa las razones por las cuales es necesaria la movilidad internacional para obtener resultados esperados, como intercambio de conocimientos, experiencias, instrumentos, infraestructura o abordajes metodológicos."
+    },
+    {
+      "nombre": "VALOR DE LA COOPERACIÓN Y EFECTO MULTIPLICADOR",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el impacto de la propuesta sobre la cooperación bilateral entre los dos países involucrados en el corto, mediano y largo plazo."
+    },
+    {
+      "nombre": "FORTALECIMIENTO DE CAPACIDADES TERRITORIALES DE CTeI",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Justifica soluciones a necesidades de CTeI en sectores estratégicos para el desarrollo productivo y social de regiones específicas (departamentos IDIC medio, medio bajo o bajo, municipios PDET o no metropolitanos)."
+    },
+    {
+      "nombre": "ENFOQUE DIFERENCIAL",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el beneficiario se identifica como parte de un grupo de enfoque diferencial (3 puntos) o bajo interseccionalidad (5 puntos)."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "MIL DOSCIENTOS TREINTA Y OCHO MILLONES CUATROCIENTOS MIL PESOS MCTE",
+    "monto_total_cop": 1238400000.0,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": 50.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "CDR Global No. 18330, Convenio Especial de Cooperación No. 322 del 2023",
+    "notas": "Contrapartida mínima del 50% del valor solicitado, excepto Centros Autónomos. Solo se financia tiquetes aéreos clase económica y gastos de estadía."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 271,
+        "chars_enviados": 266,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 281,
-          "completion_tokens": 66
+          "prompt_tokens": 359,
+          "completion_tokens": 366
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4595,
+        "chars_enviados": 4419,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1706,
-          "completion_tokens": 1780
+          "prompt_tokens": 1620,
+          "completion_tokens": 1228
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 5108,
+        "chars_enviados": 4914,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1695,
-          "completion_tokens": 2490
+          "prompt_tokens": 1630,
+          "completion_tokens": 672
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": true,
-        "chars_enviados": 14018,
+        "truncado": false,
+        "chars_enviados": 10742,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4405,
-          "completion_tokens": 3748
+          "prompt_tokens": 3327,
+          "completion_tokens": 3072
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3955,
+          "completion_tokens": 176
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3559,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1411,
+          "completion_tokens": 922
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3847,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1423,
+          "completion_tokens": 1352
+        }
       }
     }
   },
@@ -272,31 +376,35 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "elegible_con_condiciones",
         "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Contar con investigador con reconocimiento vigente (Junior, Asociado, Senior o Emérito) al cierre de la convocatoria",
-          "Aportar contrapartida mínima del 50% del valor a financiar",
-          "Adjuntar carta de aval y compromiso institucional con contrapartida mínima del 50%",
-          "Verificar que la entidad esté constituida al menos 24 meses antes de la apertura (probablemente cumple)"
+          "Contar con investigador reconocido por Minciencias (Junior, Asociado, Senior, Emérito) vigente al cierre",
+          "Incluir estudiante de doctorado con registro calificado vigente (modalidad nacional) o graduado de maestría (modalidad regional)",
+          "Asegurar contrapartida mínima del 50% del valor solicitado",
+          "Constitución de la entidad por al menos 24 meses antes de la apertura",
+          "Gestión de alianza internacional con entidad de Alemania o Francia",
+          "Presentar carta de aval y compromiso institucional suscrita por representante legal"
         ],
-        "resumen": "La Universidad del Rosario, como entidad del SNCTI, puede postularse como proponente en esta convocatoria de movilidades internacionales. Deberá cumplir con los requisitos de investigador categorizado, contrapartida y documentación."
+        "resumen": "La Universidad del Rosario, como IES privada y actor SNCTI, es elegible para postularse como proponente en la modalidad nacional de la convocatoria, siempre que cumpla con los requisitos de contar con investigador categorizado, estudiante de doctorado o graduado de maestría, y la contrapartida financiera del 50%. Además, debe presentar una propuesta conjunta con un par internacional de Alemania o Francia."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "elegible_con_condiciones",
       "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Contar con investigador con reconocimiento vigente (Junior, Asociado, Senior o Emérito) al cierre de la convocatoria",
-        "Aportar contrapartida mínima del 50% del valor a financiar",
-        "Adjuntar carta de aval y compromiso institucional con contrapartida mínima del 50%",
-        "Verificar que la entidad esté constituida al menos 24 meses antes de la apertura (probablemente cumple)"
+        "Contar con investigador reconocido por Minciencias (Junior, Asociado, Senior, Emérito) vigente al cierre",
+        "Incluir estudiante de doctorado con registro calificado vigente (modalidad nacional) o graduado de maestría (modalidad regional)",
+        "Asegurar contrapartida mínima del 50% del valor solicitado",
+        "Constitución de la entidad por al menos 24 meses antes de la apertura",
+        "Gestión de alianza internacional con entidad de Alemania o Francia",
+        "Presentar carta de aval y compromiso institucional suscrita por representante legal"
       ],
-      "resumen": "La Universidad del Rosario, como entidad del SNCTI, puede postularse como proponente en esta convocatoria de movilidades internacionales. Deberá cumplir con los requisitos de investigador categorizado, contrapartida y documentación.",
+      "resumen": "La Universidad del Rosario, como IES privada y actor SNCTI, es elegible para postularse como proponente en la modalidad nacional de la convocatoria, siempre que cumpla con los requisitos de contar con investigador categorizado, estudiante de doctorado o graduado de maestría, y la contrapartida financiera del 50%. Además, debe presentar una propuesta conjunta con un par internacional de Alemania o Francia.",
       "fuente": "reglas+llm"
     }
   }

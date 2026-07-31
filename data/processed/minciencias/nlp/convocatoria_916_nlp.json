@@ -4,177 +4,253 @@
   "actores_elegibles": [
     {
       "tipo": "Docentes de aula",
-      "rol": "Docente",
-      "condicion": "Desempeñarse en niveles de preescolar, básica o media; tener asignación académica en matemáticas, lenguaje, ciencias naturales o ciencias sociales (incluyendo filosofía); pertenecer a establecimientos educativos oficiales en el Departamento de Cundinamarca; estar nombrados en propiedad o en periodo de prueba; contar con admisión a uno de los programas ofertados en la convocatoria."
+      "rol": null,
+      "condicion": "Deben desempeñarse en niveles de preescolar, básica o media, con asignación en matemáticas, lenguaje, ciencias naturales o ciencias sociales (incluyendo filosofía), de establecimientos educativos oficiales en Cundinamarca, nombrados en propiedad o periodo de prueba, y con admisión a uno de los programas ofertados en la convocatoria."
     }
   ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Prácticas pedagógicas",
+      "modalidad": "Investigación",
+      "descripcion_corta": "Formación de capital humano en investigación en prácticas pedagógicas para establecimientos educativos oficiales de Cundinamarca."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Ser colombiano y mayor de edad: adjuntar fotocopia del documento de identidad por ambas caras ampliado al 150%.",
+      "texto": "Ser colombiano y mayor de edad: Adjuntar fotocopia del documento de identidad por ambas caras ampliado al 150%.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Ser docente de aula con nombramiento en propiedad o en periodo de prueba en establecimientos educativos oficiales del Departamento de Cundinamarca: adjuntar certificación expedida por la Secretaría de Educación (Anexo 1) con fecha posterior a la apertura de la convocatoria.",
+      "texto": "Ser docente de aula con nombramiento en propiedad o en periodo de prueba en establecimientos educativos oficiales del Departamento de Cundinamarca: Adjuntar certificación expedida por la Secretaría de Educación del Departamento o Municipio (Anexo 1) con fecha posterior a la apertura de la convocatoria.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Desempeñarse en niveles de preescolar, básica o media y tener asignación académica en matemáticas, lenguaje, ciencias naturales, ciencias sociales (incluyendo filosofía) o todas las anteriores: adjuntar certificación firmada por el rector (Anexo 2).",
+      "texto": "Desempeñarse en niveles de preescolar, básica o media y tener asignación académica en matemáticas, lenguaje, ciencias naturales, ciencias sociales (incluyendo filosofía) o todas: Adjuntar certificación firmada por el rector (Anexo 2).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Tener título profesional: adjuntar copia del diploma o acta de grado del pregrado; si es del exterior, debe estar convalidado por el MEN.",
+      "texto": "Tener título profesional: Adjuntar copia del diploma o acta de grado del pregrado. Si es en el exterior, debe estar convalidado por el MEN y adjuntar resolución.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar certificado de notas del pregrado que contenga el promedio general acumulado en escala de 0 a 5, o equivalencia si la escala es diferente.",
+      "texto": "Adjuntar certificado de notas del pregrado con promedio general acumulado en escala de 0 a 5, o equivalencia si la escala es diferente.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Contar con admisión a uno de los programas ofertados en esta convocatoria y no haber iniciado estudios: adjuntar carta de admisión expedida por la universidad en el último año.",
+      "texto": "Contar con admisión a uno de los programas ofertados (numeral 6) y no haber iniciado estudios: Adjuntar carta de admisión expedida por la universidad en el último año.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Compromiso del docente para realizar una propuesta de investigación como trabajo de grado y declaración de no estar inhabilitado: adjuntar carta diligenciada y firmada (Anexo 3).",
+      "texto": "Compromiso del docente para realizar una propuesta de investigación como trabajo de grado y declaración de no estar inhabilitado: Adjuntar carta diligenciada y firmada (Anexo 3).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para quienes aplique, haber participado o estar participando como docente del Programa ONDAS: anexar certificación firmada por la entidad implementadora; si no aplica, adjuntar comunicación informándolo.",
+      "texto": "Para quienes aplique, haber participado o estar participando como docente del Programa ONDAS: Anexar certificación firmada por la entidad implementadora en Cundinamarca. Si no aplica, adjuntar comunicación informándolo.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para miembros de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto armado o con discapacidad: anexar certificación correspondiente (opcional, no inhabilitante).",
+      "texto": "Para candidatos de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto armado o con discapacidad: anexar certificación correspondiente (Ministerio del Interior, Unidad para las Víctimas o EPS) con fecha máxima de 3 meses antes del cierre. Opcional y no inhabilitante.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "No haber recibido financiación para un programa de maestría o doctorado a través de convocatorias del Ministerio de Ciencia, Tecnología e Innovación en años anteriores o con recursos del Sistema General de Regalías.",
+      "texto": "No haber recibido financiación para maestría o doctorado en convocatorias anteriores de Minciencias o con recursos del Sistema General de Regalías.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No tener un título de formación igual o superior al nivel ofertado en estos términos de referencia.",
+      "texto": "No tener título de formación igual o superior al nivel ofertado.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No haber iniciado estudios en uno de los programas y universidades ofertados en esta convocatoria.",
+      "texto": "No haber iniciado estudios en uno de los programas y universidades ofertados.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No estar en comisión, exceptuando a los docentes tutores vinculados al Programa Todos a Aprender (PTA).",
+      "texto": "No estar en comisión, exceptuando a docentes tutores del Programa Todos a Aprender (PTA).",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No estar incurso en causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley.",
+      "texto": "No estar incurso en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades legales.",
       "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Realizar la inscripción a través del aplicativo electrónico FORMACIÓN DE ALTO NIVEL disponible en el sitio web del Ministerio de Ciencia, Tecnología e Innovación.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Diligenciar y/o actualizar en su totalidad la hoja de vida en la herramienta CvLAC antes de ingresar al aplicativo FORMACIÓN DE ALTO NIVEL.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Presentar toda la documentación requerida en formato digital PDF, con un tamaño total no superior a 3 MB; no se aceptan archivos .ZIP o .RAR.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No enviar información por medios distintos al aplicativo indicado (correo postal, fax, correo electrónico, etc.).",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Realizar la inscripción dentro del plazo establecido en el cronograma de la convocatoria; las inscripciones extemporáneas no serán tenidas en cuenta.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El proceso de admisión debe adelantarse a un único programa de maestría ofertado; participar con dos o más programas resulta en retiro del proceso.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Si el aspirante aplica simultáneamente a dos o más convocatorias de Formación de Alto Nivel financiadas por Minciencias o SGR y resulta favorecido, debe escoger solo una e informarlo por escrito.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Mantener un promedio académico semestral mínimo de 3.8 (o equivalente en escala 0.0 a 5.0) durante el desarrollo de la maestría.",
-      "tipo": "tecnico",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "Rural",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Ubicación del establecimiento educativo oficial al que se encuentra vinculado el docente de aula."
+    },
+    {
+      "nombre": "Urbano",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Ubicación del establecimiento educativo oficial al que se encuentra vinculado el docente de aula."
+    },
+    {
+      "nombre": "No certificado",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Clasificación del municipio en el que se encuentra ubicado el establecimiento educativo oficial del docente de aula."
+    },
+    {
+      "nombre": "Certificado",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Clasificación del municipio en el que se encuentra ubicado el establecimiento educativo oficial del docente de aula."
+    },
+    {
+      "nombre": "Menor de 50 años",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Edad del docente de aula a la fecha de cierre de la presente convocatoria."
+    },
+    {
+      "nombre": "Mayor o igual de 50 años",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Edad del docente de aula a la fecha de cierre de la presente convocatoria."
+    },
+    {
+      "nombre": "Única",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Tipo de jornada implementada en el establecimiento educativo oficial al que se encuentra vinculado el docente."
+    },
+    {
+      "nombre": "Tradicional",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Tipo de jornada implementada en el establecimiento educativo oficial al que se encuentra vinculado el docente."
+    },
+    {
+      "nombre": "Si",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Candidatos que sean miembros de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto armado o que tengan alguna condición de discapacidad."
+    },
+    {
+      "nombre": "No",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Candidatos que sean miembros de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto armado o que tengan alguna condición de discapacidad."
+    },
+    {
+      "nombre": "Si",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Docentes de aula que hayan o estén participando en el Programa ONDAS."
+    },
+    {
+      "nombre": "No",
+      "puntaje_max": 0.0,
+      "peso_pct": null,
+      "descripcion": "Docentes de aula que hayan o estén participando en el Programa ONDAS."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "DOS MIL OCHOCIENTOS DECISÉIS MILLONES OCHOCIENTOS MIL PESOS M/CTE ($2.816.800.000)",
+    "monto_total_cop": 2816800000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "SGR asignados al Departamento de Cundinamarca",
+    "notas": "Crédito educativo 100% condonable. Monto máximo por beneficiario: $29.736.000 (Universidad de La Sabana) o $26.600.000 (Universidad Distrital). Plazo máximo de legalización será informado posteriormente."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 182,
+        "chars_enviados": 180,
         "intento": 1,
         "usage": {
           "prompt_tokens": 257,
-          "completion_tokens": 43
+          "completion_tokens": 118
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 505,
+        "chars_enviados": 496,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 455,
-          "completion_tokens": 135
+          "prompt_tokens": 449,
+          "completion_tokens": 248
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1960,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 872,
+          "completion_tokens": 773
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": true,
-        "chars_enviados": 14018,
+        "truncado": false,
+        "chars_enviados": 6970,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4199,
-          "completion_tokens": 3964
+          "prompt_tokens": 2214,
+          "completion_tokens": 897
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1760,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 724,
+          "completion_tokens": 297
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2939,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1203,
+          "completion_tokens": 187
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1491,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 787,
+          "completion_tokens": 3138
+        }
       }
     }
   },
@@ -197,10 +273,10 @@
         "modo": "no_elegible",
         "rol_sugerido": null,
         "bloqueantes": [
-          "La convocatoria está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES como proponentes o ejecutoras."
+          "La convocatoria no lista IES/universidades como actor elegible; solo docentes de aula de establecimientos educativos oficiales en Cundinamarca pueden postularse."
         ],
         "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria solo acepta docentes de aula como actores elegibles. Su rol sería únicamente como posible aliado si los docentes ya están admitidos en sus programas, pero no como postulante directo."
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales en Cundinamarca, no a IES. La universidad podría participar solo como aliada si se establece una alianza, pero el perfil no indica sedes regionales ni grupos que permitan esa opción."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -209,10 +285,10 @@
       "modo": "no_elegible",
       "rol_sugerido": null,
       "bloqueantes": [
-        "La convocatoria está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES como proponentes o ejecutoras."
+        "La convocatoria no lista IES/universidades como actor elegible; solo docentes de aula de establecimientos educativos oficiales en Cundinamarca pueden postularse."
       ],
       "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria solo acepta docentes de aula como actores elegibles. Su rol sería únicamente como posible aliado si los docentes ya están admitidos en sus programas, pero no como postulante directo.",
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales en Cundinamarca, no a IES. La universidad podría participar solo como aliada si se establece una alianza, pero el perfil no indica sedes regionales ni grupos que permitan esa opción.",
       "fuente": "reglas+llm"
     }
   }

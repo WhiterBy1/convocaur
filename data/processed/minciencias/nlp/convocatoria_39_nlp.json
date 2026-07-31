@@ -6,37 +6,168 @@
   "lineas_tematicas": [],
   "requisitos": [],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "Innovación (Grado de novedad significativa)",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Los productos se encuentran probados y operando con éxito en un entorno real (TRL 8-9)."
+    },
+    {
+      "nombre": "Desarrollo y novedad de la tecnología",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "La tecnología es disruptiva o tradicional, demuestra necesidad y valor agregado (TRL 7-8)."
+    },
+    {
+      "nombre": "Fundamentación teórica de la tecnología",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Calidad y trayectoria del desarrollo, validación de laboratorio a producto certificado (TRL 4-8)."
+    },
+    {
+      "nombre": "Obtención de productos de generación de nuevo conocimiento",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según tipo y cantidad de productos TOP y A: 5 pts por 2+ TOP, 3 pts por 1 TOP + 1 A, 2 pts por 2+ A."
+    },
+    {
+      "nombre": "Apropiación social del conocimiento",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según combinación de escenarios de colaboración, involucramiento e información: 10 pts por (1)+(2)+(3), 7 pts por (1)+(2), 5 pts por (1)+(3) o (2)+(3), 2 pts por solo uno."
+    },
+    {
+      "nombre": "Atención a demandas territoriales del reto 5",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según porcentaje de departamentos de la región abordados: 5 pts por 100%, 3 pts por >50%, 2 pts por ≤50%."
+    },
+    {
+      "nombre": "Pertinencia e impacto de resultados frente al desarrollo territorial",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Nivel de pertinencia e impacto: 4 pts alto, 2 pts medio, 1 pt bajo, 0 pts no evidencia."
+    },
+    {
+      "nombre": "Contribución al desarrollo de capacidades regionales de CTeI para paz",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según atención a departamentos con IDIC más bajo: 6 pts por dos categorías más bajas, 3 pts por una categoría más baja."
+    },
+    {
+      "nombre": "Idoneidad y capacidades de la entidad proponente y aliados",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según número de proyectos de CTI ejecutados en últimos 5 años: 8 pts por >8, 5 pts por 8, 4 pts por 4, 3 pts por 3, 2 pts por 2, 0 pts por ninguno."
+    },
+    {
+      "nombre": "Modelo de Gobernanza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según coherencia en aspectos financiero, administrativo, jurídico, técnico y de ética: 10 pts por 5 aspectos, 8 pts por 3-4, 5 pts por 2, 3 pts por 1, 0 pts por ninguno."
+    },
+    {
+      "nombre": "Porcentaje de población con enfoque diferencial vinculado",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según porcentaje de una o más categorías: 2 pts por >50% de una categoría, 4 pts por >50% de dos o más categorías. No aditivo."
+    },
+    {
+      "nombre": "Porcentaje de población con enfoque diferencial beneficiada",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según cumplimiento: 2 pts por 50% de una categoría, 4 pts por >51% de dos o más categorías. No aditivo."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "El texto proporcionado no contiene información sobre financiación, montos, plazos, contrapartidas ni fuentes de recursos."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4107,
+          "completion_tokens": 118
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4196,
+          "completion_tokens": 184
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4238,
+          "completion_tokens": 2998
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4224,
+          "completion_tokens": 1907
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4143,
+          "completion_tokens": 121
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4250,
+          "completion_tokens": 119
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4190,
+          "completion_tokens": 3927
+        }
       }
     }
   },
@@ -60,11 +191,11 @@
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Confirmar capacidad para cumplir requisitos de contrapartida si aplica",
-          "Validar experiencia en proyectos de I+D+i si la convocatoria lo exige"
+          "Validar que la convocatoria permita participación individual de IES acreditadas institucionalmente",
+          "Verificar grupos de investigación reconocidos por Minciencias",
+          "Confirmar capacidad de contrapartida si aplica"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. No se identifican bloqueantes en su perfil, por lo que puede postularse de forma individual como ejecutora, sujeto a verificación de condiciones específicas de la convocatoria."
+        "resumen": "La Universidad del Rosario es una IES privada, reconocida como actor SNCTI y con acreditación institucional. Cumple con los requisitos base para postularse como ejecutora en la mayoría de convocatorias Minciencias. Sin embargo, se deben verificar condiciones específicas según la convocatoria."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -74,11 +205,11 @@
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Confirmar capacidad para cumplir requisitos de contrapartida si aplica",
-        "Validar experiencia en proyectos de I+D+i si la convocatoria lo exige"
+        "Validar que la convocatoria permita participación individual de IES acreditadas institucionalmente",
+        "Verificar grupos de investigación reconocidos por Minciencias",
+        "Confirmar capacidad de contrapartida si aplica"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. No se identifican bloqueantes en su perfil, por lo que puede postularse de forma individual como ejecutora, sujeto a verificación de condiciones específicas de la convocatoria.",
+      "resumen": "La Universidad del Rosario es una IES privada, reconocida como actor SNCTI y con acreditación institucional. Cumple con los requisitos base para postularse como ejecutora en la mayoría de convocatorias Minciencias. Sin embargo, se deben verificar condiciones específicas según la convocatoria.",
       "fuente": "reglas+llm"
     }
   }

@@ -4,12 +4,12 @@
   "actores_elegibles": [
     {
       "tipo": "Academia",
-      "rol": "Instituciones de Educación Superior públicas o privadas, incluyendo ESAP, ITEC, Instituto Caro y Cuervo, etc.",
+      "rol": "Instituciones de Educación Superior públicas o privadas: Instituciones Técnicas Profesionales, Instituciones Tecnológicas, Instituciones Universitarias o Escuelas Tecnológicas, Universidades, Escuela Superior de Administración Pública (ESAP), Instituto Tecnológico de Electrónica y Comunicaciones (ITEC), Instituto Caro y Cuervo, Universidad Militar Nueva Granada, Escuelas de Formación de las Fuerzas Militares y de la Policía Nacional, Servicio Nacional de Aprendizaje (SENA), Escuela Nacional del Deporte.",
       "condicion": null
     },
     {
       "tipo": "Sector productivo - Empresa",
-      "rol": "Persona jurídica de economía mixta, pública o privada con ánimo de lucro, gremio, cámara de comercio, centro de desarrollo empresarial o corporación; también entidades clasificadas como generación de conocimiento, desarrollo tecnológico, innovación y productividad.",
+      "rol": "Persona jurídica de economía mixta, pública o privada con ánimo de lucro, gremio, cámara de comercio, centro de desarrollo empresarial o corporación legalmente constituida en Colombia, que tenga operaciones a nivel nacional o regional. Además, entidades independientes clasificadas como: i) Generación de conocimiento científico: Centros e institutos de investigación; ii) Desarrollo tecnológico y transferencia de tecnología: Centros de desarrollo tecnológico, Oficinas de Transferencia de Resultados de Investigación (OTRIS); iii) Innovación y productividad: Empresas Altamente Innovadoras (EIAs), Unidades empresariales de I+D+i, Incubadoras de empresas de base tecnológica, Centros de innovación y de productividad, Parques Científicos, Tecnológicos o de Innovación.",
       "condicion": null
     },
     {
@@ -19,67 +19,108 @@
     },
     {
       "tipo": "Sociedad Civil Organizada",
-      "rol": "Asociación, fundación, corporación, entidad del tercer sector, agremiación, grupos u organizaciones comunitarias con personería jurídica, legalmente constituidas en Colombia.",
+      "rol": "Asociación, fundación, corporación, entidad del tercer sector, agremiación, grupos u organizaciones comunitarias con personería jurídica, legalmente constituidas en Colombia, que tenga operaciones a nivel nacional o regional.",
       "condicion": null
     }
   ],
   "alianza_obligatoria": true,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Asimilación de Datos para el estudio del cambio climático en Colombia y gestión del riesgo climático",
+      "modalidad": "Innovación y transferencia de tecnologías convergentes para mitigación del cambio climático",
+      "descripcion_corta": "Facilitar el estudio del cambio climático integrando información para la toma de decisiones."
+    },
+    {
+      "nombre": "Energías libres de carbono y su conectividad",
+      "modalidad": "Innovación y transferencia de tecnologías convergentes para mitigación del cambio climático",
+      "descripcion_corta": "Desarrollo de prototipos que integren tecnologías convergentes para almacenamiento y transporte de energías libres de carbono."
+    },
+    {
+      "nombre": "Contratos inteligentes con Blockchain",
+      "modalidad": "Identificación Nacional Digital",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Estrategias de Minería de Datos para políticas públicas",
+      "modalidad": "Identificación Nacional Digital",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Implementación del voto digital",
+      "modalidad": "Identificación Nacional Digital",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Unificación de históricas clínicas",
+      "modalidad": "Identificación Nacional Digital",
+      "descripcion_corta": null
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustada al objetivo de la convocatoria y conteniendo la información requerida en el numeral 8.",
+      "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustada al objetivo de la convocatoria y al contenido del numeral 8.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con las especificaciones del “Dirigido A” establecido.",
-      "tipo": "otro",
+      "texto": "Cumplir con las especificaciones del 'Dirigido A' establecido en la convocatoria.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar la “Carta de aval y compromiso institucional unificada” debidamente diligenciada y firmada por los representantes legales o apoderados de todas las entidades nacionales que la conformen (Anexo 1b).",
+      "texto": "Adjuntar la 'Carta de aval y compromiso institucional unificada' (Anexo 1b) debidamente diligenciada y firmada por los representantes legales de todas las entidades nacionales, junto con los documentos que acrediten su representación.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el documento técnico de acuerdo con el contenido indicado en el numeral 8, subnumeral 8.1 (Anexo 2).",
+      "texto": "Adjuntar el documento técnico de la propuesta según el contenido indicado en el numeral 8.1 (Anexo 2).",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el presupuesto requerido de acuerdo con el numeral 8, subnumeral 8.2 (Anexo 3), cumpliendo con el monto establecido y las condiciones del numeral 10.",
+      "texto": "Adjuntar el presupuesto requerido según el numeral 8.2 (Anexo 3), cumpliendo con el monto y condiciones establecidas en el numeral 10.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar el Modelo de Gobernanza de la alianza suscrito por los representantes legales de las entidades nacionales (Anexo 4), incluyendo estructura de coordinación, modelo de operación, mecanismos de coordinación, gestión de adquisiciones y estrategia de sostenibilidad.",
+      "texto": "Anexar el Modelo de Gobernanza de la alianza (Anexo 4), que incluya estructura de coordinación, modelo operativo, mecanismos de toma de decisiones, gestión de adquisiciones y estrategia de sostenibilidad, suscrito por los representantes legales.",
       "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el formato de “Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza” (Anexo 5), debidamente diligenciado, con soportes de convenios/contratos, y demostrar experiencia en al menos 3 proyectos de CTeI en los últimos 5 años relacionados con las temáticas, o al menos 1 proyecto con recursos del SGR relacionado.",
+      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5), debidamente diligenciado, con los soportes correspondientes (convenios, contratos, actas, etc.) en la plataforma SIGP.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades internacionales, adjuntar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El investigador principal debe estar vinculado a alguna entidad de la alianza y relacionar su CvLAC en la propuesta. En caso de no tener CvLAC, adjuntar hoja de vida actualizada. Solo puede ser investigador principal en una propuesta.",
+      "texto": "Demostrar experiencia en la gestión y ejecución de al menos tres (3) proyectos de CTeI en los últimos cinco (5) años relacionados con las temáticas de la convocatoria, o al menos un (1) proyecto con recursos de CTeI del SGR relacionado con la temática.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si se vinculan entidades del sector productivo, demostrar que se constituyeron hace al menos 5 años a partir de la fecha de apertura y que no están en proceso de liquidación, presentando certificado de existencia y representación legal no mayor a 90 días.",
+      "texto": "Para entidades internacionales: anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal debe estar vinculado a alguna entidad de la alianza y relacionar su CvLAC en la propuesta (o adjuntar hoja de vida actualizada si no tiene CvLAC).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal solo puede participar como IP en una (1) sola propuesta; si participa en más, solo se tendrá en cuenta la primera registrada.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo: demostrar constitución mínima de cinco (5) años a partir de la fecha de apertura de la convocatoria y no estar en proceso de liquidación; presentar certificado de existencia y representación legal no mayor a 90 días.",
       "tipo": "documental",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [
     {
-      "texto": "Que la propuesta de proyecto no esté ajustada a las condiciones y requisitos establecidos en los presentes términos de referencia."
+      "texto": "Que la propuesta de proyecto no esté ajusta a las condiciones y requisitos establecidos en los presentes términos de referencia."
     },
     {
       "texto": "Que el valor solicitado de la propuesta sobrepase el valor de DIEZ MIL MILLONES DE PESOS M/CTE (10.000.000.000), o sea inferior a CUATRO MIL MILLONES DE PESOS M/CTE (4.000.000.000)."
@@ -103,7 +144,74 @@
       "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, la propuesta de proyecto será retirada del proceso de selección y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
     }
   ],
-  "criterios_evaluacion": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Congruencia entre los diferentes componentes del proyecto (problemática, objetivos, alternativa de solución, metodología, cadena de valor, presupuesto y sostenibilidad) para conseguir los resultados propuestos en CTeI.",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia interna del proyecto."
+    },
+    {
+      "nombre": "Impactos y productos de CTeI en la región",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Mide la cobertura regional de los impactos y productos de CTeI en los departamentos del SGR."
+    },
+    {
+      "nombre": "Vinculación de personal de alto nivel TI (estancias posdoctorales) mínimo por 12 meses",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Valora la cantidad de doctores vinculados al proyecto."
+    },
+    {
+      "nombre": "Experiencia y trayectoria de la entidad proponente en la ejecución de proyectos CTeI del SGR y en las áreas relacionadas con la temática del proyecto. Idoneidad de los grupos de investigación en TI e Industrias 4.0 vinculados a la ejecución del proyecto conforme la convocatoria 833 de 2018 y Trayectoria del Investigador Principal en proyectos relacionados con Industrias 4.0 conforme la convocatoria 833 de 2018.",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Considera la experiencia de la entidad, la categoría de los grupos de investigación y la trayectoria del investigador principal."
+    },
+    {
+      "nombre": "En la alianza se identifica la participación de entidades que componen la cuádruple hélice del ecosistema CTeI",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la composición de la alianza en términos de la cuádruple hélice y el reconocimiento de entidades por Minciencias."
+    },
+    {
+      "nombre": "Aportes de los integrantes de la alianza para la contribución a la consecución de los objetivos y actividades de proyecto",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Valora los aportes individuales (financieros, técnicos, tecnológicos, talento humano) de los aliados."
+    },
+    {
+      "nombre": "En la alianza se evidencia la participación de entidades con experiencia en la aplicación de nuevo conocimiento, nuevas tecnologías y Desarrollo de productos innovadores TI, en identificación nacional digital, inteligencia artificial, machine learning, blockchain y asimilación de datos, para el estudio del cambio climático, detección de desastres naturales que permitan la convergencia de tecnologías de industrias 4.0",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la experiencia de las entidades en tecnologías específicas de TI e Industrias 4.0."
+    },
+    {
+      "nombre": "Aporte de la propuesta al cumplimiento de los retos y desafíos definidos en el foco temático de la MIS 2019",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Mide la contribución a la Misión de Sabios 2019 y a la creación de una arquitectura crítica para la innovación."
+    },
+    {
+      "nombre": "La propuesta contribuye al cumplimiento de las acciones para los CONPES 3975 y Plan Nacional de Adaptación al Cambio Climático - PNACC",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la alineación con políticas nacionales de cambio climático y tecnología."
+    },
+    {
+      "nombre": "Relación y articulación de la propuesta con las demandas territoriales de acuerdo con el alcance y objetivos",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Valora la pertinencia territorial de la propuesta."
+    },
+    {
+      "nombre": "La propuesta contribuye a la reactivación económica y la solución de problemáticas territoriales e incluye una estrategia de apropiación del conocimiento dirigida a comunidades locales",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el impacto en reactivación económica y apropiación social del conocimiento."
+    }
+  ],
   "financiacion": {
     "monto_total_texto": "VEINTE MIL MILLONES DE PESOS M/CTE ($ 20.000.000.000)",
     "monto_total_cop": 20000000000.0,
@@ -112,7 +220,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Asignación para la CTeI del SGR",
-    "notas": "Monto total indicativo de la convocatoria. Las propuestas pueden solicitar entre $4.000.000.000 y $10.000.000.000."
+    "notas": "Monto indicativo total distribuido en dos temáticas de $10.000.000.000 cada una. Las propuestas pueden solicitar entre $4.000.000.000 y $10.000.000.000."
   },
   "meta": {
     "secciones": {
@@ -120,64 +228,78 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 913,
+        "chars_enviados": 898,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 443,
-          "completion_tokens": 211
+          "prompt_tokens": 518,
+          "completion_tokens": 366
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4560,
+        "chars_enviados": 4445,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1526,
-          "completion_tokens": 2228
+          "prompt_tokens": 1509,
+          "completion_tokens": 1242
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6668,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1952,
+          "completion_tokens": 1675
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 8998,
+        "chars_enviados": 8831,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2828,
-          "completion_tokens": 1535
+          "prompt_tokens": 2801,
+          "completion_tokens": 2787
         }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2278,
+        "chars_enviados": 2216,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 903,
-          "completion_tokens": 425
+          "prompt_tokens": 884,
+          "completion_tokens": 569
         }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3327,
+        "chars_enviados": 3241,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1319,
-          "completion_tokens": 715
+          "prompt_tokens": 1286,
+          "completion_tokens": 696
         }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8048,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2690,
+          "completion_tokens": 10997
+        }
       }
     }
   },
@@ -196,26 +318,30 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": false,
-        "modo": "no_elegible",
-        "rol_sugerido": null,
-        "bloqueantes": [
-          "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "proponente",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Demostrar experiencia en gestión y ejecución de al menos 3 proyectos de CTeI en los últimos 5 años relacionados con tecnologías convergentes e industrias 4.0, o al menos 1 proyecto con recursos de CTeI del SGR en la temática.",
+          "Asegurar que la propuesta se ajuste al objetivo de la convocatoria (tecnologías convergentes e industrias 4.0).",
+          "Cumplir con los requisitos documentales, técnicos y financieros especificados en la convocatoria."
         ],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria no incluye a las universidades como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza."
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria con otros actores. Deberá verificar su experiencia en proyectos de CTeI relacionados con tecnologías convergentes e industrias 4.0 y cumplir con los requisitos de la convocatoria."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": false,
-      "modo": "no_elegible",
-      "rol_sugerido": null,
-      "bloqueantes": [
-        "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Demostrar experiencia en gestión y ejecución de al menos 3 proyectos de CTeI en los últimos 5 años relacionados con tecnologías convergentes e industrias 4.0, o al menos 1 proyecto con recursos de CTeI del SGR en la temática.",
+        "Asegurar que la propuesta se ajuste al objetivo de la convocatoria (tecnologías convergentes e industrias 4.0).",
+        "Cumplir con los requisitos documentales, técnicos y financieros especificados en la convocatoria."
       ],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria no incluye a las universidades como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza.",
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria con otros actores. Deberá verificar su experiencia en proyectos de CTeI relacionados con tecnologías convergentes e industrias 4.0 y cumplir con los requisitos de la convocatoria.",
       "fuente": "reglas+llm"
     }
   }

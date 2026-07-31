@@ -1,198 +1,268 @@
 {
   "convocatoria": "955",
-  "objetivo": "Calificar los proyectos desarrollados por entidades reconocidas por Minciencias como de investigación científica, desarrollo e innovación, para que el personal vinculado que haya ejecutado actividades directas científicas, tecnológicas o de innovación acceda al beneficio tributario de Ingresos No Constitutivos de Renta y/o Ganancia Ocasional, según los criterios y condiciones definidas por el CNBT y el artículo 57-2 del E.T.",
+  "objetivo": "Calificar proyectos de entidades como de investigación, desarrollo e innovación para que el personal vinculado acceda al beneficio tributario de Ingresos No Constitutivos de Renta y/o Ganancia Ocasional, según criterios del CNBT y el artículo 57-2 del E.T.",
   "actores_elegibles": [
     {
       "tipo": "Universidades",
       "rol": null,
-      "condicion": null
+      "condicion": "Debe ser una entidad legalmente constituida en Colombia, haber ejecutado proyectos de CTI e involucrado personas naturales declarantes de impuesto de renta en Colombia en 2023"
     },
     {
       "tipo": "Empresas",
       "rol": null,
-      "condicion": null
+      "condicion": "Debe ser una entidad legalmente constituida en Colombia, haber ejecutado proyectos de CTI e involucrado personas naturales declarantes de impuesto de renta en Colombia en 2023"
     },
     {
       "tipo": "Entidades sin ánimo de lucro",
       "rol": null,
-      "condicion": null
+      "condicion": "Debe ser una entidad legalmente constituida en Colombia, haber ejecutado proyectos de CTI e involucrado personas naturales declarantes de impuesto de renta en Colombia en 2023"
     },
     {
       "tipo": "Actores reconocidos por Minciencias",
       "rol": null,
-      "condicion": null
+      "condicion": "Debe ser una entidad legalmente constituida en Colombia, haber ejecutado proyectos de CTI e involucrado personas naturales declarantes de impuesto de renta en Colombia en 2023"
     }
   ],
   "alianza_obligatoria": null,
   "lineas_tematicas": [
     {
       "nombre": "Transición energética justa",
-      "modalidad": "Apuestas Productivas de la Política de Reindustrialización",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
-      "nombre": "Agro industrialización y la soberanía alimentaria",
-      "modalidad": "Apuestas Productivas de la Política de Reindustrialización",
+      "nombre": "Agroindustrialización y soberanía alimentaria",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Reindustrialización en el sector salud",
-      "modalidad": "Apuestas Productivas de la Política de Reindustrialización",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Reindustrialización para la defensa y la vida",
-      "modalidad": "Apuestas Productivas de la Política de Reindustrialización",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Territorios y su tejido empresarial",
-      "modalidad": "Apuestas Productivas de la Política de Reindustrialización",
+      "modalidad": null,
       "descripcion_corta": null
     },
     {
       "nombre": "Bioeconomía, ecosistemas naturales, territorios sostenibles",
-      "modalidad": "Políticas de Investigación e Innovación Orientada por Misiones (PIIOM)",
+      "modalidad": null,
       "descripcion_corta": "Potenciar el desarrollo territorial sostenible mediante el conocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos."
     },
     {
       "nombre": "Derecho a la alimentación",
-      "modalidad": "Políticas de Investigación e Innovación Orientada por Misiones (PIIOM)",
+      "modalidad": null,
       "descripcion_corta": "Producir y disponer alimentos y agua de manera eficiente, soberana, autónoma y equitativa, por medio de la investigación y la innovación."
     },
     {
       "nombre": "Energía eficiente, sostenible y asequible",
-      "modalidad": "Políticas de Investigación e Innovación Orientada por Misiones (PIIOM)",
+      "modalidad": null,
       "descripcion_corta": "Asegurar la generación, acceso y uso de energías sostenibles para todos los colombianos a través del desarrollo, adopción y adaptación de tecnologías para la transición energética."
     },
     {
       "nombre": "Soberanía sanitaria y bienestar social",
-      "modalidad": "Políticas de Investigación e Innovación Orientada por Misiones (PIIOM)",
+      "modalidad": null,
       "descripcion_corta": "Garantizar la soberanía sanitaria, la salud y el bienestar social de la población en todo el territorio nacional."
     },
     {
       "nombre": "Ciencia para la paz y la ciudadanía",
-      "modalidad": "Políticas de Investigación e Innovación Orientada por Misiones (PIIOM)",
+      "modalidad": null,
       "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia y comprender las diversas causas de violencia como base para construir soluciones tecnológicas y sociales que fomenten y fortalezcan la convivencia pacífica en condiciones de equidad y justicia social."
     }
   ],
   "requisitos": [
     {
-      "texto": "Cumplir con lo establecido en el numeral “3. DIRIGIDA A” de los presentes términos de referencia.",
+      "texto": "Cumplir con lo establecido en el numeral 'Dirigida a' de los términos de referencia.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos – SIGP, a través del formulario en línea disponible en el portal del Ministerio de Ciencia, Tecnología e Innovación.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El proyecto inscrito deberá ser formulado en el idioma español, incluido el título.",
-      "tipo": "tecnico",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar la carta de presentación y aval para acceder al beneficio tributario de Ingresos No Constitutivos de Renta, firmada por el representante legal o apoderado de la entidad ejecutora y co ejecutoras. Si el proyecto ya fue calificado u financiado, indicar datos anteriores.",
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) mediante el formulario en línea.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "En caso de que el firmante de la Carta Aval no sea el representante legal, deberá anexar la documentación que lo faculte para asumir los compromisos.",
+      "texto": "El proyecto debe ser formulado en idioma español, incluido el título.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar la ficha de caracterización de beneficiarios completamente diligenciado (Anexo 2).",
+      "texto": "Adjuntar carta de presentación y aval para el beneficio tributario de Ingresos No Constitutivos de Renta, firmada por el representante legal o apoderado. Indicar si el proyecto fue calificado en otra convocatoria.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar Certificado de la Unidad para la Atención y Reparación Integral a las Víctimas en el SIGP que acredite como población víctima del conflicto armado o en situación de extrema vulnerabilidad (Cuando aplique). No otorga puntos adicionales si no se cumple.",
-      "tipo": "documental",
-      "severidad": "deseable"
-    },
-    {
-      "texto": "Adjuntar Certificado a título personal expedido por el Ministerio del Interior en el SIGP que acredite pertenencia a algún Grupo Étnico (Cuando aplique). No otorga puntos adicionales si no se cumple.",
-      "tipo": "documental",
-      "severidad": "deseable"
-    },
-    {
-      "texto": "Adjuntar Certificado del Ministerio de Salud y Protección Social en el SIGP que acredite condición de discapacidad (Cuando aplique). No otorga puntos adicionales si no se cumple.",
-      "tipo": "documental",
-      "severidad": "deseable"
-    },
-    {
-      "texto": "Adjuntar cédula de ciudadanía que demuestre población perteneciente al género femenino del personal vinculado al proyecto de CTeI.",
+      "texto": "Si el firmante de la carta aval no es el representante legal, anexar documentación que lo faculte para asumir compromisos.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las entidades participantes deberán estar legalmente constituidas en Colombia y demostrarlo mediante certificado de existencia y representación legal vigente (expedido en los últimos 90 días) o documento equivalente.",
+      "texto": "Adjuntar la ficha de caracterización de beneficiarios completamente diligenciada (Anexo 2).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar el Aval del Comité de Ética/Bioética de la institución que presenta el proyecto, cuando aplique, especificando que el proyecto ha sido revisado y avalado en sus componentes éticos. Para proyectos del área de la salud es obligatorio. Incluir acto administrativo de conformación del comité.",
+      "texto": "Adjuntar certificado de la Unidad para la Atención y Reparación Integral a las Víctimas que acredite como población víctima del conflicto armado o en extrema vulnerabilidad (cuando aplique).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado a título personal del Ministerio del Interior que acredite pertenencia a grupo étnico (cuando aplique).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de acuerdo con normatividad del Ministerio de Salud que acredite población en condición de discapacidad (cuando aplique).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar cédula de ciudadanía que demuestre población perteneciente al género femenino del personal vinculado al proyecto.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades deben estar legalmente constituidas en Colombia y demostrarlo con certificado de existencia y representación legal vigente (expedido en los últimos 90 días).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar aval del Comité de Ética/Bioética de la institución, cuando aplique, especificando revisión ética e instrumentos. Obligatorio para proyectos del área de la salud.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
       "texto": "No podrán presentar y avalar personal vinculado para el acceso al beneficio tributario las entidades que no estén legalmente constituidas en Colombia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán declararse como Ingresos No Constitutivos de Renta las remuneraciones que no provengan de proyectos de CTeI.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán declararse como Ingresos No Constitutivos de Renta los recursos provenientes de actividades ilícitas.",
       "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional las remuneraciones que no sean provenientes de proyectos de ciencia, tecnología e innovación.",
-      "tipo": "otro",
+      "texto": "No podrán declararse como Ingresos No Constitutivos de Renta los recursos recibidos por concepto de representación legal.",
+      "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que reciba el contribuyente que provengan de actividades ilícitas.",
-      "tipo": "otro",
+      "texto": "No cumplir con los requisitos y lineamientos de los términos de referencia o no subsanar dentro de los plazos establecidos en el cronograma.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que reciba el contribuyente por concepto de representación legal.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y la normatividad vigente, o no subsanarlos dentro de los plazos establecidos.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Estar inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidas en la Constitución, la ley, reglamentos, entre otros.",
+      "texto": "Estar inmerso en causales de inhabilidad e incompatibilidad establecidas en la Constitución, la ley y reglamentos.",
       "tipo": "otro",
       "severidad": "obligatorio"
     }
   ],
-  "causales_rechazo": [],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con lo establecido en el numeral '3. DIRIGIDA A' de los términos de referencia."
+    },
+    {
+      "texto": "No inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP)."
+    },
+    {
+      "texto": "No formular el proyecto en idioma español, incluido el título."
+    },
+    {
+      "texto": "No adjuntar la carta de presentación y aval firmada por el representante legal o apoderado."
+    },
+    {
+      "texto": "No presentar la documentación que faculte al firmante de la Carta Aval cuando no sea el representante legal."
+    },
+    {
+      "texto": "No adjuntar la ficha de caracterización de beneficiarios completamente diligenciada."
+    },
+    {
+      "texto": "No adjuntar el certificado de la Unidad para la Atención y Reparación Integral a las Víctimas cuando aplique (para puntos adicionales por enfoque diferencial)."
+    }
+  ],
   "criterios_evaluacion": [
     {
-      "nombre": "Calidad del Proyecto",
+      "nombre": "Calidad del Proyecto (Investigación Científica)",
       "puntaje_max": 40.0,
       "peso_pct": null,
-      "descripcion": "Evalúa coherencia entre problema, estado del arte, objetivos, metodología, actividades, resultados y presupuesto."
+      "descripcion": "Evalúa coherencia, revisión de literatura, metodología y capacidad del equipo."
     },
     {
-      "nombre": "Pertinencia del Proyecto",
+      "nombre": "Pertinencia del Proyecto (Investigación Científica)",
       "puntaje_max": 35.0,
       "peso_pct": null,
-      "descripcion": "Evalúa contribución al fortalecimiento de la investigación o competitividad, y cumplimiento de requisitos."
+      "descripcion": "Evalúa contribución al conocimiento, proceso sistemático, participación del beneficiario y cumplimiento reglamentario."
     },
     {
-      "nombre": "Impacto potencial del proyecto",
+      "nombre": "Impacto potencial del proyecto (Investigación Científica)",
       "puntaje_max": 25.0,
       "peso_pct": null,
-      "descripcion": "Evalúa aporte al conocimiento, medibilidad de resultados e impactos a corto, mediano y largo plazo."
+      "descripcion": "Evalúa aporte al conocimiento, resultados medibles e impactos identificados."
     },
     {
-      "nombre": "Puntaje adicional",
+      "nombre": "Puntaje adicional (Investigación Científica)",
       "puntaje_max": 6.0,
       "peso_pct": null,
-      "descripcion": "Puntaje adicional por contribución al PND, PIIOM, enfoque diferencial o territorial."
+      "descripcion": "Puntos extra por contribución al PND, PIIOM, enfoque diferencial y territorial."
+    },
+    {
+      "nombre": "Calidad del Proyecto (Desarrollo)",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa coherencia, revisión de literatura, metodología y capacidad del equipo."
+    },
+    {
+      "nombre": "Pertinencia del Proyecto (Desarrollo)",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa contribución a competitividad, actividades de desarrollo, uso de conocimiento, participación del beneficiario y cumplimiento reglamentario."
+    },
+    {
+      "nombre": "Impacto potencial del proyecto (Desarrollo)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa materialización de conocimiento, resultados medibles, impactos y sostenibilidad."
+    },
+    {
+      "nombre": "Puntaje adicional (Desarrollo)",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Puntos extra por contribución al PND, PIIOM, enfoque diferencial y territorial."
+    },
+    {
+      "nombre": "Calidad del Proyecto (Innovación)",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa coherencia, diferenciación de mercado, metodología y capacidad del equipo."
+    },
+    {
+      "nombre": "Pertinencia del Proyecto (Innovación)",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa contribución a competitividad, actividades de innovación, participación del beneficiario, transferencia de conocimiento y cumplimiento reglamentario."
+    },
+    {
+      "nombre": "Impacto potencial del proyecto (Innovación)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa introducción al mercado, resultados medibles, impactos y sostenibilidad."
+    },
+    {
+      "nombre": "Puntaje adicional (Innovación)",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Puntos extra por contribución al PND, PIIOM, enfoque diferencial y territorial."
     }
   ],
   "financiacion": {
@@ -203,7 +273,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": null,
-    "notas": "Solo se consideran ingresos de la vigencia fiscal 2023 para el beneficio tributario."
+    "notas": "No se especifica monto, plazos, contrapartida ni fuente de recursos. Solo se menciona que la duración la define el postulante y que el beneficio tributario aplica para ingresos de la vigencia fiscal 2023."
   },
   "meta": {
     "secciones": {
@@ -211,59 +281,66 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 634,
+        "chars_enviados": 626,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 401,
-          "completion_tokens": 182
+          "prompt_tokens": 375,
+          "completion_tokens": 284
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 689,
+        "chars_enviados": 681,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 484,
-          "completion_tokens": 470
+          "prompt_tokens": 482,
+          "completion_tokens": 1581
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2597,
+        "chars_enviados": 2548,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 976,
-          "completion_tokens": 645
+          "prompt_tokens": 983,
+          "completion_tokens": 705
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 6162,
+        "chars_enviados": 6008,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2044,
-          "completion_tokens": 4139
+          "prompt_tokens": 2002,
+          "completion_tokens": 3952
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4032,
+          "completion_tokens": 233
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 713,
+        "chars_enviados": 705,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 543,
-          "completion_tokens": 280
+          "prompt_tokens": 540,
+          "completion_tokens": 133
         }
       },
       "criterios": {
@@ -273,8 +350,8 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4164,
-          "completion_tokens": 278
+          "prompt_tokens": 4183,
+          "completion_tokens": 825
         }
       }
     }
@@ -291,7 +368,7 @@
         {
           "tipo": "Universidades",
           "rol": null,
-          "condicion": null
+          "condicion": "Debe ser una entidad legalmente constituida en Colombia, haber ejecutado proyectos de CTI e involucrado personas naturales declarantes de impuesto de renta en Colombia en 2023"
         }
       ],
       "condiciones_pendientes": [],
@@ -309,8 +386,11 @@
         "modo": "sola",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario, como IES privada reconocida por Minciencias y con acreditación institucional, es elegible para postularse como ejecutora en esta convocatoria de calificación de proyectos para beneficio tributario. No se requieren alianzas obligatorias según los términos de referencia."
+        "condiciones_a_verificar": [
+          "Verificar que la Universidad del Rosario cumpla con los requisitos de entidad legalmente constituida, ejecución de proyectos CTI y vinculación de personas naturales declarantes de renta en 2023.",
+          "Confirmar que la IES cuenta con grupos de investigación reconocidos por Minciencias y capacidad para ejecutar el proyecto."
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada, reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible para postularse como ejecutora en esta convocatoria de beneficio tributario. No se requiere alianza obligatoria, pero se deben verificar los requisitos generales de elegibilidad y la capacidad institucional."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -319,8 +399,11 @@
       "modo": "sola",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario, como IES privada reconocida por Minciencias y con acreditación institucional, es elegible para postularse como ejecutora en esta convocatoria de calificación de proyectos para beneficio tributario. No se requieren alianzas obligatorias según los términos de referencia.",
+      "condiciones_a_verificar": [
+        "Verificar que la Universidad del Rosario cumpla con los requisitos de entidad legalmente constituida, ejecución de proyectos CTI y vinculación de personas naturales declarantes de renta en 2023.",
+        "Confirmar que la IES cuenta con grupos de investigación reconocidos por Minciencias y capacidad para ejecutar el proyecto."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible para postularse como ejecutora en esta convocatoria de beneficio tributario. No se requiere alianza obligatoria, pero se deben verificar los requisitos generales de elegibilidad y la capacidad institucional.",
       "fuente": "reglas+llm"
     }
   }

@@ -1,84 +1,370 @@
 {
   "convocatoria": "946",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
+  "objetivo": "Conformar un banco de proyectos elegibles de I+D+i para su financiación, enfocados en aportar soluciones a los retos tecnológicos planteados por Ecopetrol a través de los centros de innovación pertenecientes a su red Econova, buscando conectar tales retos con soluciones previamente creadas, mediante procesos de innovación abierta, generando así sinergias entre distintos actores del Sistema Nacional de Ciencia, Tecnología e Innovación, que incorporen estrategias de aceleración, sofisticación y/o adaptación tecnológica para los procesos de escalamiento de las soluciones planteadas.",
+  "actores_elegibles": [
+    {
+      "tipo": "Empresa (persona jurídica)",
+      "rol": "Ejecutora",
+      "condicion": "Legalmente constituida en Colombia, con mínimo cinco (5) años de constitución antes de la fecha de cierre, que demuestre experiencia en procesos de I+D+i en el área tecnológica del reto seleccionado."
+    },
+    {
+      "tipo": "Instituciones de Educación Superior (IES) colombianas",
+      "rol": "Coejecutora",
+      "condicion": "Entidades con reconocimiento oficial como prestadoras del servicio público de educación superior en Colombia (Instituciones Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas y Universidades)."
+    },
+    {
+      "tipo": "Centros o Institutos de Investigación",
+      "rol": "Coejecutora",
+      "condicion": "Organizaciones públicas, privadas o mixtas independientes que desarrollen actividades de investigación básica o aplicada en el Área Estratégica y tengan reconocimiento vigente de Minciencias al cierre de la convocatoria."
+    },
+    {
+      "tipo": "Centros de Desarrollo Tecnológico",
+      "rol": "Coejecutora",
+      "condicion": "Organizaciones públicas o privadas dedicadas a la ejecución de proyectos de investigación aplicada y desarrollo de tecnología propia, con reconocimiento vigente de Minciencias al cierre de la convocatoria."
+    },
+    {
+      "tipo": "Personas jurídicas legalmente constituidas en Colombia (diferentes a Centros de Investigación o Desarrollo Tecnológico)",
+      "rol": "Coejecutora",
+      "condicion": "Con mínimo dos (2) años de constitución a la fecha de cierre, que cumplan con la experiencia exigida en los TdR."
+    },
+    {
+      "tipo": "Spin-offs",
+      "rol": "Coejecutora",
+      "condicion": "Empresas basadas en conocimientos, especialmente aquellos protegidos por Propiedad Intelectual, gestados en el ámbito de las IES, resultado de actividades de I+D realizadas bajo su respaldo en sus laboratorios."
+    }
+  ],
+  "alianza_obligatoria": true,
   "lineas_tematicas": [],
-  "requisitos": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 (DIRIGIDO A) de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir la propuesta completa del proyecto de I+D+i en el SIGP, seleccionando un solo reto tecnológico, y diligenciar el formulario conforme al Anexo 2.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la Carta Unificada de Aval y Compromiso Institucional (Anexo 4), firmada por representantes legales de la alianza, indicando contrapartida y modelo de gobernanza. La contrapartida en dinero y/o especie debe ser mínimo 20% del valor total del proyecto.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar concepto de un comité de ética/bioética cuando aplique, con acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las personas jurídicas ejecutoras deben estar legalmente constituidas en Colombia con mínimo 5 años de constitución antes del cierre. Anexar Certificado de Existencia y Representación Legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las personas jurídicas ejecutoras deben demostrar utilidades netas iguales o superiores a COP$300.000.000. Anexar Estados Financieros del año 2022 firmados.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP el estado de madurez de la tecnología (TRL) mínimo nivel 5, con evidencias.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades de la alianza deben diligenciar y anexar el Anexo 5 - Experiencia en proyectos de I+D+i, con evidencias.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP todo el personal, identificar Director del Proyecto y Coinvestigadores con responsabilidades. Todo el personal científico residente en Colombia debe crear/actualizar CvLAC.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Indicar el inventario de propiedad intelectual sobre la tecnología a desarrollar mediante el Anexo 6 (Derechos Previos de PI).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias de permisos y licencias ambientales necesarios, cuando aplique.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Director del Proyecto de I+D+i solo podrá participar en una (1) propuesta de esta convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con todos los requisitos y lineamientos de los TdR y subsanar dentro de los plazos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con los requisitos legales para la suscripción del contrato de financiamiento en modalidad de reembolso parcial.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad para contratar según la Constitución, Ley 80 de 1993 y demás normas. Verificación en listas restrictivas.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No alterar ninguno de los documentos solicitados en la sección de requisitos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora solo podrá presentar un (1) proyecto a esta convocatoria con este rol.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta no podrá estar siendo financiada con recursos de otros mecanismos del Minciencias, MinMinas o Ecopetrol.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "Coherencia de la propuesta",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Articulación de los componentes de la propuesta teniendo en cuenta la relación lógica entre objetivos, metodología, actividades, recursos y resultados esperados."
+    },
+    {
+      "nombre": "La propuesta atiende de forma adecuada y da respuesta al reto",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Formulación objetivo general y específicos, metodología, cronograma, claridad de roles de los aliados, resultados esperados."
+    },
+    {
+      "nombre": "Antecedentes verificables científicos y técnicos",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Antecedentes verificables científicos y técnicos que sustentan el desarrollo de la solución o respuesta al reto al cual se postula."
+    },
+    {
+      "nombre": "El presupuesto está debidamente soportado",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "El presupuesto está debidamente soportado para la fase de desarrollo de la propuesta (equipo, insumos, personal, infraestructura, tecnología)."
+    },
+    {
+      "nombre": "Experiencia y trayectoria técnica demostrada de las entidades de la alianza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia y trayectoria técnica demostrada de las entidades de la alianza en el campo tecnológico/área del reto a la cual se presentan."
+    },
+    {
+      "nombre": "Pertinencia, capacidades técnicas y complementariedad de los actores",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Pertinencia, capacidades técnicas y complementariedad de los actores que conforman la alianza para el desarrollo del plan de trabajo propuesto (claridad en la distribución de roles, actividades, capacidades)."
+    },
+    {
+      "nombre": "El equipo de trabajo propuesto reúne las capacidades, experiencia y trayectoria requerida",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "El equipo de trabajo propuesto reúne las capacidades, experiencia y trayectoria requerida para el desarrollo de las actividades de la propuesta."
+    },
+    {
+      "nombre": "El equipo de trabajo propuesto contempla la participación de mujeres",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Contempla la participación de mujeres en roles de investigador, co-investigador, personal científico o estudiantes. Puntaje: 0 si no contempla, 1 si una mujer, 2 si dos mujeres, 3 si tres o más."
+    },
+    {
+      "nombre": "Estrategia para el escalamiento del producto y/o servicio",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Estrategia para el escalamiento del producto y/o servicio propuesto para dar respuesta al reto."
+    },
+    {
+      "nombre": "Aporte del proyecto al fortalecimiento de capacidades de I+D+i",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Aporte del proyecto al fortalecimiento de capacidades de I+D+i de los proponentes."
+    },
+    {
+      "nombre": "Sostenibilidad de la Alianza",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Sostenibilidad de la Alianza."
+    },
+    {
+      "nombre": "Impactos potenciales socioeconómicos a nivel regional",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Impactos potenciales socioeconómicos a nivel regional: i) generación de empleo, ii) establecimiento de nuevas unidades productivas, iii) generación de encadenamientos productivos, iv) participación activa que beneficie a comunidades vulnerables."
+    },
+    {
+      "nombre": "Plan de transferencia de conocimiento a la Red Econova",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Plan de transferencia de conocimiento a la Red Econova con impacto a nivel regional."
+    },
+    {
+      "nombre": "El proyecto se ejecuta o impacta en su desarrollo a Departamentos con IDIC bajo o medio bajo",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "El proyecto se ejecuta o impacta en Departamentos clasificados con Índice Departamental de Innovación para Colombia (IDIC) en categorías bajo y medio bajo, según DNP 2021."
+    },
+    {
+      "nombre": "Propuesta de valor. Evidencia del potencial de mercado a explotar más allá de la temporalidad de la propuesta. MVP",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evidencia del potencial de mercado a explotar más allá de la temporalidad de la propuesta. MVP (Producto Mínimo Viable)."
+    },
+    {
+      "nombre": "Ventaja competitiva de la tecnología a validar con respecto a otras tecnologías existentes en el mercado",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Ventaja competitiva de la tecnología a validar con respecto a otras tecnologías existentes en el mercado."
+    },
+    {
+      "nombre": "Estrategia de ejecución, implementación, escalamiento al mercado y modelo de monetización",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Estrategia de ejecución, implementación, escalamiento al mercado y modelo de monetización de la solución planteada al reto propuesto, coherente en el plan de negocios."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "$21.639.356.327",
+    "monto_total_cop": 21639356327.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": 20.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Convenio Especial de Cooperación 656-2022",
+    "notas": "Modalidad reembolso parcial. Recursos por reto: $4.327.871.265. Monto máximo por proyecto: $4.000.000.000."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1711,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 786,
+          "completion_tokens": 547
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4379,
+          "completion_tokens": 839
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2796,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1230,
+          "completion_tokens": 12
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7504,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2627,
+          "completion_tokens": 3272
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4429,
+          "completion_tokens": 271
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12619,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4227,
+          "completion_tokens": 844
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4849,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1811,
+          "completion_tokens": 13078
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
-      "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
-      "actores_ies_match": [],
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "alta",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES) colombianas",
+          "rol": "Coejecutora",
+          "condicion": "Entidades con reconocimiento oficial como prestadoras del servicio público de educación superior en Colombia (Instituciones Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas y Universidades)."
+        }
+      ],
       "condiciones_pendientes": [],
-      "capa": "reglas"
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
     },
     "llm": {
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "elegible_con_condiciones",
-        "rol_sugerido": "proponente",
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "ejecutora",
         "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Verificar capacidad institucional para contrapartida",
-          "Verificar experiencia en proyectos SGR si aplica"
-        ],
-        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, por lo que es elegible para postularse a convocatorias Minciencias. Sin embargo, se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida."
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario es una IES privada elegible para la convocatoria, pero debe postularse en alianza obligatoria. Su rol sugerido es ejecutora, aunque la convocatoria asigna a las IES el rol de coejecutora. Se recomienda validar la capacidad institucional para cumplir requisitos específicos como grupos de investigación y contrapartida."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
-      "rol_sugerido": "proponente",
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
       "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Verificar capacidad institucional para contrapartida",
-        "Verificar experiencia en proyectos SGR si aplica"
-      ],
-      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, por lo que es elegible para postularse a convocatorias Minciencias. Sin embargo, se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida.",
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada elegible para la convocatoria, pero debe postularse en alianza obligatoria. Su rol sugerido es ejecutora, aunque la convocatoria asigna a las IES el rol de coejecutora. Se recomienda validar la capacidad institucional para cumplir requisitos específicos como grupos de investigación y contrapartida.",
       "fuente": "reglas+llm"
     }
   }

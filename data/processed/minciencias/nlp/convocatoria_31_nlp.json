@@ -1,42 +1,234 @@
 {
   "convocatoria": "31",
-  "objetivo": null,
+  "objetivo": "Conformar un listado de proyectos elegibles de investigación, desarrollo tecnológico e innovación y fortalecimiento de capacidades de centros de investigación para la generación de nuevo conocimiento en temáticas ambientales y desarrollo sostenible en las regiones",
   "actores_elegibles": [],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Proyectos en investigación, desarrollo tecnológico e innovación para el ambiente y el desarrollo sostenible de las regiones",
+      "modalidad": "Mecanismo de participación 1",
+      "descripcion_corta": "Proyectos de I+D+i para el ambiente y desarrollo sostenible en regiones"
+    },
+    {
+      "nombre": "Proyectos para el Fortalecimiento de Centros de Investigación para el fomento de la generación de conocimiento en temáticas de ambiente y desarrollo sostenible",
+      "modalidad": "Mecanismo de participación 2",
+      "descripcion_corta": "Fortalecimiento de centros de investigación del SINA o entidades adscritas al Ministerio de Ambiente"
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria y con la información del numeral 7.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigido A' establecido para el mecanismo de participación al que se postule.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proyecto no contempla alianza, anexar 'Carta de aval y compromiso institucional' firmada por el representante legal o apoderado (Anexo 1a), junto con documentos que acrediten y faculten.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proyecto es en alianza, anexar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' firmada por representantes legales de todas las entidades nacionales (Anexo 1b), con documentos que acrediten y faculten.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico según el contenido del proyecto indicado en el numeral 7.1 (Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto según el numeral 7.2 (Anexo 3), cumpliendo condiciones de duración y financiación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5), con soportes (convenios, contratos, etc.) en SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Demostrar experiencia en gestión y ejecución de al menos un proyecto de CTeI en los últimos 5 años o un proyecto con recursos de CTeI del SGR, según el mecanismo de participación.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo en alianza, demostrar constitución mínima de 1 año antes de la apertura de la convocatoria y no estar en liquidación o reestructuración; presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las firmas en las cartas de aval pueden venir en hojas diferentes, pero deben estar en un único archivo PDF.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se requiere adjuntar aval de comité de Ética o Bioética para la presentación; se declara en la carta de aval si es necesario y se presentará en etapa de cumplimiento de requisitos del SGR si resulta elegible.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el periodo de subsanación no se podrá modificar la información del formulario SIGP sobre entidad ejecutora, alcance, mecanismo de participación o título del proyecto.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente debe consultar permanentemente que sus documentos estén registrados correctamente en SIGP antes del cierre y durante el periodo de ajuste.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "MINCIENCIAS verificará la consistencia de los documentos y reportará inconsistencias en observaciones generales del SIGP para ajuste durante el periodo establecido.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los resultados de la verificación de requisitos se consultan en el formulario de proyectos con usuario y contraseña, en el módulo 'Requisitos', campo 'Observaciones Generales de los Requisitos'.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de la fiabilidad, coherencia y completitud de la información en SIGP y anexos; información no coincidente no será tenida en cuenta.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Cuando el proyecto no se ajusta a las condiciones y requisitos establecidos en los presentes términos de referencia."
+    },
+    {
+      "texto": "Para los proyectos presentados al mecanismo de participación 1, cuando el valor solicitado al SGR sea inferior a ($3.000.000.000) TRES MIL MILLONES DE PESOS M/CTE o supere el monto indicativo establecido para la región del SGR al que pertenece el (los) departamento(s) objeto del proyecto de acuerdo con lo establecido en el numeral 5 -DURACIÓN Y FINANCIACIÓN del documento de condiciones específicas para el mecanismo de participación."
+    },
+    {
+      "texto": "Para los proyectos presentados al mecanismo de participación 2, cuando el valor solicitado al SGR sea inferior a ($6.500.000.000) SEIS MIL QUINIENTOS MILLONES DE PESOS M/CTE o supere los ($20.000.000.000) VEINTE MIL MILLONES DE PESOS M/CTE de acuerdo con lo establecido en el numeral 5 -DURACIÓN Y FINANCIACIÓN del documento de condiciones específicas para el mecanismo de participación."
+    },
+    {
+      "texto": "Cuando la entidad proponente o alguno de los miembros de la alianza (cuando aplique) no cumple con los términos y condiciones establecidos en los presentes términos de referencia."
+    },
+    {
+      "texto": "Cuando un mismo proyecto se presenta para más de uno de los mecanismos de participación habilitados para la presente convocatoria."
+    },
+    {
+      "texto": "Cuando un mismo proyecto se presente para más de una región del SGR habilitada en el mecanismo de participación 1."
+    },
+    {
+      "texto": "Cuando el proyecto no esté articulado con las demandas territoriales del (los) departamento (s) objeto del proyecto."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados (cuando aplique) se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, de recursos de MINCIENCIAS, del Sistema General de Regalías (SGR), o con otras fuentes de financiación."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados (cuando aplique) se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley."
+    },
+    {
+      "texto": "Cuando la entidad proponente en el mecanismo de participación 2 No sea un centro o instituto de investigación perteneciente al SINA o a alguna de las entidades adscritas, vinculadas o que brindan apoyo científico y técnico al Ministerio de Ambiente y Desarrollo Sostenible."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
+    }
+  ],
   "criterios_evaluacion": [],
-  "financiacion": null,
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": null
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1061,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 589,
+          "completion_tokens": 328
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 755,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 480,
+          "completion_tokens": 170
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2686,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 974,
+          "completion_tokens": 560
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8592,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2763,
+          "completion_tokens": 1240
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3357,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1171,
+          "completion_tokens": 826
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1974,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1016,
+          "completion_tokens": 92
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2143,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 872,
+          "completion_tokens": 114
+        }
       }
     }
   },
@@ -60,11 +252,10 @@
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Confirmar capacidad para cumplir requisitos de contrapartida si aplica",
-          "Validar experiencia en proyectos de I+D+i si la convocatoria lo exige"
+          "Validar que la Universidad del Rosario cumple con la experiencia en gestión/ejecución de al menos un proyecto de CTeI en los últimos 5 años (o un proyecto con recursos SGR) requerida en el numeral 11 del Dirigido A.",
+          "Verificar que el proyecto no requiera alianza obligatoria (la convocatoria no la exige en estos datos), y preparar carta de aval y compromiso institucional si postula sola."
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en la mayoría de convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida."
+        "resumen": "La Universidad del Rosario es una IES privada, con sede principal en Bogotá, reconocida por Minciencias y con acreditación institucional. Puede postularse sola en esta convocatoria ambiental, siempre que cumpla con el requisito de experiencia en CTeI y no requiera alianzas obligatorias."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -74,11 +265,10 @@
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Confirmar capacidad para cumplir requisitos de contrapartida si aplica",
-        "Validar experiencia en proyectos de I+D+i si la convocatoria lo exige"
+        "Validar que la Universidad del Rosario cumple con la experiencia en gestión/ejecución de al menos un proyecto de CTeI en los últimos 5 años (o un proyecto con recursos SGR) requerida en el numeral 11 del Dirigido A.",
+        "Verificar que el proyecto no requiera alianza obligatoria (la convocatoria no la exige en estos datos), y preparar carta de aval y compromiso institucional si postula sola."
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en la mayoría de convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida.",
+      "resumen": "La Universidad del Rosario es una IES privada, con sede principal en Bogotá, reconocida por Minciencias y con acreditación institucional. Puede postularse sola en esta convocatoria ambiental, siempre que cumpla con el requisito de experiencia en CTeI y no requiera alianzas obligatorias.",
       "fuente": "reglas+llm"
     }
   }

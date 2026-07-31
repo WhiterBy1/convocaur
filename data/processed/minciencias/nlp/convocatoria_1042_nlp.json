@@ -4,39 +4,173 @@
   "actores_elegibles": [],
   "alianza_obligatoria": null,
   "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "requisitos": [
+    {
+      "texto": "Presentar la propuesta dentro del plazo establecido: a más tardar el 24 de abril de 2023 hasta las 4:00 p.m.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la propuesta exclusivamente a través del formulario electrónico disponible en la plataforma SIGP de Minciencias.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Redactar la propuesta en idioma español.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Expresar las cifras en pesos colombianos (COP).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con la totalidad de los documentos mínimos establecidos en el numeral 6 del documento (no detallados en el texto proporcionado).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Propuesta presentada por fuera de las fechas, horas y canales indicados (extemporánea)."
+    },
+    {
+      "texto": "No cumplir con la totalidad de los documentos mínimos establecidos en el numeral 6 del documento."
+    },
+    {
+      "texto": "No cumplir con la totalidad de los requisitos mínimos establecidos en la invitación."
+    },
+    {
+      "texto": "No alcanzar un puntaje total igual o superior a 80 puntos en la evaluación."
+    },
+    {
+      "texto": "No alcanzar un mínimo de 21 puntos en el criterio de calidad de la propuesta."
+    },
+    {
+      "texto": "No subsanar los requisitos mínimos dentro del plazo establecido en la etapa de subsanación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": null,
+      "peso_pct": 30.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "Equipo técnico",
+      "puntaje_max": null,
+      "peso_pct": 25.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "Productos mínimos esperados de acuerdo con el numeral 4 del presente documento.",
+      "puntaje_max": null,
+      "peso_pct": 20.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "Propuesta económica detallada",
+      "puntaje_max": null,
+      "peso_pct": 10.0,
+      "descripcion": null
+    },
+    {
+      "nombre": "Productos, documentos y/o estrategias adicionales que contribuyan al desarrollo de la propuesta y que presenten un valor agregado a los productos establecidos en el anexo 1.",
+      "puntaje_max": null,
+      "peso_pct": 15.0,
+      "descripcion": null
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": 8,
+    "plazo_max_meses": 8,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "Plazo de ejecución: hasta 8 meses desde la legalización del contrato. No se especifica información de financiación."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12430,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3940,
+          "completion_tokens": 163
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12430,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4029,
+          "completion_tokens": 279
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12430,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3999,
+          "completion_tokens": 217
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12430,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4057,
+          "completion_tokens": 983
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12430,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3976,
+          "completion_tokens": 809
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 628,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 559,
+          "completion_tokens": 120
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4391,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1566,
+          "completion_tokens": 2461
+        }
       }
     }
   },
@@ -56,29 +190,29 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "elegible_con_condiciones",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar grupos de investigación reconocidos por Minciencias",
-          "Confirmar capacidad institucional para contrapartida si aplica",
-          "Validar experiencia en proyectos de ciencia y tecnología"
+          "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
+          "Verificar experiencia regional en el marco del SGR si aplica",
+          "Verificar capacidad de contrapartida"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a convocatorias Minciencias. No obstante, se deben validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida según los requisitos de la convocatoria."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "elegible_con_condiciones",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar grupos de investigación reconocidos por Minciencias",
-        "Confirmar capacidad institucional para contrapartida si aplica",
-        "Validar experiencia en proyectos de ciencia y tecnología"
+        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
+        "Verificar experiencia regional en el marco del SGR si aplica",
+        "Verificar capacidad de contrapartida"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a convocatorias Minciencias. No obstante, se deben validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida según los requisitos de la convocatoria.",
       "fuente": "reglas+llm"
     }
   }

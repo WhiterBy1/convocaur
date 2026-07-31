@@ -1,53 +1,309 @@
 {
   "convocatoria": "28",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "objetivo": "Conformar un listado de propuestas de proyecto elegibles que contribuya a la implementación de las recomendaciones establecidas por la Misión de Sabios en el Foco de Ciencias Básicas y del Espacio.",
+  "actores_elegibles": [
+    {
+      "tipo": "Academia",
+      "rol": "proponente o aliado",
+      "condicion": "Instituciones de Educación Superior públicas o privadas, incluyendo ESAP, ITEC, Instituto Caro y Cuervo, Universidad Militar Nueva Granada, escuelas de formación de Fuerzas Militares y Policía Nacional, SENA y Escuela Nacional del Deporte según artículo 137 Ley 30 de 1992."
+    },
+    {
+      "tipo": "Sector Productivo",
+      "rol": "proponente o aliado",
+      "condicion": "Persona jurídica de economía mixta, pública o privada, con o sin ánimo de lucro, gremio, cámara de comercio, caja de compensación, centro de desarrollo empresarial o corporación legalmente constituida en Colombia. También entidades clasificadas como generación de conocimiento científico, desarrollo tecnológico y transferencia de tecnología, o innovación y productividad."
+    },
+    {
+      "tipo": "Estado",
+      "rol": "proponente o aliado",
+      "condicion": "Entidades gubernamentales del orden nacional, regional, departamental o municipal."
+    },
+    {
+      "tipo": "Sociedad Civil Organizada",
+      "rol": "aliado o beneficiario",
+      "condicion": "Asociación, fundación, corporación, entidad del tercer sector, agremiación, grupos u organizaciones comunitarias con personería jurídica. Organizaciones de base comunitaria con representación legal pueden ser aliados; sin representación legal pueden ser beneficiarios presentando carta de aval."
+    },
+    {
+      "tipo": "Observatorio Astronómico",
+      "rol": "proponente o aliado",
+      "condicion": "Específico para temática No.3 (Ciencias Espaciales). Entidad con domicilio en Colombia, desarrolla investigación en Ciencias Espaciales, Astronomía o afines, constituida al menos 3 años antes de la apertura de la convocatoria."
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Segunda Revolución Cuántica",
+      "modalidad": null,
+      "descripcion_corta": "Aprovechamiento de la mecánica cuántica para manipulación del mundo físico y creación de estados cuánticos útiles para nuevas tecnologías cuánticas con aplicaciones en relojes atómicos, sensores médicos, inteligencia artificial, supercomputadores, comunicaciones y metrología."
+    },
+    {
+      "nombre": "Impacto de las Ciencias Básicas en el ambiente",
+      "modalidad": null,
+      "descripcion_corta": "Investigación en ciencias básicas para energías limpias, conocimiento de biodiversidad, remediación ambiental, nuevos catalizadores y agricultura ecológica, buscando un medio ambiente más limpio y mejor calidad de vida."
+    },
+    {
+      "nombre": "Ciencias Espaciales",
+      "modalidad": null,
+      "descripcion_corta": "Desarrollo de investigaciones para generación de conocimiento y fortalecimiento de infraestructura en ciencias espaciales, incluyendo mando y control, manufactura de satélites, observación de la tierra, astrofísica y astrometría, con énfasis en dotar al menos un observatorio astronómico del país."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir la propuesta de proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustada al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones del 'Dirigido A' establecido en la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para propuestas de una sola entidad, anexar 'Carta de aval y compromiso institucional' firmada por el representante legal o apoderado, junto con documentos que acrediten su facultad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para propuestas en alianza, anexar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' firmada por los representantes legales de todas las entidades nacionales, junto con documentos de acreditación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico según el contenido indicado en el numeral 8 (Anexo 2).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto requerido según el numeral 8.2 (Anexo 3), cumpliendo las condiciones del numeral 10.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5), con soportes, y demostrar experiencia en al menos 1 proyecto de CTeI en los últimos 5 años relacionado con la temática.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El investigador principal debe estar vinculado a alguna entidad de la alianza, relacionar su CvLAC en la propuesta, y solo puede ser IP en una sola propuesta.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los investigadores participantes deben registrar las líneas de investigación y el enlace de su ORCID en el anexo 10.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente o sus aliados deben registrar al menos un grupo de investigación reconocido por MINCIENCIAS vinculado a las entidades, en áreas de ciencias básicas, ciencias espaciales o astronomía.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo: demostrar constitución mínima de 3 años a partir de la apertura de la convocatoria, no estar en liquidación o reestructuración, y presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Que la propuesta de proyecto no se ajuste a las condiciones y requisitos establecidos en los presentes términos de referencia."
+    },
+    {
+      "texto": "Que el valor solicitado al SGR en la propuesta de proyecto para las temáticas 1 y 2 sea inferior a $4.000.000.000 o supere los $10.000.000.000."
+    },
+    {
+      "texto": "Que el valor solicitado al SGR en la propuesta de proyecto para la temática 3 sea inferior a $9.000.000.000 o supere los $10.000.000.000."
+    },
+    {
+      "texto": "Que la entidad proponente o alguno de los miembros de la alianza no cumpla con los términos y condiciones establecidos en los presentes términos de referencia."
+    },
+    {
+      "texto": "En calidad de Investigador Principal, un investigador solo podrá fungir en una (1) sola propuesta. Si como Investigador Principal participa en más de una propuesta, solo se tendrá en cuenta la primera propuesta registrada."
+    },
+    {
+      "texto": "Que la propuesta presentada se encuentre en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, con recursos de MINCIENCIAS, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, la propuesta será retirada e inhabilitada del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad científico-técnica de la propuesta de proyecto (Temática 1)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Congruencia entre los diferentes componentes del proyecto (pregunta de investigación, coherencia con el alcance de la convocatoria, problemática, objetivos, alternativa de solución, metodología, estrategia de socialización y divulgación, etc.)"
+    },
+    {
+      "nombre": "Contribución al desarrollo regional y al fortalecimiento de capacidades propias en materia de CTeI (Temática 1)",
+      "puntaje_max": 34.0,
+      "peso_pct": null,
+      "descripcion": "Productos de generación de nuevo conocimiento (artículos indexados o patentes) y contribución a la formación de estudiantes y vinculación de personal de alto nivel (estancias posdoctorales)."
+    },
+    {
+      "nombre": "Idoneidad y trayectoria de la entidad proponente y de los aliados (Temática 1)",
+      "puntaje_max": 28.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia y trayectoria del equipo (categorización Minciencias, índice H), vinculación de diáspora científica, y participación de entidades de la cuádruple hélice."
+    },
+    {
+      "nombre": "Pertinencia e impacto del proyecto al desarrollo regional (Temática 1)",
+      "puntaje_max": 18.0,
+      "peso_pct": null,
+      "descripcion": "Impacto de los productos de la propuesta frente al número de regiones del SGR."
+    },
+    {
+      "nombre": "Enfoque Diferencial (Temática 1)",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Inclusión de población con enfoque diferencial (género, étnico, vulnerable, discapacidad) en el equipo de trabajo o beneficiarios."
+    },
+    {
+      "nombre": "Calidad científico-técnica de la propuesta de proyecto (Temática 2)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Congruencia entre los diferentes componentes del proyecto (pregunta de investigación, coherencia con el alcance de la convocatoria, problemática, objetivos, alternativa de solución, metodología, estrategia de socialización y divulgación, etc.)"
+    },
+    {
+      "nombre": "Contribución al desarrollo regional y al fortalecimiento de capacidades propias en materia de CTeI (Temática 2)",
+      "puntaje_max": 34.0,
+      "peso_pct": null,
+      "descripcion": "Productos de generación de nuevo conocimiento (artículos, patentes, nuevas variedades vegetales o razas mejoradas) y contribución a la formación de estudiantes y vinculación de personal de alto nivel."
+    },
+    {
+      "nombre": "Idoneidad y trayectoria de la entidad proponente y de los aliados (Temática 2)",
+      "puntaje_max": 28.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia y trayectoria del equipo (categorización Minciencias, índice H), vinculación de diáspora científica, y participación de entidades de la cuádruple hélice."
+    },
+    {
+      "nombre": "Pertinencia e impacto del proyecto al desarrollo regional (Temática 2)",
+      "puntaje_max": 18.0,
+      "peso_pct": null,
+      "descripcion": "Impacto de los productos frente al número de regiones del SGR (10 pts) y relación con demandas territoriales (8 pts)."
+    },
+    {
+      "nombre": "Enfoque Diferencial (Temática 2)",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Inclusión de población con enfoque diferencial (género, étnico, vulnerable, discapacidad) en el equipo de trabajo o beneficiarios."
+    },
+    {
+      "nombre": "Calidad científico-técnica de la propuesta de proyecto (Temática 3)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Congruencia entre los diferentes componentes del proyecto, incluyendo estrategia de fortalecimiento de capacidades en CTeI para al menos otro observatorio astronómico en el territorio nacional."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "TREINTA MIL MILLONES DE PESOS M/CTE ($ 30.000.000.000)",
+    "monto_total_cop": 30000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Asignación para la CTeI del SGR 2021-2022",
+    "notas": "Monto total asignado a la convocatoria. Las propuestas pueden solicitar montos específicos según temática: Temática 1 y 2: desde $4.000 hasta $10.000 millones; Temática 3: desde $9.000 hasta $10.000 millones."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 405,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 368,
+          "completion_tokens": 141
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5265,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1690,
+          "completion_tokens": 2763
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6146,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1862,
+          "completion_tokens": 462
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9766,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3071,
+          "completion_tokens": 1963
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2467,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 943,
+          "completion_tokens": 475
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5803,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1907,
+          "completion_tokens": 199
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4440,
+          "completion_tokens": 4108
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -57,28 +313,28 @@
       "data": {
         "puede_postularse": true,
         "modo": "sola",
-        "rol_sugerido": "ejecutora",
+        "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Verificar capacidad para cumplir con contrapartidas requeridas",
-          "Verificar experiencia en proyectos de I+D+i según convocatoria específica"
+          "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años relacionado con Ciencias Básicas y/o del Espacio",
+          "Carta de aval y compromiso institucional firmada por representante legal",
+          "Acreditación de facultades del representante legal"
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada institucionalmente y reconocida por el SNCTI, cumple con los requisitos básicos para postularse como ejecutora en convocatorias de Minciencias. Sin embargo, deben validarse condiciones específicas como la existencia de grupos de investigación y la capacidad de contrapartida según la convocatoria."
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible como entidad académica para postularse como proponente o aliado en la convocatoria. Sin embargo, deberá verificar que cumple con la experiencia en proyectos de CTeI en el área temática y los requisitos documentales exigidos."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
       "modo": "sola",
-      "rol_sugerido": "ejecutora",
+      "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Verificar capacidad para cumplir con contrapartidas requeridas",
-        "Verificar experiencia en proyectos de I+D+i según convocatoria específica"
+        "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años relacionado con Ciencias Básicas y/o del Espacio",
+        "Carta de aval y compromiso institucional firmada por representante legal",
+        "Acreditación de facultades del representante legal"
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada institucionalmente y reconocida por el SNCTI, cumple con los requisitos básicos para postularse como ejecutora en convocatorias de Minciencias. Sin embargo, deben validarse condiciones específicas como la existencia de grupos de investigación y la capacidad de contrapartida según la convocatoria.",
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible como entidad académica para postularse como proponente o aliado en la convocatoria. Sin embargo, deberá verificar que cumple con la experiencia en proyectos de CTeI en el área temática y los requisitos documentales exigidos.",
       "fuente": "reglas+llm"
     }
   }

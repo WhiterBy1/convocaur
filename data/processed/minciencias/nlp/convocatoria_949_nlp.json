@@ -1,42 +1,389 @@
 {
   "convocatoria": "949",
-  "objetivo": null,
+  "objetivo": "Contribuir a la generación y/o fortalecimiento de las capacidades territoriales en salud, mediante el fomento de estrategias sectoriales e intersectoriales para el desarrollo, apropiación y/o validación de tecnologías en salud en Colombia con enfoque territorial y de diversidad.",
   "actores_elegibles": [],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento CTeI para respuestas frente a transformaciones del medioambiente por la acción humana",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i sobre problemáticas de la relación entre transformaciones ambientales por el modelo de desarrollo y la salud colectiva, como contaminación del aire, agua y suelo, y resistencia antimicrobiana."
+    },
+    {
+      "nombre": "Fortalecimiento CTeI para un envejecimiento activo y con equidad",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i para mejorar calidad de vida y equidad en acceso a servicios integrales de salud, incluyendo tecnologías para promoción de factores protectores y prevención de enfermedades crónicas."
+    },
+    {
+      "nombre": "Fortalecimiento CTeI para modelos de atención predictivo, preventivo y resolutivo, sustentado en la Atención Primaria en Salud",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i sobre tecnologías para prevención primaria, abordando gasto de bolsillo, efectividad de prevención, mortalidad evitable, diagnóstico temprano y salud digital."
+    },
+    {
+      "nombre": "Fortalecimiento CTeI para el control o la eliminación de enfermedades desatendidas o transmitidas por vectores",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i para desarrollo de tecnologías de promoción, prevención, recuperación y rehabilitación en enfermedades como Chagas, leishmaniasis, dengue, entre otras."
+    },
+    {
+      "nombre": "Fortalecimiento CTeI para proceso de trabajo en salud con respeto de derechos",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i sobre problemáticas de distribución, disponibilidad y formación del talento humano en salud, y condiciones de empleo y trabajo digno."
+    },
+    {
+      "nombre": "Fortalecimiento CTeI para la comprensión y transformación de la salud colectiva desde la determinación social",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i que desarrollen tecnologías desde procesos históricos y sociales que determinan condiciones de vida y trabajo, incluyendo salud mental y entornos seguros."
+    },
+    {
+      "nombre": "Salud Propia, conocimientos y saberes ancestrales",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i para desarrollo y apropiación de tecnologías desde el diálogo de saberes, incluyendo salud rural, intercultural y terapias basadas en saberes ancestrales."
+    },
+    {
+      "nombre": "Evaluación de políticas y sistemas de salud",
+      "modalidad": null,
+      "descripcion_corta": "Programas de I+D+i para desarrollo y apropiación de tecnologías de evaluación de políticas, programas o acciones en salud, incluyendo modelos innovadores de análisis de datos."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir y finalizar la inscripción de la propuesta del Programa y los proyectos derivados en el SIGP, con la información del Anexo 1 y seleccionando una línea temática del numeral 4.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'Dirigido a' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 2 'Carta Unificada de aval, Compromiso Institucional y Modelo de Gobernanza' firmado por representantes legales de todas las entidades nacionales de la alianza.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Comprometer contrapartida mínima del 15% del valor solicitado al Ministerio (10% si incluye organizaciones sociales), especificando aportes en especie y/o dinero en la carta de aval.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar documento o acto administrativo que acredite existencia y representación legal de cada entidad de la alianza, con fecha de expedición no mayor a 3 meses.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP tres (3) proyectos articulados al Programa de I+D+i y un (1) modelo de evaluación del alcance.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El valor solicitado para financiar cada Programa I+D+i debe estar dentro de los topes máximo y mínimo establecidos por línea temática en el numeral 10.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 5 'Experiencia de las entidades que integran la alianza' con soportes; la entidad ejecutora debe demostrar experiencia en al menos 1 proyecto de I+D+i en salud.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir en el SIGP al Director del Programa de I+D+i y a los investigadores principales de los proyectos, con nombre, identificación y filiación institucional.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Director del Programa debe tener reconocimiento como investigador Emérito, Sénior o Asociado al cierre de la convocatoria y estar vinculado como personal de planta a una entidad ejecutora.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cada proyecto debe tener un único investigador principal con registro CvLAC actualizado, pudiendo actuar en solo un proyecto durante la ejecución del Programa.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los coinvestigadores nacionales deben contar con registro CvLAC actualizado; los internacionales deben adjuntar hojas de vida en el SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar aval del Comité de Ética/Bioética nacional que revise y avale los componentes éticos e instrumentos del programa, junto con el acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el Anexo 7 'Plan de actividades de los jóvenes investigadores e innovadores' completamente diligenciado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar evidencias de trámite, consultas previas, o permisos y licencias ambientales necesarios para la ejecución de la propuesta (si aplica).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en el SIGP el perfil, funciones y presupuesto para la vinculación de mínimo 3 y máximo 5 Jóvenes Investigadores e Innovadores.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para investigadores con enfoque de diversidad e interseccionalidad, adjuntar documentación especificada en la Tabla No. 1 y copia del documento de identidad (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "En caso de apoderados, anexar documento(s) que acrediten y faculten la representación legal de la entidad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades de orden territorial fuera del sector salud o actores públicos, adjuntar documento que los acredite como actor público o acuerdo de conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para organizaciones sociales vinculadas, adjuntar Anexo 6 'Modelo de aval de la organización social' con certificado de personería jurídica y representación legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe acreditar experiencia en I+D+i en salud mediante certificación de ejecución de contrato o acta de liquidación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El Director del Programa puede ser investigador principal de solo uno de los proyectos relacionados con la propuesta.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para desarrollos que requieran ensayos clínicos aleatorizados, deben estar certificados o aprobados por la entidad competente antes de implementarse.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El equipo de trabajo registrado en el SIGP debe coincidir con la información del Anexo 2 y tener la composición mínima de personal científico especificada.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los Centros autónomos y reconocidos por Minciencias no están obligados a aportar contrapartida; el porcentaje total debe ser cubierto por las demás entidades de la alianza.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Estar incurso en causales de inhabilidad, incompatibilidad o conflicto de intereses según la Constitución Política, el Artículo 8º de la Ley 80 de 1993, la Ley 1474 de 2011, y demás normas concordantes, de acuerdo con el numeral 4 del Artículo 42 de la Ley 1952 de 2019, en concordancia con el Artículo 60 de la Ley 610 de 2000 y la Ley 2097 de 2021."
+    },
+    {
+      "texto": "No pago de las multas señaladas en el artículo 5° de la Ley 828 de 2003, lo cual inhabilita para contratar con el Estado mientras persista la deuda, salvo procesos concursales con acuerdos de pago según Ley 550 de 1999."
+    },
+    {
+      "texto": "El investigador en calidad de Director del Programa participa en más de una (1) propuesta de Programa de I+D+i o participa en otras propuestas de Programas de I+D+i en ningún rol."
+    },
+    {
+      "texto": "El investigador en calidad de Investigador principal del proyecto participa en más de una (1) propuesta de proyectos del mismo programa."
+    },
+    {
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "La entidad que se presente en calidad de Ejecutora presenta más de un programa a esta convocatoria; solo se tendrá en cuenta el primer Programa de I+D+i radicado que cumpla con los requisitos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "La propuesta presentada es financiada simultáneamente con recursos de otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR) o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y no encontrarse apto para contratar de acuerdo con lo establecido en la Constitución, la ley y reglamentos en cualquier etapa del proceso: pre-contractual y contractual."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Coherencia y articulación en la estructura de la propuesta del Programa de I+D+i",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Alineación entre política pública, temática, justificación, objetivos, metodología, plan de actividades, recursos, productos y resultados esperados, y concordancia entre el Programa y sus proyectos asociados."
+    },
+    {
+      "nombre": "Pertinencia del Programa de I+D+i",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Contribución a soberanía sanitaria y bienestar social, fortalecimiento territorial, claridad científica y concreción de preguntas de investigación e hipótesis."
+    },
+    {
+      "nombre": "Conocimiento de los riesgos técnicos del Programa",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Visión integral de riesgos y estrategias para mitigarlos, controlarlos, evitarlos o transferirlos."
+    },
+    {
+      "nombre": "Experiencia y trayectoria de las entidades de conformando la alianza",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Experiencia en CTI en salud, sinergias interinstitucionales, interdisciplinariedad y compromisos."
+    },
+    {
+      "nombre": "Conformación del equipo de investigación",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Capacidad y trayectoria del equipo para el desarrollo exitoso de la propuesta."
+    },
+    {
+      "nombre": "Organizaciones comunitarias o movimiento social",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntuación por inclusión de organización con personería jurídica (3 puntos) y experiencia en diversidad e interseccionalidad (2 puntos)."
+    },
+    {
+      "nombre": "Estructura de la alianza",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Claridad de acuerdos, modelo de operación legal, administrativo, financiero y de propiedad intelectual, y mecanismos de coordinación."
+    },
+    {
+      "nombre": "Generación de productos de nuevo conocimiento de desarrollo tecnológico e innovación asociados al Programa de I+D+i",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Obtención de productos tipo Top (hasta 6 puntos) y tipo A (hasta 4 puntos), con máximo 6 puntos."
+    },
+    {
+      "nombre": "Apropiación y transferencia de resultados",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Potencial de implementación de tecnologías en salud en otros territorios y fortalecimiento de capacidades territoriales."
+    },
+    {
+      "nombre": "Que la E.S.E. o la entidad aliada se encuentre ubicada en algún municipio categoría 5 o 6",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Municipio categoría 5: 2 puntos; categoría 6: 3 puntos. No se suman puntos por múltiples municipios."
+    },
+    {
+      "nombre": "Que el Programa I+D+i desarrolle una intervención en algún municipio categoría 5 o 6",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Municipio categoría 5: 2 puntos; categoría 6: 3 puntos. No se suman puntos por múltiples municipios."
+    },
+    {
+      "nombre": "Participación de E.S.E. u organizaciones de más de un municipio categoría 4, 5 o 6",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "4 puntos si participan entidades o intervenciones en más de un municipio categoría 4, 5 o 6."
+    },
+    {
+      "nombre": "Domicilio de las entidades que conforman la alianza",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Centro de investigación o IES del mismo departamento que la E.S.E. (2 puntos); organización en municipio categoría 4, 5 o 6 (3 puntos)."
+    },
+    {
+      "nombre": "Enfoque de diversidad e interseccionalidad - Reconocimiento en el programa",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "El programa reconoce enfoque de diversidad e interseccionalidad y propone inclusión de esta población."
+    },
+    {
+      "nombre": "Enfoque de diversidad e interseccionalidad - Grupo de investigadores",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "El grupo de investigadores pertenece a al menos una categoría de enfoque diferencial o interseccional."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CUARENTA Y NUEVE MIL MILLONES DE PESOS M/CTE ($49.000.000.000)",
+    "monto_total_cop": 49000000000.0,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 48,
+    "contrapartida_pct_min": 10.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación",
+    "notas": "La contrapartida mínima general es del 15% del valor solicitado (sin incluir jóvenes investigadores), pero se reduce al 10% si la alianza incluye Organizaciones Comunitarias. Los Centros Autónomos no están obligados a aportar contrapartida. El monto total incluye recursos para jóvenes investigadores (mínimo 3, máximo 5 por programa, con un valor máximo de $324.000.000)."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7312,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2483,
+          "completion_tokens": 175
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4192,
+          "completion_tokens": 23
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4465,
+          "completion_tokens": 1089
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12477,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3951,
+          "completion_tokens": 1503
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3481,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1334,
+          "completion_tokens": 1745
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9516,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3480,
+          "completion_tokens": 1038
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4534,
+          "completion_tokens": 1124
+        }
       }
     }
   },
@@ -56,29 +403,29 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
-          "Verificar capacidad institucional para ejecutar proyectos de I+D+i",
-          "Verificar disponibilidad de contrapartida si es requerida"
+          "Verificar que la universidad cumple con el perfil de entidad elegible definido en el numeral 'Dirigido a' de los TdR",
+          "Verificar que la universidad cuenta con la capacidad de comprometer la contrapartida mínima del 15%",
+          "Verificar que la universidad tiene experiencia en al menos 1 proyecto de I+D+i en salud si actúa como entidad ejecutora"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y acreditada institucionalmente, con sede principal en Bogotá. Puede postularse como ejecutora en convocatorias Minciencias, sujeto a verificación de grupos de investigación y capacidad institucional."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse en alianza con otras entidades para esta convocatoria territorial en salud. Se sugiere su rol como entidad ejecutora, sujeto a verificación de experiencia en I+D+i salud y capacidad de contrapartida."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
-        "Verificar capacidad institucional para ejecutar proyectos de I+D+i",
-        "Verificar disponibilidad de contrapartida si es requerida"
+        "Verificar que la universidad cumple con el perfil de entidad elegible definido en el numeral 'Dirigido a' de los TdR",
+        "Verificar que la universidad cuenta con la capacidad de comprometer la contrapartida mínima del 15%",
+        "Verificar que la universidad tiene experiencia en al menos 1 proyecto de I+D+i en salud si actúa como entidad ejecutora"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y acreditada institucionalmente, con sede principal en Bogotá. Puede postularse como ejecutora en convocatorias Minciencias, sujeto a verificación de grupos de investigación y capacidad institucional.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse en alianza con otras entidades para esta convocatoria territorial en salud. Se sugiere su rol como entidad ejecutora, sujeto a verificación de experiencia en I+D+i salud y capacidad de contrapartida.",
       "fuente": "reglas+llm"
     }
   }
