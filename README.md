@@ -49,7 +49,7 @@ Detalle narrativo ampliado: [`docs/del_reto_a_mvp.md`](docs/del_reto_a_mvp.md).
 1. La web oficial publica **TdR y anexos descargables** (documentos completos).
 2. El dominio es **CTeI explícito**, alineado a Rosario.
 3. Permite un ciclo corto: scrape → PDF → secciones → JSON → elegibilidad → match.
-4. SECOP sigue siendo la evidencia de las **3 capacidades de mercado**, empaquetada en el laboratorio.
+4. SECOP sigue siendo la evidencia de las **3 capacidades de mercado**, empaquetada en `analisis/secop/`.
 
 ---
 
@@ -72,22 +72,23 @@ Gaps conocidos NLP/elegibilidad (hay secciones, falta NLP): **951, 963**.
 
 Elegibilidad (resumen n=95): ~**61** pueden postularse en algún modo; ~**34** no elegibles; modos frecuentes: `solo_en_alianza`, `no_elegible`, `sola`, etc.
 
-### 3.2 Matching (laboratorio José)
+### 3.2 Matching (paquete del proyecto)
 
 | Activo | Estado |
 |--------|--------|
 | Fórmula | `0.7·cosine(emb) + 0.3·cosine(tfidf) + boost` |
-| Cache embeddings | ~615 vectores en disco |
+| Código | `src/convocaur/matching/` + `scripts/run_match.py` |
+| Cache embeddings | ~615 vectores en `data/processed/matching/cache_embeddings/` |
 | Rankings precalculados | Convocatorias **45, 48, 976** (piloto UI) |
-| UI | FastAPI + HTML grafo → `laboratorio/jose/web/` (puerto 8765) |
+| UI | FastAPI + HTML grafo → `web/` (puerto 8765) |
 
-### 3.3 SECOP (laboratorio)
+### 3.3 SECOP (análisis de mercado)
 
 | Activo | Estado |
 |--------|--------|
 | Universo CTeI | Proxy UNSPSC **80 / 81 / 86**, desde ~2022 |
 | Cap. 1–2 | Notebooks EDA / correcciones / cierre tendencias |
-| Cap. 3 | Modelos en `laboratorio/datasecopexplora/salidas_capacidad3/modelos/` |
+| Cap. 3 | Modelos en `analisis/secop/salidas_capacidad3/modelos/` |
 | Mejor adjudicación (competitivo al publicar) | LightGBM **AUC ≈ 0.81** |
 | Presupuesto bins | HGB ~**61%** vs trivial ~28% |
 | Segmento tabular | HGB ~**68%** vs trivial ~62% (débil → embeddings futuros) |
@@ -108,7 +109,7 @@ Elegibilidad (resumen n=95): ~**61** pueden postularse en algún modo; ~**34** n
 - **Limpieza:** deduplicación tras recargas mid-download → `*_limpio.csv`.
 - **IPC:** anexo DANE `anex-IPC-jun2026.xlsx` → serie interpolada → montos en COP constantes (`*_deflactado*`).
 - **Outliers:** regla absoluto (>10¹³ COP) o relativo (>100× precio_base); CSV preferido `*_deflactado_sin_implausibles.csv` para no destruir HHI/series.
-- **Carpeta:** `laboratorio/datasecopexplora/` (CSV grandes gitignored).
+- **Carpeta:** `analisis/secop/` (CSV grandes gitignored).
 
 ### 4.2 Minciencias — convocatorias / TdR
 
@@ -165,7 +166,7 @@ Código: `src/convocaur/minciencias/`, `src/convocaur/nlp/`. Scripts: `scripts/`
 - **Por qué no “solo resueltos” en producción:** accuracy engañosa (trivial ~87%), AUC ~0.61.
 - Servir desde **backend Python** (joblib); Node solo como front del entregable.
 
-Notebook: `laboratorio/datasecopexplora/Capacidad3_entrenamiento_modelos.ipynb`.
+Notebook: `analisis/secop/Capacidad3_entrenamiento_modelos.ipynb`.
 
 ---
 
@@ -221,18 +222,18 @@ convocaur/
 ├── config/
 ├── docs/                     ← profundización por tema
 ├── scripts/                  ← orquestación CLI
+├── web/                      ← UI matching (FastAPI + grafo)
+├── analisis/secop/           ← SECOP Cap. 1–3 + modelos
 ├── src/convocaur/
 │   ├── paths.py              ← rutas canónicas
+│   ├── cargar_datos.py       ← loader Minciencias/Rosario
+│   ├── matching/             ← embeddings + TF-IDF + ranker
 │   ├── minciencias/          ← scrape, TdR, secciones
 │   ├── urosario/             ← HUB + CvLAC
 │   └── nlp/                  ← LLM, schemas, elegibilidad
-├── data/
-│   ├── raw/                  ← Minciencias + Rosario (PDFs gitignored)
-│   └── processed/            ← secciones, nlp, elegibilidad
-└── laboratorio/
-    ├── datasecopexplora/     ← SECOP + Cap.3 modelos
-    ├── jose/                 ← matching + web
-    └── {andres,josue,...}/   ← exploración por persona
+└── data/
+    ├── raw/                  ← Minciencias + Rosario (PDFs gitignored)
+    └── processed/            ← secciones, nlp, elegibilidad, matching
 ```
 
 Rutas Python: `src/convocaur/paths.py`.
@@ -249,10 +250,11 @@ Rutas Python: `src/convocaur/paths.py`.
 | [`docs/nlp_y_elegibilidad.md`](docs/nlp_y_elegibilidad.md) | OpenRouter, schemas, veredicto |
 | [`docs/capacidad_urosario.md`](docs/capacidad_urosario.md) | Docentes / CvLAC |
 | [`docs/datos.md`](docs/datos.md) | Inventario de archivos |
+| [`docs/catalogo_datos.md`](docs/catalogo_datos.md) | Rutas para notebooks / loaders |
 | [`docs/roadmap_matching.md`](docs/roadmap_matching.md) | Evolución match / RAG |
-| [`laboratorio/catalogo_datos.md`](laboratorio/catalogo_datos.md) | Rutas para notebooks |
-| [`laboratorio/datasecopexplora/README.md`](laboratorio/datasecopexplora/README.md) | SECOP + Cap.3 |
-| [`laboratorio/jose/matching/DECISIONES.md`](laboratorio/jose/matching/DECISIONES.md) | Decisiones del score |
+| [`docs/matching_decisiones.md`](docs/matching_decisiones.md) | Decisiones del score |
+| [`docs/hallazgos_exploracion.md`](docs/hallazgos_exploracion.md) | Hallazgos de exploración NLP/datos |
+| [`analisis/secop/README.md`](analisis/secop/README.md) | SECOP + Cap.3 |
 
 ---
 
@@ -272,8 +274,8 @@ set PYTHONPATH=src
 python scripts/run_nlp_piloto.py --convocatorias 48,45,976
 python scripts/run_elegibilidad.py
 
-# UI matching
-cd laboratorio/jose
+# Matching
+python scripts/run_match.py --convocatorias 45,48,976
 python web/api.py               # http://127.0.0.1:8765
 ```
 
@@ -282,11 +284,10 @@ Cargar modelo Cap.3 (Python backend):
 ```python
 import joblib
 from pathlib import Path
-p = Path("laboratorio/datasecopexplora/salidas_capacidad3/modelos/adjudicacion_competitivo.joblib")
+p = Path("analisis/secop/salidas_capacidad3/modelos/adjudicacion_competitivo.joblib")
 bundle = joblib.load(p)
 modelo = bundle[bundle["modelo_recomendado"]]
 ```
-
 ---
 
 ## 10. Principios que no negociamos en el MVP

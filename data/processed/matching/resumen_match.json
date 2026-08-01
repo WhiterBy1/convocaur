@@ -1,0 +1,29 @@
+[
+  {
+    "convocatoria": "convocatoria_45",
+    "n_candidatos_pool": 612,
+    "top1_id": "julian-david-cortes-sanchez",
+    "top1_nombre": "Julián David Cortés-Sánchez",
+    "top1_score": 0.4407401573877081,
+    "uso_embeddings": true,
+    "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\laboratorio\\jose\\salidas\\matching\\ranking_convocatoria_45.csv"
+  },
+  {
+    "convocatoria": "convocatoria_48",
+    "n_candidatos_pool": 612,
+    "top1_id": "carlos-humberto-valderrama-ardila",
+    "top1_nombre": "",
+    "top1_score": 0.49642933777765896,
+    "uso_embeddings": true,
+    "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\laboratorio\\jose\\salidas\\matching\\ranking_convocatoria_48.csv"
+  },
+  {
+    "convocatoria": "convocatoria_976",
+    "n_candidatos_pool": 612,
+    "top1_id": "julian-david-cortes-sanchez",
+    "top1_nombre": "Julián David Cortés-Sánchez",
+    "top1_score": 0.5035941190820158,
+    "uso_embeddings": true,
+    "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\laboratorio\\jose\\salidas\\matching\\ranking_convocatoria_976.csv"
+  }
+]

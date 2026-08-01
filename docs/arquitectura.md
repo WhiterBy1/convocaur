@@ -50,7 +50,7 @@ flowchart TB
 
 | Sí | No |
 |----|----|
-| Extraer requisitos, actores, montos, criterios de TdR | Sustituir el análisis SECOP de mercado (eso vive en `datasecopexplora`) |
+| Extraer requisitos, actores, montos, criterios de TdR | Sustituir el análisis SECOP de mercado (eso vive en `analisis/secop`) |
 | Decir si Rosario entra como IES y en qué modo | Inventar grupos A1 sin fuente |
 | Inventariar docentes + CvLAC y rankear match a convocatorias | Predecir adjudicaciones SECOP como producto final |
 | Dejar JSON/CSV reproducibles | Sustituir capacidad financiera interna |

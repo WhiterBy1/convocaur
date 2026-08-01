@@ -5,7 +5,7 @@ Documento de narrativa del proyecto **ServiSquad / ConvocaUR** (Universidad del 
 Une:
 
 1. el enunciado del reto (tres capacidades de IA sobre contratación pública);
-2. el trabajo de análisis SECOP en `datasecopexplora`;
+2. el trabajo de análisis SECOP en `analisis/secop/`;
 3. la decisión de MVP con **Minciencias + docentes Rosario**;
 4. la herramienta de **matching** convocatoria ↔ talento.
 
@@ -50,10 +50,10 @@ flowchart TB
 **Carpeta canónica (dentro de ConvocaUR):**
 
 ```text
-convocaur/laboratorio/datasecopexplora/
+convocaur/analisis/secop/
 ```
 
-(Copia integrada del workspace `Documents/datasecopexplora`.)
+(Copia integrada del workspace de exploración SECOP.)
 
 ### 2.1 Por qué SECOP (y ese CSV)
 
@@ -191,7 +191,7 @@ flowchart LR
 
 ## 4. La herramienta de match (ConvocaUR)
 
-Implementada bajo `convocaur/` (paquete limpio) y el laboratorio `laboratorio/jose/`.
+Implementada bajo `convocaur/` (`src/convocaur/matching/`, `web/`, `scripts/run_match.py`).
 
 ### 4.1 Cadena Minciencias
 
@@ -220,7 +220,7 @@ score = 0.7\cdot\cos_{emb} + 0.3\cdot\cos_{tfidf} + boost
 - Boost suave por CvLAC / categoría Minciencias.
 - UI FastAPI + grafo convocatoria → top docentes → aportes al puntaje.
 
-Detalle técnico: [`laboratorio/jose/matching/DECISIONES.md`](../laboratorio/jose/matching/DECISIONES.md), UI en [`laboratorio/jose/web/`](../laboratorio/jose/web/).
+Detalle técnico: [`matching_decisiones.md`](matching_decisiones.md), UI en [`../web/`](../web/).
 
 **Qué aporta al reto:** no predice adjudicaciones SECOP; **opera** la capa de talento para oportunidades CTeI detectables en Minciencias — el eslabón que el análisis de mercado no puede cerrar solo.
 
@@ -230,9 +230,9 @@ Detalle técnico: [`laboratorio/jose/matching/DECISIONES.md`](../laboratorio/jos
 
 | Pieza | Ubicación |
 |-------|-----------|
-| Análisis SECOP Cap. 1–3 + CSV + IPC | `convocaur/laboratorio/datasecopexplora/` |
+| Análisis SECOP Cap. 1–3 + CSV + IPC | `convocaur/analisis/secop/` |
 | Pipeline Minciencias + NLP + elegibilidad | `convocaur/` (`src/`, `data/`, `scripts/`) |
-| Matching + UI grafo | `convocaur/laboratorio/jose/` |
+| Matching + UI grafo | `convocaur/src/convocaur/matching/` + `convocaur/web/` |
 | Docs de arquitectura ConvocaUR | `convocaur/docs/` |
 
 ---
