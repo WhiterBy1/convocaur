@@ -112,6 +112,25 @@ Esas carpetas están en `.gitignore` → un `git push` a `main` **no** debería 
 
 ---
 
+## SECOP CTeI — vía mercado del reto
+
+> Vive en **`laboratorio/datasecopexplora/`** (copiado desde el workspace de exploración).
+> Los `secop_ctei_*.csv` (~2 GB) están en `.gitignore`.
+
+| Si quieres… | Archivo |
+|-------------|---------|
+| Procesos limpios | `laboratorio/datasecopexplora/secop_ctei_procesos_limpio.csv` |
+| Líneas limpias | `laboratorio/datasecopexplora/secop_ctei_lineas_limpio.csv` |
+| Procesos deflactados (IPC) | `laboratorio/datasecopexplora/secop_ctei_procesos_deflactado.csv` |
+| Serie IPC | `laboratorio/datasecopexplora/ipc_dane_mensual_interpolado_TOTAL.csv` |
+| Anexo DANE | `laboratorio/datasecopexplora/anex-IPC-jun2026.xlsx` |
+| EDA / Cap.1–3 | `laboratorio/datasecopexplora/*.ipynb` |
+
+Narrativa: [`docs/del_reto_a_mvp.md`](../docs/del_reto_a_mvp.md).  
+Constantes: `convocaur.paths.LAB_SECOP`, `SECOP_PROCESOS_DEFLACTADO`, etc.
+
+---
+
 ## Recetas rápidas
 
 ### Análisis de montos / elegibilidad

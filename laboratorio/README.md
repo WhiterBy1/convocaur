@@ -29,6 +29,7 @@ laboratorio/
 ├── README.md                 ← este archivo
 ├── catalogo_datos.md         ← rutas de cada CSV/JSON
 ├── _comun/cargar_datos.py    ← loader compartido
+├── datasecopexplora/         ← vía SECOP (CSV + notebooks Cap. 1–3)
 ├── josue/
 │   ├── exploracion.ipynb
 │   └── salidas/              ← gitignored
@@ -37,6 +38,10 @@ laboratorio/
 ├── jose/
 └── rodolfo/
 ```
+
+La carpeta **`datasecopexplora/`** concentra el análisis SECOP del reto (tendencias,
+mercado, baseline de adjudicación). Los CSV grandes están en `.gitignore`; los
+notebooks sí se versionan. Narrativa: [`docs/del_reto_a_mvp.md`](../docs/del_reto_a_mvp.md).
 
 ---
 

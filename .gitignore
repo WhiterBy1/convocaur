@@ -19,3 +19,12 @@ laboratorio/**/salidas/**
 # Raw de Minciencias (PDFs/DOCX descargados): pesa demasiado para git.
 # Respaldo completo en Google Drive, ver laboratorio/catalogo_datos.md
 data/raw/minciencias/
+
+# SECOP CTeI (datasecopexplora): CSV de cientos de MB + rar
+laboratorio/datasecopexplora/secop_ctei_*.csv
+laboratorio/datasecopexplora/*.rar
+laboratorio/datasecopexplora/img/
+laboratorio/datasecopexplora/salidas_capacidad3/
+!laboratorio/datasecopexplora/salidas_capacidad3/**/.gitkeep
+# Modelos entrenados: grandes; mantener local / Drive, no git
+laboratorio/datasecopexplora/salidas_capacidad3/modelos/*.joblib

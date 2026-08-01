@@ -33,6 +33,17 @@ JSON_PROFESORES = RAW_UROSARIO / "json_profesores"
 DOCENTES_CSV = RAW_UROSARIO / "docentes_urosario_con_id.csv"
 SIN_CVLAC_CSV = RAW_UROSARIO / "sin_cvlac.csv"
 
+# --- SECOP CTeI (vía mercado del reto; vive junto a notebooks en laboratorio) ---
+LAB = PROJECT_ROOT / "laboratorio"
+LAB_SECOP = LAB / "datasecopexplora"
+SECOP_PROCESOS_RAW = LAB_SECOP / "secop_ctei_procesos.csv"
+SECOP_LINEAS_RAW = LAB_SECOP / "secop_ctei_lineas.csv"
+SECOP_PROCESOS_LIMPIO = LAB_SECOP / "secop_ctei_procesos_limpio.csv"
+SECOP_LINEAS_LIMPIO = LAB_SECOP / "secop_ctei_lineas_limpio.csv"
+SECOP_PROCESOS_DEFLACTADO = LAB_SECOP / "secop_ctei_procesos_deflactado.csv"
+SECOP_IPC_XLSX = LAB_SECOP / "anex-IPC-jun2026.xlsx"
+SECOP_IPC_CSV = LAB_SECOP / "ipc_dane_mensual_interpolado_TOTAL.csv"
+
 # --- Secrets ---
 ENV_FILE = PROJECT_ROOT / ".env"
 

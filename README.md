@@ -14,7 +14,10 @@ Antes de usar NLP, copia `.env.example` → `.env` y pega tu `OPENROUTER_API_KEY
 1. Bajar y organizar convocatorias, TdR y anexos de Minciencias.
 2. Partir TdR por secciones y extraer campos tipados (LLM vía OpenRouter).
 3. Decidir si Rosario (IES) puede postularse y en qué modo.
-4. Inventariar docentes (HUB-UR + CvLAC) como base de matching futuro (embeddings/RAG).
+4. Hacer **match** de docentes (HUB-UR + CvLAC) con convocatorias (embeddings + TF-IDF + UI).
+
+La vía **SECOP** del reto (tendencias, mercado, predicción) vive en
+`laboratorio/datasecopexplora/`. Cómo se conectan ambas: [`docs/del_reto_a_mvp.md`](docs/del_reto_a_mvp.md).
 
 ---
 
@@ -83,14 +86,16 @@ Detalle de cada carpeta de datos: [`docs/datos.md`](docs/datos.md).
 
 | Doc | Contenido |
 |-----|-----------|
+| [Del reto al MVP](docs/del_reto_a_mvp.md) | SECOP (3 capacidades) → por qué Minciencias → matching docentes |
 | [Arquitectura](docs/arquitectura.md) | Capas, límites, qué SÍ / NO hace el sistema |
 | [Pipeline Minciencias](docs/pipeline_minciencias.md) | Scrape → archivos → TdR → secciones |
 | [Capacidad Rosario](docs/capacidad_urosario.md) | Docentes HUB + enriquecimiento CvLAC |
 | [NLP y elegibilidad](docs/nlp_y_elegibilidad.md) | OpenRouter, schemas, veredicto IES |
 | [Datos](docs/datos.md) | Dónde vive cada archivo de entrada/salida |
-| [Roadmap matching](docs/roadmap_matching.md) | Embeddings / RAG (siguiente capa) |
+| [Roadmap matching](docs/roadmap_matching.md) | Evolución embeddings / RAG |
 | [Laboratorio](laboratorio/README.md) | Trabajo en paralelo por persona (tests / análisis) |
 | [Catálogo datos lab](laboratorio/catalogo_datos.md) | Rutas CSV/JSON para análisis |
+| [UI matching José](laboratorio/jose/web/README.md) | FastAPI + grafo de match |
 
 ---
 
@@ -141,4 +146,7 @@ python scripts/run_elegibilidad.py --convocatorias 48,45,976
 - **Raw** = sin limpiar, reproducible.
 - **Processed** = tipado, comparable, auditable.
 - **LLM** = extracción y juicio, no predicción final de mercado.
-- **SECOP** queda fuera de este paquete (otra fuente); aquí el foco es **CTeI Minciencias ↔ Rosario**.
+- **SECOP** (3 capacidades de mercado) se analiza en
+  `laboratorio/datasecopexplora/`; este paquete se centra en
+  **CTeI Minciencias ↔ Rosario** (MVP + matching). Ver
+  [`docs/del_reto_a_mvp.md`](docs/del_reto_a_mvp.md).

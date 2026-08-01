@@ -50,10 +50,14 @@ flowchart TB
 
 | Sí | No |
 |----|----|
-| Extraer requisitos, actores, montos, criterios de TdR | Predecir adjudicaciones SECOP |
+| Extraer requisitos, actores, montos, criterios de TdR | Sustituir el análisis SECOP de mercado (eso vive en `datasecopexplora`) |
 | Decir si Rosario entra como IES y en qué modo | Inventar grupos A1 sin fuente |
-| Inventariar docentes + CvLAC | Sustituir capacidad financiera interna |
-| Dejar JSON/CSV reproducibles | Entrenar el modelo final de mercado |
+| Inventariar docentes + CvLAC y rankear match a convocatorias | Predecir adjudicaciones SECOP como producto final |
+| Dejar JSON/CSV reproducibles | Sustituir capacidad financiera interna |
+
+La narrativa completa del reto (SECOP ↔ Minciencias ↔ matching) está en
+[`del_reto_a_mvp.md`](del_reto_a_mvp.md).
+
 
 ---
 
