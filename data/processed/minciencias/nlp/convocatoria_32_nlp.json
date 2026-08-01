@@ -4,126 +4,131 @@
   "actores_elegibles": [
     {
       "tipo": "Academia",
-      "rol": null,
-      "condicion": "Instituciones de Educación Superior (IES) públicas o privadas, incluyendo ESAP, ITEC, SENA, etc."
+      "rol": "Proponente o Aliado",
+      "condicion": "Instituciones de Educación Superior públicas o privadas (técnicas, tecnológicas, universitarias, escuelas tecnológicas, universidades), incluyendo ESAP, ITEC, Instituto Caro y Cuervo, Universidad Militar Nueva Granada, escuelas de formación de FF.MM. y Policía, SENA, Escuela Nacional del Deporte."
     },
     {
       "tipo": "Sector Productivo",
-      "rol": null,
-      "condicion": "Personas jurídicas de economía mixta, pública o privada, con o sin ánimo de lucro, gremios, centros de desarrollo tecnológico, etc."
+      "rol": "Proponente o Aliado",
+      "condicion": "Persona jurídica de economía mixta, pública o privada con o sin ánimo de lucro, gremios, cámaras de comercio, centros de desarrollo empresarial, corporaciones; entidades clasificadas como generación de conocimiento (centros e institutos de investigación), desarrollo tecnológico (centros de desarrollo tecnológico, OTRIS), innovación (EIAs, unidades I+D+i, incubadoras, centros de innovación, parques científicos/tecnológicos)."
     },
     {
       "tipo": "Estado",
-      "rol": null,
+      "rol": "Proponente o Aliado",
       "condicion": "Entidades gubernamentales del orden nacional, regional, departamental o municipal."
     },
     {
       "tipo": "Sociedad Civil Organizada",
-      "rol": null,
-      "condicion": "Grupos, organizaciones o agremiaciones comunitarias con personería jurídica, ONGs, etc."
+      "rol": "Proponente o Aliado",
+      "condicion": "Grupos, organizaciones o agremiaciones comunitarias con personería jurídica en Colombia, o entidades del tercer sector (ONG), con operaciones departamental, regional o nacional."
+    },
+    {
+      "tipo": "Organización y/o Comunidad Campesina",
+      "rol": "Beneficiario",
+      "condicion": "Locales, comunitarias, rurales o populares, formales o informales, voluntarias, democráticas, cuyo fin primario es promover objetivos económicos o sociales de sus miembros; deben estar localizadas en el departamento objeto del proyecto. Pueden ser proponente o aliado si tienen representación legal."
     }
   ],
   "alianza_obligatoria": true,
   "lineas_tematicas": [
     {
-      "nombre": "Temática 1. I+D+i para la producción sostenible orientada al incremento de la disponibilidad de alimentos",
+      "nombre": "I+D+i para la producción sostenible orientada al incremento de la disponibilidad de alimentos",
       "modalidad": null,
-      "descripcion_corta": "Desarrollo e implementación de iniciativas de CTeI que conduzcan a elevar la productividad agrícola y pecuaria, mejorar la fertilidad del suelo y el abastecimiento de agua y el uso sostenible de la agrodiversidad."
+      "descripcion_corta": "Iniciativas de CTeI para elevar la productividad agrícola y pecuaria, mejorar la fertilidad del suelo, el abastecimiento de agua y el uso sostenible de la agrobiodiversidad."
     },
     {
-      "nombre": "Temática 2. I+D+i para el aseguramiento del acceso a los alimentos",
+      "nombre": "I+D+i para el aseguramiento del acceso a los alimentos",
       "modalidad": null,
-      "descripcion_corta": "Investigaciones, desarrollo y adopción de tecnologías, e innovaciones para el acceso a los alimentos y comercialización de productos agropecuarios."
+      "descripcion_corta": "Investigaciones y tecnologías para el acceso a los alimentos y comercialización de productos agropecuarios, incluyendo conservación, transformación y modelos de negocios innovadores."
     },
     {
-      "nombre": "Temática 3. I+D+i en utilización de alimentos para mejorar su calidad y la condición nutricional de la población",
+      "nombre": "I+D+i en utilización de alimentos para mejorar su calidad y la condición nutricional de la población",
       "modalidad": null,
-      "descripcion_corta": "Desarrollo e implementación de iniciativas de CTeI que permitan generar conocimiento, desarrollo tecnológico e innovaciones para la producción de alimentos básicos de alto valor nutritivo y de calidad."
+      "descripcion_corta": "Desarrollo de alimentos de alto valor nutritivo y calidad, mediante biofortificación, inocuidad y alimentos saludables."
     },
     {
-      "nombre": "Temática 4. I+D+i para la estabilidad alimentaria",
+      "nombre": "I+D+i para la estabilidad alimentaria",
       "modalidad": null,
-      "descripcion_corta": "Generar alternativas desde la Ciencia, Tecnología e Innovación para combatir la inestabilidad alimentaria."
+      "descripcion_corta": "Alternativas de CTeI para combatir la inestabilidad alimentaria mediante mitigación y adaptación al cambio climático y gestión del riesgo climático."
     }
   ],
   "requisitos": [
     {
-      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y con la información del numeral 9.",
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria y con la información del numeral 9.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con las especificaciones y condiciones del 'Dirigido A' establecido en el numeral 3 de los TdR.",
-      "tipo": "habilitante",
+      "texto": "Cumplir con las especificaciones y condiciones del 'Dirigido A' establecido en el numeral 3.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad proponente o sus aliados deben contar con al menos un grupo de investigación reconocido por Minciencias a la fecha de apertura. Requisito mínimo no subsanable.",
-      "tipo": "habilitante",
+      "texto": "La entidad proponente o sus aliados deben contar con al menos un Grupo de Investigación/Desarrollo Tecnológico o Innovación reconocido por Minciencias a la fecha de apertura.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Incluir al menos una organización/comunidad campesina como beneficiario, localizada en el departamento objeto, registrada en Anexo 2 y Anexo 4.",
+      "texto": "Incluir al menos una Organización y/o Comunidad Campesina como beneficiario, localizada en el departamento objeto de la propuesta.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las organizaciones/comunidades proponentes o aliadas deben contar con representación legal y suscribir el anexo 1.b.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las organizaciones deben contar con representación legal y suscribir el Anexo 1b. Una misma entidad no puede ser proponente/aliado y beneficiario simultáneamente.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Presentar el proyecto en alianza con al menos 2 actores de diferentes aspas de la cuádruple hélice, adjuntando Anexo 1b. Requisito mínimo no subsanable.",
+      "texto": "Los proyectos deben presentarse en alianza con al menos 2 actores de aspas diferentes de la cuádruple hélice, anexando la carta de aval y modelo de gobernanza.",
       "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Demostrar experiencia en gestión/ejecución de al menos un proyecto de CTeI con comunidades campesinas en los últimos 5 años o un proyecto SGR, adjuntando Anexo 5 y soportes.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Las entidades internacionales deben anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Las entidades del sector productivo deben estar constituidas mínimo 1 año (verificado en RUES o certificado de existencia y representación legal no mayor a 90 días). No pueden estar en liquidación o reestructuración.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar el documento técnico (Anexo 2) de acuerdo con el contenido del proyecto indicado en el numeral 9.1.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Cumplir con el alcance del numeral 6: orientarse a sistemas de producción de agricultura campesina, familiar y comunitaria, e incluir estrategias de gestión del conocimiento, formación y fomento de capacidades locales, y sostenibilidad. Requisito mínimo no subsanable.",
+      "texto": "Demostrar experiencia en gestión/ejecución de al menos un proyecto de CTeI que involucre comunidades campesinas en los últimos 5 años, o un proyecto de CTeI del SGR.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Atender al menos una demanda territorial del departamento objeto, registrada en SIGP y Anexo 2 (numerales 1 y 8).",
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades del sector productivo en la alianza, deben estar constituidas mínimo un año antes de la apertura, verificado en RUES o con certificado de existencia.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) según el contenido del proyecto indicado en el numeral 9.1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con el alcance del numeral 6: orientarse a sistemas de producción de agricultura campesina, familiar y comunitaria, incluyendo estrategias de gestión del conocimiento, formación y sostenibilidad.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Destinar al menos el 50% de los recursos solicitados al SGR para la estrategia de Formación y Fomento de Capacidades Locales, registrado en Anexo 1b.",
+      "texto": "Atender al menos una demanda territorial del departamento objeto de la propuesta, registrada en SIGP y Anexo 2.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Destinar al menos el 50% de los recursos solicitados al SGR para la estrategia de Formación y Fomento de Capacidades Locales.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Atender al menos una línea temática (pudiendo abordar más de una subtemática), registrado en SIGP y Anexo 2.",
+      "texto": "Atender al menos una línea temática, pudiendo abordar más de una subtemática por línea.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar el proyecto para atender las demandas territoriales de un solo departamento, registrado en SIGP y Anexo 2.",
-      "tipo": "tecnico",
+      "texto": "Presentar proyectos para atender demandas territoriales de un solo departamento.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el presupuesto (Anexo 3) cumpliendo las condiciones del numeral 11 (duración y financiación).",
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) cumpliendo las condiciones del numeral 11.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
@@ -133,45 +138,129 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "Destinar máximo el 10% de los recursos solicitados al SGR para el rubro capacitación y eventos, registrado en Anexo 1b.",
+      "texto": "Destinar máximo el 10% de los recursos solicitados al SGR para el rubro capacitación y eventos.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "En la etapa de subsanación no se podrá modificar la información registrada en el formulario SIGP concerniente a la Entidad proponente, Título del proyecto o que haga parte de los requisitos mínimos no subsanables.",
+      "texto": "No modificar la información registrada en SIGP sobre entidad proponente, título del proyecto o requisitos mínimos no subsanables durante la subsanación.",
       "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente es responsable de verificar que los documentos estén correctamente registrados en SIGP antes del cierre.",
+      "tipo": "documental",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [
     {
-      "texto": "8.1 No cumplir con los requisitos y lineamientos establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos por el MINISTERIO."
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro de los plazos establecidos por el MINISTERIO."
     },
     {
-      "texto": "8.2 El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
     },
     {
-      "texto": "8.3 Cuando se presenten modificaciones en la información registrada en el formulario SIGP y en el Documento Técnico (Anexo 2) referente a los grupos de investigación reconocidos por MINCIENCIAS al cierre de la convocatoria."
+      "texto": "Cuando se presenten modificaciones en la información registrada en el formulario SIGP y en el Documento Técnico (Anexo 2) referente a los grupos de investigación reconocidos por MINCIENCIAS al cierre de la convocatoria."
     },
     {
-      "texto": "8.4 Cuando se presenten modificaciones en la información registrada en el formulario SIGP, Carta Aval (Anexo 1b) y en el Documento Técnico (Anexo 2) referente a las entidades conformantes de la alianza al cierre de la convocatoria."
+      "texto": "Cuando se presenten modificaciones en la información registrada en el formulario SIGP, Carta Aval (Anexo 1b) y en el Documento Técnico (Anexo 2) referente a las entidades conformantes de la alianza al cierre de la convocatoria."
     },
     {
-      "texto": "8.5 Cuando se presenten modificaciones en la información registrada en el formulario SIGP y en el Documento Técnico (Anexo 2) respecto a: i) Sistemas de Producción de Agricultura Campesina, Familiar y Comunitaria, ii) Estrategia de Gestión del Conocimiento, iii) Estrategia de formación y fomento de capacidades locales, y iv) Estrategia de sostenibilidad del proyecto, al cierre de la convocatoria."
+      "texto": "Cuando se presenten modificaciones en la información registrada en el formulario SIGP y en el Documento Técnico (Anexo 2) respecto a: i) Sistemas de Producción de Agricultura Campesina, Familiar y Comunitaria, ii) Estrategia de Gestión del Conocimiento, iii) Estrategia de formación y fomento de capacidades locales, y iv) Estrategia de sostenibilidad del proyecto, al cierre de la convocatoria."
     },
     {
-      "texto": "8.6 Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, con recursos del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR), o con otras fuentes de financiación."
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, con recursos del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR), o con otras fuentes de financiación."
     },
     {
-      "texto": "8.7 Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley, y/o que tenga algún impedimento legal para contratar."
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de prohibiciones, incompatibilidades, impedimentos y/o inhabilidades establecidas en la Ley, y/o que tenga algún impedimento legal para contratar."
     },
     {
-      "texto": "8.8 En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
     }
   ],
-  "criterios_evaluacion": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Congruencia entre los diferentes componentes del proyecto (problemática, objetivos, alternativa de solución, cadena de valor, presupuesto) para conseguir los resultados propuestos en CTeI",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia interna del proyecto entre sus elementos clave para lograr los resultados en ciencia, tecnología e innovación."
+    },
+    {
+      "nombre": "1.2 Congruencia general de estrategias de gestión y validación del conocimiento, formación y fomento de capacidades locales, y sostenibilidad del proyecto, en atención a demandas territoriales del departamento",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la alineación de las estrategias del proyecto con las necesidades territoriales del departamento."
+    },
+    {
+      "nombre": "2.1 Número de comunidad(es) campesina(s) impactadas con el proyecto",
+      "puntaje_max": 12.0,
+      "peso_pct": null,
+      "descripcion": "Puntúa según la cantidad de municipios u organizaciones campesinas impactadas, con variantes para departamentos especiales."
+    },
+    {
+      "nombre": "2.2 El proyecto atiende a al menos una de las cadenas productivas priorizadas por el PECTIA para el departamento objeto",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Verifica la alineación del proyecto con las cadenas productivas del Plan Estratégico de CTeI del sector agropecuario."
+    },
+    {
+      "nombre": "2.3 El proyecto impacta comunidades campesinas en municipios PDET, ZOMAC o incluye comunidades con enfoque mujer, afro, indígenas",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el impacto en comunidades en zonas de posconflicto o con enfoque diferencial."
+    },
+    {
+      "nombre": "3.1 Experiencia y trayectoria de la entidad proponente y aliados para el desarrollo del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntúa según la participación de entidades de diferentes hélices del ecosistema CTeI (academia, empresa, estado, sociedad)."
+    },
+    {
+      "nombre": "3.2 Experiencia de las entidades participantes en el Área Estratégica de la convocatoria",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la experiencia previa en proyectos de CTeI en seguridad/soberanía alimentaria y trabajo con comunidades campesinas."
+    },
+    {
+      "nombre": "3.3 Aportes de los integrantes de la alianza para la consecución de objetivos y actividades del proyecto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntúa según la diversidad de aportes (financieros, técnicos/tecnológicos, talento humano) de los miembros de la alianza."
+    },
+    {
+      "nombre": "4.1 El proyecto contempla desarrollo de prueba de concepto validada, prototipo o producto tecnológico bien o servicio con aplicación a necesidades de la comunidad",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el nivel de madurez tecnológica: prototipo/piloto en ambiente relevante (6 pts) o prueba de concepto validada en campo (3 pts)."
+    },
+    {
+      "nombre": "4.2 El proyecto contempla procesos de fomento de vocaciones en CTeI para niños, niñas y adolescentes de la(s) comunidad(es)",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Verifica si el proyecto incluye actividades de formación vocacional en ciencia y tecnología para los jóvenes de la comunidad."
+    },
+    {
+      "nombre": "4.3 En el proyecto se evidencia adaptación y/o adecuación de prácticas o conocimientos ancestrales-tradicionales para mejorar procesos productivos",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la incorporación de saberes tradicionales en el proyecto."
+    },
+    {
+      "nombre": "4.4 El proyecto contempla desarrollo de productos de nuevo conocimiento con potencial uso para la comunidad académica, científica y local",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Puntúa según la publicación de artículos en categorías altas (A1,A2,B) o nueva variedad vegetal/raza animal (6 pts) o artículos categoría C/D (3 pts)."
+    },
+    {
+      "nombre": "5.1 Contribución del proyecto al logro de los ODS 1 y 2, alineación con el Plan Nacional de Desarrollo y estrategias nacionales de producción sostenible o cambio climático",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la contribución a los Objetivos de Desarrollo Sostenible de fin de la pobreza y hambre cero, y coherencia con políticas nacionales."
+    }
+  ],
   "financiacion": {
-    "monto_total_texto": "CIENTO ONCE MIL MILLONES DE PESOS M/CTE ($ 111.000.000.000)",
+    "monto_total_texto": "CIENTO ONCE MIL MILLONES DE PESOS M/CTE ($111.000.000.000)",
     "monto_total_cop": 111000000000.0,
     "plazo_min_meses": null,
     "plazo_max_meses": 36,
@@ -186,33 +275,33 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 568,
+        "chars_enviados": 534,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 398,
-          "completion_tokens": 324
+          "prompt_tokens": 391,
+          "completion_tokens": 127
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 7185,
+        "chars_enviados": 6982,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2268,
-          "completion_tokens": 2551
+          "prompt_tokens": 2202,
+          "completion_tokens": 462
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 9596,
+        "chars_enviados": 9194,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2866,
-          "completion_tokens": 1592
+          "prompt_tokens": 2748,
+          "completion_tokens": 850
         }
       },
       "requisitos": {
@@ -222,35 +311,42 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4319,
-          "completion_tokens": 2666
+          "prompt_tokens": 4344,
+          "completion_tokens": 1093
         }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2751,
+        "chars_enviados": 2679,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1024,
-          "completion_tokens": 889
+          "prompt_tokens": 1003,
+          "completion_tokens": 668
         }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 5700,
+        "chars_enviados": 5479,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1935,
-          "completion_tokens": 703
+          "prompt_tokens": 1864,
+          "completion_tokens": 944
         }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9398,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3008,
+          "completion_tokens": 3342
+        }
       }
     }
   },
@@ -269,26 +365,32 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": false,
-        "modo": "no_elegible",
-        "rol_sugerido": null,
-        "bloqueantes": [
-          "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "proponente",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la universidad tenga al menos un Grupo de Investigación/Desarrollo Tecnológico/Innovación reconocido por Minciencias a la fecha de apertura.",
+          "Incluir al menos una Organización y/o Comunidad Campesina como beneficiario en el proyecto, localizada en el departamento objeto de la propuesta.",
+          "Formar alianza con al menos 2 actores de aspas diferentes de la cuádruple hélice, anexando carta de aval y modelo de gobernanza.",
+          "Demostrar experiencia en gestión/ejecución de al menos un proyecto de CTeI que involucre comunidades campesinas en los últimos 5 años, o un proyecto de CTeI del SGR."
         ],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria no incluye a las IES como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza."
+        "resumen": "La Universidad del Rosario es elegible como proponente o aliado en esta convocatoria, ya que es una IES privada reconocida y la convocatoria incluye a las IES como actores elegibles. Sin embargo, la convocatoria exige alianzas obligatorias con al menos dos actores de diferentes hélices y la inclusión de una organización campesina como beneficiario. Además, se deben verificar condiciones como la existencia de un grupo de investigación reconocido y experiencia en proyectos CTeI con comunidades campesinas."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": false,
-      "modo": "no_elegible",
-      "rol_sugerido": null,
-      "bloqueantes": [
-        "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad tenga al menos un Grupo de Investigación/Desarrollo Tecnológico/Innovación reconocido por Minciencias a la fecha de apertura.",
+        "Incluir al menos una Organización y/o Comunidad Campesina como beneficiario en el proyecto, localizada en el departamento objeto de la propuesta.",
+        "Formar alianza con al menos 2 actores de aspas diferentes de la cuádruple hélice, anexando carta de aval y modelo de gobernanza.",
+        "Demostrar experiencia en gestión/ejecución de al menos un proyecto de CTeI que involucre comunidades campesinas en los últimos 5 años, o un proyecto de CTeI del SGR."
       ],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria no incluye a las IES como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza.",
+      "resumen": "La Universidad del Rosario es elegible como proponente o aliado en esta convocatoria, ya que es una IES privada reconocida y la convocatoria incluye a las IES como actores elegibles. Sin embargo, la convocatoria exige alianzas obligatorias con al menos dos actores de diferentes hélices y la inclusión de una organización campesina como beneficiario. Además, se deben verificar condiciones como la existencia de un grupo de investigación reconocido y experiencia en proyectos CTeI con comunidades campesinas.",
       "fuente": "reglas+llm"
     }
   }

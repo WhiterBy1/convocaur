@@ -1,0 +1,40 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La Universidad del Rosario es una IES/universidad, pero la convocatoria no incluye a las IES como actor elegible para ningún rol (ejecutora o aliada).",
+        "La convocatoria exige alianza obligatoria, pero la universidad no puede participar ni como ejecutora (solo asociaciones, cooperativas, organizaciones rurales) ni como aliada (solo empresas o actores SNCTI reconocidos como grupos, centros, etc., no la institución en sí)."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque el tipo de actor (Universidad/IES) no está listado entre los elegibles para ejecutoras ni aliadas. La convocatoria está dirigida a asociaciones campesinas, cooperativas, organizaciones productivas rurales como ejecutoras, y empresas o actores SNCTI específicos como aliados, sin incluir universidades."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La Universidad del Rosario es una IES/universidad, pero la convocatoria no incluye a las IES como actor elegible para ningún rol (ejecutora o aliada).",
+      "La convocatoria exige alianza obligatoria, pero la universidad no puede participar ni como ejecutora (solo asociaciones, cooperativas, organizaciones rurales) ni como aliada (solo empresas o actores SNCTI reconocidos como grupos, centros, etc., no la institución en sí)."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque el tipo de actor (Universidad/IES) no está listado entre los elegibles para ejecutoras ni aliadas. La convocatoria está dirigida a asociaciones campesinas, cooperativas, organizaciones productivas rurales como ejecutoras, y empresas o actores SNCTI específicos como aliados, sin incluir universidades.",
+    "fuente": "reglas+llm"
+  }
+}

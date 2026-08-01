@@ -1,97 +1,184 @@
 {
   "convocatoria": "952",
-  "objetivo": "Conformar un Banco de Elegibles de movilidades internacionales para el desarrollo de propuestas conjuntas de investigación, desarrollo tecnológico e innovación I+D+i, formuladas con pares internacionales ubicados en Alemania o Francia.",
-  "actores_elegibles": [],
+  "objetivo": "Conformar un Banco de Elegibles de movilidades internacionales, en el marco del desarrollo de propuestas conjuntas de investigación, desarrollo tecnológico e innovación I+D+i, formuladas con pares internacionales ubicados en Alemania o Francia.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidades del SNCTI",
+      "rol": "Presentan propuestas de I+D+i",
+      "condicion": null
+    },
+    {
+      "tipo": "Investigador Junior, Asociado, Senior o Emérito",
+      "rol": "Vinculado a la propuesta de I+D+i",
+      "condicion": "Reconocimiento vigente por Minciencias al cierre de la convocatoria"
+    },
+    {
+      "tipo": "Estudiante de doctorado",
+      "rol": "Vinculado a la propuesta de I+D+i",
+      "condicion": "Registro calificado vigente del MEN"
+    },
+    {
+      "tipo": "Graduado de maestría",
+      "rol": "Vinculado a la propuesta de I+D+i",
+      "condicion": "Solo en modalidad regional, con domicilio de la entidad diferente a áreas metropolitanas especificadas"
+    }
+  ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "MisiónBioeconomíayterritorio",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": "Aprovechar el conocimiento, conservación y el uso sostenible de la biodiversidad, sus bienes y servicios ecosistémicos."
+    },
+    {
+      "nombre": "MisiónHambreCero",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": "Garantizar la soberanía alimentaria y el derecho a la alimentación."
+    },
+    {
+      "nombre": "MisiónTransiciónEnergética",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": "Asegurar la generación, acceso y uso de energías sostenibles para todos los colombianos."
+    },
+    {
+      "nombre": "MisiónAutonomíaSanitaria",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": "Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional."
+    },
+    {
+      "nombre": "MisiónCienciaparalaPaz",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia."
+    },
+    {
+      "nombre": "CiudadesInteligentes",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "CienciasdelaEducación",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "InteligenciaArtificial",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "TemasAeroespaciales",
+      "modalidad": "ECOS NORD",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "MisiónBioeconomíayTerritorio",
+      "modalidad": "DAAD",
+      "descripcion_corta": "Aprovechar el conocimiento, conservación y el uso sostenible de la biodiversidad, sus bienes y servicios ecosistémicos."
+    },
+    {
+      "nombre": "MisiónHambreCero",
+      "modalidad": "DAAD",
+      "descripcion_corta": "Garantizar la soberanía alimentaria y el derecho a la alimentación."
+    },
+    {
+      "nombre": "MisiónTransiciónEnergética",
+      "modalidad": "DAAD",
+      "descripcion_corta": "Asegurar la generación, acceso y uso de energías sostenibles para todos los colombianos."
+    },
+    {
+      "nombre": "MisiónAutonomíaSanitaria",
+      "modalidad": "DAAD",
+      "descripcion_corta": "Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional."
+    },
+    {
+      "nombre": "MisiónCienciaparalaPaz",
+      "modalidad": "DAAD",
+      "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia."
+    },
+    {
+      "nombre": "CienciasdelaEducación",
+      "modalidad": "DAAD",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "InteligenciaArtificial",
+      "modalidad": "DAAD",
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "TemasAeroespaciales",
+      "modalidad": "DAAD",
+      "descripcion_corta": null
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los TdR.",
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los presentes términos de referencia.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Inscribir la propuesta de I+D+i completa en el SIGP según el cronograma.",
+      "texto": "Inscribir la propuesta de I+D+i completa en el Sistema Integrado de Gestión de Proyectos (SIGP) dentro del cronograma de la convocatoria.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el Anexo 1 'Carta Unificada de Aval y de Compromiso Institucional' firmada por el representante legal o apoderado, especificando contrapartida mínima del 50% del valor a financiar.",
+      "texto": "Adjuntar el Anexo 1 'Carta Unificada de Aval y de Compromiso Institucional' debidamente diligenciado y firmado por el representante legal o apoderado, especificando contrapartida mínima del 50% respecto al valor a financiar por el Ministerio.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las entidades SNCTI colombianas deben estar constituidas 24 meses antes del cierre de la convocatoria, verificable en RUES.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar certificado de existencia y representación legal expedido por Cámara de Comercio o Ministerio de Educación Superior con fecha no mayor a 3 meses al cierre.",
+      "texto": "Las entidades SNCTI colombianas deben estar constituidas 24 meses antes del cierre de la convocatoria, verificado en RUES, y adjuntar certificado de existencia y representación legal con fecha de expedición no mayor a 3 meses al cierre.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El investigador vinculado debe tener reconocimiento vigente como Junior, Asociado, Senior o Emérito por Minciencias al cierre de la convocatoria.",
-      "tipo": "habilitante",
+      "texto": "El investigador vinculado debe tener reconocimiento vigente como Junior, Asociado, Senior o Emérito por Minciencias al cierre de la convocatoria, verificado en CvLAC.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El estudiante de doctorado debe anexar certificado de la IES que certifique su condición de estudiante activo, cursando al menos el primer semestre, con fecha de expedición no mayor a 30 días calendario al cierre.",
+      "texto": "El estudiante de doctorado debe anexar certificado de la IES que lo acredite como estudiante activo, cursando al menos el primer semestre, con fecha de expedición no mayor a 30 días calendario al cierre.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El programa de doctorado debe contar con registro calificado vigente del MEN, verificable en SNIES.",
-      "tipo": "habilitante",
+      "texto": "El programa de doctorado debe contar con registro calificado vigente del MEN, verificado en SNIES.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El graduado de maestría debe anexar el título de grado o el acta de grado.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar el Anexo 2 'Experiencia Académica, Profesional e Investigativa' diligenciado con información de cada miembro del equipo de trabajo.",
+      "texto": "El graduado de maestría debe anexar el título de grado o el acta de grado de la maestría.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Los postulantes a beneficiarios de movilidad deben tener su hoja de vida actualizada en CvLAC.",
+      "texto": "Adjuntar el Anexo 2 'Experiencia Académica, Profesional e Investigativa' completamente diligenciado con la información de cada miembro del equipo de trabajo.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el Anexo 3 'Formato de Movilidad' diligenciado con datos de investigadores colombianos y extranjeros postulantes, cronograma y fechas de movilidades.",
+      "texto": "Los postulantes a ser beneficiarios de la movilidad deben tener su hoja de vida actualizada en el CvLAC.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Diligenciar en SIGP la información sobre productos esperados, actividades y resultados deseados en circulación de conocimiento especializado.",
+      "texto": "Adjuntar el Anexo 3 'Formato de Movilidad' completamente diligenciado con datos de los investigadores colombianos y extranjeros postulantes, cronograma y fechas de movilidades.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Los investigadores europeos deben presentar la propuesta conjunta ante la contraparte europea (Ecos Nord, DAAD-PROCOL); la propuesta debe ser radicada allí.",
-      "tipo": "habilitante",
+      "texto": "Diligenciar en la plataforma SIGP la información sobre los productos esperados, relacionando actividades y resultados de circulación de conocimiento especializado.",
+      "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para acreditación de pertenencia a enfoque diferencial (opcional): anexar certificado de auto-reconocimiento (población negra, afrocolombiana, raizal, palenquera, ROM) expedido por MinInterior.",
+      "texto": "Los investigadores europeos deben presentar la propuesta conjunta de I+D+i ante la contraparte europea (Ecos Nord, DAAD-PROCOL) y cargarla en la plataforma dispuesta.",
       "tipo": "documental",
-      "severidad": "deseable"
+      "severidad": "obligatorio"
     },
     {
-      "texto": "Para acreditación de pertenencia a comunidad indígena (opcional): anexar certificado del Registro de Autoridad o Cabildo expedido por MinInterior.",
-      "tipo": "documental",
-      "severidad": "deseable"
-    },
-    {
-      "texto": "Para acreditación de víctimas del conflicto armado (opcional): anexar certificado expedido por la Unidad para la Atención y Reparación Integral a las Víctimas.",
-      "tipo": "documental",
-      "severidad": "deseable"
-    },
-    {
-      "texto": "Para acreditación de condición de discapacidad (opcional): anexar certificado de discapacidad expedido por IPS autorizada por la Secretaría de Salud.",
+      "texto": "Para acreditación de pertenencia al enfoque diferencial (opcional): anexar certificado de auto reconocimiento (población negra, afrocolombiana, raizal, palenquera, ROM) expedido por MinInterior, o certificado de autoridad indígena, o certificado de víctimas, o certificado de discapacidad.",
       "tipo": "documental",
       "severidad": "deseable"
     },
@@ -106,7 +193,7 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad y su representante legal no pueden estar incursos en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades establecidas en la Ley.",
+      "texto": "La entidad que presenta la propuesta y su representante legal no pueden estar incursos en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades establecidas en la Ley.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
@@ -116,7 +203,7 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "No estar incurso en causales de inhabilidad, incompatibilidad o conflicto de intereses para contratar según la Constitución, Ley 80 de 1993, Ley 1474 de 2011, etc.",
+      "texto": "No encontrarse incurso en causales de inhabilidad, incompatibilidad o conflicto de intereses para contratar según Constitución, Ley 80 de 1993, Ley 1474 de 2011, entre otras.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
@@ -127,62 +214,173 @@
     }
   ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Claridad de la pregunta de investigación y coherencia respecto a la hipótesis -si aplica-, los fundamentos científicos del área del conocimiento, los objetivos, el cronograma de actividades y los productos esperados.",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Hasta 15 puntos."
+    },
+    {
+      "nombre": "1.2 Diseño metodológico, de acuerdo con la tipología de la propuesta de I+D+i. Correspondencia entre los procedimientos de recolección, procesamiento, análisis e interpretación de datos para alcanzar los objetivos planteados en la investigación. Es importante que también se lleve a cabo una descripción de las limitaciones del método y su alcance.",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Hasta 15 puntos."
+    },
+    {
+      "nombre": "2.1 Experiencia y formación del Investigador con reconocimiento en relación con la temática de la propuesta de I+D+i.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Hasta 5 puntos."
+    },
+    {
+      "nombre": "2.2 Experiencia, formación y participación en la propuesta de I+D+i de los miembros del equipo de investigación.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Hasta 5 puntos."
+    },
+    {
+      "nombre": "3 CRONOGRAMA DE MOVILIDADES INTERNACIONALES - Formato de Movilidad (Anexo3)",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se deberá evidenciar la lógica distribución de los recursos de acuerdo con el planteamiento de la propuesta de I+D+i, pero también de acuerdo con la justa repartición de estos para la movilización de los dos beneficiarios."
+    },
+    {
+      "nombre": "4 PRODUCTOS ESPERADOS",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Se reconocerán los procesos que generen la circulación del conocimiento especializado entre las comunidades de expertos, evidenciando las ventajas y potencialidades de la CTeI, así como sus riesgos y limitaciones en sus relaciones con la sociedad. Se evaluará la justificación del producto esperado en relación con el planteamiento de la propuesta de I+D+i y el indicador para su medición."
+    },
+    {
+      "nombre": "5 PERTINENCIA DE LA PROPUESTA DE MOVILIDAD",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Razones por las cuales es necesaria la movilidad internacional en el marco de la investigación para obtener los resultados esperados, por ejemplo, para el intercambio de conocimientos, de experiencias, de instrumentos, de infraestructura, de abordajes metodológicos; entre otros."
+    },
+    {
+      "nombre": "6 VALOR DE LA COOPERACIÓN Y EFECTO MULTIPLICADOR",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Descripción del impacto de la propuesta de I+D+i sobre la cooperación bilateral entre los dos países involucrados en el corto, mediano y largo plazo."
+    },
+    {
+      "nombre": "7 FORTALECIMIENTO DE CAPACIDADES TERRITORIALES DE CTeI",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Justificación respecto al planteamiento de soluciones a las necesidades de CTeI en sectores estratégicos para el desarrollo productivo y social de las regiones, específicamente, en uno de los departamentos categorizados por el IDIC como medio, medio bajo o bajo o en alguno de los municipios del Programa de Desarrollo con Enfoque Territorial (PDET) o en algún municipio diferente al área Metropolitana Bogotá-Cundinamarca, al área Metropolitana del Valle de Aburrá, área metropolitana de Cali, al área Metropolitana de Barranquilla, al área Metropolitana de Bucaramanga."
+    },
+    {
+      "nombre": "8.1 Beneficiario de la movilidad se identifique como parte de un grupo considerado dentro del enfoque diferencial.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "3 puntos."
+    },
+    {
+      "nombre": "8.2 Beneficiario de la movilidad, bajo el enfoque de interseccionalidad, se identifique como parte de más de un grupo considerado dentro del enfoque diferencial.",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "2 puntos."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "Hasta $61.200.000 (ECOSNORD) y Hasta $40.800.800 (DAAD)",
+    "monto_total_cop": null,
+    "plazo_min_meses": 24,
+    "plazo_max_meses": 24,
+    "contrapartida_pct_min": 50.0,
+    "contrapartida_pct_max": 50.0,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación (Minciencias)",
+    "notas": "Contrapartida mínima del 50% del valor solicitado, excepto para Centros Autónomos reconocidos por Minciencias. Montos sujetos a disponibilidad presupuestal."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 237,
+        "chars_enviados": 244,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 277,
-          "completion_tokens": 58
+          "prompt_tokens": 278,
+          "completion_tokens": 185
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4374,
+          "completion_tokens": 243
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8339,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3004,
+          "completion_tokens": 2091
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 10046,
+        "chars_enviados": 10303,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3487,
-          "completion_tokens": 1593
+          "prompt_tokens": 3544,
+          "completion_tokens": 1436
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4441,
+          "completion_tokens": 201
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5505,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2099,
+          "completion_tokens": 165
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 5830,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2058,
+          "completion_tokens": 5580
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -190,34 +388,26 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "sola",
-        "rol_sugerido": "proponente",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Contar con al menos un investigador con reconocimiento vigente (Junior, Asociado, Senior o Emérito) por Minciencias al cierre de la convocatoria.",
-          "El programa de doctorado vinculado debe tener registro calificado vigente del MEN, verificable en SNIES.",
-          "Aportar contrapartida mínima del 50% del valor a financiar, según lo especificado en el Anexo 1.",
-          "Certificado de existencia y representación legal con fecha no mayor a 3 meses al cierre.",
-          "Constitución de la entidad con al menos 24 meses antes del cierre de la convocatoria (verificable en RUES)."
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para presentar propuestas"
         ],
-        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI y con acreditación institucional, cumple con los requisitos básicos de elegibilidad para postularse como proponente en esta convocatoria. No obstante, debe verificar que cuenta con investigadores categorizados por Minciencias y programas de doctorado con registro calificado, así como la capacidad de cumplir con la contrapartida mínima del 50% y los demás requisitos documentales."
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, pero la convocatoria solo permite como proponentes a entidades del SNCTI distintas a IES, o a investigadores/estudiantes/graduados como vinculados. Por tanto, no puede postularse como ejecutora ni proponente."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "sola",
-      "rol_sugerido": "proponente",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Contar con al menos un investigador con reconocimiento vigente (Junior, Asociado, Senior o Emérito) por Minciencias al cierre de la convocatoria.",
-        "El programa de doctorado vinculado debe tener registro calificado vigente del MEN, verificable en SNIES.",
-        "Aportar contrapartida mínima del 50% del valor a financiar, según lo especificado en el Anexo 1.",
-        "Certificado de existencia y representación legal con fecha no mayor a 3 meses al cierre.",
-        "Constitución de la entidad con al menos 24 meses antes del cierre de la convocatoria (verificable en RUES)."
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para presentar propuestas"
       ],
-      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI y con acreditación institucional, cumple con los requisitos básicos de elegibilidad para postularse como proponente en esta convocatoria. No obstante, debe verificar que cuenta con investigadores categorizados por Minciencias y programas de doctorado con registro calificado, así como la capacidad de cumplir con la contrapartida mínima del 50% y los demás requisitos documentales.",
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, pero la convocatoria solo permite como proponentes a entidades del SNCTI distintas a IES, o a investigadores/estudiantes/graduados como vinculados. Por tanto, no puede postularse como ejecutora ni proponente.",
       "fuente": "reglas+llm"
     }
   }

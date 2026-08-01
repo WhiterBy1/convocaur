@@ -1,0 +1,55 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior (IES)",
+        "rol": null,
+        "condicion": "IES colombianas representadas por al menos un grupo de investigación clasificado A, A1, B, C o reconocido, con vigencia al cierre."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "IES colombianas representadas por al menos un grupo de investigación clasificado A, A1, B, C o reconocido, con vigencia al cierre.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "La IES debe estar representada por al menos un grupo de investigación clasificado A, A1, B, C o reconocido, con vigencia al cierre de la convocatoria."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora, siempre que cuente con al menos un grupo de investigación clasificado (A, A1, B, C o reconocido) vigente al cierre."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "La IES debe estar representada por al menos un grupo de investigación clasificado A, A1, B, C o reconocido, con vigencia al cierre de la convocatoria."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora, siempre que cuente con al menos un grupo de investigación clasificado (A, A1, B, C o reconocido) vigente al cierre.",
+    "fuente": "reglas+llm"
+  }
+}

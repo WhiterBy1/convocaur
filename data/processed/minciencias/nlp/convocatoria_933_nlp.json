@@ -3,9 +3,9 @@
   "objetivo": "Conformar un banco de candidatos elegibles con enfoque territorial, género y étnico para la formación de profesionales en programas de doctorado en Colombia.",
   "actores_elegibles": [
     {
-      "tipo": "Profesionales colombianos",
-      "rol": "Estudiante de doctorado",
-      "condicion": "Admitidos o cursando un programa de doctorado con registro calificado vigente del Ministerio de Educación Nacional, cuyo proyecto de tesis doctoral esté alineado con alguno de los retos de la Política de Investigación e Innovación Orientada por Misiones (numeral 43)"
+      "tipo": "Profesional colombiano",
+      "rol": null,
+      "condicion": "Admitido o estudiando doctorado con registro calificado vigente, tesis alineada con retos de la Política de Investigación e Innovación Orientada por Misiones"
     }
   ],
   "alianza_obligatoria": null,
@@ -38,42 +38,52 @@
   ],
   "requisitos": [
     {
-      "texto": "Cumplir con el 'Dirigido a' y adjuntar copia de la cédula de ciudadanía legible por ambas caras.",
+      "texto": "Cumplir con el 'Dirigido a'. Adjuntar copia de la cédula de ciudadanía legible por ambas caras.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Estar admitido o estar adelantando estudios de doctorado en una universidad colombiana.",
+      "texto": "Estar admitido o adelantando estudios de doctorado en una universidad colombiana.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para candidatos admitidos: adjuntar carta de admisión expedida por el área responsable de la universidad que indique admisión vigente, expedida en 2023.",
+      "texto": "Para admitidos: adjuntar carta de admisión vigente expedida en 2023.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para candidatos que están estudiando: anexar certificación expedida por la universidad que indique que es estudiante activo, expedida en 2023. No se aceptan cartas de admisión o certificados expedidos por el tutor.",
+      "texto": "Para estudiantes activos: anexar certificación de estudiante activo expedida en 2023 (no del tutor).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para miembros de población negra, afrocolombiana, raizal, palenquera, ROM: anexar Certificado de Auto Reconocimiento expedido por el Ministerio del Interior. Para indígenas: anexar Certificado del Registro de la Autoridad o Cabildo expedido por el Ministerio del Interior. Para víctimas del conflicto: anexar Certificado expedido por la Unidad para la Atención y Reparación Integral para las Víctimas. La certificación debe tener fecha de expedición máxima de 3 meses anteriores al cierre de la convocatoria. Opcional.",
+      "texto": "Para población negra, afrocolombiana, raizal, palenquera, ROM: anexar Certificado de Auto Reconocimiento del Ministerio del Interior (opcional).",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Adjuntar la Propuesta de Investigación Doctoral, con el contenido requerido en el numeral 11 de los TdR.",
+      "texto": "Para comunidad indígena: anexar Certificado del Registro de la Autoridad o Cabildo del Ministerio del Interior (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Para víctimas del conflicto armado: anexar Certificado de la Unidad para las Víctimas (opcional, máximo 3 meses antes del cierre).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Adjuntar la Propuesta de Investigación Doctoral según numeral 11.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar la Carta de Motivación, con el contenido requerido en el numeral 11 de los TdR.",
+      "texto": "Adjuntar la Carta de Motivación según numeral 11.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar certificado o acta de aprobación de la Propuesta Doctoral expedida por el área responsable de la universidad. Opcional y no inhabilitante.",
+      "texto": "Adjuntar certificado o acta de aprobación de la Propuesta Doctoral (opcional).",
       "tipo": "documental",
       "severidad": "deseable"
     },
@@ -83,8 +93,8 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "Tener hoja de vida en el aplicativo CvLAC (https://scienti.minciencias.gov.co/cvlac/Login/pre_s_login.do).",
-      "tipo": "documental",
+      "texto": "Tener hoja de vida en el aplicativo CvLAC.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
@@ -93,115 +103,116 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "No haber recibido o estar recibiendo financiación para un programa de doctorado con recursos del Ministerio de Ciencia, Tecnología e Innovación, o por el Sistema General de Regalías.",
+      "texto": "No haber recibido o estar recibiendo financiación para doctorado del Ministerio o del Sistema General de Regalías.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No haber sido seleccionado o haber renunciado a financiación de doctorado del Ministerio.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No alterar documentos presentados.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No haber sido seleccionado a través de una convocatoria de Minciencias para financiación de doctorado, ni haber renunciado a esta.",
+      "texto": "No haber sido declarado en incumplimiento con el Ministerio en los últimos 5 años.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No alterar alguno de los documentos presentados para participar en la convocatoria.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No haber sido declarado en incumplimiento en cualquiera de los mecanismos operados por el Ministerio en los últimos 5 años.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No estar incurso en alguna de las causales de inhabilidad e incompatibilidad establecidas en la ley y no encontrarse apto para contratar de acuerdo con la Constitución, ley o reglamentos.",
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad legales.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     }
   ],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [
+  "causales_rechazo": [
     {
-      "nombre": "Del estudiante doctoral",
-      "puntaje_max": 30.0,
-      "peso_pct": null,
-      "descripcion": "Evalúa enfoque territorial y diferencial del estudiante."
+      "texto": "Perder la calidad de estudiante activo del Programa de Doctorado."
     },
+    {
+      "texto": "La no obtención del título de doctorado dentro de los tiempos establecidos por razones diferentes a la incapacidad por enfermedad (que sea declarada por médico tratante y revisada por el auditor médico del operador académico)."
+    },
+    {
+      "texto": "La adulteración de documentos, la presentación de información falsa o la omisión de información relevante."
+    },
+    {
+      "texto": "La utilización del apoyo económico para fines distintos de aquellos para los cuales fue concedido."
+    },
+    {
+      "texto": "El cambio de universidad o de programa de estudios sin previo aviso y autorización por parte del Ministerio."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad del numeral 8."
+    }
+  ],
+  "criterios_evaluacion": [
     {
       "nombre": "Enfoque territorial",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Nacido en municipio diferente a áreas metropolitanas especificadas."
+      "descripcion": "Nacido en ciudades/municipio diferente a los ubicados en la Región Metropolitana Bogotá-Cundinamarca, al Área Metropolitana del Valle de Aburrá, Cali, al Área Metropolitana de Barranquilla, al Área Metropolitana de Bucaramanga y Manizales"
     },
     {
       "nombre": "Enfoque diferencial",
       "puntaje_max": 20.0,
       "peso_pct": null,
-      "descripcion": "Incluye grupos étnicos o víctimas del conflicto (10 pts) y sexo mujer (10 pts)."
-    },
-    {
-      "nombre": "De la Propuesta doctoral",
-      "puntaje_max": 45.0,
-      "peso_pct": null,
-      "descripcion": "Evalúa calidad, coherencia y pertinencia de la propuesta doctoral."
+      "descripcion": "Grupos étnicos o población víctima del conflicto (10 puntos) y Sexo: mujer (10 puntos)"
     },
     {
       "nombre": "Calidad y coherencia de la propuesta de proyecto doctoral",
       "puntaje_max": 20.0,
       "peso_pct": null,
-      "descripcion": "Contribución a nuevo conocimiento y articulación entre pregunta, objetivos, metodología y productos."
+      "descripcion": "Contribución de la pregunta de investigación a la generación de nuevo conocimiento en temáticas priorizadas por la Política de Investigación e Innovación Orientada por Misiones (hasta 10 puntos) y Articulación y coherencia entre pregunta, objetivos, metodología, cronograma y productos (hasta 10 puntos)"
     },
     {
       "nombre": "Pertinencia de la propuesta del proyecto doctoral frente a las temáticas de las misiones",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Alineación con las cinco misiones de la política de investigación."
+      "descripcion": "Pertinencia frente a las cinco misiones: Bioeconomía, Derecho a la alimentación, Energía eficiente, Soberanía sanitaria, Ciencia para la Paz"
     },
     {
       "nombre": "Carta de motivación",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Hasta 10 puntos."
+      "descripcion": "Hasta 10 puntos"
     },
     {
       "nombre": "Propuesta doctoral aprobada",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Verificada con certificado de aprobación o acta de sustentación."
-    },
-    {
-      "nombre": "Del Programa Doctoral",
-      "puntaje_max": 25.0,
-      "peso_pct": null,
-      "descripcion": "Evalúa características del programa de doctorado."
+      "descripcion": "La Propuesta doctoral ha sido aprobada (Verificado con Certificado de aprobación o Acta de sustentación de la Propuesta Doctoral)"
     },
     {
       "nombre": "Programas de doctorado en áreas STEM",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Según definición OCDE."
+      "descripcion": "Programas de doctorado en áreas STEM según definición de la OCDE"
     },
     {
-      "nombre": "Programas de doctorado con sede en ciudad/municipio diferente a áreas metropolitanas",
+      "nombre": "Programas de doctorado con sede en ciudad/municipio diferente a los ubicados en regiones metropolitanas",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Fuera de las áreas metropolitanas listadas."
+      "descripcion": "Programas con sede fuera de las áreas metropolitanas listadas"
     },
     {
       "nombre": "Programas de doctorado acreditados",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Programas con acreditación."
+      "descripcion": "Programas de doctorado acreditados"
     }
   ],
   "financiacion": {
-    "monto_total_texto": "Hasta $196.100.000 (suma de matrícula $112.000.000, sostenimiento $4.100.000/mes por 48 meses = $196.800.000, e investigación $80.000.000; se toma el valor máximo indicado en el texto como monto total)",
-    "monto_total_cop": 196100000.0,
+    "monto_total_texto": null,
+    "monto_total_cop": null,
     "plazo_min_meses": null,
     "plazo_max_meses": 48,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación (Minciencias)",
-    "notas": "Apoyo para matrícula hasta $112.000.000 por hasta 8 semestres; sostenimiento mensual $4.100.000 hasta por 4 años; apoyo para investigación hasta $80.000.000. No se especifica contrapartida."
+    "notas": null
   },
   "meta": {
     "secciones": {
@@ -209,70 +220,77 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 160,
+        "chars_enviados": 158,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 258,
-          "completion_tokens": 134
+          "prompt_tokens": 256,
+          "completion_tokens": 109
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 354,
+        "chars_enviados": 350,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 387,
-          "completion_tokens": 122
+          "prompt_tokens": 386,
+          "completion_tokens": 500
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2010,
+        "chars_enviados": 1939,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 844,
-          "completion_tokens": 576
+          "prompt_tokens": 823,
+          "completion_tokens": 821
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4247,
+        "chars_enviados": 4105,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1578,
-          "completion_tokens": 2265
+          "prompt_tokens": 1498,
+          "completion_tokens": 804
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1799,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 733,
+          "completion_tokens": 299
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1415,
+        "chars_enviados": 1377,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 758,
-          "completion_tokens": 234
+          "prompt_tokens": 735,
+          "completion_tokens": 1203
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3376,
+        "chars_enviados": 3233,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1335,
-          "completion_tokens": 710
+          "prompt_tokens": 1282,
+          "completion_tokens": 4354
         }
       }
     }
@@ -296,10 +314,10 @@
         "modo": "no_elegible",
         "rol_sugerido": null,
         "bloqueantes": [
-          "La convocatoria está dirigida a personas naturales (estudiantes de doctorado), no a instituciones. Universidad del Rosario como IES no es un actor elegible para postularse como institución."
+          "La convocatoria está dirigida a profesionales colombianos (estudiantes o admitidos a doctorado), no a instituciones como IES."
         ],
         "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida a estudiantes de doctorado como personas naturales, no a instituciones de educación superior. La universidad podría ser la institución donde el estudiante realiza su doctorado, pero no es la postulante."
+        "resumen": "La Universidad del Rosario es una IES privada, pero la convocatoria está diseñada para personas naturales (estudiantes de doctorado) y no incluye a instituciones como actores elegibles, por lo tanto no puede postularse como institución."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -308,10 +326,10 @@
       "modo": "no_elegible",
       "rol_sugerido": null,
       "bloqueantes": [
-        "La convocatoria está dirigida a personas naturales (estudiantes de doctorado), no a instituciones. Universidad del Rosario como IES no es un actor elegible para postularse como institución."
+        "La convocatoria está dirigida a profesionales colombianos (estudiantes o admitidos a doctorado), no a instituciones como IES."
       ],
       "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida a estudiantes de doctorado como personas naturales, no a instituciones de educación superior. La universidad podría ser la institución donde el estudiante realiza su doctorado, pero no es la postulante.",
+      "resumen": "La Universidad del Rosario es una IES privada, pero la convocatoria está diseñada para personas naturales (estudiantes de doctorado) y no incluye a instituciones como actores elegibles, por lo tanto no puede postularse como institución.",
       "fuente": "reglas+llm"
     }
   }

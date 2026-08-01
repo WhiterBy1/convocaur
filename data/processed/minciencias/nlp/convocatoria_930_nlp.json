@@ -1,36 +1,66 @@
 {
   "convocatoria": "930",
-  "objetivo": null,
+  "objetivo": "Contribuir al fortalecimiento de proyectos de desarrollo tecnológico e innovación en salud que conduzcan a la producción de reactivos, insumos y metodologías con el fin de aportar a la solución de la problemática relacionada con la importación, escasez de productos, costos elevados, tiempos de acceso y demás aspectos relacionados con la dependencia tecnológica.",
   "actores_elegibles": [
     {
       "tipo": "Instituciones de Educación Superior",
-      "rol": "Ejecutora o Coejecutora",
-      "condicion": "A través de grupos de investigación categorizados A1, A, B o C, con reconocimiento vigente al cierre de la convocatoria."
+      "rol": "Ejecutora",
+      "condicion": "A través de grupos de investigación categorizados A1, A, B, C, con reconocimiento vigente al cierre de la convocatoria"
     },
     {
-      "tipo": "Universidades e institutos de investigación",
-      "rol": "Ejecutora o Coejecutora",
-      "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia."
+      "tipo": "Instituciones de Educación Superior",
+      "rol": "Co-ejecutora",
+      "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
     },
     {
-      "tipo": "Institutos y centros de investigación",
-      "rol": "Ejecutora o Coejecutora",
-      "condicion": "Con reconocimiento vigente por EL MINISTERIO."
+      "tipo": "Universidades e institutos de investigación con Grupos Tándem Max Planck",
+      "rol": "Ejecutora",
+      "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia"
     },
     {
-      "tipo": "Centros de desarrollo tecnológico",
-      "rol": "Ejecutora o Coejecutora",
-      "condicion": "Con reconocimiento vigente por EL MINISTERIO."
+      "tipo": "Universidades e institutos de investigación con Grupos Tándem Max Planck",
+      "rol": "Co-ejecutora",
+      "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
+    },
+    {
+      "tipo": "Institutos y centros de investigación con reconocimiento vigente",
+      "rol": "Ejecutora",
+      "condicion": "Con reconocimiento vigente por EL MINISTERIO"
+    },
+    {
+      "tipo": "Institutos y centros de investigación con reconocimiento vigente",
+      "rol": "Co-ejecutora",
+      "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
+    },
+    {
+      "tipo": "Centros de desarrollo tecnológico con reconocimiento vigente",
+      "rol": "Ejecutora",
+      "condicion": "Con reconocimiento vigente por EL MINISTERIO"
+    },
+    {
+      "tipo": "Centros de desarrollo tecnológico con reconocimiento vigente",
+      "rol": "Co-ejecutora",
+      "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
     },
     {
       "tipo": "Personas jurídicas públicas o privadas nacionales o extranjeras",
-      "rol": "Coejecutora",
-      "condicion": "Legalmente constituidas con domicilio en Colombia como mínimo dos años antes del cierre de la convocatoria."
+      "rol": "Co-ejecutora",
+      "condicion": "Legalmente constituidas con domicilio en Colombia como mínimo dos años antes del cierre de la convocatoria"
     },
     {
-      "tipo": "Entidades colombianas o extranjeras, centros de investigación o desarrollo tecnológico no reconocidos por EL MINISTERIO y otros actores del SNCTI",
+      "tipo": "Entidades colombianas o extranjeras no reconocidas por el MINISTERIO",
       "rol": "Colaboradora",
-      "condicion": "No reciben recursos de financiación ni realizan aportes de contrapartida."
+      "condicion": "No reciben recursos de financiación ni aportan contrapartida"
+    },
+    {
+      "tipo": "Centros de investigación o desarrollo tecnológico no reconocidos por el MINISTERIO",
+      "rol": "Colaboradora",
+      "condicion": "No reciben recursos de financiación ni aportan contrapartida"
+    },
+    {
+      "tipo": "Otros actores del SNCTI",
+      "rol": "Colaboradora",
+      "condicion": "No reciben recursos de financiación ni aportan contrapartida"
     }
   ],
   "alianza_obligatoria": true,
@@ -56,119 +86,84 @@
       "descripcion_corta": null
     },
     {
-      "nombre": "Desarrollo Experimental",
-      "modalidad": null,
-      "descripcion_corta": "Trabajos sistemáticos basados en conocimientos existentes para fabricar nuevos materiales, productos o dispositivos, o mejorar los existentes. TRL 3-4."
+      "nombre": "Desarrollo experimental",
+      "modalidad": "Desarrollo experimental",
+      "descripcion_corta": "Trabajos sistemáticos basados en conocimientos existentes para fabricar nuevos materiales, productos o dispositivos, o mejorar los existentes, orientados a un prototipo funcional (TRL 3-4)."
     },
     {
-      "nombre": "Desarrollo Tecnológico",
-      "modalidad": null,
-      "descripcion_corta": "Aplicación de resultados de investigación para fabricar nuevos materiales, productos, procesos o sistemas, o mejora sustancial de los existentes. TRL 5-6."
+      "nombre": "Desarrollo tecnológico",
+      "modalidad": "Desarrollo tecnológico",
+      "descripcion_corta": "Aplicación de resultados de investigación para fabricar nuevos materiales, productos o procesos, incluyendo prototipos no comercializables (TRL 5-6)."
     },
     {
       "nombre": "Innovación",
-      "modalidad": null,
+      "modalidad": "Innovación",
       "descripcion_corta": "Producto o proceso nuevo o mejorado significativamente, puesto a disposición de usuarios o en uso por la unidad."
     }
   ],
   "requisitos": [
     {
-      "texto": "Cumplir con el 'Dirigido A' establecido en el numeral 3 de los términos de referencia.",
+      "texto": "Cumplir con el “Dirigido A” establecido en el numeral 3 de los términos de referencia de la presente convocatoria.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para personas jurídicas: anexar certificación de constitución legal en Colombia con mínimo 2 años de constitución al cierre de la convocatoria.",
+      "texto": "Anexar certificación de existencia y representación legal o documento que acredite la constitución legal de la entidad, con antigüedad mínima según el tipo de entidad (2 años para personas jurídicas, 1 año para spin-off, certificación para grupos Tándem Max Planck).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para spin-off: presentar resolución de creación con mínimo 1 año de constitución al cierre de la convocatoria.",
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) del MINISTERIO a través del formulario electrónico disponible en el portal de Minciencias.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para grupos Tándem Max Planck: presentar certificación firmada por el representante de la sociedad Max Planck que conste su conformación y vigencia.",
+      "texto": "El Investigador Principal debe estar vinculado laboralmente a la entidad ejecutora al cierre de la convocatoria. Anexar certificación laboral que lo acredite.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar documento que certifique existencia y representación legal correspondiente.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) a través del formulario electrónico en www.minciencias.gov.co.",
-      "tipo": "tecnico",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El Investigador Principal debe estar vinculado laboralmente a la entidad ejecutora al cierre de la convocatoria. Anexar certificación laboral.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Anexar carta de aval institucional (Anexo 2) firmada por el representante legal de entidades ejecutoras y coejecutoras, con contrapartida mínima del 30% del valor total del proyecto.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Los Centros o Institutos de Investigación autónomos reconocidos por Minciencias no están obligados a aportar contrapartida; el porcentaje debe ser cubierto por las demás entidades de la alianza.",
+      "texto": "Anexar carta de aval institucional de presentación del proyecto (según modelo ANEXO 2) firmada por representante legal de las entidades ejecutora y coejecutoras. La contrapartida debe ser mínimo el 30% del valor total del proyecto, en dinero y/o especie.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar aval del Comité de Ética de la Investigación o de Bioética de la institución que presenta el proyecto, especificando revisión ética e instrumentos.",
+      "texto": "Anexar el aval del Comité de Ética de la Investigación o de Bioética de la institución que presenta el proyecto, o de otra entidad si no cuenta con uno, junto con el acto administrativo que dé cuenta de su conformación.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si ninguna institución de la alianza cuenta con comité de ética, se puede solicitar aval a otra entidad que sí tenga, anexando acto administrativo de conformación del comité.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Anexar documento técnico y soportes que evidencien desarrollo previo y estado actual de la tecnología o producto, incluyendo proceso científico, descripción del prototipo, resultados de validación a escala de laboratorio, registro fotográfico y estudios de transferencia tecnológica (Anexo 6).",
+      "texto": "Anexar documento técnico que evidencie desarrollo previo y estado actual de la tecnología, incluyendo proceso científico, descripción del prototipo, resultados de validación a escala de laboratorio, registro fotográfico y estudios de transferencia tecnológica según Anexo 6.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar documento que describa cómo se alcanzarán los requerimientos normativos para lograr la certificación del producto ante la autoridad competente.",
+      "texto": "Anexar documento que describa la forma cómo alcanzará los requerimientos normativos para lograr la certificación del producto ante la autoridad competente.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Los proyectos deben estar escritos en idioma español y con cifras en pesos colombianos.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No cumplir con los requisitos y lineamientos establecidos en los TdR o no subsanarlos en los plazos establecidos es condición inhabilitante.",
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los TdR o que estos no se subsanen dentro de los plazos establecidos por el Ministerio.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El Investigador Principal no puede presentarse con ese rol en más de un proyecto en esta convocatoria; solo se tendrá en cuenta el primer proyecto presentado.",
+      "texto": "Que el Investigador Principal se presente con este mismo rol en más de un proyecto en esta convocatoria. (Solo se tendrá en cuenta el primer proyecto presentado.)",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El proyecto no debe estar financiado simultáneamente con recursos de otra convocatoria de Minciencias o entidades del Estado.",
+      "texto": "Que el proyecto presentado esté financiado simultáneamente con recursos de otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación o Entidades del Estado.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad establecidas por Ley o tener impedimento legal para contratar.",
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad establecidas por Ley y/o que tengan impedimento legal para contratar.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Con la firma del Anexo 2, los proponentes declaran que no están incurriendo en las inhabilidades descritas.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La verificación de condiciones inhabilitantes será realizada por Minciencias de forma permanente durante la convocatoria y proceso de contratación.",
+      "texto": "El proyecto debe estar escrito en idioma español y con cifras en pesos colombianos.",
       "tipo": "otro",
       "severidad": "obligatorio"
     }
@@ -213,72 +208,86 @@
     "plazo_max_meses": 36,
     "contrapartida_pct_min": 30.0,
     "contrapartida_pct_max": null,
-    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación (Minciencias) - Recuperación Contingente",
-    "notas": "Los centros de investigación autónomos reconocidos por Minciencias no están obligados a contrapartida; el porcentaje total debe ser cubierto por las demás entidades. Se permite administración hasta 15% del valor del proyecto y remuneración de personal de planta con recursos del Ministerio."
+    "fuente_recursos": "Recuperación Contingente (Presupuesto Minciencias)",
+    "notas": "El MINISTERIO financia hasta el 70% del valor total del proyecto; la contrapartida mínima es del 30%. Incluye 5% de Gestión de Instrumentos en CTeI no disponible para el proponente."
   },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1860,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 731,
+          "completion_tokens": 240
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3517,
+        "chars_enviados": 3424,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1254,
-          "completion_tokens": 395
+          "prompt_tokens": 1232,
+          "completion_tokens": 4182
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 5645,
+        "chars_enviados": 5500,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1736,
-          "completion_tokens": 2289
+          "prompt_tokens": 1700,
+          "completion_tokens": 1762
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 5920,
+        "chars_enviados": 5744,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1936,
-          "completion_tokens": 1294
+          "prompt_tokens": 1873,
+          "completion_tokens": 2420
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3872,
+          "completion_tokens": 13
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3605,
+        "chars_enviados": 3515,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1371,
-          "completion_tokens": 908
+          "prompt_tokens": 1351,
+          "completion_tokens": 2197
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 748,
+        "chars_enviados": 705,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 547,
-          "completion_tokens": 231
+          "prompt_tokens": 541,
+          "completion_tokens": 414
         }
       }
     }
@@ -294,23 +303,33 @@
       "actores_ies_match": [
         {
           "tipo": "Instituciones de Educación Superior",
-          "rol": "Ejecutora o Coejecutora",
-          "condicion": "A través de grupos de investigación categorizados A1, A, B o C, con reconocimiento vigente al cierre de la convocatoria."
+          "rol": "Ejecutora",
+          "condicion": "A través de grupos de investigación categorizados A1, A, B, C, con reconocimiento vigente al cierre de la convocatoria"
         },
         {
-          "tipo": "Universidades e institutos de investigación",
-          "rol": "Ejecutora o Coejecutora",
-          "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia."
+          "tipo": "Instituciones de Educación Superior",
+          "rol": "Co-ejecutora",
+          "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
+        },
+        {
+          "tipo": "Universidades e institutos de investigación con Grupos Tándem Max Planck",
+          "rol": "Ejecutora",
+          "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia"
+        },
+        {
+          "tipo": "Universidades e institutos de investigación con Grupos Tándem Max Planck",
+          "rol": "Co-ejecutora",
+          "condicion": "Misma condición que para ejecutora, pero sin ser la entidad ejecutora principal"
         }
       ],
       "condiciones_pendientes": [
         {
-          "condicion": "A través de grupos de investigación categorizados A1, A, B o C, con reconocimiento vigente al cierre de la convocatoria.",
+          "condicion": "A través de grupos de investigación categorizados A1, A, B, C, con reconocimiento vigente al cierre de la convocatoria",
           "riesgo": "grupos_minciencias",
           "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
         },
         {
-          "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia.",
+          "condicion": "A través de sus Grupos Tándem Max Planck creados en Colombia",
           "riesgo": "grupos_minciencias",
           "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
         }
@@ -328,14 +347,13 @@
         "puede_postularse": true,
         "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Participar a través de grupos de investigación categorizados A1, A, B o C con reconocimiento vigente al cierre de la convocatoria.",
-          "Alternativamente, participar a través de Grupos Tándem Max Planck creados en Colombia.",
-          "Contar con contrapartida mínima del 30% del valor total del proyecto.",
-          "El investigador principal debe estar vinculado laboralmente a la entidad ejecutora al cierre de la convocatoria."
+        "bloqueantes": [
+          "No se ha verificado la existencia de grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza obligatoria. Puede participar como ejecutora a través de sus grupos de investigación categorizados (A1, A, B o C) o Grupos Tándem Max Planck. Es necesario verificar la existencia de dichos grupos y cumplir con la contrapartida mínima del 30%."
+        "condiciones_a_verificar": [
+          "Contar con grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck con reconocimiento vigente al cierre de la convocatoria"
+        ],
+        "resumen": "La Universidad del Rosario es una IES privada elegible para postularse en alianza como ejecutora, pero requiere verificar que cuenta con grupos de investigación categorizados (A1, A, B, C) o Grupos Tándem Max Planck, según lo exige la convocatoria."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -343,14 +361,13 @@
       "puede_postularse": true,
       "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Participar a través de grupos de investigación categorizados A1, A, B o C con reconocimiento vigente al cierre de la convocatoria.",
-        "Alternativamente, participar a través de Grupos Tándem Max Planck creados en Colombia.",
-        "Contar con contrapartida mínima del 30% del valor total del proyecto.",
-        "El investigador principal debe estar vinculado laboralmente a la entidad ejecutora al cierre de la convocatoria."
+      "bloqueantes": [
+        "No se ha verificado la existencia de grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza obligatoria. Puede participar como ejecutora a través de sus grupos de investigación categorizados (A1, A, B o C) o Grupos Tándem Max Planck. Es necesario verificar la existencia de dichos grupos y cumplir con la contrapartida mínima del 30%.",
+      "condiciones_a_verificar": [
+        "Contar con grupos de investigación categorizados A1, A, B, C o Grupos Tándem Max Planck con reconocimiento vigente al cierre de la convocatoria"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada elegible para postularse en alianza como ejecutora, pero requiere verificar que cuenta con grupos de investigación categorizados (A1, A, B, C) o Grupos Tándem Max Planck, según lo exige la convocatoria.",
       "fuente": "reglas+llm"
     }
   }

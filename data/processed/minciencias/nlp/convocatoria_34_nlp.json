@@ -1,27 +1,38 @@
 {
   "convocatoria": "34",
-  "objetivo": null,
+  "objetivo": "Conformar un listado de proyectos elegibles de ciencia, tecnología e innovación para el ordenamiento alrededor del agua, la justicia ambiental y la transformación productiva para la resolución de desafíos ambientales y desarrollo sostenible del país en respuesta a las demandas territoriales definidas en el plan de convocatorias 2023-2024 para la Asignación de Ciencia, Tecnología e Innovación Ambiental.",
   "actores_elegibles": [],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Mecanismo 1: Proyectos de Ciencia, Tecnología e Innovación de alcance nacional para la generación de conocimiento y desarrollo tecnológico, transferencia de conocimiento y tecnología y la apropiación social del conocimiento de la información científica ambiental y la planificación y gestión sostenible de aguas subterráneas.",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de alcance nacional enfocados en generación de conocimiento, desarrollo tecnológico, transferencia y apropiación social del conocimiento sobre información científica ambiental y gestión sostenible de aguas subterráneas."
+    },
+    {
+      "nombre": "Mecanismo 2: Proyectos de Ciencia, Tecnología e Innovación de alcance regional para la generación de conocimiento y desarrollo tecnológico, transferencia de conocimiento y tecnología y la apropiación social del conocimiento para el ordenamiento territorial alrededor del agua; la cuantificación de depósitos de carbono en ecosistemas estratégicos; la reducción del deterioro ambiental de ecosistemas estratégicos acuáticos y su restauración; y el manejo sostenible y desarrollo del modelo de bioeconomía para impulsar la economía forestal, los bioproductos y el turismo de naturaleza.",
+      "modalidad": null,
+      "descripcion_corta": "Proyectos de alcance regional enfocados en ordenamiento territorial alrededor del agua, cuantificación de carbono, restauración de ecosistemas acuáticos y bioeconomía para economía forestal, bioproductos y turismo de naturaleza."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y con la información del numeral 8.",
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria y con la información del numeral 8.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
       "texto": "Cumplir con las especificaciones del 'Dirigido a' del mecanismo de participación al que se postule.",
-      "tipo": "habilitante",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Demostrar acreditación del adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología del DNP (Consolidado 2021-2022), salvo que la entidad no haya sido objeto de medición en los dos años anteriores.",
-      "tipo": "tecnico",
+      "texto": "Demostrar acreditación del adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología del DNP (Consolidado 2021-2022), salvo que no haya sido objeto de medición en los dos años anteriores.",
+      "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1b) firmada por representantes legales de todas las entidades nacionales de la alianza, con documentos que acrediten y faculten.",
+      "texto": "Anexar 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' firmada por representantes legales de todas las entidades nacionales, con documentos que acrediten facultades.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
@@ -36,12 +47,12 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5) con soportes (convenios, contratos, etc.) en SIGP, demostrando experiencia en al menos un proyecto de CTeI en los últimos 5 años o con recursos del SGR.",
+      "texto": "Adjuntar formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente e integrantes de la alianza' (Anexo 5) con soportes (convenios, actas, etc.) en SIGP, demostrando experiencia en al menos un proyecto de CTeI en los últimos 5 años o con recursos SGR.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Aval del Comité de Ética de la Investigación o de Bioética (si aplica) con acto administrativo de conformación del comité; si no se cuenta con comité, se puede solicitar aval de otra entidad.",
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética (si aplica), con acto administrativo de conformación del comité. Si no se cuenta con comité, se puede solicitar aval de otra entidad.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
@@ -51,125 +62,176 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades del sector productivo en la alianza, demostrar constitución mínima de 1 año antes de la apertura de la convocatoria y no estar en liquidación o reestructuración; presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre.",
+      "texto": "Para entidades del sector productivo en la alianza, demostrar constitución mínima de un año antes de la apertura de la convocatoria y no estar en liquidación o reestructuración; presentar certificado de existencia y representación legal no mayor a 90 días.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las firmas en la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' pueden venir en hojas diferentes, pero deben estar en un único archivo PDF.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No se requiere adjuntar el aval de comité de Ética o Bioética para la presentación; se declara en la Carta de aval y compromiso Institucional (numeral 2, Aspectos Éticos) y se presentará en la validación de requisitos del SGR si el proyecto resulta elegible.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Periodo de ajuste de requisitos en SIGP según cronograma; no se puede modificar entidad ejecutora, alcance, línea temática, mecanismo de participación o título del proyecto.",
+      "texto": "No presentar el mismo proyecto para más de un mecanismo de participación.",
       "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El proponente debe consultar permanentemente que los documentos estén registrados correctamente en SIGP antes del cierre y durante el periodo de ajuste.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "MINCIENCIAS verificará consistencia de documentos y reportará inconsistencias en observaciones generales del SIGP para ajuste durante el periodo establecido.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El proponente es responsable de la fiabilidad, coherencia y completitud de la información en SIGP y anexos; información no coincidente no será tenida en cuenta.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "MINCIENCIAS podrá solicitar en cualquier momento información y documentación adicional, complementaria o aclaraciones.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No presentar el mismo proyecto para más de un mecanismo de participación de la convocatoria.",
-      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
       "texto": "No abordar más de una línea temática en los mecanismos de participación.",
-      "tipo": "habilitante",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
       "texto": "El proyecto debe estar articulado con las demandas territoriales del objeto del proyecto.",
-      "tipo": "habilitante",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si el panel de evaluación determina que se requiere aval de Comité de Ética o Bioética, los soportes deben haberse cargado al cierre o en periodo de ajuste.",
-      "tipo": "documental",
+      "texto": "No tener el proyecto en ejecución o con financiación simultánea de otra convocatoria, MINCIENCIAS, SGR u otras fuentes.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El desempeño del IGPR debe ser adecuado según el consolidado del DNP 2021-2022.",
-      "tipo": "tecnico",
+      "texto": "No estar incurso en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades legales.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentar alteración en los documentos; de lo contrario, el proyecto será retirado e inhabilitado.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
       "texto": "El proponente o aliados no deben estar reportados en el último Boletín de responsables fiscales de la Contraloría General de la República.",
-      "tipo": "habilitante",
+      "tipo": "otro",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El proyecto no debe estar en ejecución ni contar con financiación simultánea de otra convocatoria, MINCIENCIAS, SGR u otras fuentes.",
-      "tipo": "habilitante",
+      "texto": "Para mecanismo de participación 1, el valor solicitado al SGR no debe ser inferior al establecido en la línea temática ni superar el monto indicativo máximo.",
+      "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El proponente o aliados no deben estar incursos en causales de prohibiciones, incompatibilidades, impedimentos o inhabilidades legales.",
-      "tipo": "habilitante",
+      "texto": "Para mecanismo de participación 2, el valor solicitado al SGR no debe ser inferior al establecido en la línea temática ni superar el monto indicativo máximo.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el panel de evaluación determina que se requiere aval de Comité de Ética o Bioética, este debe haberse cargado al cierre o en periodo de ajuste/subsanación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe ajustarse a todas las condiciones y requisitos de los términos de referencia.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente y todos los miembros de la alianza deben cumplir con los términos y condiciones establecidos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La alianza debe cumplir con las condiciones establecidas en los términos de referencia.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El desempeño del IGPR debe ser adecuado según la metodología del DNP (Consolidado 2021-2022), salvo excepción por no haber sido medido.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "MINCIENCIAS puede solicitar en cualquier momento información y documentación adicional, complementaria o aclaraciones.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [],
   "criterios_evaluacion": [],
-  "financiacion": null,
+  "financiacion": {
+    "monto_total_texto": "TRESCIENTOS CINCUENTA Y OCHO MIL OCHOCIENTOS OCHENTA Y OCHO MILLONES SETECIENTOS SETENTA Y DOS MIL QUINIENTOS NOVENTA Y OCHO PESOS M/CTE ($358.888.772.598)",
+    "monto_total_cop": 358888772598.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Asignación CTeI ambiental",
+    "notas": "Distribuido en dos mecanismos de participación: Mecanismo 1 por $120.000.000.000 y Mecanismo 2 por $238.888.772.598."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1414,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 539,
+          "completion_tokens": 99
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1318,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 609,
+          "completion_tokens": 155
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4425,
+          "completion_tokens": 944
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 13835,
+        "chars_enviados": 13475,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4085,
-          "completion_tokens": 1759
+          "prompt_tokens": 3971,
+          "completion_tokens": 1627
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3942,
+          "completion_tokens": 13
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 615,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 589,
+          "completion_tokens": 195
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 723,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 522,
+          "completion_tokens": 13
+        }
       }
     }
   },
@@ -192,10 +254,15 @@
         "modo": "no_elegible",
         "rol_sugerido": null,
         "bloqueantes": [
-          "No se encontraron actores elegibles en los datos extraídos para determinar la elegibilidad"
+          "No se encontraron actores elegibles en el contexto. La convocatoria requiere al menos un proyecto CTel con experiencia en los últimos 5 años o con recursos SGR, y la IES no ha demostrado cumplir con los requisitos específicos de la convocatoria (como acreditación IGPR, carta de aval, etc.)."
         ],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero no se cuenta con información suficiente sobre actores elegibles ni requisitos específicos de la convocatoria para determinar si puede postularse. Se requiere validar la capacidad institucional y los criterios de la convocatoria."
+        "condiciones_a_verificar": [
+          "Verificar si la IES cuenta con proyectos CTel en los últimos 5 años o con recursos SGR (según Anexo 5).",
+          "Demostrar acreditación del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP.",
+          "Adjuntar carta de aval y modelo de gobernanza firmados.",
+          "Cumplir con los requisitos documentales y financieros detallados en la convocatoria."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada con sede en Bogotá y reconocida en el SNCTI, no puede postularse a esta convocatoria porque no se ha verificado que tenga experiencia en proyectos CTel recientes ni que cumpla con los requisitos específicos del 'Dirigido a' de la convocatoria. Se requiere validar su capacidad institucional y documentación adicional."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -204,10 +271,15 @@
       "modo": "no_elegible",
       "rol_sugerido": null,
       "bloqueantes": [
-        "No se encontraron actores elegibles en los datos extraídos para determinar la elegibilidad"
+        "No se encontraron actores elegibles en el contexto. La convocatoria requiere al menos un proyecto CTel con experiencia en los últimos 5 años o con recursos SGR, y la IES no ha demostrado cumplir con los requisitos específicos de la convocatoria (como acreditación IGPR, carta de aval, etc.)."
       ],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero no se cuenta con información suficiente sobre actores elegibles ni requisitos específicos de la convocatoria para determinar si puede postularse. Se requiere validar la capacidad institucional y los criterios de la convocatoria.",
+      "condiciones_a_verificar": [
+        "Verificar si la IES cuenta con proyectos CTel en los últimos 5 años o con recursos SGR (según Anexo 5).",
+        "Demostrar acreditación del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP.",
+        "Adjuntar carta de aval y modelo de gobernanza firmados.",
+        "Cumplir con los requisitos documentales y financieros detallados en la convocatoria."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada con sede en Bogotá y reconocida en el SNCTI, no puede postularse a esta convocatoria porque no se ha verificado que tenga experiencia en proyectos CTel recientes ni que cumpla con los requisitos específicos del 'Dirigido a' de la convocatoria. Se requiere validar su capacidad institucional y documentación adicional.",
       "fuente": "reglas+llm"
     }
   }

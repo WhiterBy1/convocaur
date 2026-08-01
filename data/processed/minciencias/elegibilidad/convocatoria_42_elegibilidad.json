@@ -1,0 +1,45 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "miembro de la alianza",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior (IES)",
+        "rol": "miembro de la alianza",
+        "condicion": "mínimo dos (2) IES"
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse únicamente como miembro de una alianza, no en solitario. Debe integrarse con al menos otra IES y cumplir los requisitos de conformación de alianza establecidos en la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse únicamente como miembro de una alianza, no en solitario. Debe integrarse con al menos otra IES y cumplir los requisitos de conformación de alianza establecidos en la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

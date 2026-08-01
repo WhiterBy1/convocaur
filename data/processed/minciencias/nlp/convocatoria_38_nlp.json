@@ -1,197 +1,227 @@
 {
   "convocatoria": "38",
-  "objetivo": "Fortalecer las capacidades territoriales en Ciencia, Tecnología e Innovación en salud mediante la conformación de un listado de proyectos elegibles de Investigación, Desarrollo e Innovación orientados hacia la Atención Primaria en Salud, desde un enfoque preventivo, predictivo y resolutivo, para responder a las demandas territoriales establecidas en el “Reto 4. Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional” del plan bienal de convocatorias 2 023-2024.",
+  "objetivo": "Fortalecer las capacidades territoriales en Ciencia, Tecnología e Innovación en salud mediante la conformación de un listado de proyectos elegibles de Investigación, Desarrollo e Innovación orientados hacia la Atención Primaria en Salud, desde un enfoque preventivo, predictivo y resolutivo, para responder a las demandas territoriales establecidas en el “Reto 4. Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional” del plan bienal de convocatorias 2023-2024.",
   "actores_elegibles": [
     {
-      "tipo": "Entidad del SNCTI con reconocimiento vigente",
+      "tipo": "Entidad del SNCTI reconocida",
       "rol": null,
-      "condicion": "Debe tener reconocimiento vigente del Ministerio de Ciencia, Tecnología e Innovación como actor del SNCTI."
+      "condicion": "Contar con reconocimiento vigente del Ministerio de Ciencia, Tecnología e Innovación como actor del SNCTI (literal a del Decreto 1821 de 2020)."
     },
     {
-      "tipo": "Entidad sin reconocimiento previo del SNCTI",
+      "tipo": "Entidad sin reconocimiento previo pero que cumple criterios de idoneidad y trayectoria",
       "rol": null,
-      "condicion": "Debe cumplir con los criterios de idoneidad y trayectoria establecidos en los términos de referencia."
+      "condicion": "Haber realizado actividades de CTI y cumplir los criterios establecidos en los términos de referencia (literal b del Decreto 1821 de 2020)."
     },
     {
       "tipo": "Entidad internacional",
       "rol": null,
-      "condicion": "Debe presentar la 'Carta entidad internacional' según subnumeral 8.11. No requiere NIT ni suscribir carta aval y modelo de gobernanza."
+      "condicion": "Presentar la 'Carta entidad internacional' según el subnumeral 8.11. No requiere NIT ni suscribir carta aval y modelo de gobernanza."
     }
   ],
   "alianza_obligatoria": true,
   "lineas_tematicas": [],
   "requisitos": [
     {
-      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) ajustado al objetivo de la convocatoria.",
+      "texto": "Inscripción en SIGP: inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos, ajustado al objetivo de la convocatoria.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con las especificaciones y condiciones del 'DIRIGIDO A' establecidas en el numeral 3.",
+      "texto": "Cumplir con las especificaciones y condiciones del 'Dirigido a' establecidas en el numeral 3 de los TdR.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Acreditar el adecuado desempeño del proponente según metodología del DNP (excepto si no fue medido en los últimos 2 años).",
-      "tipo": "documental",
+      "texto": "Acreditar el adecuado desempeño del proponente según metodología del DNP (verificable por Minciencias). Excepción: no se requiere si no hubo medición en los últimos 2 años.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' firmada por los representantes legales de todas las entidades nacionales de la alianza.",
+      "texto": "Presentar Carta de aval, compromiso institucional unificada y Modelo de Gobernanza (Anexo 1b), firmada por representantes legales o apoderados de todas las entidades nacionales de la alianza.",
       "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el documento técnico (Anexo 2) con el contenido indicado en el numeral 10.1.",
+      "texto": "Adjuntar el Documento técnico (Anexo 2) según contenido del numeral 10.1, incluido en SIGP sección requisitos.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con el alcance establecido, incluyendo claramente las líneas temáticas definidas en el numeral 7 (infraestructura científica, modelos predictivos, atención primaria y líneas transversales).",
+      "texto": "Cumplir con el alcance establecido en el numeral 7 incluyendo en el Documento técnico las líneas temáticas especificadas (infraestructura científica, modelos predictivos, atención primaria, etc.).",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Atender al Reto 4 y al menos una demanda territorial (ver anexo 4) para cada departamento de la región SGR, registrado en SIGP y en el documento técnico.",
+      "texto": "Atender al Reto 4 y al menos una demanda territorial (Anexo 4) por cada departamento de la región SGR, registrado en SIGP y Documento técnico.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) según las condiciones del numeral 10.2 y 12.",
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) según condiciones del numeral 12, incluido en SIGP sección requisitos.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5) con soportes.",
+      "texto": "Anexar formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5) debidamente diligenciado, con soportes (convenios, actas, etc.) en SIGP.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar Aval del Comité de Ética de la Investigación o de Bioética (si aplica) y acto administrativo de conformación del comité.",
+      "texto": "Si aplica, presentar aval del Comité de Ética de la Investigación o de Bioética con el acto administrativo que soporta su conformación (se valida en etapa de evaluación).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto/centro/departamento/grupo de investigación.",
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto/centro/grupo, en español o inglés, especificando aporte en especie o efectivo.",
       "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades nacionales del sector productivo, presentar certificado de existencia y representación legal (no mayor a 90 días) y estar constituidas mínimo 1 año antes de la apertura.",
+      "texto": "Para entidades nacionales del sector productivo vinculadas, presentar certificado de existencia y representación legal no mayor a 90 días y estar constituidas mínimo 1 año antes de apertura.",
       "tipo": "documental",
       "severidad": "obligatorio"
     }
   ],
   "causales_rechazo": [
     {
-      "texto": "9.1. Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos"
+      "texto": "Incumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria o que estos no se subsanen dentro de los plazos establecidos"
     },
     {
-      "texto": "9.2. El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República."
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República"
     },
     {
-      "texto": "9.3. El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP."
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP"
     },
     {
-      "texto": "9.4. Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR"
     },
     {
-      "texto": "9.5. Cuando el valor solicitado del proyecto sobrepasa o es inferior al monto indicativo establecido por región del SGR a la que se presenta el proyecto en los presentes términos en el numeral 12. DURACIÓN Y FINANCIACIÓN."
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa o es inferior al monto indicativo establecido por región del SGR a la que se presenta el proyecto en los presentes términos en el numeral 12. DURACIÓN Y FINANCIACIÓN"
     },
     {
-      "texto": "9.6. Cuando en el proceso de evaluación se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 8.10 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+      "texto": "Cuando en el proceso de evaluación se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 8.10 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP"
     },
     {
-      "texto": "9.7. Cuando el proyecto no esté orientado a atender el reto 4. “Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional” - a través de por lo menos una demanda territorial (ver anexo 4), para cada uno de los departamentos pertenecientes a la zona de influencia del proyecto en los que se ejecutarán los componentes descritos en el numeral 7-ALCANCE."
+      "texto": "Cuando el proyecto no esté orientado a atender el reto 4. “Garantizar la seguridad sanitaria, la salud y el bienestar de la población en el territorio nacional” - a través de por lo menos una demanda territorial (ver anexo 4), para cada uno de los departamentos pertenecientes a la zona de influencia del proyecto en los que se ejecutarán los componentes descritos en el numeral 7-ALCANCE"
     },
     {
-      "texto": "9.8. Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente"
     },
     {
-      "texto": "9.9. Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar"
     },
     {
-      "texto": "9.10. En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación."
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales sobre esta situación"
     }
   ],
   "criterios_evaluacion": [
     {
+      "nombre": "CALIDAD TÉCNICO – CIENTÍFICA Y PRESUPUESTAL DEL PROYECTO",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia técnica, científica y presupuestal del proyecto."
+    },
+    {
       "nombre": "1.1 Coherencia y articulación técnica - científica y presupuestal del proyecto",
       "puntaje_max": 12.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la alineación entre demandas territoriales, línea temática, justificación, objetivos, metodología, cronograma, plan de actividades, productos, resultados esperados y presupuesto."
+      "descripcion": "Alineación entre demandas territoriales, línea temática, justificación, objetivos, metodología, cronograma, plan de actividades, productos, resultados esperados y presupuesto."
     },
     {
-      "nombre": "1.2 Correspondencia entre los productos y resultados de CTeI planteados con los niveles de madurez tecnológica (TRL) exigidos",
+      "nombre": "1.2 Correspondencia entre los productos y resultados de CTeI con los niveles de madurez tecnológica (TRL)",
       "puntaje_max": 12.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la correspondencia entre productos y resultados con el TRL esperado según la línea temática."
+      "descripcion": "Correspondencia entre productos/resultados y el TRL exigido según línea temática."
     },
     {
       "nombre": "1.3 Coherencia entre el presupuesto y los alcances del proyecto y justificación de los rubros",
       "puntaje_max": 11.0,
       "peso_pct": null,
-      "descripcion": "Evalúa si el presupuesto está balanceado y los rubros justificados con criterios de necesidad y eficiencia."
+      "descripcion": "Evaluación de si el presupuesto está sobre o subestimado y si los rubros están justificados."
+    },
+    {
+      "nombre": "CONTRIBUCIÓN DEL PROYECTO AL DESARROLLO TERRITORIAL, REGIONAL Y NACIONAL PARA EL FORTALECIMIENTO DE CAPACIDADES EN MATERIA DE CTEI",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa la contribución del proyecto al desarrollo territorial y fortalecimiento de capacidades en CTeI."
     },
     {
       "nombre": "2.1 Atención a las demandas territoriales establecidas en el Reto 4 del Plan Bienal de Convocatorias",
       "puntaje_max": 8.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el porcentaje de demandas territoriales abordadas por el proyecto."
+      "descripcion": "Porcentaje de demandas territoriales abordadas de los departamentos de la región SGR."
     },
     {
       "nombre": "2.2 Obtención de productos de generación de nuevo conocimiento y/o desarrollo tecnológico e innovación que genere la alianza",
       "puntaje_max": 6.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la cantidad de productos tipo TOP o A o B contemplados."
+      "descripcion": "Cantidad de productos tipo TOP, A o B contemplados en el proyecto."
     },
     {
       "nombre": "2.4 Inclusión de actividades, productos e indicadores que evidencian niveles de madurez tecnológica (TRL)",
       "puntaje_max": 6.0,
       "peso_pct": null,
-      "descripcion": "Evalúa si el proyecto incluye actividades, productos o indicadores según niveles TRL."
+      "descripcion": "Niveles TRL (1-9) incluidos en actividades, productos e indicadores."
     },
     {
       "nombre": "2.3 Apropiación social del conocimiento en el proyecto",
       "puntaje_max": 6.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el escenario de apropiación social del conocimiento (colaboración, involucramiento, información)."
+      "descripcion": "Escenario de participación (colaboración, involucramiento, información/consulta) para apropiación social."
     },
     {
       "nombre": "2.4 Contribución del proyecto al desarrollo de capacidades regionales y territoriales de CTeI",
       "puntaje_max": 6.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la atención a demandas territoriales según categorías IDIC de los departamentos."
+      "descripcion": "Atención a demandas territoriales en departamentos según categorías IDIC 2022."
     },
     {
-      "nombre": "3.1 Conformación de alianzas entre entidades del SNCTI para la contribución al logro de los objetivos",
+      "nombre": "CAPACIDAD TÉCNICA, IDONEIDAD Y TRAYECTORIA DE LA ENTIDAD PROPONENTE Y DE LOS ALIADOS",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa la conformación de alianzas y la vinculación de aliados internacionales."
+    },
+    {
+      "nombre": "3.1 Conformación de alianzas entre entidades del SNCTI",
       "puntaje_max": 8.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la composición de la alianza (IES, centros, sector productivo, entidad territorial, sociedad civil)."
+      "descripcion": "Tipo de alianza según combinación de IES, centros de CTeI, sector productivo, entidad territorial y sociedad civil."
     },
     {
       "nombre": "3.2 Vinculación de al menos un aliado internacional",
       "puntaje_max": 2.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la inclusión de centros o universidades internacionales."
+      "descripcion": "Participación de centros/institutos internacionales de I+D+i o universidades internacionales."
     },
     {
-      "nombre": "4. Sostenibilidad",
+      "nombre": "SOSTENIBILIDAD",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa el plan de sostenibilidad técnica, administrativa y financiera."
+    },
+    {
+      "nombre": "4. Plan de sostenibilidad técnica, administrativa y financiera",
       "puntaje_max": 13.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el plan de sostenibilidad técnica, administrativa y financiera que garantice continuidad."
+      "descripcion": "Garantía de continuidad y estabilidad de capacidades fortalecidas más allá del proyecto."
+    },
+    {
+      "nombre": "ENFOQUE DIVERSIDAD E INTERSECCIONALIDAD",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de población con enfoque diferencial vinculado y beneficiado."
     },
     {
       "nombre": "5.1 Porcentaje de población con enfoque diferencial vinculado al proyecto",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el porcentaje de población diferencial vinculada."
+      "descripcion": "Porcentaje de una o más categorías de población diferencial vinculada."
     },
     {
       "nombre": "5.2 Porcentaje de población con enfoque diferencial que se beneficiará dentro del Proyecto",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el porcentaje de población diferencial beneficiada."
+      "descripcion": "Porcentaje de población con enfoque diferencial beneficiada."
     }
   ],
   "financiacion": {
@@ -202,7 +232,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2023-2024",
-    "notas": "Monto total distribuido en valores iguales para seis regiones ($26.381.256.795 cada una). Rango por proyecto: desde $21.105.005.436 hasta $26.381.256.795."
+    "notas": "Monto total distribuido en valores iguales para seis regiones ($26.381.256.795 cada una). Valor del proyecto por región entre $21.105.005.436 y $26.381.256.795."
   },
   "meta": {
     "secciones": {
@@ -210,58 +240,65 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 514,
+        "chars_enviados": 510,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 345,
-          "completion_tokens": 667
+          "prompt_tokens": 367,
+          "completion_tokens": 336
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 7325,
+        "chars_enviados": 7181,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2277,
-          "completion_tokens": 1633
+          "prompt_tokens": 2220,
+          "completion_tokens": 524
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1648,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 823,
+          "completion_tokens": 290
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 12122,
+        "chars_enviados": 11890,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3604,
-          "completion_tokens": 1783
+          "prompt_tokens": 3524,
+          "completion_tokens": 1418
         }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3256,
+        "chars_enviados": 3183,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1114,
-          "completion_tokens": 1077
+          "prompt_tokens": 1094,
+          "completion_tokens": 593
         }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 11980,
+        "chars_enviados": 11729,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3499,
+          "prompt_tokens": 3406,
           "completion_tokens": 231
         }
       },
@@ -272,8 +309,8 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4059,
-          "completion_tokens": 3224
+          "prompt_tokens": 4069,
+          "completion_tokens": 1420
         }
       }
     }
@@ -300,7 +337,7 @@
           "La convocatoria no lista IES/universidades como actor elegible"
         ],
         "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores permitidos son entidades del SNCTI con reconocimiento vigente, entidades sin reconocimiento previo o entidades internacionales, sin incluir universidades. Además, la alianza es obligatoria, pero la universidad no puede liderar ni participar como aliada según el perfil."
+        "resumen": "La Universidad del Rosario, siendo una IES privada reconocida por el SNCTI, no puede postularse como proponente o ejecutora porque la convocatoria no incluye a universidades entre los actores elegibles. Solo se permite la participación como aliado en alianzas lideradas por otro tipo de entidad, por lo que no es elegible en esta convocatoria."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -312,7 +349,7 @@
         "La convocatoria no lista IES/universidades como actor elegible"
       ],
       "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores permitidos son entidades del SNCTI con reconocimiento vigente, entidades sin reconocimiento previo o entidades internacionales, sin incluir universidades. Además, la alianza es obligatoria, pero la universidad no puede liderar ni participar como aliada según el perfil.",
+      "resumen": "La Universidad del Rosario, siendo una IES privada reconocida por el SNCTI, no puede postularse como proponente o ejecutora porque la convocatoria no incluye a universidades entre los actores elegibles. Solo se permite la participación como aliado en alianzas lideradas por otro tipo de entidad, por lo que no es elegible en esta convocatoria.",
       "fuente": "reglas+llm"
     }
   }

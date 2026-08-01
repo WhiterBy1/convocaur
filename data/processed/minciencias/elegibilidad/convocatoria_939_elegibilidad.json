@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no es elegible para postularse a esta convocatoria porque, según los actores elegibles definidos, no se incluye a las IES/universidades como entidades que pueden postular proyectos. Además, no se cuenta con información sobre el cumplimiento de las condiciones específicas de ejecución de proyectos en 2022."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no es elegible para postularse a esta convocatoria porque, según los actores elegibles definidos, no se incluye a las IES/universidades como entidades que pueden postular proyectos. Además, no se cuenta con información sobre el cumplimiento de las condiciones específicas de ejecución de proyectos en 2022.",
+    "fuente": "reglas+llm"
+  }
+}

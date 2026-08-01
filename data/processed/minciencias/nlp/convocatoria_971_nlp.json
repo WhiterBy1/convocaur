@@ -1,82 +1,463 @@
 {
   "convocatoria": "971",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "objetivo": "Conformar un banco de proyectos elegibles en Ciencia, Tecnología e Innovación con enfoque en apropiación social de conocimiento para el desarrollo de comunidades energéticas.",
+  "actores_elegibles": [
+    {
+      "tipo": "Instituciones de Educación Superior (IES) acreditadas",
+      "rol": "ejecutora",
+      "condicion": "Acreditación vigente por CNA a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centros o Institutos de Investigación reconocidos por Minciencias",
+      "rol": "ejecutora",
+      "condicion": "Reconocimiento vigente por Minciencias a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centros de Desarrollo Tecnológico reconocidos por Minciencias",
+      "rol": "ejecutora",
+      "condicion": "Reconocimiento vigente por Minciencias a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Centros de Innovación y de Productividad reconocidos por Minciencias",
+      "rol": "ejecutora",
+      "condicion": "Reconocimiento vigente por Minciencias a la fecha de cierre de la convocatoria"
+    },
+    {
+      "tipo": "Resguardos Indígenas",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Cabildo indígena",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Consejo comunitario de las comunidades negras",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Asociación campesina",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Asociación agropecuaria",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Asociaciones Mutualistas",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Junta de Acción Comunal",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Cooperativas",
+      "rol": "coejecutor",
+      "condicion": "Organización de base comunitaria"
+    },
+    {
+      "tipo": "Operadores de Red",
+      "rol": "coejecutor",
+      "condicion": "Agente del mercado energético"
+    },
+    {
+      "tipo": "Empresas Comercializadoras de Energía",
+      "rol": "coejecutor",
+      "condicion": "Agente del mercado energético"
+    },
+    {
+      "tipo": "Empresas Generadoras de Energía Eléctrica",
+      "rol": "coejecutor",
+      "condicion": "Agente del mercado energético"
+    },
+    {
+      "tipo": "Empresas Constructoras de Proyectos de FNCER",
+      "rol": "coejecutor",
+      "condicion": "Agente del mercado energético"
+    },
+    {
+      "tipo": "Empresas con experiencia en construcción de equipos y/o implementación de proyectos de energía térmica",
+      "rol": "coejecutor",
+      "condicion": "Agente del mercado energético, legalmente constituidas en Colombia con historial comprobado"
+    },
+    {
+      "tipo": "Instituciones de Educación Superior (IES) colombianas",
+      "rol": "coejecutor",
+      "condicion": "Otros co-ejecutores (opcional)"
+    },
+    {
+      "tipo": "Centros o Institutos de Investigación, Centros de Desarrollo Tecnológico, Centros de Innovación y de Productividad",
+      "rol": "coejecutor",
+      "condicion": "Otros co-ejecutores (opcional), mínimo 2 años de constitución"
+    },
+    {
+      "tipo": "Personas jurídicas legalmente constituidas en Colombia",
+      "rol": "coejecutor",
+      "condicion": "Otros co-ejecutores (opcional), mínimo 2 años de constitución"
+    },
+    {
+      "tipo": "Spin-offs",
+      "rol": "coejecutor",
+      "condicion": "Otros co-ejecutores (opcional), mínimo 2 años de constitución"
+    },
+    {
+      "tipo": "Oficinas de transferencia de resultados de investigación - OTRIS",
+      "rol": "coejecutor",
+      "condicion": "Otros co-ejecutores (opcional), mínimo 2 años de constitución"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Soluciones energéticas para el Sistema Interconectado Nacional (SIN)",
+      "modalidad": null,
+      "descripcion_corta": "Poblaciones en el SIN con acceso estable a la red, pero enfrentan desafíos de sostenibilidad, eficiencia y alto costo de la energía."
+    },
+    {
+      "nombre": "Soluciones energéticas para Zonas No Interconectadas (ZNI)",
+      "modalidad": null,
+      "descripcion_corta": "ZNI con limitado o nulo acceso a la red, dependencia de fuentes costosas y menos sostenibles."
+    },
+    {
+      "nombre": "Generación de Energía",
+      "modalidad": "Eje temático",
+      "descripcion_corta": "Proyectos que promuevan la generación de energía a partir de Fuentes No Convencionales de Energía Renovable (FNCER), integrando tecnologías innovadoras y sostenibles."
+    },
+    {
+      "nombre": "Comercialización de Energía",
+      "modalidad": "Eje temático",
+      "descripcion_corta": "Iniciativas que desarrollen modelos de negocio viables para la comercialización de energía, incluyendo distribución local y acceso a energía limpia a precios justos."
+    },
+    {
+      "nombre": "Uso Racional y Eficiente de la Energía",
+      "modalidad": "Eje temático",
+      "descripcion_corta": "Implementación de prácticas y tecnologías para uso eficiente de la energía, reducción de consumo y fomento de cultura de sostenibilidad."
+    },
+    {
+      "nombre": "Cogeneración",
+      "modalidad": "Eje temático",
+      "descripcion_corta": "Proyectos que prioricen el uso combinado de energías térmica y eléctrica para apalancar proyectos productivos, aprovechando recursos naturales renovables."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los TdR; la información en SIGP debe coincidir con el Anexo 4.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir el proyecto en SIGP según el numeral 13, seleccionando modalidad y línea temática del numeral 4; el formulario debe estar conforme al Anexo 2.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la Carta unificada de aval y compromiso institucional (Anexo 4) con firmas manuscritas o digitales de representantes legales de todas las entidades de la alianza.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La carta de aval debe incluir el modelo de gobernanza de la alianza; todas las entidades deben aportar contrapartida mínima del 30% del valor total del proyecto.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar Certificado de Existencia y Representación Legal vigente para todas las entidades de la alianza.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para la entidad ejecutora: certificado con fecha no mayor a 90 días antes del cierre, que acredite al menos 3 años de constitución; si es IES, adjuntar acreditación institucional de alta calidad.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para organización de base comunitaria (coejecutora): certificado vigente que refleje objeto social, representante legal, facultades y tiempo de constitución mínimo 3 años.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para agentes del mercado energético (coejecutor): certificado de Cámara de Comercio con fecha no mayor a 90 días, mínimo 3 años de constitución y código CIIU específico.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar y anexar el Anexo 5 'Experiencia de la alianza' con evidencias (convenios, contratos, certificaciones, etc.).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El ejecutor debe acreditar experiencia mínima de 2 años en proyectos de FNCER térmica y/o eléctrica.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El co-ejecutor (Agente del Mercado Energético) debe acreditar experiencia mínima de 2 años en formulación, construcción y/u operación de proyectos FNCER.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en SIGP el estado de madurez de la solución tecnológica principal con TRL inicial mínimo nivel 8 y anexar evidencias.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar concepto de un comité de ética/bioética cuando aplique, con el acto administrativo de creación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Registrar en SIGP todo el personal científico, identificar director y coinvestigadores; personal residente en Colombia debe tener CvLAC actualizado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de vinculación del director del proyecto expedido por la entidad ejecutora, con anterioridad a la fecha de apertura.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias de permisos y licencias ambientales necesarios para la ejecución del proyecto, cuando aplique.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado(s) de enfoque diferencial según numeral 7 (opcional y no inhabilitante).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Coherencia en la estructura del proyecto",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Articulación y coherencia entre el planteamiento del problema, los objetivos, el diseño metodológico y el cronograma de actividades, así como con los productos mínimos esperados y el objetivo de la convocatoria."
+    },
+    {
+      "nombre": "1.2 Enfoque innovador de la solución propuesta",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Valoración de la originalidad y componente innovador en la aplicación de tecnologías o metodologías para abordar desafíos energéticos y generar valor."
+    },
+    {
+      "nombre": "1.3 Concordancia entre el presupuesto total, las actividades y los objetivos planteados del proyecto",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Justificación adecuada de los rubros, cantidades y montos solicitados con los objetivos, la metodología y la duración del proyecto."
+    },
+    {
+      "nombre": "2.1 Experiencia y trayectoria técnica demostrada de las entidades y el equipo de trabajo de la alianza relacionada con las temáticas del proyecto y la línea de investigación a la cual se postula cumpliendo con lo establecido en el numeral 8.4 de los términos de referencia",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Con base en el Anexo 5 y los soportes de experiencia presentados por los proponentes."
+    },
+    {
+      "nombre": "2.2 Pertinencia, capacidades técnicas, complementariedad e interdisciplinariedad de los actores que conforman la alianza para el desarrollo del plan de trabajo propuesto (claridad en la distribución de roles, actividades, capacidades).",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "2.3 Algún integrante del equipo de trabajo pertenece a grupos étnicos o población víctima del conflicto.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según número de integrantes: 3 puntos para tres o más, 2 para dos, 1 para uno. No acumulativo."
+    },
+    {
+      "nombre": "3.1 Aporte del proyecto al fortalecimiento de capacidades de I+D+i y formación de personal en los proponentes",
+      "puntaje_max": 9.0,
+      "peso_pct": null,
+      "descripcion": "Puntajes: vinculación de 4 o más jóvenes investigadores (2 pts), 2 o más estudiantes de maestría (2 pts), uno o más de doctorado (2 pts), y generación de productos adicionales a artículo indexado (3 pts)."
+    },
+    {
+      "nombre": "3.2 Estado actual de la tecnología principal que se desplegará en el proyecto para la solución tecnológica, evidenciando que corresponda a un nivel mínimo de TRL 8.",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "TRL menor a 8: 0 puntos; TRL 8: 4 puntos."
+    },
+    {
+      "nombre": "3.3 Estrategia de Apropiación Social del Conocimiento a las organizaciones de base comunitaria del proyecto y a la red Econova (https://www.econova.co/).",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Metodología que evidencie integración y participación comunitaria, intercambio de conocimiento, y desarrollo de al menos un producto de ASC."
+    },
+    {
+      "nombre": "3.4 Enfoque territorial.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según IDC 2025 del departamento: superior a 5: 0 pts; entre 4 y 5: 1 pt; inferior a 4: 3 pts."
+    },
+    {
+      "nombre": "4.1 Grado en que el proyecto desarrolla alternativas económicas viables y permite la generación de ingresos/beneficios que permitan una sostenibilidad a largo plazo de la solución a implementar.",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "4.2 Evaluación de la capacidad del proyecto para generar actividades económicas alternativas y sostenibles en áreas de influencia de ECOPETROL (Ver Anexo 7), complementando con opciones a la comunidad en actividades del sector energético.",
+      "puntaje_max": 12.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "4.3 Integración y Participación Comunitaria",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Grado en que el proyecto promueve la inclusión activa y participación de la comunidad en todas las fases, asegurando que sus necesidades se reflejen."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "ONCE MIL CUATROCIENTOS DOS MILLONES OCHOCIENTOS TREINTA Y OCHO MIL SEISCIENTOS CUARENTA Y CINCO PESOS M/CTE ($11.402.838.645)",
+    "monto_total_cop": 11402838645.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": 30.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Convenio Especial de Cooperación 982-2023, Fondo Nacional para Ciencia, la Tecnología y la Innovación, Fondo Francisco José de Caldas",
+    "notas": "Financiamiento de recuperación contingente. Monto total incluye dos líneas: Soluciones energéticas para ZNI ($6.841.703.186, máx. $3.420.851.593 por proyecto) y Soluciones energéticas para SIN ($4.561.135.458, máx. $2.280.567.729 por proyecto)."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1922,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 728,
+          "completion_tokens": 148
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3921,
+          "completion_tokens": 1434
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4961,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1505,
+          "completion_tokens": 2202
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4186,
+          "completion_tokens": 1011
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3842,
+          "completion_tokens": 11
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4295,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1677,
+          "completion_tokens": 266
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7924,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2775,
+          "completion_tokens": 12955
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
-      "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
-      "actores_ies_match": [],
-      "condiciones_pendientes": [],
-      "capa": "reglas"
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES) acreditadas",
+          "rol": "ejecutora",
+          "condicion": "Acreditación vigente por CNA a la fecha de cierre de la convocatoria"
+        },
+        {
+          "tipo": "Instituciones de Educación Superior (IES) colombianas",
+          "rol": "coejecutor",
+          "condicion": "Otros co-ejecutores (opcional)"
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Acreditación vigente por CNA a la fecha de cierre de la convocatoria",
+          "riesgo": "acreditacion",
+          "nota": "Verificar vigencia de acreditacion institucional/programas."
+        },
+        {
+          "condicion": "Acreditación vigente por CNA a la fecha de cierre de la convocatoria",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
     },
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "elegible_con_condiciones",
-        "rol_sugerido": "ejecutora",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Verificar capacidad institucional para contrapartida si aplica"
-        ],
-        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y acreditada institucionalmente, con sede principal en Bogotá. Puede postularse a convocatorias Minciencias, pero se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida."
+        "": "puede_postularse"
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
+      "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Verificar capacidad institucional para contrapartida si aplica"
-      ],
-      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y acreditada institucionalmente, con sede principal en Bogotá. Puede postularse a convocatorias Minciencias, pero se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida.",
+      "condiciones_a_verificar": [],
+      "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
       "fuente": "reglas+llm"
     }
   }

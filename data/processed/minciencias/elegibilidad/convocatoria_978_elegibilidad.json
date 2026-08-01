@@ -1,0 +1,44 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contrapartida del 10% en dinero y/o especie",
+        "Experiencia acumulada en al menos 3 proyectos de I+D+i en salud en los últimos 10 años",
+        "Documentación de la alianza y cartas de aval",
+        "Capacidad institucional para ser la entidad ejecutora y manejar los recursos"
+      ],
+      "resumen": "La Universidad del Rosario puede postularse a esta convocatoria exclusivamente en alianza con otras entidades, ya que los requisitos exigen conformar una alianza. Como IES acreditada, puede ser la entidad ejecutora del proyecto, pero debe verificar que cumple con la contrapartida, la experiencia en proyectos de salud y la documentación requerida."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Contrapartida del 10% en dinero y/o especie",
+      "Experiencia acumulada en al menos 3 proyectos de I+D+i en salud en los últimos 10 años",
+      "Documentación de la alianza y cartas de aval",
+      "Capacidad institucional para ser la entidad ejecutora y manejar los recursos"
+    ],
+    "resumen": "La Universidad del Rosario puede postularse a esta convocatoria exclusivamente en alianza con otras entidades, ya que los requisitos exigen conformar una alianza. Como IES acreditada, puede ser la entidad ejecutora del proyecto, pero debe verificar que cumple con la contrapartida, la experiencia en proyectos de salud y la documentación requerida.",
+    "fuente": "reglas+llm"
+  }
+}

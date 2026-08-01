@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario, por ser una IES, no es considerada como proponente/ejecutora según el tipo institucional requerido."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las IES/universidades como actores elegibles para postularse como proponentes o ejecutoras. Por lo tanto, no puede postularse de manera directa."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario, por ser una IES, no es considerada como proponente/ejecutora según el tipo institucional requerido."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las IES/universidades como actores elegibles para postularse como proponentes o ejecutoras. Por lo tanto, no puede postularse de manera directa.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Cumplir con los requisitos específicos del mecanismo de participación definido en la convocatoria (Dirigida A).",
+        "Anexar toda la documentación solicitada (cartas de aval, presupuesto, modelo de gobernanza, anexos de experiencia, etc.).",
+        "Verificar que la propuesta esté alineada con el objetivo de la convocatoria: formulación de políticas públicas en I+C o comercialización de bienes y servicios culturales, artísticos o patrimoniales."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por Minciencias, por lo que cumple con el perfil básico para postularse. No obstante, la elegibilidad final está sujeta a la verificación de los requisitos documentales y de contenido específicos de la convocatoria, así como a la capacidad institucional para ejecutar proyectos en las áreas temáticas indicadas."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Cumplir con los requisitos específicos del mecanismo de participación definido en la convocatoria (Dirigida A).",
+      "Anexar toda la documentación solicitada (cartas de aval, presupuesto, modelo de gobernanza, anexos de experiencia, etc.).",
+      "Verificar que la propuesta esté alineada con el objetivo de la convocatoria: formulación de políticas públicas en I+C o comercialización de bienes y servicios culturales, artísticos o patrimoniales."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por Minciencias, por lo que cumple con el perfil básico para postularse. No obstante, la elegibilidad final está sujeta a la verificación de los requisitos documentales y de contenido específicos de la convocatoria, así como a la capacidad institucional para ejecutar proyectos en las áreas temáticas indicadas.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con alianza formal con el Instituto Geográfico Agustín Codazzi (IGAC) al momento de la postulación",
+        "Disponer de grupos de investigación reconocidos por Minciencias para vincular jóvenes investigadores e innovadores",
+        "La propuesta debe alinearse con las líneas temáticas definidas en el numeral 4 de la invitación"
+      ],
+      "resumen": "Universidad del Rosario, como Institución de Educación Superior privada y reconocida por el SNCTI, puede postularse como entidad ejecutora, pero debe hacerlo en alianza con el IGAC, requisito obligatorio de la invitación. Adicionalmente, debe verificar que cuenta con grupos de investigación activos para vincular jóvenes investigadores y que la propuesta se ajusta a las líneas temáticas del reto."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Contar con alianza formal con el Instituto Geográfico Agustín Codazzi (IGAC) al momento de la postulación",
+      "Disponer de grupos de investigación reconocidos por Minciencias para vincular jóvenes investigadores e innovadores",
+      "La propuesta debe alinearse con las líneas temáticas definidas en el numeral 4 de la invitación"
+    ],
+    "resumen": "Universidad del Rosario, como Institución de Educación Superior privada y reconocida por el SNCTI, puede postularse como entidad ejecutora, pero debe hacerlo en alianza con el IGAC, requisito obligatorio de la invitación. Adicionalmente, debe verificar que cuenta con grupos de investigación activos para vincular jóvenes investigadores y que la propuesta se ajusta a las líneas temáticas del reto.",
+    "fuente": "reglas+llm"
+  }
+}

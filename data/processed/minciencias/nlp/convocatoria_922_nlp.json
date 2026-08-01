@@ -1,53 +1,271 @@
 {
   "convocatoria": "922",
-  "objetivo": null,
-  "actores_elegibles": [],
+  "objetivo": "Fortalecer la producción científica del país mediante apoyos a la gestión editorial, como el pago de APC, traducción y corrección de estilo de artículos, para aumentar la probabilidad de publicación de trabajos de investigadores colombianos en revistas indexadas en WOS, SCOPUS o Publindex por homología IBC.",
+  "actores_elegibles": [
+    {
+      "tipo": "Personas Jurídicas",
+      "rol": null,
+      "condicion": "Ser parte del Sistema Nacional de Ciencia, Tecnología e Innovación – SNCTel, estar interesados en fortalecer su producción científica en revistas incluidas en los Índices Bibliográficos Citacionales (WOS - JCR o SCOPUS) y encontrarse en el top 100 de entidades nacionales con mayor número de publicaciones en SCOPUS en los últimos tres años (2018 a 2020). Ver anexo 2."
+    }
+  ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Pago de APC (Article Processing Charges)",
+      "modalidad": "Apoyo económico",
+      "descripcion_corta": "Cubrir los cargos por procesamiento de artículos en revistas indexadas en WOS, SCOPUS o Publindex por homología IBC, preferiblemente de acceso abierto completo."
+    },
+    {
+      "nombre": "Traducción de artículos",
+      "modalidad": "Servicio de traducción",
+      "descripcion_corta": "Traducción de artículos escritos en español para aumentar su probabilidad de publicación en revistas internacionales indexadas."
+    },
+    {
+      "nombre": "Corrección de estilo de artículos",
+      "modalidad": "Servicio de corrección",
+      "descripcion_corta": "Corrección de estilo de artículos escritos en inglés para mejorar su calidad y adecuación a revistas indexadas."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Postular propuesta a través del formulario SIGP en el vínculo https://plataformasisgp.minciencias.gov.co:7003/FormularioProyectos/faces/proyecto/invitacionEspecial.xhtml",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta debe incluir título, resumen, palabras clave, equipo de gestión editorial y científica, objetivos, metodología, productos esperados y relación de artículos científicos con sus estados.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para artículos inédito terminado, relacionar: título (español/inglés), resumen, abstract, palabras clave, key words, investigación derivada y patrocinadores, revistas objetivo (título, ISSN, entidad editora, web), indexación WOS/SCOPUS, enlace cuartil SJR/JCR, cronograma de sometimiento y tiempo medio de publicación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para artículos sometidos, relacionar: título, resumen, abstract, palabras clave, key words, revista en que fue sometido, indexación WOS/SCOPUS, enlace cuartil SJR/JCR, pantallazo de sometimiento, relación de autores con afiliación y corresponding author, valor APC (si aplica).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para artículos aceptados para publicación, relacionar: título, resumen, abstract, palabras clave, key words, revista en que fue aceptado, indexación WOS/SCOPUS, enlace cuartil SJR/JCR, pantallazo de aceptación, relación de autores con afiliación y corresponding author, valor APC (si aplica).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir presupuesto conforme a los rubros financieros de la convocatoria.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La institución proponente debe estar en el TOP 100 de instituciones con mayor número de publicaciones en SCOPUS en los últimos tres años (2018-2020), según Anexo 2.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los artículos en estado sometido o aceptado deben estar dirigidos a una revista incluida en WOS - Journal Citation Reports o SCOPUS a la fecha y hora de cierre del cronograma.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cada artículo debe tener al menos un autor con afiliación en una institución que cumpla las especificaciones del numeral 3 (Dirigida A).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribirse en el plazo fijado, de acuerdo con las fechas y horas establecidas en el cronograma (numeral 13).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Es deseable que al menos el 60% de los artículos en la propuesta estén escritos en cooperación internacional, demostrado a través de coautor con afiliación extranjera.",
+      "tipo": "alianza",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "El contenido del artículo debe tener relación directa con las líneas de investigación declaradas por los autores de afiliación colombiana.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los autores de los trabajos deben tener los derechos morales del escrito y contar con la autorización de cada uno para los trámites de la convocatoria (ver anexo 3).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La institución proponente debe garantizar la calidad científica, editorial y originalidad de los trabajos, sin incurrir en faltas éticas o de derechos de autor.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán participar artículos sometidos a revistas canceladas o descontinuadas en los Índices Bibliográficos Citacionales a la fecha de cierre de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Propuestas presentadas por otro medio diferente al definido en el numeral 4 no serán tomadas en cuenta.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La postulación de un mismo artículo por dos o más autores de diferentes instituciones invalida la participación del documento.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El presupuesto solicitado no debe exceder el tope establecido.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los trabajos relacionados no deben incurrir en ningún tipo de falta ética o de derechos de autor.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se permiten propuestas que incluyan artículos en procesos editoriales de sitios no oficiales que desarrollen malas prácticas y tengan denuncias de control social.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "Estado de avance de los artículos relacionados en la propuesta en el proceso editorial",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de trabajos aceptados y sometidos en el proceso editorial."
+    },
+    {
+      "nombre": "Relación de autor de correspondencia",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de autores que son corresponding author."
+    },
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Calidad, pertinencia, coherencia metodológica, relación con objetivos y productos esperados."
+    },
+    {
+      "nombre": "Colaboración Internacional",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el porcentaje de trabajos con coautoría internacional."
+    },
+    {
+      "nombre": "Categoría de la revista en la que se publicará",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje según la categoría Q1 de las revistas donde se publicará."
+    },
+    {
+      "nombre": "Costos",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje inversamente proporcional al costo solicitado."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "TRES MIL NOVECIENTOS SETENTA Y TRES MILLONES TRESCIENTOS TREINTA Y TRES MIL PESOS ($3.973.333.000) M/CTE",
+    "monto_total_cop": 3973333000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 6,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación, CDR Global No. 17555 de 2022 del convenio 294-2022",
+    "notas": "Los costos de redacción y estructuración del artículo son responsabilidad del proponente. La propuesta no puede ser financiada simultáneamente por otra convocatoria o con recursos del Estado."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1845,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 703,
+          "completion_tokens": 78
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 480,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 429,
+          "completion_tokens": 539
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1863,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 771,
+          "completion_tokens": 1197
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8344,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2816,
+          "completion_tokens": 2510
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4110,
+          "completion_tokens": 432
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1748,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 815,
+          "completion_tokens": 949
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4792,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1627,
+          "completion_tokens": 568
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -55,28 +273,17 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "sola",
-        "rol_sugerido": "ejecutora",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar que la convocatoria no exija alianzas obligatorias",
-          "Confirmar que la IES cumple requisitos específicos de grupos de investigación o experiencia regional si aplica"
-        ],
-        "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. Puede postularse de forma individual como ejecutora, pero se deben validar condiciones particulares de la convocatoria."
+        "": 1
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "sola",
-      "rol_sugerido": "ejecutora",
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
       "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar que la convocatoria no exija alianzas obligatorias",
-        "Confirmar que la IES cumple requisitos específicos de grupos de investigación o experiencia regional si aplica"
-      ],
-      "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. Puede postularse de forma individual como ejecutora, pero se deben validar condiciones particulares de la convocatoria.",
+      "condiciones_a_verificar": [],
+      "resumen": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "fuente": "reglas+llm"
     }
   }

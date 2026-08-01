@@ -1,0 +1,53 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "puede_sola_o_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible y la alianza no es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior",
+        "rol": "Entidad proponente",
+        "condicion": "Debe ser la entidad proponente si actúa de manera individual o en alianza"
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con personería jurídica vigente",
+        "Acreditar adecuado desempeño del IGPR si aplica",
+        "Tener y vincular al menos un grupo de investigación categoría A1, A o B"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida en el SNCTI, con acreditación institucional y sede principal en Bogotá. Cumple con los requisitos habilitantes para postularse como entidad ejecutora de manera individual, siempre que verifique su personería jurídica, el índice de gestión de proyectos de regalías y la vinculación de un grupo de investigación de categoría A1, A o B."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Contar con personería jurídica vigente",
+      "Acreditar adecuado desempeño del IGPR si aplica",
+      "Tener y vincular al menos un grupo de investigación categoría A1, A o B"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida en el SNCTI, con acreditación institucional y sede principal en Bogotá. Cumple con los requisitos habilitantes para postularse como entidad ejecutora de manera individual, siempre que verifique su personería jurídica, el índice de gestión de proyectos de regalías y la vinculación de un grupo de investigación de categoría A1, A o B.",
+    "fuente": "reglas+llm"
+  }
+}

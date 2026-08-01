@@ -1,69 +1,288 @@
 {
   "convocatoria": "977",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
+  "objetivo": "Medir la calidad y el impacto de la producción científica nacional mediante la categorización de revistas científicas especializadas bajo estándares de excelencia editorial, promoviendo su inclusión en Sistemas de Resúmenes e Indexación (SIRes) de visibilidad global y la consolidación de la tipología de “Reconocida” que proyecte su relevancia en el ámbito académico nacional.",
+  "actores_elegibles": [
+    {
+      "tipo": "revista científica colombiana",
+      "rol": "participante",
+      "condicion": "editada por al menos una entidad editora avaladora"
+    }
+  ],
+  "alianza_obligatoria": false,
   "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
+  "requisitos": [
+    {
+      "texto": "Contar con el aval institucional de mínimo una de las instituciones editoras de la revista científica que participará en la convocatoria, otorgado a través del aplicativo InstituLAC.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La revista participante debe tener la información completamente diligenciada, actualizada y vinculada en el aplicativo Publindex (plataforma ScienTI - Colombia), teniendo como plazo máximo la fecha y hora de cierre del cronograma.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con la revisión y verificación del cumplimiento de los doce (12) requisitos de la Fase I, y al menos una institución editora debe marcar el cumplimiento en el aplicativo InstituLAC.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las personas colombianas (editores, autores, miembros del comité editorial/científico, evaluadores) deben tener diligenciada y actualizada información mínima (nombres, apellidos, documento de identidad, trayectoria profesional, formación académica y correo electrónico) en el aplicativo CvLAC, para ser vinculadas al aplicativo Publindex, antes del cierre del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las personas extranjeras residentes en Colombia con vinculación a una institución colombiana durante la ventana de observación (1 enero al 31 diciembre de 2025) deben tener información diligenciada y actualizada en el aplicativo CvLAC para ser vinculadas al aplicativo Publindex.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las personas extranjeras no residentes en Colombia y sin vínculo con institución colombiana durante la ventana de observación (1 enero al 31 diciembre de 2025) deben estar registradas en el aplicativo Publindex con información: nombres, apellidos, documento de identidad (opcional), filiación institucional, ORCID (opcional), nivel máximo formación, fecha de grado y correo electrónico.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para revistas fusionadas, registrar en el aplicativo Publindex el nuevo título e ISSN o título e ISSN de la revista que se conserve.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cargar en el aplicativo Publindex los soportes de inclusión de la revista en Sistemas de Indexación y Resumen (SIR) reconocidos por Minciencias, para validar el criterio de visibilidad internacional.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribirse en la Convocatoria a través del aplicativo Publindex, en el plazo fijado según el cronograma.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Tener un código ISSN asignado por una institución diferente al Centro Nacional de ISSN colombiano."
+    },
+    {
+      "texto": "Las revistas no podrán tener menos de dos años de existencia a la fecha de cierre de la convocatoria, contados a partir de su primera edición, cumpliendo con la periodicidad declarada ante el Centro Nacional ISSN colombiano."
+    },
+    {
+      "texto": "Si la revista científica colombiana no cumple con alguno de los requisitos estipulados en el numeral 4. REQUISITOS, no será considerada para el proceso de evaluación."
+    },
+    {
+      "texto": "No pueden participar las siguientes publicaciones seriadas: periódicos, actas, directorios, memorias, congresos, magazín, revistas de opinión, Working Papers, boletines, informes de gestión o series monográficas."
+    },
+    {
+      "texto": "No pueden participar las publicaciones seriadas de los Índices Bibliográficos Citacionales JCR y SJR que pertenecen a las tipologías: book series, conference proceedings, conference proceedings y Trade Journal, debido a que no son considerados Journals."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Tener un ISSN asignado en el Centro Nacional Colombiano del ISSN que identifique la revista.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe contar con un ISSN asignado por el Centro Nacional Colombiano del ISSN."
+    },
+    {
+      "nombre": "Registrar un título de la revista y un título abreviado.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe tener un título y un título abreviado; se recomienda que el título sea singularizante."
+    },
+    {
+      "nombre": "Registrar como mínimo una (1) institución que avale la participación de la revista en la convocatoria.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe contar con al menos una institución que avale su participación."
+    },
+    {
+      "nombre": "Declarar, en el aplicativo Publindex, la gran área, área y disciplina de la revista según OCDE y campo de conocimiento de Minciencias.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe declarar su clasificación OCDE y campo de conocimiento en Publindex."
+    },
+    {
+      "nombre": "Tener como mínimo dos (2) años de existencia y contar con el número de ediciones correspondientes a los últimos dos años.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe tener al menos dos años de existencia y las ediciones requeridas según su periodicidad."
+    },
+    {
+      "nombre": "Contar con la disponibilidad del título, palabras clave y resumen en español e inglés para la versión en línea, así como fechas de publicación y actualización.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La versión en línea debe incluir título, palabras clave y resumen en español e inglés, con fechas de publicación y actualización."
+    },
+    {
+      "nombre": "Contar con instrucciones para los autores que incluyan alcance, parámetros de citación, periodicidad y documento de ética.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Las instrucciones para autores deben contener alcance, parámetros de citación, periodicidad y un documento de ética, disponibles en el sitio web."
+    },
+    {
+      "nombre": "Tener la descripción detallada del proceso de revisión por pares y los tiempos medios de respuesta.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe describir el proceso de revisión por pares y los tiempos de respuesta, disponible en el sitio web."
+    },
+    {
+      "nombre": "Contar en el proceso de evaluación con la participación de pares evaluadores por artículo, declaración de conflicto de interés, normas de ética, confidencialidad y plagio.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La evaluación debe incluir pares evaluadores, declaración de conflicto de interés, normas éticas, confidencialidad y detección de plagio."
+    },
+    {
+      "nombre": "Contar con formularios de evaluación por pares con criterios definidos por la revista.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe tener formularios de evaluación por pares con criterios específicos, disponibles en el repositorio."
+    },
+    {
+      "nombre": "Tener un repositorio para autores con razones de aceptación, revisión o rechazo de artículos.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe contar con un repositorio que incluya nombres de evaluadores, formatos de evaluación y artículos evaluados, aceptados y rechazados."
+    },
+    {
+      "nombre": "Accesibilidad y Grado de cumplimiento de la frecuencia de publicación.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe tener contenidos en línea en español e inglés, totalidad de contenidos de los últimos dos años, cumplir con fechas de publicación y estar actualizada en Publindex."
+    },
+    {
+      "nombre": "Para autores: El porcentaje de autores de la propia institución editora debe ser igual o menor al 30%.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El porcentaje de autores de la institución editora no debe superar el 30%."
+    },
+    {
+      "nombre": "Para editores: El editor podrá contar con máximo un (1) artículo publicado al año en la revista que edita.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El editor no puede publicar más de un artículo por año en su propia revista."
+    },
+    {
+      "nombre": "Para comité editorial/científico: Al menos el 80% de los integrantes deben tener filiación externa a la institución editora.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Al menos el 80% del comité editorial/científico debe pertenecer a instituciones diferentes a la editora."
+    },
+    {
+      "nombre": "Para comité editorial/científico: Al menos el 20% deben ser investigadores reconocidos por Minciencias o un integrante extranjero con índice H > 22 y maestría.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "El comité debe incluir al menos 20% de investigadores reconocidos por Minciencias o un extranjero con índice H > 22 y título de maestría."
+    },
+    {
+      "nombre": "Para evaluadores: Al menos el 80% de los pares evaluadores no deben pertenecer al comité editorial/científico ni a la institución editora.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Al menos el 80% de los evaluadores deben ser externos al comité y a la institución editora."
+    },
+    {
+      "nombre": "Visibilidad internacional: La revista debe cumplir con al menos una condición: estar en un IBC (JCR/SJR) o en una base SIRes reconocida por Minciencias.",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "La revista debe estar indexada en un índice bibliográfico citacional (JCR/SJR) o en una base de la lista SIRes de Minciencias."
+    }
+  ],
   "financiacion": {
     "monto_total_texto": null,
     "monto_total_cop": null,
-    "plazo_min_meses": 3,
-    "plazo_max_meses": 3,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": null,
-    "notas": "La convocatoria tiene una duración de 3 meses y 20 días."
+    "notas": "El texto proporcionado corresponde a un cronograma de actividades de la Convocatoria Publindex 2026, no contiene información sobre financiación."
   },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1376,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 635,
+          "completion_tokens": 269
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 282,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 402,
+          "completion_tokens": 613
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1394,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 624,
+          "completion_tokens": 12
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4219,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1466,
+          "completion_tokens": 778
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2477,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 942,
+          "completion_tokens": 290
+        }
       },
       "financiacion": {
         "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1317,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 767,
+          "completion_tokens": 259
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": true,
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 5179,
-          "completion_tokens": 1198
+          "prompt_tokens": 4012,
+          "completion_tokens": 2855
         }
-      },
-      "criterios": {
-        "clave": "criterios",
-        "error": "seccion_ausente"
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -71,17 +290,26 @@
     "llm": {
       "ok": true,
       "data": {
-        "": 0
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible; solo revistas científicas colombianas editadas por entidades avaladoras pueden participar."
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no es un actor elegible en esta convocatoria dirigida a revistas científicas colombianas. Por lo tanto, no puede postularse ni como proponente ni como aliado."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "bloqueantes": [],
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo revistas científicas colombianas editadas por entidades avaladoras pueden participar."
+      ],
       "condiciones_a_verificar": [],
-      "resumen": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "resumen": "La Universidad del Rosario, como IES privada, no es un actor elegible en esta convocatoria dirigida a revistas científicas colombianas. Por lo tanto, no puede postularse ni como proponente ni como aliado.",
       "fuente": "reglas+llm"
     }
   }

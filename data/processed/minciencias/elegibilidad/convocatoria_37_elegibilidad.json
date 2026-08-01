@@ -1,0 +1,51 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "Miembro de la alianza",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior (IES)",
+        "rol": "Miembro de la alianza",
+        "condicion": "Al menos dos (2) IES, una con presencia física en la zona de influencia del proyecto."
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la alianza incluya al menos dos IES, una con presencia física en la zona de influencia del proyecto.",
+        "Verificar que la alianza cumpla con los demás requisitos de composición (entidades territoriales, organizaciones de la sociedad civil, etc.) según los términos de referencia."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige que la postulación se realice en alianza, por lo que la universidad debe participar como miembro de una alianza y no de forma individual."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la alianza incluya al menos dos IES, una con presencia física en la zona de influencia del proyecto.",
+      "Verificar que la alianza cumpla con los demás requisitos de composición (entidades territoriales, organizaciones de la sociedad civil, etc.) según los términos de referencia."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige que la postulación se realice en alianza, por lo que la universidad debe participar como miembro de una alianza y no de forma individual.",
+    "fuente": "reglas+llm"
+  }
+}

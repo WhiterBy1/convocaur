@@ -1,53 +1,274 @@
 {
   "convocatoria": "1049",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "objetivo": "Apoyar el desarrollo de expediciones científicas a través de proyectos de I+D+i que contribuyan a la búsqueda de nuevos usos potenciales de la biodiversidad por medio del aprovechamiento sostenible, intensivo en conocimiento e innovación, así como a la actualización y/o generación de conocimiento en biodiversidad.",
+  "actores_elegibles": [
+    {
+      "tipo": "Entidad ejecutora",
+      "rol": "Ejecutor",
+      "condicion": "Debe ser IES acreditada, Centro/Instituto de Investigación reconocido, Centro de Desarrollo Tecnológico reconocido, o Instituto de Investigación del SINA."
+    },
+    {
+      "tipo": "Entidad coejecutora",
+      "rol": "Coejecutor",
+      "condicion": "Debe ser diferente a un centro de ciencia. Puede ser IES no acreditada, IES para el Trabajo y Desarrollo Humano, Centro/Instituto de Investigación reconocido, Centro de Desarrollo Tecnológico reconocido, Centro de Innovación y Productividad, Empresa con mínimo 2 años de constitución, o Instituto de Investigación del SINA."
+    },
+    {
+      "tipo": "Centro de ciencia",
+      "rol": "Coejecutor obligatorio",
+      "condicion": "Reconocido o no por el Ministerio, sin ánimo de lucro, con planta física abierta al público y misión en apropiación social de CTI."
+    },
+    {
+      "tipo": "Aliado obligatorio de grupos poblacionales priorizados",
+      "rol": "Aliado obligatorio",
+      "condicion": "Debe ser Firmante de Paz (ETCR), Consejo Comunitario afrocolombiano/ROM/palenquera/campesina, Autoridad tradicional de Resguardo indígena, o Sociedad civil organizada (ONG, Reservas Naturales, asociaciones de víctimas) con experiencia mínima de 2 años en biodiversidad o apropiación social."
+    },
+    {
+      "tipo": "Entidad colaboradora",
+      "rol": "Colaborador",
+      "condicion": "Opcional. Puede ser entidad colombiana/extranjera, centro de investigación o desarrollo tecnológico no reconocido, u otros actores del SNCTI. No recibe recursos ni aporta contrapartida."
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Aprovechamiento sostenible de la biodiversidad",
+      "modalidad": null,
+      "descripcion_corta": "Búsqueda de nuevos usos potenciales de la biodiversidad mediante I+D+i intensivo en conocimiento e innovación."
+    },
+    {
+      "nombre": "Conocimiento de la biodiversidad",
+      "modalidad": null,
+      "descripcion_corta": "Actualización y generación de nuevo conocimiento, valoración y uso sostenible de la biodiversidad."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Propuesta presentada mediante una Alianza estratégica integrada por mínimo: una entidad ejecutora, una entidad coejecutora diferente a un centro de ciencia, un centro de ciencia (reconocido o no por el Ministerio) y un aliado obligatorio de los grupos poblacionales priorizados.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Al menos una de las entidades de la alianza (ejecutora o coejecutora) debe tener sede o domicilio en el territorio donde se ejecute el proyecto.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades integrantes de la alianza no pueden desempeñar más de un rol en la misma propuesta.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Entidad ejecutora debe ser una Institución de Educación Superior (IES) acreditada, Centro o Instituto de Investigación con reconocimiento vigente del Ministerio, Centro de Desarrollo Tecnológico con reconocimiento vigente del Ministerio, o Instituto de Investigación del SINA.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Entidad ejecutora debe solicitar y gestionar los permisos de recolección y acceso a recursos genéticos (contrato de acceso a recursos genéticos) durante la vigencia del contrato.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades coejecutoras pueden ser IES no acreditadas, instituciones de educación para el trabajo y desarrollo humano, centros o institutos de investigación reconocidos, centros de desarrollo tecnológico, centros de innovación o productividad, empresas con mínimo 2 años de constitución, o institutos de investigación del SINA.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las empresas coejecutoras deben tener experiencia en caracterización o uso de la biodiversidad y/o apropiación social de conocimiento.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El coejecutor obligatorio es un Centro de Ciencia (reconocido o no por el Ministerio).",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las propuestas deben incluir la generación y publicación de registros biológicos a través del SiB (Sistema Nacional de Información sobre Biodiversidad).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las propuestas deben incluir la publicación de secuencias de ADN en Bold Systems.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe administrar los recursos financieros y actuar como interlocutora con el Ministerio.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe presentar la propuesta formalmente ante el Ministerio.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para IES acreditadas como ejecutoras: deben tener acreditación institucional de alta calidad vigente expedida por el Ministerio de Educación Nacional a la fecha de cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para centros o institutos de investigación como ejecutores: deben contar con reconocimiento vigente del Ministerio o estar en proceso de renovación a la fecha de cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para centros de desarrollo tecnológico como ejecutores: deben contar con reconocimiento vigente del Ministerio o estar en proceso de renovación a la fecha de cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para empresas coejecutoras: deben tener mínimo dos (2) años de constitución a la fecha de cierre.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El aliado obligatorio de grupos poblacionales priorizados debe ser parte de la alianza.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las expediciones científicas deben enfocarse en el reto 'Aprovechar el conocimiento, conservación y uso sostenible de la biodiversidad, bienes y servicios ecosistémicos', con énfasis en la Misión de bioeconomía, ecosistemas saludables y territorios sostenibles.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Se busca financiar expediciones científicas en ecosistemas estratégicos de la región Pacífica (continentales y/o marinos) y la región Orinoquía (continentales).",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Se priorizarán expediciones en territorios PDET de las regiones Pacífica y Orinoquía.",
+      "tipo": "tecnico",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Las propuestas deben presentar un modelo de gobernanza acordado entre los integrantes de la alianza.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe coordinar las acciones entre los integrantes de la alianza.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Se permite la incorporación de otros actores en calidad de coejecutores una vez cumplido el mínimo de participantes en la alianza.",
+      "tipo": "alianza",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Las entidades coejecutoras deben aportar contrapartida (en dinero y/o en especie).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora puede transferir la información del contrato de acceso a recursos genéticos a otras entidades de la alianza, siguiendo el procedimiento del MADS.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
   "criterios_evaluacion": [],
-  "financiacion": null,
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": null
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1710,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 652,
+          "completion_tokens": 139
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 12711,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3485,
+          "completion_tokens": 469
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3994,
+          "completion_tokens": 596
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3773,
+          "completion_tokens": 1617
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3692,
+          "completion_tokens": 13
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1425,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 764,
+          "completion_tokens": 92
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3739,
+          "completion_tokens": 283
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -56,29 +277,31 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Verificar experiencia en proyectos regionales si aplica",
-          "Verificar capacidad de contrapartida"
+          "Formar alianza con los actores requeridos: entidad coejecutora (diferente a centro de ciencia), centro de ciencia, y aliado obligatorio (firmantes de paz, consejos comunitarios, etc.)",
+          "Asegurar que al menos un integrante de la alianza (ejecutora o coejecutora) tenga sede en el territorio de ejecución del proyecto",
+          "Verificar que la universidad pueda gestionar los permisos de recolección y acceso a recursos genéticos",
+          "Confirmar que la universidad no asuma más de un rol en la propuesta"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, acreditada y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida."
+        "resumen": "La Universidad del Rosario es una IES acreditada, elegible como entidad ejecutora en esta convocatoria. Sin embargo, debe postularse en alianza con una entidad coejecutora, un centro de ciencia y un aliado obligatorio, cumpliendo las condiciones territoriales y de permisos."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Verificar experiencia en proyectos regionales si aplica",
-        "Verificar capacidad de contrapartida"
+        "Formar alianza con los actores requeridos: entidad coejecutora (diferente a centro de ciencia), centro de ciencia, y aliado obligatorio (firmantes de paz, consejos comunitarios, etc.)",
+        "Asegurar que al menos un integrante de la alianza (ejecutora o coejecutora) tenga sede en el territorio de ejecución del proyecto",
+        "Verificar que la universidad pueda gestionar los permisos de recolección y acceso a recursos genéticos",
+        "Confirmar que la universidad no asuma más de un rol en la propuesta"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, acreditada y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida.",
+      "resumen": "La Universidad del Rosario es una IES acreditada, elegible como entidad ejecutora en esta convocatoria. Sin embargo, debe postularse en alianza con una entidad coejecutora, un centro de ciencia y un aliado obligatorio, cumpliendo las condiciones territoriales y de permisos.",
       "fuente": "reglas+llm"
     }
   }

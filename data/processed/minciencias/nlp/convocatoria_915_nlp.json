@@ -1,6 +1,6 @@
 {
   "convocatoria": "915",
-  "objetivo": "Fomentar la vinculación de jóvenes innovadores que estén cursando programas de formación técnica, tecnológica o carrera profesional bajo la modalidad de contrato de aprendizaje, para apoyar en la ejecución de proyectos de investigación, desarrollo tecnológico e innovación en empresas 4 o actores del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTeI).",
+  "objetivo": "Fomentar la vinculación de jóvenes innovadores que estén cursando programas de formación técnica, tecnológica o carrera profesional bajo la modalidad de contrato de aprendizaje, para apoyar en la ejecución de proyectos de investigación, desarrollo tecnológico e innovación en empresas o actores del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTeI).",
   "actores_elegibles": [
     {
       "tipo": "Personas jurídicas",
@@ -24,55 +24,96 @@
     }
   ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Tecnologías convergentes (nano, info y cognotecnología) – Industrias 4.0",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Industrias creativas y culturales",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Energía sostenible",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Biotecnología, Bioeconomía y Medio Ambiente",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Océanos y recursos hidrobiológicos",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias sociales y Desarrollo Humano con Equidad",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias de la vida y de la salud",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias básicas y del espacio",
+      "modalidad": null,
+      "descripcion_corta": null
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Cumplir con el numeral 3 (Dirigido a) de la convocatoria.",
+      "texto": "Cumplir con el numeral 3 DIRIGIDO A de la presente convocatoria.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar por cada joven innovador un plan de actividades y resultados esperados en un proyecto I+D+i relacionado con los Focos Temáticos de la Misión de Sabios, con contenido descrito en numeral 10, adjuntando Anexo 1 firmado por el tutor.",
+      "texto": "Presentar por cada joven innovador un plan de actividades y resultados esperados en el marco de un proyecto de I+D+i relacionado con los Focos Temáticos de la Misión de Sabios. Adjuntar Anexo 1 firmado por el tutor responsable.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar carta de aval y compromiso institucional (Anexo 2 firmado por el Representante Legal de la entidad postulante).",
+      "texto": "Presentar carta de aval y compromiso institucional (Anexo 2) firmada por el Representante Legal de la entidad postulante. Si el Representante Legal designa a otra persona, adjuntar poder o documento de designación.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para empresas: adjuntar certificado de Cámara de Comercio y certificado expedido por representante legal, contador o revisor fiscal que acredite el tamaño de la empresa según Decreto 957 de 2019.",
+      "texto": "Para empresas: adjuntar Certificado de Cámara de Comercio y certificado de tamaño de empresa (según Decreto 957 de 2019) expedido por representante legal, contador o revisor fiscal. Adjuntar Anexo 1 firmado por Representante Legal.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Los jóvenes innovadores deben tener asignado un tutor perteneciente a la entidad que los avala.",
+      "texto": "Los Jóvenes Innovadores deben tener asignado un tutor perteneciente a la entidad que los avala.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
       "texto": "Edad máxima 28 años al 31 de diciembre de 2022. Adjuntar copia legible de la cédula de ciudadanía por ambas caras.",
-      "tipo": "documental",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Ser estudiante activo en modalidad especial de formación técnica, tecnológica o carrera profesional, en etapa o semestre de práctica al inicio de la actividad. Adjuntar certificado de estudios con fechas de inicio y terminación de la práctica.",
-      "tipo": "documental",
+      "texto": "Ser estudiante activo en modalidad especial de formación técnica, tecnológica o carrera profesional, en etapa o semestre de práctica al inicio de su actividad. Adjuntar certificado de estudios que incluya fechas de inicio y terminación de la etapa de práctica. Para SENA, remitir carta de fechas de formación.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Promedio académico general acumulado mínimo de 3.8 (escala 0-5) al momento de la postulación. Adjuntar certificado de notas o constancia; si escala diferente, adjuntar equivalencia.",
-      "tipo": "documental",
+      "texto": "Promedio académico general acumulado mínimo de 3.8 (escala 0-5) al momento de la postulación. Adjuntar certificado de notas o constancia con calificación de Aprobado (para aprendices SENA). Si la escala es diferente, adjuntar equivalencia expedida por la entidad que avala.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si aplica enfoque diferencial (afrocolombiano, raizal, palenquero, indígena, ROM, víctimas, discapacidad, género), presentar certificación correspondiente. Requisito opcional y no inhabilitante.",
+      "texto": "Si el joven innovador cuenta con enfoque diferencial (afrocolombiano, raizal, palenquero, indígena, ROM, víctimas del conflicto, desplazado, género o discapacidad), presentar certificación o documento equivalente. Requisito opcional y no inhabilitante.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "No incumplir los requisitos y lineamientos establecidos en los TdR o no subsanarlos dentro de los plazos establecidos.",
+      "texto": "Cumplir con todos los requisitos y lineamientos de la convocatoria y subsanar cualquier incumplimiento dentro de los plazos establecidos.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
@@ -82,7 +123,7 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad según Constitución, Ley 80, Ley 1474, Ley 1952, entre otras.",
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad para contratar según la Constitución, Ley 80 de 1993, Ley 1474 de 2011, Ley 1952 de 2019 y demás normas aplicables.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
@@ -92,27 +133,32 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "No presentar propuestas en las que se hayan financiado jóvenes innovadores en convocatorias previas del Ministerio de Ciencia, Tecnología e Innovación.",
+      "texto": "No presentar propuestas en las cuales se hayan financiado Jóvenes Innovadores en convocatorias previamente realizadas por el Ministerio de Ciencia, Tecnología e Innovación.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El joven innovador no puede ser beneficiario simultáneo de otras convocatorias financiadas por Minciencias en su participación como joven innovador.",
+      "texto": "No ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por el Ministerio de Ciencia, Tecnología e Innovación en su participación como joven innovador.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El joven innovador no puede haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más becas-pasantía.",
+      "texto": "No haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más becas-pasantía.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El joven innovador no puede presentarse de manera simultánea en dos o más propuestas de esta convocatoria.",
+      "texto": "No presentarse de manera simultánea en dos o más propuestas de la presente convocatoria. Solo se considerará la primera propuesta registrada.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El joven innovador no puede haber sido beneficiario de un contrato de aprendizaje, excepto cuando se ha ejecutado un contrato en cadena de formación.",
+      "texto": "No haber sido beneficiario de un contrato de aprendizaje, excepto cuando se ha ejecutado un contrato en cadena de formación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad para contratar según la Constitución, Ley y Reglamentos (aplica para el joven innovador).",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     }
@@ -120,46 +166,46 @@
   "causales_rechazo": [],
   "criterios_evaluacion": [
     {
-      "nombre": "De la propuesta",
+      "nombre": "1.1 Claridad, coherencia y pertinencia del plan de actividades y resultados esperados de los Jóvenes Innovadores en el marco del proyecto I+D+i que van a desarrollar durante su contrato de aprendizaje.",
       "puntaje_max": 40.0,
       "peso_pct": null,
-      "descripcion": "Claridad, coherencia y pertinencia del plan de actividades y resultados esperados de los Jóvenes Innovadores en el marco del proyecto I+D+i."
+      "descripcion": "Evalúa la claridad, coherencia y pertinencia del plan de actividades y resultados esperados."
     },
     {
-      "nombre": "Del Candidato - Promedio académico",
+      "nombre": "2.1 Promedio académico del candidato a Joven Investigador de pregrado",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Puntaje según promedio de pregrado: >=4.6: 10 pts; >=4.1 y <4.59: 8 pts; >=3.8 y <4.09: 5 pts. Constancia de notas con Aprobado (SENA): 10 pts."
+      "descripcion": "Puntaje según promedio: >=4.6: 10 pts; >=4.1 y <4.59: 8 pts; >=3.8 y <4.09: 5 pts. Constancia de notas con calificación de Aprobado para aprendices SENA: 10 pts."
     },
     {
-      "nombre": "Del Candidato - Experiencia en investigación",
+      "nombre": "2.2 Experiencia en investigación, desarrollo tecnológico o innovación del joven Innovador",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Participación en semillero de I+D+i: 10 pts. Experiencia general en I+D+i: 5 pts."
+      "descripcion": "Participación en semillero de investigación: 10 pts; experiencia general: 5 pts."
     },
     {
-      "nombre": "Del Candidato - Formación SENA o SENNOVA",
+      "nombre": "2.3 El joven innovador realiza su programa de formación en el SENA y/o ha participado en al menos una estrategia SENNOVA",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "El joven innovador realiza su programa de formación en el SENA y/o ha participado en al menos una estrategia SENNOVA."
+      "descripcion": "Puntaje por cumplir condición SENA/SENNOVA."
     },
     {
-      "nombre": "Del Candidato - Enfoque diferencial",
+      "nombre": "2.4 Enfoque diferencial",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Pertenece a población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto, desplazada, género o discapacidad."
+      "descripcion": "Pertenece a poblaciones específicas: afrocolombiana, raizal, palenquera, indígena, ROM, víctimas, desplazados, género, discapacidad."
     },
     {
-      "nombre": "Del Tutor - Categoría",
+      "nombre": "3.1 Categoría del tutor",
       "puntaje_max": 15.0,
       "peso_pct": null,
-      "descripcion": "Grandes empresas/actores SNCeI/gobierno/IES: Senior o superior: 15 pts; Asociado: 12 pts; Junior: 10 pts; No categorizado: 8 pts. Mipymes: Doctor o candidato: 15 pts; Maestría/especialización/experiencia: 13 pts."
+      "descripcion": "Puntaje según categoría: Senior/Instituciones: 15; Asociado:12; Junior:10; No categorizado:8. Para micro/pequeñas/medianas: doctor o candidato:15; maestría/especialización/experiencia:13."
     },
     {
-      "nombre": "De la Entidad postulante - Tipo",
+      "nombre": "4.1 Tipo de entidad postulante",
       "puntaje_max": 15.0,
       "peso_pct": null,
-      "descripcion": "Personas jurídicas (micro, pequeñas, medianas y grandes empresas con ánimo de lucro): 15 pts. Actores SNCeI/gobierno/IES: 8 pts."
+      "descripcion": "Personas jurídicas con ánimo de lucro: 15 pts; Actores reconocidos del SNCTeI o entidades gobierno o IES: 8 pts."
     }
   ],
   "financiacion": {
@@ -170,7 +216,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Fondo Francisco José de Caldas, Convenio 878-2020 SENA",
-    "notas": "El contrato de financiamiento de recuperación contingente tiene una duración de 12 meses. El SENA otorga financiación adicional de 6 SMMLV año 2022 para cada joven innovador. La entidad ejecutora debe aportar el valor del contrato de aprendizaje y seguridad social."
+    "notas": "Recursos en un único desembolso. Entidad ejecutora debe aportar contrato de aprendizaje y seguridad social de los jóvenes. SENA otorga financiación adicional de 6 SMMLV por joven."
   },
   "meta": {
     "secciones": {
@@ -178,63 +224,77 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 367,
+        "chars_enviados": 362,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 329,
-          "completion_tokens": 273
+          "prompt_tokens": 302,
+          "completion_tokens": 203
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 279,
+        "chars_enviados": 274,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 372,
+          "prompt_tokens": 389,
           "completion_tokens": 149
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2336,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 950,
+          "completion_tokens": 380
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 8994,
+        "chars_enviados": 8691,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2822,
-          "completion_tokens": 2620
+          "prompt_tokens": 2709,
+          "completion_tokens": 3303
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3994,
+          "completion_tokens": 11
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3778,
+        "chars_enviados": 3671,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1459,
-          "completion_tokens": 210
+          "prompt_tokens": 1421,
+          "completion_tokens": 204
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 2582,
+        "chars_enviados": 2431,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1083,
-          "completion_tokens": 640
+          "prompt_tokens": 1044,
+          "completion_tokens": 1725
         }
       }
     }
@@ -269,8 +329,11 @@
         "modo": "sola",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con acreditación institucional y sede principal en Bogotá. Según las reglas de elegibilidad, puede postularse como ejecutora de manera individual, ya que la convocatoria no exige alianza obligatoria y la universidad cumple con los requisitos de actor elegible."
+        "condiciones_a_verificar": [
+          "Verificar que la Universidad del Rosario cumpla con los requisitos del numeral 3 (Dirigido a) de la convocatoria.",
+          "Confirmar que la IES pueda presentar jóvenes innovadores con los perfiles y condiciones exigidas (edad, promedio, matrícula en práctica)."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en esta convocatoria. No se identifica obligación de alianza, por lo que puede participar de forma individual como entidad ejecutora. Se deben verificar los requisitos específicos del numeral 3 y las condiciones de los jóvenes innovadores."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -279,8 +342,11 @@
       "modo": "sola",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con acreditación institucional y sede principal en Bogotá. Según las reglas de elegibilidad, puede postularse como ejecutora de manera individual, ya que la convocatoria no exige alianza obligatoria y la universidad cumple con los requisitos de actor elegible.",
+      "condiciones_a_verificar": [
+        "Verificar que la Universidad del Rosario cumpla con los requisitos del numeral 3 (Dirigido a) de la convocatoria.",
+        "Confirmar que la IES pueda presentar jóvenes innovadores con los perfiles y condiciones exigidas (edad, promedio, matrícula en práctica)."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en esta convocatoria. No se identifica obligación de alianza, por lo que puede participar de forma individual como entidad ejecutora. Se deben verificar los requisitos específicos del numeral 3 y las condiciones de los jóvenes innovadores.",
       "fuente": "reglas+llm"
     }
   }

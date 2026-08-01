@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida exclusivamente a Consejos Comunitarios de comunidades negras, organizaciones de base de comunidades Negras, Afrocolombianas, Raizales y Palenqueras, y formas o expresiones organizativas de dichas comunidades. La Universidad del Rosario, como IES privada, no pertenece a ninguna de estas categorías de actores elegibles."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida únicamente a organizaciones de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. La IES no es un actor elegible según los términos de referencia."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria está dirigida exclusivamente a Consejos Comunitarios de comunidades negras, organizaciones de base de comunidades Negras, Afrocolombianas, Raizales y Palenqueras, y formas o expresiones organizativas de dichas comunidades. La Universidad del Rosario, como IES privada, no pertenece a ninguna de estas categorías de actores elegibles."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida únicamente a organizaciones de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. La IES no es un actor elegible según los términos de referencia.",
+    "fuente": "reglas+llm"
+  }
+}

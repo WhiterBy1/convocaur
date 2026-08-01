@@ -1,84 +1,336 @@
 {
   "convocatoria": "917",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "objetivo": "Fomentar la vinculación de jóvenes investigadores e innovadores y doctores para la realización de estancias cortas posdoctorales de investigación e/o innovación, relacionadas con alguno de los Focos de la Misión Internacional de Sabios, que permita facilitar el desarrollo de nuevas tecnologías, productos y procesos en las empresas.",
+  "actores_elegibles": [
+    {
+      "tipo": "Actores reconocidos del Sistema Nacional de CTeI",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "Entidades del gobierno nacional",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "Instituciones de Educación Superior (IES)",
+      "rol": null,
+      "condicion": "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Tecnologías convergentes (nano, info y cognotecnología) – Industrias 4.0",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Industrias culturales y creativas",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Energía sostenible",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Biotecnología, medio ambiente y bioeconomía",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Océanos y recursos hidrobiológicos",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias sociales y Desarrollo Humano con Equidad",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias de la vida y de la salud",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Ciencias básicas y del espacio",
+      "modalidad": null,
+      "descripcion_corta": null
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con el numeral 3 DIRIGIDO A de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de aval y compromiso institucional donde se relacionen el joven investigador, el doctor, la empresa y contrapartida. Adjuntar Anexo 1 y Anexo 3 firmados.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar propuestas de estancia de investigación e innovación, relacionadas con los Focos Temáticos de la Misión de Sabios. Adjuntar Anexo 2 firmado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Por cada propuesta de estancia, adjuntar certificado expedido por representante legal, contador o revisor fiscal que acredite el tamaño de la empresa según Decreto 957 de 2019.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El joven investigador debe tener máximo 28 años al 31 de diciembre de 2022. Adjuntar copia de cédula de ciudadanía.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El joven de pregrado debe acreditar promedio general acumulado mínimo 3.8 (escala 0-5). Adjuntar certificado de la IES.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El joven investigador debe ser estudiante de pregrado de último año (mínimo 90% créditos) o profesional recién graduado (dentro de 3 años anteriores al cierre). Adjuntar certificado de la IES.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para jóvenes de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto o con discapacidad, anexar certificación correspondiente. Opcional.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "El doctor debe ser ciudadano colombiano o residente en Colombia (mínimo 3 meses). Adjuntar copia de cédula o permiso de trabajo.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El doctor debe contar con título de doctorado en área relacionada con la propuesta. Adjuntar copia de título y acta de grado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para doctores de población afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto o con discapacidad, anexar certificación correspondiente. Opcional.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria “Estancias con propósito empresarial”, o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "No cumplir con los requisitos legales para la suscripción del contrato de recuperación contingente, en caso de ser beneficiado por la convocatoria."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en Ley y Reglamentos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos solicitados en la sección de requisitos."
+    },
+    {
+      "texto": "Presentar propuestas en las cuales se hayan financiado Jóvenes Investigadores e Innovadores en convocatorias previamente realizadas por el MINISTERIO de Ciencia, Tecnología e Innovación."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por el MINISTERIO, en su participación como joven investigación."
+    },
+    {
+      "texto": "No podrá presentarse de manera simultánea en dos o más propuestas de la presente convocatoria. En caso de presentarse en dos o más propuestas se tendrá en cuenta la primera propuesta registrada con base en la fecha y hora de inscripción en la plataforma."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más períodos -pasantía."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e Incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en Ley y Reglamentos."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por el MINISTERIO, en su participación como doctor o estancia postdoctoral."
+    },
+    {
+      "texto": "No podrá presentarse de manera simultánea en dos o más propuestas de la presente convocatoria. En caso de presentarse en dos o más propuestas se tendrá en cuenta la primera propuesta registrada con base en la fecha y hora de inscripción en la plataforma."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e Incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en Ley y Reglamentos."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta y resultados esperados.",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": null
+    },
+    {
+      "nombre": "Empresas que cumplan con alguno de los siguientes requisitos:",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Empresas reconocidas como altamente innovadoras, con unidades de I+D+i reconocidas, o firmantes de pactos por la Innovación."
+    },
+    {
+      "nombre": "Puntaje adicional a proyectos que sean ejecutados en Departamentos con un Índice Departamental de Innovación para Colombia (IDIC):",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje adicional según el IDIC del departamento de ejecución: Bajo (5 pts), Medio-Bajo (4), Medio (3), Medio-Alto (2), Alto (1)."
+    },
+    {
+      "nombre": "Categoría del doctor postulado en la convocatoria 833 del 2018:",
+      "puntaje_max": 50.0,
+      "peso_pct": null,
+      "descripcion": "Categoría del doctor según convocatoria 833: Emérito o Senior (50), Asociado (40), Junior (20)."
+    },
+    {
+      "nombre": "Enfoque diferencial:",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje por pertenencia a población con enfoque diferencial (afrocolombiana, raizal, palenquera, indígena, ROM, víctimas, desplazados, discapacidad)."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "SEIS MIL CIENTO CUARENTA Y TRES MILLONES TRESCIENTOS NOVENTA Y OCHO MIL PESOS M/CTE ($6.143.398.000)",
+    "monto_total_cop": 6143398000.0,
+    "plazo_min_meses": 5,
+    "plazo_max_meses": 12,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Fondo Francisco José de Caldas",
+    "notas": "El MINISTERIO financia el 100% de los valores señalados. Las entidades que avalan deben aportar contrapartida en especie y/o dinero para la divulgación de resultados."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1013,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 492,
+          "completion_tokens": 207
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 677,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 466,
+          "completion_tokens": 141
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2508,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 977,
+          "completion_tokens": 255
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7983,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2590,
+          "completion_tokens": 2508
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2669,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 986,
+          "completion_tokens": 586
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2939,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1241,
+          "completion_tokens": 187
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1505,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 791,
+          "completion_tokens": 1761
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
-      "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
-      "actores_ies_match": [],
-      "condiciones_pendientes": [],
-      "capa": "reglas"
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES)",
+          "rol": null,
+          "condicion": "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique"
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
     },
     "llm": {
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar grupos de investigación reconocidos por Minciencias",
-          "Confirmar capacidad institucional para contrapartida si aplica",
-          "Validar experiencia en proyectos de ciencia y tecnología si es requerida"
+          "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. No tiene sedes regionales ni restricciones que impidan postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida."
+        "resumen": "La Universidad del Rosario (IES privada, sede Bogotá) es elegible para postularse solo en alianza como ejecutora. Debe verificar que cuenta con investigadores categorizados según convocatoria 833 de 2018."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar grupos de investigación reconocidos por Minciencias",
-        "Confirmar capacidad institucional para contrapartida si aplica",
-        "Validar experiencia en proyectos de ciencia y tecnología si es requerida"
+        "Contar con investigadores categorizados en la convocatoria 833 de 2018 según aplique"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, reconocida en el SNCTI y con acreditación institucional, con sede principal en Bogotá. No tiene sedes regionales ni restricciones que impidan postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y capacidad de contrapartida.",
+      "resumen": "La Universidad del Rosario (IES privada, sede Bogotá) es elegible para postularse solo en alianza como ejecutora. Debe verificar que cuenta con investigadores categorizados según convocatoria 833 de 2018.",
       "fuente": "reglas+llm"
     }
   }

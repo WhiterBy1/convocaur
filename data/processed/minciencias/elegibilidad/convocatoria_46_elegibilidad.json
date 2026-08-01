@@ -1,0 +1,45 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_como_aliado",
+    "rol_sugerido": "Aliado",
+    "confianza": "alta",
+    "motivo": "Las IES solo aparecen con rol de aliado/colaborador; Rosario no seria proponente/ejecutora principal.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) acreditada de alta calidad",
+        "rol": "Aliado",
+        "condicion": null
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en calidad de aliado, ya que la convocatoria exige alianza obligatoria y asigna el rol de ejecutor principal a centros de investigación o desarrollo tecnológico. No se identifican bloqueantes adicionales, pero se recomienda verificar la capacidad institucional para cumplir con los requisitos documentales y técnicos."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_como_aliado",
+    "rol_sugerido": "aliado",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en calidad de aliado, ya que la convocatoria exige alianza obligatoria y asigna el rol de ejecutor principal a centros de investigación o desarrollo tecnológico. No se identifican bloqueantes adicionales, pero se recomienda verificar la capacidad institucional para cumplir con los requisitos documentales y técnicos.",
+    "fuente": "reglas+llm"
+  }
+}

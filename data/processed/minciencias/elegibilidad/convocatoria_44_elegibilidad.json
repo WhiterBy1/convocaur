@@ -1,0 +1,67 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) colombiana",
+        "rol": "proponente",
+        "condicion": "pública o privada según artículo 54 de la Ley 2056 de 2020"
+      },
+      {
+        "tipo": "Institución de Educación Superior (IES) colombiana",
+        "rol": "miembro de alianza",
+        "condicion": "debe pertenecer a departamento diferente dentro de la misma región"
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "debe pertenecer a departamento diferente dentro de la misma región",
+        "riesgo": "territorio",
+        "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+      },
+      {
+        "condicion": "debe pertenecer a departamento diferente dentro de la misma región",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Debe pertenecer a un departamento diferente dentro de la misma región (riesgo de territorio, ya que la sede principal está en Bogotá)",
+        "Debe contar con grupos de investigación categorizados por Minciencias (riesgo de grupos Minciencias)"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora en una alianza, sujeto a verificar que cumpla con el requisito de pertenecer a un departamento diferente dentro de la misma región y que cuente con grupos de investigación categorizados."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Debe pertenecer a un departamento diferente dentro de la misma región (riesgo de territorio, ya que la sede principal está en Bogotá)",
+      "Debe contar con grupos de investigación categorizados por Minciencias (riesgo de grupos Minciencias)"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora en una alianza, sujeto a verificar que cumpla con el requisito de pertenecer a un departamento diferente dentro de la misma región y que cuente con grupos de investigación categorizados.",
+    "fuente": "reglas+llm"
+  }
+}

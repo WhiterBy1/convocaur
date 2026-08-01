@@ -1,53 +1,335 @@
 {
   "convocatoria": "941",
-  "objetivo": null,
-  "actores_elegibles": [],
+  "objetivo": "Fortalecer las capacidades en investigación en áreas relacionadas con el sector de los hidrocarburos y Fuentes no Convencionales de Energía (FNCE) en Colombia, mediante la financiación de propuestas de I+D+i con vinculación de Jóvenes Investigadores e Innovadores, para generar nuevo conocimiento geocientífico, aprovechar sosteniblemente recursos energéticos y fomentar vocaciones científicas en geociencias y afines.",
+  "actores_elegibles": [
+    {
+      "tipo": "actores del Sistema Nacional de CTel",
+      "rol": null,
+      "condicion": "contar con grupos de investigación, desarrollo tecnológico o innovación con reconocimiento vigente del MINISTERIO a la fecha de cierre de la convocatoria"
+    }
+  ],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Identificación de oportunidades exploratorias para hidrocarburos gaseosos en cuencas frontera y emergentes",
+      "modalidad": null,
+      "descripcion_corta": "Generación de nuevo conocimiento geocientífico en cuencas frontera y emergentes para identificar oportunidades de hidrocarburos gaseosos."
+    },
+    {
+      "nombre": "Definición de áreas con potencial de generación de fuentes no convencionales de energía (geotermia, energía eólica e hidrógeno) tanto onshore, como offshore en Colombia",
+      "modalidad": null,
+      "descripcion_corta": "Identificación de áreas con potencial para FNCE como geotermia, eólica e hidrógeno en Colombia."
+    },
+    {
+      "nombre": "Utilización de nuevas tecnologías para la definición de iniciativas asociadas a Fuentes no Convencionales de Energía (FNCE) tales como análisis de datos, inteligencia artificial y/o Machine Learning, entre otras",
+      "modalidad": null,
+      "descripcion_corta": "Aplicación de nuevas tecnologías como IA y Machine Learning para iniciativas de FNCE."
+    },
+    {
+      "nombre": "Investigación en la tecnología de CCUS (Captura de Carbono, Uso y Almacenamiento), en zonas con altas emisiones de CO2",
+      "modalidad": null,
+      "descripcion_corta": "Investigación en captura, uso y almacenamiento de carbono en zonas con altas emisiones de CO2."
+    },
+    {
+      "nombre": "Investigación en áreas de las geociencias y afines, cuyos productos incorporen nuevos paradigmas, investigación de punta y propuestas novedosas que contribuyan al aumento del factor de recobro en hidrocarburos",
+      "modalidad": null,
+      "descripcion_corta": "Investigación geocientífica innovadora para aumentar el factor de recobro en hidrocarburos."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Registrar la vinculación del joven investigador e innovador en el aplicativo según el numeral 10 PROCEDIMIENTO DE INSCRIPCIÓN.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con el numeral 3 'DIRIGIDO A' de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir las propuestas y jóvenes investigadores e innovadores en el Sistema Integrado de Gestión de Proyectos (SIGP).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar carta de aval y compromiso institucional unificada (Anexo 1) firmada por el representante legal o delegado, adjuntando documentos que acrediten la delegación si aplica.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Edad máxima de 28 años al 31 de diciembre de 2023, acreditada con copia legible de la cédula de ciudadanía por ambas caras.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estudiantes de pregrado: haber cursado mínimo el 70% de los créditos académicos, adjuntando certificado de la IES que indique créditos cursados y totales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Profesionales recién graduados de pregrado: título obtenido máximo 3 años antes de la apertura de la convocatoria o estar pendiente del diploma/acta, adjuntando copia del diploma, acta de grado o certificado de culminación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Semilleros de investigación: jóvenes de pregrado vinculados al semillero deben cursar cuarto semestre en adelante, adjuntando certificado de la IES que indique el semestre académico.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Promedio académico general acumulado mínimo de 3.8 (escala 0.0 a 5.0) para estudiantes y profesionales, adjuntando certificado o documento electrónico de la IES con el promedio y equivalencia si la escala es diferente.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Asignar un tutor que pertenezca al grupo de investigación y a la entidad ejecutora, registrando nombre y número de identificación en el SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No incumplir los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente en caso de ser beneficiado.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad para contratar según Constitución, Ley y Reglamentos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No alterar ninguno de los documentos solicitados en la sección de requisitos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No ser beneficiario de manera simultánea de convocatorias o invitaciones financiadas por el Ministerio o el Sistema General de Regalías como joven investigador e innovador.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentarse de manera simultánea en dos o más propuestas de la presente convocatoria (solo se considera la primera inscrita).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más becas pasantías o pasantías de investigación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No haber sido declarado en incumplimiento en cualquiera de los mecanismos operados por el Ministerio en los últimos 5 años.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en inhabilidades constitucionales o legales en cualquier etapa del proceso (precontractual, contractual o post contractual).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la propuesta en español y en pesos colombianos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 30.0,
+      "peso_pct": 50.0,
+      "descripcion": "Claridad y coherencia de la propuesta respecto a los objetivos, actividades de investigación y formación y, resultados esperados para el joven investigador e innovador."
+    },
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 20.0,
+      "peso_pct": 50.0,
+      "descripcion": "Pertinencia de la propuesta respecto al proceso necesario para la formación del joven en actividades en las temáticas definidas."
+    },
+    {
+      "nombre": "Del Candidato",
+      "puntaje_max": 20.0,
+      "peso_pct": 25.0,
+      "descripcion": "Promedio académico del candidato: >= 4.6: 20 puntos >= 4.1 y < 4.59: 18 puntos >= 3.8 y < 4.09: 15 puntos"
+    },
+    {
+      "nombre": "Del Candidato",
+      "puntaje_max": 5.0,
+      "peso_pct": 25.0,
+      "descripcion": "Experiencia en investigación: Participación en semillero de investigación: 5 puntos Experiencia general: 3 puntos"
+    },
+    {
+      "nombre": "Del Grupo de Investigación",
+      "puntaje_max": 15.0,
+      "peso_pct": 25.0,
+      "descripcion": "Categoría vigente del grupo de investigación, desarrollo tecnológico o de innovación: A1: 15 puntos A: 15 puntos B: 10 puntos C: 10 puntos Reconocido: 5 puntos"
+    },
+    {
+      "nombre": "Reconocimiento y trayectoria del tutor como investigador",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Producción académica y científica: hasta 6 puntos · Trayectoria en investigación: hasta 4 puntos"
+    },
+    {
+      "nombre": "Calidad y pertinencia del trabajo de grado",
+      "puntaje_max": 30.0,
+      "peso_pct": 50.0,
+      "descripcion": "Claridad y coherencia del trabajo de grado respecto a los objetivos, metodología, cronograma y, resultados esperados."
+    },
+    {
+      "nombre": "Calidad y pertinencia del trabajo de grado",
+      "puntaje_max": 20.0,
+      "peso_pct": 50.0,
+      "descripcion": "Pertinencia del trabajo de grado respecto al proceso necesario para la formación del joven en actividades en las temáticas definidas."
+    },
+    {
+      "nombre": "Del Candidato",
+      "puntaje_max": 30.0,
+      "peso_pct": 40.0,
+      "descripcion": "Promedio académico del candidato: >= 4.6: 30 puntos >= 4.1 y < 4.59: 20 puntos >= 3.8 y < 4.09: 15 puntos"
+    },
+    {
+      "nombre": "Del Candidato",
+      "puntaje_max": 10.0,
+      "peso_pct": 40.0,
+      "descripcion": "Experiencia en investigación: · Participación en semillero de investigación: 10 puntos · Experiencia general: 5 puntos"
+    },
+    {
+      "nombre": "Tutor",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Reconocimiento y trayectoria del tutor como investigador: · Producción académica y científica: hasta 6 puntos · Trayectoria en investigación: hasta 4 puntos"
+    },
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 30.0,
+      "peso_pct": 50.0,
+      "descripcion": "Claridad y coherencia de la propuesta del semillero respecto al objetivo, actividades de investigación y formación y, resultados esperados para el joven investigador e innovador."
+    },
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 20.0,
+      "peso_pct": 50.0,
+      "descripcion": "Pertinencia de la propuesta respecto a la formación de los jóvenes integrantes del semillero."
+    },
+    {
+      "nombre": "Del Semillero de investigación",
+      "puntaje_max": 25.0,
+      "peso_pct": 50.0,
+      "descripcion": "Categoría vigente del grupo de investigación, desarrollo tecnológico o de innovación al que pertenece el semillero: • A1: 25 puntos • A: 25 puntos • B: 20puntos • C: 15 puntos • Reconocido: 10 puntos"
+    },
+    {
+      "nombre": "Del Semillero de investigación",
+      "puntaje_max": 25.0,
+      "peso_pct": 50.0,
+      "descripcion": "Reconocimiento y trayectoria del tutor como investigador: • Producción académica y científica: hasta 15 puntos • Trayectoria en investigación: hasta 10 puntos"
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "OCHO MIL NOVECIENTOS VEINTICUATRO MILLONES DIEZ MIL PESOS M/CTE ($8.924.010.000)",
+    "monto_total_cop": 8924010000.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 14,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencias y ANH",
+    "notas": "Las entidades ejecutoras deben aportar contrapartida en especie/dinero para fortalecimiento de segunda lengua y divulgación. Para mecanismos 1 y 2, deben asumir parafiscales. El contrato tiene duración de 14 meses. Los recursos se giran en un único desembolso."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 501,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 338,
+          "completion_tokens": 104
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 426,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 404,
+          "completion_tokens": 90
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6498,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2232,
+          "completion_tokens": 461
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9277,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2746,
+          "completion_tokens": 2301
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4146,
+          "completion_tokens": 219
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7064,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2531,
+          "completion_tokens": 1071
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4326,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1652,
+          "completion_tokens": 9400
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -55,30 +337,26 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "sola",
-        "rol_sugerido": "ejecutora",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias según los requisitos de la convocatoria específica.",
-          "Confirmar que la acreditación institucional esté vigente al momento de la postulación.",
-          "Revisar que la sede principal en Bogotá cumpla con los criterios de ubicación si la convocatoria exige presencia regional."
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario, por ser una IES, no es considerada como proponente/ejecutora según el tipo institucional requerido."
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, acreditada y reconocida en el SNCTI, con sede principal en Bogotá. No presenta bloqueantes evidentes, por lo que puede postularse como ejecutora en convocatorias de Minciencias, sujeto a verificación de grupos de investigación y requisitos específicos de cada convocatoria."
+        "condiciones_a_verificar": [],
+        "resumen": "Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las IES/universidades como actores elegibles para postularse como proponentes o ejecutoras. Por lo tanto, no puede postularse de manera directa."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "sola",
-      "rol_sugerido": "ejecutora",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias según los requisitos de la convocatoria específica.",
-        "Confirmar que la acreditación institucional esté vigente al momento de la postulación.",
-        "Revisar que la sede principal en Bogotá cumpla con los criterios de ubicación si la convocatoria exige presencia regional."
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario, por ser una IES, no es considerada como proponente/ejecutora según el tipo institucional requerido."
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, acreditada y reconocida en el SNCTI, con sede principal en Bogotá. No presenta bloqueantes evidentes, por lo que puede postularse como ejecutora en convocatorias de Minciencias, sujeto a verificación de grupos de investigación y requisitos específicos de cada convocatoria.",
+      "condiciones_a_verificar": [],
+      "resumen": "Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las IES/universidades como actores elegibles para postularse como proponentes o ejecutoras. Por lo tanto, no puede postularse de manera directa.",
       "fuente": "reglas+llm"
     }
   }

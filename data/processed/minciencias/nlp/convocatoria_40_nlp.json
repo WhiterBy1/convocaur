@@ -4,23 +4,23 @@
   "actores_elegibles": [
     {
       "tipo": "Academia",
-      "rol": null,
-      "condicion": "Debe incluir al menos un actor de este tipo en la alianza."
+      "rol": "Entidad de educación superior",
+      "condicion": "Instituciones de Educación Superior públicas o privadas (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades), incluyendo ESAP, ITEC, Instituto Caro y Cuervo, Universidad Militar Nueva Granada, Escuelas de Formación de las Fuerzas Militares y Policía Nacional, SENA, Escuela Nacional del Deporte."
     },
     {
       "tipo": "Sector Productivo - Empresa",
-      "rol": null,
-      "condicion": "Debe incluir al menos un actor de este tipo en la alianza."
+      "rol": "Persona jurídica o entidad de I+D+i",
+      "condicion": "Persona jurídica de economía mixta, pública o privada con ánimo de lucro, gremio, cámara de comercio, centro de desarrollo empresarial o corporación constituida en Colombia; o entidades independientes/autónomas clasificadas como: generación de conocimiento científico (centros e institutos de investigación), desarrollo tecnológico y transferencia (centros de desarrollo tecnológico, OTRIS), innovación y productividad (EIAs, unidades empresariales de I+D+i, incubadoras, centros de innovación/productividad, parques científicos/tecnológicos/de innovación)."
     },
     {
       "tipo": "Estado",
-      "rol": null,
-      "condicion": null
+      "rol": "Entidad gubernamental",
+      "condicion": "Entidad gubernamental del orden nacional, regional, departamental o municipal."
     },
     {
       "tipo": "Sociedad Civil Organizada",
-      "rol": null,
-      "condicion": "Obligatorio solo para la Línea Temática 1."
+      "rol": "Organización sin ánimo de lucro",
+      "condicion": "Asociación, fundación, corporación, entidad del tercer sector, agremiación, grupos u organizaciones comunitarias con personería jurídica, legalmente constituidas en Colombia, con operaciones nacionales o regionales."
     }
   ],
   "alianza_obligatoria": true,
@@ -28,20 +28,71 @@
     {
       "nombre": "Soluciones tecnológicas para generación de energía a partir de recursos locales",
       "modalidad": null,
-      "descripcion_corta": "Evaluar y aprovechar de manera sostenible el potencial de los recursos naturales de una región y desarrollar soluciones de generación, acceso y uso de la energía, a partir de tecnologías desarrolladas o apropiadas para las condiciones sociales, culturales y ambientales particulares de una comunidad o un territorio."
+      "descripcion_corta": "Evaluar y aprovechar sosteniblemente recursos naturales locales para desarrollar soluciones de generación, acceso y uso de energía, con proyectos piloto de autogeneración o generación distribuida y apropiación social del conocimiento. TRL mínimo 6."
     },
     {
-      "nombre": "Nuevas cadenas productivas regionales asociadas a las Fuentes No Convencionales de Energía Renovables – en adelante (FNCER)",
+      "nombre": "Nuevas cadenas productivas regionales asociadas a las Fuentes No Convencionales de Energía Renovables (FNCER)",
       "modalidad": null,
-      "descripcion_corta": "Abordar la identificación y desarrollo de cadenas y sectores productivos que hagan uso de las FNCER y, en lo posible, exploten la variabilidad y disponibilidad intermitente de la energía mediante aplicación de mecanismos de flexibilidad productiva."
+      "descripcion_corta": "Identificar y desarrollar cadenas productivas que usen FNCER, creando nuevos servicios, modelos de negocio y desarrollos tecnológicos con valor agregado. TRL mínimo 6."
     },
     {
       "nombre": "Hidrógeno y sus derivados a partir de recursos locales",
       "modalidad": null,
-      "descripcion_corta": "Contribuir de manera estratégica al desarrollo de la cadena de valor del hidrógeno como vector energético, materia prima y sustituto de los combustibles líquidos de origen fósil, mediante la investigación y el desarrollo tecnológico para la producción eficiente y sostenible de hidrógeno de bajas emisiones y sus derivados."
+      "descripcion_corta": "Contribuir al desarrollo de la cadena de valor del hidrógeno como vector energético y materia prima, mediante producción eficiente y sostenible de hidrógeno de bajas emisiones y sus derivados. TRL mínimo 4."
     }
   ],
-  "requisitos": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con todos los requisitos y condiciones establecidos en los Términos de Referencia y sus anexos, y subsanar dentro del plazo de ajuste establecido en el numeral 21.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente y sus aliados no deben estar reportados en el último boletín de responsables fiscales expedido por la Contraloría General de la República.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente debe demostrar adecuado desempeño según la metodología señalada por el DNP.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Antes de la designación como ejecutor, el proponente no debe tener una medida de control del Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida ejecutar proyectos del SGR.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El valor solicitado del proyecto debe estar dentro del rango (superior o inferior) señalado en el numeral 14 (DURACIÓN Y FINANCIACIÓN).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Si el proceso de evaluación determina la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética, se deben cargar los soportes respectivos en el aplicativo SIGP según el requisito 10.10.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto debe estar orientado al “Reto 3: Asegurar la generación, acceso y uso de energías sostenibles para todos”, y atender al menos una demanda territorial (Anexo 4) en cada departamento de la zona de influencia.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proyecto presentado no debe estar en ejecución ni contar con financiación previa para la fase que se presenta, de cualquier fuente.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente y sus aliados no deben estar incursos en causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes, ni tener impedimento legal para contratar.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No se debe encontrar alteración en los documentos presentados para participar; en caso contrario, el proyecto será retirado e inhabilitado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [
     {
       "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21 - CRONOGRAMA, de la presente convocatoria."
@@ -76,22 +127,94 @@
   ],
   "criterios_evaluacion": [
     {
-      "nombre": "Calidad técnico-científica y presupuestal del proyecto",
-      "puntaje_max": null,
-      "peso_pct": 30.0,
-      "descripcion": "Evalúa coherencia entre componentes del proyecto, antecedentes, presupuesto, correspondencia con TRL y alineación con políticas nacionales/regionales."
+      "nombre": "1.1 Coherencia y articulación entre los diferentes componentes del proyecto (problemática, objetivos, alternativa de solución, metodología, cadena de valor, presupuesto y sostenibilidad) para conseguir los resultados propuestos en CTeI.",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia entre objetivos, metodología, actividades, recursos y resultados esperados."
     },
     {
-      "nombre": "Contribución al desarrollo regional y al fortalecimiento de capacidades propias en CTeI",
-      "puntaje_max": null,
-      "peso_pct": 35.0,
-      "descripcion": "Evalúa impactos regionales, vinculación de personal, productos de nuevo conocimiento, desarrollo tecnológico, apropiación social, contribución a capacidades y transferencia de resultados."
+      "nombre": "1.2 Antecedentes científicos o tecnológicos que sustentan los procesos de desarrollo o apropiación tecnológica que plantea el proyecto.",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si los antecedentes presentados sustentan el estado de madurez de partida de la tecnología."
     },
     {
-      "nombre": "Capacidad técnica, idoneidad y trayectoria de la entidad proponente y de los aliados",
-      "puntaje_max": null,
-      "peso_pct": 17.0,
-      "descripcion": "Evalúa participación de actores de la cuádruple hélice, aportes de los integrantes y experiencia de la entidad proponente."
+      "nombre": "1.3 Coherencia entre el presupuesto y los alcances del proyecto y justificación de los rubros en términos de necesidad y eficiencia.",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el presupuesto está balanceado y los rubros justificados."
+    },
+    {
+      "nombre": "1.4 Correspondencia entre los productos y resultados de CTeI planteados con los niveles de madurez tecnológica (TRL) exigidos según las líneas temáticas de la Convocatoria.",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la correspondencia entre productos/resultados y el TRL esperado."
+    },
+    {
+      "nombre": "1.5 Alineación del proyecto con políticas o estrategias nacionales y regionales relevantes relacionadas con cambio climático, descarbonización, transición energética, desarrollo social, reindustrialización, entre otros.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la alineación con políticas nacionales y regionales en dimensiones social, ambiental y productivo."
+    },
+    {
+      "nombre": "2.1 Impactos de los productos y resultados de CTeI en las capacidades de la región.",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el impacto en los departamentos de la región según el porcentaje cubierto."
+    },
+    {
+      "nombre": "2.2 Vinculación de personal de alto nivel para el desarrollo o fortalecimiento de capacidades en CTeI en la región.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la vinculación de doctores y estudiantes de maestría."
+    },
+    {
+      "nombre": "2.3 Obtención de productos de generación de nuevo conocimiento en las áreas de conocimiento objeto del proyecto.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la contribución de productos de nuevo conocimiento a la transición energética y pertinencia regional."
+    },
+    {
+      "nombre": "2.4 Obtención de productos de desarrollo tecnológico e innovación en las áreas de conocimiento objeto del proyecto.",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el potencial de los productos de desarrollo tecnológico e innovación para contribuir a la transición energética."
+    },
+    {
+      "nombre": "2.5 Desarrollo de procesos de apropiación social del conocimiento que genere la alianza.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa los mecanismos de apropiación social del conocimiento (información, consulta, involucramiento, colaboración)."
+    },
+    {
+      "nombre": "2.6 Contribución al desarrollo y al fortalecimiento de capacidades y descentralización de la CTeI en las regiones y los territorios.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el proyecto atiende demandas territoriales y contribuye en departamentos con IDIC bajo."
+    },
+    {
+      "nombre": "2.7 Transferencia, escalabilidad y replicabilidad de resultados.",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el potencial de transferencia, escalabilidad y replicación de los resultados."
+    },
+    {
+      "nombre": "3.1 Participación de actores de la cuádruple hélice en la alianza.",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la composición de la alianza (Academia, Sector Productivo, Estado, Sociedad Civil)."
+    },
+    {
+      "nombre": "3.2 Aportes de las entidades integrantes de la alianza para la contribución a la consecución de los objetivos y actividades del proyecto, en términos financieros, técnicos, tecnológicos y de talento humano de alto nivel, así como interdisciplinariedad y complementariedad.",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la suficiencia y adecuación de los aportes de los integrantes."
+    },
+    {
+      "nombre": "3.3 Experiencia y trayectoria de la entidad proponente en la ejecución de proyectos CTeI y en las áreas relacionadas con la temática del proyecto.",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la experiencia y trayectoria de la entidad proponente."
     }
   ],
   "financiacion": {
@@ -102,7 +225,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación bienio 2023-2024",
-    "notas": "Monto total distribuido en seis regiones, cada una con $17.773.812.841. Rango por proyecto: desde $14.219.050.273 hasta $17.773.812.841. Movilidad no excede 2% del monto solicitado al SGR; infraestructura no excede 20% del valor total del proyecto."
+    "notas": "Monto total distribuido en seis regiones, cada una con $17.773.812.841. Rango de valor por proyecto: $14.219.050.273 a $17.773.812.841. No se especifica contrapartida."
   },
   "meta": {
     "secciones": {
@@ -110,47 +233,54 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1744,
+        "chars_enviados": 1704,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 684,
-          "completion_tokens": 249
+          "prompt_tokens": 673,
+          "completion_tokens": 213
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 9085,
+        "chars_enviados": 8923,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2772,
-          "completion_tokens": 976
+          "prompt_tokens": 2700,
+          "completion_tokens": 448
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 8670,
+        "chars_enviados": 8484,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2469,
-          "completion_tokens": 764
+          "prompt_tokens": 2420,
+          "completion_tokens": 842
         }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3315,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1261,
+          "completion_tokens": 2142
+        }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3356,
+        "chars_enviados": 3279,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1170,
+          "prompt_tokens": 1147,
           "completion_tokens": 618
         }
       },
@@ -158,11 +288,11 @@
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 12099,
+        "chars_enviados": 11843,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3618,
-          "completion_tokens": 243
+          "prompt_tokens": 3532,
+          "completion_tokens": 221
         }
       },
       "criterios": {
@@ -172,8 +302,8 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4057,
-          "completion_tokens": 262
+          "prompt_tokens": 4044,
+          "completion_tokens": 2401
         }
       }
     }
@@ -193,26 +323,32 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": false,
-        "modo": "no_elegible",
-        "rol_sugerido": null,
-        "bloqueantes": [
-          "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "proponente",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Conformar alianza obligatoria con al menos un actor de otro tipo (Sector Productivo, Estado, Sociedad Civil Organizada)",
+          "Demostrar capacidad institucional y experiencia en I+D+i en transición energética",
+          "Cumplir con los requisitos técnicos, financieros y documentales establecidos en los Términos de Referencia",
+          "No estar reportado en boletín de responsables fiscales de la Contraloría General de la República"
         ],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las universidades como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria, pero debe hacerlo exclusivamente en alianza con otros actores, ya que la convocatoria exige alianzas obligatorias. Se sugiere que asuma el rol de proponente/ejecutora, sujeto al cumplimiento de requisitos técnicos y de capacidad institucional."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": false,
-      "modo": "no_elegible",
-      "rol_sugerido": null,
-      "bloqueantes": [
-        "La convocatoria no lista IES/universidades como actor elegible para postularse como proponente o ejecutora."
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Conformar alianza obligatoria con al menos un actor de otro tipo (Sector Productivo, Estado, Sociedad Civil Organizada)",
+        "Demostrar capacidad institucional y experiencia en I+D+i en transición energética",
+        "Cumplir con los requisitos técnicos, financieros y documentales establecidos en los Términos de Referencia",
+        "No estar reportado en boletín de responsables fiscales de la Contraloría General de la República"
       ],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las universidades como actores elegibles para postularse. Por lo tanto, no puede participar como proponente ni ejecutora, ni siquiera en alianza.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria, pero debe hacerlo exclusivamente en alianza con otros actores, ya que la convocatoria exige alianzas obligatorias. Se sugiere que asuma el rol de proponente/ejecutora, sujeto al cumplimiento de requisitos técnicos y de capacidad institucional.",
       "fuente": "reglas+llm"
     }
   }

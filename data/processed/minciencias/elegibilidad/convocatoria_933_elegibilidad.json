@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida a profesionales colombianos (estudiantes o admitidos a doctorado), no a instituciones como IES."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada, pero la convocatoria está diseñada para personas naturales (estudiantes de doctorado) y no incluye a instituciones como actores elegibles, por lo tanto no puede postularse como institución."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria está dirigida a profesionales colombianos (estudiantes o admitidos a doctorado), no a instituciones como IES."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario es una IES privada, pero la convocatoria está diseñada para personas naturales (estudiantes de doctorado) y no incluye a instituciones como actores elegibles, por lo tanto no puede postularse como institución.",
+    "fuente": "reglas+llm"
+  }
+}

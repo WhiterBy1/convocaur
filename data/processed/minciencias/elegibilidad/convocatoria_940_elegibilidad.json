@@ -1,0 +1,48 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con investigador reconocido por Minciencias (Junior, Asociado, Senior, Emérito) vigente al cierre",
+        "Incluir estudiante de doctorado con registro calificado vigente (modalidad nacional) o graduado de maestría (modalidad regional)",
+        "Asegurar contrapartida mínima del 50% del valor solicitado",
+        "Constitución de la entidad por al menos 24 meses antes de la apertura",
+        "Gestión de alianza internacional con entidad de Alemania o Francia",
+        "Presentar carta de aval y compromiso institucional suscrita por representante legal"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada y actor SNCTI, es elegible para postularse como proponente en la modalidad nacional de la convocatoria, siempre que cumpla con los requisitos de contar con investigador categorizado, estudiante de doctorado o graduado de maestría, y la contrapartida financiera del 50%. Además, debe presentar una propuesta conjunta con un par internacional de Alemania o Francia."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Contar con investigador reconocido por Minciencias (Junior, Asociado, Senior, Emérito) vigente al cierre",
+      "Incluir estudiante de doctorado con registro calificado vigente (modalidad nacional) o graduado de maestría (modalidad regional)",
+      "Asegurar contrapartida mínima del 50% del valor solicitado",
+      "Constitución de la entidad por al menos 24 meses antes de la apertura",
+      "Gestión de alianza internacional con entidad de Alemania o Francia",
+      "Presentar carta de aval y compromiso institucional suscrita por representante legal"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada y actor SNCTI, es elegible para postularse como proponente en la modalidad nacional de la convocatoria, siempre que cumpla con los requisitos de contar con investigador categorizado, estudiante de doctorado o graduado de maestría, y la contrapartida financiera del 50%. Además, debe presentar una propuesta conjunta con un par internacional de Alemania o Francia.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,42 +1,282 @@
 {
   "convocatoria": "1047",
-  "objetivo": null,
+  "objetivo": "Conformar un banco de propuestas elegibles de investigación, innovación y/o desarrollo tecnológico (I+D+i), con base en los retos de innovación identificados por el Instituto Geográfico Agustín Codazzi (IGAC), que vinculen jóvenes investigadores e innovadores en el área de catastro multipropósito.",
   "actores_elegibles": [],
   "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Sistemas de captura para la conformación de catastro",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Sistemas de monitoreo para el mantenimiento permanente del catastro",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Tipologías constructivas para valoración predial",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Alternativas innovadoras para servicios de visualización, monitoreo y consultas asociadas a la gestión de información geográfica",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Sistemas de captura y análisis de información agrológica",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Sistemas de captura y generación de cartografía básica",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Actualización e implementación de nuevas herramientas para el fortalecimiento de la Geodesia",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Análisis Geográficos",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Observatorio de Suelo y Territorio",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Análisis de temas jurídicos sobre la tenencia de la tierra en el marco del catastro multipropósito",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Métodos innovadores sobre valoración masivo y valuación puntual",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "El enfoque étnico en el catastro",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Dinámica inmobiliaria",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Condiciones de habitabilidad urbanas/rurales",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Participación ciudadana en las políticas de tierras",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Enfoque étnico y diferencial en tierras",
+      "modalidad": null,
+      "descripcion_corta": null
+    },
+    {
+      "nombre": "Cambio climático y territorio",
+      "modalidad": null,
+      "descripcion_corta": null
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "La entidad ejecutora debe ser una Institución de Educación Superior (IES), Centro de Investigación, Innovación y/o Desarrollo Tecnológico o Instituto de Investigación con reconocimiento vigente del Ministerio a la fecha de cierre de la invitación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe contar con una alianza con el Instituto Geográfico Agustín Codazzi (IGAC).",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta de I+D+i debe vincular jóvenes investigadores e innovadores recién graduados y/o estudiantes de pregrado.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los jóvenes investigadores e innovadores deben hacer parte de un grupo de investigación.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta de I+D+i debe estar relacionada con alguna de las líneas temáticas definidas en el numeral 4 de la invitación.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe inscribir la(s) propuesta(s) de I+D+i en el Sistema Integrado de Gestión de Proyectos SIGP.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe realizar el registro de la vinculación del joven investigador e innovador en el aplicativo conforme al procedimiento de inscripción.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad ejecutora debe cumplir con lo establecido en el numeral 5.1 'Dirigido a'.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con un grupo de I+D+i reconocido por el Ministerio para fortalecer recurso humano con conocimiento específico.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la invitación, o que estos no se subsanen dentro de los plazos establecidos."
+    },
+    {
+      "texto": "No cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en caso de ser beneficiado."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos."
+    },
+    {
+      "texto": "Alterar alguno de los documentos solicitados en la sección de requisitos."
+    },
+    {
+      "texto": "Propuestas con tiempos de ejecución menores a doce (12) meses no serán tenidas en cuenta."
+    },
+    {
+      "texto": "Ser beneficiario de manera simultánea de convocatorias o invitaciones financiadas o cofinanciadas por el Ministerio o el Sistema General de Regalías, en su participación como joven investigador e innovador."
+    },
+    {
+      "texto": "Presentarse de manera simultánea en dos o más propuestas de I+D+i de la presente invitación. En caso de presentarse en dos o más propuestas se tendrá en cuenta únicamente la primera propuesta registrada con base en la fecha y hora de inscripción en la plataforma."
+    },
+    {
+      "texto": "Haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más becas pasantías o pasantías de investigación."
+    },
+    {
+      "texto": "Haber sido declarado en incumplimiento en cualquiera de los mecanismos operados por el Ministerio en los últimos 5 años."
+    },
+    {
+      "texto": "Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apto para contratar de acuerdo con lo establecido en la Constitución, en la Ley y Reglamentos en cualquier etapa del proceso: precontractual, contractual o post contractual."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 60.0,
+      "peso_pct": null,
+      "descripcion": "Calidad y coherencia de la propuesta de investigación, desarrollo tecnológico y/o innovación, y pertinencia frente a la línea temática seleccionada."
+    },
+    {
+      "nombre": "Del Joven Investigador e Innovador",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Promedio académico del joven, justificación de su selección y enfoque diferencial (población negra, afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto o discapacidad)."
+    },
+    {
+      "nombre": "Grupo de Investigación",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Categoría vigente del grupo de investigación, desarrollo tecnológico o de innovación al que pertenece el joven investigador."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "SETECIENTOS VEINTIÚN MILLONES SEISCIENTOS OCHENTA MIL PESOS M/CTE ($721.680.000)",
+    "monto_total_cop": 721680000.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 12,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Fondo Francisco José de Caldas (FFJC)",
+    "notas": "Financiación para vinculación de hasta 40 jóvenes investigadores por 12 meses, con un valor mensual de $1.503.500 por investigador."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1736,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 678,
+          "completion_tokens": 77
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1047,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 561,
+          "completion_tokens": 288
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11914,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3399,
+          "completion_tokens": 661
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3831,
+          "completion_tokens": 554
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3560,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1196,
+          "completion_tokens": 479
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1120,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 669,
+          "completion_tokens": 545
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2217,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 970,
+          "completion_tokens": 680
+        }
       }
     }
   },
@@ -56,29 +296,29 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "elegible_con_condiciones",
+        "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Validar grupos de investigacion reconocidos por Minciencias",
-          "Verificar experiencia en el tema de la convocatoria",
-          "Cumplir con requisitos de contrapartida si aplica"
+          "Contar con alianza formal con el Instituto Geográfico Agustín Codazzi (IGAC) al momento de la postulación",
+          "Disponer de grupos de investigación reconocidos por Minciencias para vincular jóvenes investigadores e innovadores",
+          "La propuesta debe alinearse con las líneas temáticas definidas en el numeral 4 de la invitación"
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a convocatorias Minciencias, pero debe verificar condiciones especificas como grupos de investigacion y experiencia."
+        "resumen": "Universidad del Rosario, como Institución de Educación Superior privada y reconocida por el SNCTI, puede postularse como entidad ejecutora, pero debe hacerlo en alianza con el IGAC, requisito obligatorio de la invitación. Adicionalmente, debe verificar que cuenta con grupos de investigación activos para vincular jóvenes investigadores y que la propuesta se ajusta a las líneas temáticas del reto."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
+      "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Validar grupos de investigacion reconocidos por Minciencias",
-        "Verificar experiencia en el tema de la convocatoria",
-        "Cumplir con requisitos de contrapartida si aplica"
+        "Contar con alianza formal con el Instituto Geográfico Agustín Codazzi (IGAC) al momento de la postulación",
+        "Disponer de grupos de investigación reconocidos por Minciencias para vincular jóvenes investigadores e innovadores",
+        "La propuesta debe alinearse con las líneas temáticas definidas en el numeral 4 de la invitación"
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a convocatorias Minciencias, pero debe verificar condiciones especificas como grupos de investigacion y experiencia.",
+      "resumen": "Universidad del Rosario, como Institución de Educación Superior privada y reconocida por el SNCTI, puede postularse como entidad ejecutora, pero debe hacerlo en alianza con el IGAC, requisito obligatorio de la invitación. Adicionalmente, debe verificar que cuenta con grupos de investigación activos para vincular jóvenes investigadores y que la propuesta se ajusta a las líneas temáticas del reto.",
       "fuente": "reglas+llm"
     }
   }

@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo investigadores individuales y estudiantes de doctorado."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse como institución a esta convocatoria, ya que los actores elegibles son exclusivamente investigadores con reconocimiento vigente y estudiantes de doctorado. La institución solo podría participar como entidad avaladora, pero no como proponente."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible; solo investigadores individuales y estudiantes de doctorado."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse como institución a esta convocatoria, ya que los actores elegibles son exclusivamente investigadores con reconocimiento vigente y estudiantes de doctorado. La institución solo podría participar como entidad avaladora, pero no como proponente.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,180 +1,205 @@
 {
   "convocatoria": "953",
-  "objetivo": "Conformar un banco de elegibles y financiables para fortalecer las capacidades en CTeI de consejos comunitarios, organizaciones y expresiones organizativas de comunidades Negras, Afrocolombianas, Raizales y Palenqueras en zonas rurales o urbanas de Caquetá, Chocó, Magdalena, Córdoba y Bogotá D.C., mediante la financiación de proyectos que integren iniciativas de la Política de Investigación e Innovación Orientada Por Misiones y respondan a las necesidades de las comunidades.",
+  "objetivo": "Conformar un banco de elegibles y financiables para fortalecer las capacidades en CTeI de consejos comunitarios, organizaciones y expresiones organizativas de comunidades Negras, Afrocolombianas, Raizales y Palenqueras ubicados en zonas rurales o urbanas en los departamentos de Caquetá, Chocó, Magdalena, Córdoba y la ciudad de Bogotá D.C., mediante la financiación de proyectos que integren iniciativas enmarcadas en la Política de Investigación e Innovación Orientada Por Misiones y respondan a las necesidades de las comunidades.",
   "actores_elegibles": [
     {
       "tipo": "Consejos Comunitarios de las comunidades negras",
-      "rol": "Entidad ejecutora o aliada",
-      "condicion": "Persona jurídica que ejerce la máxima autoridad de administración interna dentro de las Tierras de las Comunidades Negras, regulados por la Ley 70 de 1993 y la Ley 2160 de 1991, e incorporados por el Ministerio del Interior en el Registro Público Único Nacional, cuyo objeto esté relacionado con el fortalecimiento del gobierno propio, la identidad étnica y cultural, el ejercicio de la autonomía, y/o la garantía de los derechos de los pueblos."
+      "rol": null,
+      "condicion": "Ubicados en zonas rurales o urbanas en Caquetá, Chocó, Magdalena, Córdoba y Bogotá D.C. Deben estar incorporados por el Ministerio del Interior en el Registro Público Único Nacional."
     },
     {
       "tipo": "Organizaciones de base de las comunidades Negras, Afrocolombianas, Raizales y Palenqueras",
-      "rol": "Entidad ejecutora o aliada",
-      "condicion": "Asociaciones comunitarias integradas por personas de dichas comunidades que reivindican y promueven los derechos étnicos y humanos."
+      "rol": null,
+      "condicion": "Ubicados en zonas rurales o urbanas en Caquetá, Chocó, Magdalena, Córdoba y Bogotá D.C. Deben ser asociaciones comunitarias integradas por personas de dichas comunidades."
     },
     {
       "tipo": "Formas o expresiones organizativas",
-      "rol": "Entidad ejecutora o aliada",
-      "condicion": "Manifestaciones de familias de ascendencia negra, afrocolombiana, raizal o palenquera que reivindican y promueven su cultura propia, historia, prácticas tradicionales y costumbres, asentados en un territorio no susceptible de titulación colectiva."
+      "rol": null,
+      "condicion": "Ubicados en zonas rurales o urbanas en Caquetá, Chocó, Magdalena, Córdoba y Bogotá D.C. Deben estar asentados en un territorio que por su naturaleza no es susceptible de ser titulada de manera colectiva."
     }
   ],
   "alianza_obligatoria": false,
   "lineas_tematicas": [
     {
       "nombre": "Bioeconomía y territorio",
-      "modalidad": "Línea temática",
+      "modalidad": null,
       "descripcion_corta": "Potenciar el desarrollo territorial sostenible mediante el conocimiento, conservación y aprovechamiento de la biodiversidad y sus servicios ecosistémicos."
     },
     {
-      "nombre": "Desarrollo de la Cadena Productiva",
-      "modalidad": "Subtemática",
-      "descripcion_corta": "Fomenta el diseño, desarrollo y fortalecimiento de productos locales de valor cultural y económico, integrando conocimientos ancestrales y criterios de sostenibilidad."
-    },
-    {
-      "nombre": "Conservación de la Biodiversidad",
-      "modalidad": "Subtemática",
-      "descripcion_corta": "Incentiva proyectos que promuevan la conservación y restauración de la biodiversidad mediante CTeI y conocimiento tradicional, priorizando reforestación con especies nativas."
-    },
-    {
-      "nombre": "Transferencia de conocimientos y saberes",
-      "modalidad": "Subtemática",
-      "descripcion_corta": "Promueve la apropiación social del conocimiento y el fortalecimiento de saberes ancestrales mediante redes de aprendizaje y documentación participativa."
-    },
-    {
       "nombre": "Derecho humano a la alimentación",
-      "modalidad": "Línea temática",
-      "descripcion_corta": "Fortalece sistemas agrícolas para la seguridad y soberanía alimentaria, desarrollo rural y construcción de paz, valorando la diversidad biocultural."
+      "modalidad": null,
+      "descripcion_corta": "Producir y disponer alimentos y agua de manera agroecológica, eficiente, soberana, autónoma y equitativa, por medio de la investigación y la innovación."
     },
     {
-      "nombre": "Producción Alimentaria Sostenible",
-      "modalidad": "Subtemática",
-      "descripcion_corta": "Implementa sistemas alternativos y sostenibles de producción como huertas comunitarias, agricultura familiar, sistemas agroforestales o hidropónicos agroecológicos."
-    },
-    {
-      "nombre": "Soberanía sanitaria",
-      "modalidad": "Línea temática",
-      "descripcion_corta": "Promueve la apropiación social y divulgación de saberes en medicina ancestral, innovación en salud y acceso equitativo al agua para bienestar comunitario."
-    },
-    {
-      "nombre": "Medicina tradicional y ancestral",
-      "modalidad": "Subtemática",
-      "descripcion_corta": "Desarrolla proyectos de apropiación social del conocimiento y desarrollo tecnológico para transformar recursos naturales en productos medicinales tradicionales."
-    },
-    {
-      "nombre": "Agua y Saneamiento Básico",
-      "modalidad": "Subtemática",
-      "descripcion_corta": "Desarrolla sistemas de captación y tratamiento de agua, y educación comunitaria sobre gestión hídrica."
+      "nombre": "Soberanía sanitaria y bienestar social",
+      "modalidad": null,
+      "descripcion_corta": "Garantizar la soberanía sanitaria, la salud y el bienestar social de la población mediante procesos que integren innovaciones sociales o científicas, procesos tecnológicos y científicos a sistemas tradicionales de medicina ancestral."
     },
     {
       "nombre": "Ciencia para la paz",
-      "modalidad": "Línea temática",
-      "descripcion_corta": "Fortalece nuevas ciudadanías mediante CTeI en procesos organizativos comunitarios para la garantía de derechos humanos."
+      "modalidad": null,
+      "descripcion_corta": "Poner fin a todas las formas de violencia en Colombia y comprender las diversas causas de violencia como base para construir soluciones innovadoras que utilicen elementos científicos y tecnológicos que fomenten y fortalezcan la convivencia pacífica y la resolución de los conflictos."
+    },
+    {
+      "nombre": "Desarrollo de la Cadena Productiva",
+      "modalidad": null,
+      "descripcion_corta": "Fomenta el diseño, desarrollo y fortalecimiento de productos locales de valor cultural y económico, integrando conocimientos ancestrales y criterios de sostenibilidad, con posibilidad de expansión hacia mercados emergentes."
+    },
+    {
+      "nombre": "Conservación de la Biodiversidad",
+      "modalidad": null,
+      "descripcion_corta": "Incentiva proyectos que promuevan la conservación y restauración de la biodiversidad mediante CTeI y conocimiento tradicional, priorizando reforestación con especies nativas y monitoreo participativo."
+    },
+    {
+      "nombre": "Transferencia de conocimientos y saberes",
+      "modalidad": null,
+      "descripcion_corta": "Promueve la apropiación social del conocimiento y el fortalecimiento de saberes ancestrales mediante redes de aprendizaje, formación en técnicas tradicionales y documentación participativa."
+    },
+    {
+      "nombre": "Producción Alimentaria Sostenible",
+      "modalidad": null,
+      "descripcion_corta": "Implementa procesos o sistemas alternativos y sostenibles de producción como huertas comunitarias, unidades de agricultura familiar, sistemas agroforestales o cultivos hidropónicos que integren procesos agroecológicos."
+    },
+    {
+      "nombre": "Medicina tradicional y ancestral",
+      "modalidad": null,
+      "descripcion_corta": "Promueve la apropiación social y divulgación de saberes sobre medicina ancestral y tradicional, así como desarrollo tecnológico e innovación para transformar recursos naturales en productos medicinales tradicionales."
+    },
+    {
+      "nombre": "Agua y Saneamiento Básico",
+      "modalidad": null,
+      "descripcion_corta": "Desarrolla proyectos de sistemas de captación y tratamiento de agua, además de educación comunitaria sobre gestión hídrica."
     },
     {
       "nombre": "Nuevas ciudadanías y CTeI",
-      "modalidad": "Subtemática",
-      "descripcion_corta": "Desarrolla procesos de apropiación social del conocimiento para la participación efectiva de comunidades negras en el Sistema Nacional de CTeI."
+      "modalidad": null,
+      "descripcion_corta": "Desarrolla procesos y acciones de apropiación social del conocimiento para fomentar la CTeI y la participación efectiva de comunidades Negras, Afrocolombianas, Raizales y Palenqueras en el Sistema Nacional de Ciencia, Tecnología e Innovación."
     }
   ],
   "requisitos": [
     {
-      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDA A' de los Términos de Referencia.",
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDA A' de los TdR.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Inscribir y radicar la propuesta en el Sistema Integrado de Gestión de Proyectos (SIGP) de Minciencias.",
+      "texto": "Inscribir y radicar la propuesta en el SIGP a través del formulario en línea.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el Formulario del Proyecto completamente diligenciado (Anexo 1).",
+      "texto": "Adjuntar el Formulario del Proyecto (Anexo 1) completamente diligenciado.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el Plan de Acción del Proyecto firmado por el representante legal (Anexo 2).",
+      "texto": "Adjuntar el Plan de Acción del Proyecto (Anexo 2) firmado por el representante legal.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el Plan Presupuestal (Anexo 3) firmado; la contrapartida debe ser al menos el 10% del recurso solicitado.",
+      "texto": "Adjuntar el Plan Presupuestal (Anexo 3) firmado, con contrapartida del 10% del recurso solicitado.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar enlace de YouTube de video explicativo de la problemática (duración 2-3 minutos, idealmente horizontal).",
+      "texto": "Adjuntar link de YouTube del video explicativo de la problemática (duración 2-3 min, horizontal sugerido).",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar Carta de Aval firmada por el representante legal de la entidad ejecutora (Anexo 4.a o 4.b según corresponda).",
+      "texto": "Adjuntar Carta de Aval (Anexo 4.a o 4.b según corresponda) firmada por el representante legal.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si otra persona firma la Carta de Aval, se debe adjuntar el poder que la faculte.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Documentación opcional sobre enfoque diferencial para acciones afirmativas (no inhabilitante).",
+      "texto": "Documentación opcional para enfoque diferencial (equipo de trabajo, según numeral 6).",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Para Consejos Comunitarios: certificado de registro en el Registro Público Único Nacional expedido por MinInterior con fecha mínima 2022.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Para Consejos Comunitarios: certificación de experiencia como ejecutor o coejecutor en proyectos de beneficio a comunidades negras, afrocolombianas, raizales o palenqueras (últimos 10 años, 100% ejecutados o ≥50% en ejecución).",
+      "texto": "Para Consejos Comunitarios: adjuntar certificado de Registro Público Único Nacional (fecha mínima 2022).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para Organizaciones de Base: antigüedad mínima de 10 años en el Registro Único Nacional, adjuntando certificado de MinInterior.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Para Organizaciones de Base: certificado de Cámara de Comercio con fecha de expedición no mayor a 60 días calendario al cierre de la convocatoria.",
+      "texto": "Para Consejos Comunitarios: si el registro es anterior a 2022, adjuntar certificado de solicitud de actualización.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para Organizaciones de Base: certificación de experiencia similar a la de Consejos Comunitarios.",
+      "texto": "Para Consejos Comunitarios (como ejecutor): adjuntar certificación de experiencia en proyectos para comunidades NARP (últimos 10 años, ≥50% ejecutado).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para Alianzas (opcional): carta de aval de común acuerdo entre organizaciones (Anexo 4b).",
-      "tipo": "alianza",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Para Alianzas: certificación de experiencia de la entidad ejecutora en proyectos de beneficio a comunidades negras.",
+      "texto": "Para Organizaciones de Base: adjuntar certificado de antigüedad ≥10 años en el Registro Único Nacional.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para Uniones Temporales (opcional): documento de constitución de la Unión Temporal conforme a la ley.",
-      "tipo": "alianza",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Para Uniones Temporales: designación de representante y suplente, y duración de la UT no inferior al plazo de ejecución del contrato más un año.",
-      "tipo": "alianza",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Para Uniones Temporales: acreditar existencia, representación legal y capacidad jurídica de cada integrante.",
+      "texto": "Para Organizaciones de Base: adjuntar certificado de solicitud de actualización del Registro Único.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para Uniones Temporales: certificación de experiencia de al menos un integrante en proyectos de beneficio a comunidades negras.",
+      "texto": "Para Organizaciones de Base: adjuntar certificado de Cámara de Comercio con fecha ≤60 días al cierre.",
       "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Organizaciones de Base: adjuntar certificación de experiencia en proyectos para comunidades NARP (últimos 10 años, ≥50% ejecutado).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Alianzas: adjuntar carta de aval de común acuerdo (Anexo 4b).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Alianzas: adjuntar certificación de experiencia del ejecutor en proyectos NARP (últimos 10 años, ≥50% ejecutado).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Uniones Temporales: adjuntar documento de creación de la unión temporal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Uniones Temporales: acreditar existencia, representación legal y capacidad de cada persona jurídica integrante.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Uniones Temporales: indicar expresamente que es Unión Temporal y las reglas básicas de relación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Uniones Temporales: acreditar duración de la unión temporal no inferior al plazo de ejecución + 1 año.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Uniones Temporales: acreditar duración de cada persona jurídica no inferior al plazo de ejecución + 1 año.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Uniones Temporales: designar representante y suplente facultados para actuar.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Uniones Temporales: adjuntar certificación de experiencia de al menos un integrante en proyectos NARP (últimos 10 años, ≥50% ejecutado).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En subsanación: no modificar información de entidad ejecutora, título del proyecto ni línea temática.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     }
   ],
@@ -184,67 +209,67 @@
       "nombre": "1.1. Calidad y coherencia en la estructura del proyecto",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la claridad y coherencia entre título, objetivos, problemática, justificación, plan de acción, sostenibilidad y presupuesto, así como su alineación con las misiones de la convocatoria."
+      "descripcion": "La propuesta es clara y refleja coherencia entre título, objetivos, problemática, justificación, plan de acción, sostenibilidad y congruencia presupuestal. Además, la problemática está alineada con una o más misiones de la convocatoria."
     },
     {
       "nombre": "1.2. Expresiones culturales",
       "puntaje_max": 20.0,
       "peso_pct": null,
-      "descripcion": "El video de la propuesta describe adecuadamente el problema, la solución y los impactos esperados."
+      "descripcion": "El video de la propuesta describe adecuadamente el problema a resolver, presenta de forma clara la solución propuesta y detalla los impactos esperados."
     },
     {
       "nombre": "1.3. Sostenibilidad",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la inclusión de factores de sostenibilidad como trabajo colaborativo, capacidad de mantenerse en el tiempo y vinculación de diversos ciclos de vida."
+      "descripcion": "El proyecto incluye factores de sostenibilidad como trabajo colaborativo, capacidad de mantenerse en el tiempo y vinculación activa de otros ciclos de vida (niñas, niños, adolescentes, jóvenes y adultos mayores)."
     },
     {
       "nombre": "2.1. Impacto social, económico y ambiental en el territorio",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Evalúa los beneficios económicos, sociales y ambientales basados en productos de CTeI para la solución de la problemática comunitaria."
+      "descripcion": "El proyecto incluye beneficios económicos, sociales y ambientales basados en productos de CTeI desarrollados para la solución de la problemática comunitaria."
     },
     {
       "nombre": "2.2. Uso e inclusión de productos locales y/o saberes tradicionales y ancestrales",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la incorporación de productos o prácticas tradicionales/ancestrales en la ejecución del proyecto."
+      "descripcion": "El proyecto incorpora productos y/o prácticas tradicionales o ancestrales para su ejecución."
     },
     {
       "nombre": "2.3. Asociatividad",
       "puntaje_max": 20.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el impacto del proyecto en otros consejos, organizaciones y expresiones organizativas de las comunidades NARP."
+      "descripcion": "El proyecto impacta a otros consejos, organizaciones y expresiones organizativas de las comunidades Negras, Afrocolombianas, Raizales y Palenqueras."
     },
     {
-      "nombre": "3.1. Contribución de la CTeI a las necesidades de las comunidades NARP",
+      "nombre": "3.1. El proyecto describe claramente las formas en que la CTeI impacta de manera positiva en el fortalecimiento de las capacidades locales de pueblos y comunidades Negras, Afrocolombianas, Raizales y Palenqueras",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Evalúa cómo la CTeI impacta positivamente en el fortalecimiento de capacidades locales de pueblos y comunidades NARP."
+      "descripcion": "El proyecto describe cómo la CTeI impacta positivamente en el fortalecimiento de capacidades locales como parte de la solución contextual al problema identificado."
     },
     {
-      "nombre": "3.2. Alineación con línea y sublínea temática y PIIOM",
+      "nombre": "3.2. El proyecto se alinea de manera clara con la línea y sublínea temática seleccionada, aportando a las Políticas Orientadas por Misiones PIIOM",
       "puntaje_max": 10.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la alineación clara del proyecto con la línea y sublínea temática seleccionada, aportando a las Políticas Orientadas por Misiones."
+      "descripcion": "El proyecto se alinea claramente con la línea y sublínea temática seleccionada, aportando a las Políticas Orientadas por Misiones."
     },
     {
-      "nombre": "4.1. Impacto en subregiones PDET o ZOMAC o localidades de Bogotá",
+      "nombre": "4.1. Impacto de las actividades y resultados del proyecto en las subregiones de los Programas de Desarrollo con Enfoque Territorial (PDET) o ZOMAC, en concordancia con línea temática a la que aplica la propuesta",
       "puntaje_max": 2.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la inclusión de subregiones PDET, ZOMAC o localidades de Bogotá con presencia de población NARP; puntúa según cantidad."
+      "descripcion": "Puntaje según número de subregiones PDET o ZOMAC o localidades con mayor presencia de personas Negras, Afrocolombianas, Raizales y Palenqueras en Bogotá D.C. incluidas: 0 puntos si ninguna, 1 punto si una, 2 puntos si dos o más."
     },
     {
-      "nombre": "4.2. Enfoque diferencial e interseccional",
+      "nombre": "4.2. El proyecto aborda las problemáticas con enfoque diferencial e interseccional en los componentes técnicos, administrativos y financieros",
       "puntaje_max": 4.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el abordaje de problemáticas con enfoque diferencial e interseccional en componentes técnicos, administrativos y financieros para cerrar brechas."
+      "descripcion": "El proyecto incluye objetivos, actividades y articulación de actores para aportar al cierre de brechas de género, ciclo de vida, orientación sexual o identidades de género diversas o víctimas del conflicto armado."
     },
     {
-      "nombre": "4.3. Porcentaje de población con enfoque diferencial vinculado",
+      "nombre": "4.3. El ejecutor acredita un porcentaje de población con enfoque diferencial vinculado a la propuesta",
       "puntaje_max": 4.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la integración de personas de categorías con enfoque diferencial e interseccional en la propuesta."
+      "descripcion": "Puntaje según integración de personas con enfoque diferencial e interseccional: 0 puntos si no integra ninguna, 4 puntos si uno o más integrantes hacen parte de esa población y se evidencia su condición."
     }
   ],
   "financiacion": {
@@ -254,8 +279,8 @@
     "plazo_max_meses": 12,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
-    "fuente_recursos": "CDR Global Nro. 20133–2024",
-    "notas": "Cada proyecto financiado hasta $320.000.000. Personal no podrá exceder el 20% del monto solicitado."
+    "fuente_recursos": "CDR Global Nro. 20133– 2024",
+    "notas": "Cada proyecto financiado hasta $320.000.000. Presupuesto de personal no excede 20% del monto total solicitado al Ministerio. Financiación para 5 proyectos."
   },
   "meta": {
     "secciones": {
@@ -263,33 +288,33 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 539,
+        "chars_enviados": 532,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 363,
-          "completion_tokens": 129
+          "prompt_tokens": 383,
+          "completion_tokens": 142
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3162,
+        "chars_enviados": 3062,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1172,
-          "completion_tokens": 362
+          "prompt_tokens": 1143,
+          "completion_tokens": 1564
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 7903,
+        "chars_enviados": 7700,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2264,
-          "completion_tokens": 758
+          "prompt_tokens": 2202,
+          "completion_tokens": 2783
         }
       },
       "requisitos": {
@@ -299,34 +324,41 @@
         "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4201,
-          "completion_tokens": 3012
+          "prompt_tokens": 4168,
+          "completion_tokens": 2659
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3957,
+          "completion_tokens": 131
+        }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 5635,
+        "chars_enviados": 5483,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1875,
-          "completion_tokens": 856
+          "prompt_tokens": 1838,
+          "completion_tokens": 176
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 5488,
+        "chars_enviados": 5210,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1923,
-          "completion_tokens": 1922
+          "prompt_tokens": 1850,
+          "completion_tokens": 2150
         }
       }
     }
@@ -350,10 +382,10 @@
         "modo": "no_elegible",
         "rol_sugerido": null,
         "bloqueantes": [
-          "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional."
+          "La convocatoria está dirigida exclusivamente a Consejos Comunitarios de comunidades negras, organizaciones de base de comunidades Negras, Afrocolombianas, Raizales y Palenqueras, y formas o expresiones organizativas de dichas comunidades. La Universidad del Rosario, como IES privada, no pertenece a ninguna de estas categorías de actores elegibles."
         ],
         "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a Consejos Comunitarios, Organizaciones de base y expresiones organizativas de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. Las IES no son actores elegibles como proponentes o ejecutores."
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida únicamente a organizaciones de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. La IES no es un actor elegible según los términos de referencia."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -362,10 +394,10 @@
       "modo": "no_elegible",
       "rol_sugerido": null,
       "bloqueantes": [
-        "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional."
+        "La convocatoria está dirigida exclusivamente a Consejos Comunitarios de comunidades negras, organizaciones de base de comunidades Negras, Afrocolombianas, Raizales y Palenqueras, y formas o expresiones organizativas de dichas comunidades. La Universidad del Rosario, como IES privada, no pertenece a ninguna de estas categorías de actores elegibles."
       ],
       "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a Consejos Comunitarios, Organizaciones de base y expresiones organizativas de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. Las IES no son actores elegibles como proponentes o ejecutores.",
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida únicamente a organizaciones de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. La IES no es un actor elegible según los términos de referencia.",
       "fuente": "reglas+llm"
     }
   }

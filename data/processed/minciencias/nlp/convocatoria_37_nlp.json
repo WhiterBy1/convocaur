@@ -1,129 +1,345 @@
 {
   "convocatoria": "37",
-  "objetivo": null,
+  "objetivo": "Conformar un listado de macroproyectos nacionales elegibles que atiendan necesidades de conocimiento, desarrollo tecnológico e innovación sobre gestión del riesgo climático, recursos hídricos, restauración y conservación de ecosistemas para una interacción sostenible con el medio ambiente, contribuyendo a los retos estratégicos de CTI del Plan Bienal de Convocatorias 2023-2024 del SGR y al componente ambiental del Plan Nacional de Desarrollo.",
   "actores_elegibles": [
     {
-      "tipo": "Entidad u organización nacional reconocida como actor del SNCTI",
-      "rol": "Integrante de la alianza",
-      "condicion": "Reconocimiento vigente a la fecha de cierre de la convocatoria"
+      "tipo": "Instituciones de Educación Superior (IES)",
+      "rol": "Miembro de la alianza",
+      "condicion": "Al menos dos (2) IES, una con presencia física en la zona de influencia del proyecto."
     },
     {
-      "tipo": "Actor que agremie o agrupe empresas",
-      "rol": "Integrante de la alianza",
-      "condicion": "Por ejemplo: gremios, asociaciones empresariales, cámaras de comercio, iniciativas clúster"
+      "tipo": "Entidades Territoriales",
+      "rol": "Miembro de la alianza",
+      "condicion": "Al menos dos (2) entidades de mínimo dos regiones SGR diferentes, cada una en un departamento diferente."
     },
     {
-      "tipo": "Entidad u organización de carácter internacional",
-      "rol": "Integrante de la alianza",
-      "condicion": "Debe presentar carta entidad internacional; no requiere NIT"
+      "tipo": "Organizaciones de la sociedad civil",
+      "rol": "Miembro de la alianza",
+      "condicion": "Al menos dos (2) organizaciones con representación legal y domicilio en la zona de influencia del proyecto."
     },
     {
-      "tipo": "Organización de sociedad civil",
-      "rol": "Integrante de la alianza",
-      "condicion": "Formalmente constituida como organizaciones campesinas, asociaciones, ONG, etc."
+      "tipo": "Entidades del SNCTI reconocidas por Minciencias",
+      "rol": "Miembro adicional de la alianza",
+      "condicion": "Reconocimiento vigente a la fecha de cierre de la convocatoria."
     },
     {
-      "tipo": "Entidad proponente",
-      "rol": "Proponente y ejecutor del proyecto",
-      "condicion": "Debe acreditar adecuado desempeño (si aplica), experiencia en mínimo 3 proyectos de CTI en últimos 10 años (al menos uno financiado con SGR), y experiencia adicional en biodiversidad o infraestructura según corresponda"
+      "tipo": "Actor que agremie o agrupe empresas (gremios, asociaciones empresariales, cámaras de comercio, iniciativas clúster)",
+      "rol": "Miembro adicional de la alianza",
+      "condicion": null
+    },
+    {
+      "tipo": "Entidades u organizaciones de carácter internacional",
+      "rol": "Miembro adicional de la alianza",
+      "condicion": "Deben presentar la 'Carta entidad internacional' (subnumeral 10.11). No requieren NIT ni carta aval."
     }
   ],
   "alianza_obligatoria": true,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Proyectos de CTeI para lograr un aprovechamiento sano y sostenible de la biodiversidad",
+      "modalidad": null,
+      "descripcion_corta": "Iniciativas de CTeI para incrementar el conocimiento científico sobre usos potenciales de la biodiversidad, garantizando la conservación de ecosistemas."
+    },
+    {
+      "nombre": "Proyectos de CTeI para la prevención, mitigación, adaptación y gestión del riesgo climático",
+      "modalidad": null,
+      "descripcion_corta": "Generación de conocimiento científico para atender desafíos del cambio climático, diseñando estrategias para reducir impactos y gestionar riesgos."
+    },
+    {
+      "nombre": "Proyectos de CTeI para la conservación y gestión sostenible de áreas marinas y costeras",
+      "modalidad": null,
+      "descripcion_corta": "Iniciativas de CTeI para la conservación y uso sostenible de ecosistemas marinos costeros, vulnerables a actividades humanas y cambio climático."
+    },
+    {
+      "nombre": "Proyectos de CTeI para las ciencias humanas en concurso con la sostenibilidad ambiental",
+      "modalidad": null,
+      "descripcion_corta": "Iniciativas de CTeI para generar conocimiento científico y revalorizar saberes tradicionales sobre la relación humana con el ambiente."
+    },
+    {
+      "nombre": "Proyectos de CTeI para la aplicación de tecnologías 4.0 para la restauración, conservación y/o monitoreo de ecosistemas",
+      "modalidad": null,
+      "descripcion_corta": "Uso de tecnologías avanzadas de la Cuarta Revolución Industrial para mejorar la efectividad y sostenibilidad de iniciativas de conservación y recuperación."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustándose al objetivo de la convocatoria.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con las especificaciones y condiciones del numeral 'DIRIGIDA A' de los términos de referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Acreditar el adecuado desempeño del proponente según la metodología del DNP, salvo cuando no se haya sido objeto de medición en los dos años anteriores.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1b) firmada por los representantes legales o apoderados de todas las entidades nacionales.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el documento técnico (Anexo 2) según el contenido del numeral 12 y subnumeral 12.1.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) según lo establecido en el numeral 12 y subnumeral 12.2.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente y de los aliados' (Anexo 5) debidamente diligenciado.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de aval del Comité de Ética de la Investigación o de Bioética, si aplica, junto con el acto administrativo que soporta su conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades internacionales, anexar carta de intención de participación en formato libre, suscrita por el director de la entidad, indicando el aporte de contrapartida en pesos colombianos.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para entidades nacionales del sector productivo, presentar certificado de existencia y representación legal no mayor a 90 días previo al cierre y estar constituidas como mínimo un año.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia de la convocatoria y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos establecidos en el numeral 21 CRONOGRAMA, de la presente convocatoria."
+    },
+    {
+      "texto": "El proponente o alguno de sus aliados se encuentra reportado en el último Boletín de responsables Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "El proponente no demuestra adecuado desempeño en la medición según la metodología señalada por el DNP, sin perjuicio de la excepción planteada en la nota del numeral. 10.3 del presente documento."
+    },
+    {
+      "texto": "Cuando, antes de la designación como ejecutor, se expide una medida de control por el Sistema de Seguimiento, Evaluación y Control (SSEC) del SGR que impida al proponente en su calidad de entidad ejecutora, ejecutar proyectos del SGR."
+    },
+    {
+      "texto": "Cuando el valor solicitado del proyecto sobrepasa el monto de $41.666.666.666 M/CTE, señalado en los presentes términos en el numeral 14 DURACIÓN Y FINANCIACIÓN."
+    },
+    {
+      "texto": "Cuando en el proceso de evaluación por pares se determine la obligatoriedad de un proyecto de contar con aval de un Comité de Ética o de Bioética - debidamente constituido- y los soportes respectivos solicitados en el requisito 10.10 -Aval del Comité de Ética- no se hubieran cargado en el aplicativo SIGP."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender los retos estratégicos de Ciencia, Tecnología e Innovación a través de por lo menos una demanda territorial (ver Anexo 4), para cada uno de los departamentos pertenecientes a la región objeto del proyecto."
+    },
+    {
+      "texto": "Cuando el proyecto presentado se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación de cualquier fuente."
+    },
+    {
+      "texto": "Que el proponente o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso y el Ministerio informará a las instancias administrativas y judiciales competentes sobre esta situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Calidad técnico-científica y coherencia del proyecto",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia y articulación entre los componentes del proyecto (problemática, objetivos, metodología, etc.) para conseguir los resultados propuestos."
+    },
+    {
+      "nombre": "1.2 Coherencia entre el presupuesto y los alcances del proyecto",
+      "puntaje_max": 12.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el presupuesto está debidamente soportado, justificado y alineado con el alcance y metas del proyecto."
+    },
+    {
+      "nombre": "1.3 Obtención de productos de Apropiación social del conocimiento",
+      "puntaje_max": 8.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el proyecto contempla un proceso de apropiación social del conocimiento bajo escenarios de colaboración, involucramiento o información."
+    },
+    {
+      "nombre": "1.4 Líneas temáticas",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa cuántas líneas temáticas priorizadas aborda el proyecto (al menos 3, 2 o 1)."
+    },
+    {
+      "nombre": "2.1 Pertinencia e impacto de los resultados y productos esperados",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la pertinencia e impacto del proyecto frente al desarrollo territorial, regional y nacional en atención a demandas territoriales."
+    },
+    {
+      "nombre": "2.2 Atención a las demandas territoriales establecidas en los retos estratégicos",
+      "puntaje_max": 14.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la combinación de demandas territoriales de diferentes retos abordadas en los departamentos de intervención."
+    },
+    {
+      "nombre": "2.3 Obtención de productos de generación de nuevo conocimiento, desarrollo tecnológico e innovación",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la publicación, registro o aceptación de productos tipo TOP y A en el área de conocimiento del proyecto."
+    },
+    {
+      "nombre": "3.1 Conformación de alianzas entre entidades del SNCTI",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la alianza según el tipo (A, B o C) basado en la cantidad y tipo de entidades participantes."
+    },
+    {
+      "nombre": "4.1 Estructura del modelo de gobernanza",
+      "puntaje_max": 4.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia del modelo de gobernanza en aspectos financiero, administrativo, jurídico, técnico y de ética."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "Quinientos mil millones de PESOS M/CTE ($500.000.000.000)",
+    "monto_total_cop": 500000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 36,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías - Asignación para la Ciencia, Tecnología e Innovación bienio 2023-2024",
+    "notas": "Los recursos solicitados al SGR para movilidad no podrán exceder el 2% del total solicitado al SGR. Los recursos para construcción/adecuación/mejoramiento de infraestructura CTeI no podrán exceder el 20% del valor total del proyecto. Los proyectos deben impactar al menos dos regiones SGR, pero para asignación presupuestal se prioriza una única región (la de mayor población beneficiaria)."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 0,
+        "chars_enviados": 585,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 220,
-          "completion_tokens": 297
+          "prompt_tokens": 368,
+          "completion_tokens": 112
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 7558,
+        "chars_enviados": 9449,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2389,
-          "completion_tokens": 1975
+          "prompt_tokens": 2867,
+          "completion_tokens": 396
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 12948,
+        "chars_enviados": 12700,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3248,
-          "completion_tokens": 138
+          "prompt_tokens": 3637,
+          "completion_tokens": 429
         }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11845,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3647,
+          "completion_tokens": 1614
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3483,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1249,
+          "completion_tokens": 752
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10789,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3302,
+          "completion_tokens": 809
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4284,
+          "completion_tokens": 2874
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": false,
-      "modo": "no_elegible",
-      "rol_sugerido": null,
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "Miembro de la alianza",
       "confianza": "alta",
-      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
-      "actores_ies_match": [],
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Instituciones de Educación Superior (IES)",
+          "rol": "Miembro de la alianza",
+          "condicion": "Al menos dos (2) IES, una con presencia física en la zona de influencia del proyecto."
+        }
+      ],
       "condiciones_pendientes": [],
-      "capa": "reglas"
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
     },
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": false,
-        "modo": "no_elegible",
-        "rol_sugerido": null,
-        "bloqueantes": [
-          "La convocatoria no lista IES/universidades como actor elegible",
-          "Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional"
+        "puede_postularse": true,
+        "modo": "solo_en_alianza",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [],
+        "condiciones_a_verificar": [
+          "Verificar que la alianza incluya al menos dos IES, una con presencia física en la zona de influencia del proyecto.",
+          "Verificar que la alianza cumpla con los demás requisitos de composición (entidades territoriales, organizaciones de la sociedad civil, etc.) según los términos de referencia."
         ],
-        "condiciones_a_verificar": [],
-        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque su tipo institucional (IES/universidad) no está incluido entre los actores elegibles. La convocatoria exige alianzas obligatorias y solo permite ciertos tipos de actores como proponentes o integrantes."
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige que la postulación se realice en alianza, por lo que la universidad debe participar como miembro de una alianza y no de forma individual."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": false,
-      "modo": "no_elegible",
-      "rol_sugerido": null,
-      "bloqueantes": [
-        "La convocatoria no lista IES/universidades como actor elegible",
-        "Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional"
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la alianza incluya al menos dos IES, una con presencia física en la zona de influencia del proyecto.",
+        "Verificar que la alianza cumpla con los demás requisitos de composición (entidades territoriales, organizaciones de la sociedad civil, etc.) según los términos de referencia."
       ],
-      "condiciones_a_verificar": [],
-      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque su tipo institucional (IES/universidad) no está incluido entre los actores elegibles. La convocatoria exige alianzas obligatorias y solo permite ciertos tipos de actores como proponentes o integrantes.",
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige que la postulación se realice en alianza, por lo que la universidad debe participar como miembro de una alianza y no de forma individual.",
       "fuente": "reglas+llm"
     }
   }

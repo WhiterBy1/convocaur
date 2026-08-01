@@ -1,17 +1,44 @@
 {
   "convocatoria": "956",
-  "objetivo": "Conformar un banco de proyectos elegibles por línea temática para contribuir a la implementación de las misiones de 'Bioeconomía y territorio', 'Derecho humano a la alimentación' y 'Ciencia para la paz' a través de iniciativas de investigación, desarrollo tecnológico, innovación y apropiación social del conocimiento desarrollados por Ecosistemas de Ciencia y Paz, entendidos como alianzas entre actores de la academia, el sector productivo y la sociedad civil.",
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "objetivo": "Conformar un banco de proyectos elegibles por línea temática para contribuir a la implementación de las misiones de 'Bioeconomía y territorio', 'Derecho humano a la alimentación' y 'Ciencia para la paz', mediante iniciativas de investigación, desarrollo tecnológico, innovación y apropiación social del conocimiento desarrolladas por Ecosistemas de Ciencia y Paz, entendidos como alianzas entre actores de la academia, el sector productivo y la sociedad civil.",
+  "actores_elegibles": [
+    {
+      "tipo": "academia",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "sector productivo",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "sociedad civil",
+      "rol": null,
+      "condicion": null
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento de sistemas agrícolas y/o pesqueros sostenibles",
+      "modalidad": null,
+      "descripcion_corta": "Promueve proyectos que fortalezcan sistemas agrícolas y/o pesqueros sostenibles, impulsando seguridad alimentaria, derecho humano a la alimentación, desarrollo rural y construcción de paz."
+    },
+    {
+      "nombre": "Usos alternativos de planta de cannabis y hoja de coca",
+      "modalidad": null,
+      "descripcion_corta": "Busca proyectos de CTeI que generen nuevos conocimientos a través de investigación básica y aplicada sobre propiedades y usos alternativos, legales y productivos de planta de cannabis y hoja de coca."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Cumplir con las especificaciones del numeral 3-DIRIGIDO A definidas en los presentes términos de referencia.",
+      "texto": "Cumplir con las especificaciones del numeral 3 - Dirigido a definidos en los presentes términos de referencia.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Inscribir y finalizar la inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) a través del formulario en línea en el portal de Minciencias.",
+      "texto": "Inscribir y finalizar la inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) del Ministerio de Ciencia, Tecnología e Innovación.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
@@ -21,138 +48,249 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "Aportar contrapartida en dinero y/o especie por un monto mínimo del 15% del valor solicitado al Ministerio, registrado en el Anexo 1.",
+      "texto": "La alianza deberá aportar una contrapartida en dinero y/o especie por un monto mínimo del 15% del valor solicitado al Ministerio.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si aplica, presentar concepto de un comité de ética/bioética que avale el proyecto, anexando el acto administrativo que soporta la conformación del comité.",
+      "texto": "Si aplica, presentar concepto de un comité de ética/bioética que avale el proyecto, anexando el acto administrativo de conformación del comité.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Diligenciar el Anexo 3 (EXPERIENCIA E IDONEIDAD DE LAS ENTIDADES) y adjuntar soportes que acrediten que la entidad ejecutora ha participado como ejecutora o coejecutora en al menos 2 proyectos de CTeI en los últimos 10 años y que cuenta con al menos un grupo de investigación categoría A1, A, B o C según Convocatoria 894 de 2021.",
+      "texto": "Diligenciar el Anexo 3 – EXPERIENCIA E IDONEIDAD DE LAS ENTIDADES QUE INTEGRAN LA ALIANZA EN CTeI, y adjuntar soportes que acrediten al menos dos (2) proyectos de CTeI ejecutados en los últimos diez (10) años y un grupo de investigación categoría A1, A, B o C.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad ejecutora o sus aliados deben contar con al menos un grupo de investigación reconocido y categorizado en A1, A, B o C a la fecha de apertura de la convocatoria (requisito mínimo no subsanable).",
-      "tipo": "habilitante",
+      "texto": "La entidad ejecutora o sus aliados deben contar con al menos un (1) Grupo de Investigación reconocido y categorizado en A1, A, B o C por Minciencias a la fecha de apertura de la convocatoria.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Demostrar que las entidades del sector productivo que participan han sido establecidas al menos dos años antes del cierre de la convocatoria y no están en proceso de liquidación, adjuntando certificado de existencia y representación legal y acta o documento de no estar en liquidación.",
+      "texto": "Demostrar que las entidades del sector productivo que participen en el proyecto hayan sido establecidas al menos dos (2) años antes del cierre de la convocatoria, mediante certificado de existencia y representación legal y acta de no estar en liquidación.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las organizaciones de base comunitaria deben adjuntar copia actualizada del certificado de Cámara de Comercio o documento equivalente que acredite su existencia y representación legal.",
+      "texto": "Las organizaciones de base comunitaria deben adjuntar copia actualizada del certificado de Cámara de Comercio o documento equivalente que acredite su existencia legal.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para integrantes de la alianza que sean miembros de población negra, afrocolombiana, raizal, palenquera o Rrom, anexar Certificado de Auto Reconocimiento expedido por la Dirección de Asuntos de Comunidades Negras (NARP) del Ministerio del Interior.",
+      "texto": "Para integrantes de población negra, afrocolombiana, raizal, palenquera y Rrom, anexar el Certificado de Auto Reconocimiento expedido por la Dirección de Asuntos de Comunidades Negras, Afrocolombianas, Raizales y Palenqueras (NARP) del Ministerio del Interior.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para integrantes de la alianza que sean miembros de una comunidad indígena, anexar Certificado del Registro de la Autoridad o Cabildo de las Comunidades y/o Resguardos Indígenas expedido por el Ministerio del Interior (no mayor a 30 días calendario previo a la postulación).",
+      "texto": "Para integrantes de comunidades indígenas, anexar el Certificado del Registro de la Autoridad o Cabildo de las Comunidades y/o Resguardos Indígenas expedido por el Ministerio del Interior, no mayor a 30 días calendario previo a la fecha de postulación.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para integrantes de la alianza que sean víctimas del conflicto armado, anexar Certificado expedido por la Unidad para la Atención y Reparación Integral a las Víctimas (con fecha de expedición máxima de 4 años anteriores al cierre de la convocatoria).",
+      "texto": "Para integrantes víctimas del conflicto armado, anexar el Certificado expedido por la Unidad para la Atención y Reparación Integral para las Víctimas, con fecha de expedición máxima de 4 años anteriores al cierre de la convocatoria.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si el proyecto involucra la participación de comunidades indígenas con prácticas asociadas al uso de la hoja de coca, diligenciar y adjuntar manifestación escrita de apoyo (Anexo 9).",
+      "texto": "Si el proyecto involucra comunidades indígenas con prácticas asociadas al uso de la hoja de coca, diligenciar y adjuntar manifestación escrita de apoyo (Anexo 9).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Línea Temática 1: Al menos una entidad de la alianza debe certificar experiencia en la gestión y/o ejecución de al menos dos proyectos de CTeI con organizaciones y/o comunidades campesinas en los últimos 10 años, o un proyecto de CTeI aprobado con recursos del SGR con beneficiarios campesinos.",
+      "texto": "Para la Línea Temática 1: certificar experiencia en al menos dos (2) proyectos de CTeI con comunidades campesinas o un (1) proyecto SGR en los últimos diez (10) años, registrado en Anexo 3.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Línea Temática 2: Al menos una entidad de la alianza debe certificar experiencia en la gestión y/o ejecución de al menos un proyecto de CTeI en temáticas de usos alternativos de planta de cannabis y hoja de coca en los últimos 10 años.",
+      "texto": "Para la Línea Temática 2: certificar experiencia en al menos un (1) proyecto de CTeI en usos alternativos de planta de cannabis y hoja de coca en los últimos diez (10) años, registrado en Anexo 3.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si el proyecto contempla el uso de cannabis, adjuntar el Registro Nacional de Cultivares Comerciales o registro de fuentes semilleras expedido por el ICA.",
+      "texto": "Si el proyecto contempla uso de cannabis, adjuntar el Registro Nacional de Cultivares Comerciales o registro de fuentes semilleras expedido por el ICA.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si el proyecto contempla el uso de cannabis, adjuntar licencia de cultivo de cannabis no psicoactivo vigente que incluya la modalidad de investigación o fines científicos.",
+      "texto": "Si el proyecto contempla uso de cannabis, adjuntar licencia de cultivo de cannabis no psicoactivo vigente (modalidad investigación o fines científicos) y que no cuente con proceso sancionatorio en curso.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Si el proyecto contempla el uso de hoja de coca, adjuntar autorización emitida por el Fondo Nacional de Estupefacientes de acuerdo con la Ley 30 de 1986 y las sentencias correspondientes.",
+      "texto": "Si el proyecto contempla uso de hoja de coca, adjuntar la autorización para su uso emitida por el Fondo Nacional de Estupefacientes.",
       "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En el periodo de ajuste de requisitos no se podrá modificar la información registrada en el formulario SIGP concerniente a la Entidad ejecutora y el Título del proyecto.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El ejecutor es responsable de consultar permanentemente que sus documentos hayan quedado registrados correctamente en el SIGP antes del cierre y durante el periodo de ajuste.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El ejecutor es responsable de garantizar la fiabilidad, coherencia y completitud de la información consignada en el formulario SIGP y en los anexos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Al momento de subsanar un documento, el sistema reemplazará el anteriormente cargado; el proponente debe garantizar que el nuevo documento sea el requerido.",
+      "tipo": "otro",
       "severidad": "obligatorio"
     }
   ],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con los requisitos y condiciones establecidos en los Términos de Referencia y sus anexos, o que estos no se subsanen dentro del período de ajuste de requisitos."
+    },
+    {
+      "texto": "Que la Alianza se presente con la misma conformación en más de un proyecto en esta convocatoria. Solo se tendrá en cuenta el primer proyecto presentado."
+    },
+    {
+      "texto": "Que el proyecto presentado esté financiado simultáneamente con recursos de otra convocatoria del Ministerio de Ciencia, Tecnología e Innovación, del Sistema General de Regalías (SGR) u otra entidad del Estado."
+    },
+    {
+      "texto": "Que la entidad ejecutora o alguno de los aliados se encuentre incurso en una de las causales de inhabilidad, incompatibilidad y prohibiciones establecidas en las leyes vigentes y/o que tenga algún impedimento legal para contratar."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, el proyecto será retirado e inhabilitado del proceso."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad técnico-científica y presupuestal del proyecto",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa congruencia técnica, presupuestal, impacto territorial y niveles de madurez tecnológica (TRL)."
+    },
+    {
+      "nombre": "Contribución del proyecto al desarrollo territorial, regional y nacional para el fortalecimiento de capacidades en materia de CTEI",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la incorporación de componentes de paz, productos de nuevo conocimiento y apropiación social del conocimiento."
+    },
+    {
+      "nombre": "Resultados e impactos del proyecto",
+      "puntaje_max": 16.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa sostenibilidad, transferencia tecnológica y pertinencia e impacto socioeconómico territorial."
+    },
+    {
+      "nombre": "Gobernanza",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa claridad de acuerdos, estructura financiera, administrativa, jurídica, técnica, ética y de propiedad intelectual."
+    },
+    {
+      "nombre": "Enfoque territorial y diferencial",
+      "puntaje_max": 19.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa área geográfica de intervención (PDET/ZOMAC), población con enfoque diferencial e integrantes del equipo ejecutor pertenecientes a población diferencial."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "NUEVE MIL NOVENTA Y OCHO MILLONES CUATROCIENTOS SETENTA Y SEIS MIL OCHOCIENTOS PESOS ($9.098.476.800)",
+    "monto_total_cop": 9098476800.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 12,
+    "contrapartida_pct_min": 15.0,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación - Fondo Francisco José de Caldas",
+    "notas": "Monto máximo por proyecto: $1.516.000.000. Contrapartida mínima del 15% del valor solicitado, excepto para Centros Autónomos reconocidos por Minciencias."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1125,
+        "chars_enviados": 1148,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 552,
-          "completion_tokens": 116
+          "prompt_tokens": 546,
+          "completion_tokens": 114
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4488,
+          "completion_tokens": 327
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 10121,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3313,
+          "completion_tokens": 181
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 12269,
+        "chars_enviados": 12582,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4207,
-          "completion_tokens": 3277
+          "prompt_tokens": 4272,
+          "completion_tokens": 2690
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1646,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 815,
+          "completion_tokens": 1212
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3664,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1549,
+          "completion_tokens": 692
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13180,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4268,
+          "completion_tokens": 352
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -160,30 +298,17 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "solo_en_alianza",
-        "rol_sugerido": "ejecutora",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Contar con al menos un grupo de investigación categorizado A1, A, B o C según Convocatoria 894 de 2021",
-          "Aportar contrapartida mínima del 15% del valor solicitado",
-          "Cumplir con los requisitos documentales (carta de aval, compromiso institucional, modelo de gobernanza, etc.)"
-        ],
-        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse en alianza con otros actores (academia, sector productivo, sociedad civil) para la convocatoria de Ecosistemas de Ciencia y Paz. Debe verificar que cuenta con grupos de investigación categorizados y cumplir con los requisitos de contrapartida y documentación."
+        "": 1
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "solo_en_alianza",
-      "rol_sugerido": "ejecutora",
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
       "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Contar con al menos un grupo de investigación categorizado A1, A, B o C según Convocatoria 894 de 2021",
-        "Aportar contrapartida mínima del 15% del valor solicitado",
-        "Cumplir con los requisitos documentales (carta de aval, compromiso institucional, modelo de gobernanza, etc.)"
-      ],
-      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse en alianza con otros actores (academia, sector productivo, sociedad civil) para la convocatoria de Ecosistemas de Ciencia y Paz. Debe verificar que cuenta con grupos de investigación categorizados y cumplir con los requisitos de contrapartida y documentación.",
+      "condiciones_a_verificar": [],
+      "resumen": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "fuente": "reglas+llm"
     }
   }

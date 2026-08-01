@@ -1,53 +1,337 @@
 {
   "convocatoria": "968",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "objetivo": "Calificar proyectos de investigación científica, desarrollo e innovación ejecutados por organizaciones colombianas reconocidas, para que el personal vinculado acceda al Beneficio Tributario de Ingresos No Constitutivos de Renta, según el artículo 57-2 del Estatuto Tributario.",
+  "actores_elegibles": [
+    {
+      "tipo": "Organización ejecutora",
+      "rol": "ejecutora",
+      "condicion": "Haber realizado proyectos de CTeI y haber involucrado personas naturales nacionales y/o extranjeras declarantes del impuesto de renta en Colombia para el desarrollo de actividades directas de I+D+i durante la vigencia 2024, según criterios del Consejo Nacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación y el artículo 57-2 del E.T."
+    },
+    {
+      "tipo": "Organización coejecutora",
+      "rol": "coejecutora",
+      "condicion": "Haber realizado proyectos de CTeI y haber involucrado personas naturales nacionales y/o extranjeras declarantes del impuesto de renta en Colombia para el desarrollo de actividades directas de I+D+i durante la vigencia 2024, según criterios del Consejo Nacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación y el artículo 57-2 del E.T."
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Por la Transición energética justa",
+      "modalidad": null,
+      "descripcion_corta": "Impulsa energías limpias y tecnologías sostenibles con inclusión social y justicia ambiental."
+    },
+    {
+      "nombre": "Por la Agro industrialización y soberanía alimentaria",
+      "modalidad": null,
+      "descripcion_corta": "Fortalece el campo y la producción local para garantizar el acceso a alimentos y reducir la dependencia externa."
+    },
+    {
+      "nombre": "Por la Reindustrialización en el sector salud",
+      "modalidad": null,
+      "descripcion_corta": "Desarrolla la industria nacional de medicamentos y tecnología médica para asegurar autonomía sanitaria."
+    },
+    {
+      "nombre": "Por la Reindustrialización para la defensa y la vida",
+      "modalidad": null,
+      "descripcion_corta": "Fomenta capacidades industriales en sectores estratégicos con innovación para seguridad y bienestar social."
+    },
+    {
+      "nombre": "Por los Territorios y su tejido empresarial",
+      "modalidad": null,
+      "descripcion_corta": "Apoya MiPymes y economías locales para integrar los territorios al desarrollo productivo con enfoque regional."
+    },
+    {
+      "nombre": "Bioeconomía y territorio",
+      "modalidad": null,
+      "descripcion_corta": "Aprovechar el conocimiento, conservación y uso sostenible de la biodiversidad, sus bienes y servicios ecosistémicos."
+    },
+    {
+      "nombre": "Derecho humano a la alimentación",
+      "modalidad": null,
+      "descripcion_corta": "Impulsar y ordenar la producción agroalimentaria, de forma eficiente, soberana, autónoma y equitativa."
+    },
+    {
+      "nombre": "Transición energética",
+      "modalidad": null,
+      "descripcion_corta": "Contribuir en el proceso de transformación productiva asociada a la transición energética, en el desarrollo sostenible e incluyente de los territorios y en los procesos de apropiación y aceptación social."
+    },
+    {
+      "nombre": "Soberanía sanitaria y bienestar social",
+      "modalidad": null,
+      "descripcion_corta": "Garantizar la soberanía sanitaria, la salud y el bienestar social de la población en todo el territorio nacional."
+    },
+    {
+      "nombre": "Ciencia para la paz",
+      "modalidad": null,
+      "descripcion_corta": "Promover la ciencia y la tecnología como instrumentos para el desarrollo sostenible, la paz en general y el bienestar de las comunidades."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDA A' de los Términos de Referencia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos del Ministerio de Ciencia, Tecnología e Innovación – SIGP, a través del formulario en línea.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar completamente diligenciada la ficha de caracterización de personal científico (Anexo 2), con certificación correspondiente por persona.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de presentación, aval y aceptación de compromisos por la cual se solicita el beneficio tributario, firmada por el representante legal de la entidad ejecutora y co-ejecutora (si aplica) y el actor que da aval (Anexo 1).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el aval del Comité de Ética/Bioética de la institución que presenta el proyecto, cuando aplique, especificando la revisión y aval ético. Si no cuenta con comité, aval de otra entidad con acto administrativo que soporte su conformación.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades participantes deben estar legalmente constituidas en Colombia y demostrarlo mediante certificado de existencia y representación legal vigente (expedido en los últimos 90 días a la fecha de apertura).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Toda la documentación debe presentarse en formato digital PDF y la totalidad de archivos no debe exceder un tamaño de 3MB.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "En la etapa de subsanación no se podrá modificar la información registrada en el formulario SIGP concerniente al título de la propuesta, la línea temática y los integrantes de la alianza.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Enfoque diferencial (opcional): adjuntar soporte correspondiente según lo indicado en la tabla del numeral 6 de los TdR.",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "No estar inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidas en la Constitución, la ley y reglamentos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán presentar y avalar personal vinculado para el acceso al beneficio tributario las entidades que no estén legalmente constituidas en Colombia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional las remuneraciones que no sean provenientes de proyectos de ciencia, tecnología e innovación.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que reciba el contribuyente que provengan de actividades ilícitas.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No podrán ser declarados como Ingresos No Constitutivos de Renta y/o Ganancia Ocasional los recursos que reciba el contribuyente por concepto de representación legal.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y la normatividad vigente, o que éstos no se subsanen dentro de los plazos establecidos en el cronograma.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Estar inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidas en la Constitución, en la ley, reglamentos, entre otros.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "No cumplir con lo establecido en el numeral 3 'DIRIGIDA A' de los presentes Términos de Referencia."
+    },
+    {
+      "texto": "No haber inscrito el proyecto en el Sistema Integrado de Gestión de Proyectos del Ministerio de Ciencia, Tecnología e Innovación – SIGP, a través del formulario en línea disponible en el portal del Ministerio de Ciencia, Tecnología e Innovación (www.minciencias.gov.co)."
+    },
+    {
+      "texto": "No adjuntar completamente diligenciada la ficha (texto truncado)."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad del proyecto (Investigación)",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa coherencia, novedad, metodología y equipo del proyecto de investigación."
+    },
+    {
+      "nombre": "Pertinencia del proyecto (Investigación)",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa contribución al conocimiento, transferencia y cumplimiento regulatorio."
+    },
+    {
+      "nombre": "Impacto potencial del proyecto (Investigación)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa aporte científico, resultados medibles e impactos a corto, mediano y largo plazo."
+    },
+    {
+      "nombre": "Puntaje adicional (Investigación)",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje adicional por contribuir a PND, PIIOM, enfoque diferencial o territorial."
+    },
+    {
+      "nombre": "Calidad del proyecto (Desarrollo)",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa coherencia, novedad, metodología y equipo del proyecto de desarrollo."
+    },
+    {
+      "nombre": "Pertinencia del proyecto (Desarrollo)",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa contribución al sector productivo, uso de conocimiento y cumplimiento regulatorio."
+    },
+    {
+      "nombre": "Impacto potencial del proyecto (Desarrollo)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa materialización de conocimiento, resultados medibles e impactos."
+    },
+    {
+      "nombre": "Puntaje adicional (Desarrollo)",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje adicional por contribuir a PND, PIIOM, enfoque diferencial o territorial."
+    },
+    {
+      "nombre": "Calidad del proyecto (Innovación)",
+      "puntaje_max": 40.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa coherencia, novedad, metodología y equipo del proyecto de innovación."
+    },
+    {
+      "nombre": "Pertinencia del proyecto (Innovación)",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa contribución al sector productivo, transferencia y cumplimiento regulatorio."
+    },
+    {
+      "nombre": "Impacto potencial del proyecto (Innovación)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa introducción al mercado, resultados medibles, impactos y sostenibilidad."
+    },
+    {
+      "nombre": "Puntaje adicional (Innovación)",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Puntaje adicional por contribuir a PND, PIIOM, enfoque diferencial o territorial."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": null
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 996,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 515,
+          "completion_tokens": 73
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 629,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 473,
+          "completion_tokens": 2836
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2453,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 934,
+          "completion_tokens": 947
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6272,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2080,
+          "completion_tokens": 2656
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4230,
+          "completion_tokens": 478
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2461,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1083,
+          "completion_tokens": 92
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4293,
+          "completion_tokens": 685
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -55,30 +339,26 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "elegible_con_condiciones",
-        "rol_sugerido": "ejecutora",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Verificar experiencia en proyectos SGR si aplica",
-          "Verificar capacidad de contrapartida"
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible; solo organizaciones ejecutoras/coejecutoras con proyectos de CTeI que hayan involucrado declarantes de renta."
         ],
-        "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse a convocatorias Minciencias, pero se deben verificar condiciones específicas como grupos de investigación, experiencia regional y capacidad de contrapartida según los requisitos de la convocatoria."
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria de beneficios tributarios, ya que los actores elegibles son organizaciones ejecutoras/coejecutoras con proyectos de CTeI que hayan vinculado declarantes de renta. No se listan IES/universidades como actores elegibles."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
-      "rol_sugerido": "ejecutora",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Verificar experiencia en proyectos SGR si aplica",
-        "Verificar capacidad de contrapartida"
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo organizaciones ejecutoras/coejecutoras con proyectos de CTeI que hayan involucrado declarantes de renta."
       ],
-      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse a convocatorias Minciencias, pero se deben verificar condiciones específicas como grupos de investigación, experiencia regional y capacidad de contrapartida según los requisitos de la convocatoria.",
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria de beneficios tributarios, ya que los actores elegibles son organizaciones ejecutoras/coejecutoras con proyectos de CTeI que hayan vinculado declarantes de renta. No se listan IES/universidades como actores elegibles.",
       "fuente": "reglas+llm"
     }
   }

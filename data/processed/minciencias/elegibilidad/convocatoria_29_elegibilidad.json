@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos CTeI del SGR (según requisito muestra)."
+      ],
+      "resumen": "Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como proponente individual en esta convocatoria, dado que las IES están incluidas en los actores elegibles. Debe verificar el cumplimiento del requisito de experiencia mínima en proyectos de CTeI."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Experiencia en al menos 1 proyecto de CTeI en los últimos 5 años o 1 proyecto con recursos CTeI del SGR (según requisito muestra)."
+    ],
+    "resumen": "Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como proponente individual en esta convocatoria, dado que las IES están incluidas en los actores elegibles. Debe verificar el cumplimiento del requisito de experiencia mínima en proyectos de CTeI.",
+    "fuente": "reglas+llm"
+  }
+}

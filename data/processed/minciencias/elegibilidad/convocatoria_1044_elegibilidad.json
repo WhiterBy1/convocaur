@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
+        "Verificar experiencia en proyectos regionales (SGR) si aplica",
+        "Verificar capacidad de contrapartida"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
+      "Verificar experiencia en proyectos regionales (SGR) si aplica",
+      "Verificar capacidad de contrapartida"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida.",
+    "fuente": "reglas+llm"
+  }
+}

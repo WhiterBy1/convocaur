@@ -1,0 +1,55 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "elegible_alianza_indefinida",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) aparece como elegible; no esta claro si la alianza es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "instituciones de educación superior",
+        "rol": "ejecutoras",
+        "condicion": "con programas doctorales nacionales con registro calificado vigente"
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Contar con programas de doctorado con registro calificado vigente",
+        "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP",
+        "Acreditar experiencia en proyectos de formación de alto nivel o administración de beneficios educativos o proyectos CTeI con SGR relacionados con formación",
+        "Presentar carta de aval y modelo de gobernanza firmado por representantes legales de todas las entidades de la alianza"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse en esta convocatoria, pero debe hacerlo en alianza con al menos otra IES que cuente con programas doctorales con registro calificado. Se sugiere que actúe como entidad ejecutora, sujeto a verificación de condiciones específicas como acreditación IGPR y experiencia en proyectos de formación."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Contar con programas de doctorado con registro calificado vigente",
+      "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP",
+      "Acreditar experiencia en proyectos de formación de alto nivel o administración de beneficios educativos o proyectos CTeI con SGR relacionados con formación",
+      "Presentar carta de aval y modelo de gobernanza firmado por representantes legales de todas las entidades de la alianza"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse en esta convocatoria, pero debe hacerlo en alianza con al menos otra IES que cuente con programas doctorales con registro calificado. Se sugiere que actúe como entidad ejecutora, sujeto a verificación de condiciones específicas como acreditación IGPR y experiencia en proyectos de formación.",
+    "fuente": "reglas+llm"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "miembro de alianza",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Universidad o Institución Universitaria acreditada",
+        "rol": "miembro de alianza",
+        "condicion": "Personería jurídica vigente del MEN, representada por grupo o centro de investigación. Debe acreditar desempeño adecuado según DNP, salvo que no haya sido medida."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Personería jurídica vigente del MEN, representada por grupo o centro de investigación. Debe acreditar desempeño adecuado según DNP, salvo que no haya sido medida.",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Personería jurídica vigente del MEN",
+        "Acreditar desempeño adecuado según DNP (IGPR) o no haber sido medido",
+        "Contar con al menos un grupo de investigación categoría A1, A o B según Minciencias"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianzas obligatorias, por lo que solo puede participar como miembro de una alianza, no en solitario. Debe verificar su personería jurídica, desempeño en el IGPR y disponibilidad de grupos de investigación categorizados."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Personería jurídica vigente del MEN",
+      "Acreditar desempeño adecuado según DNP (IGPR) o no haber sido medido",
+      "Contar con al menos un grupo de investigación categoría A1, A o B según Minciencias"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianzas obligatorias, por lo que solo puede participar como miembro de una alianza, no en solitario. Debe verificar su personería jurídica, desempeño en el IGPR y disponibilidad de grupos de investigación categorizados.",
+    "fuente": "reglas+llm"
+  }
+}

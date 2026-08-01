@@ -56,6 +56,13 @@ ORDEN_CLAVES = [
 # antes de validar cada item por separado.
 _ALIAS_ITEM = {"text": "texto"}
 
+_TIPO_REQUISITO_VALIDOS = {"habilitante", "documental", "tecnico", "financiero", "alianza", "otro"}
+
+
+def _sin_tildes(texto: str) -> str:
+    texto = unicodedata.normalize("NFKD", texto)
+    return "".join(c for c in texto if not unicodedata.combining(c))
+
 
 def _validar_items(modelo: type[BaseModel], items: list, convocatoria: str, clave: str) -> list[dict]:
     """Valida cada item de una lista contra su modelo Pydantic por separado.
@@ -74,6 +81,14 @@ def _validar_items(modelo: type[BaseModel], items: list, convocatoria: str, clav
         for viejo, nuevo in _ALIAS_ITEM.items():
             if viejo in item_norm and nuevo not in item_norm:
                 item_norm[nuevo] = item_norm.pop(viejo)
+        # El LLM a veces devuelve "tipo" de Requisito con tilde (ej.
+        # "técnico" en vez de "tecnico"), lo que no matchea el Literal
+        # exacto y descartaba el item entero. Se normaliza solo si el
+        # resultado sin tilde es un valor valido.
+        if modelo is Requisito and isinstance(item_norm.get("tipo"), str):
+            candidato = _sin_tildes(item_norm["tipo"]).strip().lower()
+            if candidato in _TIPO_REQUISITO_VALIDOS:
+                item_norm["tipo"] = candidato
         try:
             modelo.model_validate(item_norm)
         except ValidationError as exc:
@@ -102,6 +117,12 @@ def merge_parciales(convocatoria: str, parciales: dict[str, dict]) -> Extraccion
         if not res.get("ok"):
             continue
         data = res.get("data") or {}
+        if not isinstance(data, dict):
+            log.warning(
+                "Conv %s: %s devolvio un tipo inesperado (%s) en vez de un objeto, se ignora",
+                convocatoria, clave, type(data).__name__,
+            )
+            continue
         if clave == "objetivo":
             base["objetivo"] = data.get("objetivo")
         elif clave == "dirigida_a":

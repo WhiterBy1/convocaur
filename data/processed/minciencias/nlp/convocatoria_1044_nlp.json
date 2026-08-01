@@ -4,39 +4,211 @@
   "actores_elegibles": [],
   "alianza_obligatoria": null,
   "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "requisitos": [
+    {
+      "texto": "Presentar la propuesta exclusivamente a través del formulario electrónico en el enlace https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/?faces-redirect=true",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar la propuesta a más tardar el 20 de enero de 2023 antes de las 4:00 p.m.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La propuesta debe estar escrita en idioma español",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las cifras de la propuesta deben estar expresadas en pesos colombianos",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con la totalidad de los requisitos mínimos establecidos en la presente invitación",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Ajustarse a las especificaciones de las condiciones técnicas del Anexo 1",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir la relación entre objetivos, resultados y documentos a entregar según el Anexo 2",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Incluir la Carta Aval Institucional según el modelo del Anexo 3",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El valor de la propuesta no debe exceder los $490.000.000 COP",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El plazo de ejecución propuesto no debe exceder los 6 meses contados a partir de la legalización del contrato",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad seleccionada deberá constituir una póliza de cumplimiento por una cuantía equivalente al 20% del valor del contrato y con vigencia igual al plazo del contrato más 12 meses",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad seleccionada deberá constituir una póliza de salarios, prestaciones sociales e indemnizaciones por un valor equivalente al 10% del valor del contrato y con vigencia igual al plazo del contrato más 3 años",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad seleccionada deberá entregar la garantía única de cumplimiento dentro de los 3 días hábiles siguientes a la fecha de suscripción del contrato, junto con el recibo de pago",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad seleccionada deberá mantener la garantía vigente durante el plazo de ejecución del contrato y pagar las primas y cualquier otra expensa necesaria para constituirla, mantenerla, prorrogarla o adicionarla",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La entidad proponente debe tener capacidad jurídica para suscribir contratos y ejecutar el objeto de la invitación",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Propuestas presentadas por fuera de las fechas, horas y canales indicados en los términos de esta invitación (extemporáneas)."
+    },
+    {
+      "texto": "Incumplimiento de la totalidad de los requisitos mínimos establecidos en la invitación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la propuesta",
+      "puntaje_max": 30.0,
+      "peso_pct": 30.0,
+      "descripcion": "Evalúa coherencia interna entre objetivos, actividades, recursos, cronograma, resultados y productos; claridad conceptual y metodológica."
+    },
+    {
+      "nombre": "Equipo técnico",
+      "puntaje_max": 25.0,
+      "peso_pct": 25.0,
+      "descripcion": "Evalúa experiencia del director (mínimo 5 años en dirección/coordinación de estudios, políticas o proyectos de CTI), experiencia del equipo en formulación/evaluación de políticas públicas o implementación de planes de CTI, y experiencia administrativa de la entidad proponente."
+    },
+    {
+      "nombre": "Productos esperados",
+      "puntaje_max": 20.0,
+      "peso_pct": 20.0,
+      "descripcion": "Evalúa definición clara y verificable de los productos, ajuste a los entregables del anexo 1, y relación entre actividades, productos y documentos a entregar."
+    },
+    {
+      "nombre": "Propuesta económica",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Evalúa el valor de la oferta y la concordancia entre presupuesto, actividades y objetivos, así como la justificación de rubros, cantidades y montos."
+    },
+    {
+      "nombre": "Valor agregado",
+      "puntaje_max": 15.0,
+      "peso_pct": 15.0,
+      "descripcion": "Evalúa ofrecimientos adicionales no contemplados en la invitación, como productos, entregables o análisis adicionales, y su claridad en relación con los términos de referencia."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 6,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "El plazo máximo de ejecución es de 6 meses. No se encontró información sobre monto, contrapartida ni fuente de recursos en el texto proporcionado."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9547,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3095,
+          "completion_tokens": 82
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9547,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3184,
+          "completion_tokens": 666
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9547,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3154,
+          "completion_tokens": 12
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9547,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3235,
+          "completion_tokens": 4063
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9547,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3131,
+          "completion_tokens": 71
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1154,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 738,
+          "completion_tokens": 114
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3661,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1388,
+          "completion_tokens": 3233
+        }
       }
     }
   },
@@ -56,29 +228,29 @@
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
-        "rol_sugerido": "ejecutora",
+        "modo": "elegible_con_condiciones",
+        "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Disponibilidad de grupos de investigación registrados y categorizados en Minciencias",
-          "Capacidad financiera para contrapartida si la convocatoria lo exige",
-          "Experiencia regional específica si la convocatoria es por SGR"
+          "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
+          "Verificar experiencia en proyectos regionales (SGR) si aplica",
+          "Verificar capacidad de contrapartida"
         ],
-        "resumen": "Universidad del Rosario, como IES privada acreditada reconocida en SNCTI, cumple requisitos básicos para postularse a convocatorias Minciencias. Se debe verificar disponibilidad de grupos de investigación registrados y capacidad de contrapartida."
+        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
-      "rol_sugerido": "ejecutora",
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Disponibilidad de grupos de investigación registrados y categorizados en Minciencias",
-        "Capacidad financiera para contrapartida si la convocatoria lo exige",
-        "Experiencia regional específica si la convocatoria es por SGR"
+        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
+        "Verificar experiencia en proyectos regionales (SGR) si aplica",
+        "Verificar capacidad de contrapartida"
       ],
-      "resumen": "Universidad del Rosario, como IES privada acreditada reconocida en SNCTI, cumple requisitos básicos para postularse a convocatorias Minciencias. Se debe verificar disponibilidad de grupos de investigación registrados y capacidad de contrapartida.",
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida.",
       "fuente": "reglas+llm"
     }
   }

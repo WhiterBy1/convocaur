@@ -1,0 +1,48 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "No se encontraron actores elegibles en el contexto. La convocatoria requiere al menos un proyecto CTel con experiencia en los últimos 5 años o con recursos SGR, y la IES no ha demostrado cumplir con los requisitos específicos de la convocatoria (como acreditación IGPR, carta de aval, etc.)."
+      ],
+      "condiciones_a_verificar": [
+        "Verificar si la IES cuenta con proyectos CTel en los últimos 5 años o con recursos SGR (según Anexo 5).",
+        "Demostrar acreditación del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP.",
+        "Adjuntar carta de aval y modelo de gobernanza firmados.",
+        "Cumplir con los requisitos documentales y financieros detallados en la convocatoria."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada con sede en Bogotá y reconocida en el SNCTI, no puede postularse a esta convocatoria porque no se ha verificado que tenga experiencia en proyectos CTel recientes ni que cumpla con los requisitos específicos del 'Dirigido a' de la convocatoria. Se requiere validar su capacidad institucional y documentación adicional."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "No se encontraron actores elegibles en el contexto. La convocatoria requiere al menos un proyecto CTel con experiencia en los últimos 5 años o con recursos SGR, y la IES no ha demostrado cumplir con los requisitos específicos de la convocatoria (como acreditación IGPR, carta de aval, etc.)."
+    ],
+    "condiciones_a_verificar": [
+      "Verificar si la IES cuenta con proyectos CTel en los últimos 5 años o con recursos SGR (según Anexo 5).",
+      "Demostrar acreditación del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología DNP.",
+      "Adjuntar carta de aval y modelo de gobernanza firmados.",
+      "Cumplir con los requisitos documentales y financieros detallados en la convocatoria."
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada con sede en Bogotá y reconocida en el SNCTI, no puede postularse a esta convocatoria porque no se ha verificado que tenga experiencia en proyectos CTel recientes ni que cumpla con los requisitos específicos del 'Dirigido a' de la convocatoria. Se requiere validar su capacidad institucional y documentación adicional.",
+    "fuente": "reglas+llm"
+  }
+}

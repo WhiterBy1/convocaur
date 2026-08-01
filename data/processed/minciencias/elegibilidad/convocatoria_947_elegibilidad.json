@@ -1,0 +1,81 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) pública o privada con acreditación institucional de alta calidad",
+        "rol": "Entidad ejecutora",
+        "condicion": "Debe tener programa de educación con registro calificado, experiencia en al menos un proyecto del Programa Ondas, domicilio en Colombia, y solo puede participar bajo un rol y con una sola propuesta."
+      },
+      {
+        "tipo": "Institución de Educación Superior (IES) (Técnicas Profesionales, Tecnológicas, Universitarias o Escuelas Tecnológicas, Universidades)",
+        "rol": "Entidad aliada",
+        "condicion": "Debe tener domicilio en al menos uno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) garantizando presencia en al menos cuatro de ellos, experiencia en al menos un proyecto de CTI, estar registrada en SIGP, y no estar en liquidación o reestructuración. No se cuentan sedes o seccionales de la IES ejecutora ni sus centros de investigación o desarrollo tecnológico."
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Debe tener programa de educación con registro calificado, experiencia en al menos un proyecto del Programa Ondas, domicilio en Colombia, y solo puede participar bajo un rol y con una sola propuesta.",
+        "riesgo": "territorio",
+        "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+      },
+      {
+        "condicion": "Debe tener programa de educación con registro calificado, experiencia en al menos un proyecto del Programa Ondas, domicilio en Colombia, y solo puede participar bajo un rol y con una sola propuesta.",
+        "riesgo": "experiencia",
+        "nota": "Validar experiencia acreditada en CTeI/regiones."
+      },
+      {
+        "condicion": "Debe tener domicilio en al menos uno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) garantizando presencia en al menos cuatro de ellos, experiencia en al menos un proyecto de CTI, estar registrada en SIGP, y no estar en liquidación o reestructuración. No se cuentan sedes o seccionales de la IES ejecutora ni sus centros de investigación o desarrollo tecnológico.",
+        "riesgo": "territorio",
+        "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+      },
+      {
+        "condicion": "Debe tener domicilio en al menos uno de los departamentos focalizados (Bolívar, Antioquia, Tolima, Huila, Nariño, Putumayo) garantizando presencia en al menos cuatro de ellos, experiencia en al menos un proyecto de CTI, estar registrada en SIGP, y no estar en liquidación o reestructuración. No se cuentan sedes o seccionales de la IES ejecutora ni sus centros de investigación o desarrollo tecnológico.",
+        "riesgo": "experiencia",
+        "nota": "Validar experiencia acreditada en CTeI/regiones."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Tener programa de educación con registro calificado al cierre de la convocatoria.",
+        "Experiencia en al menos un proyecto del Programa Ondas (adjuntar actas de liquidación).",
+        "Domicilio en Colombia (certificado MEN vigente).",
+        "No participar en más de una propuesta (único rol)."
+      ],
+      "resumen": "Universidad del Rosario, como IES privada con acreditación institucional, es elegible para postularse como entidad ejecutora en alianza con otras entidades aliadas que cumplan requisitos de domicilio regional. Debe verificar que cuenta con programa de educación con registro calificado y experiencia en el Programa Ondas, y que se presenta bajo un solo rol y una única propuesta."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Tener programa de educación con registro calificado al cierre de la convocatoria.",
+      "Experiencia en al menos un proyecto del Programa Ondas (adjuntar actas de liquidación).",
+      "Domicilio en Colombia (certificado MEN vigente).",
+      "No participar en más de una propuesta (único rol)."
+    ],
+    "resumen": "Universidad del Rosario, como IES privada con acreditación institucional, es elegible para postularse como entidad ejecutora en alianza con otras entidades aliadas que cumplan requisitos de domicilio regional. Debe verificar que cuenta con programa de educación con registro calificado y experiencia en el Programa Ondas, y que se presenta bajo un solo rol y una única propuesta.",
+    "fuente": "reglas+llm"
+  }
+}

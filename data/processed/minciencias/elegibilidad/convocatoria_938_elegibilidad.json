@@ -1,0 +1,67 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "confianza": "media",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES) nacional con acreditación institucional de alta calidad vigente",
+        "rol": "Ejecutora o Coejecutora",
+        "condicion": "Acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria"
+      },
+      {
+        "tipo": "IES nacional no acreditada",
+        "rol": "Co-ejecutora",
+        "condicion": null
+      }
+    ],
+    "condiciones_pendientes": [
+      {
+        "condicion": "Acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+        "riesgo": "acreditacion",
+        "nota": "Verificar vigencia de acreditacion institucional/programas."
+      },
+      {
+        "condicion": "Acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+        "riesgo": "grupos_minciencias",
+        "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+      }
+    ],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+        "Contar con grupos de investigación categorizados por Minciencias (cruzar con capacidad institucional)"
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada con acreditación institucional, reconocida en el SNCTI, y puede postularse como ejecutora en alianza obligatoria. Debe verificar la vigencia de su acreditación y la existencia de grupos de investigación categorizados."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Acreditación institucional de alta calidad vigente a la fecha de cierre de la convocatoria",
+      "Contar con grupos de investigación categorizados por Minciencias (cruzar con capacidad institucional)"
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada con acreditación institucional, reconocida en el SNCTI, y puede postularse como ejecutora en alianza obligatoria. Debe verificar la vigencia de su acreditación y la existencia de grupos de investigación categorizados.",
+    "fuente": "reglas+llm"
+  }
+}

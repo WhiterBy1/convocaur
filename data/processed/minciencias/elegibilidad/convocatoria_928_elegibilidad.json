@@ -1,0 +1,51 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "elegible_alianza_indefinida",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) aparece como elegible; no esta claro si la alianza es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Instituciones de Educación Superior",
+        "rol": null,
+        "condicion": null
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "elegible_con_condiciones",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar si la convocatoria exige postulación en alianza o permite participación individual.",
+        "Verificar que la universidad cumpla con los requisitos documentales y técnicos (registro SIGP, carta de aval, etc.)."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria de estancias postdoctorales internacionales. Sin embargo, se debe confirmar si la convocatoria exige participación en alianza o permite postulación individual. Se recomienda verificar los requisitos documentales y técnicos antes de la inscripción."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar si la convocatoria exige postulación en alianza o permite participación individual.",
+      "Verificar que la universidad cumpla con los requisitos documentales y técnicos (registro SIGP, carta de aval, etc.)."
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria de estancias postdoctorales internacionales. Sin embargo, se debe confirmar si la convocatoria exige participación en alianza o permite postulación individual. Se recomienda verificar los requisitos documentales y técnicos antes de la inscripción.",
+    "fuente": "reglas+llm"
+  }
+}

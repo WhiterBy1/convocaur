@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo revistas científicas colombianas editadas por entidades avaladoras pueden participar."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, como IES privada, no es un actor elegible en esta convocatoria dirigida a revistas científicas colombianas. Por lo tanto, no puede postularse ni como proponente ni como aliado."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible; solo revistas científicas colombianas editadas por entidades avaladoras pueden participar."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario, como IES privada, no es un actor elegible en esta convocatoria dirigida a revistas científicas colombianas. Por lo tanto, no puede postularse ni como proponente ni como aliado.",
+    "fuente": "reglas+llm"
+  }
+}

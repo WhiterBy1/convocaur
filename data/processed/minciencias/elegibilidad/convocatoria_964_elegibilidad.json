@@ -1,0 +1,40 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria está dirigida a profesionales docentes o directivos docentes de subregiones específicas de Nariño, no a instituciones de educación superior.",
+        "Universidad del Rosario no es un actor elegible según los términos de referencia."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está diseñada para profesionales docentes y directivos docentes de subregiones de Nariño, no para IES. La universidad no figura como actor elegible en los términos de referencia."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria está dirigida a profesionales docentes o directivos docentes de subregiones específicas de Nariño, no a instituciones de educación superior.",
+      "Universidad del Rosario no es un actor elegible según los términos de referencia."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está diseñada para profesionales docentes y directivos docentes de subregiones de Nariño, no para IES. La universidad no figura como actor elegible en los términos de referencia.",
+    "fuente": "reglas+llm"
+  }
+}

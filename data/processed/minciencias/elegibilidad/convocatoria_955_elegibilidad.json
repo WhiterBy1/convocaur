@@ -1,0 +1,51 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "elegible_alianza_indefinida",
+    "rol_sugerido": "ejecutora",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) aparece como elegible; no esta claro si la alianza es obligatoria.",
+    "actores_ies_match": [
+      {
+        "tipo": "Universidades",
+        "rol": null,
+        "condicion": "Debe ser una entidad legalmente constituida en Colombia, haber ejecutado proyectos de CTI e involucrado personas naturales declarantes de impuesto de renta en Colombia en 2023"
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la Universidad del Rosario cumpla con los requisitos de entidad legalmente constituida, ejecución de proyectos CTI y vinculación de personas naturales declarantes de renta en 2023.",
+        "Confirmar que la IES cuenta con grupos de investigación reconocidos por Minciencias y capacidad para ejecutar el proyecto."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible para postularse como ejecutora en esta convocatoria de beneficio tributario. No se requiere alianza obligatoria, pero se deben verificar los requisitos generales de elegibilidad y la capacidad institucional."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la Universidad del Rosario cumpla con los requisitos de entidad legalmente constituida, ejecución de proyectos CTI y vinculación de personas naturales declarantes de renta en 2023.",
+      "Confirmar que la IES cuenta con grupos de investigación reconocidos por Minciencias y capacidad para ejecutar el proyecto."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada, reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible para postularse como ejecutora en esta convocatoria de beneficio tributario. No se requiere alianza obligatoria, pero se deben verificar los requisitos generales de elegibilidad y la capacidad institucional.",
+    "fuente": "reglas+llm"
+  }
+}

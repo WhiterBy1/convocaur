@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible; solo profesionales universitarios con lugar de nacimiento en la Región Pacífico y que inicien estudios en la Universidad Santiago de Cali."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a profesionales universitarios nacidos en municipios de la Región Pacífico que cursen maestría o doctorado en la Universidad Santiago de Cali. Las IES no figuran como actores elegibles."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible; solo profesionales universitarios con lugar de nacimiento en la Región Pacífico y que inicien estudios en la Universidad Santiago de Cali."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a profesionales universitarios nacidos en municipios de la Región Pacífico que cursen maestría o doctorado en la Universidad Santiago de Cali. Las IES no figuran como actores elegibles.",
+    "fuente": "reglas+llm"
+  }
+}

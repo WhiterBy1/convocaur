@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "No se encontraron actores elegibles en los datos extraídos para determinar la elegibilidad."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero no se cuenta con información sobre actores elegibles ni requisitos específicos de la convocatoria que permitan confirmar su postulación. Se requiere validar la capacidad institucional y las condiciones particulares de la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "No se encontraron actores elegibles en los datos extraídos para determinar la elegibilidad."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero no se cuenta con información sobre actores elegibles ni requisitos específicos de la convocatoria que permitan confirmar su postulación. Se requiere validar la capacidad institucional y las condiciones particulares de la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

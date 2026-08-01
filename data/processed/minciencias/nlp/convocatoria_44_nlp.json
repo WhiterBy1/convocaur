@@ -1,84 +1,324 @@
 {
   "convocatoria": "44",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
-  "requisitos": [],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "objetivo": "Impulsar la consolidación de proyectos estratégicos de formación de capital humano que respondan a los retos en Ciencia, Tecnología e Innovación establecidos en el Plan de Convocatorias 2025-2026, mediante el otorgamiento de apoyos económicos a profesionales en programas de maestrías de investigación, especializaciones médico quirúrgicas y doctorados nacionales para que inicien su formación de alto nivel en el país.",
+  "actores_elegibles": [
+    {
+      "tipo": "Institución de Educación Superior (IES) colombiana",
+      "rol": "proponente",
+      "condicion": "pública o privada según artículo 54 de la Ley 2056 de 2020"
+    },
+    {
+      "tipo": "Institución de Educación Superior (IES) colombiana",
+      "rol": "miembro de alianza",
+      "condicion": "debe pertenecer a departamento diferente dentro de la misma región"
+    }
+  ],
+  "alianza_obligatoria": true,
+  "lineas_tematicas": [
+    {
+      "nombre": "Maestría de investigación",
+      "modalidad": null,
+      "descripcion_corta": "Programa conducente al título de Magíster, nivel 7 CINE, con registro calificado, que desarrolla competencias científicas y formación avanzada en investigación o creación."
+    },
+    {
+      "nombre": "Especialización médico quirúrgica",
+      "modalidad": null,
+      "descripcion_corta": "Programa de profundización en un área específica de la medicina, con registro calificado, que combina teoría y práctica para atención especializada de pacientes."
+    },
+    {
+      "nombre": "Doctorado",
+      "modalidad": null,
+      "descripcion_corta": "Programa conducente al título de PhD o equivalente, nivel 8 CINE, con registro calificado, para formación de alto nivel en investigación."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Incluir la ficha del proyecto registrado en el SIGP al transferir la MGA válida al Banco de proyectos del SGR a través de la plataforma MGA WEB del DNP, dentro del plazo establecido en el cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar los trámites previos para el cargue en MGA WEB y la transferencia al Banco de Proyectos del SGR antes de la fecha límite del cronograma.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Reportar fallas técnicas en MGA Web al correo infosgr@dnp.gov.co dentro de los plazos establecidos.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Superar los requisitos establecidos en los TdR y los aplicables del Acuerdo 012 de 2024 de la Comisión Rectora.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Someterse a consideración del OCAD de CTeI del SGR para viabilización, priorización y aprobación.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No alterar sustancialmente actividades, alcance, objetivos, miembros de la alianza o modificaciones técnicas del proyecto después de la publicación del listado definitivo de elegibles.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cuantificar el aporte de la entidad aliada (en especie o efectivo) al proyecto.",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el aval del Comité de Ética o Bioética para proyectos elegibles que lo requieran, según el numeral 10.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No presentar proyectos por fuera de los plazos establecidos para la actividad de cargue y transferencia al Banco de Proyectos (SUIFP-SGR).",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar nuevamente el cargue del proyecto dentro del término definido en el cronograma si se recibe pronunciamiento dentro de los quince días siguientes a la transferencia.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Respetar el orden de elegibilidad con base en el puntaje de evaluación y los recursos disponibles para la priorización y aprobación de proyectos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    }
+  ],
+  "causales_rechazo": [
+    {
+      "texto": "Alterar alguno de los documentos presentados para participar en la convocatoria."
+    },
+    {
+      "texto": "Incumplir las condiciones y requisitos establecidos en los presentes términos de referencia para el proyecto estratégico de formación de talento humano a nivel de maestría y doctorado que se presenta."
+    },
+    {
+      "texto": "No adjuntar la totalidad de los anexos diligenciados mencionados en los presentes términos."
+    },
+    {
+      "texto": "Incumplir con los términos y condiciones establecidos en los presentes términos de referencia y anexos para la entidad proponente o alguno de los miembros de la alianza."
+    },
+    {
+      "texto": "Solicitar en el proyecto un monto distinto al establecido para la región."
+    },
+    {
+      "texto": "Solicitar en el proyecto un número de cupos distinto al establecido para la región."
+    },
+    {
+      "texto": "Presentar dentro del proyecto programas que no sean de Maestría o Doctorado."
+    },
+    {
+      "texto": "Presentar dentro del proyecto programas de Maestría o Doctorado sin registro calificado vigente ante el Ministerio de Educación Nacional a la apertura de la presente convocatoria."
+    },
+    {
+      "texto": "Presentar un proyecto que se encuentra en ejecución o la fase en la que se presenta, ya cuenta con financiación simultánea de otra convocatoria, con recursos del Ministerio, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Cuando el proyecto no esté orientado a atender alguno de los retos en CTeI establecidos en el Plan de Convocatorias 2025-2026."
+    },
+    {
+      "texto": "Cargar hojas en blanco, archivos dañados, cartas de compromiso de generar el documento de manera posterior al cierre."
+    },
+    {
+      "texto": "No subsanar durante el término definido en el cronograma o no subsanar en debida forma conforme al requisito."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Contribución del proyecto al desarrollo regional y demandas territoriales de acuerdo con los programas de formación de alto nivel (maestrías y doctorados)",
+      "puntaje_max": 25.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estructura y articulación de los programas de formación con el desarrollo regional y demandas territoriales."
+    },
+    {
+      "nombre": "Calidad técnica y científica de la propuesta: Congruencia y articulación entre formulación técnica y científica, demandas territoriales, retos, campos priorizados, problema y programas de formación",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la congruencia y articulación de la formulación técnica y científica con los demás elementos del proyecto."
+    },
+    {
+      "nombre": "Términos de referencia (TdR) de la convocatoria para la selección de los beneficiarios",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si los TdR establecen condiciones adecuadas para la selección de beneficiarios."
+    },
+    {
+      "nombre": "Índice departamental de innovación para Colombia (IDIC 2022) de la entidad proponente",
+      "puntaje_max": 16.0,
+      "peso_pct": null,
+      "descripcion": "Puntúa según la categoría del departamento en el IDIC 2022."
+    },
+    {
+      "nombre": "Estrategia de Cobertura Territorial",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el plan de difusión, selección y acompañamiento para garantizar postulación de beneficiarios de la región."
+    },
+    {
+      "nombre": "Estrategia de divulgación pública de la CTeI del proyecto estratégico de formación de alto nivel",
+      "puntaje_max": 9.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la estrategia de divulgación para integrar resultados en la vida cotidiana."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "CUATROCIENTOS OCHENTA Y DOS MIL MILLONES DE PESOS M/CTE ($482.000.000.000)",
+    "monto_total_cop": 482000000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": 96,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "Sistema General de Regalías (SGR) - Asignación para la CTeI",
+    "notas": "La contrapartida se menciona para gastos de supervisión, pero no se especifica porcentaje. El financiamiento proviene del SGR con recursos del bienio 2025-2026."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2178,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 781,
+          "completion_tokens": 253
+        }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1253,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 630,
+          "completion_tokens": 118
+        }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4037,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1378,
+          "completion_tokens": 714
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 4271,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1512,
+          "completion_tokens": 631
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7258,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2304,
+          "completion_tokens": 1002
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4629,
+          "completion_tokens": 1103
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4265,
+          "completion_tokens": 1817
+        }
       }
     }
   },
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
-      "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
-      "actores_ies_match": [],
-      "condiciones_pendientes": [],
-      "capa": "reglas"
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "ejecutora",
+      "confianza": "media",
+      "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+      "actores_ies_match": [
+        {
+          "tipo": "Institución de Educación Superior (IES) colombiana",
+          "rol": "proponente",
+          "condicion": "pública o privada según artículo 54 de la Ley 2056 de 2020"
+        },
+        {
+          "tipo": "Institución de Educación Superior (IES) colombiana",
+          "rol": "miembro de alianza",
+          "condicion": "debe pertenecer a departamento diferente dentro de la misma región"
+        }
+      ],
+      "condiciones_pendientes": [
+        {
+          "condicion": "debe pertenecer a departamento diferente dentro de la misma región",
+          "riesgo": "territorio",
+          "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
+        },
+        {
+          "condicion": "debe pertenecer a departamento diferente dentro de la misma región",
+          "riesgo": "grupos_minciencias",
+          "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
+        }
+      ],
+      "capa": "reglas",
+      "perfil_usado": {
+        "nombre": "Universidad del Rosario",
+        "tipo_actor": "Institucion de Educacion Superior (IES)",
+        "ciudad_sede_principal": "Bogota D.C."
+      }
     },
     "llm": {
       "ok": true,
       "data": {
         "puede_postularse": true,
-        "modo": "sola",
+        "modo": "solo_en_alianza",
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-          "Confirmar experiencia en proyectos de I+D+i",
-          "Validar capacidad de contrapartida si aplica"
+          "Debe pertenecer a un departamento diferente dentro de la misma región (riesgo de territorio, ya que la sede principal está en Bogotá)",
+          "Debe contar con grupos de investigación categorizados por Minciencias (riesgo de grupos Minciencias)"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y experiencia."
+        "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora en una alianza, sujeto a verificar que cumpla con el requisito de pertenecer a un departamento diferente dentro de la misma región y que cuente con grupos de investigación categorizados."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
       "puede_postularse": true,
-      "modo": "sola",
+      "modo": "solo_en_alianza",
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Verificar existencia de grupos de investigación reconocidos por Minciencias",
-        "Confirmar experiencia en proyectos de I+D+i",
-        "Validar capacidad de contrapartida si aplica"
+        "Debe pertenecer a un departamento diferente dentro de la misma región (riesgo de territorio, ya que la sede principal está en Bogotá)",
+        "Debe contar con grupos de investigación categorizados por Minciencias (riesgo de grupos Minciencias)"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida en el SNCTI, con sede principal en Bogotá. Cumple con los requisitos básicos para postularse como ejecutora en convocatorias Minciencias, aunque se deben verificar condiciones específicas como grupos de investigación y experiencia.",
+      "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora en una alianza, sujeto a verificar que cumpla con el requisito de pertenecer a un departamento diferente dentro de la misma región y que cuente con grupos de investigación categorizados.",
       "fuente": "reglas+llm"
     }
   }

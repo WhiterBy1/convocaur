@@ -3,103 +3,207 @@
   "objetivo": "Promover el crecimiento de los sectores productivos mediante el estímulo a la inversión privada en proyectos de I+D+i, a través del acceso a beneficios tributarios establecidos en los artículos 256 y 256-1 del Estatuto Tributario, dirigidos a empresas de todos los tamaños, por medio del registro y calificación de proyectos a ejecutar durante la vigencia fiscal 2025 y posteriores.",
   "actores_elegibles": [
     {
-      "tipo": "Persona jurídica legalmente constituida en Colombia",
-      "rol": "postulante",
-      "condicion": "Registro mercantil vigente, domiciliada en Colombia, capacidad jurídica (art. 1502 C.C., arts. 99 y 110 C. de Co.), contribuyente de renta y complementarios."
+      "tipo": "Personas jurídicas legalmente constituidas en Colombia",
+      "rol": "Postulante",
+      "condicion": "Con registro mercantil vigente, domiciliadas en Colombia, capacidad jurídica (art. 1502 C.C., arts. 99, 110 C. de Co.), contribuyentes de renta, ejecutar proyectos I+D+i con aval de Actor Reconocido, inversiones en vigencia 2025 según CNBT."
     },
     {
-      "tipo": "Empresa del sector productivo",
-      "rol": "ejecutor o coejecutor",
-      "condicion": "Debe ejecutar proyectos de I+D+i con aval de un Actor Reconocido por Minciencias, inversiones en vigencia 2025."
+      "tipo": "Empresas del sector productivo",
+      "rol": "Ejecutor o coejecutor según modalidad",
+      "condicion": "Micro, pequeñas, medianas y/o grandes empresas según modalidad."
     },
     {
-      "tipo": "Actor reconocido dependiente de Institución de Educación Superior (IES)",
-      "rol": "ejecutor (Modalidad 1)",
-      "condicion": "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora."
+      "tipo": "Actor reconocido dependiente de IES",
+      "rol": "Ejecutor (Modalidad 1)",
+      "condicion": "Apoyo a empresas en proyectos I+D, con interés manifiesto de la empresa y participación de su personal."
     },
     {
-      "tipo": "Micro, pequeña y mediana empresa (MiPyme)",
-      "rol": "ejecutor o coejecutor",
-      "condicion": "Exclusivo en Modalidad 2; en Modalidad 3 como coejecutor con gran empresa; en Modalidad 4 sin restricción de tamaño."
+      "tipo": "Actor reconocido por Minciencias",
+      "rol": "Avalador",
+      "condicion": "Con resolución de reconocimiento vigente (Modalidades 2, 3, 4)."
     },
     {
-      "tipo": "Gran empresa",
-      "rol": "ejecutor o coejecutor",
-      "condicion": "En Modalidad 1 puede ser coejecutor (debe incluir MiPyme si accede a crédito fiscal); en Modalidad 3 como ejecutor en alianza con MiPyme; en Modalidad 4 sin restricción."
+      "tipo": "MiPymes",
+      "rol": "Ejecutor o coejecutor",
+      "condicion": "Exclusivas en Modalidad 2; obligatorias en alianza en Modalidad 1 (si hay gran empresa) y Modalidad 3; pueden participar en Modalidad 4."
+    },
+    {
+      "tipo": "Grandes empresas",
+      "rol": "Ejecutor o coejecutor",
+      "condicion": "No pueden ser ejecutoras ni coejecutoras en Modalidad 2; en Modalidad 1 deben incluir MiPyme si acceden a crédito fiscal; en Modalidad 3 como ejecutoras en alianza con MiPyme; en Modalidad 4 pueden participar."
     }
   ],
   "alianza_obligatoria": true,
   "lineas_tematicas": [
     {
       "nombre": "Por la Transición energética justa",
-      "modalidad": "Apuestas productivas",
+      "modalidad": "Apuestas productivas de la Política de Reindustrialización",
       "descripcion_corta": "Impulsa energías limpias y tecnologías sostenibles con inclusión social y justicia ambiental."
     },
     {
-      "nombre": "Por la Agroindustrialización y soberanía alimentaria",
-      "modalidad": "Apuestas productivas",
+      "nombre": "Por la Agro industrialización y soberanía alimentaria",
+      "modalidad": "Apuestas productivas de la Política de Reindustrialización",
       "descripcion_corta": "Fortalece el campo y la producción local para garantizar el acceso a alimentos y reducir la dependencia externa."
     },
     {
       "nombre": "Por la Reindustrialización en el sector salud",
-      "modalidad": "Apuestas productivas",
+      "modalidad": "Apuestas productivas de la Política de Reindustrialización",
       "descripcion_corta": "Desarrolla la industria nacional de medicamentos y tecnología médica para asegurar autonomía sanitaria."
     },
     {
       "nombre": "Por la Reindustrialización para la defensa y la vida",
-      "modalidad": "Apuestas productivas",
+      "modalidad": "Apuestas productivas de la Política de Reindustrialización",
       "descripcion_corta": "Fomenta capacidades industriales en sectores estratégicos con innovación para seguridad y bienestar Social."
     },
     {
       "nombre": "Por los Territorios y su tejido empresarial",
-      "modalidad": "Apuestas productivas",
+      "modalidad": "Apuestas productivas de la Política de Reindustrialización",
       "descripcion_corta": "Apoya Pymes y economías locales para integrar los territorios al desarrollo productivo con enfoque regional."
     },
     {
       "nombre": "Bioeconomía y territorio",
-      "modalidad": "Retos",
+      "modalidad": "Retos de las Políticas de Investigación e Innovación Orientadas por Misiones",
       "descripcion_corta": "Aprovechar el conocimiento, conservación y uso sostenible de la biodiversidad, sus bienes y servicios ecosistémicos."
     },
     {
       "nombre": "Derecho humano a la alimentación",
-      "modalidad": "Retos",
+      "modalidad": "Retos de las Políticas de Investigación e Innovación Orientadas por Misiones",
       "descripcion_corta": "Impulsar y ordenar la producción agroalimentaria, produciendo alimentos de forma eficiente, soberana, autónoma y equitativa."
     },
     {
       "nombre": "Transición energética",
-      "modalidad": "Retos",
+      "modalidad": "Retos de las Políticas de Investigación e Innovación Orientadas por Misiones",
       "descripcion_corta": "Contribuir en el proceso de transformación productiva asociada a la transición energética, en el desarrollo sostenible e incluyente de los territorios y en los procesos de apropiación y aceptación social."
     },
     {
       "nombre": "Soberanía sanitaria y bienestar social",
-      "modalidad": "Retos",
+      "modalidad": "Retos de las Políticas de Investigación e Innovación Orientadas por Misiones",
       "descripcion_corta": "Garantizar la soberanía sanitaria, la salud y el bienestar social de la población en todo el territorio nacional."
     },
     {
       "nombre": "Ciencia para la paz",
-      "modalidad": "Retos",
+      "modalidad": "Retos de las Políticas de Investigación e Innovación Orientadas por Misiones",
       "descripcion_corta": "Promover la ciencia y la tecnología como instrumentos para el desarrollo sostenible, la paz en general y el bienestar de las comunidades."
     }
   ],
-  "requisitos": [],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'Dirigida a' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP) a través del formulario en línea.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades participantes deben estar legalmente constituidas en Colombia.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de existencia y representación legal vigente (expedido en los últimos 30 días).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar carta de presentación, aval y aceptación de compromisos firmada por el representante legal (Anexo 8).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar y adjuntar la ficha de caracterización de personal (Anexo 11) relacionando a todo el personal participante.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Diligenciar los instrumentos para el uso del beneficio tributario e impactos (Anexo 12, Encuesta de beneficios tributarios).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar el aval del Comité de Ética/Bioética cuando aplique (obligatorio para proyectos de Salud), con acto administrativo de conformación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificado de tamaño empresarial según Decreto 957 de 2019 (artículos 2.2.1.13.2.1 y 2.2.1.13.2.4).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar Anexo 10: formato de alianza empresa grande con micro, pequeña y mediana empresa (si aplica).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar certificación correspondiente por persona descrita en la tabla del numeral 6 'Enfoque diferencial' (cuando aplique).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las entidades participantes deben estar legalmente constituidas en Colombia al momento de presentar el proyecto.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Contar con el aval del actor reconocido por Minciencias y del representante legal de la entidad (formalizado en carta de presentación, Anexo 8).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Aclarar en la carta de presentación (Anexo 8) el beneficio tributario al cual se busca acceder (crédito fiscal o descuento). No presentar un mismo proyecto a ambos beneficios.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No haber sido financiado exclusivamente con recursos públicos en otras convocatorias ni haber generado derechos a otros beneficios tributarios.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Cumplir con todos los requisitos y lineamientos de los TdR y normatividad vigente dentro de los plazos establecidos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "No estar incurso en causales de inhabilidad e incompatibilidad según Constitución, ley o reglamentos.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "La duración de proyectos de innovación debe ser de una vigencia fiscal (año fiscal 2025).",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Los proyectos aprobados deben acogerse al Acuerdo 38 de 2025 (Anexo 2) para traslados o modificaciones.",
+      "tipo": "otro",
+      "severidad": "obligatorio"
+    }
+  ],
   "causales_rechazo": [
     {
-      "texto": "El proyecto quedará inhabilitado cuando cualquiera de las entidades participantes no se encuentre legalmente constituida en Colombia al momento de presentar el proyecto."
+      "texto": "Las entidades participantes no se encuentren legalmente constituidas en Colombia al momento de presentar el proyecto."
     },
     {
-      "texto": "El proyecto quedará inhabilitado cuando no cuente con el aval del actor con reconocimiento por el Ministerio de Ciencia, Tecnología e Innovación y del representante legal de la entidad que presenta el proyecto, o las demás entidades involucradas en el proyecto. El aval se entenderá formalizado con la firma en conjunto de la carta de presentación, aval y aceptación de compromisos (Ver Anexo 8)."
+      "texto": "No contar con el aval del actor con reconocimiento por Minciencias y del representante legal de la entidad que presenta el proyecto, formalizado con la firma de la carta de presentación."
     },
     {
-      "texto": "Los proyectos presentados bajo la modalidad de crédito fiscal no podrán acceder al beneficio tributario de descuento definido en el artículo 256 del E.T., con el mismo proyecto. Así mismo, los proyectos postulados a la modalidad de descuento no podrán acceder al beneficio tributario de crédito fiscal estipulado por el artículo 256-1 del E.T, con el mismo proyecto. Por lo anterior, los proyectos postulados a esta convocatoria sólo podrán acceder a uno de los beneficios tributarios por inversión con el mismo proyecto, de acuerdo con lo establecido en el parágrafo 1 del artículo 22 de la Ley 2277 de 2022. El proponente deberá aclarar en la carta de presentación, aval y aceptación de compromisos (Ver anexo 8) el beneficio tributario al cual busca acceder."
+      "texto": "Presentar el proyecto bajo la modalidad de crédito fiscal y también buscar el beneficio de descuento, o viceversa, ya que solo se puede acceder a un beneficio tributario."
     },
     {
-      "texto": "El proyecto quedará inhabilitado cuando haya sido financiado exclusivamente con recursos públicos en el marco de otras convocatorias de diferentes entidades, o inversiones que hayan generado derecho a otros beneficios tributarios diferentes a los estipulados en los artículos 21 y 22 de la Ley 2277 del 2022."
+      "texto": "El proyecto haya sido financiado exclusivamente con recursos públicos en otras convocatorias o inversiones que hayan generado derecho a otros beneficios tributarios diferentes a los estipulados en los artículos 21 y 22 de la Ley 2277 de 2022."
     },
     {
-      "texto": "El proyecto quedará inhabilitado cuando NO cumpla con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria y la normatividad vigente dentro de los plazos establecidos."
+      "texto": "No cumplir con los requisitos y lineamientos establecidos en los términos de referencia y normatividad vigente dentro de los plazos establecidos."
     },
     {
-      "texto": "El proyecto quedará inhabilitado cuando alguno de los participantes esté inmerso en alguna de las causales de inhabilidad e incompatibilidad establecidos en la Constitución, en la ley, reglamentos, etc."
+      "texto": "Que alguno de los participantes esté inmerso en causales de inhabilidad e incompatibilidad establecidas en la Constitución, la ley, reglamentos, etc."
+    },
+    {
+      "texto": "Presentar un mismo proyecto tanto a crédito fiscal como a descuento: el ministerio evaluará solo el primer proyecto radicado, dejando el segundo inhabilitado."
     }
   ],
   "criterios_evaluacion": [
@@ -146,76 +250,99 @@
       "descripcion": null
     },
     {
-      "nombre": "Empresas que pertenecen a los sectores estratégicos definidos en el Pacto por el Crédito y las prioridades de reactivación económica del PND",
+      "nombre": "Empresas que pertenecen a los sectores estratégicos definidos en el Pacto por el Crédito y las prioridades de reactivación económica del PND (vivienda e infraestructura, manufactura, agroindustria, energía renovable y turismo sostenible.)",
       "puntaje_max": 2.0,
       "peso_pct": null,
       "descripcion": null
     }
   ],
-  "financiacion": null,
+  "financiacion": {
+    "monto_total_texto": null,
+    "monto_total_cop": null,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": null,
+    "notas": "No se especifica información de financiación en el texto proporcionado."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1327,
+        "chars_enviados": 1291,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 616,
-          "completion_tokens": 101
+          "prompt_tokens": 570,
+          "completion_tokens": 166
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 6018,
+        "chars_enviados": 5813,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1988,
-          "completion_tokens": 407
+          "prompt_tokens": 1900,
+          "completion_tokens": 475
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3675,
+        "chars_enviados": 3509,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1308,
-          "completion_tokens": 1412
+          "prompt_tokens": 1222,
+          "completion_tokens": 1543
         }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 9092,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2882,
+          "completion_tokens": 1156
+        }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 4302,
+        "chars_enviados": 4135,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1499,
-          "completion_tokens": 676
+          "prompt_tokens": 1434,
+          "completion_tokens": 1629
         }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1730,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 879,
+          "completion_tokens": 105
+        }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1317,
+        "chars_enviados": 1248,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 725,
-          "completion_tokens": 373
+          "prompt_tokens": 789,
+          "completion_tokens": 2806
         }
       }
     }
@@ -230,14 +357,14 @@
       "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
       "actores_ies_match": [
         {
-          "tipo": "Actor reconocido dependiente de Institución de Educación Superior (IES)",
-          "rol": "ejecutor (Modalidad 1)",
-          "condicion": "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora."
+          "tipo": "Actor reconocido dependiente de IES",
+          "rol": "Ejecutor (Modalidad 1)",
+          "condicion": "Apoyo a empresas en proyectos I+D, con interés manifiesto de la empresa y participación de su personal."
         }
       ],
       "condiciones_pendientes": [
         {
-          "condicion": "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora.",
+          "condicion": "Apoyo a empresas en proyectos I+D, con interés manifiesto de la empresa y participación de su personal.",
           "riesgo": "grupos_minciencias",
           "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
         }
@@ -257,9 +384,9 @@
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora. Riesgo: grupos Minciencias. Requiere grupos categorizados; cruzar con capacidad Rosario."
+          "Requiere grupos de investigación categorizados por Minciencias para cumplir con el apoyo a empresas en proyectos I+D."
         ],
-        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con acreditación institucional. Puede postularse únicamente en alianza con empresas, actuando como ejecutora. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para apoyar proyectos de I+D."
+        "resumen": "Universidad del Rosario, como IES privada reconocida en SNCTI, es elegible para postularse a la convocatoria, pero solo en alianza, no en solitario. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para cumplir con las condiciones de apoyo a empresas."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -269,9 +396,9 @@
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Apoya a empresas en proyectos de I+D, bajo dirección de empresa coejecutora. Riesgo: grupos Minciencias. Requiere grupos categorizados; cruzar con capacidad Rosario."
+        "Requiere grupos de investigación categorizados por Minciencias para cumplir con el apoyo a empresas en proyectos I+D."
       ],
-      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con acreditación institucional. Puede postularse únicamente en alianza con empresas, actuando como ejecutora. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para apoyar proyectos de I+D.",
+      "resumen": "Universidad del Rosario, como IES privada reconocida en SNCTI, es elegible para postularse a la convocatoria, pero solo en alianza, no en solitario. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para cumplir con las condiciones de apoyo a empresas.",
       "fuente": "reglas+llm"
     }
   }

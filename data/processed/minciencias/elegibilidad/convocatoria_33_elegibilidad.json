@@ -1,0 +1,40 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Acreditar experiencia en al menos 1 proyecto de CTI en los últimos 7 años o 1 proyecto de CTI ejecutado/en ejecución por la Asignación para la CTI del SGR.",
+        "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) conforme al DNP, salvo excepción por falta de medición en los dos años anteriores."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que puede postularse como entidad proponente en alianza. Debe verificar experiencia en proyectos CTI y el IGPR, y presentar el proyecto en alianza con otros actores elegibles."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Acreditar experiencia en al menos 1 proyecto de CTI en los últimos 7 años o 1 proyecto de CTI ejecutado/en ejecución por la Asignación para la CTI del SGR.",
+      "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) conforme al DNP, salvo excepción por falta de medición en los dos años anteriores."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que puede postularse como entidad proponente en alianza. Debe verificar experiencia en proyectos CTI y el IGPR, y presentar el proyecto en alianza con otros actores elegibles.",
+    "fuente": "reglas+llm"
+  }
+}

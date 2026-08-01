@@ -1,104 +1,110 @@
 {
   "convocatoria": "33",
-  "objetivo": "Conformar un listado de proyectos elegibles de ciencia, tecnología e innovación que fomenten el desarrollo de las vocaciones, capacidades y habilidades en Ciencia, Tecnología e Innovación en niñas, niños y adolescentes en temáticas enmarcadas en los seis retos del plan bienal de convocatorias a través de la implementación de la estrategia Ondas del Ministerio de Ciencia, Tecnología e Innovación, en los departamentos de Colombia y su Distrito Capital.",
+  "objetivo": "Conformar un listado de proyectos elegibles de ciencia, tecnología e innovación que fomenten el desarrollo de vocaciones, capacidades y habilidades en CTI en niñas, niños y adolescentes, enmarcados en los seis retos del plan bienal de convocatorias, mediante la implementación de la estrategia Ondas del Ministerio de Ciencia, Tecnología e Innovación en los departamentos de Colombia y su Distrito Capital.",
   "actores_elegibles": [
     {
       "tipo": "Academia",
-      "rol": "Miembro de la alianza",
+      "rol": "Miembro de alianza",
       "condicion": "Instituciones de Educación Superior (IES) públicas o privadas, incluyendo ESAP, ITEC, Instituto Caro y Cuervo, Universidad Militar Nueva Granada, Escuelas de Formación de las Fuerzas Militares y de la Policía Nacional, SENA, Escuela Nacional del Deporte, y establecimientos educativos."
     },
     {
       "tipo": "Sector Productivo",
-      "rol": "Miembro de la alianza",
-      "condicion": "Persona jurídica de economía mixta, pública o privada con o sin ánimo de lucro, gremios empresariales, cámara de comercio, centro de desarrollo empresarial o corporación legalmente constituida en Colombia, con operaciones nacionales o regionales. Incluye entidades clasificadas como generación de conocimiento científico, desarrollo tecnológico y transferencia de tecnología, innovación y productividad."
+      "rol": "Miembro de alianza",
+      "condicion": "Persona jurídica de economía mixta, pública o privada con o sin ánimo de lucro, gremios empresariales, cámara de comercio, centro de desarrollo empresarial o corporación legalmente constituida en Colombia. Incluye entidades clasificadas como: i) Generación de conocimiento científico (centros e institutos de investigación), ii) Desarrollo tecnológico y transferencia de tecnología (centros de desarrollo tecnológico, OTRIS), iii) Innovación y productividad (EIAs, unidades empresariales de I+D+i, incubadoras, centros de innovación y productividad, parques científicos/tecnológicos/de innovación)."
     },
     {
       "tipo": "Estado",
-      "rol": "Miembro de la alianza",
+      "rol": "Miembro de alianza",
       "condicion": "Entidades gubernamentales del orden nacional, regional, departamental o municipal. Incluye Resguardos y Cabildos reconocidos por el Ministerio del Interior."
     },
     {
       "tipo": "Sociedad Civil Organizada",
-      "rol": "Miembro de la alianza",
-      "condicion": "Grupos, organizaciones o agremiaciones comunitarias con personería jurídica legalmente constituidas en Colombia, o entidades del tercer sector (ONG), con operaciones departamentales, regionales o nacionales."
+      "rol": "Miembro de alianza",
+      "condicion": "Grupos, organizaciones o agremiaciones comunitarias con personería jurídica legalmente constituidas en Colombia, o entidades del tercer sector (ONG), con operaciones a nivel departamental, regional o nacional."
     },
     {
-      "tipo": "Entidades del SNCTI",
-      "rol": "Proponente o aliado",
-      "condicion": "Deben cumplir con lo establecido en los literales a) o b) del artículo 1.2.3.2.2 del Decreto 1821 de 2020. La entidad proponente debe ser IES, centros/institutos de investigación, centros de desarrollo tecnológico, centros de innovación y productividad o centros de ciencia de carácter público o privado."
+      "tipo": "Entidad proponente",
+      "rol": "Proponente",
+      "condicion": "Debe ser alguna de las siguientes: Instituciones de Educación Superior, Centros/Institutos de Investigación, Centros de Desarrollo Tecnológico, Centros de Innovación y Productividad o Centros de Ciencia de carácter público o privado. Debe demostrar experiencia en al menos 1 proyecto de CTI en los últimos 7 años o 1 proyecto de CTI ejecutado/en ejecución por la Asignación para la CTI del SGR. Debe acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) conforme al DNP, salvo que no haya sido objeto de medición en los 2 años anteriores."
     }
   ],
   "alianza_obligatoria": true,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Estrategia Ondas",
+      "modalidad": null,
+      "descripcion_corta": "Fomenta vocaciones, capacidades y habilidades en CTI en niñas, niños y adolescentes, enmarcada en los seis retos del plan bienal de convocatorias."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos (SIGP), ajustado al objetivo de la convocatoria y con la información del numeral 8.",
+      "texto": "Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos - SIGP, ajustado al objetivo de la convocatoria y con la información del numeral 8.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con las especificaciones y condiciones del numeral 3 'DIRIGIDO A'.",
+      "texto": "Cumplir con las especificaciones y condiciones del 'DIRIGIDO A' establecidas en el numeral 3.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Demostrar la acreditación del adecuado desempeño del Índice de Gestión de Proyectos de Regalías (IGPR) según metodología del DNP, con corte al cierre de la convocatoria (excepto si no ha sido medido en los últimos 2 años).",
-      "tipo": "tecnico",
+      "texto": "Demostrar la acreditación del adecuado desempeño del Índice de Gestión de Proyectos de Regalías IGPR conforme la metodología del DNP, salvo excepción por falta de medición en los dos años anteriores.",
+      "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar el proyecto en alianza y anexar la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' (Anexo 1b) debidamente diligenciada y firmada. Requisito mínimo no subsanable.",
+      "texto": "Presentar el proyecto en alianza, anexando la 'Carta de aval, compromiso institucional unificada y Modelo de Gobernanza' firmada por los representantes legales o apoderados de todas las entidades nacionales.",
       "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el documento técnico (Anexo 2) según el contenido del numeral 8.1, incluido en la plataforma SIGP.",
+      "texto": "Adjuntar el documento técnico según el contenido del numeral 8.1 (Anexo 2), incluido en la plataforma SIGP.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir integralmente con el numeral 5 (Alcance), incluyendo: Grupos Ondas, lineamientos pedagógicos y metodológicos, Comunidad Ondas, Divulgación y Movilidad, y Evaluación de impacto, presentado en el Anexo 2 numeral 14.",
+      "texto": "Cumplir integralmente con el numeral 5 -Alcance-, incluyendo en el documento técnico los elementos: Grupos Ondas, Lineamientos pedagógicos, Comunidad Ondas, Divulgación y Movilidad, y Evaluación de impacto.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Atender al menos una demanda territorial del departamento objeto del proyecto y el reto priorizado número uno, registrado en SIGP y en el Anexo 2 numerales 1 y 8.",
+      "texto": "Atender al menos una demanda territorial del departamento objeto y el reto priorizado como número uno, registrado en SIGP y en el Documento Técnico.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar el proyecto para atender las demandas territoriales de un solo departamento, registrado en SIGP y Anexo 2 numerales 1 y 8.",
-      "tipo": "habilitante",
+      "texto": "Presentar el proyecto para atender demandas territoriales de un solo departamento, registrado en SIGP y Documento Técnico.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el presupuesto del proyecto (Anexo 3) según el numeral 8.2 y las condiciones del numeral 10, incluido en SIGP.",
+      "texto": "Adjuntar el presupuesto del proyecto según el numeral 8.2 (Anexo 3), cumpliendo las condiciones del numeral 10, incluido en SIGP.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Solicitar al SGR el monto indicativo para el departamento objeto del proyecto, garantizando coherencia entre SIGP, Anexo 2 y Anexo 3.",
+      "texto": "Solicitar al SGR el monto indicativo para el departamento objeto del proyecto.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar el formato 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente' (Anexo 5) debidamente diligenciado, con soportes (convenios, contratos, etc.) en SIGP.",
+      "texto": "Anexar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución del proponente' (Anexo 5) con soportes en SIGP.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el documento de términos de referencia para convocatorias de grupos ONDAS. Requisito mínimo no subsanable.",
+      "texto": "Adjuntar documento de términos de referencia para convocatorias de grupos ONDAS (requisito mínimo no subsanable).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés, en SIGP.",
-      "tipo": "documental",
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director, en español o inglés, incluida en SIGP.",
+      "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades del sector productivo en la alianza, deben estar constituidas mínimo 1 año antes de la apertura de la convocatoria, verificado en RUES o con certificado de existencia y representación legal no mayor a 90 días. No pueden estar en liquidación o reestructuración.",
-      "tipo": "habilitante",
+      "texto": "Para entidades del sector productivo en la alianza, estar constituidas mínimo un año antes de la apertura, verificado en RUES o con certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "alianza",
       "severidad": "obligatorio"
     }
   ],
@@ -122,7 +128,7 @@
       "texto": "Cuando no se adjunte documento con términos de referencia para realizar convocatoria ONDAS."
     },
     {
-      "texto": "Cuando el número de NNA a beneficiar con el proyecto sea inferior al establecido por departamento en el numeral 8-Duración y financiación – Duración y financiación- tabla – Niñas, Niños y Adolescentes a beneficiar."
+      "texto": "Cuando el número de NNA a beneficiar con el proyecto sea inferior al establecido por departamento en el numeral 8- Duración y financiación – Duración y financiación- tabla – Niñas, Niños y Adolescentes a beneficiar."
     },
     {
       "texto": "Cuando el proyecto no está orientado a la atención de las demandas territoriales del departamento al cual se postula."
@@ -145,64 +151,64 @@
   ],
   "criterios_evaluacion": [
     {
-      "nombre": "1.1 Calidad científico-técnica y presupuestal del proyecto - Consistencia del proyecto en el desarrollo de los componentes",
+      "nombre": "1.1 Calidad científico-técnica y presupuestal del proyecto",
       "puntaje_max": 35.0,
       "peso_pct": null,
-      "descripcion": "Evalúa consistencia del proyecto con los componentes: Convocatoria Grupos Ondas, Lineamientos pedagógicos y metodológicos, Comunidad Ondas, Divulgación y movilidad, Evaluación e Impacto, y su coherencia con el presupuesto, metodología, actividades, resultados, productos y duración."
+      "descripcion": "Consistencia del proyecto en el desarrollo de los componentes: Convocatoria Grupos Ondas, Lineamientos pedagógicos y metodológicos, Comunidad Ondas, Divulgación y movilidad, Evaluación e Impacto, y coherencia con presupuesto, metodología, actividades, resultados, productos y duración."
     },
     {
-      "nombre": "2.1 Pertinencia e impacto del proyecto - Pertinencia y Articulación de los proyectos de investigación ONDAS con demandas territoriales",
+      "nombre": "2.1 Pertinencia y Articulación con demandas territoriales",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la pertinencia y articulación de los proyectos con las demandas territoriales del departamento/distrito capital."
+      "descripcion": "Pertinencia y Articulación de los proyectos de investigación ONDAS a seleccionar con la(s) demanda(s) territorial(es) del Departamento/Distrito Capital objeto del proyecto."
     },
     {
-      "nombre": "2.2 Pertinencia e impacto del proyecto - Proceso de selección de grupos ONDAS que garantice impacto a NNA en zonas rurales/PDET/ZOMAC/IIP",
+      "nombre": "2.2 Impacto a NNA en zonas rurales, PDET, ZOMAC o IIP",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa si el proceso de selección establece requisitos, condiciones y una estrategia efectiva para garantizar impacto a NNA en zonas rurales, rural dispersa, municipios PDET, ZOMAC o con IIP. Máximo 5 puntos si cumple, 0 si no. Para Bogotá D.C. y San Andrés se aplica similar criterio con zonas rurales."
+      "descripcion": "El proceso de selección de grupos ONDAS establece requisitos, condiciones y una estrategia efectiva que garanticen impacto a NNA en zonas rurales, rurales dispersas, municipios PDET, ZOMAC o priorizados con IIP. Para Bogotá D.C. y San Andrés, Providencia y Santa Catalina se valora con misma puntuación."
     },
     {
-      "nombre": "2.3 Pertinencia e impacto del proyecto - Atención a demandas territoriales en retos del Plan Bienal de Convocatorias",
+      "nombre": "2.3 Atención a demandas territoriales en retos del Plan Bienal",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la orientación de los proyectos a los retos del plan bienal, con al menos 30% enfocado en el reto priorizado #1. Puntaje según número de retos cubiertos: 6 retos (5 pts), 5 retos (4 pts), 4 retos (3 pts), 3 retos (2 pts)."
+      "descripcion": "Atención a las demandas territoriales establecidas en los retos del Plan Bienal de Convocatorias por los proyectos de investigación de los grupos ONDAS. Puntaje según número de retos atendidos (máximo 5 puntos por 6 retos con al menos 30% en reto priorizado)."
     },
     {
-      "nombre": "2.4 Pertinencia e impacto del proyecto - Articulación entre actores locales",
+      "nombre": "2.4 Articulación de actores locales",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa si el proyecto promueve la articulación entre academia, sector productivo, estado y sociedad civil organizada para el desarrollo de los proyectos de investigación Ondas."
+      "descripcion": "El proyecto promueve la articulación entre los diferentes actores locales (academia, sector productivo, estado, sociedad civil organizada) para el desarrollo de los proyectos de investigación Ondas."
     },
     {
-      "nombre": "3.1 Idoneidad y trayectoria de la entidad proponente y aliados - Idoneidad y capacidad de los participantes",
+      "nombre": "3.1 Idoneidad y capacidad de la entidad y aliados",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa la experiencia en CTeI con niñas, niños y adolescentes (NNA) y en zonas rurales. Puntaje según número de proyectos ejecutados: más de 3 (5 pts), 3 (4 pts), 2 (3 pts). Debe incluir al menos un proyecto en zonas rurales y uno con NNA."
+      "descripcion": "Idoneidad y capacidad de los participantes del proyecto, considerando experiencia en CTeI con niños, niñas y adolescentes. Puntaje según número de proyectos ejecutados (máximo 5 puntos por más de 3 proyectos, incluyendo al menos uno en zonas rurales y uno con NNA)."
     },
     {
-      "nombre": "3.2 Idoneidad y trayectoria de la entidad proponente y aliados - Participación de entidades de la cuádruple hélice",
+      "nombre": "3.2 Participación de entidades de la cuádruple hélice",
       "puntaje_max": 5.0,
       "peso_pct": null,
-      "descripcion": "Evalúa el número de entidades de diferentes aspas (Academia, Empresa, Estado, Sociedad). 4 aspas: 5 pts, 3 aspas: 3 pts, 2 aspas: 2 pts, misma aspa: 0 pts."
+      "descripcion": "En el proyecto se cuenta con la participación de entidades de diferentes aspas de la cuádruple hélice (Academia, Empresa, Estado, Sociedad). Puntaje según número de aspas diferentes (máximo 5 puntos por 4 aspas)."
     },
     {
-      "nombre": "3.3 Idoneidad y trayectoria de la entidad proponente y aliados - Valor agregado para los beneficiarios",
+      "nombre": "3.3 Valor agregado para beneficiarios",
       "puntaje_max": 8.0,
       "peso_pct": null,
-      "descripcion": "Evalúa aportes financieros o en especie para: formación en segunda lengua (2 pts), estrategia pedagógica con enfoque diferencial (2 pts), mejora de comprensión lectora (2 pts), estrategia psicosocial (2 pts). Puntajes aditivos."
+      "descripcion": "La alianza contribuye con aportes financieros o en especie para: formación en segunda lengua, estrategia pedagógica con enfoque diferencial, mejora de comprensión lectora, y estrategia psicosocial. Puntajes aditivos de 2 puntos cada uno, máximo 8."
     },
     {
-      "nombre": "4.1 Sostenibilidad de la estrategia - Alternativas viables para la continuidad",
+      "nombre": "4.1 Sostenibilidad de la estrategia",
       "puntaje_max": 15.0,
       "peso_pct": null,
-      "descripcion": "Evalúa si se presentan alternativas viables para la continuidad de la estrategia y la vinculación de NNA beneficiarios en otras actividades de CTeI en el territorio."
+      "descripcion": "Presenta alternativas viables para la continuidad de la estrategia y la vinculación de niñas, niños y adolescentes beneficiarios en otras actividades de CTeI en el territorio."
     },
     {
-      "nombre": "5.1 Enfoque diferencial - Requisitos y condiciones para selección con enfoques",
+      "nombre": "5.1 Enfoque diferencial",
       "puntaje_max": 12.0,
       "peso_pct": null,
-      "descripcion": "Evalúa si el proceso de selección promueve enfoque de género (4 pts), étnico y cultural (4 pts), y de discapacidad (4 pts). Puntajes aditivos."
+      "descripcion": "El proceso de selección de grupos ONDAS establece requisitos y condiciones que promueven enfoque de género (4 pts), étnico y cultural (4 pts), y discapacidad (4 pts). Puntajes aditivos, máximo 12."
     }
   ],
   "financiacion": {
@@ -213,7 +219,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Sistema General de Regalías, Asignación para la Ciencia, Tecnología e Innovación 2023-2024",
-    "notas": "Los proyectos podrán solicitar entre 3.640 y 6.720 millones según departamento."
+    "notas": "Los proyectos pueden solicitar entre 3.640 millones y 6.720 millones COP según departamento. No se menciona contrapartida."
   },
   "meta": {
     "secciones": {
@@ -221,70 +227,77 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 462,
+        "chars_enviados": 457,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 356,
-          "completion_tokens": 153
+          "prompt_tokens": 330,
+          "completion_tokens": 102
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 7206,
-        "intento": 2,
+        "chars_enviados": 7000,
+        "intento": 1,
         "usage": {
-          "prompt_tokens": 2325,
-          "completion_tokens": 520
+          "prompt_tokens": 2266,
+          "completion_tokens": 626
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1244,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 618,
+          "completion_tokens": 85
+        }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 12439,
+        "chars_enviados": 11958,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3726,
-          "completion_tokens": 1953
+          "prompt_tokens": 3649,
+          "completion_tokens": 860
         }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3191,
+        "chars_enviados": 3118,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1116,
-          "completion_tokens": 768
+          "prompt_tokens": 1094,
+          "completion_tokens": 675
         }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 8506,
+        "chars_enviados": 8212,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3012,
-          "completion_tokens": 1179
+          "prompt_tokens": 2881,
+          "completion_tokens": 177
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 8473,
+        "chars_enviados": 8215,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2705,
-          "completion_tokens": 3072
+          "prompt_tokens": 2622,
+          "completion_tokens": 2835
         }
       }
     }
@@ -309,11 +322,10 @@
         "rol_sugerido": "proponente",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Cumplir con el requisito de acreditación del Índice de Gestión de Proyectos de Regalías (IGPR)",
-          "Presentar el proyecto en alianza con los actores requeridos (Academia, Sector Productivo, Estado, Sociedad Civil Organizada)",
-          "Cumplir con los requisitos técnicos y documentales de la convocatoria, incluyendo el Anexo 1b y Anexo 2"
+          "Acreditar experiencia en al menos 1 proyecto de CTI en los últimos 7 años o 1 proyecto de CTI ejecutado/en ejecución por la Asignación para la CTI del SGR.",
+          "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) conforme al DNP, salvo excepción por falta de medición en los dos años anteriores."
         ],
-        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse como proponente en alianza para la convocatoria Ondas, dirigida a departamentos. Debe cumplir con los requisitos de alianza obligatoria y acreditación del IGPR, y presentar el proyecto para un solo departamento (ej. Bogotá D.C.)."
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que puede postularse como entidad proponente en alianza. Debe verificar experiencia en proyectos CTI y el IGPR, y presentar el proyecto en alianza con otros actores elegibles."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -323,11 +335,10 @@
       "rol_sugerido": "proponente",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Cumplir con el requisito de acreditación del Índice de Gestión de Proyectos de Regalías (IGPR)",
-        "Presentar el proyecto en alianza con los actores requeridos (Academia, Sector Productivo, Estado, Sociedad Civil Organizada)",
-        "Cumplir con los requisitos técnicos y documentales de la convocatoria, incluyendo el Anexo 1b y Anexo 2"
+        "Acreditar experiencia en al menos 1 proyecto de CTI en los últimos 7 años o 1 proyecto de CTI ejecutado/en ejecución por la Asignación para la CTI del SGR.",
+        "Acreditar el Índice de Gestión de Proyectos de Regalías (IGPR) conforme al DNP, salvo excepción por falta de medición en los dos años anteriores."
       ],
-      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse como proponente en alianza para la convocatoria Ondas, dirigida a departamentos. Debe cumplir con los requisitos de alianza obligatoria y acreditación del IGPR, y presentar el proyecto para un solo departamento (ej. Bogotá D.C.).",
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que puede postularse como entidad proponente en alianza. Debe verificar experiencia en proyectos CTI y el IGPR, y presentar el proyecto en alianza con otros actores elegibles.",
       "fuente": "reglas+llm"
     }
   }

@@ -1,0 +1,42 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Demostrar experiencia en gestión y ejecución de al menos 3 proyectos de CTeI en los últimos 5 años relacionados con tecnologías convergentes e industrias 4.0, o al menos 1 proyecto con recursos de CTeI del SGR en la temática.",
+        "Asegurar que la propuesta se ajuste al objetivo de la convocatoria (tecnologías convergentes e industrias 4.0).",
+        "Cumplir con los requisitos documentales, técnicos y financieros especificados en la convocatoria."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria con otros actores. Deberá verificar su experiencia en proyectos de CTeI relacionados con tecnologías convergentes e industrias 4.0 y cumplir con los requisitos de la convocatoria."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Demostrar experiencia en gestión y ejecución de al menos 3 proyectos de CTeI en los últimos 5 años relacionados con tecnologías convergentes e industrias 4.0, o al menos 1 proyecto con recursos de CTeI del SGR en la temática.",
+      "Asegurar que la propuesta se ajuste al objetivo de la convocatoria (tecnologías convergentes e industrias 4.0).",
+      "Cumplir con los requisitos documentales, técnicos y financieros especificados en la convocatoria."
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria con otros actores. Deberá verificar su experiencia en proyectos de CTeI relacionados con tecnologías convergentes e industrias 4.0 y cumplir con los requisitos de la convocatoria.",
+    "fuente": "reglas+llm"
+  }
+}

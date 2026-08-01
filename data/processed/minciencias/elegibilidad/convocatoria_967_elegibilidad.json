@@ -1,0 +1,38 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no incluye a las IES/universidades como actores elegibles para postular como proponentes o ejecutoras."
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, siendo una IES privada reconocida por el SNCTI, no puede postularse a esta convocatoria porque el tipo de actor 'Institución de Educación Superior' no está listado como elegible. La convocatoria está dirigida a entidades del SNCTI que vinculen jóvenes investigadores en áreas específicas de geociencias e ingeniería de petróleos, pero no contempla a las universidades como postulantes directas."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "bloqueantes": [
+      "La convocatoria no incluye a las IES/universidades como actores elegibles para postular como proponentes o ejecutoras."
+    ],
+    "condiciones_a_verificar": [],
+    "resumen": "La Universidad del Rosario, siendo una IES privada reconocida por el SNCTI, no puede postularse a esta convocatoria porque el tipo de actor 'Institución de Educación Superior' no está listado como elegible. La convocatoria está dirigida a entidades del SNCTI que vinculen jóvenes investigadores en áreas específicas de geociencias e ingeniería de petróleos, pero no contempla a las universidades como postulantes directas.",
+    "fuente": "reglas+llm"
+  }
+}

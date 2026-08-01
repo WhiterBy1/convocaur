@@ -1,0 +1,53 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "miembro de la alianza",
+    "confianza": "alta",
+    "motivo": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "actores_ies_match": [
+      {
+        "tipo": "Institución de Educación Superior (IES)",
+        "rol": "miembro de la alianza",
+        "condicion": "Mínimo dos (2) IES, incluyendo al SENA como posible en esta categoría"
+      }
+    ],
+    "condiciones_pendientes": [],
+    "capa": "reglas",
+    "perfil_usado": {
+      "nombre": "Universidad del Rosario",
+      "tipo_actor": "Institucion de Educacion Superior (IES)",
+      "ciudad_sede_principal": "Bogota D.C."
+    }
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "solo_en_alianza",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Verificar que la alianza cumpla con los requisitos mínimos de actores (2 IES, 3 entidades territoriales, etc.)",
+        "Confirmar que la Universidad del Rosario cuenta con grupos de investigación reconocidos por Minciencias si se requiere para el rol de ejecutora",
+        "Validar la capacidad institucional para aportar contrapartida si es necesaria"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria, pero debe hacerlo en alianza, no de forma individual. Su rol sugerido es como aliado dentro de la alianza, sujeto a la verificación de los requisitos de conformación de la alianza y capacidades específicas."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Verificar que la alianza cumpla con los requisitos mínimos de actores (2 IES, 3 entidades territoriales, etc.)",
+      "Confirmar que la Universidad del Rosario cuenta con grupos de investigación reconocidos por Minciencias si se requiere para el rol de ejecutora",
+      "Validar la capacidad institucional para aportar contrapartida si es necesaria"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria, pero debe hacerlo en alianza, no de forma individual. Su rol sugerido es como aliado dentro de la alianza, sujeto a la verificación de los requisitos de conformación de la alianza y capacidades específicas.",
+    "fuente": "reglas+llm"
+  }
+}

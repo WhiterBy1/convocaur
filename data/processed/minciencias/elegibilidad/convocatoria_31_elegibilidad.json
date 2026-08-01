@@ -1,0 +1,40 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "ejecutora",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Validar que la Universidad del Rosario cumple con la experiencia en gestión/ejecución de al menos un proyecto de CTeI en los últimos 5 años (o un proyecto con recursos SGR) requerida en el numeral 11 del Dirigido A.",
+        "Verificar que el proyecto no requiera alianza obligatoria (la convocatoria no la exige en estos datos), y preparar carta de aval y compromiso institucional si postula sola."
+      ],
+      "resumen": "La Universidad del Rosario es una IES privada, con sede principal en Bogotá, reconocida por Minciencias y con acreditación institucional. Puede postularse sola en esta convocatoria ambiental, siempre que cumpla con el requisito de experiencia en CTeI y no requiera alianzas obligatorias."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Validar que la Universidad del Rosario cumple con la experiencia en gestión/ejecución de al menos un proyecto de CTeI en los últimos 5 años (o un proyecto con recursos SGR) requerida en el numeral 11 del Dirigido A.",
+      "Verificar que el proyecto no requiera alianza obligatoria (la convocatoria no la exige en estos datos), y preparar carta de aval y compromiso institucional si postula sola."
+    ],
+    "resumen": "La Universidad del Rosario es una IES privada, con sede principal en Bogotá, reconocida por Minciencias y con acreditación institucional. Puede postularse sola en esta convocatoria ambiental, siempre que cumpla con el requisito de experiencia en CTeI y no requiera alianzas obligatorias.",
+    "fuente": "reglas+llm"
+  }
+}

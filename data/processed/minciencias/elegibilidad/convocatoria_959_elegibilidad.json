@@ -1,0 +1,44 @@
+{
+  "institucion": "Universidad del Rosario",
+  "reglas": {
+    "puede_postularse": null,
+    "modo": "desconocido",
+    "rol_sugerido": null,
+    "confianza": "baja",
+    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "actores_ies_match": [],
+    "condiciones_pendientes": [],
+    "capa": "reglas"
+  },
+  "llm": {
+    "ok": true,
+    "data": {
+      "puede_postularse": true,
+      "modo": "sola",
+      "rol_sugerido": "proponente",
+      "bloqueantes": [],
+      "condiciones_a_verificar": [
+        "Cumplir con el numeral 3 'DIRIGIDO A' de los TdR",
+        "Inscribir y finalizar la propuesta en el SIGP",
+        "Adjuntar Anexo 5 con compromiso de contrapartida mínima del 5%",
+        "Presentar documentación legal vigente (RUT, Cámara de Comercio, RUP, cédula, antecedentes fiscales)"
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es apta para postularse como proponente a la convocatoria. No presenta bloqueantes de tipología, aunque debe verificar el cumplimiento de requisitos documentales y la contrapartida."
+    },
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "veredicto_final": {
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "bloqueantes": [],
+    "condiciones_a_verificar": [
+      "Cumplir con el numeral 3 'DIRIGIDO A' de los TdR",
+      "Inscribir y finalizar la propuesta en el SIGP",
+      "Adjuntar Anexo 5 con compromiso de contrapartida mínima del 5%",
+      "Presentar documentación legal vigente (RUT, Cámara de Comercio, RUP, cédula, antecedentes fiscales)"
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es apta para postularse como proponente a la convocatoria. No presenta bloqueantes de tipología, aunque debe verificar el cumplimiento de requisitos documentales y la contrapartida.",
+    "fuente": "reglas+llm"
+  }
+}

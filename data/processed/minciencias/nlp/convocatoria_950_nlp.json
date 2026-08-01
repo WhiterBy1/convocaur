@@ -4,40 +4,190 @@
   "actores_elegibles": [
     {
       "tipo": "Institución de Educación Superior (IES)",
-      "rol": "Miembro de la alianza mínima; puede ser entidad ejecutora",
-      "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región."
+      "rol": "ejecutor",
+      "condicion": "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales"
     },
     {
       "tipo": "Empresa Nacional",
-      "rol": "Miembro de la alianza mínima; puede ser entidad ejecutora",
-      "condicion": "Micro, pequeña, mediana o gran empresa constituida legalmente en Colombia, con ánimo de lucro, mínimo 2 años de constitución, experiencia en proyectos de I+D+i en IA, Industria 4.0 y/o Tecnologías Aeroespaciales. Debe tener domicilio en la misma región."
+      "rol": "ejecutor",
+      "condicion": "Micro, pequeña, mediana o grande empresa constituida legalmente en Colombia, con ánimo de lucro, tiempo de constitución no inferior a 2 años; experiencia en proyectos de I+D+i en IA, Industria 4.0 o Tecnologías Aeroespaciales; domicilio en la misma región"
     },
     {
       "tipo": "Organización Local - Regional",
-      "rol": "Miembro de la alianza mínima; beneficiaria de la tecnología desarrollada; participante activo en implementación, uso y apropiación",
-      "condicion": "Asociaciones, corporaciones, cooperativas, agremiaciones, federaciones, consejos comunitarios de comunidades negras formalmente constituidas, u organizaciones comunitarias. Mínimo 1 año de constitución. Debe tener domicilio en la misma región. Debe garantizar recursos humanos, técnicos y operativos."
+      "rol": "beneficiario y planteador de necesidad",
+      "condicion": "Asociaciones, corporaciones, cooperativas, agremiaciones, federaciones, consejos comunitarios de comunidades negras, organizaciones comunitarias; tiempo de constitución no inferior a 1 año; domicilio en la misma región; deben garantizar recursos humanos, técnicos y operativos para implementación"
     },
     {
-      "tipo": "Entidad Colaboradora (SNCTI, otras empresas nacionales, otras organizaciones locales-regionales, entidades colombianas o extranjeras, centros de investigación, etc.)",
-      "rol": "Colaborador; puede recibir recursos de financiación y aportar contrapartida (excepto entidades extranjeras que no están obligadas a contrapartida)",
-      "condicion": "Debe tener capacidad de aportar al logro de los objetivos del proyecto. Las entidades extranjeras no están obligadas a contrapartida."
+      "tipo": "Entidad Colaboradora",
+      "rol": "colaborador",
+      "condicion": "Entidades del SNCTI, otras empresas nacionales, otras organizaciones locales regionales, entidades colombianas o extranjeras, centros e institutos de investigación, centros de desarrollo tecnológico, centros de innovación y productividad, parques científicos, tecnológicos o de innovación; pueden recibir financiación y aportar contrapartida (excepto extranjeras)"
     },
     {
       "tipo": "Autoridad Tradicional de Resguardo Indígena",
-      "rol": "Colaborador",
-      "condicion": "Miembros de una comunidad indígena que ejercen poder de organización, gobierno, gestión o control social."
+      "rol": "colaborador",
+      "condicion": "Miembros de una comunidad indígena que ejercen poder de organización, gobierno, gestión o control social"
     },
     {
-      "tipo": "Población Afectada por el Conflicto (o sus organizaciones comunitarias, desmovilizados en espacios de reincorporación o en condición de legalidad)",
-      "rol": "Colaborador",
-      "condicion": "Registrados en el Registro Único de Víctimas o sus organizaciones comunitarias, o desmovilizados en Espacios Territoriales de Capacitación y Reincorporación o en condición de legalidad."
+      "tipo": "Población Afectada por el Conflicto",
+      "rol": "colaborador",
+      "condicion": "Registrada en el Registro Único de Víctimas o sus organizaciones comunitarias, así como desmovilizados en Espacios Territoriales de Capacitación y Reincorporación o en condición de legalidad"
     }
   ],
   "alianza_obligatoria": true,
-  "lineas_tematicas": [],
-  "requisitos": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Inteligencia Artificial",
+      "modalidad": null,
+      "descripcion_corta": "Investigación Aplicada, Desarrollo Tecnológico e Innovación en Inteligencia Artificial para contribuir al desarrollo ambiental, social y económico de las regiones."
+    },
+    {
+      "nombre": "Tecnologías Aeroespaciales",
+      "modalidad": null,
+      "descripcion_corta": "Investigación Aplicada, Desarrollo Tecnológico e Innovación en Tecnologías Aeroespaciales para contribuir al desarrollo ambiental, social y económico de las regiones."
+    }
+  ],
+  "requisitos": [
+    {
+      "texto": "Cumplir con lo establecido en el numeral 3 'DIRIGIDO A' de los TdR.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Realizar la inscripción del proyecto en el SIGP a través del formulario electrónico en www.minciencias.gov.co.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Adjuntar la carta de aval unificada y compromiso institucional (Anexo 1) firmada por todos los representantes legales de la alianza, con contrapartida según numeral 9.",
+      "tipo": "alianza",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas nacionales: estar constituidas en Colombia con mínimo 2 años de antigüedad y adjuntar certificado de existencia y representación legal.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Organizaciones locales/regionales: estar constituidas en Colombia con mínimo 1 año de antigüedad y adjuntar certificado de Cámara de Comercio o documento equivalente con vigencia ≤30 días.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Empresas nacionales: acreditar experiencia directa en I+D+i en IA/Industria 4.0 o Tecnologías Aeroespaciales/Industria 4.0, adjuntando certificaciones de mínimo 3 proyectos en últimos 5 años y Anexo 2.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar aval del comité de ética o bioética (cuando aplique) y documento de creación del comité.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Presentar evidencias de permisos y licencias ambientales necesarios (cuando aplique).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para Empresa Nacional ejecutora: diligenciar Anexo 8 y adjuntar certificación financiera con indicadores (utilidad neta ≥0 y liquidez ≥1, o endeudamiento ≤0.7 y deuda financiera entre 0 y 3.5).",
+      "tipo": "financiero",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Anexar Hoja de Vida del Investigador Principal (Anexo 3) firmada y registro en CvLAC.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para eje IA: vincular mínimo 2 jóvenes investigadores (profesionales en IA/Industria 4.0/TIC, ≤28 años, promedio ≥3.8) y adjuntar Anexo 4, cédula, diploma/acta y certificado de notas.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para eje IA: vincular mínimo 1 doctor para estancia posdoctoral en áreas afines a IA/Industria 4.0/TIC, adjuntando título o acta de grado.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para eje IA: vincular mínimo 2 estudiantes de maestría en programas afines a IA/Industria 4.0/TIC, con certificación de estudios.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para eje IA: vincular mínimo 1 semillero de investigación (≥10 estudiantes de pregrado desde 3er semestre) con Anexo 5 y tutor del grupo de investigación.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Integrantes de población negra, afrocolombiana, raizal, palenquera o ROM: anexar Certificado de Auto Reconocimiento del Ministerio del Interior (opcional, para puntos de enfoque diferencial).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Miembros de comunidad indígena: anexar Certificado del Registro de la Autoridad o Cabildo expedido por el Ministerio del Interior (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Integrantes víctimas del conflicto armado: anexar certificado de la Unidad para la Atención y Reparación Integral para las Víctimas (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Integrantes en proceso de reincorporación: adjuntar certificación de la Oficina del Alto Comisionado para la Paz como exintegrante FARC-EP en estado 'Activo' (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    },
+    {
+      "texto": "Integrantes en condición de discapacidad: adjuntar certificado de discapacidad expedido por IPS autorizadas (opcional).",
+      "tipo": "documental",
+      "severidad": "deseable"
+    }
+  ],
   "causales_rechazo": [],
-  "criterios_evaluacion": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad de la Propuesta",
+      "puntaje_max": 25.0,
+      "peso_pct": 25.0,
+      "descripcion": "Evalúa análisis del problema (hasta 15 pts) y coherencia de resultados (hasta 10 pts)."
+    },
+    {
+      "nombre": "Relevancia y Contribución al Desarrollo Regional",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Evalúa alineación con necesidades locales (hasta 10 pts)."
+    },
+    {
+      "nombre": "Diferencial de la tecnología",
+      "puntaje_max": 20.0,
+      "peso_pct": 20.0,
+      "descripcion": "Evalúa novedad (hasta 10 pts), fundamentación teórica (hasta 3 pts) y ventajas (hasta 7 pts)."
+    },
+    {
+      "nombre": "Resultados e impactos del proyecto",
+      "puntaje_max": 25.0,
+      "peso_pct": 25.0,
+      "descripcion": "Evalúa resultados esperados (hasta 5 pts), sostenibilidad (hasta 5 pts) y estrategia de apropiación (hasta 15 pts)."
+    },
+    {
+      "nombre": "Conformación y articulación de la alianza",
+      "puntaje_max": 10.0,
+      "peso_pct": 10.0,
+      "descripcion": "Evalúa conformación (hasta 5 pts) y articulación (hasta 5 pts)."
+    },
+    {
+      "nombre": "Enfoque territorial",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Evalúa ubicación en zona rural PDET o ZOMAC (hasta 5 pts)."
+    },
+    {
+      "nombre": "Enfoque diferencial",
+      "puntaje_max": 5.0,
+      "peso_pct": 5.0,
+      "descripcion": "Evalúa pertenencia a grupos poblacionales específicos (hasta 5 pts, no acumulativo)."
+    }
+  ],
   "financiacion": null,
   "meta": {
     "secciones": {
@@ -45,43 +195,78 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1748,
+        "chars_enviados": 1709,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 637,
-          "completion_tokens": 121
+          "prompt_tokens": 623,
+          "completion_tokens": 191
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": true,
-        "chars_enviados": 14018,
+        "truncado": false,
+        "chars_enviados": 11869,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3969,
-          "completion_tokens": 1157
+          "prompt_tokens": 3418,
+          "completion_tokens": 2231
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3797,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1363,
+          "completion_tokens": 716
+        }
       },
       "requisitos": {
         "clave": "requisitos",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4236,
+          "completion_tokens": 2554
+        }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3824,
+          "completion_tokens": 107
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2260,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 876,
+          "completion_tokens": 143
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7278,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2378,
+          "completion_tokens": 447
+        }
       }
     }
   },
@@ -96,18 +281,18 @@
       "actores_ies_match": [
         {
           "tipo": "Institución de Educación Superior (IES)",
-          "rol": "Miembro de la alianza mínima; puede ser entidad ejecutora",
-          "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región."
+          "rol": "ejecutor",
+          "condicion": "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales"
         }
       ],
       "condiciones_pendientes": [
         {
-          "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región.",
+          "condicion": "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales",
           "riesgo": "territorio",
           "nota": "Puede exigir sede/domicilio regional; Rosario tiene sede principal en Bogota."
         },
         {
-          "condicion": "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos. Debe tener domicilio en la misma región.",
+          "condicion": "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales",
           "riesgo": "grupos_minciencias",
           "nota": "Requiere grupos categorizados; cruzar con capacidad Rosario."
         }
@@ -127,10 +312,9 @@
         "rol_sugerido": "ejecutora",
         "bloqueantes": [],
         "condiciones_a_verificar": [
-          "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos.",
-          "Debe tener domicilio en la misma región del proyecto; actualmente su sede principal está en Bogotá D.C., lo que podría ser una limitación si el proyecto se desarrolla en otra región."
+          "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales"
         ],
-        "resumen": "La Universidad del Rosario es una IES privada elegible, pero solo puede postularse como parte de una alianza (modo solo_en_alianza) y se sugiere que actúe como entidad ejecutora. Debe verificar que cuenta con grupos de investigación categorizados y que su domicilio coincide con la región del proyecto."
+        "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, con sede en Bogotá D.C., y puede postularse a la convocatoria, pero únicamente como parte de una alianza, no en solitario. Su rol sugerido es como entidad ejecutora, aunque debe verificar que cuenta con grupos de investigación categorizados y domicilio en la región de la convocatoria."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
@@ -140,10 +324,9 @@
       "rol_sugerido": "ejecutora",
       "bloqueantes": [],
       "condiciones_a_verificar": [
-        "Debe contar con grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021, y trabajar en líneas relacionadas con TIC, Industria 4.0, IA, Tecnologías Aeroespaciales o ejes temáticos.",
-        "Debe tener domicilio en la misma región del proyecto; actualmente su sede principal está en Bogotá D.C., lo que podría ser una limitación si el proyecto se desarrolla en otra región."
+        "Grupos de investigación categorizados A, A1, B o C según convocatoria 894-2021; domicilio en la misma región; líneas de investigación relacionadas con TIC, Industria 4.0, IA o Tecnologías Aeroespaciales"
       ],
-      "resumen": "La Universidad del Rosario es una IES privada elegible, pero solo puede postularse como parte de una alianza (modo solo_en_alianza) y se sugiere que actúe como entidad ejecutora. Debe verificar que cuenta con grupos de investigación categorizados y que su domicilio coincide con la región del proyecto.",
+      "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, con sede en Bogotá D.C., y puede postularse a la convocatoria, pero únicamente como parte de una alianza, no en solitario. Su rol sugerido es como entidad ejecutora, aunque debe verificar que cuenta con grupos de investigación categorizados y domicilio en la región de la convocatoria.",
       "fuente": "reglas+llm"
     }
   }

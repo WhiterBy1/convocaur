@@ -1,10 +1,178 @@
 [
   {
-    "convocatoria": "48",
+    "convocatoria": "23",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero no se cuenta con información sobre actores elegibles ni requisitos específicos de la convocatoria que permitan confirmar su postulación. Se requiere validar la capacidad institucional y las condiciones particulares de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "24",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse porque su tipo institucional (IES privada) no está incluido como actor elegible en la convocatoria. La convocatoria exige alianzas, pero las IES no son mencionadas como posibles proponentes o ejecutores.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "25",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria con otros actores. Deberá verificar su experiencia en proyectos de CTeI relacionados con tecnologías convergentes e industrias 4.0 y cumplir con los requisitos de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "26",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por Minciencias, por lo que cumple con el perfil básico para postularse. No obstante, la elegibilidad final está sujeta a la verificación de los requisitos documentales y de contenido específicos de la convocatoria, así como a la capacidad institucional para ejecutar proyectos en las áreas temáticas indicadas.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "27",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como proponente o aliado en esta convocatoria. Debe verificar su experiencia en proyectos de CTeI y cumplir con los requisitos documentales y financieros establecidos.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "28",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible como entidad académica para postularse como proponente o aliado en la convocatoria. Sin embargo, deberá verificar que cumple con la experiencia en proyectos de CTeI en el área temática y los requisitos documentales exigidos.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "29",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "resumen": "Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como proponente individual en esta convocatoria, dado que las IES están incluidas en los actores elegibles. Debe verificar el cumplimiento del requisito de experiencia mínima en proyectos de CTeI.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "30",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada, acreditada institucionalmente y reconocida por el SNCTI, con sede principal en Bogotá. Puede postularse como entidad única (modo 'sola') a la convocatoria, siempre que cumpla con los requisitos documentales y de experiencia específicos.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "31",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada, con sede principal en Bogotá, reconocida por Minciencias y con acreditación institucional. Puede postularse sola en esta convocatoria ambiental, siempre que cumpla con el requisito de experiencia en CTeI y no requiera alianzas obligatorias.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "32",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario es elegible como proponente o aliado en esta convocatoria, ya que es una IES privada reconocida y la convocatoria incluye a las IES como actores elegibles. Sin embargo, la convocatoria exige alianzas obligatorias con al menos dos actores de diferentes hélices y la inclusión de una organización campesina como beneficiario. Además, se deben verificar condiciones como la existencia de un grupo de investigación reconocido y experiencia en proyectos CTeI con comunidades campesinas.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "33",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que puede postularse como entidad proponente en alianza. Debe verificar experiencia en proyectos CTI y el IGPR, y presentar el proyecto en alianza con otros actores elegibles.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "34",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, como IES privada con sede en Bogotá y reconocida en el SNCTI, no puede postularse a esta convocatoria porque no se ha verificado que tenga experiencia en proyectos CTel recientes ni que cumpla con los requisitos específicos del 'Dirigido a' de la convocatoria. Se requiere validar su capacidad institucional y documentación adicional.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "35",
     "puede_postularse": true,
     "modo": "solo_en_alianza",
     "rol_sugerido": "ejecutora",
-    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse en esta convocatoria, pero debe hacerlo en alianza con al menos otra IES que cuente con programas doctorales con registro calificado. Se sugiere que actúe como entidad ejecutora, sujeto a verificación de condiciones específicas como acreditación IGPR y experiencia en proyectos de formación.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "36",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, como IES privada, no es elegible para postularse como proponente o ejecutora en esta convocatoria, ya que no se incluye a las IES/universidades como actores elegibles según las reglas de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "37",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige que la postulación se realice en alianza, por lo que la universidad debe participar como miembro de una alianza y no de forma individual.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "38",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, siendo una IES privada reconocida por el SNCTI, no puede postularse como proponente o ejecutora porque la convocatoria no incluye a universidades entre los actores elegibles. Solo se permite la participación como aliado en alianzas lideradas por otro tipo de entidad, por lo que no es elegible en esta convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "39",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada, reconocida como actor SNCTI y con acreditación institucional. Cumple con los requisitos base para postularse como ejecutora en la mayoría de convocatorias Minciencias. Sin embargo, se deben verificar condiciones específicas según la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "40",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria, pero debe hacerlo exclusivamente en alianza con otros actores, ya que la convocatoria exige alianzas obligatorias. Se sugiere que asuma el rol de proponente/ejecutora, sujeto al cumplimiento de requisitos técnicos y de capacidad institucional.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "41",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores elegibles no incluyen universidades. Solo podría participar como aliada si cumple criterios de idoneidad, pero el perfil no permite determinar si puede acreditarlos.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "42",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse únicamente como miembro de una alianza, no en solitario. Debe integrarse con al menos otra IES y cumplir los requisitos de conformación de alianza establecidos en la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "43",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria, pero debe hacerlo en alianza, no de forma individual. Su rol sugerido es como aliado dentro de la alianza, sujeto a la verificación de los requisitos de conformación de la alianza y capacidades específicas.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "44",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora en una alianza, sujeto a verificar que cumpla con el requisito de pertenecer a un departamento diferente dentro de la misma región y que cuente con grupos de investigación categorizados.",
     "fuente": "reglas+llm"
   },
   {
@@ -16,11 +184,579 @@
     "fuente": "reglas+llm"
   },
   {
+    "convocatoria": "46",
+    "puede_postularse": true,
+    "modo": "solo_como_aliado",
+    "rol_sugerido": "aliado",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en calidad de aliado, ya que la convocatoria exige alianza obligatoria y asigna el rol de ejecutor principal a centros de investigación o desarrollo tecnológico. No se identifican bloqueantes adicionales, pero se recomienda verificar la capacidad institucional para cumplir con los requisitos documentales y técnicos.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "47",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria, preferiblemente como ejecutora. Debe asegurar grupos de investigación categorizados y cumplir los requisitos de la alianza, incluyendo organizaciones comunitarias.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "48",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y elegible para postularse, pero solo como parte de una alianza obligatoria en esta convocatoria. Debe verificar su acreditación, experiencia en proyectos CTeI en la región SGR, y contar con grupos de investigación categorizados. Su sede principal en Bogotá puede representar un desafío si se requiere presencia regional.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "49",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "aliado",
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianzas obligatorias, por lo que solo puede participar como miembro de una alianza, no en solitario. Debe verificar su personería jurídica, desempeño en el IGPR y disponibilidad de grupos de investigación categorizados.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "50",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida en el SNCTI, con acreditación institucional y sede principal en Bogotá. Cumple con los requisitos habilitantes para postularse como entidad ejecutora de manera individual, siempre que verifique su personería jurídica, el índice de gestión de proyectos de regalías y la vinculación de un grupo de investigación de categoría A1, A o B.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "51",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias y con acreditación institucional, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria y acreditación de domicilio en Córdoba, lo que requiere verificar su presencia en el departamento o asociarse con un actor local.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "52",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida en el SNCTI, por lo que es elegible para postularse. Sin embargo, la convocatoria exige alianza obligatoria, por lo que solo puede participar como parte de una alianza, asumiendo el rol de ejecutora. Se deben verificar condiciones específicas como acreditación vigente, grupos de investigación categorizados y experiencia en proyectos CTeI en la zona de influencia.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "913",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a empresas (micro, pequeñas, medianas y grandes). Las IES no son elegibles como ejecutoras o proponentes.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "914",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "915",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en esta convocatoria. No se identifica obligación de alianza, por lo que puede participar de forma individual como entidad ejecutora. Se deben verificar los requisitos específicos del numeral 3 y las condiciones de los jóvenes innovadores.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "916",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales en Cundinamarca, no a IES. La universidad podría participar solo como aliada si se establece una alianza, pero el perfil no indica sedes regionales ni grupos que permitan esa opción.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "917",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario (IES privada, sede Bogotá) es elegible para postularse solo en alianza como ejecutora. Debe verificar que cuenta con investigadores categorizados según convocatoria 833 de 2018.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "918",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse únicamente en alianza con otros actores del SNCTI. Su rol sugerido es como ejecutora, pero debe verificar que cuenta con un grupo de investigación categorizado según la convocatoria 833 de 2018.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "919",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, puede postularse únicamente en alianza como entidad ejecutora. Debe verificar que sus grupos de investigación estén categorizados como A1, A o B según la convocatoria 833-2018.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "920",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "921",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, con sede en Bogotá. Puede postularse como ejecutora, pero debe verificar que cuenta con revistas científicas en categoría B (cuartil 1 H5) y cumplir con la contrapartida del 30% y los demás requisitos técnicos y documentales de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "922",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "923",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse como institución a esta convocatoria, ya que los actores elegibles son exclusivamente investigadores con reconocimiento vigente y estudiantes de doctorado. La institución solo podría participar como entidad avaladora, pero no como proponente.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "924",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse porque la convocatoria está diseñada para servidores públicos del Atlántico que estudian maestrías en universidades de esa región. La universidad no es un actor elegible ni cumple las condiciones geográficas.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "926",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse como proponente o ejecutora en esta convocatoria, ya que está dirigida exclusivamente a empresas y organizaciones del sector productivo. Solo podría participar como aliada opcional si es acreditada como actor SNCTeI, pero su rol principal no es elegible.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "927",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada elegible, pero la convocatoria exige postulación en alianza. Puede participar como ejecutora, siempre que cuente con al menos un grupo de investigación clasificado (A, A1, B, C o reconocido) vigente al cierre.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "928",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a la convocatoria de estancias postdoctorales internacionales. Sin embargo, se debe confirmar si la convocatoria exige participación en alianza o permite postulación individual. Se recomienda verificar los requisitos documentales y técnicos antes de la inscripción.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "929",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria, ya que los actores elegibles son grupos de investigación y otras organizaciones, no universidades. Por lo tanto, no puede postularse.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "930",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada elegible para postularse en alianza como ejecutora, pero requiere verificar que cuenta con grupos de investigación categorizados (A1, A, B, C) o Grupos Tándem Max Planck, según lo exige la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "931",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse a la convocatoria en modalidades 1, 2 y 3. Para la Modalidad 3, debe contar con grupos de investigación reconocidos y estar interesada en vincular semilleros y jóvenes investigadores. No requiere alianza obligatoria, por lo que puede postularse sola o en alianza.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "932",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse a la convocatoria de estancias cortas de I+D+i, pero únicamente en alianza con una empresa u otro actor elegible, desempeñando el rol de entidad ejecutora. No se identifican condiciones bloqueantes adicionales a la obligatoriedad de la alianza.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "933",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario es una IES privada, pero la convocatoria está diseñada para personas naturales (estudiantes de doctorado) y no incluye a instituciones como actores elegibles, por lo tanto no puede postularse como institución.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "934",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse como institución porque la convocatoria de Estancias Posdoctorales está dirigida a personas naturales con título de doctorado. Las IES pueden actuar como entidades receptoras, pero no como postulantes directas.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "935",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "Universidad del Rosario no puede postularse porque la convocatoria no considera a las IES/universidades como actores elegibles para ser proponentes o ejecutores.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "936",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "937",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI y con acreditación institucional, por lo que es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse sola o en alianza. Debe cumplir con los requisitos técnicos y documentales de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "938",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada con acreditación institucional, reconocida en el SNCTI, y puede postularse como ejecutora en alianza obligatoria. Debe verificar la vigencia de su acreditación y la existencia de grupos de investigación categorizados.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "939",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no es elegible para postularse a esta convocatoria porque, según los actores elegibles definidos, no se incluye a las IES/universidades como entidades que pueden postular proyectos. Además, no se cuenta con información sobre el cumplimiento de las condiciones específicas de ejecución de proyectos en 2022.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "940",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario, como IES privada y actor SNCTI, es elegible para postularse como proponente en la modalidad nacional de la convocatoria, siempre que cumpla con los requisitos de contar con investigador categorizado, estudiante de doctorado o graduado de maestría, y la contrapartida financiera del 50%. Además, debe presentar una propuesta conjunta con un par internacional de Alemania o Francia.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "941",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, pero la convocatoria no incluye a las IES/universidades como actores elegibles para postularse como proponentes o ejecutoras. Por lo tanto, no puede postularse de manera directa.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "942",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada acreditada y reconocida por el SNCTI, con sede en Bogotá. Puede postularse a convocatorias Minciencias, pero se deben verificar condiciones como grupos de investigación, experiencia regional y capacidad de contrapartida.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "944",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse como proponente o ejecutora en esta convocatoria, ya que está dirigida exclusivamente a empresas. La universidad podría participar como actor del SNCTI que avala proyectos, pero no como postulante principal.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "946",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada elegible para la convocatoria, pero debe postularse en alianza obligatoria. Su rol sugerido es ejecutora, aunque la convocatoria asigna a las IES el rol de coejecutora. Se recomienda validar la capacidad institucional para cumplir requisitos específicos como grupos de investigación y contrapartida.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "947",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Universidad del Rosario, como IES privada con acreditación institucional, es elegible para postularse como entidad ejecutora en alianza con otras entidades aliadas que cumplan requisitos de domicilio regional. Debe verificar que cuenta con programa de educación con registro calificado y experiencia en el Programa Ondas, y que se presenta bajo un solo rol y una única propuesta.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "948",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Universidad del Rosario, como IES privada reconocida en el SNCTI, puede postularse como entidad ejecutora en alianza con una doctora colombiana y una joven investigadora, cumpliendo los requisitos de contrapartida y documentales.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "949",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, puede postularse en alianza con otras entidades para esta convocatoria territorial en salud. Se sugiere su rol como entidad ejecutora, sujeto a verificación de experiencia en I+D+i salud y capacidad de contrapartida.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "950",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, con sede en Bogotá D.C., y puede postularse a la convocatoria, pero únicamente como parte de una alianza, no en solitario. Su rol sugerido es como entidad ejecutora, aunque debe verificar que cuenta con grupos de investigación categorizados y domicilio en la región de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "952",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, pero la convocatoria solo permite como proponentes a entidades del SNCTI distintas a IES, o a investigadores/estudiantes/graduados como vinculados. Por tanto, no puede postularse como ejecutora ni proponente.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "953",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida únicamente a organizaciones de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. La IES no es un actor elegible según los términos de referencia.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "955",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada, reconocida por el SNCTI y con acreditación institucional, lo que la hace elegible para postularse como ejecutora en esta convocatoria de beneficio tributario. No se requiere alianza obligatoria, pero se deben verificar los requisitos generales de elegibilidad y la capacidad institucional.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "956",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "957",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por el SNCTI, pero la convocatoria solo permite postularse a personas naturales (investigadores, estudiantes, diáspora) y grupos de investigación. Por lo tanto, la universidad no puede postularse como institución.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "958",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es elegible para postularse como ejecutora en esta convocatoria. Puede presentarse de forma individual o en alianza. Debe verificar que cuenta con grupos de investigación categorizados, especialmente un grupo A1 líder y al menos otro grupo A, B o C, y cumplir con los requisitos documentales y de experiencia específica.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "959",
+    "puede_postularse": true,
+    "modo": "sola",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida en el SNCTI, es apta para postularse como proponente a la convocatoria. No presenta bloqueantes de tipología, aunque debe verificar el cumplimiento de requisitos documentales y la contrapartida.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "960",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no es elegible porque la convocatoria está dirigida exclusivamente a docentes de establecimientos educativos en subregiones de Nariño, no a instituciones de educación superior.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "962",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque el tipo de actor (Universidad/IES) no está listado entre los elegibles para ejecutoras ni aliadas. La convocatoria está dirigida a asociaciones campesinas, cooperativas, organizaciones productivas rurales como ejecutoras, y empresas o actores SNCTI específicos como aliados, sin incluir universidades.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "964",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está diseñada para profesionales docentes y directivos docentes de subregiones de Nariño, no para IES. La universidad no figura como actor elegible en los términos de referencia.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "965",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, como IES privada, no es elegible como postulante en esta convocatoria porque los actores permitidos son investigadores, estudiantes de doctorado o profesionales con maestría, y la alianza es obligatoria. La universidad solo podría participar como aliada si un investigador o estudiante la incluye, pero no como proponente principal.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "966",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, elegible para postularse en alianza como entidad ejecutora. Debe verificar que sus grupos de investigación estén categorizados y que su domicilio coincida con la región de la alianza.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "967",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, siendo una IES privada reconocida por el SNCTI, no puede postularse a esta convocatoria porque el tipo de actor 'Institución de Educación Superior' no está listado como elegible. La convocatoria está dirigida a entidades del SNCTI que vinculen jóvenes investigadores en áreas específicas de geociencias e ingeniería de petróleos, pero no contempla a las universidades como postulantes directas.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "968",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora en esta convocatoria de beneficios tributarios, ya que los actores elegibles son organizaciones ejecutoras/coejecutoras con proyectos de CTeI que hayan vinculado declarantes de renta. No se listan IES/universidades como actores elegibles.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "969",
+    "puede_postularse": true,
+    "modo": "solo_como_aliado",
+    "rol_sugerido": "aliado",
+    "resumen": "La Universidad del Rosario, por ser IES privada con sede en Bogotá, no puede asumir el rol de entidad ejecutora en esta convocatoria. Sin embargo, como actor reconocido del SNCTI, podría participar en calidad de entidad aliada dentro de una alianza que cumpla los requisitos territoriales, sujeto a verificación de su rol y aportes.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "970",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Universidad del Rosario, como IES privada reconocida en SNCTI, es elegible para postularse a la convocatoria, pero solo en alianza, no en solitario. Debe verificar que cuenta con grupos de investigación categorizados por Minciencias para cumplir con las condiciones de apoyo a empresas.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "971",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Rosario (IES) es actor elegible, pero la alianza es obligatoria: puede postularse como parte de una alianza, no en solitario.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "972",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es elegible como entidad ejecutora, pero solo puede postularse en alianza con una empresa operadora o del sector de hidrocarburos, según la modalidad de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "973",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a docentes de aula de establecimientos educativos oficiales de Cundinamarca, no a IES. La universidad no figura como actor elegible ni como aliado en los términos de referencia.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "974",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque está dirigida exclusivamente a profesionales universitarios nacidos en municipios de la Región Pacífico que cursen maestría o doctorado en la Universidad Santiago de Cali. Las IES no figuran como actores elegibles.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "975",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario es una IES privada reconocida por Minciencias, pero la convocatoria está dirigida exclusivamente a profesionales colombianos como beneficiarios directos, no a instituciones. Por lo tanto, no puede postularse como proponente ni ejecutora.",
+    "fuente": "reglas+llm"
+  },
+  {
     "convocatoria": "976",
     "puede_postularse": true,
     "modo": "solo_en_alianza",
     "rol_sugerido": "ejecutora",
     "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, es elegible para postularse en alianza obligatoria como ejecutora. Sin embargo, debe verificar que cuenta con grupos de investigación categorizados en las áreas requeridas y que tiene presencia territorial en la región objetivo, ya que su sede principal está en Bogotá.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "977",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La Universidad del Rosario, como IES privada, no es un actor elegible en esta convocatoria dirigida a revistas científicas colombianas. Por lo tanto, no puede postularse ni como proponente ni como aliado.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "978",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario puede postularse a esta convocatoria exclusivamente en alianza con otras entidades, ya que los requisitos exigen conformar una alianza. Como IES acreditada, puede ser la entidad ejecutora del proyecto, pero debe verificar que cumple con la contrapartida, la experiencia en proyectos de salud y la documentación requerida.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "1041",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, cumple con el requisito base de ser institución de educación superior, pero debe verificar que actúa como institución editora de revistas científicas indexadas en categorías B o C de la convocatoria 910-2021 y que cuenta con los ISSN correspondientes. Por lo tanto, es elegible con condiciones.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "1042",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por el SNCTI, es elegible para postularse a convocatorias Minciencias. No obstante, se deben validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida según los requisitos de la convocatoria.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "1044",
+    "puede_postularse": true,
+    "modo": "elegible_con_condiciones",
+    "rol_sugerido": "proponente",
+    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "1047",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "Universidad del Rosario, como Institución de Educación Superior privada y reconocida por el SNCTI, puede postularse como entidad ejecutora, pero debe hacerlo en alianza con el IGAC, requisito obligatorio de la invitación. Adicionalmente, debe verificar que cuenta con grupos de investigación activos para vincular jóvenes investigadores y que la propuesta se ajusta a las líneas temáticas del reto.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "1049",
+    "puede_postularse": true,
+    "modo": "solo_en_alianza",
+    "rol_sugerido": "ejecutora",
+    "resumen": "La Universidad del Rosario es una IES acreditada, elegible como entidad ejecutora en esta convocatoria. Sin embargo, debe postularse en alianza con una entidad coejecutora, un centro de ciencia y un aliado obligatorio, cumpliendo las condiciones territoriales y de permisos.",
+    "fuente": "reglas+llm"
+  },
+  {
+    "convocatoria": "1051",
+    "puede_postularse": false,
+    "modo": "no_elegible",
+    "rol_sugerido": null,
+    "resumen": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
     "fuente": "reglas+llm"
   }
 ]

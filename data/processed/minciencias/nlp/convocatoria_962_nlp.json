@@ -3,206 +3,374 @@
   "objetivo": "Fomentar el acceso, desarrollo, y adopción de nuevas tecnologías en el sector agroalimentario para su transformación hacia modelos más eficientes, sostenibles, inclusivos y resilientes, mejorando la productividad y promoviendo la difusión de tecnologías avanzadas.",
   "actores_elegibles": [
     {
-      "tipo": "Entidad ejecutora",
-      "rol": "Ejecutor principal",
-      "condicion": "Debe ser una de las siguientes: Asociaciones campesinas, asociaciones agropecuarias, cooperativas campesinas, Organizaciones Productivas Rurales. Debe tener tiempo de constitución y registro no inferior a 2 años."
+      "tipo": "Asociaciones campesinas (primer, segundo, tercer grado)",
+      "rol": "ejecutora",
+      "condicion": "Tiempo de constitución y registro no inferior a dos años"
     },
     {
-      "tipo": "Entidad aliada",
-      "rol": "Aliado",
-      "condicion": "Debe ser una de las siguientes: Empresas formalmente constituidas (Micro, Pequeña, Mediana), Actores Reconocidos del SNCTI (grupos de investigación, centros, etc.) o Tecnoparques SENA."
+      "tipo": "Asociaciones agropecuarias (primer, segundo, tercer grado)",
+      "rol": "ejecutora",
+      "condicion": "Tiempo de constitución y registro no inferior a dos años"
     },
     {
-      "tipo": "Colaborador",
-      "rol": "Colaborador",
-      "condicion": "Pueden ser otros Actores del SNCTI u otras MiPymes, vinculados adicionalmente a la alianza mínima."
+      "tipo": "Cooperativas campesinas",
+      "rol": "ejecutora",
+      "condicion": "Tiempo de constitución y registro no inferior a dos años"
+    },
+    {
+      "tipo": "Organizaciones Productivas Rurales",
+      "rol": "ejecutora",
+      "condicion": "Tiempo de constitución y registro no inferior a dos años"
+    },
+    {
+      "tipo": "Empresas formalmente constituidas (Micro, Pequeña, Mediana Empresa)",
+      "rol": "aliada",
+      "condicion": "Tiempo de constitución y registro no inferior a dos años"
+    },
+    {
+      "tipo": "Actores Reconocidos del SNCTI (Grupos de Investigación, Unidades I+D+i, Centros/Institutos de Investigación, Centros de Desarrollo Tecnológico, Centros de Innovación y Productividad, Incubadoras de Empresas de Base Tecnológica, Oficinas de Transferencia de Resultados de Investigación, Centros de Ciencia, Parques Científicos, Tecnológicos y de Innovación, Empresas Altamente Innovadoras) o Tecnoparques SENA",
+      "rol": "aliada",
+      "condicion": "Resolución de reconocimiento vigente a la fecha de cierre de la convocatoria"
     }
   ],
   "alianza_obligatoria": true,
   "lineas_tematicas": [
     {
-      "nombre": "Inteligencia Artificial aplicada al sector Agropecuario",
+      "nombre": "Línea Temática 1. Inteligencia Artificial aplicada al sector Agropecuario: Desarrollos Tecnológicos e Innovaciones",
       "modalidad": null,
-      "descripcion_corta": "Desarrollos Tecnológicos e Innovaciones donde el uso de la Inteligencia Artificial permita mejorar la gestión de recursos, la productividad y la sostenibilidad en el sector agropecuario."
+      "descripcion_corta": "Desarrollos tecnológicos e innovaciones donde el uso de la Inteligencia Artificial permita mejorar la gestión de recursos, la productividad y la sostenibilidad en el sector agropecuario."
     },
     {
-      "nombre": "Desarrollo Tecnológico e Innovación para la resiliencia y adaptación al cambio climático y a la variabilidad climática",
+      "nombre": "Línea Temática 2. Desarrollo Tecnológico e Innovación para la resiliencia y adaptación al cambio climático y a la variabilidad climática",
       "modalidad": null,
-      "descripcion_corta": "Desarrollo y adopción de tecnologías, e innovaciones para anticipar cómo el cambio climático y la variabilidad climática afectarán a la producción de alimentos y adaptar las estrategias agrícolas en consecuencia."
+      "descripcion_corta": "Desarrollo y adopción de tecnologías e innovaciones para anticipar cómo el cambio climático y la variabilidad climática afectarán la producción de alimentos y adaptar las estrategias agrícolas en consecuencia."
     },
     {
-      "nombre": "Desarrollo Tecnológico e Innovación para el Derecho Humano a la Alimentación y la Seguridad Alimentaria y Nutrición",
+      "nombre": "Línea Temática 3. Desarrollo Tecnológico e Innovación para el Derecho Humano a la Alimentación y la Seguridad Alimentaria y Nutrición",
       "modalidad": null,
-      "descripcion_corta": "Desarrollo y adopción de tecnologías, e innovaciones que conduzcan a elevar la productividad agrícola y pecuaria, el acceso a los alimentos básicos de alto valor nutritivo y de calidad, y la comercialización de productos agropecuarios."
+      "descripcion_corta": "Desarrollo y adopción de tecnologías e innovaciones que conduzcan a elevar la productividad agrícola y pecuaria, el acceso a alimentos básicos de alto valor nutritivo y de calidad, y la comercialización de productos agropecuarios."
     }
   ],
   "requisitos": [
     {
-      "texto": "Cumplir con lo establecido en el numeral 3. 'DIRIGIDA A' de los TdR.",
+      "texto": "Cumplir con lo establecido en el numeral 3. 'DIRIGIDA A' de los presentes términos de referencia.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Realizar la inscripción del proyecto en el SIGP a través del formulario electrónico.",
+      "texto": "Realizar la inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos del Ministerio – SIGP a través del formulario electrónico disponible en el portal del Ministerio.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar la carta de aval unificada y compromiso institucional (Anexo 2) debidamente diligenciada y firmada.",
+      "texto": "Adjuntar la carta de aval unificada y compromiso institucional (Anexo 2), debidamente diligenciada y firmada por los representantes legales de todas las entidades participantes.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Asociaciones Campesinas, Agropecuarias, Cooperativas u Organizaciones Productivas Rurales deben estar legalmente constituidas con al menos 2 años y adjuntar Certificado de Existencia y Representación Legal.",
+      "texto": "Las Asociaciones Campesinas o Asociaciones Agropecuarias o Cooperativas Campesinas u Organizaciones Productivas Rurales, como entidades ejecutoras, deben estar legalmente constituidas en Colombia con un tiempo de constitución no inferior a dos (2) años contado hasta la fecha de cierre de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las Empresas formalmente constituidas (Personas Jurídicas) deben tener un tiempo de constitución y registro no inferior a dos (2) años contados hasta la fecha de cierre de la convocatoria.",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Las Asociaciones Campesinas, Asociaciones Agropecuarias, Cooperativas Campesinas u Organizaciones Productivas Rurales, como entidades ejecutoras, deben contar con domicilio principal en el municipio donde se ejecutará el proyecto, manifestado en la carta de aval unificada y compromiso institucional (Anexo 2).",
+      "tipo": "habilitante",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Para acreditar experiencia en la ejecución de proyectos en la temática del proyecto propuesto, se debe remitir diligenciado el Anexo 11 – Proyectos ejecutados de la entidad ejecutora, entidad aliada y demás integrantes de la alianza.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Empresas formalmente constituidas deben tener tiempo de constitución y registro no inferior a 2 años (validado por RUES).",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Asociaciones, Cooperativas u Organizaciones Productivas Rurales deben tener domicilio principal en el municipio de ejecución, manifestado en el Anexo 2.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Acreditar experiencia en la temática del proyecto mediante el Anexo 11 – Proyectos ejecutados.",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Adjuntar certificación de Contador o Revisor Fiscal con indicadores financieros: índice de liquidez >= 1 y nivel de endeudamiento <= 0.7 (año fiscal 2023).",
+      "texto": "Las Asociaciones Campesinas, Asociaciones Agropecuarias, Cooperativas Campesinas, Organizaciones Productivas Rurales, como entidad ejecutora, deben adjuntar certificación expedida y firmada por Contador o Revisor Fiscal con copia de la tarjeta profesional, que contenga los indicadores de liquidez (LIQ = AC / PC ≥ 1) y endeudamiento (END = PT / AT ≤ 0.7) correspondientes al año fiscal 2023.",
       "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Aval del Comité de Ética de la Investigación o de Bioética (si aplica), con acto administrativo de conformación.",
+      "texto": "Aval del Comité de Ética de la Investigación o de Bioética de la Institución que presenta el Proyecto, donde especifique claramente que el proyecto ha sido revisado y avalado (si aplica).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Empresas aliadas deben diligenciar y firmar el Anexo 6 (Certificación tamaño entidad aliada).",
+      "texto": "Las Empresas formalmente constituidas (Persona Jurídica) participantes como entidades aliadas deben diligenciar y firmar el Anexo 6 (Certificación tamaño entidad aliada) y adjuntarlo en el SIGP.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar Hoja de Vida del Investigador Principal o Gerente del Proyecto según Anexo 7, firmada.",
+      "texto": "Anexar Hoja de Vida del Investigador Principal o Gerente del Proyecto, de acuerdo con el Anexo 7, firmada por la persona que ejercerá dicho rol.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para acreditar enfoque diferencial: adjuntar certificados de auto reconocimiento (población negra, indígena, víctimas, reincorporación, discapacidad) según corresponda.",
-      "tipo": "documental",
-      "severidad": "deseable"
-    },
-    {
-      "texto": "Empresas en Ruta de Emprendimiento del SENA deben aportar carta firmada por la Coordinación Nacional de Emprendimiento (fecha no mayor a 3 meses antes de apertura).",
+      "texto": "En caso de que el proyecto vincule a personas con enfoque diferencial, se debe acreditar según los soportes establecidos (certificados de auto reconocimiento, registro de autoridad indígena, certificado de víctimas, certificación de reincorporación, certificado de discapacidad).",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Para vincular Joven Investigador: adjuntar Anexo 9, copia de cédula, certificado de notas (promedio >= 3.8) y soporte de estado académico (máximo 28 años al 31/12/2024).",
+      "texto": "En lo concerniente a Empresas formalmente constituidas que participen en la Ruta de Emprendimiento del SENA, se debe aportar carta firmada por la Coordinación Nacional de Emprendimiento del SENA con fecha no mayor a tres meses calendario previo a la apertura de la convocatoria.",
       "tipo": "documental",
       "severidad": "deseable"
     },
     {
-      "texto": "Una misma entidad ejecutora solo puede radicar un único proyecto en esta convocatoria.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No presentar más de un proyecto con el mismo Investigador Principal o Gerente del Proyecto.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Cumplir cabalmente con todos los requisitos del numeral 8 de la convocatoria.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "No tener incompatibilidades, inhabilidades o conflicto de intereses para contratar según la ley.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La propuesta no debe contar con financiación simultánea de otra convocatoria del Ministerio, SGR u otras entidades del Estado.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La entidad ejecutora o aliada no debe estar ejecutando proyectos elegibles de la convocatoria 943-2023.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La entidad ejecutora o aliada no debe haber sido ejecutora de proyectos de las convocatorias 901-2021 y 926-2022.",
-      "tipo": "otro",
-      "severidad": "obligatorio"
+      "texto": "En caso de que el proyecto elija vincular un Joven Investigador e Innovador, se debe adjuntar el Anexo 9 diligenciado y firmado, copia de la cédula de ciudadanía, soporte del estado académico y certificado de notas con promedio mínimo de 3.8.",
+      "tipo": "documental",
+      "severidad": "deseable"
     }
   ],
-  "causales_rechazo": [],
-  "criterios_evaluacion": [],
-  "financiacion": null,
+  "causales_rechazo": [
+    {
+      "texto": "Una misma Asociación Campesina o Asociación Agropecuaria o Cooperativa Campesina u Organización Productiva Rural o Actor Reconocido del SNCTeI, podrá radicar en el Sistema Integrado de Gestión de Proyectos (SIGP) únicamente un solo proyecto a la presente convocatoria, en caso de que esta entidad radique más de un proyecto, inhabilitará la totalidad de los proyectos en los cuales se presente."
+    },
+    {
+      "texto": "Presentar más de un (1) proyecto con el mismo Investigador Principal o Gerente del Proyecto. En caso de concurrencia, inhabilitará los proyectos en los cuales se presenten."
+    },
+    {
+      "texto": "No cumplir cabalmente con lo establecido en el numeral 8. “REQUISITOS” de la presente convocatoria."
+    },
+    {
+      "texto": "Tener algún tipo de incompatibilidad o inhabilidad para contratar, conforme a lo dispuesto por la constitución y la ley."
+    },
+    {
+      "texto": "Que la propuesta presentada se encuentre en ejecución o la fase en la que se presenta, ya cuente con financiación simultánea de otra convocatoria, con recursos del Ministerio, del Sistema General de Regalías (SGR), o con financiación de otras entidades del Estado."
+    },
+    {
+      "texto": "Que la entidad ejecutora o la entidad aliada se encuentre ejecutando proyectos elegibles y financiables de la convocatoria 943-2023 ya sea en calidad de entidad ejecutora o aliada."
+    },
+    {
+      "texto": "Que la entidad ejecutora o la entidad aliada haya sido ejecutora de los proyectos elegibles y financiables de las convocatorias 901-2021 y 926-2022."
+    },
+    {
+      "texto": "Que la Empresa formalmente constituida (Persona Jurídica) o una Asociación Campesina o Asociación Agropecuaria o Cooperativa Campesina u Organización Productiva Rural, esté incursa en causales de disolución o liquidación."
+    },
+    {
+      "texto": "Estar reportado en el último Boletín de Responsabilidades Fiscales expedido por la Contraloría General de la República."
+    },
+    {
+      "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, la propuesta será retirada del proceso de selección y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
+    }
+  ],
+  "criterios_evaluacion": [
+    {
+      "nombre": "1.1 Claridad, coherencia, análisis de las causas y caracterización del problema",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad y coherencia en la identificación del problema, demostrando cómo limita la transformación del sector agroalimentario."
+    },
+    {
+      "nombre": "1.2 Análisis del problema, definición y valoración de necesidades",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Valora la definición, caracterización y valoración de las necesidades reales de la entidad ejecutora articulada con la línea temática."
+    },
+    {
+      "nombre": "1.3 Coherencia y articulación entre objetivos, metodología, cronograma y presupuesto",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia y articulación entre los objetivos, el diseño metodológico, el cronograma de actividades y el presupuesto total."
+    },
+    {
+      "nombre": "1.4 Claridad de resultados esperados e indicadores de medición",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad de los resultados esperados y sus indicadores, asegurando que sean cuantificables y coherentes con los objetivos."
+    },
+    {
+      "nombre": "2.1 Innovación o materialización del conocimiento en producto o proceso",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la innovación o materialización del conocimiento en un producto o proceso nuevo o mejorado, con TRL igual o superior a 5."
+    },
+    {
+      "nombre": "2.2 Pertinencia del proyecto respecto a la línea temática",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la correspondencia entre el objetivo del proyecto y la línea temática seleccionada."
+    },
+    {
+      "nombre": "2.3 Mercado objetivo: identificación y caracterización de actores",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Valora la identificación, caracterización y dimensionamiento de los principales actores que se beneficiarán de los resultados."
+    },
+    {
+      "nombre": "3.1 Novedad de la tecnología",
+      "puntaje_max": 10.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si la tecnología es disruptiva o tradicional, y el valor agregado del proceso, producto o servicio esperado."
+    },
+    {
+      "nombre": "3.2 Fundamentación teórica del proyecto",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Valora la calidad y trayectoria del desarrollo que condujo a la solución tecnológica, sustentando el estado de madurez tecnológica."
+    },
+    {
+      "nombre": "3.3 Ventajas de la tecnología",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el análisis comparativo de la tecnología frente a otras existentes en el mercado."
+    },
+    {
+      "nombre": "4.1 Resultados esperados",
+      "puntaje_max": 6.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si los resultados contribuyen a resolver la problemática identificada, generando un cambio sostenible a largo plazo."
+    },
+    {
+      "nombre": "4.2 Impacto económico",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Valora la descripción y coherencia de ingresos y/o ahorro de costos, así como la identificación de impactos sociales y ambientales."
+    },
+    {
+      "nombre": "4.3 Sostenibilidad",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la identificación de riesgos, barreras y estrategias para la continuidad del proyecto después de la financiación."
+    },
+    {
+      "nombre": "4.4 Estrategia de comercialización",
+      "puntaje_max": 7.0,
+      "peso_pct": null,
+      "descripcion": "Valora la claridad de la estrategia para alcanzar la comercialización o implementación de la tecnología."
+    },
+    {
+      "nombre": "4.5 Vinculación de jóvenes investigadores e innovadores",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la vinculación de al menos un joven investigador/innovador y la acreditación de su condición."
+    },
+    {
+      "nombre": "5.1 Complementariedad del equipo",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Valora los perfiles multidisciplinarios y aportes de los miembros del equipo en términos técnicos, empresariales, científicos y tecnológicos."
+    },
+    {
+      "nombre": "5.2 Ejecutor y aliado: capacidades técnicas",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa las capacidades técnicas del ejecutor y aliado necesarias para el éxito del proyecto."
+    },
+    {
+      "nombre": "5.3 Participación de entidad aliada vinculada a la Ruta de Emprendimiento SENA",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la vinculación de una entidad aliada que participa en la Ruta de Emprendimiento SENA, con soporte respectivo."
+    },
+    {
+      "nombre": "6.1 Desarrollo en municipio PDET o ZOMAC",
+      "puntaje_max": 3.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el proyecto se desarrolla en un municipio PDET o ZOMAC según el anexo correspondiente."
+    },
+    {
+      "nombre": "6.2 Desarrollo en departamentos priorizados",
+      "puntaje_max": 2.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa si el proyecto se desarrolla en alguno de los departamentos listados."
+    },
+    {
+      "nombre": "7. Enfoque diferencial: inclusión de personas de categorías poblacionales",
+      "puntaje_max": 5.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la inclusión en el equipo de trabajo de personas pertenecientes a categorías poblacionales como discapacidad, grupos étnicos, víctimas, etc."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "SEIS MIL SEISCIENTOS DOS MILLONES NOVECIENTOS SETENTA MIL NOVECIENTOS TRECE PESOS MCTE ($6.602.970.913)",
+    "monto_total_cop": 6602970913.0,
+    "plazo_min_meses": 12,
+    "plazo_max_meses": 12,
+    "contrapartida_pct_min": 10.0,
+    "contrapartida_pct_max": 10.0,
+    "fuente_recursos": "Ministerio de Ciencia, Tecnología e Innovación y SENA, administrados por FIDUCIARIA FIDUCOLDEX como vocera del Fondo Nacional para el Financiamiento para la Ciencia, la Tecnología y la Innovación, Fondo Francisco José de Caldas",
+    "notas": "Se reservan $330.148.548 para gastos de evaluación. Los proyectos pueden solicitar hasta $300.000.000. La contrapartida mínima es del 10% del valor total del proyecto, de la cual al menos el 50% debe ser en dinero."
+  },
   "meta": {
     "secciones": {
       "objetivo": {
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1760,
+        "chars_enviados": 1729,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 657,
-          "completion_tokens": 171
+          "prompt_tokens": 630,
+          "completion_tokens": 134
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 11767,
+        "chars_enviados": 11531,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3571,
-          "completion_tokens": 247
+          "prompt_tokens": 3485,
+          "completion_tokens": 1390
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 7435,
+        "chars_enviados": 7308,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2096,
-          "completion_tokens": 735
+          "prompt_tokens": 2048,
+          "completion_tokens": 515
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": true,
-        "chars_enviados": 14018,
+        "truncado": false,
+        "chars_enviados": 10474,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 4300,
-          "completion_tokens": 2899
+          "prompt_tokens": 3298,
+          "completion_tokens": 1253
         }
       },
       "rechazo": {
         "clave": "rechazo",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 3913,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1363,
+          "completion_tokens": 1398
+        }
       },
       "financiacion": {
         "clave": "financiacion",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 2870,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1254,
+          "completion_tokens": 249
+        }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 11616,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 3644,
+          "completion_tokens": 6044
+        }
       }
     }
   },
@@ -221,30 +389,28 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "solo_como_aliado",
-        "rol_sugerido": "aliado",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias en la temática del proyecto",
-          "Verificar que la universidad puede cumplir con los requisitos de contrapartida si aplica",
-          "Identificar una entidad ejecutora elegible para formar la alianza obligatoria"
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La Universidad del Rosario es una IES/universidad, pero la convocatoria no incluye a las IES como actor elegible para ningún rol (ejecutora o aliada).",
+          "La convocatoria exige alianza obligatoria, pero la universidad no puede participar ni como ejecutora (solo asociaciones, cooperativas, organizaciones rurales) ni como aliada (solo empresas o actores SNCTI reconocidos como grupos, centros, etc., no la institución en sí)."
         ],
-        "resumen": "La Universidad del Rosario, como actor SNCTI reconocido, puede postularse como aliado en una alianza con una entidad ejecutora elegible (asociaciones campesinas, cooperativas, etc.) para esta convocatoria. No puede ser ejecutora principal debido a que el tipo de entidad no está listado para ese rol. Se deben verificar condiciones adicionales como la existencia de grupos de investigación y la capacidad de contrapartida."
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque el tipo de actor (Universidad/IES) no está listado entre los elegibles para ejecutoras ni aliadas. La convocatoria está dirigida a asociaciones campesinas, cooperativas, organizaciones productivas rurales como ejecutoras, y empresas o actores SNCTI específicos como aliados, sin incluir universidades."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "solo_como_aliado",
-      "rol_sugerido": "aliado",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar que la universidad cuenta con grupos de investigación reconocidos por Minciencias en la temática del proyecto",
-        "Verificar que la universidad puede cumplir con los requisitos de contrapartida si aplica",
-        "Identificar una entidad ejecutora elegible para formar la alianza obligatoria"
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La Universidad del Rosario es una IES/universidad, pero la convocatoria no incluye a las IES como actor elegible para ningún rol (ejecutora o aliada).",
+        "La convocatoria exige alianza obligatoria, pero la universidad no puede participar ni como ejecutora (solo asociaciones, cooperativas, organizaciones rurales) ni como aliada (solo empresas o actores SNCTI reconocidos como grupos, centros, etc., no la institución en sí)."
       ],
-      "resumen": "La Universidad del Rosario, como actor SNCTI reconocido, puede postularse como aliado en una alianza con una entidad ejecutora elegible (asociaciones campesinas, cooperativas, etc.) para esta convocatoria. No puede ser ejecutora principal debido a que el tipo de entidad no está listado para ese rol. Se deben verificar condiciones adicionales como la existencia de grupos de investigación y la capacidad de contrapartida.",
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario no puede postularse a esta convocatoria porque el tipo de actor (Universidad/IES) no está listado entre los elegibles para ejecutoras ni aliadas. La convocatoria está dirigida a asociaciones campesinas, cooperativas, organizaciones productivas rurales como ejecutoras, y empresas o actores SNCTI específicos como aliados, sin incluir universidades.",
       "fuente": "reglas+llm"
     }
   }
