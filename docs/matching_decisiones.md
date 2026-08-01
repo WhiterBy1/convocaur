@@ -85,7 +85,7 @@ No se embeddean las 300 publicaciones completas (ruido + tokens).
 - Convocatorias NLP: **45, 48, 976**
 - Docentes: todos los JSON con texto útil
 - Cache de embeddings y rankings en `data/processed/matching/`
-- UI: `web/` (`python web/api.py`)
+- UI: `frontend/` + API `backend/` (`npm run dev` / `uvicorn app.main:app`)
 - CLI: `python scripts/run_match.py`
 
 ---

@@ -57,7 +57,7 @@ El sistema **canónico** vive en el proyecto:
 
 - Código: `src/convocaur/matching/`
 - Decisiones: [`matching_decisiones.md`](matching_decisiones.md)
-- UI: `web/` (FastAPI + grafo)
+- UI: `frontend/` + API `backend/`
 - CLI: `python scripts/run_match.py`
 - Dependencias: `scikit-learn`, `fastapi`, `uvicorn` ya están en `requirements.txt`
 

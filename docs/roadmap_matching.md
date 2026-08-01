@@ -60,7 +60,7 @@ Este documento es la hoja de ruta de evolución (índice vectorial, RAG, GrupLAC
 
 **Estado actual:** piloto operativo de matching híbrido
 (embeddings + TF-IDF + boost) con UI grafo en
-[`web/`](../web/) — ver
+[`frontend/`](../frontend/) + [`backend/`](../backend/) — ver
 [`matching_decisiones.md`](matching_decisiones.md).
 
 Cómo encaja en el relato del reto (SECOP + Minciencias):

@@ -80,7 +80,7 @@ Elegibilidad (resumen n=95): ~**61** pueden postularse en algún modo; ~**34** n
 | Código | `src/convocaur/matching/` + `scripts/run_match.py` |
 | Cache embeddings | ~615 vectores en `data/processed/matching/cache_embeddings/` |
 | Rankings precalculados | Convocatorias **45, 48, 976** (piloto UI) |
-| UI | FastAPI + HTML grafo → `web/` (puerto 8765) |
+| UI | Node (Vite+React) `frontend/` + API FastAPI `backend/` |
 
 ### 3.3 SECOP (análisis de mercado)
 
@@ -222,7 +222,8 @@ convocaur/
 ├── config/
 ├── docs/                     ← profundización por tema
 ├── scripts/                  ← orquestación CLI
-├── web/                      ← UI matching (FastAPI + grafo)
+├── frontend/                 ← UI Node (Vite + React)
+├── backend/                  ← API FastAPI (SECOP + matching)
 ├── analisis/secop/           ← SECOP Cap. 1–3 + modelos
 ├── src/convocaur/
 │   ├── paths.py              ← rutas canónicas
@@ -233,7 +234,7 @@ convocaur/
 │   └── nlp/                  ← LLM, schemas, elegibilidad
 └── data/
     ├── raw/                  ← Minciencias + Rosario (PDFs gitignored)
-    └── processed/            ← secciones, nlp, elegibilidad, matching
+    └── processed/            ← secciones, nlp, elegibilidad, matching, secop
 ```
 
 Rutas Python: `src/convocaur/paths.py`.
@@ -274,9 +275,14 @@ set PYTHONPATH=src
 python scripts/run_nlp_piloto.py --convocatorias 48,45,976
 python scripts/run_elegibilidad.py
 
-# Matching
+# Matching (recalcular rankings)
 python scripts/run_match.py --convocatorias 45,48,976
-python web/api.py               # http://127.0.0.1:8765
+
+# Dashboard (API + UI)
+set PYTHONPATH=src;backend
+python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+# otra terminal:
+cd frontend && npm install && npm run dev   # http://127.0.0.1:5173
 ```
 
 Cargar modelo Cap.3 (Python backend):

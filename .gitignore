@@ -13,6 +13,8 @@ __pycache__/
 dist/
 build/
 *.tmp
+frontend/node_modules/
+frontend/dist/
 
 # Raw de Minciencias (PDFs/DOCX descargados): pesa demasiado para git.
 # Respaldo completo en Google Drive, ver docs/catalogo_datos.md

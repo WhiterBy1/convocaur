@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "titulo": "ConvocaUR — SECOP CTeI",
+    "universo": "UNSPSC 80 / 81 / 86",
+    "fuente": "SECOP II (datos.gov.co)",
+    "ipc": "anex-IPC-jun2026 (DANE) interpolado",
+    "csv_preferido": "secop_ctei_procesos_deflactado_sin_implausibles.csv",
+    "fecha_corte_modelo": "2025-07-01"
+  },
+  "universo": {
+    "n_procesos_total": 492784,
+    "n_competitivos": 69671,
+    "pct_competitivos": 0.141,
+    "tasa_adjudicacion_competitivos": 0.553,
+    "n_resueltos": 43566,
+    "tasa_resuelto": 0.863,
+    "n_abiertos": 26105,
+    "nota": "En régimen especial/directa la adjudicación observada es ~0%; el modelo Cap.3 opera solo sobre modalidades competitivas."
+  },
+  "capacidad_1": {
+    "titulo": "Tendencias históricas",
+    "unspsc_mix": [
+      { "codigo": "81", "nombre": "Ingeniería / investigación / tecnología", "pct": 0.444 },
+      { "codigo": "80", "nombre": "Gestión / servicios profesionales", "pct": 0.347 },
+      { "codigo": "86", "nombre": "Educación / capacitación", "pct": 0.209 }
+    ],
+    "fondos_administrados": {
+      "n_procesos": 109,
+      "pct_valor": 0.281,
+      "nota": "Pocos megacontratos concentran ~28% del valor; conviene mirar series con y sin fondos."
+    },
+    "estacionalidad": {
+      "kruskal_h": 99.4,
+      "kruskal_p": 2.31e-16,
+      "stl_fuerza_estacional": 0.27,
+      "spearman_rho_rango": [0.32, 0.57],
+      "lectura": "El mes afecta el volumen (Kruskal significativo), pero no hay un patrón mensual idéntico año a año (Spearman moderado)."
+    },
+    "serie_ilustrativa": [
+      { "periodo": "2022-H2", "n_index": 62, "valor_index": 55, "valor_sin_fondos_index": 48 },
+      { "periodo": "2023-H1", "n_index": 78, "valor_index": 72, "valor_sin_fondos_index": 61 },
+      { "periodo": "2023-H2", "n_index": 85, "valor_index": 88, "valor_sin_fondos_index": 70 },
+      { "periodo": "2024-H1", "n_index": 92, "valor_index": 95, "valor_sin_fondos_index": 78 },
+      { "periodo": "2024-H2", "n_index": 100, "valor_index": 100, "valor_sin_fondos_index": 82 },
+      { "periodo": "2025-H1", "n_index": 96, "valor_index": 91, "valor_sin_fondos_index": 80 }
+    ],
+    "nota_serie": "Índices relativos (base 100 = pico 2024-H2) para visualización; series absolutas viven en notebooks Capacidad1."
+  },
+  "capacidad_2": {
+    "titulo": "Dinámicas de mercado",
+    "hhi": {
+      "antes_outliers": 9995.4,
+      "despues_correccion": 116.1,
+      "lectura": "Sin filtrar implausibles el HHI explota por outliers; el mercado agregado corregido es poco concentrado."
+    },
+    "pareto": {
+      "proveedores_80pct_valor": 1044,
+      "proveedores_total": 17179,
+      "pct_proveedores": 0.061
+    },
+    "nichos_hhi_ejemplo": [
+      { "entidad": "Minas y Energía (ejemplo nicho)", "hhi": 7610 },
+      { "entidad": "Aerocafé (ejemplo nicho)", "hhi": 9391 },
+      { "entidad": "INVIAS (ejemplo nicho)", "hhi": 164 }
+    ],
+    "rotacion": "Alta rotación de proveedores entre años: el ranking de participación no se congela.",
+    "siguiente_mejora": "Taxonomía semántica por embeddings del objeto contractual (el segmento tabular apenas supera al trivial)."
+  },
+  "capacidad_3": {
+    "titulo": "Predicción",
+    "adjudicacion_competitivo": {
+      "modelo": "LightGBM",
+      "auc_roc": 0.811,
+      "accuracy": 0.754,
+      "n_train": 51813,
+      "n_test": 17562,
+      "usar_en_produccion": true,
+      "lectura": "Mejor señal al publicar el proceso (universo competitivo completo)."
+    },
+    "adjudicacion_solo_resueltos": {
+      "modelo": "Logística",
+      "auc_roc": 0.609,
+      "accuracy": 0.707,
+      "usar_en_produccion": false,
+      "lectura": "No usar en vivo: censura y accuracy engañosa del trivial."
+    },
+    "presupuesto_bins": {
+      "modelo": "HistGradientBoosting",
+      "acc_trivial": 0.277,
+      "acc_modelo": 0.613,
+      "f1_macro": 0.591,
+      "bins_labels": ["Q1_bajo", "Q2", "Q3", "Q4_alto"]
+    },
+    "segmento_unspsc": {
+      "modelo": "HistGradientBoosting",
+      "acc_trivial": 0.625,
+      "acc_modelo": 0.684,
+      "f1_macro": 0.518,
+      "clases": ["80", "81", "86"],
+      "lectura": "Ganancia débil vs trivial → embeddings del objeto son el siguiente frente."
+    },
+    "comparativo_modelos": [
+      { "tarea": "Adjudicación (competitivo)", "metrica": "AUC", "valor": 0.811, "baseline": null },
+      { "tarea": "Adjudicación (solo resueltos)", "metrica": "AUC", "valor": 0.609, "baseline": null },
+      { "tarea": "Presupuesto Q1–Q4", "metrica": "Accuracy", "valor": 0.613, "baseline": 0.277 },
+      { "tarea": "Segmento UNSPSC", "metrica": "Accuracy", "valor": 0.684, "baseline": 0.625 }
+    ]
+  },
+  "matching": {
+    "formula": "0.7·cos(emb) + 0.3·cos(tfidf) + boost",
+    "modelo_embeddings": "openai/text-embedding-3-small",
+    "piloto_convocatorias": ["45", "48", "976"],
+    "pool_docentes": 612,
+    "con_cvlac": 353
+  }
+}

@@ -50,7 +50,8 @@ def texto_convocatoria(nlp: dict[str, Any]) -> str:
     elif nlp.get("alianza_obligatoria") is False:
         partes.append("Alianza obligatoria: no")
 
-    return _clip("\n".join(partes), 3500)
+    text = _clip("\n".join(partes), 3500)
+    return text if text.strip() else "Convocatoria sin texto NLP estructurado"
 
 
 def _categoria_cvlac(doc: dict[str, Any]) -> str | None:

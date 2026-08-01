@@ -220,7 +220,7 @@ score = 0.7\cdot\cos_{emb} + 0.3\cdot\cos_{tfidf} + boost
 - Boost suave por CvLAC / categoría Minciencias.
 - UI FastAPI + grafo convocatoria → top docentes → aportes al puntaje.
 
-Detalle técnico: [`matching_decisiones.md`](matching_decisiones.md), UI en [`../web/`](../web/).
+Detalle técnico: [`matching_decisiones.md`](matching_decisiones.md), UI en [`../frontend/`](../frontend/).
 
 **Qué aporta al reto:** no predice adjudicaciones SECOP; **opera** la capa de talento para oportunidades CTeI detectables en Minciencias — el eslabón que el análisis de mercado no puede cerrar solo.
 
@@ -232,7 +232,7 @@ Detalle técnico: [`matching_decisiones.md`](matching_decisiones.md), UI en [`..
 |-------|-----------|
 | Análisis SECOP Cap. 1–3 + CSV + IPC | `convocaur/analisis/secop/` |
 | Pipeline Minciencias + NLP + elegibilidad | `convocaur/` (`src/`, `data/`, `scripts/`) |
-| Matching + UI grafo | `convocaur/src/convocaur/matching/` + `convocaur/web/` |
+| Matching + UI | `src/convocaur/matching/` + `backend/` + `frontend/` |
 | Docs de arquitectura ConvocaUR | `convocaur/docs/` |
 
 ---

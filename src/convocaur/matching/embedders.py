@@ -134,11 +134,13 @@ class OpenRouterEmbedder:
         raise RuntimeError(f"No se pudo embeddear batch: {last_err}")
 
     def embed_texts(self, texts: list[str], show_progress: bool = True) -> np.ndarray:
-        vectors: list[list[float] | None] = [None] * len(texts)
+        # OpenRouter rechaza strings vacíos; usamos placeholder cacheable.
+        safe_texts = [t if (t and t.strip()) else " " for t in texts]
+        vectors: list[list[float] | None] = [None] * len(safe_texts)
         pending_idx: list[int] = []
         pending_txt: list[str] = []
 
-        for i, t in enumerate(texts):
+        for i, t in enumerate(safe_texts):
             cached = self._get_cached(t)
             if cached is not None:
                 vectors[i] = cached
@@ -149,7 +151,7 @@ class OpenRouterEmbedder:
         if show_progress:
             log.info(
                 "Embeddings: %s cache hit, %s a pedir (%s)",
-                len(texts) - len(pending_txt),
+                len(safe_texts) - len(pending_txt),
                 len(pending_txt),
                 self.model,
             )
