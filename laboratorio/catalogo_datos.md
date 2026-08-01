@@ -1,7 +1,6 @@
 # Catálogo de datos ConvocaUR
 
-Rutas relativas a la carpeta `convocaur/`.  
-En notebooks usa el loader `_comun/cargar_datos.py` (no hardcodees paths si puedes evitarlo).
+> Cifras canónicas y el “porqué” de filtros/fuentes: **[`README.md`](../README.md)** (doc maestro, raíz de `convocaur/`).
 
 ---
 
