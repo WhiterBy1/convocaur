@@ -17,14 +17,28 @@ CANONICAS = {
 }
 
 # Orden importa: primera coincidencia gana
+#
+# Nota: términos ambiguos que pueden aparecer en secciones distintas a la
+# canónica (p. ej. "DEMANDAS TERRITORIALES" vs "LÍNEAS TEMÁTICAS", o
+# "PROCEDIMIENTO DE EVALUACIÓN" vs "CRITERIOS DE EVALUACIÓN") NO se agregan
+# aquí a propósito: en la plantilla estándar SGR/Minciencias la sección débil
+# siempre aparece antes que la sección específica en el documento, y
+# `seleccionar_secciones_p0` se queda con la primera coincidencia — agregarlos
+# aquí le robaría la clave a la sección correcta en convocatorias que ya la
+# tienen completa. Esos términos siguen cubiertos como último recurso en
+# `piloto_tdr.construir_texto_para_clave`, que solo actúa cuando la sección
+# canónica está ausente o vacía.
 REGLAS = [
-    ("objetivo", re.compile(r"^OBJETIVO$")),
-    ("dirigida_a", re.compile(r"^DIRIGID[AO] A$")),
-    ("lineas_tematicas", re.compile(r"(LINEAS? TEMATICAS|EJES Y LINEAS|MODALIDADES DE PARTICIPACION)")),
+    ("objetivo", re.compile(r"^(OBJETIVO|OBJETIVOS|OBJETO)$")),
+    ("dirigida_a", re.compile(r"^(DIRIGID[AO] A|MECANISMOS DE PARTICIPACION)$")),
+    (
+        "lineas_tematicas",
+        re.compile(r"(LINEAS? TEMATICAS|EJES Y LINEAS|EJES TEMATICOS|MODALIDADES DE PARTICIPACION|LINEAS? DE ACCION|^TEMATICAS$)"),
+    ),
     ("requisitos", re.compile(r"(REQUISITOS HABILITANTES|^REQUISITOS$)")),
-    ("rechazo", re.compile(r"(CAUSALES DE RECHAZO|CONDICIONES DE RECHAZO|CONDICIONES INHABILITANTES)")),
+    ("rechazo", re.compile(r"(CAUSALES DE RECHAZO|CONDICIONES DE RECHAZO|CONDICIONES INHABILITANTES|INHABILIDADES)")),
     ("financiacion", re.compile(r"(DURACION Y FINANCIACION|DURACION Y RECURSOS|^FINANCIACION)")),
-    ("criterios", re.compile(r"^CRITERIOS DE EVALUACION$")),
+    ("criterios", re.compile(r"CRITERIOS DE EVALUACION")),
 ]
 
 

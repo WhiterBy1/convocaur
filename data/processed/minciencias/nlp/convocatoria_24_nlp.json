@@ -4,40 +4,46 @@
   "actores_elegibles": [
     {
       "tipo": "Academia",
-      "rol": "Aliado",
-      "condicion": "Instituciones de Educación Superior públicas o privadas: Instituciones Técnicas Profesionales, Instituciones Tecnológicas, Instituciones Universitarias o Escuelas Tecnológicas, Universidades. Incluye ESAP, ITEC, Instituto Caro y Cuervo, Universidad Militar Nueva Granada, Escuelas de Formación de las Fuerzas Militares y Policía Nacional con programas de Educación Superior, SENA y Escuela Nacional del Deporte."
+      "rol": null,
+      "condicion": "Instituciones de Educación Superior públicas o privadas, incluyendo IES, ESAP, ITEC, SENA, etc."
     },
     {
       "tipo": "Sector Productivo",
-      "rol": "Aliado",
-      "condicion": "Persona jurídica de economía mixta, pública o privada con ánimo de lucro, gremio, cámara de comercio, centro de desarrollo empresarial o corporación legalmente constituida en Colombia con operaciones nacional/regional. También entidades independientes clasificadas como: Generación de conocimiento científico, Desarrollo tecnológico y transferencia de tecnología, Innovación y productividad."
+      "rol": null,
+      "condicion": "Personas jurídicas de economía mixta, pública o privada con ánimo de lucro, gremios, cámaras de comercio, centros de desarrollo empresarial, o entidades autónomas de I+D+i."
     },
     {
       "tipo": "Estado",
-      "rol": "Aliado",
+      "rol": null,
       "condicion": "Entidades gubernamentales del orden nacional, regional, departamental o municipal."
     },
     {
       "tipo": "Sociedad Civil Organizada",
-      "rol": "Aliado",
-      "condicion": "Asociación, fundación, corporación, entidad del tercer sector, agremiación, grupos u organizaciones comunitarias con personería jurídica legalmente constituidas en Colombia con operaciones nacional/regional."
-    },
-    {
-      "tipo": "Entidad proponente (reconocida como actor SNCTI)",
-      "rol": "Proponente",
-      "condicion": "Con reconocimiento vigente de Minciencias como actor SNCTI según artículo 1.2.3.2.2 del Decreto 1821 de 2020, literal a."
-    },
-    {
-      "tipo": "Entidad proponente (sin reconocimiento previo)",
-      "rol": "Proponente",
-      "condicion": "Haber realizado actividades de CTI y cumplir con criterios de idoneidad y trayectoria que establezcan los TdR, según literal b del mismo artículo. Debe demostrar experiencia en 3 proyectos de CTI en últimos 5 años o 1 proyecto con recursos de CTeI del SGR."
+      "rol": null,
+      "condicion": "Asociaciones, fundaciones, corporaciones, entidades del tercer sector, agremiaciones, grupos u organizaciones comunitarias con personería jurídica."
     }
   ],
   "alianza_obligatoria": true,
-  "lineas_tematicas": [],
+  "lineas_tematicas": [
+    {
+      "nombre": "Biodiversidad Marina y Oceanografía",
+      "modalidad": null,
+      "descripcion_corta": "Incluye cartografía de biodiversidad marina, oceanografía, bioprospección, inventario de especies y evaluación de ecosistemas marinos y costeros."
+    },
+    {
+      "nombre": "Aguas subterráneas, recursos dulceacuícolas y pesca",
+      "modalidad": null,
+      "descripcion_corta": "Estudio de ecosistemas continentales y estratégicos, historias de vida de especies clave y monitoreo de salud de ecosistemas."
+    },
+    {
+      "nombre": "Cambio climático",
+      "modalidad": null,
+      "descripcion_corta": "Cuantificación, monitoreo, modelación y predicción de daños, carbono inorgánico/orgánico, inventario de reservas y modelación de riesgo climático."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Inscribir la propuesta en el SIGP ajustada al objetivo de la convocatoria y contener la información del numeral 8.",
+      "texto": "Inscribir la propuesta en el SIGP, ajustada al objetivo de la convocatoria, con la información del numeral 8.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
@@ -47,43 +53,43 @@
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar la Carta de aval y compromiso institucional unificada (Anexo 1b) firmada por representantes legales de todas las entidades nacionales de la alianza.",
+      "texto": "Adjuntar la 'Carta de aval y compromiso institucional unificada' firmada por los representantes legales de todas las entidades nacionales de la alianza, con documentos que acrediten facultades.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el documento técnico según contenido del numeral 8.1 (Anexo 2).",
+      "texto": "Adjuntar el documento técnico según el contenido del numeral 8, subnumeral 8.1 (Anexo 2).",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el presupuesto requerido según numeral 8.2 (Anexo 3), cumpliendo condiciones del numeral 10 (Duración y Financiación).",
-      "tipo": "documental",
+      "texto": "Adjuntar el presupuesto requerido según numeral 8, subnumeral 8.2 (Anexo 3), cumpliendo las condiciones del numeral 10.",
+      "tipo": "financiero",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Anexar el Modelo de Gobernanza de la alianza (Anexo 4) suscrito por representantes legales, incluyendo estructura, coordinación, propiedad intelectual, sostenibilidad, etc.",
-      "tipo": "documental",
+      "texto": "Anexar el Modelo de Gobernanza de la alianza, suscrito por representantes legales, incluyendo estructura de coordinación, modelo de operación, mecanismos de toma de decisiones, gestión de adquisiciones y estrategia de sostenibilidad.",
+      "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Adjuntar el formato de Proyectos de CTeI gestionados (Anexo 5) debidamente diligenciado, soportado con documentación, demostrando experiencia en al menos 3 proyectos de CTeI en los últimos 5 años relacionados con la temática.",
-      "tipo": "documental",
+      "texto": "Adjuntar el formato de 'Proyectos de CTeI gestionados, ejecutados o en ejecución' con soportes, y demostrar experiencia en al menos tres proyectos de CTeI en los últimos cinco años o proyectos con recursos del SGR relacionados con la temática.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director de la institución internacional.",
-      "tipo": "documental",
+      "texto": "Para entidades internacionales, anexar carta de intención de participación suscrita por el director del instituto, centro, escuela, departamento o grupo de investigación, en español o inglés.",
+      "tipo": "alianza",
       "severidad": "obligatorio"
     },
     {
-      "texto": "El investigador principal debe estar vinculado a alguna entidad de la alianza, relacionar su CvLAC (o hoja de vida actualizada), y solo puede ser IP en 1 propuesta.",
+      "texto": "El investigador principal debe estar vinculado a alguna entidad de la alianza, relacionar su CvLAC en la propuesta, y solo podrá ser IP en una sola propuesta.",
       "tipo": "habilitante",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Para entidades del sector productivo en alianza, demostrar constitución mínima de 5 años y no estar en liquidación, presentar certificado de existencia y representación legal no mayor a 90 días.",
-      "tipo": "documental",
+      "texto": "Para entidades del sector productivo, demostrar constitución mínima de cinco años a partir de la fecha de apertura, no estar en liquidación, y presentar certificado de existencia y representación legal no mayor a 90 días.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     }
   ],
@@ -113,7 +119,32 @@
       "texto": "En caso de que se encuentre algún tipo de alteración a los documentos presentados para participar en la convocatoria, la propuesta de programa será retirada del proceso de selección y el Ministerio informará a las instancias administrativas y judiciales sobre dicha situación."
     }
   ],
-  "criterios_evaluacion": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Calidad científico-técnica y presupuestal de la propuesta de proyecto",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la congruencia entre problemática, objetivos, alternativa de solución, metodología, cadena de valor y presupuesto para conseguir resultados en CTeI."
+    },
+    {
+      "nombre": "Contribución al desarrollo regional y al fortalecimiento de capacidades propias en materia de ciencia, tecnología e innovación",
+      "puntaje_max": 15.0,
+      "peso_pct": null,
+      "descripcion": "Incluye impactos y productos de CTeI para departamentos de las regiones del SGR y vinculación de personal de alto nivel (estancias posdoctorales) mínimo por 12 meses."
+    },
+    {
+      "nombre": "Idoneidad y trayectoria de la entidad proponente y de los aliados",
+      "puntaje_max": 35.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa experiencia de la entidad proponente en proyectos CTeI del SGR, idoneidad de grupos de investigación, trayectoria del investigador principal, participación de entidades de la cuádruple hélice y aportes de los integrantes de la alianza."
+    },
+    {
+      "nombre": "Pertinencia e impacto del proyecto al desarrollo regional",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa el aporte al cumplimiento de retos y desafíos de la MIS 2019, contribución a acciones de CONPES 4069 y 3990, y relación con demandas territoriales."
+    }
+  ],
   "financiacion": {
     "monto_total_texto": "VEINTE MIL MILLONES DE PESOS M/CTE ($ 20.000.000.000)",
     "monto_total_cop": 20000000000.0,
@@ -122,7 +153,7 @@
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
     "fuente_recursos": "Asignación para la CTeI del SGR",
-    "notas": "Las propuestas pueden solicitar recursos al SGR de mínimo $5.000.000.000 hasta máximo $20.000.000.000."
+    "notas": "Las propuestas pueden solicitar recursos al SGR desde $5.000.000.000 hasta $20.000.000.000."
   },
   "meta": {
     "secciones": {
@@ -145,12 +176,19 @@
         "intento": 1,
         "usage": {
           "prompt_tokens": 1496,
-          "completion_tokens": 568
+          "completion_tokens": 1834
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6406,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2040,
+          "completion_tokens": 734
+        }
       },
       "requisitos": {
         "clave": "requisitos",
@@ -159,8 +197,8 @@
         "chars_enviados": 9069,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2862,
-          "completion_tokens": 3726
+          "prompt_tokens": 2839,
+          "completion_tokens": 1975
         }
       },
       "rechazo": {
@@ -181,58 +219,21 @@
         "chars_enviados": 6160,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 2017,
-          "completion_tokens": 148
+          "prompt_tokens": 2039,
+          "completion_tokens": 159
         }
       },
       "criterios": {
         "clave": "criterios",
-        "error": "seccion_ausente"
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7593,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2581,
+          "completion_tokens": 382
+        }
       }
-    }
-  },
-  "elegibilidad_urosario": {
-    "institucion": "Universidad del Rosario",
-    "reglas": {
-      "puede_postularse": false,
-      "modo": "no_elegible",
-      "rol_sugerido": null,
-      "confianza": "alta",
-      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
-      "actores_ies_match": [],
-      "condiciones_pendientes": [],
-      "capa": "reglas"
-    },
-    "llm": {
-      "ok": true,
-      "data": {
-        "puede_postularse": true,
-        "modo": "solo_en_alianza",
-        "rol_sugerido": "aliado",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar que la Universidad del Rosario cumpla con los requisitos de actor SNCTI (reconocimiento vigente o experiencia en 3 proyectos de CTI en últimos 5 años o 1 proyecto con recursos SGR).",
-          "Asegurar que la alianza incluya una entidad proponente elegible (actor SNCTI reconocido o que cumpla criterios de idoneidad).",
-          "Validar que la propuesta se ajuste al objetivo de fomento de Ciencias del mar y recursos hidrobiológicos.",
-          "Confirmar que se adjunten todos los anexos requeridos (carta de aval, documento técnico, presupuesto, modelo de gobernanza, formato de proyectos)."
-        ],
-        "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse únicamente en alianza, desempeñando el rol de aliado. Debe verificar su elegibilidad como actor SNCTI y cumplir con los requisitos documentales de la convocatoria."
-      },
-      "model": "deepseek/deepseek-v4-flash"
-    },
-    "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "solo_en_alianza",
-      "rol_sugerido": "aliado",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar que la Universidad del Rosario cumpla con los requisitos de actor SNCTI (reconocimiento vigente o experiencia en 3 proyectos de CTI en últimos 5 años o 1 proyecto con recursos SGR).",
-        "Asegurar que la alianza incluya una entidad proponente elegible (actor SNCTI reconocido o que cumpla criterios de idoneidad).",
-        "Validar que la propuesta se ajuste al objetivo de fomento de Ciencias del mar y recursos hidrobiológicos.",
-        "Confirmar que se adjunten todos los anexos requeridos (carta de aval, documento técnico, presupuesto, modelo de gobernanza, formato de proyectos)."
-      ],
-      "resumen": "La Universidad del Rosario, como IES privada reconocida por el SNCTI, puede postularse únicamente en alianza, desempeñando el rol de aliado. Debe verificar su elegibilidad como actor SNCTI y cumplir con los requisitos documentales de la convocatoria.",
-      "fuente": "reglas+llm"
     }
   }
 }

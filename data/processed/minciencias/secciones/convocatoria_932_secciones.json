@@ -2,21 +2,189 @@
   "archivo": "convocatoria_932_tdr.pdf",
   "convocatoria": "932",
   "n_paginas": 19,
-  "n_caracteres_total": 67945,
-  "toc_detectado": [],
-  "n_secciones_toc": 0,
-  "n_secciones_cuerpo": 0,
-  "fingerprint": "",
-  "titulos_norm": [],
+  "n_caracteres_total": 66237,
+  "toc_detectado": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "pagina_toc": 2
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO GENERAL",
+      "titulo_norm": "OBJETIVO GENERAL",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 3,
+      "titulo": "OBJETIVOS ESPECÍFICOS",
+      "titulo_norm": "OBJETIVOS ESPECIFICOS",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 4,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 5,
+      "titulo": "FOCOS TEMÁTICOS",
+      "titulo_norm": "FOCOS TEMATICOS",
+      "pagina_toc": 4
+    },
+    {
+      "numero": 6,
+      "titulo": "ORIENTACIONES GENERALES",
+      "titulo_norm": "ORIENTACIONES GENERALES",
+      "pagina_toc": 5
+    },
+    {
+      "numero": 7,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "pagina_toc": 7
+    },
+    {
+      "numero": 8,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "pagina_toc": 9
+    },
+    {
+      "numero": 9,
+      "titulo": "CONDICIONES INHABILITANTES",
+      "titulo_norm": "CONDICIONES INHABILITANTES",
+      "pagina_toc": 10
+    },
+    {
+      "numero": 10,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "pagina_toc": 11
+    },
+    {
+      "numero": 11,
+      "titulo": "CONTENIDOS DE LA PROPUESTA",
+      "titulo_norm": "CONTENIDOS DE LA PROPUESTA",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 12,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "pagina_toc": 12
+    },
+    {
+      "numero": 13,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 14,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "pagina_toc": 13
+    },
+    {
+      "numero": 15,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "pagina_toc": 14
+    },
+    {
+      "numero": 16,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "pagina_toc": 15
+    },
+    {
+      "numero": 17,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "pagina_toc": 16
+    },
+    {
+      "numero": 18,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "pagina_toc": 16
+    },
+    {
+      "numero": 19,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "pagina_toc": 17
+    },
+    {
+      "numero": 20,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "pagina_toc": 17
+    },
+    {
+      "numero": 21,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "pagina_toc": 18
+    },
+    {
+      "numero": 22,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "pagina_toc": 18
+    },
+    {
+      "numero": 23,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "pagina_toc": 18
+    },
+    {
+      "numero": 24,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "pagina_toc": 18
+    }
+  ],
+  "n_secciones_toc": 24,
+  "n_secciones_cuerpo": 24,
+  "fingerprint": "1.PRESENTACION > 2.OBJETIVO GENERAL > 3.OBJETIVOS ESPECIFICOS > 4.DIRIGIDA A > 5.FOCOS TEMATICOS > 6.ORIENTACIONES GENERALES > 7.REQUISITOS > 8.ENFOQUE DIFERENCIAL > 9.CONDICIONES INHABILITANTES > 10.DURACION Y FINANCIACION > 11.CONTENIDOS DE LA PROPUESTA > 12.PROCEDIMIENTO DE INSCRIPCION > 13.AUTORIZACION USO DE DATOS PERSONALES > 14.CRITERIOS DE EVALUACION > 15.PROCEDIMIENTO DE EVALUACION > 16.BANCO DE ELEGIBLES > 17.ACLARACIONES > 18.CRONOGRAMA > 19.MODIFICACIONES > 20.PROPIEDAD INTELECTUAL > 21.VEEDURIAS CIUDADANAS > 22.ANEXOS > 23.ACEPTACION DE TERMINOS Y VERACIDAD > 24.MAS INFORMACION",
+  "titulos_norm": [
+    "PRESENTACION",
+    "OBJETIVO GENERAL",
+    "OBJETIVOS ESPECIFICOS",
+    "DIRIGIDA A",
+    "FOCOS TEMATICOS",
+    "ORIENTACIONES GENERALES",
+    "REQUISITOS",
+    "ENFOQUE DIFERENCIAL",
+    "CONDICIONES INHABILITANTES",
+    "DURACION Y FINANCIACION",
+    "CONTENIDOS DE LA PROPUESTA",
+    "PROCEDIMIENTO DE INSCRIPCION",
+    "AUTORIZACION USO DE DATOS PERSONALES",
+    "CRITERIOS DE EVALUACION",
+    "PROCEDIMIENTO DE EVALUACION",
+    "BANCO DE ELEGIBLES",
+    "ACLARACIONES",
+    "CRONOGRAMA",
+    "MODIFICACIONES",
+    "PROPIEDAD INTELECTUAL",
+    "VEEDURIAS CIUDADANAS",
+    "ANEXOS",
+    "ACEPTACION DE TERMINOS Y VERACIDAD",
+    "MAS INFORMACION"
+  ],
   "comparacion_plantilla_sgr": {
-    "n_en_doc": 0,
+    "n_en_doc": 24,
     "n_plantilla": 21,
     "coinciden_exacto": false,
-    "cobertura_plantilla": 0.0,
+    "cobertura_plantilla": 0.333,
     "faltan_vs_plantilla": [
-      "PRESENTACION",
       "OBJETIVO",
-      "DIRIGIDA A",
       "DEMANDAS TERRITORIALES",
       "LINEAS TEMATICAS",
       "ALCANCE DEL PROYECTO",
@@ -26,17 +194,199 @@
       "REQUISITOS HABILITANTES",
       "CAUSALES DE RECHAZO",
       "CONTENIDO DEL PROYECTO",
-      "PROCEDIMIENTO DE INSCRIPCION",
-      "DURACION Y FINANCIACION",
-      "CRITERIOS DE EVALUACION",
-      "PROCEDIMIENTO DE EVALUACION",
       "LISTADO DE ELEGIBLES",
       "OBSERVACIONES AL LISTADO DE HABILITADOS Y ELEGIBLES",
       "VIGILANCIA DE LOS PROYECTOS",
-      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS",
-      "CRONOGRAMA"
+      "REVISION DE REQUISITOS DEL SISTEMA GENERAL DE REGALIAS"
     ],
-    "extra_vs_plantilla": []
+    "extra_vs_plantilla": [
+      "OBJETIVO GENERAL",
+      "OBJETIVOS ESPECIFICOS",
+      "FOCOS TEMATICOS",
+      "ORIENTACIONES GENERALES",
+      "REQUISITOS",
+      "ENFOQUE DIFERENCIAL",
+      "CONDICIONES INHABILITANTES",
+      "CONTENIDOS DE LA PROPUESTA",
+      "AUTORIZACION USO DE DATOS PERSONALES",
+      "BANCO DE ELEGIBLES",
+      "ACLARACIONES",
+      "MODIFICACIONES",
+      "PROPIEDAD INTELECTUAL",
+      "VEEDURIAS CIUDADANAS",
+      "ANEXOS",
+      "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "MAS INFORMACION"
+    ]
   },
-  "secciones": []
+  "secciones": [
+    {
+      "numero": 1,
+      "titulo": "PRESENTACIÓN",
+      "titulo_norm": "PRESENTACION",
+      "texto": "El artículo 1° de la Ley 2162 de 2021, establece el objeto de la presente ley, mediante la cual se crea el Ministerio de\nCiencia, Tecnología e Innovación de acuerdo a la Constitución y la ley, para contar con el ente rector de la política de\nciencia, tecnología e innovación que genere capacidades, promueva el conocimiento científico y tecnológico, contribuya al\ndesarrollo y crecimiento del país y se anticipe a los retos tecnológicos futuros, siempre buscando el bienestar de los\ncolombianos y consolidar una economía más productiva y competitiva y una sociedad más equitativa.\nLa presente convocatoria se encuentra alineada con el Plan Estratégico Institucional de Minciencias 2021-2022 en los\nprogramas estratégicos Jóvenes Investigadores e Innovadores y Formación y Vinculación de Capital Humano de Alto Nivel.\nDe este modo, se da cumplimiento al objetivo estratégico de la Dirección de Vocaciones y Formación “Potenciar las\ncapacidades regionales de CTeI que promuevan el desarrollo social y productivo hacia una Colombia Científica”.\nAsí mismo, responde al Plan de Acción Institucional 2022 en las metas estratégicas: (i) Jóvenes Investigadores e\nInnovadores apoyados por Colciencias (Hoy Ministerio de Ciencia, Tecnología e Innovación) y aliados, en lo referente a la\nformación para vocaciones científicas, que busca facilitar el acercamiento de jóvenes colombianos con la investigación y la\ninnovación, así como a programas de formación, capacitación y fortalecimiento de las competencias y habilidades técnicas.\n(ii) Formación y vinculación de capital humano en CTeI, en la financiación de estancias postdoctorales para incrementar el\nnúmero de investigadores del país mediante convocatorias directamente realizadas por el Ministerio de Ciencia, Tecnología\ne Innovación y por otras entidades.\nEn coherencia, el Plan Estratégico Institucional y el Plan de Acción Institucional, responden al Plan Nacional de Desarrollo\n2018-2022, Pacto por Colombia Pacto por la Equidad (PND), que contempla entre sus bases transversales el “Pacto por la\nCiencia, la Tecnología y la Innovación: un sistema para construir el conocimiento de la Colombia del futuro”. En su\nintroducción establece que, la sociedad y la economía del futuro estarán fundamentadas en el conocimiento. Es por esto por\nlo que se plantea mejorar la eficiencia de la inversión en Ciencia, Tecnología e Innovación (CTeI) al mismo tiempo que\nenfocar esfuerzos en la solución de problemas a través de la CTeI, y fortalecer los programas de investigación, formación\nde investigadores y competencias necesarias para la nueva economía del conocimiento.\nAsí mismo, se articula con el Decálogo del Gobierno Nacional 2022 – 2026 “Desarrollaremos la industria nacional, la\neconomía popular y el campo”.\nPor otro lado, la Misión de Sabios, en el Reto “Colombia equitativa” propone: Educar con calidad para el crecimiento, la\nequidad y el desarrollo humano, cuyo objetivo es crear las condiciones para que surja una generación de colombianas y\ncolombianos educados con calidad y poseedores de capacidades que les permitan contribuir al desarrollo humano, al\nfomento y respeto de la diversidad, a la valoración del conocimiento, las prácticas culturales de las regiones y de las\nidentidades, de forma que se potencie el desarrollo económico sostenible y equitativo (Misión de sabios 1, 2020). Dentro de\nesto se destaca la importancia de la educación para una transformación sostenible y equitativa (Misión de sabios 5, 2020).\nDentro de los objetivos específicos de la Misión de Sabios, se encuentra “Presentar recomendaciones y estrategias para la\ninserción de los Doctores de la comunidad de investigación colombiana, –desde cada área–, acorde con los desafíos\nmundiales de productividad, innovación, inclusión y sostenibilidad”. Por otra parte, uno de los principales desafíos del sector\nproductivo consiste en encontrar solución a sus necesidades de desarrollo de nuevas tecnologías, productos y procesos\nque conlleven a un posicionamiento en el mercado. Con esta convocatoria se contribuye a la conexión de la formación e\ninvestigación con la estrategia empresarial, a través de la ejecución de estancias cortas de investigación, desarrollo\ntecnológico y/o innovación en empresas colombianas, mediante la vinculación de jóvenes investigadores e innovadores y\nDoctores que contribuyan a incrementar las capacidades de investigación, desarrollo tecnológico e innovación (I+D+i) de las\nempresas y los territorios, por medio del aprendizaje activo y estrategias basadas en proyectos.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 2 de 19\nAdicionalmente, la convocatoria se articula con lo dispuesto en el Artículo 2° numeral 1, 2 y 4 del Decreto 591 de 1991 el\ncual establece: “(…) Artículo 2° para los efectos del presente Decreto, entiéndase por actividades científicas y tecnológicas\nlas siguientes:\n1. “Investigación científica y desarrollo tecnológico, desarrollo de nuevos productos y procesos, creación y apoyo a\ncentros científicos y tecnológicos y conformación de redes de investigación e información”. Con la presente\nconvocatoria se fortalecen las relaciones de la academia – empresas colombianas, mediante la realización de\nproyectos de investigación de interés mutuo para el desarrollo de nuevas tecnologías, productos y procesos que\ncontribuyan a elevar las capacidades de I+D+i de éstas y la formulación de proyectos para diversas convocatorias en el\nsistema Nacional de CTeI.\n2. “Difusión científica y tecnológica, esto es, información, publicación, divulgación y asesoría en ciencia y tecnología”. A\ntravés de la elaboración de artículos de investigación en formato de revista indexada tipo publicable, que den cuenta de\nlos resultados obtenidos en el marco del desarrollo de la pasantía al interior de los grupos de investigación, los cuales\nserán elaborados entre el joven investigador e innovador y el Doctor.\n4. “Proyectos de innovación que incorporen tecnología, creación, generación, apropiación y adaptación de la misma, así\ncomo la creación y el apoyo a incubadoras de empresas, a parques tecnológicos y empresas de base tecnológica”.\nEste proyecto busca fortalecer las relaciones entre la empresa y la academia, facilitando el acercamiento de\njóvenes colombianos a la investigación y la innovación, así como su ingreso y permanencia al SNCTI.\nDe igual forma, la presente convocatoria, da respuesta a lo establecido en el CONPES 4069 “Política Nacional de Ciencia,\nTecnología e Innovación 2022-2031”, en lo referente a incrementar las vocaciones científicas en la población infantil y\njuvenil e incentivar la formación en CTI; fortalecer el capital humano en CTI del país y continuar implementando para los\naños 2023 a 2031 el programa de Formación de Capital Humano de Alto Nivel que promueve la vinculación de doctores en\nentidades del sector empresarial.\nDe acuerdo con lo anterior, el Ministerio de Ciencia, Tecnología e Innovación, en adelante EL MINISTERIO como ente\nrector del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) abre la presente convocatoria, en el marco del\nconvenio 376 de 2021 suscrito entre EL MINISTERIO y FIDUCIARIA LA PREVISARA S.A. VOCERA DEL PATRIMONIO\nAUTÓNOMO FONDO NACIONAL DE FINANCIAMIENTO PARA LA CIENCIA, LA TECNOLOGÍA Y LA INNOVACIÓN\n“FRANCISCO JOSÉ DE CALDAS”, con el fin de fomentar la vinculación de jóvenes investigadores e innovadores y doctores\npara la realización de estancias cortas de investigación, desarrollo tecnológico y/o innovación, por un período de cinco\nmeses, relacionadas con alguno de los Focos de la Misión Internacional de Sabios1, que permita facilitar el desarrollo de\nnuevas tecnologías, productos y procesos en el ámbito empresarial, acorde con los desafíos territoriales del país en\nproductividad, innovación, inclusión y sostenibilidad.\nLos jóvenes investigadores e innovadores y los doctores aportarán sus conocimientos de investigación y/o innovación a las\nnecesidades de las empresas colombianas en un campo o plan determinado. Esta nueva estrategia permitirá la conexión\n1 Los Focos de la Misión de Sabios tienen como objetivo aportar a la construcción e implementación de la política pública de Educación, Ciencia,\nTecnología e Innovación y a las estrategias que debe construir Colombia a largo plazo, para responder a los desafíos productivos y sociales de manera\nescalable, replicable y sostenible.\nEnlace de consulta: https://minciencias.gov.co/sites/default/files/libro_mision_de_sabios_digital_1_2_0.pdf\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 3 de 19\nentre los sectores productivo y académico, en empresas colombianas, para el desarrollo de nuevas tecnologías, productos y\nprocesos que contribuyan a elevar las capacidades de I+D+i de éstas.",
+      "n_caracteres": 9033
+    },
+    {
+      "numero": 2,
+      "titulo": "OBJETIVO GENERAL",
+      "titulo_norm": "OBJETIVO GENERAL",
+      "texto": "Fortalecer la relación entre el sector académico, los actores reconocidos del Sistema Nacional de CTeI y las empresas\ncolombianas, mediante la realización de estancias cortas de investigación, desarrollo tecnológico y/o innovación de interés\nmutuo y que contribuyan a elevar las capacidades de I+D+i de las empresas con la participación de jóvenes investigadores\ne innovadores y doctores.",
+      "n_caracteres": 388
+    },
+    {
+      "numero": 3,
+      "titulo": "OBJETIVOS ESPECÍFICOS",
+      "titulo_norm": "OBJETIVOS ESPECIFICOS",
+      "texto": "3.1. Promover la interacción del recurso humano de alto nivel y de los jóvenes investigadores e innovadores que permita\nfacilitar el desarrollo de nuevas tecnologías, productos y procesos de las empresas.\n3.2. Enriquecer la experiencia del joven investigador e innovador acompañado de un doctor para la realización de\npropuestas de estancias cortas de investigación, desarrollo tecnológico y/o innovación en empresas colombianas.",
+      "n_caracteres": 429
+    },
+    {
+      "numero": 4,
+      "titulo": "DIRIGIDA A",
+      "titulo_norm": "DIRIGIDA A",
+      "texto": "Alianza2 entre una Institución de Educación Superior (IES) o actor reconocido del Sistema Nacional de CTeI3 (excepto las\nEmpresas Altamente Innovadoras (EAI) y las Unidades de I+D+i de Empresas, toda vez están en la categoría de empresas)\ny una empresa4, interesadas en trabajar de manera articulada para contribuir a elevar las capacidades de I+D+i de la\nempresa, mediante la realización de una estancia corta de investigación, desarrollo tecnológico y/o innovación, en la que\nparticipe un joven investigador e innovador y un doctor.",
+      "n_caracteres": 534
+    },
+    {
+      "numero": 5,
+      "titulo": "FOCOS TEMÁTICOS",
+      "titulo_norm": "FOCOS TEMATICOS",
+      "texto": "Las propuestas para el desarrollo de las estancias cortas de investigación, desarrollo tecnológico y/o innovación, deberán\nestar relacionadas con al menos uno de los Focos temáticos de la Misión Internacional de Sabios señalados a continuación:\n1. Tecnologías convergentes (nano, info y cognotecnología) – Industrias 4.0\n2. Industrias culturales y creativas.\n3. Energía sostenible.\n4. Biotecnología, medio ambiente y bioeconomía.\n5. Océanos y recursos hidrobiológicos.\n6. Ciencias sociales y Desarrollo Humano con Equidad.\n7. Ciencias de la vida y de la salud.\n8. Ciencias básicas y del espacio.\nEnlace de consulta: https://minciencias.gov.co/sites/default/files/libro_mision_de_sabios_digital_1_2_0.pdf\n2 La alianza se presenta a través del Anexo 1 – Carta de Aval y Compromiso Institucional, no se requiere la constitución previa de uniones temporales, consorcios, entre\notros. La alianza puede presentarse de la siguiente manera: (i) Institución de Educación Superior (IES) en alianza con la empresa; (ii) Actor reconocido del Sistema\nNacional de CTeI en alianza con la empresa; (iii) La empresa en alianza con la IES; (iv) La empresa en alianza con el actor reconocido del Sistema Nacional de CTeI.\n3 En el enlace del MINISTERIO que se señala a continuación, puede consultar la relación de los actores reconocidos del Sistema Nacional de CTeI.\nwww.minciencias.gov.co/portafolio/reconocimiento_de_actores.\n4 Según el Código de Comercio de Colombia, en su artículo 25: \"Definición de Empresa. Se entenderá por empresa toda actividad económica organizada para la\nproducción, transformación, circulación, administración o custodia de bienes, o para la prestación de servicios. Dicha actividad se realizará a través de uno o más\nestablecimientos de comercio.\" Para ésta convocatoria solamente se tendrán en cuenta las empresas creadas como persona jurídica legalmente constituida.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 4 de 19",
+      "n_caracteres": 2092
+    },
+    {
+      "numero": 6,
+      "titulo": "ORIENTACIONES GENERALES",
+      "titulo_norm": "ORIENTACIONES GENERALES",
+      "texto": "6.\n6.1. De la entidad ejecutora\n6.1.1. La entidad ejecutora es aquella institución que poseen capacidades técnicas e infraestructura interna\nadecuada en los aspectos científicos, técnicos, administrativos y financieros que garanticen la adecuada\nejecución de la estancia (www.minciencias.gov.co/glosario/entidades-ejecutoras)\n6.1.2. La entidad (Institución de Educación Superior (IES), o actor reconocido del Sistema Nacional de CTeI o\nempresa) que realice el proceso de registro en la plataforma ScienTI del Ministerio de Ciencia, Tecnología e\nInnovación – InstituLAC, será la entidad ejecutora con quien se suscribirá el contrato de financiamiento de\nrecuperación contingente una vez seleccionados los beneficiarios.\n6.1.3. Cada propuesta de estancia corta de investigación, desarrollo tecnológico y/o innovación, garantizará la\nparticipación de un solo joven investigador e innovador y un solo doctor, quienes trabajarán de manera\narticulada.\n6.1.4. El joven investigador e innovador será vinculado como sujeto activo en la investigación, con\nresponsabilidades definidas de manera individual en la propuesta presentada. En los casos en los cuales una\nentidad presente varios jóvenes, cada uno deberá tener un plan de actividades diferente.\n6.1.5. La entidad podrá postularse de manera independiente en cada una de sus sedes. No se tiene límite de\npropuestas a presentar.\n6.1.6. Garantizar que las estancias cortas de investigación, desarrollo tecnológico y/o innovación cuenten con un\ntiempo de ejecución de al menos cinco (5) meses. Propuestas con tiempos de ejecución menor a cinco (5)\nmeses no serán tenidos en cuenta.\n6.1.7. Los recursos definidos en la presente convocatoria se encuentran en el numeral 10. DURACIÓN Y\nFINANCIACIÓN.\n6.1.8. Desde EL MINISTERIO no se define el tipo de vinculación o contratación por parte de la entidad ejecutora con\nel joven investigador e innovador y el Doctor. Sin embargo, la entidad ejecutora soportará la ejecución de los\nrecursos asignados en la presente convocatoria para el desarrollo de la estancia corta de investigación,\ndesarrollo tecnológico y/o innovación.\n6.1.9. La entidad ejecutora presentará un informe técnico final con base en lo señalado en el numeral 6.3.4, así\ncomo un informe financiero final que dé cuenta de la ejecución de los recursos asignados.\n6.2. De los jóvenes investigadores e innovadores\n6.2.1. La entidad ejecutora definirá el tipo de contratación o vinculación del joven investigador e innovador en el\nmarco de la propuesta.\n6.2.2. Podrán participar jóvenes investigadores e innovadores profesionales graduados y/o estudiantes de pregrado\nque hayan cursado al menos el 70% de los créditos académicos.\n6.2.3. La vinculación del joven investigador e innovador se realizará por un período de cinco (5) meses.\n6.2.4. El joven investigador e innovador contará con el apoyo del Doctor, quien hará las veces de tutor, garantizando\nel acompañamiento en las actividades y resultados esperados.\n6.2.5. Para aquellos jóvenes que sean miembros de población afrocolombiana, raizal, palenquera, indígena, ROM,\nvíctimas del conflicto armado o que tengan alguna condición de discapacidad, se otorgarán cinco (5) puntos\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 5 de 19\nen total en los criterios de evaluación. En caso de presentarse un Doctor con enfoque diferencial, la\nasignación total será de cinco (5) puntos, no siendo acumulativo.\n6.2.6. El joven investigador e innovador entregará un informe técnico final de las actividades de CTeI desarrolladas\njunto con los resultados obtenidos acorde a la propuesta presentada, el cual será validado por el Doctor, y un\nartículo de investigación en coautoría con el Doctor en formato de revista indexada tipo publicable, que dé\ncuenta de los resultados obtenidos en el marco del desarrollo de la estancia corta de investigación, desarrollo\ntecnológico y/o innovación.\n6.2.7. Se podrá hacer cambio del joven investigador e innovador siempre y cuando se cuente con renuncia por\nescrito del joven saliente y el nuevo joven cumpla con los requisitos señalados en la presente convocatoria, al\nmomento de su vinculación.\n6.2.8. En caso de renuncia de un joven durante la ejecución del contrato, la entidad ejecutora entregará un informe\ntécnico de las actividades de CTeI desarrolladas por el beneficiario y de ser requerido reintegrar los recursos\nno ejecutados siguiendo las instrucciones que serán dadas por EL MINISTERIO.\n6.2.9. El joven que ingresa en remplazo del joven que renuncia, ejecutará los recursos que quedan disponibles en el\ntiempo restante de la estancia corta de investigación, desarrollo tecnológico y/o innovación.\n6.2.10. En el evento de presentarse un caso fortuito o de fuerza mayor, este será analizado acorde a la normatividad\nvigente, para aceptación o no por parte del MINISTERIO. La Entidad ejecutora debe radicar esta solicitud a\ntravés de los canales de atención al ciudadano del MINISTERIO, adjuntando los soportes correspondientes\nsegún sea el caso.\n6.2.11. En caso de ser requerido los Jóvenes como beneficiarios de la presente convocatoria, participarán en\nespacios que convoque EL MINISTERIO para la divulgación de los resultados o para el fortalecimiento del\nproceso de formación y vocaciones científicas.\n6.3. Del Doctor\n6.3.1. La entidad ejecutora definirá el tipo de contratación o vinculación del Doctor para el desarrollo de la estancia.\n6.3.2. El doctor estará vinculado a la propuesta por un período de 5 meses.\n6.3.3. Para aquellos Doctores que sean miembros de población afrocolombiana, raizal, palenquera, indígena, ROM,\ngenero (mujer), víctimas del conflicto armado o que tengan alguna condición de discapacidad, se otorgarán\ncinco (5) puntos en los criterios de evaluación. En caso de presentarse un joven investigador e innovador con\nenfoque diferencial, la asignación total será de cinco (5) puntos, no siendo acumulativo.\n6.3.4. El Doctor entregará un informe técnico final de las actividades de CTeI desarrolladas junto con los resultados\nobtenidos en articulación con el informe del joven investigador e innovador, acorde a la propuesta de la\nestancia corta de investigación, desarrollo tecnológico y/o innovación presentada y un artículo de\ninvestigación en coautoría con el joven investigador e innovador en formato de revista indexada tipo\npublicable, que den cuenta de los resultados obtenidos en el marco del desarrollo de la estancia corta de\ninvestigación, desarrollo tecnológico y/o innovación, los cuales serán entregados al MINISTERIO por parte de\nla entidad ejecutora.\n6.3.5. No se permite el cambio o sustitución del Doctor presentado. En el evento de presentarse un caso fortuito o\nde fuerza mayor, este será analizado acorde con la normatividad vigente, para aceptación o no por parte del\nMINISTERIO. La Entidad ejecutora debe radicar esta solicitud a través de los canales de atención al\nciudadano del MINISTERIO, adjuntando los soportes correspondientes según sea el caso\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 6 de 19\n6.3.6. En caso de ser requerido los Doctores como beneficiarios en la presente convocatoria, participarán en\nespacios que convoque EL MINISTERIO para la divulgación de los resultados o para el fortalecimiento del\nproceso de formación y vocaciones científicas.\n6.3.7. Los Doctores podrán solicitar a través de las entidades vinculantes el beneficio tributario de Ingresos no\nConstitutivos de Renta y/o Ganancia Ocasional, según los criterios y las condiciones definidas por el Consejo\nNacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación (CNBT) y lo establecido por el artículo\n57-2 del Estatuto Tributario.",
+      "n_caracteres": 7942
+    },
+    {
+      "numero": 7,
+      "titulo": "REQUISITOS",
+      "titulo_norm": "REQUISITOS",
+      "texto": "La entidad ejecutora debe realizar el registro de la estancia corta de investigación, desarrollo tecnológico y/o innovación, del\njoven investigador e innovador y del doctor en el aplicativo InstituLAC de la plataforma SCIENTI del Ministerio de Ciencia,\nTecnología e Innovación, con base en lo establecido en el numeral 12 PROCEDIMIENTO DE INSCRIPCIÓN de la presente\nconvocatoria.\nCondiciones de participación de la entidad ejecutora\n7.1. Presentar una carta de aval y compromiso institucional por cada estancia corta de investigación, desarrollo\ntecnológico y/o innovación que se presente. Para acreditar este requisito, adjuntar el Anexo 1 firmado por el\nrepresentante legal o delegado de la entidad ejecutora y por el representante legal o delegado de la entidad aliada.\nEn el caso de apoderado(s), anexar el documento que lo faculte5.\n7.2. Certificación tamaño empresa. Las empresas deberán diligenciar y firmar el Anexo 2, independiente de su rol como\nentidad ejecutora o entidad aliada.\n7.3. Presentar la(s) propuesta(s) de estancia corta de investigación, desarrollo tecnológico y/o innovación. Para acreditar\neste requisito, adjuntar el Anexo 3 para cada una de las estancias cortas de investigación, desarrollo tecnológico y/o\ninnovación que se postulen.\nCondiciones del joven investigador e innovador\n7.4. Edad: Tener máximo 28 años al 31 de diciembre de 2022. Para acreditar este requisito adjuntar copia legible de la\ncédula de ciudadanía por ambas caras.\n7.5. Estado Académico: Los jóvenes de pregrado deben haber cursado mínimo el 70% de los créditos académicos.\nPara acreditar este requisito adjuntar certificado expedido por la Institución de Educación Superior (IES) a la que se\nencuentra vinculado, en el que se indiquen los créditos académicos cursados al momento de su postulación y el total\nde los créditos del programa de pregrado en el que se encuentra vinculado. Serán validos los documentos\nelectrónicos expedidos y descargados a través de los sistemas de información de las IES.6\nLos jóvenes profesionales deben haberse graduado del pregrado al cierre de la convocatoria o estar pendiente del\ndiploma o el acta de grado. Para acreditar este requisito, adjuntar uno de los siguientes documentos: (i) copia del\ndiploma o acta de grado, (ii) certificado o documento equivalente de la Institución de Educación Superior (IES),\ndonde se indique que ha culminado sus estudios y que solo se encuentra pendiente de obtener el título profesional.\n5 En los casos en los cuales la empresa se presente como ENTIDAD EJECUTORA, la carta de aval y compromiso institucional (Anexo 1), debe ser\nfirmada por la empresa como ENTIDAD EJECUTORA y por el aliado (Institución de Educación Superior o actor reconocido del Sistema Nacional de\nCTeI), con base en lo definido en el numeral 4 DIRIGIDO A de la presente convocatoria.\n6 En el caso que el documento electrónico expedido mencione que no es válido para trámite, este no se tendrá en cuenta.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 7 de 19\n7.6. Promedio Académico: Los jóvenes de pregrado deben acreditar un promedio general acumulado del pregrado\nobtenido al momento de la postulación de mínimo 3.8. Para acreditar este requisito se debe adjuntar certificado o\ndocumento electrónico expedido y descargado a través de los sistemas de información de la Institución de Educación\nSuperior (IES) 7 a la que se encuentra vinculado donde se evidencie el promedio general acumulado en una escala\nde 0.0 a 5.0. En caso de que la escala empleada por la IES sea diferente, adjuntar la respectiva equivalencia\nexpedida por la IES.\nLos jóvenes profesionales deben acreditar un promedio general del pregrado de mínimo 3.8. Para acreditar este\nrequisito se debe adjuntar certificado o documento equivalente de la Institución de Educación Superior (IES) a la que\nse encuentra vinculado donde se evidencie el promedio general obtenido en el pregrado en una escala de 0.0 a 5.0.\nEn caso de que la escala empleada por la Institución de Educación Superior sea diferente, adjuntar la respectiva\nequivalencia expedida por la IES. Serán validos los documentos electrónicos expedidos a través de los sistemas de\ninformación de las IES.\nCondiciones del Doctor\n7.7. Ser ciudadano colombiano o residente en Colombia. Para los ciudadanos colombianos, adjuntar copia de la\ncédula de ciudadanía legible por ambas caras.\nPara los ciudadanos extranjeros residentes en Colombia, adjuntar copia de la cedula de extranjería legible por\nambas caras o permiso de trabajo o Permiso Especial de Permanencia (PEP), o PEPFF - Permiso Especial de\nPermanencia para el Fomento de la Formalización o Visas tipo– V, M, R8 .\n7.8. Contar con título de doctorado en cualquier área del conocimiento. Para acreditar este requisito, adjuntar copia del\ntítulo o acta de grado. Para aquellos casos donde aún no se cuente con el título o acta de grado, anexar certificado o\ndocumento equivalente de la Institución de Educación Superior (IES), donde se indique que la tesis doctoral ya ha\nsido sustentada y aprobada y que solo se encuentra pendiente la ceremonia de grado.\nNotas:\n1. El MINISTERIO garantizando los principios del mérito y calidad, establece una etapa de ajuste de requisitos que se\nrealizará en el periodo señalado en el cronograma de los términos de referencia. Surtido el proceso de revisión de\nrequisitos, EL MINISTERIO habilitará el aplicativo InstituLAC a las postulaciones que se consideran deben ajustar\nalgún(os) requisito(s) o documento(s) para poder continuar el proceso. El documento que debe ser ajustado tendrá\nla frase “No cumple” y a su lado la respectiva observación.\n2. La entidad ejecutora deberá adjuntar al aplicativo el o los documento(s) corregido(s) dentro del período y horario\nestablecidos en el CRONOGRAMA de los términos.\n3. El MINISTERIO podrá solicitar en cualquier momento, información y documentación adicional, complementaria o\naclaraciones de los documentos entregados.\n4. La entidad ejecutora debe tener en cuenta que la información registrada en las plataformas y en los documentos\npresentados como soporte deben coincidir, de lo contrario podrá ser objeto de no cumplimiento de la totalidad de\nrequisitos. La información registrada en la plataforma no podrá ser modificada una vez finalizada la inscripción,\npero el documento presentado como soporte podrá ser subsanado en el periodo de subsanación.\n7 En el caso que el documento electrónico expedido mencione que no es válido para trámite, este no se tendrá en cuenta.\n8 Para mayor información consultar la URL: https://www.mintrabajo.gov.co/web/empleosinfronteras/migrantes\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 8 de 19",
+      "n_caracteres": 6957
+    },
+    {
+      "numero": 8,
+      "titulo": "ENFOQUE DIFERENCIAL",
+      "titulo_norm": "ENFOQUE DIFERENCIAL",
+      "texto": "La presente convocatoria cuenta con los siguientes requisitos de carácter opcional, de enfoque diferencial e incluyente, cuyo\nobjetivo es democratizar la Ciencia, la Tecnología y la Innovación, buscando, asimismo, el cierre de brechas, el crecimiento\ny la consolidación de las comunidades científicas en los departamentos y municipios.\nEl enfoque diferencial puede definirse como un método de análisis para hacer visibles formas de desigualdad y de\ndiscriminación, así́ como una guía de acción para proveer atención y protección a los derechos de la población (Forst,\n2018; Ministerio del Interior, 2015, citados por Conpes 4069, 2021)1. Este enfoque está compuesto por acciones que\npueden ser implementadas por el Gobierno nacional, el sector empresarial, la academia, o la sociedad en general, que\nmediante un trato diferenciado contribuyen a reducir las brechas sociales, económicas y políticas (Ministerio del Interior,\n2015; León, 2017; Ministerio de Ciencia, Tecnología e Innovación, 2021, citados por Conpes 4069, 2021). Este enfoque\nencuentra sustento jurídico en los artículos 7 y 13 de la Constitución Política de Colombia.\nLos jóvenes y/o doctores que demuestren cumplir con al menos con uno de los siguientes requisitos: Ser miembros de\npoblación afrocolombiana, raizal, palenquera, indígena, ROM, víctimas del conflicto armado, población desplazada o que\ntengan alguna condición de discapacidad o mujer con formación doctoral, tendrán una puntuación de cinco (5) puntos por\npropuesta, según lo establecido en el numeral 14. “Criterios de Evaluación”, es opcional y no es de carácter inhabilitante.\nCATEGORÍA DESCRIPCIÓN\nSon aquellas personas que individual o colectivamente hayan sufrido un daño por\nPoblación víctima del conflicto hechos ocurridos a partir del 1º de enero de 1985, como consecuencia de\narmado o en situación de infracciones al Derecho Internacional Humanitario o de violaciones graves y\nextrema vulnerabilidad manifiestas a las normas internacionales de Derechos Humanos, ocurridas con\nocasión del conflicto armado interno. (Ley 1448 de 2011, articulo 3)\nFísica\nAuditiva\nVisual\nPoblación en condición de Sordoceguera\ndiscapacidad Intelectual\nPsicosocial\nMúltiple\nTalla Baja\nPoblación Indígena.\nPoblación negra / Afrocolombiano /Afrodescendiente\nGrupo Étnico Raizal\nRrom (gitano)\nPalenquero\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 9 de 19\nCATEGORÍA DESCRIPCIÓN\nGénero Mujer (Aplica para mujer con formación doctoral).9\nNota: Para acreditar esta categoría según lo contemplado en el numeral 12. “Procedimiento de inscripción” se debe anexar\ncertificado expedido por Ministerio del Interior o documento equivalente: Candidatos que sean miembros de población\nafrocolombiana, raizal, palenquera, indígena, ROM. Certificado expedido por la Unidad para la Atención y Reparación\nIntegral para las Víctimas o documento equivalente: candidatos víctimas del conflicto armado. Certificado de discapacidad\nexpedido por la IPS: candidatos que tengan alguna condición de discapacidad.",
+      "n_caracteres": 3166
+    },
+    {
+      "numero": 9,
+      "titulo": "CONDICIONES INHABILITANTES",
+      "titulo_norm": "CONDICIONES INHABILITANTES",
+      "texto": "Son todas aquellas condiciones de modo, tiempo y lugar, objetivas o subjetivas, antecedentes o concomitantes, de la\npropuesta sometida a consideración del MINISTERIO que impiden la continuidad de su participación en el proceso de\nselección, o que, habiendo obtenido el beneficio de que se trate, le hacen imposible disfrutarlo.\nDe la entidad ejecutora:\n9.1. No cumplir con los requisitos y lineamientos establecidos en los términos de referencia de la convocatoria\n“Convocatoria Estancias con propósito empresarial. Fortalecimiento de la relación entre el sector académico, actores\ndel SNCTI y empresas Colombianas”, o que estos no se subsanen dentro de los plazos establecidos.\n9.2. No cumplir con los requisitos legales para la suscripción del contrato de financiamiento de recuperación contingente, en\ncaso de ser beneficiado por la presente convocatoria.\n9.3. Estar incurso en alguna de las causales de inhabilidad e incompatibilidad y que no se encuentre apto para contratar de\nacuerdo con lo establecido en la Constitución, en la Ley y Reglamentos.\n9.4. Alterar alguno de los documentos solicitados en la sección de requisitos.\n9.5. Propuestas con tiempos de ejecución menores a 5 meses no serán tenidas en cuenta.\nDel joven investigador e innovador:\n9.6. Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por EL MINISTERIO, en su\nparticipación como joven investigador e innovador.\n9.7. No podrá presentarse de manera simultánea en dos o más propuestas de la presente convocatoria. En caso de\npresentarse en dos o más propuestas se tendrá en cuenta únicamente la primera propuesta registrada con base en la\nfecha y hora de inscripción en la plataforma.\n9.8. Haber recibido financiación del Programa Jóvenes Investigadores e Innovadores por dos o más becas pasantías o\npasantías de investigación.\n9 Se define únicamente mujer con formación doctoral por cuanto según las estadísticas del MINISTERIO en el cuatrienio (2019-2022), de los\ncandidatos financiables del programa de Formación de Alto Nivel, las mujeres representan solamente el 36,75%, así mismo según la base del SNIES\n(Sistema Nacional de Información de Educación Superior) del Ministerio de Educación Nacional en los programas doctorales Nacionales durante el\nperiodo 2001 a 2020, se graduaron 3.652 estudiantes, de los cuales 2.110 son hombres (57.8%) y 1.542 son mujeres (42.2%). En cuanto al programa\nJóvenes Investigadores e Innovadores el porcentaje de mujeres beneficiadas según las estadísticas del MINISTERIO en el cuatrienio (2019-2022) es\nde 86,2%. De acuerdo con lo anterior, el propósito de la puntuación adicional es incentivar la participación de la mujer con formación doctoral.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 10 de 19\n9.9. Estar incurso en alguna de las causales de inhabilidad e Incompatibilidad y que no se encuentre apto para contratar de\nacuerdo con lo establecido en la Constitución, en Ley y Reglamentos.\nDel Doctor:\n9.10. Ser beneficiario de manera simultánea de convocatorias financiadas o cofinanciadas por EL MINISTERIO, en su\nparticipación como Doctor o estancia postdoctoral.\n9.11. No podrá presentarse de manera simultánea en dos o más propuestas de la presente convocatoria. En caso de\npresentarse en dos o más propuestas se tendrá en cuenta la primera propuesta registrada con base en la fecha y hora\nde inscripción en la plataforma.\n9.12. Estar incurso en alguna de las causales de inhabilidad e Incompatibilidad y que no se encuentre apto para contratar de\nacuerdo con lo establecido en la Constitución, en Ley y Reglamentos.",
+      "n_caracteres": 3732
+    },
+    {
+      "numero": 10,
+      "titulo": "DURACIÓN Y FINANCIACIÓN",
+      "titulo_norm": "DURACION Y FINANCIACION",
+      "texto": "El MINISTERIO cuenta con CUATRO MIL DOSCIENTOS NOVENTA Y TRES MILLONES TRESCIENTOS NOVENTA Y\nOCHO MIL PESOS M/CTE ($4.293.398.000) para la vinculación de jóvenes investigadores e innovadores y doctores para el\ndesarrollo de estancia corta de investigación, desarrollo tecnológico y/o innovación por cinco meses, y el proceso de\nevaluación de acuerdo con el saldo disponible en el CDR No. 17646 del 2 de mayo de 2022.\nLos recursos serán asignados de la siguiente manera:\n Los recursos serán girados por El Fondo Francisco José de Caldas a la entidad ejecutora, en un único desembolso\nuna vez cumplidos los requisitos de perfeccionamiento y ejecución del contrato de financiamiento de recuperación\ncontingente. (Ver numeral 6.1.1 y 6.1.2 donde se aclara quien es la entidad ejecutora).\n El MINISTERIO dispone del 100% de los valores señalados a continuación para la ejecución de la estancia corta\nde investigación, desarrollo tecnológico y/o innovación:\n El joven investigador e innovador que se vincule para el desarrollo de estancia corta de investigación,\ndesarrollo tecnológico y/o innovación contará con un apoyo de DIEZ MILLONES DE PESOS M/CTE\n($10.000.000), correspondiente a pagos mensuales de DOS MILLONES DE PESOS M/CTE ($2.000.000) por\ncinco (5) meses, para el desarrollo de la estancia corta de investigación, desarrollo tecnológico y/o innovación.\n El Doctor contará con un apoyo de CUARENTA MILLONES DE PESOS M/CTE ($40.000.000),\ncorrespondiente a pagos mensuales de OCHO MILLONES DE PESOS M/CTE ($8.000.000) por cinco (5)\nmeses, para el desarrollo de la estancia corta de investigación, desarrollo tecnológico y/o innovación.\n Aportes de Contrapartida\n La entidad ejecutora asumirá en aporte de contrapartida en especie y/o dinero el valor requerido para el\ndesarrollo de la propuesta de investigación, así como la divulgación de resultados en el marco de la(s)\nestancia (s) corta(s) de investigación, desarrollo tecnológico y/o innovación.\n En los casos en los cuales la entidad ejecutora quiera otorgar recursos adicionales para la financiación del\njoven investigador e innovador y/o el Doctor, podrá hacerlo e informarlo como contrapartida en dinero o\nespecie en la carta de aval y compromiso institucional.\nNotas:\n1. El contrato de financiamiento de recuperación contingente que será suscrito entre la entidad ejecutoras y el Fondo\nFrancisco José de Caldas, tendrá una duración de doce (12) meses contados a partir del cumplimiento de los\nrequisitos de perfeccionamiento y ejecución, es decir a partir de la firma y la aprobación de la garantía por parte del\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 11 de 19\nFondo Francisco José de Caldas Este periodo comprende: la vinculación del joven investigador e innovador, del\nDoctor, el desarrollo de la estancia corta de investigación, desarrollo tecnológico y/o innovación y el envío de los\ninformes finales (técnico y financiero) y artículo de investigación en formato de revista indexada tipo publicable.\n2. En caso de que haya recursos adicionales para la presente convocatoria, se podrán incluir para la financiación de\nlas propuestas que resulten elegibles mediante la publicación del banco de financiables.",
+      "n_caracteres": 3345
+    },
+    {
+      "numero": 11,
+      "titulo": "CONTENIDOS DE LA PROPUESTA",
+      "titulo_norm": "CONTENIDOS DE LA PROPUESTA",
+      "texto": "La propuesta de estancia corta de investigación, desarrollo tecnológico y/o innovación para la vinculación de un joven\ninvestigador e innovador y un Doctor, se registrará en el Anexo 3. Deberá contener entre otros:\n11.1. Información general.\n11.2. Descripción de la estancia corta de investigación, desarrollo tecnológico y/o innovación.\n11.3. Plan de actividades y resultados esperados del joven investigador e innovador.\n11.4. Plan de actividades y resultados esperados del Doctor.\n11.5. Presupuesto.",
+      "n_caracteres": 502
+    },
+    {
+      "numero": 12,
+      "titulo": "PROCEDIMIENTO DE INSCRIPCIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE INSCRIPCION",
+      "texto": "El procedimiento para la postulación a la presente convocatoria es el siguiente:\n12.1. Los Doctores y los candidatos a Jóvenes Investigadores e Innovadores en primera instancia deberán registrar o\nactualizar su hoja de vida en el aplicativo CvLAC disponible en el sitio WEB de la plataforma ScienTI del Ministerio\nde Ciencia, Tecnología e Innovación, sitio web https://www.minciencias.gov.co/scienti .\n12.2. Una vez realizado lo anterior, la entidad ejecutora deberá registrar la información requerida y adjuntar los\ndocumentos de soporte en el aplicativo InstituLAC de la plataforma ScienTI del Ministerio de Ciencia, Tecnología e\nInnovación (sitio web https://www.minciencias.gov.co/scienti ) Registrar los datos del interlocutor por entidad\nejecutora (señalados en el Anexo 1. Carta de aval y compromiso institucional).\n12.3. Adjuntar en el campo correspondiente la carta de aval y compromiso institucional en formato PDF (Anexo 1).\n12.4. Para el proceso de registro de cada una de las propuestas de estancia corta de investigación, desarrollo\ntecnológico y/o innovación debe seguir los siguientes pasos:\n12.4.1. Registrar la propuesta de estancia corta de investigación, desarrollo tecnológico y/o innovación con todos\nlos campos solicitados.\n12.4.2. Seleccionar el foco temático de la Misión de Sabios.\n12.4.3. Seleccionar el área y disciplina de la estancia corta de investigación, desarrollo tecnológico y/o innovación\nsegún OCDE.\n12.4.4. Adjuntar el Anexo 2. Certificación tamaño empresa donde se va a desarrollar la estancia.\n12.4.5. Adjuntar en formato PDF la propuesta de estancia corta de investigación desarrollo tecnológico y/o\ninnovación (Anexo 3).\n12.4.6. Adjuntar los documentos requeridos para el joven investigador e innovador y el doctor con base en lo\nseñalado en el numeral 7 REQUISITOS de la presente convocatoria\n12.5. Una vez se hayan diligenciado todos los campos y adjuntado y verificado la totalidad de los documentos, se finaliza\nel proceso de inscripción en el aplicativo.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 12 de 19\nNotas:\n1. Se recomienda a las entidades interesadas en presentarse a la convocatoria hacer el ingreso a la plataforma para\nque la conozcan y hagan el registro sin inconvenientes y de forma anticipada.\n2. Se aceptarán únicamente las propuestas institucionales presentadas a través del aplicativo InstituLAC, con toda la\ndocumentación que soporte el cumplimiento de requisitos de la convocatoria.\n3. No se tendrán en cuenta propuestas con información enviada en medios distintos al InstituLAC (correo postal, fax,\ncorreo electrónico otro), ni posterior a la fecha y hora límite establecida en la convocatoria.\n4. Las propuestas enviadas fuera de la fecha y hora de cierre de la convocatoria no serán tenidas en cuenta, ya que\nse entenderán como extemporáneas y por lo tanto no serán revisadas ni consideradas durante el proceso de\nselección.\n5. Toda la documentación requerida deberá presentarse en formato PDF y la totalidad de archivos no debe exceder\nun tamaño de 8 MB. No se aceptan archivos comprimidos en .ZIP, .RAR o links de drive.\n6. En caso de que se presenten errores en el aplicativo InstituLAC durante el proceso de inscripción y envío de la\npropuesta o del cargue de la documentación soporte, será necesario remitir a través del formulario electrónico que\nse encuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds la captura de pantalla\n(donde se evidencia fecha y hora del inconveniente) antes de la fecha de cierre de la presente convocatoria,\nexplicando los inconvenientes ocurridos durante el envío. El MINISTERIO por medio de la Oficina de Sistemas\nverificará el error reportado.\n7. Se recomienda iniciar el proceso de registro con suficiente tiempo para que se alcance a terminar dicho proceso\nantes del cierre de la convocatoria.",
+      "n_caracteres": 3996
+    },
+    {
+      "numero": 13,
+      "titulo": "AUTORIZACIÓN USO DE DATOS PERSONALES",
+      "titulo_norm": "AUTORIZACION USO DE DATOS PERSONALES",
+      "texto": "Para todos los efectos legales, la presentación, inscripción o registro de la postulación, de forma inequívoca y\nexclusivamente para los fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de\ninformación, para el tratamiento de sus datos personales por parte del MINISTERIO.\nQuien presente, inscriba o registre la propuesta como persona natural o la persona jurídica en cuyo nombre se presenta la\npropuesta declara que ha recibido autorización expresa de todas las personas naturales y jurídicas vinculadas a esta\npropuesta y a este proyecto, para suministrar las informaciones a que hace referencia la ley de manejo de datos,\ncomprometiéndose a responder ante el MINISTERIO, por cualquier demanda, litigio presente o eventual, reclamación\njudicial o extrajudicial, formulada por cualquiera de las personas naturales o jurídicas vinculadas a la propuestas y el\nproyecto. Lo anterior, de conformidad con lo establecido en la Ley 1581 de 2012 “Por la cual se dictan disposiciones\ngenerales para la protección de datos personales” y la Política de protección y tratamiento de datos personales del\nMINISTERIO, disponible en el Manual de Políticas de Seguridad y Privacidad de la Información (Código: D103M01).",
+      "n_caracteres": 1248
+    },
+    {
+      "numero": 14,
+      "titulo": "CRITERIOS DE EVALUACIÓN",
+      "titulo_norm": "CRITERIOS DE EVALUACION",
+      "texto": "Las propuestas inscritas dentro de los plazos establecidos para la presente convocatoria y que cumplan con la totalidad de\nlos requisitos se someterán a los siguientes criterios de evaluación:\nNúmero Criterio Descripción Puntaje\nmáximo\n1 Calidad y coherencia de la Calidad y coherencia de la propuesta de estancia corta de investigación, 30\npropuesta de estancia corta de desarrollo tecnológico y/o innovación, respecto al objetivo, metodología y\ninvestigación, desarrollo descripción técnica (fundamento científico).\ntecnológico y/o innovación.\n2 Pertinencia de la propuesta de Pertinencia de la propuesta de estancia corta de investigación, desarrollo 20\nestancia corta de investigación, tecnológico y/o innovación, frente al planteamiento del problema, las\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 13 de 19\nNúmero Criterio Descripción Puntaje\nmáximo\ndesarrollo tecnológico y/o necesidades de la empresa donde se va a desarrollar la estancia corta de\ninnovación. investigación, desarrollo tecnológico y/o innovación, así como los planes\nde actividades y resultados esperados del joven investigador e innovador\ny del Doctor\n3 Índice Departamental de Puntaje a propuestas de estancias que sean ejecutadas en 5\nInnovación para Colombia (IDIC) Departamentos con un Índice Departamental de Innovación para\nColombia (IDIC):\nBajo: 5 puntos\nMedio - Bajo: 4 puntos\nMedio: 3 puntos\nMedio – Alto: 2 puntos\nAlto: 1 punto\n4 De la empresa La información señalada, se validará con base en el listado de 10\nreconocimiento de actores del Sistema Nacional de Ciencia, Tecnología e\nInnovación del MINISTERIO.\n1. Reconocida como empresa altamente innovadora. 10 puntos\n2. Con unidades de I+D+i reconocidas por el MINISTERIO. 10 puntos\n3. Firmantes de pactos por la Innovación con el MINISTERIO. 10 puntos\n4. Si la empresa se encuentra localizada en un municipio del Programas\nde Desarrollo con Enfoque Territorial (PDET) 10: 10 puntos\n5 Tamaño de la empresa donde se 1. Micro, pequeñas y medianas empresas: 10 puntos 10\nva a desarrollar la estancia 2. Grandes empresas: 3 puntos.\n6 Categoría del Doctor. Investigador Emérito: 20 puntos 20\nInvestigador Senior: 20 puntos\nInvestigador Asociado: 18 puntos\nInvestigador Junior: 15 puntos\nInvestigador no categorizado: 15 puntos\n7 Enfoque Diferencial Los jóvenes y/o doctores que demuestren cumplir con al menos con uno 5\nde los siguientes requisitos: Ser miembros de población afrocolombiana,\nraizal, palenquera, indígena, ROM, víctimas del conflicto armado,\npoblación desplazada o que tengan alguna condición de discapacidad o\nmujer con formación doctoral\nTotal 100",
+      "n_caracteres": 2758
+    },
+    {
+      "numero": 15,
+      "titulo": "PROCEDIMIENTO DE EVALUACIÓN",
+      "titulo_norm": "PROCEDIMIENTO DE EVALUACION",
+      "texto": "Las propuestas inscritas dentro de los plazos establecidos para la presente convocatoria surtirán el siguiente procedimiento\nde evaluación, teniendo en cuenta los criterios descritos en el numeral 14 “CRITERIOS DE EVALUACIÓN”. Se evaluarán\npor pares evaluadores aquellas propuestas verificadas por el MINISTERIO que cumplan con los requisitos y sean\npertinentes a los focos de la Misión Internacional de Sabios.\n10 Todo sobre el PDET (renovacionterritorio.gov.co) - www.renovacionterritorio.gov.co/especiales/especial_pdet/#descargables\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 14 de 19\nLos evaluadores serán seleccionados según los criterios de calidad, competencia y área del conocimiento, que se\nencuentran dispuestos por EL MINISTERIO. Toda información proporcionada es de carácter confidencial y no será utilizada\npara ningún fin diferente a la realización de la evaluación. Los expertos evaluadores estarán cobijados por cláusulas de\nconfidencialidad y de no conflicto de interés.\nLas propuestas se ordenarán de manera descendente, de acuerdo con el puntaje obtenido al aplicar los criterios de\nevaluación de la presente convocatoria. En caso de empate, se aplicarán los siguientes criterios de desempate:\n• Se tendrá en cuenta la mayor calificación obtenida en el criterio “Calidad y coherencia de la propuesta de estancia\ncorta de investigación, desarrollo tecnológico y/o innovación”.\n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el criterio “Pertinencia de\nla propuesta de estancia corta de investigación, desarrollo tecnológico y/o innovación”\n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el criterio “Índice\nDepartamental de Innovación para Colombia (IDIC)”\n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el criterio “De la\nempresa”.\n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el subcriterio “Tamaño de\nla empresa donde se va a desarrollar la estancia”.\n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el subcriterio “Categoría\ndel Doctor”.\n• En caso de que el empate persista, se tendrá en cuenta la mayor calificación obtenida en el subcriterio “Enfoque\nDiferencial”.\n• Finalmente, y como último parámetro de desempate, se tomará como criterio la fecha y hora del registro en la que\nse generó la propuesta en el sistema. Si la entidad ejecutora tuvo que subsanar, se tomará la fecha y hora de\nculminación de dicho proceso en el sistema.\nNOTA: De acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para solicitar aclaraciones y/o\nmodificaciones a la publicación preliminar del banco de elegibles, una vez éstas sean resueltas, se procederá a la\npublicación del banco definitivo de propuestas elegibles.",
+      "n_caracteres": 3029
+    },
+    {
+      "numero": 16,
+      "titulo": "BANCO DE ELEGIBLES",
+      "titulo_norm": "BANCO DE ELEGIBLES",
+      "texto": "El banco de propuestas elegibles para la realización de la(s) estancia(s) corta(s) de investigación, desarrollo tecnológico y/o\ninnovación estará conformado por aquellas propuestas que sean igual o superior a cincuenta (50) puntos en la calificación\ntotal, de los cuales, el criterio No 1 “Calidad y coherencia de la propuesta de estancia corta de investigación, desarrollo\ntecnológico y/o innovación”, debe tener un puntaje mínimo de veinte (20) puntos y en el criterio No 2 “Pertinencia de la\npropuesta de estancia corta de investigación, desarrollo tecnológico y/o innovación” debe tener un puntaje mínimo de diez\n(10) puntos.\nLos resultados de la convocatoria se publicarán en la página web del MINISTERIO (https://minciencias.gov.co/) en las\nfechas establecidas en el Cronograma.\nLa vigencia del banco de elegibles es de dos (2) años a partir de su publicación definitiva. La inclusión de una propuesta en\nel banco de elegibles no implica obligatoriedad ni compromiso alguno del MINISTERIO de asignar recursos, ni genera\nderecho a recibir apoyos económicos para quienes hayan presentado las propuestas correspondientes.\nNotas:\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 15 de 19\n1. Surtida la publicación definitiva del banco de elegibles, EL MINISTERIO informará mediante comunicación escrita o\nelectrónica a la entidad ejecutora, que hayan sido seleccionados con propuestas para ser financiados, indicando\nlas instrucciones y condiciones para suscribir el contrato de financiamiento de recuperación contingente.\n2. A partir de la fecha de comunicación, se contarán quince (15) días calendario como plazo máximo para que la\nentidad ejecutora remita al MINISTERIO la totalidad de la documentación. Vencido el término, en caso de que la\nentidad ejecutora no remita la documentación, se entenderá que desiste de su interés por contratar con el Fondo\nFrancisco José de Caldas y se procederá a financiar la siguiente propuesta del banco definitivo de elegibles.\n3. Una vez remitida la minuta del contrato a la entidad ejecutora, ésta contará con un plazo máximo de cinco (5) días\nhábiles para devolverla firmada. Vencido el término anterior, si la entidad ejecutora no remite el contrato firmado,\nse entenderá que desiste de su interés por contratar y se procederá a seleccionar la siguiente propuesta en orden\ndescendente de la lista del banco definitivo de elegibles.\n4. La entidad ejecutora deberá acogerse a los procedimientos, formatos y al sistema de información definidos por el\nMINISTERIO para realizar el seguimiento, evaluación y liquidación a los proyectos, contratos o convenios suscritos\nen el marco de la presente convocatoria.\n5. En caso de que no se asignen los recursos disponibles para la totalidad de la convocatoria, a facultad de EL\nMINISTERIO se podrá publicar o no un cronograma para un segundo corte.\n6. La entidad ejecutora definirá el tipo de contratación o vinculación del joven investigador e innovador y el Doctor\npara el desarrollo la estancia corta de investigación, desarrollo tecnológico y/o innovación.",
+      "n_caracteres": 3199
+    },
+    {
+      "numero": 17,
+      "titulo": "ACLARACIONES",
+      "titulo_norm": "ACLARACIONES",
+      "texto": "Una vez publicados los resultados preliminares del banco de elegibles, los interesados podrán presentar solicitudes de\naclaraciones y comentarios por un período de tres (3) días hábiles. Por fuera de este término se considera que las\nreclamaciones son extemporáneas.\nLas quejas, reclamos, sugerencias y/o solicitudes de carácter general se deben presentar exclusivamente a través del\nformulario electrónico que se encuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con\nel asunto “Solicitud aclaración resultados Convocatoria Estancias con propósito empresarial. Fortalecimiento de la relación\nentre el sector académico, actores del SNCTI y empresas Colombianas”",
+      "n_caracteres": 697
+    },
+    {
+      "numero": 18,
+      "titulo": "CRONOGRAMA",
+      "titulo_norm": "CRONOGRAMA",
+      "texto": "ACTIVIDAD FECHA PROPUESTA\nApertura de la convocatoria 21 de octubre de 2022\nCierre de la convocatoria 03 de febrero de 2023 – 3:00 p.m.\nPeríodo de subsanación de requisitos Del 15 al 17 de febrero de 2022\nPublicación del banco preliminar de propuestas elegibles 21 de marzo 2023\nPeríodo de solicitud de aclaraciones del banco preliminar de elegibles Del 22 al 23 de marzo de 2023\nRespuesta a solicitud de aclaraciones Del 24 al 28 de marzo de 2023\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 16 de 19\nACTIVIDAD FECHA PROPUESTA\nPublicación del banco definitivo de propuestas elegibles y financiables 21 de abril de 2023\nNotas:\n1. Cualquier actuación por fuera de las fechas y horarios establecidos en esta sección se entenderán como\nextemporáneas y no serán tenida en cuenta. No se aceptarán documentos por fuera de las fechas establecidas en\nel cronograma de la convocatoria.\n2. La etapa denominada período de subsanación de requisitos no exime de responsabilidad a los interesados en esta\nconvocatoria de la consulta permanente de la información a fin de entregar la postulación completa. Los beneficios\notorgados por el MINISTERIO para facilitar la presentación de las postulaciones no desplazan la responsabilidad\nde los aspirantes de consultar y adjuntar correctamente los documentos necesarios para ser habilitados, evaluados\no seleccionados en esta convocatoria.",
+      "n_caracteres": 1529
+    },
+    {
+      "numero": 19,
+      "titulo": "MODIFICACIONES",
+      "titulo_norm": "MODIFICACIONES",
+      "texto": "El MINISTERIO podrá modificar el contenido de los términos de referencia, así como su cronograma, por las causas\nestablecidas en el Procedimiento Tramite de adendas de condiciones de mecanismos de operación de CTeI (Código:\nM801PR03) (documento disponible en la página web del MINISTERIO, Micrositio Calidad). Estas causas incluyen, entre\notras: fuerza mayor o caso fortuito, eventos imprevisibles no atribuibles al MINISTERIO, ajustes a condiciones o cronograma\ngenerados por necesidades de los grupos de valor o de interés, garantizando que con la modificación no se vulnerará la\nexpectativa prevista de los posibles participantes ni los principios de mérito, calidad, equidad y transparencia.",
+      "n_caracteres": 695
+    },
+    {
+      "numero": 20,
+      "titulo": "PROPIEDAD INTELECTUAL",
+      "titulo_norm": "PROPIEDAD INTELECTUAL",
+      "texto": "En el evento en que se llegaren a generar derechos de propiedad intelectual sobre los resultados que se obtengan o se\npudieran obtener en el marco del desarrollo de la presente convocatoria, la titularidad sobre los mismos se regirá por lo\nacordado entre las entidades a las cuales se les dirige la presente convocatoria y el joven investigador e innovador y el\ndoctor, de acuerdo con la voluntad de las partes y de conformidad con la normatividad vigente aplicable al caso.\nAhora bien, lo establecido en el artículo 169 de la Ley 1955 de 2019 - Plan Nacional de Desarrollo: “DERECHOS DE\nPROPIEDAD INTELECTUAL SOBRE RESULTADOS DE PROGRAMAS Y PROYECTOS DE CIENCIA, TECNOLOGÍA E\nINNOVACIÓN Y DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES FINANCIADOS CON RECURSOS\nPÚBLICOS” no aplica para la presente convocatoria.\nEn cualquier evento o medio de divulgación utilizado para difundir los resultados de la propuesta se deberá dar el respectivo\ncrédito al MINISTERIO, incluyendo la imagen institucional de acuerdo con la Guía de uso de la marca Gobierno de\nColombia - Minciencias alojado en https://minciencias.gov.co/MINISTERIO/sobre-minciencias, sección “MINISTERIO”,\n“Sobre el MINISTERIO”.\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 17 de 19",
+      "n_caracteres": 1407
+    },
+    {
+      "numero": 21,
+      "titulo": "VEEDURÍAS CIUDADANAS",
+      "titulo_norm": "VEEDURIAS CIUDADANAS",
+      "texto": "Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003, podrán desarrollar su actividad durante la\npresente convocatoria, conforme a lo estipulado en dicha normativa.",
+      "n_caracteres": 187
+    },
+    {
+      "numero": 22,
+      "titulo": "ANEXOS",
+      "titulo_norm": "ANEXOS",
+      "texto": " Anexo 1: Carta de aval y compromiso institucional.\n Anexo 2: Certificación tamaño empresa donde se va a desarrollar la estancia.\n Anexo 3: Propuesta de estancia corta de investigación, desarrollo tecnológico y/o innovación.",
+      "n_caracteres": 227
+    },
+    {
+      "numero": 23,
+      "titulo": "ACEPTACIÓN DE TÉRMINOS Y VERACIDAD",
+      "titulo_norm": "ACEPTACION DE TERMINOS Y VERACIDAD",
+      "texto": "Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la presente convocatoria, así\ncomo lo dispuesto en los presentes términos de referencia para el desarrollo de esta y la entrega del recurso o beneficio\nobjeto de esta. Una vez presentada la propuesta de estancia corta de investigación, desarrollo tecnológico y/o innovación no\nserá posible alegar desconocimiento de los requisitos y condiciones de los términos de referencia y sus anexos. Cualquier\naclaración, solicitud de subsanación de requisitos o solicitud de revisión de resultados preliminares debe realizarse de\nacuerdo con lo definido en el cronograma.\nDe igual forma, al realizar la postulación de la propuesta de estancia corta de investigación, desarrollo tecnológico y/o\ninnovación, el responsable de esta o su representante legal declara que la información suministrada es veraz y se hace\nresponsable de la misma. En caso de encontrarse alguna incoherencia y/o inconsistencia en la información o\ndocumentación suministrada, EL MINISTERIO podrá en cualquier momento rechazar la propuesta de estancia corta de\ninvestigación, desarrollo tecnológico y/o innovación o si es del caso declarar la pérdida del beneficio, sin perjuicio de las\nacciones legales correspondientes.\nCuando la entidad ejecutora o el beneficiario directo renuncie al beneficio, incentivo, apoyo financiero, acompañamiento o\nasesoría, debe presentar antes del inicio de la suscripción del contrato su declinación empleando el modelo sugerido de\n\"Carta de renuncia para acceder a beneficio, incentivo, apoyo financiero, acompañamiento o asesoría\" (Código:\nM801PR02MO6) u otro documento de manifestación voluntaria para renunciar al beneficio, en el que se incluya como\nmínimo la siguiente información: Identificación, convocatoria en la que participó, beneficio al que está renunciando; motivos\npor los cuales renuncia (opcional), teléfono de contacto, correo electrónico, dirección de correspondencia. Este documento\ndeberá estar firmado por el representante legal o beneficiario directo. El documento de declinación voluntaria deberá ser\nradicado en los canales habilitados por el MINISTERIO: formulario en línea de PQRDS https://minciencias.gov.co/contact o\nal correo electrónico atencionalciudadano@minciencias.gov.co .",
+      "n_caracteres": 2296
+    },
+    {
+      "numero": 24,
+      "titulo": "MÁS INFORMACIÓN",
+      "titulo_norm": "MAS INFORMACION",
+      "texto": "EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN\nAv. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C.\nhttp://www.minciencias.gov.co\nAtención al Ciudadano\nTeléfono: (+57) (601) 6258480 Extensión 2081\nLínea gratuita nacional: 018000 914446\nHorario: lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua).\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 18 de 19\nEn caso de inquietudes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se\nencuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “Convocatoria\nEstancias con propósito empresarial. Fortalecimiento de la relación entre el sector académico, actores del SNCTI y\nempresas Colombianas”.\nEDUARDO ROJAS PINEDA\nDirector de la Dirección de Gestión de Recursos para la Ciencia,\nTecnología e Innovación\nElaboró: Carolina Múnera Camacho / Contratista / Dirección de Vocaciones y Formación\nDoris Yaneth Correa Rodríguez / Contratista / Dirección de Vocaciones y Formación\nMiguel Rafel Tobar Carrizosa / Asesor / Dirección de Vocaciones y Formación\nLaura Guerrero / Contratista / Dirección de Vocaciones y Formación\nJulián Cuervo Bustamante / Contratista / /Dirección de Gestión de Recursos para la (CTeI)\nRevisó: Diana Rúa Patiño / Gestora de CTeI / Dirección de Vocaciones y Formación\nAprobó: Clara Beatriz Ocampo Duran / Directora / Dirección de Vocaciones y Formación\nAv. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (+57) (601) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia\nCódigo: M801PR01F01\nVersión: 01\nVigente desde 2021-11-30\nPágina 19 de 19",
+      "n_caracteres": 1822
+    }
+  ]
 }

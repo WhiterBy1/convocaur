@@ -11,14 +11,26 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import re
 import sys
 import time
+import unicodedata
 from pathlib import Path
 
 # Permitir imports desde src/
+from pydantic import BaseModel, ValidationError
+
 from convocaur.nlp.extract_llm import extraer_seccion, get_client, get_model
 from convocaur.nlp.map_seccion import seleccionar_secciones_p0
-from convocaur.nlp.schemas import ExtraccionTdr
+from convocaur.nlp.schemas import (
+    ActorElegible,
+    CausalRechazo,
+    CriterioEvaluacion,
+    ExtraccionTdr,
+    Financiacion,
+    LineaTematica,
+    Requisito,
+)
 from convocaur.nlp.elegibilidad_urosario import evaluar_elegibilidad_urosario
 from convocaur.paths import PROC_NLP, PROC_SECCIONES
 
@@ -37,6 +49,38 @@ ORDEN_CLAVES = [
     "financiacion",
     "criterios",
 ]
+
+
+# Alias de campos que el LLM a veces devuelve con otro nombre (observado:
+# "text" en vez de "texto" en requisitos/causales de rechazo). Se normalizan
+# antes de validar cada item por separado.
+_ALIAS_ITEM = {"text": "texto"}
+
+
+def _validar_items(modelo: type[BaseModel], items: list, convocatoria: str, clave: str) -> list[dict]:
+    """Valida cada item de una lista contra su modelo Pydantic por separado.
+
+    Un solo campo mal formado del LLM (ej. clave "text" en vez de "texto" en
+    un requisito) no debe invalidar toda la convocatoria — antes,
+    ExtraccionTdr.model_validate(base) fallaba entero por un ítem suelto y se
+    perdían también objetivo/dirigida_a/financiación/etc. que sí habían
+    quedado bien. Aquí se descarta solo el ítem problemático.
+    """
+    validos = []
+    for item in items or []:
+        if not isinstance(item, dict):
+            continue
+        item_norm = dict(item)
+        for viejo, nuevo in _ALIAS_ITEM.items():
+            if viejo in item_norm and nuevo not in item_norm:
+                item_norm[nuevo] = item_norm.pop(viejo)
+        try:
+            modelo.model_validate(item_norm)
+        except ValidationError as exc:
+            log.warning("Conv %s: item de %s descartado (no valida): %s", convocatoria, clave, exc)
+            continue
+        validos.append(item_norm)
+    return validos
 
 
 def merge_parciales(convocatoria: str, parciales: dict[str, dict]) -> ExtraccionTdr:
@@ -61,20 +105,80 @@ def merge_parciales(convocatoria: str, parciales: dict[str, dict]) -> Extraccion
         if clave == "objetivo":
             base["objetivo"] = data.get("objetivo")
         elif clave == "dirigida_a":
-            base["actores_elegibles"] = data.get("actores_elegibles") or []
+            base["actores_elegibles"] = _validar_items(
+                ActorElegible, data.get("actores_elegibles") or [], convocatoria, clave
+            )
             base["alianza_obligatoria"] = data.get("alianza_obligatoria")
         elif clave == "lineas_tematicas":
-            base["lineas_tematicas"] = data.get("lineas_tematicas") or []
+            base["lineas_tematicas"] = _validar_items(
+                LineaTematica, data.get("lineas_tematicas") or [], convocatoria, clave
+            )
         elif clave == "requisitos":
-            base["requisitos"] = data.get("requisitos") or []
+            base["requisitos"] = _validar_items(
+                Requisito, data.get("requisitos") or [], convocatoria, clave
+            )
         elif clave == "rechazo":
-            base["causales_rechazo"] = data.get("causales_rechazo") or []
+            base["causales_rechazo"] = _validar_items(
+                CausalRechazo, data.get("causales_rechazo") or [], convocatoria, clave
+            )
         elif clave == "financiacion":
-            base["financiacion"] = data.get("financiacion")
+            fin = data.get("financiacion")
+            if fin:
+                try:
+                    Financiacion.model_validate(fin)
+                    base["financiacion"] = fin
+                except ValidationError as exc:
+                    log.warning("Conv %s: financiacion descartada (no valida): %s", convocatoria, exc)
         elif clave == "criterios":
-            base["criterios_evaluacion"] = data.get("criterios_evaluacion") or []
+            base["criterios_evaluacion"] = _validar_items(
+                CriterioEvaluacion, data.get("criterios_evaluacion") or [], convocatoria, clave
+            )
 
     return ExtraccionTdr.model_validate(base)
+
+
+def _normalizar_titulo(texto: str | None) -> str:
+    if not texto:
+        return ""
+    texto = unicodedata.normalize("NFKD", texto)
+    texto = "".join(c for c in texto if not unicodedata.combining(c))
+    return re.sub(r"\s+", " ", texto).strip().upper()
+
+
+def construir_texto_para_clave(doc: dict, clave: str, sec: dict | None) -> tuple[str, str]:
+    if sec and (sec.get("texto") or "").strip():
+        return sec.get("texto") or "", sec.get("titulo") or clave
+
+    secciones = doc.get("secciones") or []
+    if not secciones:
+        return "", clave
+
+    keywords_por_clave = {
+        "objetivo": ["OBJETIVO", "OBJETIVOS", "PRESENTACION"],
+        "dirigida_a": ["DIRIGID", "PARTICIPACION", "MECANISMO", "ACTORES", "ELEGIBLE", "PRESENTACION"],
+        "lineas_tematicas": ["OBJETIVO", "OBJETIVOS", "PARTICIPACION", "DEMANDA", "TERRITORIAL", "TEMATIC", "LINEA", "EJE"],
+        "requisitos": ["REQUISITO", "HABILITANTE", "DOCUMENTO"],
+        "criterios": ["EVALUACION", "EVALUACI", "CRITERIO", "PUNTAJE", "CALIFIC"],
+        "rechazo": ["RECHAZO", "INHABIL", "CAUSAL", "CONDICION"],
+        "financiacion": ["FINANCI", "RECURSO", "PRESUP", "CRONOGRAMA", "PLAZO", "DURACION", "MONTO"],
+    }
+
+    keywords = keywords_por_clave.get(clave, [])
+    candidatos = []
+    if keywords:
+        candidatos = [
+            s for s in secciones
+            if any(k in _normalizar_titulo(s.get("titulo")) for k in keywords)
+        ]
+    if not candidatos:
+        candidatos = secciones
+
+    texto = "\n\n".join(
+        f"Sección: {s.get('titulo') or 'Sin título'}\n{(s.get('texto') or '').strip()}"
+        for s in candidatos
+        if (s.get('texto') or '').strip()
+    )
+    return texto, f"{clave} (contexto completo)"
 
 
 def procesar_convocatoria(conv: str, client) -> ExtraccionTdr:
@@ -89,15 +193,17 @@ def procesar_convocatoria(conv: str, client) -> ExtraccionTdr:
     parciales = {}
     for clave in ORDEN_CLAVES:
         sec = p0.get(clave)
+        texto, titulo = construir_texto_para_clave(doc, clave, sec)
         if not sec:
-            log.warning("Conv %s: falta sección %s", conv, clave)
-            parciales[clave] = {"ok": False, "data": {}, "meta": {"clave": clave, "error": "seccion_ausente"}}
+            log.warning("Conv %s: falta sección %s; usando contexto completo", conv, clave)
+        if not texto.strip():
+            parciales[clave] = {"ok": False, "data": {}, "meta": {"clave": clave, "error": "texto_ausente"}}
             continue
-        log.info("  LLM %s (%s chars) …", clave, sec.get("n_caracteres"))
+        log.info("  LLM %s (%s chars) …", clave, len(texto))
         parciales[clave] = extraer_seccion(
             clave=clave,
-            texto=sec.get("texto") or "",
-            titulo=sec.get("titulo") or clave,
+            texto=texto,
+            titulo=titulo,
             client=client,
         )
         ok = parciales[clave]["ok"]
