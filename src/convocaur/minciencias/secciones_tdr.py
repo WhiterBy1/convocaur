@@ -407,10 +407,13 @@ def detectar_encabezados_cuerpo(texto: str, toc: list[dict] | None = None) -> li
 
 
 def _secuencia_monotona_por_posicion(items: list[dict]) -> list[dict]:
-    # Empezar en el primer número 1; si no hay, en el primero
-    inicio_idxs = [i for i, x in enumerate(items) if x["numero"] == 1]
+    # Probar la secuencia más larga a partir de CADA candidato, no solo los
+    # que empiezan en "1." -- un encabezado repetido por error (running
+    # header de página, encabezado duplicado) puede traer un "1." espurio
+    # más adelante en el documento; si solo probáramos los inicios en "1."
+    # el algoritmo se engancharía ahí y descartaría todo lo anterior.
     mejor = []
-    for inicio in (inicio_idxs or [0]):
+    for inicio in range(len(items)):
         seq = [items[inicio]]
         for item in items[inicio + 1 :]:
             if item["numero"] > seq[-1]["numero"] and item["posicion"] > seq[-1]["posicion"]:

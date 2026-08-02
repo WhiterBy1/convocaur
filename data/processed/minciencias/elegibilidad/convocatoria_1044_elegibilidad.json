@@ -1,11 +1,11 @@
 {
   "institucion": "Universidad del Rosario",
   "reglas": {
-    "puede_postularse": null,
-    "modo": "desconocido",
+    "puede_postularse": false,
+    "modo": "no_elegible",
     "rol_sugerido": null,
-    "confianza": "baja",
-    "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+    "confianza": "alta",
+    "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
     "actores_ies_match": [],
     "condiciones_pendientes": [],
     "capa": "reglas"
@@ -13,30 +13,32 @@
   "llm": {
     "ok": true,
     "data": {
-      "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
-      "rol_sugerido": "proponente",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
-        "Verificar experiencia en proyectos regionales (SGR) si aplica",
-        "Verificar capacidad de contrapartida"
+      "": true,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para postular como proponente o ejecutora."
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida."
+      "condiciones_a_verificar": [
+        "Verificar si la Universidad del Rosario puede participar como aliado en un consorcio o unión temporal con un actor elegible (persona jurídica, consorcio o unión temporal).",
+        "Confirmar que la universidad cumple con los requisitos de experiencia y capacidad institucional para apoyar la propuesta."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora según la convocatoria, que solo permite personas jurídicas, consorcios o uniones temporales. Sin embargo, podría postularse como aliado en una alianza con un actor elegible, sujeto a verificación de condiciones."
     },
     "model": "deepseek/deepseek-v4-flash"
   },
   "veredicto_final": {
-    "puede_postularse": true,
-    "modo": "elegible_con_condiciones",
-    "rol_sugerido": "proponente",
-    "bloqueantes": [],
-    "condiciones_a_verificar": [
-      "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
-      "Verificar experiencia en proyectos regionales (SGR) si aplica",
-      "Verificar capacidad de contrapartida"
+    "puede_postularse": false,
+    "modo": "solo_como_aliado",
+    "rol_sugerido": "aliado",
+    "bloqueantes": [
+      "La convocatoria no lista IES/universidades como actor elegible para postular como proponente o ejecutora."
     ],
-    "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida.",
+    "condiciones_a_verificar": [
+      "Verificar si la Universidad del Rosario puede participar como aliado en un consorcio o unión temporal con un actor elegible (persona jurídica, consorcio o unión temporal).",
+      "Confirmar que la universidad cumple con los requisitos de experiencia y capacidad institucional para apoyar la propuesta."
+    ],
+    "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora según la convocatoria, que solo permite personas jurídicas, consorcios o uniones temporales. Sin embargo, podría postularse como aliado en una alianza con un actor elegible, sujeto a verificación de condiciones.",
     "fuente": "reglas+llm"
   }
 }
