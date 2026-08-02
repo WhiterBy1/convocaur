@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "fuente_csv": "secop_ctei_procesos_deflactado_sin_implausibles.csv",
+    "unidad_valor": "COP constantes (IPC DANE)",
+    "valor_campo": "valor_adjudicado_total_real",
+    "umbral_mega_cop": 34273242066.480587,
+    "desde": "2022-01",
+    "hasta": "2026-07",
+    "n_procesos": 482152,
+    "valor_total_cop": 55356815596238.86,
+    "n_megacontratos": 109,
+    "pct_valor_megacontratos": 0.28061629039974934
+  },
+  "serie_mensual": [
+    {
+      "periodo": "2022-01",
+      "anio": 2022,
+      "mes": 1,
+      "etiqueta": "Ene 2022",
+      "n_procesos": 23499,
+      "valor_total_cop": 573909992173.8743,
+      "valor_sin_mega_cop": 539273188185.15356
+    },
+    {
+      "periodo": "2022-02",
+      "anio": 2022,
+      "mes": 2,
+      "etiqueta": "Feb 2022",
+      "n_procesos": 2509,
+      "valor_total_cop": 470696850571.9509,
+      "valor_sin_mega_cop": 435115729167.6792
+    },
+    {
+      "periodo": "2022-03",
+      "anio": 2022,
+      "mes": 3,
+      "etiqueta": "Mar 2022",
+      "n_procesos": 1788,
+      "valor_total_cop": 379799269006.7307,
+      "valor_sin_mega_cop": 379799269006.7307
+    },
+    {
+      "periodo": "2022-04",
+      "anio": 2022,
+      "mes": 4,
+      "etiqueta": "Abr 2022",
+      "n_procesos": 1557,
+      "valor_total_cop": 518670502037.51196,
+      "valor_sin_mega_cop": 424774592014.8602
+    },
+    {
+      "periodo": "2022-05",
+      "anio": 2022,
+      "mes": 5,
+      "etiqueta": "May 2022",
+      "n_procesos": 2066,
+      "valor_total_cop": 415303308919.85406,
+      "valor_sin_mega_cop": 415303308919.85406
+    },
+    {
+      "periodo": "2022-06",
+      "anio": 2022,
+      "mes": 6,
+      "etiqueta": "Jun 2022",
+      "n_procesos": 2463,
+      "valor_total_cop": 790249416984.0756,
+      "valor_sin_mega_cop": 746443951985.643
+    },
+    {
+      "periodo": "2022-07",
+      "anio": 2022,
+      "mes": 7,
+      "etiqueta": "Jul 2022",
+      "n_procesos": 5134,
+      "valor_total_cop": 872947341988.9901,
+      "valor_sin_mega_cop": 872947341988.9901
+    },
+    {
+      "periodo": "2022-08",
+      "anio": 2022,
+      "mes": 8,
+      "etiqueta": "Ago 2022",
+      "n_procesos": 7884,
+      "valor_total_cop": 818426282007.2087,
+      "valor_sin_mega_cop": 818426282007.2087
+    },
+    {
+      "periodo": "2022-09",
+      "anio": 2022,
+      "mes": 9,
+      "etiqueta": "Sep 2022",
+      "n_procesos": 8082,
+      "valor_total_cop": 718118759114.3079,
+      "valor_sin_mega_cop": 597948254162.2402
+    },
+    {
+      "periodo": "2022-10",
+      "anio": 2022,
+      "mes": 10,
+      "etiqueta": "Oct 2022",
+      "n_procesos": 7695,
+      "valor_total_cop": 1430172233444.978,
+      "valor_sin_mega_cop": 934719596928.6411
+    },
+    {
+      "periodo": "2022-11",
+      "anio": 2022,
+      "mes": 11,
+      "etiqueta": "Nov 2022",
+      "n_procesos": 8387,
+      "valor_total_cop": 1119332964583.416,
+      "valor_sin_mega_cop": 804014652725.4774
+    },
+    {
+      "periodo": "2022-12",
+      "anio": 2022,
+      "mes": 12,
+      "etiqueta": "Dic 2022",
+      "n_procesos": 6583,
+      "valor_total_cop": 2083517449393.6355,
+      "valor_sin_mega_cop": 1209403669062.9858
+    },
+    {
+      "periodo": "2023-01",
+      "anio": 2023,
+      "mes": 1,
+      "etiqueta": "Ene 2023",
+      "n_procesos": 11549,
+      "valor_total_cop": 852078760433.4995,
+      "valor_sin_mega_cop": 852078760433.4995
+    },
+    {
+      "periodo": "2023-02",
+      "anio": 2023,
+      "mes": 2,
+      "etiqueta": "Feb 2023",
+      "n_procesos": 14479,
+      "valor_total_cop": 846829747806.0834,
+      "valor_sin_mega_cop": 573062243871.2566
+    },
+    {
+      "periodo": "2023-03",
+      "anio": 2023,
+      "mes": 3,
+      "etiqueta": "Mar 2023",
+      "n_procesos": 11214,
+      "valor_total_cop": 624696101862.5471,
+      "valor_sin_mega_cop": 559255214567.7109
+    },
+    {
+      "periodo": "2023-04",
+      "anio": 2023,
+      "mes": 4,
+      "etiqueta": "Abr 2023",
+      "n_procesos": 7717,
+      "valor_total_cop": 640572553733.9222,
+      "valor_sin_mega_cop": 640572553733.9222
+    },
+    {
+      "periodo": "2023-05",
+      "anio": 2023,
+      "mes": 5,
+      "etiqueta": "May 2023",
+      "n_procesos": 10002,
+      "valor_total_cop": 921760423610.6309,
+      "valor_sin_mega_cop": 836101558167.0996
+    },
+    {
+      "periodo": "2023-06",
+      "anio": 2023,
+      "mes": 6,
+      "etiqueta": "Jun 2023",
+      "n_procesos": 12473,
+      "valor_total_cop": 2038873274081.541,
+      "valor_sin_mega_cop": 1291619733064.7986
+    },
+    {
+      "periodo": "2023-07",
+      "anio": 2023,
+      "mes": 7,
+      "etiqueta": "Jul 2023",
+      "n_procesos": 7640,
+      "valor_total_cop": 544613993635.46655,
+      "valor_sin_mega_cop": 468620288470.46375
+    },
+    {
+      "periodo": "2023-08",
+      "anio": 2023,
+      "mes": 8,
+      "etiqueta": "Ago 2023",
+      "n_procesos": 8337,
+      "valor_total_cop": 758530396225.2886,
+      "valor_sin_mega_cop": 586096735788.5759
+    },
+    {
+      "periodo": "2023-09",
+      "anio": 2023,
+      "mes": 9,
+      "etiqueta": "Sep 2023",
+      "n_procesos": 7252,
+      "valor_total_cop": 670326136200.3971,
+      "valor_sin_mega_cop": 612573111488.7188
+    },
+    {
+      "periodo": "2023-10",
+      "anio": 2023,
+      "mes": 10,
+      "etiqueta": "Oct 2023",
+      "n_procesos": 7533,
+      "valor_total_cop": 658086045733.6956,
+      "valor_sin_mega_cop": 533673724100.29395
+    },
+    {
+      "periodo": "2023-11",
+      "anio": 2023,
+      "mes": 11,
+      "etiqueta": "Nov 2023",
+      "n_procesos": 8594,
+      "valor_total_cop": 1310806308964.0708,
+      "valor_sin_mega_cop": 1096417164596.6039
+    },
+    {
+      "periodo": "2023-12",
+      "anio": 2023,
+      "mes": 12,
+      "etiqueta": "Dic 2023",
+      "n_procesos": 6478,
+      "valor_total_cop": 1832924624551.3696,
+      "valor_sin_mega_cop": 996607478768.3969
+    },
+    {
+      "periodo": "2024-01",
+      "anio": 2024,
+      "mes": 1,
+      "etiqueta": "Ene 2024",
+      "n_procesos": 9602,
+      "valor_total_cop": 768658751811.1465,
+      "valor_sin_mega_cop": 317130924054.4967
+    },
+    {
+      "periodo": "2024-02",
+      "anio": 2024,
+      "mes": 2,
+      "etiqueta": "Feb 2024",
+      "n_procesos": 11766,
+      "valor_total_cop": 646143165885.7454,
+      "valor_sin_mega_cop": 540260242330.91504
+    },
+    {
+      "periodo": "2024-03",
+      "anio": 2024,
+      "mes": 3,
+      "etiqueta": "Mar 2024",
+      "n_procesos": 9117,
+      "valor_total_cop": 479641984920.97424,
+      "valor_sin_mega_cop": 479641984920.97424
+    },
+    {
+      "periodo": "2024-04",
+      "anio": 2024,
+      "mes": 4,
+      "etiqueta": "Abr 2024",
+      "n_procesos": 9533,
+      "valor_total_cop": 701460069815.081,
+      "valor_sin_mega_cop": 535908414984.79144
+    },
+    {
+      "periodo": "2024-05",
+      "anio": 2024,
+      "mes": 5,
+      "etiqueta": "May 2024",
+      "n_procesos": 9261,
+      "valor_total_cop": 702934521210.7625,
+      "valor_sin_mega_cop": 702934521210.7625
+    },
+    {
+      "periodo": "2024-06",
+      "anio": 2024,
+      "mes": 6,
+      "etiqueta": "Jun 2024",
+      "n_procesos": 7107,
+      "valor_total_cop": 572298041190.2018,
+      "valor_sin_mega_cop": 521498002224.46106
+    },
+    {
+      "periodo": "2024-07",
+      "anio": 2024,
+      "mes": 7,
+      "etiqueta": "Jul 2024",
+      "n_procesos": 8063,
+      "valor_total_cop": 649766059234.7529,
+      "valor_sin_mega_cop": 649766059234.7529
+    },
+    {
+      "periodo": "2024-08",
+      "anio": 2024,
+      "mes": 8,
+      "etiqueta": "Ago 2024",
+      "n_procesos": 9497,
+      "valor_total_cop": 657213141973.1361,
+      "valor_sin_mega_cop": 510263175952.3963
+    },
+    {
+      "periodo": "2024-09",
+      "anio": 2024,
+      "mes": 9,
+      "etiqueta": "Sep 2024",
+      "n_procesos": 9102,
+      "valor_total_cop": 994065535019.2795,
+      "valor_sin_mega_cop": 932084869899.3364
+    },
+    {
+      "periodo": "2024-10",
+      "anio": 2024,
+      "mes": 10,
+      "etiqueta": "Oct 2024",
+      "n_procesos": 9893,
+      "valor_total_cop": 855991322123.7001,
+      "valor_sin_mega_cop": 855991322123.7001
+    },
+    {
+      "periodo": "2024-11",
+      "anio": 2024,
+      "mes": 11,
+      "etiqueta": "Nov 2024",
+      "n_procesos": 8691,
+      "valor_total_cop": 1194193564053.6687,
+      "valor_sin_mega_cop": 1114509921540.2136
+    },
+    {
+      "periodo": "2024-12",
+      "anio": 2024,
+      "mes": 12,
+      "etiqueta": "Dic 2024",
+      "n_procesos": 7052,
+      "valor_total_cop": 1680608059469.6812,
+      "valor_sin_mega_cop": 740632787087.2965
+    },
+    {
+      "periodo": "2025-01",
+      "anio": 2025,
+      "mes": 1,
+      "etiqueta": "Ene 2025",
+      "n_procesos": 11781,
+      "valor_total_cop": 522617352534.51636,
+      "valor_sin_mega_cop": 485560663669.3535
+    },
+    {
+      "periodo": "2025-02",
+      "anio": 2025,
+      "mes": 2,
+      "etiqueta": "Feb 2025",
+      "n_procesos": 14477,
+      "valor_total_cop": 427846328502.6784,
+      "valor_sin_mega_cop": 427846328502.6784
+    },
+    {
+      "periodo": "2025-03",
+      "anio": 2025,
+      "mes": 3,
+      "etiqueta": "Mar 2025",
+      "n_procesos": 10629,
+      "valor_total_cop": 609607073686.9873,
+      "valor_sin_mega_cop": 399525556214.729
+    },
+    {
+      "periodo": "2025-04",
+      "anio": 2025,
+      "mes": 4,
+      "etiqueta": "Abr 2025",
+      "n_procesos": 8195,
+      "valor_total_cop": 703730477098.8643,
+      "valor_sin_mega_cop": 608019195282.6497
+    },
+    {
+      "periodo": "2025-05",
+      "anio": 2025,
+      "mes": 5,
+      "etiqueta": "May 2025",
+      "n_procesos": 9268,
+      "valor_total_cop": 1288560306053.12,
+      "valor_sin_mega_cop": 805971620780.6185
+    },
+    {
+      "periodo": "2025-06",
+      "anio": 2025,
+      "mes": 6,
+      "etiqueta": "Jun 2025",
+      "n_procesos": 8090,
+      "valor_total_cop": 996866919766.1006,
+      "valor_sin_mega_cop": 558974846420.5034
+    },
+    {
+      "periodo": "2025-07",
+      "anio": 2025,
+      "mes": 7,
+      "etiqueta": "Jul 2025",
+      "n_procesos": 11022,
+      "valor_total_cop": 958306242446.6038,
+      "valor_sin_mega_cop": 958306242446.6038
+    },
+    {
+      "periodo": "2025-08",
+      "anio": 2025,
+      "mes": 8,
+      "etiqueta": "Ago 2025",
+      "n_procesos": 8814,
+      "valor_total_cop": 2139184868899.0073,
+      "valor_sin_mega_cop": 1545312191381.3135
+    },
+    {
+      "periodo": "2025-09",
+      "anio": 2025,
+      "mes": 9,
+      "etiqueta": "Sep 2025",
+      "n_procesos": 9680,
+      "valor_total_cop": 1119457920825.9966,
+      "valor_sin_mega_cop": 1045760656527.4127
+    },
+    {
+      "periodo": "2025-10",
+      "anio": 2025,
+      "mes": 10,
+      "etiqueta": "Oct 2025",
+      "n_procesos": 10638,
+      "valor_total_cop": 1679103990012.2246,
+      "valor_sin_mega_cop": 1138394580380.2146
+    },
+    {
+      "periodo": "2025-11",
+      "anio": 2025,
+      "mes": 11,
+      "etiqueta": "Nov 2025",
+      "n_procesos": 9920,
+      "valor_total_cop": 1912946350269.8164,
+      "valor_sin_mega_cop": 1441808718757.4736
+    },
+    {
+      "periodo": "2025-12",
+      "anio": 2025,
+      "mes": 12,
+      "etiqueta": "Dic 2025",
+      "n_procesos": 7723,
+      "valor_total_cop": 6834632618435.006,
+      "valor_sin_mega_cop": 1704963666800.6606
+    },
+    {
+      "periodo": "2026-01",
+      "anio": 2026,
+      "mes": 1,
+      "etiqueta": "Ene 2026",
+      "n_procesos": 30298,
+      "valor_total_cop": 1185312261103.3792,
+      "valor_sin_mega_cop": 768680178118.9609
+    },
+    {
+      "periodo": "2026-02",
+      "anio": 2026,
+      "mes": 2,
+      "etiqueta": "Feb 2026",
+      "n_procesos": 7324,
+      "valor_total_cop": 524149459227.5288,
+      "valor_sin_mega_cop": 368955040535.3002
+    },
+    {
+      "periodo": "2026-03",
+      "anio": 2026,
+      "mes": 3,
+      "etiqueta": "Mar 2026",
+      "n_procesos": 4639,
+      "valor_total_cop": 432627470914.3177,
+      "valor_sin_mega_cop": 432627470914.3177
+    },
+    {
+      "periodo": "2026-04",
+      "anio": 2026,
+      "mes": 4,
+      "etiqueta": "Abr 2026",
+      "n_procesos": 2497,
+      "valor_total_cop": 957805325569.961,
+      "valor_sin_mega_cop": 787168858601.0514
+    },
+    {
+      "periodo": "2026-05",
+      "anio": 2026,
+      "mes": 5,
+      "etiqueta": "May 2026",
+      "n_procesos": 4115,
+      "valor_total_cop": 360311465760.572,
+      "valor_sin_mega_cop": 360311465760.572
+    },
+    {
+      "periodo": "2026-06",
+      "anio": 2026,
+      "mes": 6,
+      "etiqueta": "Jun 2026",
+      "n_procesos": 5730,
+      "valor_total_cop": 589349866084.0,
+      "valor_sin_mega_cop": 589349866084.0
+    },
+    {
+      "periodo": "2026-07",
+      "anio": 2026,
+      "mes": 7,
+      "etiqueta": "Jul 2026",
+      "n_procesos": 7713,
+      "valor_total_cop": 320182345275.0,
+      "valor_sin_mega_cop": 269783579330.0
+    }
+  ],
+  "estacionalidad_mensual": [
+    {
+      "mes": 1,
+      "nombre": "Ene",
+      "n_procesos_promedio": 17345.8,
+      "valor_promedio_cop": 780515423611.2832
+    },
+    {
+      "mes": 2,
+      "nombre": "Feb",
+      "n_procesos_promedio": 10111.0,
+      "valor_promedio_cop": 583133110398.7974
+    },
+    {
+      "mes": 3,
+      "nombre": "Mar",
+      "n_procesos_promedio": 7477.4,
+      "valor_promedio_cop": 505274380078.3114
+    },
+    {
+      "mes": 4,
+      "nombre": "Abr",
+      "n_procesos_promedio": 5899.8,
+      "valor_promedio_cop": 704447785651.0681
+    },
+    {
+      "mes": 5,
+      "nombre": "May",
+      "n_procesos_promedio": 6942.4,
+      "valor_promedio_cop": 737774005110.9879
+    },
+    {
+      "mes": 6,
+      "nombre": "Jun",
+      "n_procesos_promedio": 7172.6,
+      "valor_promedio_cop": 997527503621.1838
+    },
+    {
+      "mes": 7,
+      "nombre": "Jul",
+      "n_procesos_promedio": 7914.4,
+      "valor_promedio_cop": 669163196516.1627
+    },
+    {
+      "mes": 8,
+      "nombre": "Ago",
+      "n_procesos_promedio": 8633.0,
+      "valor_promedio_cop": 1093338672276.1602
+    },
+    {
+      "mes": 9,
+      "nombre": "Sep",
+      "n_procesos_promedio": 8529.0,
+      "valor_promedio_cop": 875492087789.9952
+    },
+    {
+      "mes": 10,
+      "nombre": "Oct",
+      "n_procesos_promedio": 8939.8,
+      "valor_promedio_cop": 1155838397828.6494
+    },
+    {
+      "mes": 11,
+      "nombre": "Nov",
+      "n_procesos_promedio": 8898.0,
+      "valor_promedio_cop": 1384319796967.743
+    },
+    {
+      "mes": 12,
+      "nombre": "Dic",
+      "n_procesos_promedio": 6959.0,
+      "valor_promedio_cop": 3107920687962.423
+    }
+  ],
+  "unspsc_mix": [
+    {
+      "codigo": "81",
+      "nombre": "Ingeniería, investigación y tecnología",
+      "pct": 0.44419602117174667
+    },
+    {
+      "codigo": "80",
+      "nombre": "Gestión y servicios profesionales",
+      "pct": 0.3472743035391329
+    },
+    {
+      "codigo": "86",
+      "nombre": "Educación y capacitación",
+      "pct": 0.20852967528912045
+    }
+  ],
+  "cierre_rosario": {
+    "titulo": "Qué implica para la Universidad del Rosario",
+    "puntos": [
+      "Concentrar la vigilancia de SECOP en meses históricamente más activos (p. ej. Ene).",
+      "Al leer el tamaño del mercado, preferir la serie sin megacontratos: refleja mejor las oportunidades cotidianas de I+D y servicios.",
+      "Hay espacio claro en educación/capacitación e investigación/tecnología — alineado con facultades y centros de Rosario.",
+      "Estas tendencias dicen cuándo mirar el mercado; el matching Minciencias responde con qué docentes postular."
+    ]
+  }
+}

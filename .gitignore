@@ -13,11 +13,21 @@ __pycache__/
 dist/
 build/
 *.tmp
-
-# Salidas personales del laboratorio (cada quien escribe aquí)
-laboratorio/**/salidas/**
-!laboratorio/**/salidas/.gitkeep
+frontend/node_modules/
+frontend/dist/
 
 # Raw de Minciencias (PDFs/DOCX descargados): pesa demasiado para git.
-# Respaldo completo en Google Drive, ver laboratorio/catalogo_datos.md
+# Respaldo completo en Google Drive, ver docs/catalogo_datos.md
 data/raw/minciencias/
+
+# Cache de embeddings del matching (regenerable)
+data/processed/matching/cache_embeddings/
+
+# SECOP CTeI: CSV de cientos de MB + rar
+analisis/secop/secop_ctei_*.csv
+analisis/secop/*.rar
+analisis/secop/img/
+analisis/secop/salidas_capacidad3/
+!analisis/secop/salidas_capacidad3/**/.gitkeep
+# Modelos entrenados: grandes; mantener local / Drive, no git
+analisis/secop/salidas_capacidad3/modelos/*.joblib

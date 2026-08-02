@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "fecha": "2026-08-01T17:23:22.447107+00:00",
+  "n_remotos": 40,
+  "n_locales_previos": 107,
+  "n_nuevas": 1,
+  "n_ya_conocidas": 37,
+  "nuevas": [
+    ""
+  ],
+  "nuevas_detalle": [
+    {
+      "numero": "",
+      "titulo": "Concurso Movilidad Académica Internacional en el Continente Africano",
+      "url_detalle": "https://minciencias.gov.co/node/9339",
+      "fecha_apertura_texto": "Miércoles, Abril 1, 2026",
+      "total_recursos_texto": "$2.700.000.000"
+    },
+    {
+      "numero": "",
+      "titulo": "CONVOCATORIA AMSUD 2025 “PROGRAMAS REGIONALES STIC-AmSud - MATH-AmSud - CLIMAT-AmSud Año 2025”",
+      "url_detalle": "https://minciencias.gov.co/node/8879",
+      "fecha_apertura_texto": "Martes, Marzo 18, 2025",
+      "total_recursos_texto": ""
+    },
+    {
+      "numero": "",
+      "titulo": "Invitación a startups, spin-offs y generadoras de conocimiento a ser parte del Portafolio BIO digital",
+      "url_detalle": "https://minciencias.gov.co/node/8641",
+      "fecha_apertura_texto": "Viernes, Julio 19, 2024",
+      "total_recursos_texto": ""
+    }
+  ],
+  "snapshot_csv": "data\\processed\\minciencias\\listado_minciencias_sync.csv",
+  "listado_merged_filas": 109,
+  "mensaje": "Encontradas 1 convocatorias nuevas en Minciencias."
+}

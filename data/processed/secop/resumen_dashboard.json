@@ -1,0 +1,1463 @@
+{
+  "meta": {
+    "titulo": "ConvocaUR — SECOP CTeI",
+    "universo": "UNSPSC 80 / 81 / 86",
+    "fuente": "SECOP II (datos.gov.co)",
+    "ipc": "anex-IPC-jun2026 (DANE) interpolado",
+    "csv_preferido": "secop_ctei_procesos_deflactado_sin_implausibles.csv",
+    "fecha_corte_modelo": "2025-07-01"
+  },
+  "universo": {
+    "n_procesos_total": 492784,
+    "n_competitivos": 69671,
+    "pct_competitivos": 0.141,
+    "tasa_adjudicacion_competitivos": 0.553,
+    "n_resueltos": 43566,
+    "tasa_resuelto": 0.863,
+    "n_abiertos": 26105,
+    "nota": "En régimen especial/directa la adjudicación observada es ~0%; el modelo Cap.3 opera solo sobre modalidades competitivas."
+  },
+  "capacidad_1": {
+    "titulo": "Tendencias: cómo se mueve la contratación CTeI",
+    "subtitulo": "Mes a mes, en pesos constantes (ajustados por inflación)",
+    "kpis": {
+      "n_procesos": 482152,
+      "valor_total_cop": 55356815596238.86,
+      "n_megacontratos": 109,
+      "pct_valor_megacontratos": 0.28061629039974934,
+      "desde": "2022-01",
+      "hasta": "2026-07"
+    },
+    "serie_mensual": [
+      {
+        "periodo": "2022-01",
+        "anio": 2022,
+        "mes": 1,
+        "etiqueta": "Ene 2022",
+        "n_procesos": 23499,
+        "valor_total_cop": 573909992173.8743,
+        "valor_sin_mega_cop": 539273188185.15356
+      },
+      {
+        "periodo": "2022-02",
+        "anio": 2022,
+        "mes": 2,
+        "etiqueta": "Feb 2022",
+        "n_procesos": 2509,
+        "valor_total_cop": 470696850571.9509,
+        "valor_sin_mega_cop": 435115729167.6792
+      },
+      {
+        "periodo": "2022-03",
+        "anio": 2022,
+        "mes": 3,
+        "etiqueta": "Mar 2022",
+        "n_procesos": 1788,
+        "valor_total_cop": 379799269006.7307,
+        "valor_sin_mega_cop": 379799269006.7307
+      },
+      {
+        "periodo": "2022-04",
+        "anio": 2022,
+        "mes": 4,
+        "etiqueta": "Abr 2022",
+        "n_procesos": 1557,
+        "valor_total_cop": 518670502037.51196,
+        "valor_sin_mega_cop": 424774592014.8602
+      },
+      {
+        "periodo": "2022-05",
+        "anio": 2022,
+        "mes": 5,
+        "etiqueta": "May 2022",
+        "n_procesos": 2066,
+        "valor_total_cop": 415303308919.85406,
+        "valor_sin_mega_cop": 415303308919.85406
+      },
+      {
+        "periodo": "2022-06",
+        "anio": 2022,
+        "mes": 6,
+        "etiqueta": "Jun 2022",
+        "n_procesos": 2463,
+        "valor_total_cop": 790249416984.0756,
+        "valor_sin_mega_cop": 746443951985.643
+      },
+      {
+        "periodo": "2022-07",
+        "anio": 2022,
+        "mes": 7,
+        "etiqueta": "Jul 2022",
+        "n_procesos": 5134,
+        "valor_total_cop": 872947341988.9901,
+        "valor_sin_mega_cop": 872947341988.9901
+      },
+      {
+        "periodo": "2022-08",
+        "anio": 2022,
+        "mes": 8,
+        "etiqueta": "Ago 2022",
+        "n_procesos": 7884,
+        "valor_total_cop": 818426282007.2087,
+        "valor_sin_mega_cop": 818426282007.2087
+      },
+      {
+        "periodo": "2022-09",
+        "anio": 2022,
+        "mes": 9,
+        "etiqueta": "Sep 2022",
+        "n_procesos": 8082,
+        "valor_total_cop": 718118759114.3079,
+        "valor_sin_mega_cop": 597948254162.2402
+      },
+      {
+        "periodo": "2022-10",
+        "anio": 2022,
+        "mes": 10,
+        "etiqueta": "Oct 2022",
+        "n_procesos": 7695,
+        "valor_total_cop": 1430172233444.978,
+        "valor_sin_mega_cop": 934719596928.6411
+      },
+      {
+        "periodo": "2022-11",
+        "anio": 2022,
+        "mes": 11,
+        "etiqueta": "Nov 2022",
+        "n_procesos": 8387,
+        "valor_total_cop": 1119332964583.416,
+        "valor_sin_mega_cop": 804014652725.4774
+      },
+      {
+        "periodo": "2022-12",
+        "anio": 2022,
+        "mes": 12,
+        "etiqueta": "Dic 2022",
+        "n_procesos": 6583,
+        "valor_total_cop": 2083517449393.6355,
+        "valor_sin_mega_cop": 1209403669062.9858
+      },
+      {
+        "periodo": "2023-01",
+        "anio": 2023,
+        "mes": 1,
+        "etiqueta": "Ene 2023",
+        "n_procesos": 11549,
+        "valor_total_cop": 852078760433.4995,
+        "valor_sin_mega_cop": 852078760433.4995
+      },
+      {
+        "periodo": "2023-02",
+        "anio": 2023,
+        "mes": 2,
+        "etiqueta": "Feb 2023",
+        "n_procesos": 14479,
+        "valor_total_cop": 846829747806.0834,
+        "valor_sin_mega_cop": 573062243871.2566
+      },
+      {
+        "periodo": "2023-03",
+        "anio": 2023,
+        "mes": 3,
+        "etiqueta": "Mar 2023",
+        "n_procesos": 11214,
+        "valor_total_cop": 624696101862.5471,
+        "valor_sin_mega_cop": 559255214567.7109
+      },
+      {
+        "periodo": "2023-04",
+        "anio": 2023,
+        "mes": 4,
+        "etiqueta": "Abr 2023",
+        "n_procesos": 7717,
+        "valor_total_cop": 640572553733.9222,
+        "valor_sin_mega_cop": 640572553733.9222
+      },
+      {
+        "periodo": "2023-05",
+        "anio": 2023,
+        "mes": 5,
+        "etiqueta": "May 2023",
+        "n_procesos": 10002,
+        "valor_total_cop": 921760423610.6309,
+        "valor_sin_mega_cop": 836101558167.0996
+      },
+      {
+        "periodo": "2023-06",
+        "anio": 2023,
+        "mes": 6,
+        "etiqueta": "Jun 2023",
+        "n_procesos": 12473,
+        "valor_total_cop": 2038873274081.541,
+        "valor_sin_mega_cop": 1291619733064.7986
+      },
+      {
+        "periodo": "2023-07",
+        "anio": 2023,
+        "mes": 7,
+        "etiqueta": "Jul 2023",
+        "n_procesos": 7640,
+        "valor_total_cop": 544613993635.46655,
+        "valor_sin_mega_cop": 468620288470.46375
+      },
+      {
+        "periodo": "2023-08",
+        "anio": 2023,
+        "mes": 8,
+        "etiqueta": "Ago 2023",
+        "n_procesos": 8337,
+        "valor_total_cop": 758530396225.2886,
+        "valor_sin_mega_cop": 586096735788.5759
+      },
+      {
+        "periodo": "2023-09",
+        "anio": 2023,
+        "mes": 9,
+        "etiqueta": "Sep 2023",
+        "n_procesos": 7252,
+        "valor_total_cop": 670326136200.3971,
+        "valor_sin_mega_cop": 612573111488.7188
+      },
+      {
+        "periodo": "2023-10",
+        "anio": 2023,
+        "mes": 10,
+        "etiqueta": "Oct 2023",
+        "n_procesos": 7533,
+        "valor_total_cop": 658086045733.6956,
+        "valor_sin_mega_cop": 533673724100.29395
+      },
+      {
+        "periodo": "2023-11",
+        "anio": 2023,
+        "mes": 11,
+        "etiqueta": "Nov 2023",
+        "n_procesos": 8594,
+        "valor_total_cop": 1310806308964.0708,
+        "valor_sin_mega_cop": 1096417164596.6039
+      },
+      {
+        "periodo": "2023-12",
+        "anio": 2023,
+        "mes": 12,
+        "etiqueta": "Dic 2023",
+        "n_procesos": 6478,
+        "valor_total_cop": 1832924624551.3696,
+        "valor_sin_mega_cop": 996607478768.3969
+      },
+      {
+        "periodo": "2024-01",
+        "anio": 2024,
+        "mes": 1,
+        "etiqueta": "Ene 2024",
+        "n_procesos": 9602,
+        "valor_total_cop": 768658751811.1465,
+        "valor_sin_mega_cop": 317130924054.4967
+      },
+      {
+        "periodo": "2024-02",
+        "anio": 2024,
+        "mes": 2,
+        "etiqueta": "Feb 2024",
+        "n_procesos": 11766,
+        "valor_total_cop": 646143165885.7454,
+        "valor_sin_mega_cop": 540260242330.91504
+      },
+      {
+        "periodo": "2024-03",
+        "anio": 2024,
+        "mes": 3,
+        "etiqueta": "Mar 2024",
+        "n_procesos": 9117,
+        "valor_total_cop": 479641984920.97424,
+        "valor_sin_mega_cop": 479641984920.97424
+      },
+      {
+        "periodo": "2024-04",
+        "anio": 2024,
+        "mes": 4,
+        "etiqueta": "Abr 2024",
+        "n_procesos": 9533,
+        "valor_total_cop": 701460069815.081,
+        "valor_sin_mega_cop": 535908414984.79144
+      },
+      {
+        "periodo": "2024-05",
+        "anio": 2024,
+        "mes": 5,
+        "etiqueta": "May 2024",
+        "n_procesos": 9261,
+        "valor_total_cop": 702934521210.7625,
+        "valor_sin_mega_cop": 702934521210.7625
+      },
+      {
+        "periodo": "2024-06",
+        "anio": 2024,
+        "mes": 6,
+        "etiqueta": "Jun 2024",
+        "n_procesos": 7107,
+        "valor_total_cop": 572298041190.2018,
+        "valor_sin_mega_cop": 521498002224.46106
+      },
+      {
+        "periodo": "2024-07",
+        "anio": 2024,
+        "mes": 7,
+        "etiqueta": "Jul 2024",
+        "n_procesos": 8063,
+        "valor_total_cop": 649766059234.7529,
+        "valor_sin_mega_cop": 649766059234.7529
+      },
+      {
+        "periodo": "2024-08",
+        "anio": 2024,
+        "mes": 8,
+        "etiqueta": "Ago 2024",
+        "n_procesos": 9497,
+        "valor_total_cop": 657213141973.1361,
+        "valor_sin_mega_cop": 510263175952.3963
+      },
+      {
+        "periodo": "2024-09",
+        "anio": 2024,
+        "mes": 9,
+        "etiqueta": "Sep 2024",
+        "n_procesos": 9102,
+        "valor_total_cop": 994065535019.2795,
+        "valor_sin_mega_cop": 932084869899.3364
+      },
+      {
+        "periodo": "2024-10",
+        "anio": 2024,
+        "mes": 10,
+        "etiqueta": "Oct 2024",
+        "n_procesos": 9893,
+        "valor_total_cop": 855991322123.7001,
+        "valor_sin_mega_cop": 855991322123.7001
+      },
+      {
+        "periodo": "2024-11",
+        "anio": 2024,
+        "mes": 11,
+        "etiqueta": "Nov 2024",
+        "n_procesos": 8691,
+        "valor_total_cop": 1194193564053.6687,
+        "valor_sin_mega_cop": 1114509921540.2136
+      },
+      {
+        "periodo": "2024-12",
+        "anio": 2024,
+        "mes": 12,
+        "etiqueta": "Dic 2024",
+        "n_procesos": 7052,
+        "valor_total_cop": 1680608059469.6812,
+        "valor_sin_mega_cop": 740632787087.2965
+      },
+      {
+        "periodo": "2025-01",
+        "anio": 2025,
+        "mes": 1,
+        "etiqueta": "Ene 2025",
+        "n_procesos": 11781,
+        "valor_total_cop": 522617352534.51636,
+        "valor_sin_mega_cop": 485560663669.3535
+      },
+      {
+        "periodo": "2025-02",
+        "anio": 2025,
+        "mes": 2,
+        "etiqueta": "Feb 2025",
+        "n_procesos": 14477,
+        "valor_total_cop": 427846328502.6784,
+        "valor_sin_mega_cop": 427846328502.6784
+      },
+      {
+        "periodo": "2025-03",
+        "anio": 2025,
+        "mes": 3,
+        "etiqueta": "Mar 2025",
+        "n_procesos": 10629,
+        "valor_total_cop": 609607073686.9873,
+        "valor_sin_mega_cop": 399525556214.729
+      },
+      {
+        "periodo": "2025-04",
+        "anio": 2025,
+        "mes": 4,
+        "etiqueta": "Abr 2025",
+        "n_procesos": 8195,
+        "valor_total_cop": 703730477098.8643,
+        "valor_sin_mega_cop": 608019195282.6497
+      },
+      {
+        "periodo": "2025-05",
+        "anio": 2025,
+        "mes": 5,
+        "etiqueta": "May 2025",
+        "n_procesos": 9268,
+        "valor_total_cop": 1288560306053.12,
+        "valor_sin_mega_cop": 805971620780.6185
+      },
+      {
+        "periodo": "2025-06",
+        "anio": 2025,
+        "mes": 6,
+        "etiqueta": "Jun 2025",
+        "n_procesos": 8090,
+        "valor_total_cop": 996866919766.1006,
+        "valor_sin_mega_cop": 558974846420.5034
+      },
+      {
+        "periodo": "2025-07",
+        "anio": 2025,
+        "mes": 7,
+        "etiqueta": "Jul 2025",
+        "n_procesos": 11022,
+        "valor_total_cop": 958306242446.6038,
+        "valor_sin_mega_cop": 958306242446.6038
+      },
+      {
+        "periodo": "2025-08",
+        "anio": 2025,
+        "mes": 8,
+        "etiqueta": "Ago 2025",
+        "n_procesos": 8814,
+        "valor_total_cop": 2139184868899.0073,
+        "valor_sin_mega_cop": 1545312191381.3135
+      },
+      {
+        "periodo": "2025-09",
+        "anio": 2025,
+        "mes": 9,
+        "etiqueta": "Sep 2025",
+        "n_procesos": 9680,
+        "valor_total_cop": 1119457920825.9966,
+        "valor_sin_mega_cop": 1045760656527.4127
+      },
+      {
+        "periodo": "2025-10",
+        "anio": 2025,
+        "mes": 10,
+        "etiqueta": "Oct 2025",
+        "n_procesos": 10638,
+        "valor_total_cop": 1679103990012.2246,
+        "valor_sin_mega_cop": 1138394580380.2146
+      },
+      {
+        "periodo": "2025-11",
+        "anio": 2025,
+        "mes": 11,
+        "etiqueta": "Nov 2025",
+        "n_procesos": 9920,
+        "valor_total_cop": 1912946350269.8164,
+        "valor_sin_mega_cop": 1441808718757.4736
+      },
+      {
+        "periodo": "2025-12",
+        "anio": 2025,
+        "mes": 12,
+        "etiqueta": "Dic 2025",
+        "n_procesos": 7723,
+        "valor_total_cop": 6834632618435.006,
+        "valor_sin_mega_cop": 1704963666800.6606
+      },
+      {
+        "periodo": "2026-01",
+        "anio": 2026,
+        "mes": 1,
+        "etiqueta": "Ene 2026",
+        "n_procesos": 30298,
+        "valor_total_cop": 1185312261103.3792,
+        "valor_sin_mega_cop": 768680178118.9609
+      },
+      {
+        "periodo": "2026-02",
+        "anio": 2026,
+        "mes": 2,
+        "etiqueta": "Feb 2026",
+        "n_procesos": 7324,
+        "valor_total_cop": 524149459227.5288,
+        "valor_sin_mega_cop": 368955040535.3002
+      },
+      {
+        "periodo": "2026-03",
+        "anio": 2026,
+        "mes": 3,
+        "etiqueta": "Mar 2026",
+        "n_procesos": 4639,
+        "valor_total_cop": 432627470914.3177,
+        "valor_sin_mega_cop": 432627470914.3177
+      },
+      {
+        "periodo": "2026-04",
+        "anio": 2026,
+        "mes": 4,
+        "etiqueta": "Abr 2026",
+        "n_procesos": 2497,
+        "valor_total_cop": 957805325569.961,
+        "valor_sin_mega_cop": 787168858601.0514
+      },
+      {
+        "periodo": "2026-05",
+        "anio": 2026,
+        "mes": 5,
+        "etiqueta": "May 2026",
+        "n_procesos": 4115,
+        "valor_total_cop": 360311465760.572,
+        "valor_sin_mega_cop": 360311465760.572
+      },
+      {
+        "periodo": "2026-06",
+        "anio": 2026,
+        "mes": 6,
+        "etiqueta": "Jun 2026",
+        "n_procesos": 5730,
+        "valor_total_cop": 589349866084.0,
+        "valor_sin_mega_cop": 589349866084.0
+      },
+      {
+        "periodo": "2026-07",
+        "anio": 2026,
+        "mes": 7,
+        "etiqueta": "Jul 2026",
+        "n_procesos": 7713,
+        "valor_total_cop": 320182345275.0,
+        "valor_sin_mega_cop": 269783579330.0
+      }
+    ],
+    "estacionalidad_mensual": [
+      {
+        "mes": 1,
+        "nombre": "Ene",
+        "n_procesos_promedio": 17345.8,
+        "valor_promedio_cop": 780515423611.2832
+      },
+      {
+        "mes": 2,
+        "nombre": "Feb",
+        "n_procesos_promedio": 10111.0,
+        "valor_promedio_cop": 583133110398.7974
+      },
+      {
+        "mes": 3,
+        "nombre": "Mar",
+        "n_procesos_promedio": 7477.4,
+        "valor_promedio_cop": 505274380078.3114
+      },
+      {
+        "mes": 4,
+        "nombre": "Abr",
+        "n_procesos_promedio": 5899.8,
+        "valor_promedio_cop": 704447785651.0681
+      },
+      {
+        "mes": 5,
+        "nombre": "May",
+        "n_procesos_promedio": 6942.4,
+        "valor_promedio_cop": 737774005110.9879
+      },
+      {
+        "mes": 6,
+        "nombre": "Jun",
+        "n_procesos_promedio": 7172.6,
+        "valor_promedio_cop": 997527503621.1838
+      },
+      {
+        "mes": 7,
+        "nombre": "Jul",
+        "n_procesos_promedio": 7914.4,
+        "valor_promedio_cop": 669163196516.1627
+      },
+      {
+        "mes": 8,
+        "nombre": "Ago",
+        "n_procesos_promedio": 8633.0,
+        "valor_promedio_cop": 1093338672276.1602
+      },
+      {
+        "mes": 9,
+        "nombre": "Sep",
+        "n_procesos_promedio": 8529.0,
+        "valor_promedio_cop": 875492087789.9952
+      },
+      {
+        "mes": 10,
+        "nombre": "Oct",
+        "n_procesos_promedio": 8939.8,
+        "valor_promedio_cop": 1155838397828.6494
+      },
+      {
+        "mes": 11,
+        "nombre": "Nov",
+        "n_procesos_promedio": 8898.0,
+        "valor_promedio_cop": 1384319796967.743
+      },
+      {
+        "mes": 12,
+        "nombre": "Dic",
+        "n_procesos_promedio": 6959.0,
+        "valor_promedio_cop": 3107920687962.423
+      }
+    ],
+    "unspsc_mix": [
+      {
+        "codigo": "81",
+        "nombre": "Ingeniería, investigación y tecnología",
+        "pct": 0.44419602117174667
+      },
+      {
+        "codigo": "80",
+        "nombre": "Gestión y servicios profesionales",
+        "pct": 0.3472743035391329
+      },
+      {
+        "codigo": "86",
+        "nombre": "Educación y capacitación",
+        "pct": 0.20852967528912045
+      }
+    ],
+    "fondos_administrados": {
+      "n_procesos": 109,
+      "pct_valor": 0.28061629039974934,
+      "nota": "Contratos excepcionalmente grandes (un solo proveedor, percentil 99.5). Distorsionan la lectura del mercado si no se miran aparte."
+    },
+    "estacionalidad": {
+      "lectura": "Hay meses más activos, pero el patrón no se repite igual todos los años.",
+      "mes_pico": {
+        "mes": 1,
+        "nombre": "Ene",
+        "n_procesos_promedio": 17345.8,
+        "valor_promedio_cop": 780515423611.2832
+      }
+    },
+    "cierre_rosario": {
+      "titulo": "Qué implica para la Universidad del Rosario",
+      "puntos": [
+        "Concentrar la vigilancia de SECOP en meses históricamente más activos (p. ej. Ene).",
+        "Al leer el tamaño del mercado, preferir la serie sin megacontratos: refleja mejor las oportunidades cotidianas de I+D y servicios.",
+        "Hay espacio claro en educación/capacitación e investigación/tecnología — alineado con facultades y centros de Rosario.",
+        "Estas tendencias dicen cuándo mirar el mercado; el matching Minciencias responde con qué docentes postular."
+      ]
+    },
+    "nota_metodologica": "Valores en pesos constantes (IPC DANE). Universo UNSPSC 80/81/86 como proxy CTeI. Megacontratos: adjudicados con un proveedor por encima del percentil 99.5 del valor real."
+  },
+  "capacidad_2": {
+    "titulo": "Mercado: ¿quién gana los contratos CTeI?",
+    "subtitulo": "Concentración, competencia y rotación de proveedores (pesos adjudicados)",
+    "kpis": {
+      "hhi_antes": 9995.4,
+      "hhi_despues": 116.4,
+      "nivel_concentracion": "baja",
+      "proveedores_80pct_valor": 1048,
+      "proveedores_total": 17248,
+      "pct_proveedores_80": 6.1
+    },
+    "hhi": {
+      "antes_outliers": 9995.4,
+      "despues_correccion": 116.4,
+      "lectura": "Sin limpiar errores de datos el mercado parece un monopolio. Con la corrección, es un mercado abierto a nivel nacional.",
+      "guia": [
+        {
+          "rango": "Menos de 1.500",
+          "significado": "Mercado poco concentrado (competencia amplia)"
+        },
+        {
+          "rango": "1.500 – 2.500",
+          "significado": "Concentración moderada"
+        },
+        {
+          "rango": "Más de 2.500",
+          "significado": "Mercado muy concentrado"
+        }
+      ]
+    },
+    "pareto": {
+      "proveedores_80pct_valor": 1048,
+      "proveedores_total": 17248,
+      "pct_proveedores": 0.060760667903525044,
+      "lectura": "Hacen falta 1,048 proveedores (el 6.1% del total) para sumar el 80% del valor. No es un mercado de un solo ganador.",
+      "curva": [
+        {
+          "pct_proveedores": 1.0,
+          "pct_valor": 54.8
+        },
+        {
+          "pct_proveedores": 3.5,
+          "pct_valor": 72.9
+        },
+        {
+          "pct_proveedores": 6.1,
+          "pct_valor": 80.0
+        },
+        {
+          "pct_proveedores": 8.6,
+          "pct_valor": 84.2
+        },
+        {
+          "pct_proveedores": 11.2,
+          "pct_valor": 87.2
+        },
+        {
+          "pct_proveedores": 13.7,
+          "pct_valor": 89.4
+        },
+        {
+          "pct_proveedores": 16.2,
+          "pct_valor": 91.1
+        },
+        {
+          "pct_proveedores": 18.8,
+          "pct_valor": 92.5
+        },
+        {
+          "pct_proveedores": 21.3,
+          "pct_valor": 93.6
+        },
+        {
+          "pct_proveedores": 23.8,
+          "pct_valor": 94.5
+        },
+        {
+          "pct_proveedores": 26.4,
+          "pct_valor": 95.3
+        },
+        {
+          "pct_proveedores": 28.9,
+          "pct_valor": 96.0
+        },
+        {
+          "pct_proveedores": 31.5,
+          "pct_valor": 96.5
+        },
+        {
+          "pct_proveedores": 34.0,
+          "pct_valor": 97.0
+        },
+        {
+          "pct_proveedores": 36.5,
+          "pct_valor": 97.4
+        },
+        {
+          "pct_proveedores": 39.1,
+          "pct_valor": 97.8
+        },
+        {
+          "pct_proveedores": 41.6,
+          "pct_valor": 98.1
+        },
+        {
+          "pct_proveedores": 44.2,
+          "pct_valor": 98.3
+        },
+        {
+          "pct_proveedores": 46.7,
+          "pct_valor": 98.6
+        },
+        {
+          "pct_proveedores": 49.2,
+          "pct_valor": 98.8
+        },
+        {
+          "pct_proveedores": 51.8,
+          "pct_valor": 99.0
+        },
+        {
+          "pct_proveedores": 54.3,
+          "pct_valor": 99.1
+        },
+        {
+          "pct_proveedores": 56.8,
+          "pct_valor": 99.2
+        },
+        {
+          "pct_proveedores": 59.4,
+          "pct_valor": 99.3
+        },
+        {
+          "pct_proveedores": 61.9,
+          "pct_valor": 99.4
+        },
+        {
+          "pct_proveedores": 64.5,
+          "pct_valor": 99.5
+        },
+        {
+          "pct_proveedores": 67.0,
+          "pct_valor": 99.6
+        },
+        {
+          "pct_proveedores": 69.5,
+          "pct_valor": 99.7
+        },
+        {
+          "pct_proveedores": 72.1,
+          "pct_valor": 99.7
+        },
+        {
+          "pct_proveedores": 74.6,
+          "pct_valor": 99.8
+        },
+        {
+          "pct_proveedores": 77.2,
+          "pct_valor": 99.8
+        },
+        {
+          "pct_proveedores": 79.7,
+          "pct_valor": 99.9
+        },
+        {
+          "pct_proveedores": 82.2,
+          "pct_valor": 99.9
+        },
+        {
+          "pct_proveedores": 84.8,
+          "pct_valor": 99.9
+        },
+        {
+          "pct_proveedores": 87.3,
+          "pct_valor": 99.9
+        },
+        {
+          "pct_proveedores": 89.8,
+          "pct_valor": 100.0
+        },
+        {
+          "pct_proveedores": 92.4,
+          "pct_valor": 100.0
+        },
+        {
+          "pct_proveedores": 94.9,
+          "pct_valor": 100.0
+        },
+        {
+          "pct_proveedores": 97.5,
+          "pct_valor": 100.0
+        },
+        {
+          "pct_proveedores": 100.0,
+          "pct_valor": 100.0
+        }
+      ]
+    },
+    "top_proveedores": [
+      {
+        "nombre": "GECELCA S.A. E.S.P.",
+        "valor_cop": 4205027751839.0,
+        "participacion_pct": 8.59
+      },
+      {
+        "nombre": "EMPRESA DE DESARROLLO URBANO DE MEDELLIN",
+        "valor_cop": 1831659864317.0,
+        "participacion_pct": 3.74
+      },
+      {
+        "nombre": "FINANCIERA DE DESARROLLO TERRITORIAL S.A.",
+        "valor_cop": 1002979246316.0,
+        "participacion_pct": 2.05
+      },
+      {
+        "nombre": "INSTITUCIÓN UNIVERSITARIA ITM",
+        "valor_cop": 829071782294.0,
+        "participacion_pct": 1.69
+      },
+      {
+        "nombre": "FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO",
+        "valor_cop": 823463605046.0,
+        "participacion_pct": 1.68
+      },
+      {
+        "nombre": "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y L",
+        "valor_cop": 722587713558.0,
+        "participacion_pct": 1.48
+      },
+      {
+        "nombre": "CONSORCIO AEROPUERTO DEL CAFE SK",
+        "valor_cop": 634275135745.0,
+        "participacion_pct": 1.3
+      },
+      {
+        "nombre": "ESU",
+        "valor_cop": 586464020823.0,
+        "participacion_pct": 1.2
+      },
+      {
+        "nombre": "ENTerritorio S.A",
+        "valor_cop": 502326602956.0,
+        "participacion_pct": 1.03
+      },
+      {
+        "nombre": "AGENCIA DE DESARROLLO LOCAL DE ITAGUI",
+        "valor_cop": 465912019047.0,
+        "participacion_pct": 0.95
+      },
+      {
+        "nombre": "EMPRESAS PUBLICAS DE MEDELLIN E.S.P.",
+        "valor_cop": 442901464714.0,
+        "participacion_pct": 0.91
+      },
+      {
+        "nombre": "CONSORCIO PLANTA CURVAL",
+        "valor_cop": 410758596204.0,
+        "participacion_pct": 0.84
+      },
+      {
+        "nombre": "RENTING DE ANTIOQUIA",
+        "valor_cop": 391743969725.0,
+        "participacion_pct": 0.8
+      },
+      {
+        "nombre": "VALOR+ S.A.S-PROVEEDOR",
+        "valor_cop": 380666802003.0,
+        "participacion_pct": 0.78
+      },
+      {
+        "nombre": "UNIVERSIDAD DE ANTIOQUIA",
+        "valor_cop": 365205724786.0,
+        "participacion_pct": 0.75
+      }
+    ],
+    "nichos_hhi_ejemplo": [
+      {
+        "entidad": "FABRICA DE LICORES Y ALCOHOLES DE ANTIOQUIA",
+        "hhi": 9150.336549395663
+      },
+      {
+        "entidad": "SENA REGIONAL ANTIOQUIA Grupo de Apoyo Administrativo Mixto",
+        "hhi": 9005.768204025764
+      },
+      {
+        "entidad": "Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Sant",
+        "hhi": 8706.726408069488
+      },
+      {
+        "entidad": "ALCALDIA DE GIRARDOTA",
+        "hhi": 8668.720431244798
+      },
+      {
+        "entidad": "MUNICIPIO DE MARINILLA",
+        "hhi": 8569.093659839324
+      }
+    ],
+    "nichos_concentrados": [
+      {
+        "entidad": "FABRICA DE LICORES Y ALCOHOLES DE ANTIOQUIA",
+        "hhi": 9150.3,
+        "proveedores": 37,
+        "procesos": 50,
+        "valor_total_cop": 103290566604.0
+      },
+      {
+        "entidad": "SENA REGIONAL ANTIOQUIA Grupo de Apoyo Administrativo Mixto",
+        "hhi": 9005.8,
+        "proveedores": 28,
+        "procesos": 38,
+        "valor_total_cop": 25791067148.0
+      },
+      {
+        "entidad": "Empresa Distrital de Desarrollo y Renovación Urbano Sostenible de Sant",
+        "hhi": 8706.7,
+        "proveedores": 27,
+        "procesos": 29,
+        "valor_total_cop": 440396888176.0
+      },
+      {
+        "entidad": "ALCALDIA DE GIRARDOTA",
+        "hhi": 8668.7,
+        "proveedores": 10,
+        "procesos": 20,
+        "valor_total_cop": 31932303879.0
+      },
+      {
+        "entidad": "MUNICIPIO DE MARINILLA",
+        "hhi": 8569.1,
+        "proveedores": 14,
+        "procesos": 53,
+        "valor_total_cop": 42172124813.0
+      },
+      {
+        "entidad": "MUNICIPIO DE ITAGUI",
+        "hhi": 8184.9,
+        "proveedores": 9,
+        "procesos": 54,
+        "valor_total_cop": 516973344747.0
+      },
+      {
+        "entidad": "MUNICIPIO DE EL DOVIO",
+        "hhi": 8019.5,
+        "proveedores": 2,
+        "procesos": 22,
+        "valor_total_cop": 327509705.0
+      },
+      {
+        "entidad": "MINISTERIO DE MINAS Y ENERGIA",
+        "hhi": 7610.8,
+        "proveedores": 68,
+        "procesos": 87,
+        "valor_total_cop": 4836052632118.0
+      }
+    ],
+    "nichos_competitivos": [
+      {
+        "entidad": "INVIAS",
+        "hhi": 164.0,
+        "proveedores": 656,
+        "procesos": 972
+      },
+      {
+        "entidad": "EMPRESA DE DESARROLLO URBANO DE MEDELLIN",
+        "hhi": 195.5,
+        "proveedores": 108,
+        "procesos": 282
+      },
+      {
+        "entidad": "GOBERNACION DEL HUILA*",
+        "hhi": 221.0,
+        "proveedores": 117,
+        "procesos": 145
+      },
+      {
+        "entidad": "GOBIERNO DEPARTAMENTAL",
+        "hhi": 308.9,
+        "proveedores": 176,
+        "procesos": 253
+      },
+      {
+        "entidad": "ALCALDIA DE PASTO",
+        "hhi": 317.8,
+        "proveedores": 71,
+        "procesos": 107
+      }
+    ],
+    "rotacion_anual": [
+      {
+        "anio": 2022,
+        "n_proveedores": 5303,
+        "top1_participacion_pct": 6.46,
+        "jaccard_top50_vs_anio_prev_pct": null
+      },
+      {
+        "anio": 2023,
+        "n_proveedores": 5359,
+        "top1_participacion_pct": 7.96,
+        "jaccard_top50_vs_anio_prev_pct": 14.9
+      },
+      {
+        "anio": 2024,
+        "n_proveedores": 5193,
+        "top1_participacion_pct": 5.86,
+        "jaccard_top50_vs_anio_prev_pct": 19.0
+      },
+      {
+        "anio": 2025,
+        "n_proveedores": 5898,
+        "top1_participacion_pct": 23.17,
+        "jaccard_top50_vs_anio_prev_pct": 17.6
+      },
+      {
+        "anio": 2026,
+        "n_proveedores": 2747,
+        "top1_participacion_pct": 9.64,
+        "jaccard_top50_vs_anio_prev_pct": 8.7
+      }
+    ],
+    "rotacion": "Los líderes del ranking de proveedores cambian bastante de un año a otro: el mercado no está “cerrado” a siempre los mismos nombres.",
+    "rotacion_lectura": "Los líderes del ranking de proveedores cambian bastante de un año a otro: el mercado no está “cerrado” a siempre los mismos nombres.",
+    "siguiente_mejora": "Siguiente mejora natural: clasificar contratos por tema con lenguaje (embeddings), no solo por código de producto.",
+    "cierre_rosario": {
+      "titulo": "Qué implica para la Universidad del Rosario",
+      "puntos": [
+        "A nivel nacional el mercado CTeI no está monopolizado: hay espacio para nuevos oferentes calificados, incluidas IES.",
+        "Ojo con los nichos: algunas entidades compran casi siempre a los mismos proveedores — ahí la barrera no es el país, es el comprador.",
+        "La rotación anual sugiere ventanas reales: conviene vigilar procesos nuevos, no solo “los de siempre”.",
+        "Para Rosario: usar este mapa para priorizar entidades/segmentos más abiertos, y el matching Minciencias para armar el equipo docente cuando aparezca la convocatoria."
+      ]
+    },
+    "nota_metodologica": "HHI = índice de concentración (0 ≈ competencia perfecta; 10.000 = un solo proveedor). Se calcula sobre líneas adjudicadas con valor > 0. Se excluyen valores implausibles (p. ej. montos extremos o >100× el precio base). Pareto: cuántos proveedores suman el 80% del valor adjudicado."
+  },
+  "capacidad_3": {
+    "titulo": "Predicción: cómo se mueve el mercado (y un proceso concreto)",
+    "subtitulo": "Primero: panorama de los próximos meses con el histórico SECOP. Después (opcional): modelo por proceso — útil al evaluar una oportunidad puntual.",
+    "outlook_mercado": {
+      "metodo": "estacionalidad + nivel reciente (últimos 12 meses)",
+      "honestidad": "No es un modelo de machine learning del mercado. Es una proyección razonable: ‘así suele moverse este mes’ × el ritmo reciente. Sirve para planear, no para cifrar contratos exactos.",
+      "ancla_hasta": "2026-07",
+      "horizonte_meses": 6,
+      "serie_combinada": [
+        {
+          "periodo": "2026-02",
+          "etiqueta": "Feb 2026",
+          "n_procesos": 7324,
+          "valor_sin_mega_cop": 368955040535.3002,
+          "tipo": "observado"
+        },
+        {
+          "periodo": "2026-03",
+          "etiqueta": "Mar 2026",
+          "n_procesos": 4639,
+          "valor_sin_mega_cop": 432627470914.3177,
+          "tipo": "observado"
+        },
+        {
+          "periodo": "2026-04",
+          "etiqueta": "Abr 2026",
+          "n_procesos": 2497,
+          "valor_sin_mega_cop": 787168858601.0514,
+          "tipo": "observado"
+        },
+        {
+          "periodo": "2026-05",
+          "etiqueta": "May 2026",
+          "n_procesos": 4115,
+          "valor_sin_mega_cop": 360311465760.572,
+          "tipo": "observado"
+        },
+        {
+          "periodo": "2026-06",
+          "etiqueta": "Jun 2026",
+          "n_procesos": 5730,
+          "valor_sin_mega_cop": 589349866084.0,
+          "tipo": "observado"
+        },
+        {
+          "periodo": "2026-07",
+          "etiqueta": "Jul 2026",
+          "n_procesos": 7713,
+          "valor_sin_mega_cop": 269783579330.0,
+          "tipo": "observado"
+        },
+        {
+          "periodo": "2026-08",
+          "etiqueta": "Ago 2026",
+          "n_procesos": 8985,
+          "valor_sin_mega_cop": 1013070840080.9147,
+          "tipo": "proyeccion"
+        },
+        {
+          "periodo": "2026-09",
+          "etiqueta": "Sep 2026",
+          "n_procesos": 8876,
+          "valor_sin_mega_cop": 933511468842.9457,
+          "tipo": "proyeccion"
+        },
+        {
+          "periodo": "2026-10",
+          "etiqueta": "Oct 2026",
+          "n_procesos": 9304,
+          "valor_sin_mega_cop": 1013855753950.7285,
+          "tipo": "proyeccion"
+        },
+        {
+          "periodo": "2026-11",
+          "etiqueta": "Nov 2026",
+          "n_procesos": 9260,
+          "valor_sin_mega_cop": 1304877326476.0464,
+          "tipo": "proyeccion"
+        },
+        {
+          "periodo": "2026-12",
+          "etiqueta": "Dic 2026",
+          "n_procesos": 7242,
+          "valor_sin_mega_cop": 1361928909609.3777,
+          "tipo": "proyeccion"
+        },
+        {
+          "periodo": "2027-01",
+          "etiqueta": "Ene 2027",
+          "n_procesos": 18052,
+          "valor_sin_mega_cop": 693956915268.4181,
+          "tipo": "proyeccion"
+        }
+      ],
+      "proximos_meses": [
+        {
+          "periodo": "2026-08",
+          "etiqueta": "Ago 2026",
+          "anio": 2026,
+          "mes": 8,
+          "n_procesos_estimado": 8985,
+          "valor_sin_mega_estimado_cop": 1013070840080.9147,
+          "n_procesos_mismo_mes_anio_ant": 8814,
+          "valor_sin_mega_mismo_mes_anio_ant_cop": 1545312191381.3135
+        },
+        {
+          "periodo": "2026-09",
+          "etiqueta": "Sep 2026",
+          "anio": 2026,
+          "mes": 9,
+          "n_procesos_estimado": 8876,
+          "valor_sin_mega_estimado_cop": 933511468842.9457,
+          "n_procesos_mismo_mes_anio_ant": 9680,
+          "valor_sin_mega_mismo_mes_anio_ant_cop": 1045760656527.4127
+        },
+        {
+          "periodo": "2026-10",
+          "etiqueta": "Oct 2026",
+          "anio": 2026,
+          "mes": 10,
+          "n_procesos_estimado": 9304,
+          "valor_sin_mega_estimado_cop": 1013855753950.7285,
+          "n_procesos_mismo_mes_anio_ant": 10638,
+          "valor_sin_mega_mismo_mes_anio_ant_cop": 1138394580380.2146
+        },
+        {
+          "periodo": "2026-11",
+          "etiqueta": "Nov 2026",
+          "anio": 2026,
+          "mes": 11,
+          "n_procesos_estimado": 9260,
+          "valor_sin_mega_estimado_cop": 1304877326476.0464,
+          "n_procesos_mismo_mes_anio_ant": 9920,
+          "valor_sin_mega_mismo_mes_anio_ant_cop": 1441808718757.4736
+        },
+        {
+          "periodo": "2026-12",
+          "etiqueta": "Dic 2026",
+          "anio": 2026,
+          "mes": 12,
+          "n_procesos_estimado": 7242,
+          "valor_sin_mega_estimado_cop": 1361928909609.3777,
+          "n_procesos_mismo_mes_anio_ant": 7723,
+          "valor_sin_mega_mismo_mes_anio_ant_cop": 1704963666800.6606
+        },
+        {
+          "periodo": "2027-01",
+          "etiqueta": "Ene 2027",
+          "anio": 2027,
+          "mes": 1,
+          "n_procesos_estimado": 18052,
+          "valor_sin_mega_estimado_cop": 693956915268.4181,
+          "n_procesos_mismo_mes_anio_ant": 30298,
+          "valor_sin_mega_mismo_mes_anio_ant_cop": 768680178118.9609
+        }
+      ],
+      "lectura": "En los próximos 6 meses, el patrón histórico apunta a más actividad en Ene 2027 (~18052 procesos) y menos en Dic 2026 (~7242). Valores en pesos constantes sin megacontratos (mejor proxy del mercado cotidiano).",
+      "para_empresa": [
+        "Decidir en qué meses reforzar vigilancia de SECOP y capacidad de propuesta.",
+        "Anticipar picos de competencia (más procesos = más oportunidades y más rivales).",
+        "Alinear cash-flow / equipos con meses históricamente más activos."
+      ]
+    },
+    "para_empresa": {
+      "titulo": "¿Para qué le sirve esto a una empresa o a Rosario?",
+      "capas": [
+        {
+          "id": "mercado",
+          "nombre": "Capa 1 — Mercado (lo que pediste)",
+          "pregunta": "¿Cómo se comportará la contratación CTeI en los próximos meses?",
+          "uso": "Planear: cuándo mirar SECOP, cuándo preparar equipos, en qué meses hay más procesos (y competencia).",
+          "como": "Proyección estacional sobre Cap.1 (nivel reciente × patrón del mes)."
+        },
+        {
+          "id": "proceso",
+          "nombre": "Capa 2 — Proceso (herramienta secundaria)",
+          "pregunta": "Si aparece / publicamos ESTE proceso, ¿qué dice el histórico de casos parecidos?",
+          "uso": "Bid/no-bid: priorizar follow-up de licitaciones competitivas con mayor chance de adjudicación y filtrar por rango de presupuesto.",
+          "como": "Modelos ML entrenados en ~70k procesos competitivos (no predicen el mercado entero)."
+        }
+      ]
+    },
+    "kpis": {
+      "auc_adjudicacion": 0.811,
+      "auc_pct": 81.1,
+      "n_competitivos": 69671,
+      "tasa_adjudicacion": 0.5530421552726386,
+      "fecha_corte": "2025-07-01",
+      "modelo_recomendado": "LightGBM (solo modalidades competitivas)"
+    },
+    "universo": {
+      "n_competitivos": 69671,
+      "tasa_adjudicacion": 0.5530421552726386,
+      "n_resueltos": 43566,
+      "n_abiertos": 26105,
+      "lectura": "Solo ~15% de los procesos CTeI son de modalidad competitiva. En contratación directa/especial casi nunca aparece “adjudicado” en los datos, así que el modelo útil se entrena solo en el universo competitivo."
+    },
+    "pregunta_adjudicacion": {
+      "pregunta": "¿Se adjudicará este proceso competitivo?",
+      "usar": true,
+      "metrica_nombre": "Capacidad de distinguir sí/no",
+      "metrica_valor": 81.1,
+      "metrica_guia": "50% = azar · 80%+ = muy útil",
+      "accuracy_pct": 75.4,
+      "modelo": "LightGBM",
+      "n_train": 51813,
+      "n_test": 17562,
+      "lectura": "El modelo acierta el orden de probabilidad con AUC 81%: mejor que el azar y usable al momento de publicar el proceso (sin mirar el resultado futuro)."
+    },
+    "pregunta_adjudicacion_mala": {
+      "pregunta": "¿Y si solo miramos procesos ya cerrados?",
+      "usar": false,
+      "metrica_valor": 60.9,
+      "modelo": "Regresión logística",
+      "lectura": "AUC 61% — parece decente en aciertos brutos, pero engaña: no sirve para decidir en vivo. No usar este enfoque en producción."
+    },
+    "pregunta_presupuesto": {
+      "pregunta": "¿En qué rango de presupuesto caerá el proceso?",
+      "usar": true,
+      "acc_modelo_pct": 61.3,
+      "acc_trivial_pct": 27.7,
+      "f1_macro": 0.591,
+      "bins": [
+        "Bajo (Q1)",
+        "Medio-bajo (Q2)",
+        "Medio-alto (Q3)",
+        "Alto (Q4)"
+      ],
+      "lectura": "El modelo acierta el rango ~61% de las veces, frente a ~28% si siempre se elige la categoría más común. Útil como brújula de magnitud, no como cifra exacta."
+    },
+    "pregunta_segmento": {
+      "pregunta": "¿Será educación, gestión o investigación/tecnología?",
+      "usar": false,
+      "acc_modelo_pct": 68.4,
+      "acc_trivial_pct": 62.5,
+      "clases": [
+        "Gestión / profesionales (80)",
+        "Ingeniería / investigación (81)",
+        "Educación / capacitación (86)"
+      ],
+      "lectura": "El modelo (68%) apenas supera al atajo trivial (62%). Con tablas solas no alcanza: el siguiente paso es leer el objeto del contrato con lenguaje (embeddings)."
+    },
+    "comparativo": [
+      {
+        "id": "adj",
+        "tarea": "¿Se adjudica? (competitivo)",
+        "etiqueta_metrica": "Calidad del ranking (AUC)",
+        "valor_pct": 81.1,
+        "baseline_pct": 50.0,
+        "baseline_nombre": "Azar",
+        "usar": true
+      },
+      {
+        "id": "adj_malo",
+        "tarea": "¿Se adjudica? (solo cerrados)",
+        "etiqueta_metrica": "Calidad del ranking (AUC)",
+        "valor_pct": 60.9,
+        "baseline_pct": 50.0,
+        "baseline_nombre": "Azar",
+        "usar": false
+      },
+      {
+        "id": "pres",
+        "tarea": "Rango de presupuesto",
+        "etiqueta_metrica": "% de aciertos",
+        "valor_pct": 61.3,
+        "baseline_pct": 27.7,
+        "baseline_nombre": "Siempre lo más común",
+        "usar": true
+      },
+      {
+        "id": "seg",
+        "tarea": "Tipo de sector",
+        "etiqueta_metrica": "% de aciertos",
+        "valor_pct": 68.4,
+        "baseline_pct": 62.5,
+        "baseline_nombre": "Siempre lo más común",
+        "usar": false
+      }
+    ],
+    "reglas_uso": [
+      {
+        "titulo": "Sí usar",
+        "items": [
+          "Outlook de mercado (estacionalidad) para planear los próximos meses.",
+          "Probabilidad de adjudicación en modalidades competitivas al evaluar un proceso concreto.",
+          "Rango presupuestal como filtro de magnitud (no como cifra exacta)."
+        ]
+      },
+      {
+        "titulo": "No usar",
+        "items": [
+          "El modelo por proceso como si fuera un forecast del mercado nacional.",
+          "Modelos entrenados solo con procesos ya resueltos para decidir en vivo.",
+          "Clasificar el sector solo con variables tabulares (casi no gana al atajo)."
+        ]
+      }
+    ],
+    "cierre_rosario": {
+      "titulo": "Qué implica para la Universidad del Rosario",
+      "puntos": [
+        "Usar el outlook de meses para concentrar vigilancia SECOP cuando el mercado se anima.",
+        "Ante un proceso competitivo concreto, el modelo ML ayuda a priorizar follow-up (chance de adjudicación + rango de monto).",
+        "Para encajar facultades y grupos con el tema, el matching Minciencias ↔ docentes sigue siendo la pieza correcta.",
+        "Cap.1–2 describen el pasado; Cap.3 proyecta ritmo cercano + triage de oportunidades; matching dice con quién presentarse."
+      ]
+    },
+    "nota_metodologica": "Outlook de mercado: proyección estacional (nivel de los últimos 12 meses × factor típico del mes), valores sin megacontratos. Modelos por proceso: corte 2025-07-01 (entrenar pasado / probar futuro). AUC: calidad de ranking (0.5 = azar). Artefactos en analisis/secop/salidas_capacidad3/modelos/.",
+    "adjudicacion_competitivo": {
+      "modelo": "LightGBM",
+      "auc_roc": 0.8110951991411496,
+      "accuracy": 0.7537296435485707,
+      "n_train": 51813,
+      "n_test": 17562,
+      "usar_en_produccion": true,
+      "lectura": "El modelo acierta el orden de probabilidad con AUC 81%: mejor que el azar y usable al momento de publicar el proceso (sin mirar el resultado futuro)."
+    },
+    "adjudicacion_solo_resueltos": {
+      "modelo": "Logística",
+      "auc_roc": 0.6092153274933435,
+      "accuracy": 0.7069867364094901,
+      "usar_en_produccion": false,
+      "lectura": "AUC 61% — parece decente en aciertos brutos, pero engaña: no sirve para decidir en vivo. No usar este enfoque en producción."
+    },
+    "presupuesto_bins": {
+      "modelo": "HistGradientBoosting",
+      "acc_trivial": 0.2774740917890901,
+      "acc_modelo": 0.6126295410545496,
+      "f1_macro": 0.591057909991056,
+      "bins_labels": [
+        "Q1_bajo",
+        "Q2",
+        "Q3",
+        "Q4_alto"
+      ]
+    },
+    "segmento_unspsc": {
+      "modelo": "HistGradientBoosting",
+      "acc_trivial": 0.6246441179820066,
+      "acc_modelo": 0.6836920624074707,
+      "f1_macro": 0.5175866143810709,
+      "clases": [
+        "80",
+        "81",
+        "86"
+      ],
+      "lectura": "El modelo (68%) apenas supera al atajo trivial (62%). Con tablas solas no alcanza: el siguiente paso es leer el objeto del contrato con lenguaje (embeddings)."
+    },
+    "comparativo_modelos": [
+      {
+        "tarea": "¿Se adjudica? (competitivo)",
+        "metrica": "Calidad del ranking (AUC)",
+        "valor": 0.8109999999999999,
+        "baseline": 0.5
+      },
+      {
+        "tarea": "¿Se adjudica? (solo cerrados)",
+        "metrica": "Calidad del ranking (AUC)",
+        "valor": 0.609,
+        "baseline": 0.5
+      },
+      {
+        "tarea": "Rango de presupuesto",
+        "metrica": "% de aciertos",
+        "valor": 0.613,
+        "baseline": 0.27699999999999997
+      },
+      {
+        "tarea": "Tipo de sector",
+        "metrica": "% de aciertos",
+        "valor": 0.684,
+        "baseline": 0.625
+      }
+    ]
+  },
+  "matching": {
+    "formula": "0.7·cos(emb) + 0.3·cos(tfidf) + boost",
+    "modelo_embeddings": "openai/text-embedding-3-small",
+    "piloto_convocatorias": [
+      "45",
+      "48",
+      "976"
+    ],
+    "pool_docentes": 612,
+    "con_cvlac": 353
+  }
+}

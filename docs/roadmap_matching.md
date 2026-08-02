@@ -56,4 +56,13 @@ flowchart LR
 }
 ```
 
-Este documento es la hoja de ruta; el código de embeddings aún no forma parte del MVP operativo.
+Este documento es la hoja de ruta de evolución (índice vectorial, RAG, GrupLAC).
+
+**Estado actual:** piloto operativo de matching híbrido
+(embeddings + TF-IDF + boost) con UI grafo en
+[`frontend/`](../frontend/) + [`backend/`](../backend/) — ver
+[`matching_decisiones.md`](matching_decisiones.md).
+
+Cómo encaja en el relato del reto (SECOP + Minciencias):
+[`del_reto_a_mvp.md`](del_reto_a_mvp.md).
+

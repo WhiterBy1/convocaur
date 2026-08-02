@@ -1,0 +1,42 @@
+{
+  "tfidf_top3": [
+    {
+      "id": "adriana-sanchez-andrade",
+      "nombre": "Adriana Sanchez",
+      "score_final": 0.18248521599987366
+    },
+    {
+      "id": "amparo-susana-mogollon-perez",
+      "nombre": "Amparo-Susana Mogollón-Pérez",
+      "score_final": 0.152560434791129
+    },
+    {
+      "id": "ana-maria-ulloa-martinez",
+      "nombre": "",
+      "score_final": 0.14667096380029393
+    }
+  ],
+  "hibrido_top3": [
+    {
+      "id": "alvaro-javier-avila-diaz",
+      "nombre": "Alvaro, Avila-Diaz",
+      "score_final": 0.4783684790051994,
+      "score_emb": 0.5719298720359802
+    },
+    {
+      "id": "angela-lucia-noguera-hidalgo",
+      "nombre": "Angela-Lucía Noguera-Hidalgo",
+      "score_final": 0.4506047188755394,
+      "score_emb": 0.5620483160018921
+    },
+    {
+      "id": "amparo-susana-mogollon-perez",
+      "nombre": "Amparo-Susana Mogollón-Pérez",
+      "score_final": 0.445078037173355,
+      "score_emb": 0.5104427337646484
+    }
+  ],
+  "overlap_ids": [
+    "amparo-susana-mogollon-perez"
+  ]
+}
