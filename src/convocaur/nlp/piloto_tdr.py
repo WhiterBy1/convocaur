@@ -181,7 +181,7 @@ def construir_texto_para_clave(doc: dict, clave: str, sec: dict | None) -> tuple
         "requisitos": ["REQUISITO", "HABILITANTE", "DOCUMENTO"],
         "criterios": ["EVALUACION", "EVALUACI", "CRITERIO", "PUNTAJE", "CALIFIC"],
         "rechazo": ["RECHAZO", "INHABIL", "CAUSAL", "CONDICION"],
-        "financiacion": ["FINANCI", "RECURSO", "PRESUP", "CRONOGRAMA", "PLAZO", "DURACION", "MONTO"],
+        "financiacion": ["FINANCI", "RECURSO", "PRESUP", "CRONOGRAMA", "PLAZO", "DURACION", "MONTO", "VALOR", "COSTO"],
     }
 
     keywords = keywords_por_clave.get(clave, [])

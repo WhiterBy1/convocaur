@@ -1,135 +1,155 @@
 {
   "convocatoria": "1044",
-  "objetivo": null,
-  "actores_elegibles": [],
-  "alianza_obligatoria": null,
-  "lineas_tematicas": [],
+  "objetivo": "Diseñar una propuesta de financiamiento basal para el fortalecimiento y sostenibilidad de los Centros/Institutos de investigación y Centros de desarrollo tecnológico, tanto autónomos como dependientes, en Colombia.",
+  "actores_elegibles": [
+    {
+      "tipo": "persona jurídica",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "consorcio",
+      "rol": null,
+      "condicion": null
+    },
+    {
+      "tipo": "unión temporal",
+      "rol": null,
+      "condicion": null
+    }
+  ],
+  "alianza_obligatoria": false,
+  "lineas_tematicas": [
+    {
+      "nombre": "Fortalecimiento y sostenibilidad de Centros/Institutos de investigación",
+      "modalidad": null,
+      "descripcion_corta": "Propuesta de financiamiento basal para centros de investigación autónomos/independientes y dependientes, y centros de desarrollo tecnológico."
+    }
+  ],
   "requisitos": [
     {
-      "texto": "Presentar la propuesta exclusivamente a través del formulario electrónico en el enlace https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/?faces-redirect=true",
+      "texto": "Carta de presentación de la propuesta firmada por el proponente, indicando naturaleza (persona jurídica, consorcio, unión temporal) y experiencia.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Presentar la propuesta a más tardar el 20 de enero de 2023 antes de las 4:00 p.m.",
-      "tipo": "habilitante",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "La propuesta debe estar escrita en idioma español",
+      "texto": "Propuesta para la ejecución del objeto diligenciada en el formulario SIGP, según contenido básico del Anexo 1.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Las cifras de la propuesta deben estar expresadas en pesos colombianos",
+      "texto": "Plan de trabajo con cronograma detallado, indicando tiempo estimado, productos y etapas.",
       "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Cumplir con la totalidad de los requisitos mínimos establecidos en la presente invitación",
-      "tipo": "habilitante",
+      "texto": "Documento que acredite la creación de la figura (consorcio o unión temporal) si la propuesta se ejecuta en asociación.",
+      "tipo": "documental",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Ajustarse a las especificaciones de las condiciones técnicas del Anexo 1",
+      "texto": "Documento que soporte la experiencia y trayectoria del proponente en formulación, implementación y evaluación de políticas, instrumentos, planes, programas para centros de investigación y desarrollo tecnológico.",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Carta unificada de aval y compromiso institucional debidamente diligenciada y firmada por los representantes legales de las entidades nacionales participantes (Anexo 3).",
+      "tipo": "documental",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Director del proyecto con título de posgrado a nivel de doctorado o maestría en Ingeniería, Arquitectura, Urbanismo y afines; Economía, Administración, Contaduría y afines; Ciencias Sociales y Humanas; Matemáticas y Ciencias naturales.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "Incluir la relación entre objetivos, resultados y documentos a entregar según el Anexo 2",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "Incluir la Carta Aval Institucional según el modelo del Anexo 3",
-      "tipo": "documental",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El valor de la propuesta no debe exceder los $490.000.000 COP",
-      "tipo": "financiero",
-      "severidad": "obligatorio"
-    },
-    {
-      "texto": "El plazo de ejecución propuesto no debe exceder los 6 meses contados a partir de la legalización del contrato",
+      "texto": "Director con experiencia profesional mínima de 5 años en dirección y/o coordinación de estudios, consultorías, investigaciones, diseño e implementación de políticas, diseño de programas y proyectos de impacto en ciencia, tecnología e innovación.",
       "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad seleccionada deberá constituir una póliza de cumplimiento por una cuantía equivalente al 20% del valor del contrato y con vigencia igual al plazo del contrato más 12 meses",
-      "tipo": "financiero",
+      "texto": "Dos expertos en Ciencia, Tecnología e Innovación con título de posgrado (doctorado o maestría) en áreas como Ingeniería, Arquitectura, Urbanismo, Economía, Administración, Ciencias Sociales, Ciencias de la Salud, Agronomía, Matemáticas, Ciencias naturales.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad seleccionada deberá constituir una póliza de salarios, prestaciones sociales e indemnizaciones por un valor equivalente al 10% del valor del contrato y con vigencia igual al plazo del contrato más 3 años",
-      "tipo": "financiero",
+      "texto": "Un experto con experiencia mínima de 3 años en el sector de CTeI, en formulación o evaluación de políticas públicas o implementación de planes, programas y proyectos de ciencia, tecnología e innovación.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad seleccionada deberá entregar la garantía única de cumplimiento dentro de los 3 días hábiles siguientes a la fecha de suscripción del contrato, junto con el recibo de pago",
-      "tipo": "financiero",
+      "texto": "Un experto con experiencia mínima de 5 años en proyectos de investigación básica y/o aplicada y desarrollo experimental, y gestión y/o administración de organizaciones dedicadas a actividades de CTeI y/o gestión y operación de centros de investigación y desarrollo tecnológico.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad seleccionada deberá mantener la garantía vigente durante el plazo de ejecución del contrato y pagar las primas y cualquier otra expensa necesaria para constituirla, mantenerla, prorrogarla o adicionarla",
-      "tipo": "financiero",
+      "texto": "Un profesional en estadística con maestría en estadística, modelos de simulación y evaluación, con experiencia de más de 2 años en docencia o en proyectos con aplicación de métodos estadísticos y analítica de datos.",
+      "tipo": "tecnico",
       "severidad": "obligatorio"
     },
     {
-      "texto": "La entidad proponente debe tener capacidad jurídica para suscribir contratos y ejecutar el objeto de la invitación",
-      "tipo": "otro",
+      "texto": "Un experto en finanzas y/o economía: economista, administrador de empresas o contador con título de posgrado (maestría o doctorado) en finanzas o áreas afines.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Experto en finanzas con experiencia de 3 años en diseño, ejecución y evaluación de estrategias y/o modelos de financiamiento.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "Dos jóvenes de pregrado como auxiliares de investigación, con formación en ciencias básicas, ciencias sociales, ingeniería, ciencias agropecuarias o ciencias humanas.",
+      "tipo": "tecnico",
+      "severidad": "obligatorio"
+    },
+    {
+      "texto": "El proponente debe ser persona jurídica, consorcio o unión temporal, según lo indicado en la carta de presentación.",
+      "tipo": "habilitante",
       "severidad": "obligatorio"
     }
   ],
-  "causales_rechazo": [
-    {
-      "texto": "Propuestas presentadas por fuera de las fechas, horas y canales indicados en los términos de esta invitación (extemporáneas)."
-    },
-    {
-      "texto": "Incumplimiento de la totalidad de los requisitos mínimos establecidos en la invitación."
-    }
-  ],
+  "causales_rechazo": [],
   "criterios_evaluacion": [
     {
       "nombre": "Calidad de la propuesta",
       "puntaje_max": 30.0,
       "peso_pct": 30.0,
-      "descripcion": "Evalúa coherencia interna entre objetivos, actividades, recursos, cronograma, resultados y productos; claridad conceptual y metodológica."
+      "descripcion": "Evalúa coherencia interna, claridad conceptual y metodológica."
     },
     {
       "nombre": "Equipo técnico",
       "puntaje_max": 25.0,
       "peso_pct": 25.0,
-      "descripcion": "Evalúa experiencia del director (mínimo 5 años en dirección/coordinación de estudios, políticas o proyectos de CTI), experiencia del equipo en formulación/evaluación de políticas públicas o implementación de planes de CTI, y experiencia administrativa de la entidad proponente."
+      "descripcion": "Evalúa experiencia del director y del equipo en políticas públicas y CTI, y experiencia administrativa."
     },
     {
       "nombre": "Productos esperados",
       "puntaje_max": 20.0,
       "peso_pct": 20.0,
-      "descripcion": "Evalúa definición clara y verificable de los productos, ajuste a los entregables del anexo 1, y relación entre actividades, productos y documentos a entregar."
+      "descripcion": "Evalúa definición clara y verificable de productos, ajuste a entregables del anexo 1."
     },
     {
       "nombre": "Propuesta económica",
       "puntaje_max": 10.0,
       "peso_pct": 10.0,
-      "descripcion": "Evalúa el valor de la oferta y la concordancia entre presupuesto, actividades y objetivos, así como la justificación de rubros, cantidades y montos."
+      "descripcion": "Evalúa valor de la oferta, concordancia presupuestal y justificación de rubros."
     },
     {
-      "nombre": "Valor agregado",
+      "nombre": "Productos y documentos adicionales a los establecidos en el anexo 1",
       "puntaje_max": 15.0,
       "peso_pct": 15.0,
-      "descripcion": "Evalúa ofrecimientos adicionales no contemplados en la invitación, como productos, entregables o análisis adicionales, y su claridad en relación con los términos de referencia."
+      "descripcion": "Evalúa valor agregado u ofrecimientos adicionales no contemplados en la invitación."
     }
   ],
   "financiacion": {
-    "monto_total_texto": null,
-    "monto_total_cop": null,
-    "plazo_min_meses": null,
+    "monto_total_texto": "QUINIENTOS MILLONES DE PESOS M/CTE ($500.000.000)",
+    "monto_total_cop": 500000000.0,
+    "plazo_min_meses": 6,
     "plazo_max_meses": 6,
     "contrapartida_pct_min": null,
     "contrapartida_pct_max": null,
-    "fuente_recursos": null,
-    "notas": "El plazo máximo de ejecución es de 6 meses. No se encontró información sobre monto, contrapartida ni fuente de recursos en el texto proporcionado."
+    "fuente_recursos": "Fondo Francisco José de Caldas",
+    "notas": "El proyecto debe ejecutarse en máximo 6 meses. Se dispone de $500,000,000 COP, de los cuales $490,000,000 son para desarrollo de la propuesta y $10,000,000 para evaluación. No se especifica contrapartida de la entidad ejecutora."
   },
   "meta": {
     "secciones": {
@@ -137,77 +157,77 @@
         "clave": "objetivo",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 9547,
+        "chars_enviados": 1451,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3095,
-          "completion_tokens": 82
+          "prompt_tokens": 570,
+          "completion_tokens": 56
         }
       },
       "dirigida_a": {
         "clave": "dirigida_a",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": false,
-        "chars_enviados": 9547,
+        "truncado": true,
+        "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3184,
-          "completion_tokens": 666
+          "prompt_tokens": 4244,
+          "completion_tokens": 565
         }
       },
       "lineas_tematicas": {
         "clave": "lineas_tematicas",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 9547,
+        "chars_enviados": 1470,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3154,
-          "completion_tokens": 12
+          "prompt_tokens": 638,
+          "completion_tokens": 84
         }
       },
       "requisitos": {
         "clave": "requisitos",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": false,
-        "chars_enviados": 9547,
+        "truncado": true,
+        "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3235,
-          "completion_tokens": 4063
+          "prompt_tokens": 4272,
+          "completion_tokens": 2522
         }
       },
       "rechazo": {
         "clave": "rechazo",
         "model": "deepseek/deepseek-v4-flash",
-        "truncado": false,
-        "chars_enviados": 9547,
+        "truncado": true,
+        "chars_enviados": 14018,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 3131,
-          "completion_tokens": 71
+          "prompt_tokens": 4191,
+          "completion_tokens": 160
         }
       },
       "financiacion": {
         "clave": "financiacion",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 1154,
+        "chars_enviados": 3409,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 738,
-          "completion_tokens": 114
+          "prompt_tokens": 1467,
+          "completion_tokens": 923
         }
       },
       "criterios": {
         "clave": "criterios",
         "model": "deepseek/deepseek-v4-flash",
         "truncado": false,
-        "chars_enviados": 3661,
+        "chars_enviados": 3472,
         "intento": 1,
         "usage": {
-          "prompt_tokens": 1388,
-          "completion_tokens": 3233
+          "prompt_tokens": 1356,
+          "completion_tokens": 730
         }
       }
     }
@@ -215,11 +235,11 @@
   "elegibilidad_urosario": {
     "institucion": "Universidad del Rosario",
     "reglas": {
-      "puede_postularse": null,
-      "modo": "desconocido",
+      "puede_postularse": false,
+      "modo": "no_elegible",
       "rol_sugerido": null,
-      "confianza": "baja",
-      "motivo": "No hay actores_elegibles extraidos; no se puede decidir.",
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
       "actores_ies_match": [],
       "condiciones_pendientes": [],
       "capa": "reglas"
@@ -227,30 +247,32 @@
     "llm": {
       "ok": true,
       "data": {
-        "puede_postularse": true,
-        "modo": "elegible_con_condiciones",
-        "rol_sugerido": "proponente",
-        "bloqueantes": [],
-        "condiciones_a_verificar": [
-          "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
-          "Verificar experiencia en proyectos regionales (SGR) si aplica",
-          "Verificar capacidad de contrapartida"
+        "": true,
+        "modo": "solo_como_aliado",
+        "rol_sugerido": "aliado",
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible para postular como proponente o ejecutora."
         ],
-        "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida."
+        "condiciones_a_verificar": [
+          "Verificar si la Universidad del Rosario puede participar como aliado en un consorcio o unión temporal con un actor elegible (persona jurídica, consorcio o unión temporal).",
+          "Confirmar que la universidad cumple con los requisitos de experiencia y capacidad institucional para apoyar la propuesta."
+        ],
+        "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora según la convocatoria, que solo permite personas jurídicas, consorcios o uniones temporales. Sin embargo, podría postularse como aliado en una alianza con un actor elegible, sujeto a verificación de condiciones."
       },
       "model": "deepseek/deepseek-v4-flash"
     },
     "veredicto_final": {
-      "puede_postularse": true,
-      "modo": "elegible_con_condiciones",
-      "rol_sugerido": "proponente",
-      "bloqueantes": [],
-      "condiciones_a_verificar": [
-        "Verificar que la universidad cuente con grupos de investigación reconocidos por Minciencias",
-        "Verificar experiencia en proyectos regionales (SGR) si aplica",
-        "Verificar capacidad de contrapartida"
+      "puede_postularse": false,
+      "modo": "solo_como_aliado",
+      "rol_sugerido": "aliado",
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible para postular como proponente o ejecutora."
       ],
-      "resumen": "La Universidad del Rosario, como IES privada acreditada y reconocida por Minciencias, es elegible para postularse a convocatorias. No obstante, se requiere validar condiciones específicas como grupos de investigación, experiencia regional y contrapartida.",
+      "condiciones_a_verificar": [
+        "Verificar si la Universidad del Rosario puede participar como aliado en un consorcio o unión temporal con un actor elegible (persona jurídica, consorcio o unión temporal).",
+        "Confirmar que la universidad cumple con los requisitos de experiencia y capacidad institucional para apoyar la propuesta."
+      ],
+      "resumen": "La Universidad del Rosario, como IES privada, no es elegible como proponente o ejecutora según la convocatoria, que solo permite personas jurídicas, consorcios o uniones temporales. Sin embargo, podría postularse como aliado en una alianza con un actor elegible, sujeto a verificación de condiciones.",
       "fuente": "reglas+llm"
     }
   }

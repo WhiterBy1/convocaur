@@ -1,32 +1,17 @@
 [
   {
-    "convocatoria": "35",
-    "objetivo_len": 338,
-    "n_actores": 2,
-    "alianza_obligatoria": null,
-    "n_lineas": 29,
-    "n_requisitos": 23,
+    "convocatoria": "1044",
+    "objetivo_len": 214,
+    "n_actores": 3,
+    "alianza_obligatoria": false,
+    "n_lineas": 1,
+    "n_requisitos": 16,
     "n_rechazo": 0,
-    "n_criterios": 9,
-    "monto_cop": 400000000000.0,
-    "urosario_puede_postularse": true,
-    "urosario_modo": "solo_en_alianza",
-    "urosario_rol": "ejecutora",
-    "archivo": "D:\\Descargas 2\\Proyecto SAMSUNG\\trabajo\\convocaur\\data\\processed\\minciencias\\nlp\\convocatoria_35_nlp.json"
-  },
-  {
-    "convocatoria": "972",
-    "objetivo_len": 396,
-    "n_actores": 15,
-    "alianza_obligatoria": true,
-    "n_lineas": 17,
-    "n_requisitos": 24,
-    "n_rechazo": 1,
-    "n_criterios": 17,
-    "monto_cop": null,
-    "urosario_puede_postularse": true,
-    "urosario_modo": "solo_en_alianza",
-    "urosario_rol": "ejecutora",
-    "archivo": "D:\\Descargas 2\\Proyecto SAMSUNG\\trabajo\\convocaur\\data\\processed\\minciencias\\nlp\\convocatoria_972_nlp.json"
+    "n_criterios": 5,
+    "monto_cop": 500000000.0,
+    "urosario_puede_postularse": false,
+    "urosario_modo": "solo_como_aliado",
+    "urosario_rol": "aliado",
+    "archivo": "D:\\Descargas 2\\Proyecto SAMSUNG\\trabajo\\convocaur\\data\\processed\\minciencias\\nlp\\convocatoria_1044_nlp.json"
   }
 ]
