@@ -1,3 +1,4 @@
+import { Component, type ReactNode, lazy, Suspense } from "react";
 import { motion } from "framer-motion";
 import {
   Bar,
@@ -12,6 +13,11 @@ import {
   YAxis,
 } from "recharts";
 import { formatCop, formatCopShort } from "../lib/format";
+import type { RedMercado } from "./Cap2NetworkGraph";
+
+const Cap2NetworkGraph = lazy(() =>
+  import("./Cap2NetworkGraph").then((m) => ({ default: m.Cap2NetworkGraph }))
+);
 
 export type Capacidad2 = {
   titulo: string;
@@ -24,13 +30,13 @@ export type Capacidad2 = {
     proveedores_total: number;
     pct_proveedores_80: number;
   };
-  hhi: {
+  hhi?: {
     antes_outliers: number;
     despues_correccion: number;
     lectura: string;
     guia?: { rango: string; significado: string }[];
   };
-  pareto: {
+  pareto?: {
     proveedores_80pct_valor: number;
     proveedores_total: number;
     pct_proveedores: number;
@@ -61,17 +67,44 @@ export type Capacidad2 = {
   siguiente_mejora?: string;
   cierre_rosario?: { titulo: string; puntos: string[] };
   nota_metodologica?: string;
+  red_mercado?: RedMercado;
 };
+
+class GraphErrorBoundary extends Component<
+  { children: ReactNode },
+  { error: string | null }
+> {
+  state = { error: null as string | null };
+  static getDerivedStateFromError(err: Error) {
+    return { error: err?.message || "Error en el grafo" };
+  }
+  render() {
+    if (this.state.error) {
+      return (
+        <div className="panel" style={{ marginBottom: "1rem" }}>
+          <h3>Red del mercado</h3>
+          <p className="error">No se pudo renderizar el grafo: {this.state.error}</p>
+          <p className="note">El resto de Cap.2 sigue disponible abajo.</p>
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
 
 type Props = { data: Capacidad2 };
 
 export function Cap2Panel({ data }: Props) {
   const k = data.kpis;
-  const hhiBars = [
-    { etapa: "Sin limpiar datos", hhi: data.hhi.antes_outliers, fill: "#e07a5f" },
-    { etapa: "Datos corregidos", hhi: data.hhi.despues_correccion, fill: "#3dcfb0" },
-  ];
-  const curva = data.pareto.curva || [];
+  const hhi = data.hhi;
+  const pareto = data.pareto;
+  const hhiBars = hhi
+    ? [
+        { etapa: "Sin limpiar datos", hhi: hhi.antes_outliers, fill: "#e07a5f" },
+        { etapa: "Datos corregidos", hhi: hhi.despues_correccion, fill: "#3dcfb0" },
+      ]
+    : [];
+  const curva = pareto?.curva || [];
   const top = (data.top_proveedores || []).slice(0, 10).map((p) => ({
     nombre: p.nombre.length > 36 ? p.nombre.slice(0, 34) + "…" : p.nombre,
     valor: p.valor_cop,
@@ -84,7 +117,7 @@ export function Cap2Panel({ data }: Props) {
   return (
     <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
       <div className="panel" style={{ marginBottom: "1rem" }}>
-        <h3>{data.titulo}</h3>
+        <h3>{data.titulo || "Mercado"}</h3>
         <p className="note">{data.subtitulo}</p>
         {k && (
           <div className="grid-3">
@@ -112,70 +145,89 @@ export function Cap2Panel({ data }: Props) {
         )}
       </div>
 
-      <div className="grid-2">
-        <div className="panel">
-          <h3>¿El mercado es de pocos o de muchos?</h3>
-          <p className="note">{data.hhi.lectura}</p>
-          <div className="chart-wrap">
-            <ResponsiveContainer>
-              <BarChart data={hhiBars} layout="vertical" margin={{ left: 8, right: 12 }}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                <XAxis type="number" stroke="#8fa89a" domain={[0, 10000]} />
-                <YAxis type="category" dataKey="etapa" width={120} stroke="#8fa89a" tick={{ fontSize: 12 }} />
-                <Tooltip
-                  formatter={(v: number) => [Number(v).toLocaleString("es-CO"), "Concentración"]}
-                />
-                <Bar dataKey="hhi" fill="#c4a35a" radius={[0, 8, 8, 0]} animationDuration={900} />
-              </BarChart>
-            </ResponsiveContainer>
+      {hhi && (
+        <div className="grid-2">
+          <div className="panel">
+            <h3>¿El mercado es de pocos o de muchos?</h3>
+            <p className="note">{hhi.lectura}</p>
+            <div className="chart-wrap">
+              <ResponsiveContainer>
+                <BarChart data={hhiBars} layout="vertical" margin={{ left: 8, right: 12 }}>
+                  <CartesianGrid stroke="rgba(238,245,240,0.06)" />
+                  <XAxis type="number" stroke="#8fa89a" domain={[0, 10000]} />
+                  <YAxis
+                    type="category"
+                    dataKey="etapa"
+                    width={120}
+                    stroke="#8fa89a"
+                    tick={{ fontSize: 12 }}
+                  />
+                  <Tooltip
+                    formatter={(v: number) => [
+                      Number(v).toLocaleString("es-CO"),
+                      "Concentración",
+                    ]}
+                  />
+                  <Bar dataKey="hhi" fill="#c4a35a" radius={[0, 8, 8, 0]} animationDuration={900} />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+            {hhi.guia && (
+              <ul className="detail-list" style={{ marginTop: "0.75rem" }}>
+                {hhi.guia.map((g) => (
+                  <li key={g.rango}>
+                    <span>{g.rango}</span>
+                    <strong style={{ fontWeight: 500, fontSize: "0.85rem" }}>
+                      {g.significado}
+                    </strong>
+                  </li>
+                ))}
+              </ul>
+            )}
           </div>
-          {data.hhi.guia && (
-            <ul className="detail-list" style={{ marginTop: "0.75rem" }}>
-              {data.hhi.guia.map((g) => (
-                <li key={g.rango}>
-                  <span>{g.rango}</span>
-                  <strong style={{ fontWeight: 500, fontSize: "0.85rem" }}>{g.significado}</strong>
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
 
-        <div className="panel">
-          <h3>¿Cuántos se necesitan para el 80% del valor?</h3>
-          <p className="note">
-            {data.pareto.lectura ||
-              "Curva de Pareto: qué porcentaje de proveedores acumula qué porcentaje del dinero."}
-          </p>
-          <div className="chart-wrap">
-            <ResponsiveContainer>
-              <LineChart data={curva}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                <XAxis
-                  dataKey="pct_proveedores"
-                  stroke="#8fa89a"
-                  unit="%"
-                  label={{ value: "% proveedores", position: "insideBottom", offset: -2, fill: "#8fa89a", fontSize: 11 }}
-                />
-                <YAxis stroke="#8fa89a" unit="%" domain={[0, 100]} />
-                <Tooltip
-                  formatter={(v: number) => [`${v}%`, "% del valor"]}
-                  labelFormatter={(l) => `${l}% de proveedores`}
-                />
-                <Line
-                  type="monotone"
-                  dataKey="pct_valor"
-                  name="% del valor adjudicado"
-                  stroke="#3dcfb0"
-                  strokeWidth={2.4}
-                  dot={false}
-                  animationDuration={1000}
-                />
-              </LineChart>
-            </ResponsiveContainer>
+          <div className="panel">
+            <h3>¿Cuántos se necesitan para el 80% del valor?</h3>
+            <p className="note">
+              {pareto?.lectura ||
+                "Curva de Pareto: qué porcentaje de proveedores acumula qué porcentaje del dinero."}
+            </p>
+            <div className="chart-wrap">
+              <ResponsiveContainer>
+                <LineChart data={curva}>
+                  <CartesianGrid stroke="rgba(238,245,240,0.06)" />
+                  <XAxis
+                    dataKey="pct_proveedores"
+                    stroke="#8fa89a"
+                    unit="%"
+                    label={{
+                      value: "% proveedores",
+                      position: "insideBottom",
+                      offset: -2,
+                      fill: "#8fa89a",
+                      fontSize: 11,
+                    }}
+                  />
+                  <YAxis stroke="#8fa89a" unit="%" domain={[0, 100]} />
+                  <Tooltip
+                    formatter={(v: number) => [`${v}%`, "% del valor"]}
+                    labelFormatter={(l) => `${l}% de proveedores`}
+                  />
+                  <Line
+                    type="monotone"
+                    dataKey="pct_valor"
+                    name="% del valor adjudicado"
+                    stroke="#3dcfb0"
+                    strokeWidth={2.4}
+                    dot={false}
+                    animationDuration={1000}
+                  />
+                </LineChart>
+              </ResponsiveContainer>
+            </div>
           </div>
         </div>
-      </div>
+      )}
 
       <div className="grid-2" style={{ marginTop: "1rem" }}>
         <div className="panel">
@@ -185,8 +237,18 @@ export function Cap2Panel({ data }: Props) {
             <ResponsiveContainer>
               <BarChart data={top} layout="vertical" margin={{ left: 8, right: 16 }}>
                 <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                <XAxis type="number" stroke="#8fa89a" tickFormatter={(v) => formatCopShort(Number(v))} />
-                <YAxis type="category" dataKey="nombre" width={140} stroke="#8fa89a" tick={{ fontSize: 10 }} />
+                <XAxis
+                  type="number"
+                  stroke="#8fa89a"
+                  tickFormatter={(v) => formatCopShort(Number(v))}
+                />
+                <YAxis
+                  type="category"
+                  dataKey="nombre"
+                  width={140}
+                  stroke="#8fa89a"
+                  tick={{ fontSize: 10 }}
+                />
                 <Tooltip
                   formatter={(v: number, _n, p) => [
                     `${formatCop(Number(v))} (${(p?.payload as { pct?: number })?.pct ?? ""}%)`,
@@ -202,8 +264,8 @@ export function Cap2Panel({ data }: Props) {
         <div className="panel">
           <h3>Nichos: entidades muy concentradas</h3>
           <p className="note">
-            Aunque el país se ve competitivo, algunos compradores casi siempre
-            contratan a los mismos. (Mín. 20 procesos.)
+            Aunque el país se ve competitivo, algunos compradores casi siempre contratan a
+            los mismos. (Mín. 20 procesos.)
           </p>
           <div className="chart-wrap tall">
             <ResponsiveContainer>
@@ -214,10 +276,24 @@ export function Cap2Panel({ data }: Props) {
                 }))}
               >
                 <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                <XAxis dataKey="entidad" stroke="#8fa89a" tick={{ fontSize: 10 }} interval={0} angle={-18} textAnchor="end" height={80} />
+                <XAxis
+                  dataKey="entidad"
+                  stroke="#8fa89a"
+                  tick={{ fontSize: 10 }}
+                  interval={0}
+                  angle={-18}
+                  textAnchor="end"
+                  height={80}
+                />
                 <YAxis stroke="#8fa89a" domain={[0, 10000]} />
                 <Tooltip />
-                <Bar dataKey="hhi" name="Concentración" fill="#e07a5f" radius={[8, 8, 0, 0]} animationDuration={900} />
+                <Bar
+                  dataKey="hhi"
+                  name="Concentración"
+                  fill="#e07a5f"
+                  radius={[8, 8, 0, 0]}
+                  animationDuration={900}
+                />
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -256,12 +332,25 @@ export function Cap2Panel({ data }: Props) {
               </LineChart>
             </ResponsiveContainer>
           </div>
-          <p className="note" style={{ marginTop: "0.5rem" }}>
-            Similitud cercana a 100% = casi los mismos del año previo. Valores
-            bajos = mucha rotación (oportunidad para nuevos).
-          </p>
         </div>
       )}
+
+      {/* Grafo al final + lazy + boundary: si falla, Cap.2 no queda en blanco */}
+      {data.red_mercado?.nodes?.length ? (
+        <div style={{ marginTop: "1rem" }}>
+          <GraphErrorBoundary>
+            <Suspense
+              fallback={
+                <div className="panel">
+                  <p className="loading">Cargando red del mercado…</p>
+                </div>
+              }
+            >
+              <Cap2NetworkGraph red={data.red_mercado} />
+            </Suspense>
+          </GraphErrorBoundary>
+        </div>
+      ) : null}
 
       {data.cierre_rosario && (
         <div className="panel panel-rosario" style={{ marginTop: "1rem" }}>

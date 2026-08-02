@@ -1,94 +1,1625 @@
 {
-  "titulo": "Predicción: cómo se mueve el mercado (y un proceso concreto)",
-  "subtitulo": "Primero: panorama de los próximos meses con el histórico SECOP. Después (opcional): modelo por proceso — útil al evaluar una oportunidad puntual.",
+  "titulo": "Futuro del mercado CTeI: forecast a 6 meses",
+  "subtitulo": "Modelos de series de tiempo (Holt-Winters / SARIMA / estacional) con backtest. El modelo por proceso queda como herramienta secundaria de bid/no-bid.",
   "outlook_mercado": {
-    "metodo": "estacionalidad + nivel reciente (últimos 12 meses)",
-    "honestidad": "No es un modelo de machine learning del mercado. Es una proyección razonable: ‘así suele moverse este mes’ × el ritmo reciente. Sirve para planear, no para cifrar contratos exactos.",
+    "metodo": "Estacional naïve",
+    "metodo_id": "estacional_naive",
+    "honestidad": "Forecast de serie mensual con backtest fuera de muestra. Las bandas son intervalo ~80% (no garantía). El valor en pesos es más volátil que el conteo de procesos; usar el conteo para planear capacidad y el valor como orden de magnitud.",
     "ancla_hasta": "2026-07",
     "horizonte_meses": 6,
+    "lectura": "Modelo elegido para volumen: Estacional naïve. Backtest en 3 ventanas de 6 meses; MAPE mediana 17.15% (media 47.53%). Mejora 4.7% vs baseline estacional×nivel. Pico esperado: Ene 2027 (~30298 procesos).",
+    "mejora_vs_estacional_pct": 4.7,
+    "comparativo_modelos": [
+      {
+        "modelo": "estacional_naive",
+        "mape_pct": 47.53,
+        "mape_mediana_pct": 17.15,
+        "rmse": 4893.0,
+        "n_ventanas": 3,
+        "n_test_por_ventana": 6
+      },
+      {
+        "modelo": "estacional_nivel",
+        "mape_pct": 49.16,
+        "mape_mediana_pct": 18.0,
+        "rmse": 4504.8,
+        "n_ventanas": 3,
+        "n_test_por_ventana": 6
+      },
+      {
+        "modelo": "estacional_mediana",
+        "mape_pct": 43.95,
+        "mape_mediana_pct": 23.2,
+        "rmse": 4726.1,
+        "n_ventanas": 3,
+        "n_test_por_ventana": 6
+      },
+      {
+        "modelo": "estacional_anclado",
+        "mape_pct": 85.46,
+        "mape_mediana_pct": 38.4,
+        "rmse": 6045.8,
+        "n_ventanas": 3,
+        "n_test_por_ventana": 6
+      },
+      {
+        "modelo": "holt_winters",
+        "mape_pct": 95.02,
+        "mape_mediana_pct": 48.19,
+        "rmse": 6884.6,
+        "n_ventanas": 3,
+        "n_test_por_ventana": 6
+      }
+    ],
+    "nombres_modelos": {
+      "holt_winters": "Holt-Winters log (ETS estacional)",
+      "sarima": "SARIMA log-estacional",
+      "estacional_nivel": "Estacional × nivel reciente",
+      "estacional_naive": "Estacional naïve",
+      "estacional_mediana": "Estacional mediana (robusto a picos)",
+      "estacional_anclado": "Estacional anclado al último mes"
+    },
+    "procesos": {
+      "metric_id": "n_procesos",
+      "nombre": "Cantidad de procesos CTeI",
+      "unidad": "procesos",
+      "modelo_elegido": "estacional_naive",
+      "backtest": [
+        {
+          "modelo": "estacional_naive",
+          "mape_pct": 47.53,
+          "mape_mediana_pct": 17.15,
+          "rmse": 4893.0,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "estacional_nivel",
+          "mape_pct": 49.16,
+          "mape_mediana_pct": 18.0,
+          "rmse": 4504.8,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "estacional_mediana",
+          "mape_pct": 43.95,
+          "mape_mediana_pct": 23.2,
+          "rmse": 4726.1,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "estacional_anclado",
+          "mape_pct": 85.46,
+          "mape_mediana_pct": 38.4,
+          "rmse": 6045.8,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "holt_winters",
+          "mape_pct": 95.02,
+          "mape_mediana_pct": 48.19,
+          "rmse": 6884.6,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        }
+      ],
+      "mejor_backtest": {
+        "modelo": "estacional_naive",
+        "mape_pct": 47.53,
+        "mape_mediana_pct": 17.15,
+        "rmse": 4893.0,
+        "n_ventanas": 3,
+        "n_test_por_ventana": 6
+      },
+      "ancla_hasta": "2026-07",
+      "horizonte_meses": 6,
+      "serie": [
+        {
+          "periodo": "2025-08",
+          "etiqueta": "Ago 2025",
+          "tipo": "observado",
+          "valor": 8814.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-09",
+          "etiqueta": "Sep 2025",
+          "tipo": "observado",
+          "valor": 9680.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-10",
+          "etiqueta": "Oct 2025",
+          "tipo": "observado",
+          "valor": 10638.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-11",
+          "etiqueta": "Nov 2025",
+          "tipo": "observado",
+          "valor": 9920.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-12",
+          "etiqueta": "Dic 2025",
+          "tipo": "observado",
+          "valor": 7723.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-01",
+          "etiqueta": "Ene 2026",
+          "tipo": "observado",
+          "valor": 30298.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-02",
+          "etiqueta": "Feb 2026",
+          "tipo": "observado",
+          "valor": 7324.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-03",
+          "etiqueta": "Mar 2026",
+          "tipo": "observado",
+          "valor": 4639.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-04",
+          "etiqueta": "Abr 2026",
+          "tipo": "observado",
+          "valor": 2497.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-05",
+          "etiqueta": "May 2026",
+          "tipo": "observado",
+          "valor": 4115.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-06",
+          "etiqueta": "Jun 2026",
+          "tipo": "observado",
+          "valor": 5730.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-07",
+          "etiqueta": "Jul 2026",
+          "tipo": "observado",
+          "valor": 7713.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-08",
+          "etiqueta": "Ago 2026",
+          "tipo": "proyeccion",
+          "valor": 8814.0,
+          "lo_80": 5490.536965212341,
+          "hi_80": 12137.46303478766
+        },
+        {
+          "periodo": "2026-09",
+          "etiqueta": "Sep 2026",
+          "tipo": "proyeccion",
+          "valor": 9680.0,
+          "lo_80": 6231.079415121305,
+          "hi_80": 13128.920584878695
+        },
+        {
+          "periodo": "2026-10",
+          "etiqueta": "Oct 2026",
+          "tipo": "proyeccion",
+          "valor": 10638.0,
+          "lo_80": 7068.028031202486,
+          "hi_80": 14207.971968797514
+        },
+        {
+          "periodo": "2026-11",
+          "etiqueta": "Nov 2026",
+          "tipo": "proyeccion",
+          "valor": 9920.0,
+          "lo_80": 6232.94880491198,
+          "hi_80": 13607.05119508802
+        },
+        {
+          "periodo": "2026-12",
+          "etiqueta": "Dic 2026",
+          "tipo": "proyeccion",
+          "valor": 7723.0,
+          "lo_80": 3922.474618898066,
+          "hi_80": 11523.525381101934
+        },
+        {
+          "periodo": "2027-01",
+          "etiqueta": "Ene 2027",
+          "tipo": "proyeccion",
+          "valor": 30298.0,
+          "lo_80": 26387.291646056947,
+          "hi_80": 34208.70835394305
+        }
+      ],
+      "proximos_meses": [
+        {
+          "periodo": "2026-08",
+          "etiqueta": "Ago 2026",
+          "anio": 2026,
+          "mes": 8,
+          "punto": 8814.0,
+          "lo_80": 5490.536965212341,
+          "hi_80": 12137.46303478766
+        },
+        {
+          "periodo": "2026-09",
+          "etiqueta": "Sep 2026",
+          "anio": 2026,
+          "mes": 9,
+          "punto": 9680.0,
+          "lo_80": 6231.079415121305,
+          "hi_80": 13128.920584878695
+        },
+        {
+          "periodo": "2026-10",
+          "etiqueta": "Oct 2026",
+          "anio": 2026,
+          "mes": 10,
+          "punto": 10638.0,
+          "lo_80": 7068.028031202486,
+          "hi_80": 14207.971968797514
+        },
+        {
+          "periodo": "2026-11",
+          "etiqueta": "Nov 2026",
+          "anio": 2026,
+          "mes": 11,
+          "punto": 9920.0,
+          "lo_80": 6232.94880491198,
+          "hi_80": 13607.05119508802
+        },
+        {
+          "periodo": "2026-12",
+          "etiqueta": "Dic 2026",
+          "anio": 2026,
+          "mes": 12,
+          "punto": 7723.0,
+          "lo_80": 3922.474618898066,
+          "hi_80": 11523.525381101934
+        },
+        {
+          "periodo": "2027-01",
+          "etiqueta": "Ene 2027",
+          "anio": 2027,
+          "mes": 1,
+          "punto": 30298.0,
+          "lo_80": 26387.291646056947,
+          "hi_80": 34208.70835394305
+        }
+      ],
+      "resumen": {
+        "total_horizonte": 77073.0,
+        "mes_pico": {
+          "etiqueta": "Ene 2027",
+          "valor": 30298.0
+        },
+        "mes_valle": {
+          "etiqueta": "Dic 2026",
+          "valor": 7723.0
+        },
+        "promedio_mensual": 12845.5
+      }
+    },
+    "valor": {
+      "metric_id": "valor_sin_mega_cop",
+      "nombre": "Valor sin megacontratos",
+      "unidad": "procesos",
+      "modelo_elegido": "estacional_anclado",
+      "backtest": [
+        {
+          "modelo": "estacional_anclado",
+          "mape_pct": 46.71,
+          "mape_mediana_pct": 22.69,
+          "rmse": 324286423220.7,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "estacional_naive",
+          "mape_pct": 42.17,
+          "mape_mediana_pct": 36.46,
+          "rmse": 369564063484.2,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "estacional_nivel",
+          "mape_pct": 51.68,
+          "mape_mediana_pct": 37.08,
+          "rmse": 377450941709.8,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "estacional_mediana",
+          "mape_pct": 40.41,
+          "mape_mediana_pct": 37.86,
+          "rmse": 334056425327.3,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        },
+        {
+          "modelo": "holt_winters",
+          "mape_pct": 62.4,
+          "mape_mediana_pct": 39.61,
+          "rmse": 425493518858.2,
+          "n_ventanas": 3,
+          "n_test_por_ventana": 6
+        }
+      ],
+      "mejor_backtest": {
+        "modelo": "estacional_anclado",
+        "mape_pct": 46.71,
+        "mape_mediana_pct": 22.69,
+        "rmse": 324286423220.7,
+        "n_ventanas": 3,
+        "n_test_por_ventana": 6
+      },
+      "ancla_hasta": "2026-07",
+      "horizonte_meses": 6,
+      "serie": [
+        {
+          "periodo": "2025-08",
+          "etiqueta": "Ago 2025",
+          "tipo": "observado",
+          "valor": 1545312191381.3135,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-09",
+          "etiqueta": "Sep 2025",
+          "tipo": "observado",
+          "valor": 1045760656527.4127,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-10",
+          "etiqueta": "Oct 2025",
+          "tipo": "observado",
+          "valor": 1138394580380.2146,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-11",
+          "etiqueta": "Nov 2025",
+          "tipo": "observado",
+          "valor": 1441808718757.4736,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2025-12",
+          "etiqueta": "Dic 2025",
+          "tipo": "observado",
+          "valor": 1704963666800.6606,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-01",
+          "etiqueta": "Ene 2026",
+          "tipo": "observado",
+          "valor": 768680178118.9609,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-02",
+          "etiqueta": "Feb 2026",
+          "tipo": "observado",
+          "valor": 368955040535.3002,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-03",
+          "etiqueta": "Mar 2026",
+          "tipo": "observado",
+          "valor": 432627470914.3177,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-04",
+          "etiqueta": "Abr 2026",
+          "tipo": "observado",
+          "valor": 787168858601.0514,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-05",
+          "etiqueta": "May 2026",
+          "tipo": "observado",
+          "valor": 360311465760.572,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-06",
+          "etiqueta": "Jun 2026",
+          "tipo": "observado",
+          "valor": 589349866084.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-07",
+          "etiqueta": "Jul 2026",
+          "tipo": "observado",
+          "valor": 269783579330.0,
+          "lo_80": null,
+          "hi_80": null
+        },
+        {
+          "periodo": "2026-08",
+          "etiqueta": "Ago 2026",
+          "tipo": "proyeccion",
+          "valor": 362439783026.4507,
+          "lo_80": 0.0,
+          "hi_80": 725675670231.2308
+        },
+        {
+          "periodo": "2026-09",
+          "etiqueta": "Sep 2026",
+          "tipo": "proyeccion",
+          "valor": 333976342851.9144,
+          "lo_80": 0.0,
+          "hi_80": 710924037300.1794
+        },
+        {
+          "periodo": "2026-10",
+          "etiqueta": "Oct 2026",
+          "tipo": "proyeccion",
+          "valor": 362720596570.1977,
+          "lo_80": 0.0,
+          "hi_80": 752898528988.5769
+        },
+        {
+          "periodo": "2026-11",
+          "etiqueta": "Nov 2026",
+          "tipo": "proyeccion",
+          "valor": 466837496819.41235,
+          "lo_80": 63863461002.33887,
+          "hi_80": 869811532636.4858
+        },
+        {
+          "periodo": "2026-12",
+          "etiqueta": "Dic 2026",
+          "tipo": "proyeccion",
+          "valor": 487248471643.748,
+          "lo_80": 71872343129.94092,
+          "hi_80": 902624600157.555
+        },
+        {
+          "periodo": "2027-01",
+          "etiqueta": "Ene 2027",
+          "tipo": "proyeccion",
+          "valor": 248272464124.52426,
+          "lo_80": 0.0,
+          "hi_80": 675690974177.0692
+        }
+      ],
+      "proximos_meses": [
+        {
+          "periodo": "2026-08",
+          "etiqueta": "Ago 2026",
+          "anio": 2026,
+          "mes": 8,
+          "punto": 362439783026.4507,
+          "lo_80": 0.0,
+          "hi_80": 725675670231.2308
+        },
+        {
+          "periodo": "2026-09",
+          "etiqueta": "Sep 2026",
+          "anio": 2026,
+          "mes": 9,
+          "punto": 333976342851.9144,
+          "lo_80": 0.0,
+          "hi_80": 710924037300.1794
+        },
+        {
+          "periodo": "2026-10",
+          "etiqueta": "Oct 2026",
+          "anio": 2026,
+          "mes": 10,
+          "punto": 362720596570.1977,
+          "lo_80": 0.0,
+          "hi_80": 752898528988.5769
+        },
+        {
+          "periodo": "2026-11",
+          "etiqueta": "Nov 2026",
+          "anio": 2026,
+          "mes": 11,
+          "punto": 466837496819.41235,
+          "lo_80": 63863461002.33887,
+          "hi_80": 869811532636.4858
+        },
+        {
+          "periodo": "2026-12",
+          "etiqueta": "Dic 2026",
+          "anio": 2026,
+          "mes": 12,
+          "punto": 487248471643.748,
+          "lo_80": 71872343129.94092,
+          "hi_80": 902624600157.555
+        },
+        {
+          "periodo": "2027-01",
+          "etiqueta": "Ene 2027",
+          "anio": 2027,
+          "mes": 1,
+          "punto": 248272464124.52426,
+          "lo_80": 0.0,
+          "hi_80": 675690974177.0692
+        }
+      ],
+      "resumen": {
+        "total_horizonte": 2261495155036.2476,
+        "mes_pico": {
+          "etiqueta": "Dic 2026",
+          "valor": 487248471643.748
+        },
+        "mes_valle": {
+          "etiqueta": "Ene 2027",
+          "valor": 248272464124.52426
+        },
+        "promedio_mensual": 376915859172.70795
+      }
+    },
+    "por_segmento": [
+      {
+        "codigo": "80",
+        "nombre": "Gestión y servicios profesionales",
+        "modelo_elegido": "topdown_estacional",
+        "modelo_nombre": "Top-down: total × share del mes",
+        "mape_backtest_pct": 19.44,
+        "mape_media_pct": 61.74,
+        "comparativo_local": [
+          {
+            "modelo": "topdown_blend",
+            "mape_mediana_pct": 17.45,
+            "mape_pct": 62.11
+          },
+          {
+            "modelo": "topdown_reciente",
+            "mape_mediana_pct": 18.06,
+            "mape_pct": 64.7
+          },
+          {
+            "modelo": "topdown_estacional",
+            "mape_mediana_pct": 19.44,
+            "mape_pct": 61.74
+          },
+          {
+            "modelo": "independiente",
+            "mape_mediana_pct": 21.6,
+            "mape_pct": 56.54
+          }
+        ],
+        "share_proximos": [
+          0.3415671577733392,
+          0.3464777563681318,
+          0.3449255054140758,
+          0.3282004505835372,
+          0.33319501336620133,
+          0.4101124183548534
+        ],
+        "proximos_meses": [
+          {
+            "periodo": "2026-08",
+            "etiqueta": "Ago 2026",
+            "anio": 2026,
+            "mes": 8,
+            "punto": 3010.5729286142114,
+            "lo_80": 1875.3871058570346,
+            "hi_80": 4145.758751371389,
+            "share": 0.3415671577733392
+          },
+          {
+            "periodo": "2026-09",
+            "etiqueta": "Sep 2026",
+            "anio": 2026,
+            "mes": 9,
+            "punto": 3353.9046816435157,
+            "lo_80": 2158.9304155028804,
+            "hi_80": 4548.878947784151,
+            "share": 0.3464777563681318
+          },
+          {
+            "periodo": "2026-10",
+            "etiqueta": "Oct 2026",
+            "anio": 2026,
+            "mes": 10,
+            "punto": 3669.3175265949385,
+            "lo_80": 2437.943140943373,
+            "hi_80": 4900.691912246504,
+            "share": 0.3449255054140758
+          },
+          {
+            "periodo": "2026-11",
+            "etiqueta": "Nov 2026",
+            "anio": 2026,
+            "mes": 11,
+            "punto": 3255.748469788689,
+            "lo_80": 2045.6566062362315,
+            "hi_80": 4465.840333341147,
+            "share": 0.3282004505835372
+          },
+          {
+            "periodo": "2026-12",
+            "etiqueta": "Dic 2026",
+            "anio": 2026,
+            "mes": 12,
+            "punto": 2573.265088227173,
+            "lo_80": 1306.9489830723267,
+            "hi_80": 3839.581193382019,
+            "share": 0.33319501336620133
+          },
+          {
+            "periodo": "2027-01",
+            "etiqueta": "Ene 2027",
+            "anio": 2027,
+            "mes": 1,
+            "punto": 12425.586051315348,
+            "lo_80": 10821.755990799234,
+            "hi_80": 14029.416111831462,
+            "share": 0.4101124183548534
+          }
+        ],
+        "serie": [
+          {
+            "periodo": "2025-08",
+            "etiqueta": "Ago 2025",
+            "tipo": "observado",
+            "valor": 2993.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-09",
+            "etiqueta": "Sep 2025",
+            "tipo": "observado",
+            "valor": 3453.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-10",
+            "etiqueta": "Oct 2025",
+            "tipo": "observado",
+            "valor": 3657.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-11",
+            "etiqueta": "Nov 2025",
+            "tipo": "observado",
+            "valor": 3355.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-12",
+            "etiqueta": "Dic 2025",
+            "tipo": "observado",
+            "valor": 2419.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-01",
+            "etiqueta": "Ene 2026",
+            "tipo": "observado",
+            "valor": 11644.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-02",
+            "etiqueta": "Feb 2026",
+            "tipo": "observado",
+            "valor": 2667.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-03",
+            "etiqueta": "Mar 2026",
+            "tipo": "observado",
+            "valor": 1532.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-04",
+            "etiqueta": "Abr 2026",
+            "tipo": "observado",
+            "valor": 732.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-05",
+            "etiqueta": "May 2026",
+            "tipo": "observado",
+            "valor": 952.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-06",
+            "etiqueta": "Jun 2026",
+            "tipo": "observado",
+            "valor": 1078.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-07",
+            "etiqueta": "Jul 2026",
+            "tipo": "observado",
+            "valor": 2318.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-08",
+            "etiqueta": "Ago 2026",
+            "tipo": "proyeccion",
+            "valor": 3010.5729286142114,
+            "lo_80": 1875.3871058570346,
+            "hi_80": 4145.758751371389
+          },
+          {
+            "periodo": "2026-09",
+            "etiqueta": "Sep 2026",
+            "tipo": "proyeccion",
+            "valor": 3353.9046816435157,
+            "lo_80": 2158.9304155028804,
+            "hi_80": 4548.878947784151
+          },
+          {
+            "periodo": "2026-10",
+            "etiqueta": "Oct 2026",
+            "tipo": "proyeccion",
+            "valor": 3669.3175265949385,
+            "lo_80": 2437.943140943373,
+            "hi_80": 4900.691912246504
+          },
+          {
+            "periodo": "2026-11",
+            "etiqueta": "Nov 2026",
+            "tipo": "proyeccion",
+            "valor": 3255.748469788689,
+            "lo_80": 2045.6566062362315,
+            "hi_80": 4465.840333341147
+          },
+          {
+            "periodo": "2026-12",
+            "etiqueta": "Dic 2026",
+            "tipo": "proyeccion",
+            "valor": 2573.265088227173,
+            "lo_80": 1306.9489830723267,
+            "hi_80": 3839.581193382019
+          },
+          {
+            "periodo": "2027-01",
+            "etiqueta": "Ene 2027",
+            "tipo": "proyeccion",
+            "valor": 12425.586051315348,
+            "lo_80": 10821.755990799234,
+            "hi_80": 14029.416111831462
+          }
+        ],
+        "total_horizonte": 28288.394746183876,
+        "mes_pico": {
+          "etiqueta": "Ene 2027",
+          "valor": 12425.586051315348
+        }
+      },
+      {
+        "codigo": "81",
+        "nombre": "Ingeniería, investigación y tecnología",
+        "modelo_elegido": "topdown_estacional",
+        "modelo_nombre": "Top-down: total × share del mes",
+        "mape_backtest_pct": 16.74,
+        "mape_media_pct": 37.58,
+        "comparativo_local": [
+          {
+            "modelo": "topdown_reciente",
+            "mape_mediana_pct": 16.58,
+            "mape_pct": 36.19
+          },
+          {
+            "modelo": "topdown_blend",
+            "mape_mediana_pct": 16.69,
+            "mape_pct": 37.06
+          },
+          {
+            "modelo": "topdown_estacional",
+            "mape_mediana_pct": 16.74,
+            "mape_pct": 37.58
+          },
+          {
+            "modelo": "independiente",
+            "mape_mediana_pct": 23.09,
+            "mape_pct": 35.29
+          }
+        ],
+        "share_proximos": [
+          0.4661732435590334,
+          0.459599711659906,
+          0.48031925079671384,
+          0.492490809456979,
+          0.5042273805672931,
+          0.3710767074836803
+        ],
+        "proximos_meses": [
+          {
+            "periodo": "2026-08",
+            "etiqueta": "Ago 2026",
+            "anio": 2026,
+            "mes": 8,
+            "punto": 4108.85096872932,
+            "lo_80": 2559.541425953809,
+            "hi_80": 5658.160511504832,
+            "share": 0.4661732435590334
+          },
+          {
+            "periodo": "2026-09",
+            "etiqueta": "Sep 2026",
+            "anio": 2026,
+            "mes": 9,
+            "punto": 4448.9252088678895,
+            "lo_80": 2863.802302519727,
+            "hi_80": 6034.048115216053,
+            "share": 0.459599711659906
+          },
+          {
+            "periodo": "2026-10",
+            "etiqueta": "Oct 2026",
+            "anio": 2026,
+            "mes": 10,
+            "punto": 5109.636189975442,
+            "lo_80": 3394.9099285573507,
+            "hi_80": 6824.362451393533,
+            "share": 0.48031925079671384
+          },
+          {
+            "periodo": "2026-11",
+            "etiqueta": "Nov 2026",
+            "anio": 2026,
+            "mes": 11,
+            "punto": 4885.508829813231,
+            "lo_80": 3069.670002235011,
+            "hi_80": 6701.347657391452,
+            "share": 0.492490809456979
+          },
+          {
+            "periodo": "2026-12",
+            "etiqueta": "Dic 2026",
+            "anio": 2026,
+            "mes": 12,
+            "punto": 3894.1480601212047,
+            "lo_80": 1977.8191024286632,
+            "hi_80": 5810.477017813746,
+            "share": 0.5042273805672931
+          },
+          {
+            "periodo": "2027-01",
+            "etiqueta": "Ene 2027",
+            "anio": 2027,
+            "mes": 1,
+            "punto": 11242.882083340546,
+            "lo_80": 9791.709303430434,
+            "hi_80": 12694.054863250658,
+            "share": 0.3710767074836803
+          }
+        ],
+        "serie": [
+          {
+            "periodo": "2025-08",
+            "etiqueta": "Ago 2025",
+            "tipo": "observado",
+            "valor": 4038.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-09",
+            "etiqueta": "Sep 2025",
+            "tipo": "observado",
+            "valor": 4261.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-10",
+            "etiqueta": "Oct 2025",
+            "tipo": "observado",
+            "valor": 5051.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-11",
+            "etiqueta": "Nov 2025",
+            "tipo": "observado",
+            "valor": 4688.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-12",
+            "etiqueta": "Dic 2025",
+            "tipo": "observado",
+            "valor": 4196.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-01",
+            "etiqueta": "Ene 2026",
+            "tipo": "observado",
+            "valor": 10340.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-02",
+            "etiqueta": "Feb 2026",
+            "tipo": "observado",
+            "valor": 3778.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-03",
+            "etiqueta": "Mar 2026",
+            "tipo": "observado",
+            "valor": 2348.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-04",
+            "etiqueta": "Abr 2026",
+            "tipo": "observado",
+            "valor": 1379.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-05",
+            "etiqueta": "May 2026",
+            "tipo": "observado",
+            "valor": 2412.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-06",
+            "etiqueta": "Jun 2026",
+            "tipo": "observado",
+            "valor": 2566.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-07",
+            "etiqueta": "Jul 2026",
+            "tipo": "observado",
+            "valor": 3824.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-08",
+            "etiqueta": "Ago 2026",
+            "tipo": "proyeccion",
+            "valor": 4108.85096872932,
+            "lo_80": 2559.541425953809,
+            "hi_80": 5658.160511504832
+          },
+          {
+            "periodo": "2026-09",
+            "etiqueta": "Sep 2026",
+            "tipo": "proyeccion",
+            "valor": 4448.9252088678895,
+            "lo_80": 2863.802302519727,
+            "hi_80": 6034.048115216053
+          },
+          {
+            "periodo": "2026-10",
+            "etiqueta": "Oct 2026",
+            "tipo": "proyeccion",
+            "valor": 5109.636189975442,
+            "lo_80": 3394.9099285573507,
+            "hi_80": 6824.362451393533
+          },
+          {
+            "periodo": "2026-11",
+            "etiqueta": "Nov 2026",
+            "tipo": "proyeccion",
+            "valor": 4885.508829813231,
+            "lo_80": 3069.670002235011,
+            "hi_80": 6701.347657391452
+          },
+          {
+            "periodo": "2026-12",
+            "etiqueta": "Dic 2026",
+            "tipo": "proyeccion",
+            "valor": 3894.1480601212047,
+            "lo_80": 1977.8191024286632,
+            "hi_80": 5810.477017813746
+          },
+          {
+            "periodo": "2027-01",
+            "etiqueta": "Ene 2027",
+            "tipo": "proyeccion",
+            "valor": 11242.882083340546,
+            "lo_80": 9791.709303430434,
+            "hi_80": 12694.054863250658
+          }
+        ],
+        "total_horizonte": 33689.951340847634,
+        "mes_pico": {
+          "etiqueta": "Ene 2027",
+          "valor": 11242.882083340546
+        }
+      },
+      {
+        "codigo": "86",
+        "nombre": "Educación y capacitación",
+        "modelo_elegido": "topdown_estacional",
+        "modelo_nombre": "Top-down: total × share del mes",
+        "mape_backtest_pct": 22.18,
+        "mape_media_pct": 71.33,
+        "comparativo_local": [
+          {
+            "modelo": "topdown_estacional",
+            "mape_mediana_pct": 22.18,
+            "mape_pct": 71.33
+          },
+          {
+            "modelo": "topdown_blend",
+            "mape_mediana_pct": 24.5,
+            "mape_pct": 71.46
+          },
+          {
+            "modelo": "independiente",
+            "mape_mediana_pct": 24.54,
+            "mape_pct": 64.97
+          },
+          {
+            "modelo": "topdown_reciente",
+            "mape_mediana_pct": 31.02,
+            "mape_pct": 71.74
+          }
+        ],
+        "share_proximos": [
+          0.1922595986676275,
+          0.19392253197196216,
+          0.17475524378921053,
+          0.1793087399594839,
+          0.1625776060665056,
+          0.21881087416146627
+        ],
+        "proximos_meses": [
+          {
+            "periodo": "2026-08",
+            "etiqueta": "Ago 2026",
+            "anio": 2026,
+            "mes": 8,
+            "punto": 1694.576102656469,
+            "lo_80": 1055.6084334014981,
+            "hi_80": 2333.5437719114398,
+            "share": 0.1922595986676275
+          },
+          {
+            "periodo": "2026-09",
+            "etiqueta": "Sep 2026",
+            "anio": 2026,
+            "mes": 9,
+            "punto": 1877.1701094885937,
+            "lo_80": 1208.3466970986965,
+            "hi_80": 2545.993521878491,
+            "share": 0.19392253197196216
+          },
+          {
+            "periodo": "2026-10",
+            "etiqueta": "Oct 2026",
+            "anio": 2026,
+            "mes": 10,
+            "punto": 1859.0462834296218,
+            "lo_80": 1235.1749617017642,
+            "hi_80": 2482.917605157479,
+            "share": 0.17475524378921053
+          },
+          {
+            "periodo": "2026-11",
+            "etiqueta": "Nov 2026",
+            "anio": 2026,
+            "mes": 11,
+            "punto": 1778.7427003980804,
+            "lo_80": 1117.6221964407382,
+            "hi_80": 2439.8632043554226,
+            "share": 0.1793087399594839
+          },
+          {
+            "periodo": "2026-12",
+            "etiqueta": "Dic 2026",
+            "anio": 2026,
+            "mes": 12,
+            "punto": 1255.5868516516227,
+            "lo_80": 637.7065333970764,
+            "hi_80": 1873.467169906169,
+            "share": 0.1625776060665056
+          },
+          {
+            "periodo": "2027-01",
+            "etiqueta": "Ene 2027",
+            "anio": 2027,
+            "mes": 1,
+            "punto": 6629.531865344105,
+            "lo_80": 5773.826351827277,
+            "hi_80": 7485.237378860934,
+            "share": 0.21881087416146627
+          }
+        ],
+        "serie": [
+          {
+            "periodo": "2025-08",
+            "etiqueta": "Ago 2025",
+            "tipo": "observado",
+            "valor": 1783.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-09",
+            "etiqueta": "Sep 2025",
+            "tipo": "observado",
+            "valor": 1966.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-10",
+            "etiqueta": "Oct 2025",
+            "tipo": "observado",
+            "valor": 1930.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-11",
+            "etiqueta": "Nov 2025",
+            "tipo": "observado",
+            "valor": 1877.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2025-12",
+            "etiqueta": "Dic 2025",
+            "tipo": "observado",
+            "valor": 1108.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-01",
+            "etiqueta": "Ene 2026",
+            "tipo": "observado",
+            "valor": 8314.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-02",
+            "etiqueta": "Feb 2026",
+            "tipo": "observado",
+            "valor": 879.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-03",
+            "etiqueta": "Mar 2026",
+            "tipo": "observado",
+            "valor": 759.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-04",
+            "etiqueta": "Abr 2026",
+            "tipo": "observado",
+            "valor": 386.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-05",
+            "etiqueta": "May 2026",
+            "tipo": "observado",
+            "valor": 751.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-06",
+            "etiqueta": "Jun 2026",
+            "tipo": "observado",
+            "valor": 2086.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-07",
+            "etiqueta": "Jul 2026",
+            "tipo": "observado",
+            "valor": 1571.0,
+            "lo_80": null,
+            "hi_80": null
+          },
+          {
+            "periodo": "2026-08",
+            "etiqueta": "Ago 2026",
+            "tipo": "proyeccion",
+            "valor": 1694.576102656469,
+            "lo_80": 1055.6084334014981,
+            "hi_80": 2333.5437719114398
+          },
+          {
+            "periodo": "2026-09",
+            "etiqueta": "Sep 2026",
+            "tipo": "proyeccion",
+            "valor": 1877.1701094885937,
+            "lo_80": 1208.3466970986965,
+            "hi_80": 2545.993521878491
+          },
+          {
+            "periodo": "2026-10",
+            "etiqueta": "Oct 2026",
+            "tipo": "proyeccion",
+            "valor": 1859.0462834296218,
+            "lo_80": 1235.1749617017642,
+            "hi_80": 2482.917605157479
+          },
+          {
+            "periodo": "2026-11",
+            "etiqueta": "Nov 2026",
+            "tipo": "proyeccion",
+            "valor": 1778.7427003980804,
+            "lo_80": 1117.6221964407382,
+            "hi_80": 2439.8632043554226
+          },
+          {
+            "periodo": "2026-12",
+            "etiqueta": "Dic 2026",
+            "tipo": "proyeccion",
+            "valor": 1255.5868516516227,
+            "lo_80": 637.7065333970764,
+            "hi_80": 1873.467169906169
+          },
+          {
+            "periodo": "2027-01",
+            "etiqueta": "Ene 2027",
+            "tipo": "proyeccion",
+            "valor": 6629.531865344105,
+            "lo_80": 5773.826351827277,
+            "hi_80": 7485.237378860934
+          }
+        ],
+        "total_horizonte": 15094.653912968493,
+        "mes_pico": {
+          "etiqueta": "Ene 2027",
+          "valor": 6629.531865344105
+        }
+      }
+    ],
+    "segmentacion": {
+      "metodo_elegido": "topdown_estacional",
+      "metodo_nombre": "Top-down: total × share del mes",
+      "lectura": "Los segmentos son ruidosos en nivel absoluto; las participaciones son estables. Por eso se proyecta el total y se reparte con shares (top-down), en lugar de entrenar un SARIMA/estacional aparte por UNSPSC.",
+      "comparativo_metodos": [
+        {
+          "modelo": "topdown_estacional",
+          "mape_mediana_pct": 19.45,
+          "mape_pct": 56.89
+        },
+        {
+          "modelo": "topdown_blend",
+          "mape_mediana_pct": 19.55,
+          "mape_pct": 56.87
+        },
+        {
+          "modelo": "topdown_reciente",
+          "mape_mediana_pct": 21.89,
+          "mape_pct": 57.54
+        },
+        {
+          "modelo": "independiente",
+          "mape_mediana_pct": 23.08,
+          "mape_pct": 52.27
+        }
+      ],
+      "por_segmento": {
+        "80": [
+          {
+            "modelo": "topdown_blend",
+            "mape_mediana_pct": 17.45,
+            "mape_pct": 62.11
+          },
+          {
+            "modelo": "topdown_reciente",
+            "mape_mediana_pct": 18.06,
+            "mape_pct": 64.7
+          },
+          {
+            "modelo": "topdown_estacional",
+            "mape_mediana_pct": 19.44,
+            "mape_pct": 61.74
+          },
+          {
+            "modelo": "independiente",
+            "mape_mediana_pct": 21.6,
+            "mape_pct": 56.54
+          }
+        ],
+        "81": [
+          {
+            "modelo": "topdown_reciente",
+            "mape_mediana_pct": 16.58,
+            "mape_pct": 36.19
+          },
+          {
+            "modelo": "topdown_blend",
+            "mape_mediana_pct": 16.69,
+            "mape_pct": 37.06
+          },
+          {
+            "modelo": "topdown_estacional",
+            "mape_mediana_pct": 16.74,
+            "mape_pct": 37.58
+          },
+          {
+            "modelo": "independiente",
+            "mape_mediana_pct": 23.09,
+            "mape_pct": 35.29
+          }
+        ],
+        "86": [
+          {
+            "modelo": "topdown_estacional",
+            "mape_mediana_pct": 22.18,
+            "mape_pct": 71.33
+          },
+          {
+            "modelo": "topdown_blend",
+            "mape_mediana_pct": 24.5,
+            "mape_pct": 71.46
+          },
+          {
+            "modelo": "independiente",
+            "mape_mediana_pct": 24.54,
+            "mape_pct": 64.97
+          },
+          {
+            "modelo": "topdown_reciente",
+            "mape_mediana_pct": 31.02,
+            "mape_pct": 71.74
+          }
+        ]
+      }
+    },
+    "para_empresa": [
+      "Planear en qué meses reforzar vigilancia SECOP y equipos de propuesta.",
+      "Usar el pico proyectado para anticipar competencia y carga de trabajo.",
+      "Mirar el desglose por segmento (educación / ingeniería / gestión) para enfocar oferta.",
+      "Las bandas muestran incertidumbre: planear con el rango, no solo el punto central."
+    ],
     "serie_combinada": [
+      {
+        "periodo": "2025-08",
+        "etiqueta": "Ago 2025",
+        "n_procesos": 8814.0,
+        "valor_sin_mega_cop": 1545312191381.3135,
+        "n_lo": null,
+        "n_hi": null,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2025-09",
+        "etiqueta": "Sep 2025",
+        "n_procesos": 9680.0,
+        "valor_sin_mega_cop": 1045760656527.4127,
+        "n_lo": null,
+        "n_hi": null,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2025-10",
+        "etiqueta": "Oct 2025",
+        "n_procesos": 10638.0,
+        "valor_sin_mega_cop": 1138394580380.2146,
+        "n_lo": null,
+        "n_hi": null,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2025-11",
+        "etiqueta": "Nov 2025",
+        "n_procesos": 9920.0,
+        "valor_sin_mega_cop": 1441808718757.4736,
+        "n_lo": null,
+        "n_hi": null,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2025-12",
+        "etiqueta": "Dic 2025",
+        "n_procesos": 7723.0,
+        "valor_sin_mega_cop": 1704963666800.6606,
+        "n_lo": null,
+        "n_hi": null,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2026-01",
+        "etiqueta": "Ene 2026",
+        "n_procesos": 30298.0,
+        "valor_sin_mega_cop": 768680178118.9609,
+        "n_lo": null,
+        "n_hi": null,
+        "tipo": "observado"
+      },
       {
         "periodo": "2026-02",
         "etiqueta": "Feb 2026",
-        "n_procesos": 7324,
+        "n_procesos": 7324.0,
         "valor_sin_mega_cop": 368955040535.3002,
+        "n_lo": null,
+        "n_hi": null,
         "tipo": "observado"
       },
       {
         "periodo": "2026-03",
         "etiqueta": "Mar 2026",
-        "n_procesos": 4639,
+        "n_procesos": 4639.0,
         "valor_sin_mega_cop": 432627470914.3177,
+        "n_lo": null,
+        "n_hi": null,
         "tipo": "observado"
       },
       {
         "periodo": "2026-04",
         "etiqueta": "Abr 2026",
-        "n_procesos": 2497,
+        "n_procesos": 2497.0,
         "valor_sin_mega_cop": 787168858601.0514,
+        "n_lo": null,
+        "n_hi": null,
         "tipo": "observado"
       },
       {
         "periodo": "2026-05",
         "etiqueta": "May 2026",
-        "n_procesos": 4115,
+        "n_procesos": 4115.0,
         "valor_sin_mega_cop": 360311465760.572,
+        "n_lo": null,
+        "n_hi": null,
         "tipo": "observado"
       },
       {
         "periodo": "2026-06",
         "etiqueta": "Jun 2026",
-        "n_procesos": 5730,
+        "n_procesos": 5730.0,
         "valor_sin_mega_cop": 589349866084.0,
+        "n_lo": null,
+        "n_hi": null,
         "tipo": "observado"
       },
       {
         "periodo": "2026-07",
         "etiqueta": "Jul 2026",
-        "n_procesos": 7713,
+        "n_procesos": 7713.0,
         "valor_sin_mega_cop": 269783579330.0,
+        "n_lo": null,
+        "n_hi": null,
         "tipo": "observado"
       },
       {
         "periodo": "2026-08",
         "etiqueta": "Ago 2026",
-        "n_procesos": 8985,
-        "valor_sin_mega_cop": 1013070840080.9147,
+        "n_procesos": 8814.0,
+        "valor_sin_mega_cop": 362439783026.4507,
+        "n_lo": 5490.536965212341,
+        "n_hi": 12137.46303478766,
         "tipo": "proyeccion"
       },
       {
         "periodo": "2026-09",
         "etiqueta": "Sep 2026",
-        "n_procesos": 8876,
-        "valor_sin_mega_cop": 933511468842.9457,
+        "n_procesos": 9680.0,
+        "valor_sin_mega_cop": 333976342851.9144,
+        "n_lo": 6231.079415121305,
+        "n_hi": 13128.920584878695,
         "tipo": "proyeccion"
       },
       {
         "periodo": "2026-10",
         "etiqueta": "Oct 2026",
-        "n_procesos": 9304,
-        "valor_sin_mega_cop": 1013855753950.7285,
+        "n_procesos": 10638.0,
+        "valor_sin_mega_cop": 362720596570.1977,
+        "n_lo": 7068.028031202486,
+        "n_hi": 14207.971968797514,
         "tipo": "proyeccion"
       },
       {
         "periodo": "2026-11",
         "etiqueta": "Nov 2026",
-        "n_procesos": 9260,
-        "valor_sin_mega_cop": 1304877326476.0464,
+        "n_procesos": 9920.0,
+        "valor_sin_mega_cop": 466837496819.41235,
+        "n_lo": 6232.94880491198,
+        "n_hi": 13607.05119508802,
         "tipo": "proyeccion"
       },
       {
         "periodo": "2026-12",
         "etiqueta": "Dic 2026",
-        "n_procesos": 7242,
-        "valor_sin_mega_cop": 1361928909609.3777,
+        "n_procesos": 7723.0,
+        "valor_sin_mega_cop": 487248471643.748,
+        "n_lo": 3922.474618898066,
+        "n_hi": 11523.525381101934,
         "tipo": "proyeccion"
       },
       {
         "periodo": "2027-01",
         "etiqueta": "Ene 2027",
-        "n_procesos": 18052,
-        "valor_sin_mega_cop": 693956915268.4181,
+        "n_procesos": 30298.0,
+        "valor_sin_mega_cop": 248272464124.52426,
+        "n_lo": 26387.291646056947,
+        "n_hi": 34208.70835394305,
         "tipo": "proyeccion"
       }
     ],
@@ -96,69 +1627,63 @@
       {
         "periodo": "2026-08",
         "etiqueta": "Ago 2026",
-        "anio": 2026,
-        "mes": 8,
-        "n_procesos_estimado": 8985,
-        "valor_sin_mega_estimado_cop": 1013070840080.9147,
-        "n_procesos_mismo_mes_anio_ant": 8814,
-        "valor_sin_mega_mismo_mes_anio_ant_cop": 1545312191381.3135
+        "n_procesos_estimado": 8814.0,
+        "n_lo_80": 5490.536965212341,
+        "n_hi_80": 12137.46303478766,
+        "valor_sin_mega_estimado_cop": 362439783026.4507,
+        "valor_lo_80": 0.0,
+        "valor_hi_80": 725675670231.2308
       },
       {
         "periodo": "2026-09",
         "etiqueta": "Sep 2026",
-        "anio": 2026,
-        "mes": 9,
-        "n_procesos_estimado": 8876,
-        "valor_sin_mega_estimado_cop": 933511468842.9457,
-        "n_procesos_mismo_mes_anio_ant": 9680,
-        "valor_sin_mega_mismo_mes_anio_ant_cop": 1045760656527.4127
+        "n_procesos_estimado": 9680.0,
+        "n_lo_80": 6231.079415121305,
+        "n_hi_80": 13128.920584878695,
+        "valor_sin_mega_estimado_cop": 333976342851.9144,
+        "valor_lo_80": 0.0,
+        "valor_hi_80": 710924037300.1794
       },
       {
         "periodo": "2026-10",
         "etiqueta": "Oct 2026",
-        "anio": 2026,
-        "mes": 10,
-        "n_procesos_estimado": 9304,
-        "valor_sin_mega_estimado_cop": 1013855753950.7285,
-        "n_procesos_mismo_mes_anio_ant": 10638,
-        "valor_sin_mega_mismo_mes_anio_ant_cop": 1138394580380.2146
+        "n_procesos_estimado": 10638.0,
+        "n_lo_80": 7068.028031202486,
+        "n_hi_80": 14207.971968797514,
+        "valor_sin_mega_estimado_cop": 362720596570.1977,
+        "valor_lo_80": 0.0,
+        "valor_hi_80": 752898528988.5769
       },
       {
         "periodo": "2026-11",
         "etiqueta": "Nov 2026",
-        "anio": 2026,
-        "mes": 11,
-        "n_procesos_estimado": 9260,
-        "valor_sin_mega_estimado_cop": 1304877326476.0464,
-        "n_procesos_mismo_mes_anio_ant": 9920,
-        "valor_sin_mega_mismo_mes_anio_ant_cop": 1441808718757.4736
+        "n_procesos_estimado": 9920.0,
+        "n_lo_80": 6232.94880491198,
+        "n_hi_80": 13607.05119508802,
+        "valor_sin_mega_estimado_cop": 466837496819.41235,
+        "valor_lo_80": 63863461002.33887,
+        "valor_hi_80": 869811532636.4858
       },
       {
         "periodo": "2026-12",
         "etiqueta": "Dic 2026",
-        "anio": 2026,
-        "mes": 12,
-        "n_procesos_estimado": 7242,
-        "valor_sin_mega_estimado_cop": 1361928909609.3777,
-        "n_procesos_mismo_mes_anio_ant": 7723,
-        "valor_sin_mega_mismo_mes_anio_ant_cop": 1704963666800.6606
+        "n_procesos_estimado": 7723.0,
+        "n_lo_80": 3922.474618898066,
+        "n_hi_80": 11523.525381101934,
+        "valor_sin_mega_estimado_cop": 487248471643.748,
+        "valor_lo_80": 71872343129.94092,
+        "valor_hi_80": 902624600157.555
       },
       {
         "periodo": "2027-01",
         "etiqueta": "Ene 2027",
-        "anio": 2027,
-        "mes": 1,
-        "n_procesos_estimado": 18052,
-        "valor_sin_mega_estimado_cop": 693956915268.4181,
-        "n_procesos_mismo_mes_anio_ant": 30298,
-        "valor_sin_mega_mismo_mes_anio_ant_cop": 768680178118.9609
+        "n_procesos_estimado": 30298.0,
+        "n_lo_80": 26387.291646056947,
+        "n_hi_80": 34208.70835394305,
+        "valor_sin_mega_estimado_cop": 248272464124.52426,
+        "valor_lo_80": 0.0,
+        "valor_hi_80": 675690974177.0692
       }
-    ],
-    "lectura": "En los próximos 6 meses, el patrón histórico apunta a más actividad en Ene 2027 (~18052 procesos) y menos en Dic 2026 (~7242). Valores en pesos constantes sin megacontratos (mejor proxy del mercado cotidiano).",
-    "para_empresa": [
-      "Decidir en qué meses reforzar vigilancia de SECOP y capacidad de propuesta.",
-      "Anticipar picos de competencia (más procesos = más oportunidades y más rivales).",
-      "Alinear cash-flow / equipos con meses históricamente más activos."
     ]
   },
   "para_empresa": {
@@ -167,9 +1692,9 @@
       {
         "id": "mercado",
         "nombre": "Capa 1 — Mercado (lo que pediste)",
-        "pregunta": "¿Cómo se comportará la contratación CTeI en los próximos meses?",
+        "pregunta": "¿Cómo se comportará la contratación CTeI en los próximos 6 meses?",
         "uso": "Planear: cuándo mirar SECOP, cuándo preparar equipos, en qué meses hay más procesos (y competencia).",
-        "como": "Proyección estacional sobre Cap.1 (nivel reciente × patrón del mes)."
+        "como": "Serie de tiempo: Estacional naïve (elegido por menor MAPE en backtest multi-ventana)."
       },
       {
         "id": "proceso",
@@ -282,17 +1807,17 @@
     {
       "titulo": "Sí usar",
       "items": [
-        "Outlook de mercado (estacionalidad) para planear los próximos meses.",
-        "Probabilidad de adjudicación en modalidades competitivas al evaluar un proceso concreto.",
-        "Rango presupuestal como filtro de magnitud (no como cifra exacta)."
+        "Forecast de volumen (procesos) con bandas para planear los próximos meses.",
+        "Desglose por segmento UNSPSC para enfocar oferta.",
+        "Modelo por proceso (competitivo) solo para priorizar una oportunidad concreta."
       ]
     },
     {
       "titulo": "No usar",
       "items": [
-        "El modelo por proceso como si fuera un forecast del mercado nacional.",
-        "Modelos entrenados solo con procesos ya resueltos para decidir en vivo.",
-        "Clasificar el sector solo con variables tabulares (casi no gana al atajo)."
+        "El punto central del forecast como cifra exacta de contratos.",
+        "SARIMA/ETS a ciegas si el backtest pierde frente al estacional (aquí se elige el mejor).",
+        "El modelo por proceso como si fuera el forecast del mercado nacional."
       ]
     }
   ],
@@ -305,5 +1830,5 @@
       "Cap.1–2 describen el pasado; Cap.3 proyecta ritmo cercano + triage de oportunidades; matching dice con quién presentarse."
     ]
   },
-  "nota_metodologica": "Outlook de mercado: proyección estacional (nivel de los últimos 12 meses × factor típico del mes), valores sin megacontratos. Modelos por proceso: corte 2025-07-01 (entrenar pasado / probar futuro). AUC: calidad de ranking (0.5 = azar). Artefactos en analisis/secop/salidas_capacidad3/modelos/."
+  "nota_metodologica": "Mercado: comparación estacional naïve / estacional×nivel / mediana / Holt-Winters(log) / SARIMA(log) con backtest en 3 ventanas de 6 meses; ganador actual = Estacional naïve. Bandas ~80%. Artefacto: data/processed/secop/capacidad3_forecast_ts.json. Proceso: modelos Cap.3 en analisis/secop/salidas_capacidad3/modelos/."
 }

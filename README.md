@@ -275,11 +275,13 @@ set PYTHONPATH=src
 python scripts/run_nlp_piloto.py --convocatorias 48,45,976
 python scripts/run_elegibilidad.py
 
-README.md (raíz):
 # Matching
 python scripts/run_match.py --convocatorias 45,48,976
 
-# Dashboard (API + UI) — usar Python 3.12 para los modelos Cap.3
+# Cap.3 — forecast de mercado (series de tiempo + backtest)
+py -3.12 scripts/build_capacidad3_forecast_ts.py
+
+# Dashboard (API + UI) — Python 3.12 para modelos Cap.3 por proceso
 set PYTHONPATH=src;backend
 py -3.12 -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 # otra terminal:
