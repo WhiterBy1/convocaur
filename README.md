@@ -275,12 +275,13 @@ set PYTHONPATH=src
 python scripts/run_nlp_piloto.py --convocatorias 48,45,976
 python scripts/run_elegibilidad.py
 
-# Matching (recalcular rankings)
+README.md (raíz):
+# Matching
 python scripts/run_match.py --convocatorias 45,48,976
 
-# Dashboard (API + UI)
+# Dashboard (API + UI) — usar Python 3.12 para los modelos Cap.3
 set PYTHONPATH=src;backend
-python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+py -3.12 -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 # otra terminal:
 cd frontend && npm install && npm run dev   # http://127.0.0.1:5173
 ```

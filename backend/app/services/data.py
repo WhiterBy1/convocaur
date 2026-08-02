@@ -17,9 +17,20 @@ MANIFEST = ROOT / "analisis" / "secop" / "salidas_capacidad3" / "modelos" / "man
 
 
 @lru_cache(maxsize=1)
+def _dashboard_mtime() -> float:
+    return DASHBOARD_JSON.stat().st_mtime if DASHBOARD_JSON.exists() else 0.0
+
+
 def load_dashboard() -> dict[str, Any]:
+    """Lee resumen_dashboard.json (cache invalidada si cambia el archivo)."""
     if not DASHBOARD_JSON.exists():
         return {"error": "Falta resumen_dashboard.json"}
+    mtime = DASHBOARD_JSON.stat().st_mtime
+    return _load_dashboard_cached(mtime)
+
+
+@lru_cache(maxsize=2)
+def _load_dashboard_cached(_mtime: float) -> dict[str, Any]:
     return json.loads(DASHBOARD_JSON.read_text(encoding="utf-8"))
 
 

@@ -1,0 +1,309 @@
+{
+  "titulo": "Predicción: cómo se mueve el mercado (y un proceso concreto)",
+  "subtitulo": "Primero: panorama de los próximos meses con el histórico SECOP. Después (opcional): modelo por proceso — útil al evaluar una oportunidad puntual.",
+  "outlook_mercado": {
+    "metodo": "estacionalidad + nivel reciente (últimos 12 meses)",
+    "honestidad": "No es un modelo de machine learning del mercado. Es una proyección razonable: ‘así suele moverse este mes’ × el ritmo reciente. Sirve para planear, no para cifrar contratos exactos.",
+    "ancla_hasta": "2026-07",
+    "horizonte_meses": 6,
+    "serie_combinada": [
+      {
+        "periodo": "2026-02",
+        "etiqueta": "Feb 2026",
+        "n_procesos": 7324,
+        "valor_sin_mega_cop": 368955040535.3002,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2026-03",
+        "etiqueta": "Mar 2026",
+        "n_procesos": 4639,
+        "valor_sin_mega_cop": 432627470914.3177,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2026-04",
+        "etiqueta": "Abr 2026",
+        "n_procesos": 2497,
+        "valor_sin_mega_cop": 787168858601.0514,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2026-05",
+        "etiqueta": "May 2026",
+        "n_procesos": 4115,
+        "valor_sin_mega_cop": 360311465760.572,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2026-06",
+        "etiqueta": "Jun 2026",
+        "n_procesos": 5730,
+        "valor_sin_mega_cop": 589349866084.0,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2026-07",
+        "etiqueta": "Jul 2026",
+        "n_procesos": 7713,
+        "valor_sin_mega_cop": 269783579330.0,
+        "tipo": "observado"
+      },
+      {
+        "periodo": "2026-08",
+        "etiqueta": "Ago 2026",
+        "n_procesos": 8985,
+        "valor_sin_mega_cop": 1013070840080.9147,
+        "tipo": "proyeccion"
+      },
+      {
+        "periodo": "2026-09",
+        "etiqueta": "Sep 2026",
+        "n_procesos": 8876,
+        "valor_sin_mega_cop": 933511468842.9457,
+        "tipo": "proyeccion"
+      },
+      {
+        "periodo": "2026-10",
+        "etiqueta": "Oct 2026",
+        "n_procesos": 9304,
+        "valor_sin_mega_cop": 1013855753950.7285,
+        "tipo": "proyeccion"
+      },
+      {
+        "periodo": "2026-11",
+        "etiqueta": "Nov 2026",
+        "n_procesos": 9260,
+        "valor_sin_mega_cop": 1304877326476.0464,
+        "tipo": "proyeccion"
+      },
+      {
+        "periodo": "2026-12",
+        "etiqueta": "Dic 2026",
+        "n_procesos": 7242,
+        "valor_sin_mega_cop": 1361928909609.3777,
+        "tipo": "proyeccion"
+      },
+      {
+        "periodo": "2027-01",
+        "etiqueta": "Ene 2027",
+        "n_procesos": 18052,
+        "valor_sin_mega_cop": 693956915268.4181,
+        "tipo": "proyeccion"
+      }
+    ],
+    "proximos_meses": [
+      {
+        "periodo": "2026-08",
+        "etiqueta": "Ago 2026",
+        "anio": 2026,
+        "mes": 8,
+        "n_procesos_estimado": 8985,
+        "valor_sin_mega_estimado_cop": 1013070840080.9147,
+        "n_procesos_mismo_mes_anio_ant": 8814,
+        "valor_sin_mega_mismo_mes_anio_ant_cop": 1545312191381.3135
+      },
+      {
+        "periodo": "2026-09",
+        "etiqueta": "Sep 2026",
+        "anio": 2026,
+        "mes": 9,
+        "n_procesos_estimado": 8876,
+        "valor_sin_mega_estimado_cop": 933511468842.9457,
+        "n_procesos_mismo_mes_anio_ant": 9680,
+        "valor_sin_mega_mismo_mes_anio_ant_cop": 1045760656527.4127
+      },
+      {
+        "periodo": "2026-10",
+        "etiqueta": "Oct 2026",
+        "anio": 2026,
+        "mes": 10,
+        "n_procesos_estimado": 9304,
+        "valor_sin_mega_estimado_cop": 1013855753950.7285,
+        "n_procesos_mismo_mes_anio_ant": 10638,
+        "valor_sin_mega_mismo_mes_anio_ant_cop": 1138394580380.2146
+      },
+      {
+        "periodo": "2026-11",
+        "etiqueta": "Nov 2026",
+        "anio": 2026,
+        "mes": 11,
+        "n_procesos_estimado": 9260,
+        "valor_sin_mega_estimado_cop": 1304877326476.0464,
+        "n_procesos_mismo_mes_anio_ant": 9920,
+        "valor_sin_mega_mismo_mes_anio_ant_cop": 1441808718757.4736
+      },
+      {
+        "periodo": "2026-12",
+        "etiqueta": "Dic 2026",
+        "anio": 2026,
+        "mes": 12,
+        "n_procesos_estimado": 7242,
+        "valor_sin_mega_estimado_cop": 1361928909609.3777,
+        "n_procesos_mismo_mes_anio_ant": 7723,
+        "valor_sin_mega_mismo_mes_anio_ant_cop": 1704963666800.6606
+      },
+      {
+        "periodo": "2027-01",
+        "etiqueta": "Ene 2027",
+        "anio": 2027,
+        "mes": 1,
+        "n_procesos_estimado": 18052,
+        "valor_sin_mega_estimado_cop": 693956915268.4181,
+        "n_procesos_mismo_mes_anio_ant": 30298,
+        "valor_sin_mega_mismo_mes_anio_ant_cop": 768680178118.9609
+      }
+    ],
+    "lectura": "En los próximos 6 meses, el patrón histórico apunta a más actividad en Ene 2027 (~18052 procesos) y menos en Dic 2026 (~7242). Valores en pesos constantes sin megacontratos (mejor proxy del mercado cotidiano).",
+    "para_empresa": [
+      "Decidir en qué meses reforzar vigilancia de SECOP y capacidad de propuesta.",
+      "Anticipar picos de competencia (más procesos = más oportunidades y más rivales).",
+      "Alinear cash-flow / equipos con meses históricamente más activos."
+    ]
+  },
+  "para_empresa": {
+    "titulo": "¿Para qué le sirve esto a una empresa o a Rosario?",
+    "capas": [
+      {
+        "id": "mercado",
+        "nombre": "Capa 1 — Mercado (lo que pediste)",
+        "pregunta": "¿Cómo se comportará la contratación CTeI en los próximos meses?",
+        "uso": "Planear: cuándo mirar SECOP, cuándo preparar equipos, en qué meses hay más procesos (y competencia).",
+        "como": "Proyección estacional sobre Cap.1 (nivel reciente × patrón del mes)."
+      },
+      {
+        "id": "proceso",
+        "nombre": "Capa 2 — Proceso (herramienta secundaria)",
+        "pregunta": "Si aparece / publicamos ESTE proceso, ¿qué dice el histórico de casos parecidos?",
+        "uso": "Bid/no-bid: priorizar follow-up de licitaciones competitivas con mayor chance de adjudicación y filtrar por rango de presupuesto.",
+        "como": "Modelos ML entrenados en ~70k procesos competitivos (no predicen el mercado entero)."
+      }
+    ]
+  },
+  "kpis": {
+    "auc_adjudicacion": 0.811,
+    "auc_pct": 81.1,
+    "n_competitivos": 69671,
+    "tasa_adjudicacion": 0.5530421552726386,
+    "fecha_corte": "2025-07-01",
+    "modelo_recomendado": "LightGBM (solo modalidades competitivas)"
+  },
+  "universo": {
+    "n_competitivos": 69671,
+    "tasa_adjudicacion": 0.5530421552726386,
+    "n_resueltos": 43566,
+    "n_abiertos": 26105,
+    "lectura": "Solo ~15% de los procesos CTeI son de modalidad competitiva. En contratación directa/especial casi nunca aparece “adjudicado” en los datos, así que el modelo útil se entrena solo en el universo competitivo."
+  },
+  "pregunta_adjudicacion": {
+    "pregunta": "¿Se adjudicará este proceso competitivo?",
+    "usar": true,
+    "metrica_nombre": "Capacidad de distinguir sí/no",
+    "metrica_valor": 81.1,
+    "metrica_guia": "50% = azar · 80%+ = muy útil",
+    "accuracy_pct": 75.4,
+    "modelo": "LightGBM",
+    "n_train": 51813,
+    "n_test": 17562,
+    "lectura": "El modelo acierta el orden de probabilidad con AUC 81%: mejor que el azar y usable al momento de publicar el proceso (sin mirar el resultado futuro)."
+  },
+  "pregunta_adjudicacion_mala": {
+    "pregunta": "¿Y si solo miramos procesos ya cerrados?",
+    "usar": false,
+    "metrica_valor": 60.9,
+    "modelo": "Regresión logística",
+    "lectura": "AUC 61% — parece decente en aciertos brutos, pero engaña: no sirve para decidir en vivo. No usar este enfoque en producción."
+  },
+  "pregunta_presupuesto": {
+    "pregunta": "¿En qué rango de presupuesto caerá el proceso?",
+    "usar": true,
+    "acc_modelo_pct": 61.3,
+    "acc_trivial_pct": 27.7,
+    "f1_macro": 0.591,
+    "bins": [
+      "Bajo (Q1)",
+      "Medio-bajo (Q2)",
+      "Medio-alto (Q3)",
+      "Alto (Q4)"
+    ],
+    "lectura": "El modelo acierta el rango ~61% de las veces, frente a ~28% si siempre se elige la categoría más común. Útil como brújula de magnitud, no como cifra exacta."
+  },
+  "pregunta_segmento": {
+    "pregunta": "¿Será educación, gestión o investigación/tecnología?",
+    "usar": false,
+    "acc_modelo_pct": 68.4,
+    "acc_trivial_pct": 62.5,
+    "clases": [
+      "Gestión / profesionales (80)",
+      "Ingeniería / investigación (81)",
+      "Educación / capacitación (86)"
+    ],
+    "lectura": "El modelo (68%) apenas supera al atajo trivial (62%). Con tablas solas no alcanza: el siguiente paso es leer el objeto del contrato con lenguaje (embeddings)."
+  },
+  "comparativo": [
+    {
+      "id": "adj",
+      "tarea": "¿Se adjudica? (competitivo)",
+      "etiqueta_metrica": "Calidad del ranking (AUC)",
+      "valor_pct": 81.1,
+      "baseline_pct": 50.0,
+      "baseline_nombre": "Azar",
+      "usar": true
+    },
+    {
+      "id": "adj_malo",
+      "tarea": "¿Se adjudica? (solo cerrados)",
+      "etiqueta_metrica": "Calidad del ranking (AUC)",
+      "valor_pct": 60.9,
+      "baseline_pct": 50.0,
+      "baseline_nombre": "Azar",
+      "usar": false
+    },
+    {
+      "id": "pres",
+      "tarea": "Rango de presupuesto",
+      "etiqueta_metrica": "% de aciertos",
+      "valor_pct": 61.3,
+      "baseline_pct": 27.7,
+      "baseline_nombre": "Siempre lo más común",
+      "usar": true
+    },
+    {
+      "id": "seg",
+      "tarea": "Tipo de sector",
+      "etiqueta_metrica": "% de aciertos",
+      "valor_pct": 68.4,
+      "baseline_pct": 62.5,
+      "baseline_nombre": "Siempre lo más común",
+      "usar": false
+    }
+  ],
+  "reglas_uso": [
+    {
+      "titulo": "Sí usar",
+      "items": [
+        "Outlook de mercado (estacionalidad) para planear los próximos meses.",
+        "Probabilidad de adjudicación en modalidades competitivas al evaluar un proceso concreto.",
+        "Rango presupuestal como filtro de magnitud (no como cifra exacta)."
+      ]
+    },
+    {
+      "titulo": "No usar",
+      "items": [
+        "El modelo por proceso como si fuera un forecast del mercado nacional.",
+        "Modelos entrenados solo con procesos ya resueltos para decidir en vivo.",
+        "Clasificar el sector solo con variables tabulares (casi no gana al atajo)."
+      ]
+    }
+  ],
+  "cierre_rosario": {
+    "titulo": "Qué implica para la Universidad del Rosario",
+    "puntos": [
+      "Usar el outlook de meses para concentrar vigilancia SECOP cuando el mercado se anima.",
+      "Ante un proceso competitivo concreto, el modelo ML ayuda a priorizar follow-up (chance de adjudicación + rango de monto).",
+      "Para encajar facultades y grupos con el tema, el matching Minciencias ↔ docentes sigue siendo la pieza correcta.",
+      "Cap.1–2 describen el pasado; Cap.3 proyecta ritmo cercano + triage de oportunidades; matching dice con quién presentarse."
+    ]
+  },
+  "nota_metodologica": "Outlook de mercado: proyección estacional (nivel de los últimos 12 meses × factor típico del mes), valores sin megacontratos. Modelos por proceso: corte 2025-07-01 (entrenar pasado / probar futuro). AUC: calidad de ranking (0.5 = azar). Artefactos en analisis/secop/salidas_capacidad3/modelos/."
+}
