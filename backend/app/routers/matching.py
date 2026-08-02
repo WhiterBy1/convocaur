@@ -111,6 +111,9 @@ def detalle_convocatoria(conv_id: str) -> dict:
 
 @router.get("/convocatorias/{conv_id}/ranking")
 def ranking(conv_id: str, top: int = 15) -> dict:
+    from convocaur.matching.corpus import texto_convocatoria, texto_docente
+    from convocaur.paths import JSON_PROFESORES, PROC_NLP
+
     if not conv_id.startswith("convocatoria_"):
         conv_id = f"convocatoria_{conv_id}"
     path = PROC_MATCHING / f"ranking_{conv_id}.csv"
@@ -125,16 +128,44 @@ def ranking(conv_id: str, top: int = 15) -> dict:
     if top > 0:
         df = df.head(top)
     records = json.loads(df.to_json(orient="records", force_ascii=False))
+
+    texto_conv = ""
+    nlp_path = PROC_NLP / f"{conv_id}_nlp.json"
+    if nlp_path.exists():
+        nlp = _load_json(nlp_path)
+        texto_conv = texto_convocatoria(nlp)
+
+    textos_doc: dict[str, str] = {}
     for r in records:
         r["caracteristicas"] = boost_detalle(r)
+        pid = str(r.get("id") or "")
+        if not pid:
+            continue
+        ppath = JSON_PROFESORES / f"{pid}.json"
+        if ppath.exists():
+            try:
+                doc = _load_json(ppath)
+                if not doc.get("id"):
+                    doc["id"] = pid
+                textos_doc[pid] = texto_docente(doc)
+            except Exception:
+                textos_doc[pid] = ""
 
     numero = conv_id.replace("convocatoria_", "")
+    grafo = build_grafo(
+        conv_id,
+        numero,
+        records,
+        texto_conv=texto_conv,
+        textos_docente=textos_doc,
+    )
+    # sincronizar términos en rows (build_grafo los escribe en records)
     return {
         "convocatoria": conv_id,
         "n": len(records),
         "n_pool": full_n,
         "rows": records,
-        "grafo": build_grafo(conv_id, numero, records),
+        "grafo": grafo,
     }
 
 

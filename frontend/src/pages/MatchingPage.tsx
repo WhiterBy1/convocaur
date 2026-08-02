@@ -1,15 +1,6 @@
 import { motion } from "framer-motion";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import {
-  Bar,
-  BarChart,
-  CartesianGrid,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from "recharts";
-import { MatchGraph } from "../components/MatchGraph";
+import { MatchTree } from "../components/MatchTree";
 import { api, apiPost, pollJob, type JobStatus } from "../lib/api";
 
 type ConvItem = {
@@ -35,6 +26,13 @@ type Summary = {
   convocatorias: ConvItem[];
 };
 
+type TerminoClave = {
+  term: string;
+  peso: number;
+  evidencia_docente?: string | null;
+  evidencia_convocatoria?: string | null;
+};
+
 type RankingPayload = {
   convocatoria: string;
   n: number;
@@ -49,29 +47,61 @@ type RankingPayload = {
     boost: number;
     rank: number;
     caracteristicas: { id: string; label: string; aporte: number; tipo: string }[];
+    terminos_clave?: TerminoClave[];
   }[];
-  grafo: {
-    nodes: {
-      id: string;
-      kind: string;
-      label: string;
-      score?: number;
-      rank?: number;
-      aporte?: number;
-    }[];
-    links: { source: string; target: string; score?: number; kind?: string }[];
-  };
 };
 
 type ConvDetail = {
   id: string;
   tiene_ranking?: boolean;
   texto_matching: string;
-  nlp: { objetivo?: string; alianza_obligatoria?: boolean };
-  elegibilidad_urosario?: { puede_postularse?: boolean; modo?: string };
+  nlp: {
+    objetivo?: string;
+    alianza_obligatoria?: boolean;
+    actores_elegibles?: unknown[];
+    lineas_tematicas?: unknown[];
+    requisitos?: unknown[];
+    criterios_evaluacion?: unknown[];
+    financiacion?: string | Record<string, unknown>;
+  };
+  elegibilidad_urosario?: {
+    puede_postularse?: boolean;
+    modo?: string;
+    rol_sugerido?: string | null;
+    bloqueantes?: unknown[];
+    condiciones_a_verificar?: unknown[];
+    resumen?: string;
+    fuente?: string;
+  };
 };
 
 type FilterMode = "todas" | "con_ranking" | "sin_ranking" | "elegibles";
+
+function asText(v: unknown): string {
+  if (v == null) return "";
+  if (typeof v === "string") return v;
+  if (typeof v === "number" || typeof v === "boolean") return String(v);
+  if (Array.isArray(v)) return v.map(asText).filter(Boolean).join(" · ");
+  if (typeof v === "object") {
+    const o = v as Record<string, unknown>;
+    return (
+      asText(o.texto) ||
+      asText(o.nombre) ||
+      asText(o.descripcion_corta) ||
+      asText(o.descripcion) ||
+      asText(o.condicion) ||
+      asText(o.tipo) ||
+      asText(o.rol) ||
+      JSON.stringify(o)
+    );
+  }
+  return String(v);
+}
+
+function asTextList(items: unknown[] | undefined, max = 8): string[] {
+  if (!items?.length) return [];
+  return items.map(asText).filter(Boolean).slice(0, max);
+}
 
 export function MatchingPage() {
   const [summary, setSummary] = useState<Summary | null>(null);
@@ -206,20 +236,6 @@ export function MatchingPage() {
       setJobMsg(null);
     }
   };
-
-  const activeRow = useMemo(
-    () => ranking?.rows.find((r) => r.id === activeProf) ?? ranking?.rows[0],
-    [ranking, activeProf]
-  );
-
-  const scoreBars = useMemo(() => {
-    if (!activeRow) return [];
-    return [
-      { name: "Emb ×0.7", aporte: +(0.7 * activeRow.score_emb).toFixed(3) },
-      { name: "TF-IDF ×0.3", aporte: +(0.3 * activeRow.score_tfidf).toFixed(3) },
-      { name: "Boost", aporte: +activeRow.boost.toFixed(3) },
-    ];
-  }, [activeRow]);
 
   const selectedMeta = filtered.find((c) => c.id === selected) ||
     summary?.convocatorias.find((c) => c.id === selected);
@@ -363,8 +379,8 @@ export function MatchingPage() {
           </h3>
           <p className="note">
             {detail.nlp.objetivo
-              ? detail.nlp.objetivo.slice(0, 280) +
-                (detail.nlp.objetivo.length > 280 ? "…" : "")
+              ? detail.nlp.objetivo.slice(0, 420) +
+                (detail.nlp.objetivo.length > 420 ? "…" : "")
               : "Sin objetivo NLP"}
           </p>
           <div className="grid-3">
@@ -379,7 +395,7 @@ export function MatchingPage() {
               </div>
             </div>
             <div className="kpi">
-              <div className="label">Elegibilidad</div>
+              <div className="label">¿Rosario puede postular?</div>
               <div className="value" style={{ fontSize: "1.3rem" }}>
                 {detail.elegibilidad_urosario?.puede_postularse === true
                   ? "Sí"
@@ -390,15 +406,104 @@ export function MatchingPage() {
               <div className="hint">{detail.elegibilidad_urosario?.modo || ""}</div>
             </div>
             <div className="kpi">
-              <div className="label">Ranking</div>
+              <div className="label">Ranking docentes</div>
               <div className="value" style={{ fontSize: "1.3rem" }}>
                 {detail.tiene_ranking ? "Listo" : "Pendiente"}
               </div>
               <div className="hint">
-                {ranking ? `pool ${ranking.n_pool}` : "calcular para ver grafo"}
+                {ranking ? `pool ${ranking.n_pool}` : "calcular para ver árbol"}
               </div>
             </div>
           </div>
+
+          <div className="grid-2" style={{ marginTop: "0.85rem" }}>
+            <div>
+              <h4 style={{ margin: "0 0 0.35rem", color: "var(--gold)" }}>Quiénes pueden aplicar</h4>
+              {asTextList(detail.nlp.actores_elegibles).length > 0 ? (
+                <ul className="rosario-list">
+                  {asTextList(detail.nlp.actores_elegibles).map((a) => (
+                    <li key={a}>{a}</li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="note">Sin actores elegibles extraídos.</p>
+              )}
+              {asTextList(detail.nlp.lineas_tematicas).length > 0 && (
+                <>
+                  <h4 style={{ margin: "0.75rem 0 0.35rem", color: "var(--gold)" }}>
+                    Líneas temáticas
+                  </h4>
+                  <ul className="rosario-list">
+                    {asTextList(detail.nlp.lineas_tematicas, 6).map((l) => (
+                      <li key={l}>{l}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+            </div>
+            <div>
+              <h4 style={{ margin: "0 0 0.35rem", color: "var(--gold)" }}>Requisitos clave</h4>
+              {asTextList(detail.nlp.requisitos, 6).length > 0 ? (
+                <ul className="rosario-list">
+                  {asTextList(detail.nlp.requisitos, 6).map((r) => (
+                    <li key={r}>{r}</li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="note">Sin requisitos listados en NLP.</p>
+              )}
+            </div>
+          </div>
+
+          {detail.elegibilidad_urosario && (
+            <div
+              className={`eleg-box ${
+                detail.elegibilidad_urosario.puede_postularse ? "eleg-ok" : "eleg-no"
+              }`}
+            >
+              <h4>
+                {detail.elegibilidad_urosario.puede_postularse
+                  ? "Rosario sí encaja como proponente"
+                  : "Por qué Rosario no podría postularse"}
+              </h4>
+              <p>
+                {detail.elegibilidad_urosario.resumen ||
+                  (detail.elegibilidad_urosario.puede_postularse
+                    ? "El veredicto de elegibilidad es positivo."
+                    : "No hay resumen; revisa actores elegibles y bloqueantes.")}
+              </p>
+              {asTextList(detail.elegibilidad_urosario.bloqueantes).length > 0 && (
+                <>
+                  <p className="note" style={{ marginBottom: "0.35rem" }}>
+                    Bloqueantes detectados
+                  </p>
+                  <ul className="rosario-list">
+                    {asTextList(detail.elegibilidad_urosario.bloqueantes).map((b) => (
+                      <li key={b}>{b}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+              {asTextList(detail.elegibilidad_urosario.condiciones_a_verificar).length > 0 && (
+                <>
+                  <p className="note" style={{ margin: "0.55rem 0 0.35rem" }}>
+                    Condiciones a verificar
+                  </p>
+                  <ul className="rosario-list">
+                    {asTextList(detail.elegibilidad_urosario.condiciones_a_verificar).map((c) => (
+                      <li key={c}>{c}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+              {detail.elegibilidad_urosario.rol_sugerido && (
+                <p className="note" style={{ marginTop: "0.5rem" }}>
+                  Rol sugerido: {asText(detail.elegibilidad_urosario.rol_sugerido)}
+                </p>
+              )}
+            </div>
+          )}
+
           {!detail.tiene_ranking && (
             <button
               className="btn btn-primary"
@@ -413,71 +518,14 @@ export function MatchingPage() {
       )}
 
       {ranking && (
-        <div className="grid-2">
-          <div>
-            <MatchGraph
-              grafo={ranking.grafo}
-              activeId={activeProf}
-              onSelect={(id) => {
-                if (ranking.rows.some((r) => r.id === id)) setActiveProf(id);
-              }}
-            />
-          </div>
-          <div className="panel">
-            <h3>{activeRow?.nombre || activeRow?.id || "Docente"}</h3>
-            <p className="note">{activeRow?.facultad}</p>
-            <div className="kpi">
-              <div className="label">Score final</div>
-              <div className="value">{activeRow?.score_final.toFixed(3)}</div>
-              <div className="hint">rank #{activeRow?.rank}</div>
-            </div>
-            <div className="chart-wrap" style={{ height: 200 }}>
-              <ResponsiveContainer>
-                <BarChart data={scoreBars}>
-                  <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                  <XAxis dataKey="name" stroke="#8fa89a" />
-                  <YAxis stroke="#8fa89a" />
-                  <Tooltip />
-                  <Bar dataKey="aporte" fill="#c4a35a" radius={[8, 8, 0, 0]} animationDuration={700} />
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-            <ul className="detail-list" style={{ marginTop: "0.75rem" }}>
-              {(activeRow?.caracteristicas || [])
-                .filter((c) => c.aporte > 0 || c.tipo === "contexto")
-                .slice(0, 6)
-                .map((c) => (
-                  <li key={c.id}>
-                    <span>{c.label}</span>
-                    <strong>{c.aporte > 0 ? `+${c.aporte.toFixed(3)}` : "—"}</strong>
-                  </li>
-                ))}
-            </ul>
-          </div>
-        </div>
-      )}
-
-      {ranking && (
-        <div className="panel" style={{ marginTop: "1rem" }}>
-          <h3>Top ranking</h3>
-          <ul className="detail-list">
-            {ranking.rows.map((r) => (
-              <li
-                key={r.id}
-                style={{
-                  cursor: "pointer",
-                  outline: r.id === activeProf ? "1px solid #c4a35a" : undefined,
-                }}
-                onClick={() => setActiveProf(r.id)}
-              >
-                <span>
-                  #{r.rank} {r.nombre || r.id}
-                </span>
-                <strong>{r.score_final.toFixed(3)}</strong>
-                <span className="sub">{r.facultad}</span>
-              </li>
-            ))}
-          </ul>
+        <div style={{ marginBottom: "1rem" }}>
+          <MatchTree
+            convocatoriaLabel={`Conv. ${detail?.id.replace("convocatoria_", "") || selected.replace("convocatoria_", "")}`}
+            objetivo={detail?.nlp.objetivo}
+            rows={ranking.rows}
+            activeId={activeProf}
+            onSelect={setActiveProf}
+          />
         </div>
       )}
     </section>

@@ -1,42 +1,12 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import {
-  CartesianGrid,
-  Legend,
-  Line,
-  LineChart,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from "recharts";
 import { Cap3PredictDemo } from "./Cap3PredictDemo";
-import { formatCop } from "../lib/format";
+import { Cap3MarketForecast, type OutlookMercado } from "./Cap3MarketForecast";
 
 export type Capacidad3 = {
   titulo: string;
   subtitulo?: string;
-  outlook_mercado?: {
-    metodo?: string;
-    honestidad?: string;
-    ancla_hasta?: string;
-    horizonte_meses?: number;
-    lectura?: string;
-    para_empresa?: string[];
-    serie_combinada?: {
-      periodo: string;
-      etiqueta?: string;
-      n_procesos: number;
-      valor_sin_mega_cop: number;
-      tipo: "observado" | "proyeccion";
-    }[];
-    proximos_meses?: {
-      periodo: string;
-      etiqueta: string;
-      n_procesos_estimado: number;
-      valor_sin_mega_estimado_cop: number;
-    }[];
-  };
+  outlook_mercado?: OutlookMercado;
   para_empresa?: {
     titulo: string;
     capas: {
@@ -154,12 +124,6 @@ export function Cap3Panel({ data }: Props) {
   const [showProceso, setShowProceso] = useState(false);
   const k = data.kpis;
   const outlook = data.outlook_mercado;
-  const serie = (outlook?.serie_combinada || []).map((r) => ({
-    ...r,
-    label: r.etiqueta || r.periodo,
-    n_obs: r.tipo === "observado" ? r.n_procesos : null,
-    n_proy: r.tipo === "proyeccion" ? r.n_procesos : null,
-  }));
 
   const cards: PredCard[] = [];
   if (data.pregunta_adjudicacion) {
@@ -223,18 +187,13 @@ export function Cap3Panel({ data }: Props) {
     });
   }
 
-  const prox = outlook?.proximos_meses || [];
-  const pico = prox.length
-    ? prox.reduce((a, b) => (b.n_procesos_estimado > a.n_procesos_estimado ? b : a))
-    : null;
-
   return (
     <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
       <div className="panel" style={{ marginBottom: "1rem" }}>
         <h3>{data.titulo || "Predicción"}</h3>
         <p className="note">
           {data.subtitulo ||
-            "Primero el ritmo del mercado; después (opcional) un proceso concreto."}
+            "Forecast del mercado con series de tiempo; el modelo por proceso es opcional."}
         </p>
       </div>
 
@@ -263,98 +222,7 @@ export function Cap3Panel({ data }: Props) {
         </div>
       )}
 
-      {outlook && serie.length > 0 && (
-        <div className="panel" style={{ marginBottom: "1rem" }}>
-          <h3>Próximos meses: ritmo esperado del mercado CTeI</h3>
-          <p className="note">{outlook.lectura}</p>
-          {pico && (
-            <div className="grid-3" style={{ margin: "0.85rem 0" }}>
-              <div className="kpi">
-                <div className="label">Mes más activo (proyección)</div>
-                <div className="value" style={{ fontSize: "1.25rem" }}>
-                  {pico.etiqueta}
-                </div>
-                <div className="hint">
-                  ~{pico.n_procesos_estimado.toLocaleString("es-CO")} procesos
-                </div>
-              </div>
-              <div className="kpi">
-                <div className="label">Valor típico ese mes</div>
-                <div className="value" style={{ fontSize: "1.25rem" }}>
-                  {formatCop(pico.valor_sin_mega_estimado_cop)}
-                </div>
-                <div className="hint">sin megacontratos · pesos constantes</div>
-              </div>
-              <div className="kpi">
-                <div className="label">Método</div>
-                <div className="value" style={{ fontSize: "1.05rem" }}>
-                  Estacionalidad
-                </div>
-                <div className="hint">
-                  ancla hasta {outlook.ancla_hasta || "—"} · no es ML del mercado
-                </div>
-              </div>
-            </div>
-          )}
-
-          <div style={{ width: "100%", height: 280 }}>
-            <ResponsiveContainer>
-              <LineChart data={serie}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(238,245,240,0.08)" />
-                <XAxis dataKey="label" tick={{ fill: "#9aada2", fontSize: 11 }} />
-                <YAxis
-                  tick={{ fill: "#9aada2", fontSize: 11 }}
-                  tickFormatter={(v) => Number(v).toLocaleString("es-CO")}
-                />
-                <Tooltip
-                  contentStyle={{
-                    background: "#12201a",
-                    border: "1px solid rgba(196,163,90,0.3)",
-                    borderRadius: 10,
-                  }}
-                  formatter={(value: number, name: string) => [
-                    Number(value).toLocaleString("es-CO"),
-                    name,
-                  ]}
-                />
-                <Legend />
-                <Line
-                  type="monotone"
-                  dataKey="n_obs"
-                  name="Observado"
-                  stroke="#c4a35a"
-                  strokeWidth={2.5}
-                  connectNulls={false}
-                  dot={{ r: 3 }}
-                />
-                <Line
-                  type="monotone"
-                  dataKey="n_proy"
-                  name="Proyección"
-                  stroke="#5ec4a8"
-                  strokeWidth={2.5}
-                  strokeDasharray="6 4"
-                  connectNulls={false}
-                  dot={{ r: 3 }}
-                />
-              </LineChart>
-            </ResponsiveContainer>
-          </div>
-
-          {outlook.para_empresa && (
-            <ul className="rosario-list" style={{ marginTop: "0.75rem" }}>
-              {outlook.para_empresa.map((it) => (
-                <li key={it}>{it}</li>
-              ))}
-            </ul>
-          )}
-          {outlook.honestidad && (
-            <p className="note" style={{ marginTop: "0.75rem" }}>
-              {outlook.honestidad}
-            </p>
-          )}
-        </div>
-      )}
+      {outlook && <Cap3MarketForecast outlook={outlook} />}
 
       <div className="panel" style={{ marginBottom: "1rem" }}>
         <div
@@ -372,8 +240,7 @@ export function Cap3Panel({ data }: Props) {
             </h3>
             <p className="note" style={{ margin: 0 }}>
               No predice el mercado. Sirve cuando ya tienes (o publicas) un proceso
-              competitivo y quieres priorizar: ¿vale la pena seguirlo? ¿en qué rango de
-              monto suele caer?
+              competitivo y quieres priorizar: ¿vale la pena seguirlo?
             </p>
           </div>
           <button type="button" className="tab" onClick={() => setShowProceso((v) => !v)}>
