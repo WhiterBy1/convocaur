@@ -1,16 +1,16 @@
 id,facultad,tiene_cvlac,categoria_cvlac,n_areas_investigacion,n_publicaciones,coincidencias,n_coincidencias,score
-juan-manuel-roberto-posada-hostettler,Escuela de Ciencias e Ingeniería,True,Investigador Senior,5,48,"['ecológica', 'gestión', 'investigación', 'restauración']",4,6
-juan-alberto-castillo-martinez,Escuela de Medicina y Ciencias de la Salud,True,Investigador Senior,2,78,"['conocimiento', 'desarrollo', 'sistemas']",3,5
-nicola-clerici,Escuela de Ciencias e Ingeniería,True,Investigador Asociado,5,76,"['monitoreo', 'servicios']",2,4
-juan-miguel-gallego-acevedo,Vicerrectoría de Investigación,True,Investigador Senior,3,59,"['conocimiento', 'desarrollo']",2,4
-amparo-susana-mogollon-perez,Escuela de Medicina y Ciencias de la Salud,True,Investigador Senior,6,67,"['gestión', 'servicios']",2,4
+pedro-mario-wightman-rojas,Escuela de Ciencias e Ingeniería,True,Investigador Senior,8,50,"['colombia', 'desarrollo', 'productiva']",3,5
+jose-mauricio-sanabria-rangel,Escuela de Administración,True,Investigador Asociado,5,20,"['colombia', 'investigación', 'productiva']",3,5
 diana-rocio-bernal-camargo,Facultad de Jurisprudencia,True,Investigador Senior,4,38,"['desarrollo', 'investigación']",2,4
-andre-josafat-riveros-rivera,Escuela de Ciencias e Ingeniería,True,Investigador Senior,5,42,"['capacidades', 'sistemas']",2,4
-lizeth-fernanda-serrano-cardenas,Escuela de Administración,True,Investigador Asociado,5,16,"['conocimiento', 'gestión']",2,4
-pedro-mario-wightman-rojas,Escuela de Ciencias e Ingeniería,True,Investigador Senior,8,50,"['desarrollo', 'sistemas']",2,4
-rocio-del-pilar-pena-huertas,Facultad de Jurisprudencia,True,Investigador Senior,3,47,"['fortalecimiento', 'sistemas']",2,4
-luis-antonio-orozco-castro,Escuela de Administración,True,Investigador Senior,5,6,"['gestión', 'investigación']",2,4
 clara-ines-pardo-martinez,Escuela de Administración,True,Investigador Senior,5,65,"['desarrollo', 'sostenible']",2,4
 lina-marcela-munoz-avila,Facultad de Jurisprudencia,True,Investigador Asociado,3,38,"['desarrollo', 'sostenible']",2,4
-vanessa-andrea-suelt-cock,Facultad de Jurisprudencia,True,Investigador Asociado,5,18,"['desarrollo', 'gestión']",2,4
-eugenio-ferro-rodriguez,Escuela de Medicina y Ciencias de la Salud,True,Investigador Senior,6,0,['investigación'],1,3
+juan-alberto-castillo-martinez,Escuela de Medicina y Ciencias de la Salud,True,Investigador Senior,2,78,"['conocimiento', 'desarrollo']",2,4
+juan-miguel-gallego-acevedo,Vicerrectoría de Investigación,True,Investigador Senior,3,59,"['conocimiento', 'desarrollo']",2,4
+angela-del-pilar-santamaria-chavarro,Vicerrectoría Académica,True,Investigador Senior,4,47,"['colombia', 'investigación']",2,4
+luis-hernando-gutierrez-ramirez,Facultad de Economía,True,Investigador Asociado,4,48,['servicios'],1,3
+juana-laura-victoria-garcia-matamoros,Facultad de Jurisprudencia,True,Investigador Asociado,3,45,['desarrollo'],1,3
+ana-isabel-gomez-cordoba,Facultad de Jurisprudencia,True,Investigador Asociado,5,65,['investigación'],1,3
+yann-basset,"Escuela de Estudios Sociales, Políticos e Internacionales",True,Investigador Senior,5,33,['colombia'],1,3
+fernando-carriazo-osorio,"Escuela de Estudios Sociales, Políticos e Internacionales",True,Investigador Junior,3,17,"['desarrollo', 'territoriales']",2,3
+juan-pablo-aschner-rosselli,Facultad de Creación,True,,4,29,"['colombia', 'investigación']",2,3
+patricia-acosta-restrepo,"Escuela de Estudios Sociales, Políticos e Internacionales",True,,5,9,"['desarrollo', 'territoriales']",2,3
