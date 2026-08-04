@@ -98,6 +98,10 @@ def matching_summary() -> dict:
         try:
             nlp = json.loads(f.read_text(encoding="utf-8"))
             objetivo = (nlp.get("objetivo") or "").strip()
+            if puede is None and isinstance(nlp.get("elegibilidad_urosario"), dict):
+                vf = nlp["elegibilidad_urosario"].get("veredicto_final") or nlp["elegibilidad_urosario"]
+                puede = vf.get("puede_postularse")
+                modo = modo or vf.get("modo")
         except Exception:
             pass
 

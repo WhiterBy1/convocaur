@@ -91,6 +91,9 @@ def detalle_convocatoria(conv_id: str) -> dict:
     if eleg_path.exists():
         eleg_raw = _load_json(eleg_path)
         eleg = eleg_raw.get("veredicto_final") or eleg_raw
+    elif isinstance(nlp.get("elegibilidad_urosario"), dict):
+        eleg_raw = nlp["elegibilidad_urosario"]
+        eleg = eleg_raw.get("veredicto_final") or eleg_raw
 
     return {
         "id": conv_id,

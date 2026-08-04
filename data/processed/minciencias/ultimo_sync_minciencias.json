@@ -1,37 +1,63 @@
 {
   "ok": true,
-  "fecha": "2026-08-01T17:23:22.447107+00:00",
-  "n_remotos": 40,
+  "fecha": "2026-08-04T02:43:50.581537+00:00",
+  "n_remotos": 5,
   "n_locales_previos": 107,
   "n_nuevas": 1,
-  "n_ya_conocidas": 37,
+  "n_ya_conocidas": 4,
   "nuevas": [
-    ""
+    "node_9339"
   ],
   "nuevas_detalle": [
     {
-      "numero": "",
+      "numero": "node_9339",
       "titulo": "Concurso Movilidad Académica Internacional en el Continente Africano",
       "url_detalle": "https://minciencias.gov.co/node/9339",
       "fecha_apertura_texto": "Miércoles, Abril 1, 2026",
       "total_recursos_texto": "$2.700.000.000"
-    },
-    {
-      "numero": "",
-      "titulo": "CONVOCATORIA AMSUD 2025 “PROGRAMAS REGIONALES STIC-AmSud - MATH-AmSud - CLIMAT-AmSud Año 2025”",
-      "url_detalle": "https://minciencias.gov.co/node/8879",
-      "fecha_apertura_texto": "Martes, Marzo 18, 2025",
-      "total_recursos_texto": ""
-    },
-    {
-      "numero": "",
-      "titulo": "Invitación a startups, spin-offs y generadoras de conocimiento a ser parte del Portafolio BIO digital",
-      "url_detalle": "https://minciencias.gov.co/node/8641",
-      "fecha_apertura_texto": "Viernes, Julio 19, 2024",
-      "total_recursos_texto": ""
     }
   ],
   "snapshot_csv": "data\\processed\\minciencias\\listado_minciencias_sync.csv",
   "listado_merged_filas": 109,
-  "mensaje": "Encontradas 1 convocatorias nuevas en Minciencias."
+  "mensaje": "Encontradas 1 convocatorias nuevas en Minciencias. Ingestadas 1/1 convocatorias nuevas.",
+  "ingest": {
+    "ok": true,
+    "n_solicitadas": 1,
+    "n_ok": 1,
+    "n_error": 0,
+    "resultados": [
+      {
+        "ok": true,
+        "numero": "node_9339",
+        "fases": [
+          "detalle",
+          "tdr",
+          "secciones",
+          "nlp",
+          "matching_omitido",
+          "limpieza"
+        ],
+        "borrados": [
+          "data\\raw\\minciencias\\tdr\\convocatoria_node_9339_tdr.pdf"
+        ],
+        "error": null,
+        "titulo": "Concurso Movilidad Académica Internacional en el Continente Africano",
+        "url_detalle": "https://minciencias.gov.co/node/9339",
+        "tdr_path": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\raw\\minciencias\\tdr\\convocatoria_node_9339_tdr.pdf",
+        "secciones_path": "data\\processed\\minciencias\\secciones\\convocatoria_node_9339_secciones.json",
+        "nlp_path": "data\\processed\\minciencias\\nlp\\convocatoria_node_9339_nlp.json",
+        "elegibilidad_path": "data\\processed\\minciencias\\elegibilidad\\convocatoria_node_9339_elegibilidad.json",
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "resumen_elegibilidad": "La Universidad del Rosario, siendo una IES privada, no es elegible para esta convocatoria porque los actores elegibles son mujeres beneficiarias del programa Orquídeas o de las convocatorias 960/964, no instituciones. Por lo tanto, no puede postularse en ningún rol.",
+        "matching": {
+          "ok": true,
+          "omitido": true,
+          "motivo": "no_elegible"
+        },
+        "mensaje": "Convocatoria #node_9339 ingestada (sin ranking)."
+      }
+    ],
+    "mensaje": "Ingestadas 1/1 convocatorias nuevas."
+  }
 }

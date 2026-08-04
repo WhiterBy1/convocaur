@@ -32,7 +32,7 @@ type Overview = {
   };
 };
 
-const COLORS = ["#3dcfb0", "#c4a35a", "#e07a5f"];
+const COLORS = ["#6fd0bc", "#e2b86a", "#e8917a"];
 
 export function Home() {
   const [data, setData] = useState<Overview | null>(null);

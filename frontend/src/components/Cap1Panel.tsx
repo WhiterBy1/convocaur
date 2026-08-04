@@ -104,16 +104,16 @@ export function Cap1Panel({ data }: Props) {
           <div className="chart-wrap tall">
             <ResponsiveContainer>
               <LineChart data={serie}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
+                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
                 <XAxis
                   dataKey="label"
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   interval="preserveStartEnd"
                   tick={{ fontSize: 10 }}
                   minTickGap={28}
                 />
                 <YAxis
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   tickFormatter={(v) => Number(v).toLocaleString("es-CO")}
                   width={56}
                 />
@@ -128,7 +128,7 @@ export function Cap1Panel({ data }: Props) {
                   type="monotone"
                   dataKey="n_procesos"
                   name="Contratos publicados"
-                  stroke="#3dcfb0"
+                  stroke="#e2b86a"
                   strokeWidth={2.4}
                   dot={false}
                   animationDuration={1000}
@@ -148,16 +148,16 @@ export function Cap1Panel({ data }: Props) {
           <div className="chart-wrap tall">
             <ResponsiveContainer>
               <LineChart data={serie}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
+                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
                 <XAxis
                   dataKey="label"
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   interval="preserveStartEnd"
                   tick={{ fontSize: 10 }}
                   minTickGap={28}
                 />
                 <YAxis
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   tickFormatter={(v) => formatCopShort(Number(v))}
                   width={48}
                 />
@@ -169,7 +169,7 @@ export function Cap1Panel({ data }: Props) {
                   type="monotone"
                   dataKey="valor_total_cop"
                   name="Valor total"
-                  stroke="#c4a35a"
+                  stroke="#6fd0bc"
                   strokeWidth={2.2}
                   dot={false}
                   animationDuration={1000}
@@ -178,7 +178,7 @@ export function Cap1Panel({ data }: Props) {
                   type="monotone"
                   dataKey="valor_sin_mega_cop"
                   name="Sin megacontratos"
-                  stroke="#3dcfb0"
+                  stroke="#e2b86a"
                   strokeWidth={2.2}
                   dot={false}
                   animationDuration={1100}
@@ -202,17 +202,17 @@ export function Cap1Panel({ data }: Props) {
           <div className="chart-wrap">
             <ResponsiveContainer>
               <BarChart data={mix} layout="vertical" margin={{ left: 8, right: 16 }}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                <XAxis type="number" unit="%" stroke="#8fa89a" />
+                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+                <XAxis type="number" unit="%" stroke="#a8b6c4" />
                 <YAxis
                   type="category"
                   dataKey="nombre"
                   width={150}
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   tick={{ fontSize: 11 }}
                 />
                 <Tooltip formatter={(v: number) => [`${v}%`, "Participación"]} />
-                <Bar dataKey="pct" fill="#3dcfb0" radius={[0, 8, 8, 0]} animationDuration={900} />
+                <Bar dataKey="pct" fill="#e2b86a" radius={[0, 8, 8, 0]} animationDuration={900} />
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -227,9 +227,9 @@ export function Cap1Panel({ data }: Props) {
           <div className="chart-wrap">
             <ResponsiveContainer>
               <BarChart data={estacional}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                <XAxis dataKey="nombre" stroke="#8fa89a" />
-                <YAxis stroke="#8fa89a" tickFormatter={(v) => Number(v).toLocaleString("es-CO")} />
+                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+                <XAxis dataKey="nombre" stroke="#a8b6c4" />
+                <YAxis stroke="#a8b6c4" tickFormatter={(v) => Number(v).toLocaleString("es-CO")} />
                 <Tooltip
                   formatter={(v: number) => [
                     Number(v).toLocaleString("es-CO", { maximumFractionDigits: 0 }),
@@ -239,7 +239,7 @@ export function Cap1Panel({ data }: Props) {
                 <Bar
                   dataKey="n_procesos_promedio"
                   name="Contratos promedio"
-                  fill="#c4a35a"
+                  fill="#6fd0bc"
                   radius={[8, 8, 0, 0]}
                   animationDuration={900}
                 />

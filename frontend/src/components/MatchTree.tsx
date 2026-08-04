@@ -223,8 +223,8 @@ export function MatchTree({
               y1={l.y1}
               x2={l.x2}
               y2={l.y2}
-              stroke={l.hot ? "rgba(94,196,168,0.7)" : "rgba(196,163,90,0.32)"}
-              strokeWidth={l.hot ? 2.4 : 1.4}
+              stroke={l.hot ? "rgba(111,208,188,0.85)" : "rgba(226,184,106,0.35)"}
+              strokeWidth={l.hot ? 2.4 : 1.5}
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
             />
@@ -235,20 +235,20 @@ export function MatchTree({
             const hotTerm = n.kind === "termino" && modalTerm?.term === n.term;
             const fill =
               n.kind === "conv"
-                ? "#c4a35a"
+                ? "#6fd0bc"
                 : n.kind === "docente"
                   ? hotDoc
-                    ? "#5ec4a8"
-                    : "#143028"
+                    ? "#e2b86a"
+                    : "#3d5566"
                   : hotTerm
-                    ? "#f0d78a"
-                    : "#e8c97a";
+                    ? "#f0d9a0"
+                    : "#e8917a";
             const stroke =
               n.kind === "conv" || hotDoc || hotTerm
-                ? "#eef5f0"
+                ? "#e9eef4"
                 : n.kind === "docente"
-                  ? "#5ec4a8"
-                  : "rgba(238,245,240,0.45)";
+                  ? "#6fd0bc"
+                  : "rgba(233,238,244,0.45)";
             const clickable = n.kind === "docente" || n.kind === "termino";
 
             return (
@@ -273,7 +273,7 @@ export function MatchTree({
                     x={n.x}
                     y={n.y + 5}
                     textAnchor="middle"
-                    fill="#1a1408"
+                    fill="#0b0e12"
                     fontSize="13"
                     fontWeight="700"
                   >
@@ -286,7 +286,7 @@ export function MatchTree({
                       x={n.x}
                       y={n.y + 4}
                       textAnchor="middle"
-                      fill={hotDoc ? "#08110e" : "#5ec4a8"}
+                      fill={hotDoc ? "#0b0e12" : "#6fd0bc"}
                       fontSize="11"
                       fontWeight="700"
                     >
@@ -296,7 +296,7 @@ export function MatchTree({
                       x={n.x}
                       y={n.labelSide === "up" ? n.y - n.r - 10 : n.y + n.r + 16}
                       textAnchor="middle"
-                      fill="#eef5f0"
+                      fill="#e9eef4"
                       fontSize="11"
                     >
                       {n.shortLabel}
@@ -310,7 +310,7 @@ export function MatchTree({
                       x={n.x}
                       y={n.y + n.r + 14}
                       textAnchor="middle"
-                      fill="#e2c98a"
+                      fill="#e2b86a"
                       fontSize="11"
                     >
                       {n.shortLabel}
@@ -326,13 +326,13 @@ export function MatchTree({
 
       <div className="network-legend" style={{ position: "relative", marginTop: "0.5rem" }}>
         <span>
-          <i style={{ background: "#c4a35a" }} /> Convocatoria
+          <i style={{ background: "#6fd0bc" }} /> Convocatoria
         </span>
         <span>
-          <i style={{ background: "#5ec4a8" }} /> Docente (expandir)
+          <i style={{ background: "#e2b86a" }} /> Docente (expandir)
         </span>
         <span>
-          <i style={{ background: "#e8c97a" }} /> Término (modal)
+          <i style={{ background: "#e8917a" }} /> Término (modal)
         </span>
         {openedRow && (
           <span className="note" style={{ margin: 0 }}>

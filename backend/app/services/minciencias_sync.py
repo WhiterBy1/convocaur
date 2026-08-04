@@ -29,10 +29,17 @@ def _local_numeros() -> set[str]:
 
 
 def sync_minciencias(
-    paginas: int = 8,
+    paginas: int = 1,
+    *,
+    procesar_nuevas: bool = True,
+    matching_si_elegible: bool = True,
+    borrar_pdf: bool = True,
+    sin_embeddings: bool = False,
+    max_nuevas: int = 3,
+    top_k: int = 15,
     on_progress: Callable[[dict], None] | None = None,
 ) -> dict[str, Any]:
-    """Scrapea el listado público y reporta convocatorias nuevas vs locales."""
+    """Scrapea el listado público, reporta nuevas y opcionalmente las ingesta (TdR→NLP→match→borrar PDF)."""
     from convocaur.minciencias.scrape import extraer_listado
 
     def progress(payload: dict) -> None:
@@ -45,6 +52,15 @@ def sync_minciencias(
         raise RuntimeError("El listado remoto de Minciencias vino vacío.")
 
     remoto["numero"] = remoto["numero"].astype(str).str.strip().str.replace(r"\.0$", "", regex=True)
+    # Concursos sin número: usar id estable desde la URL (/node/9339 → node_9339)
+    if "url_detalle" in remoto.columns:
+        from convocaur.minciencias.scrape import id_desde_url
+
+        mask_vacio = remoto["numero"].isna() | (remoto["numero"] == "") | (remoto["numero"].str.lower() == "nan")
+        remoto.loc[mask_vacio, "numero"] = remoto.loc[mask_vacio, "url_detalle"].map(
+            lambda u: id_desde_url(u) or ""
+        )
+    remoto = remoto[remoto["numero"].astype(str).str.len() > 0].copy()
     local = _local_numeros()
     remotos = set(remoto["numero"].tolist())
     nuevas = sorted(remotos - local, key=lambda x: int(x) if x.isdigit() else 0)
@@ -68,7 +84,17 @@ def sync_minciencias(
             combo.to_csv(LISTADO_CSV, index=False, encoding="utf-8")
             merged_n = len(combo)
         except Exception:
-            pass
+            # Si no había listado, crear uno con el remoto
+            try:
+                LISTADO_CSV.parent.mkdir(parents=True, exist_ok=True)
+                remoto.to_csv(LISTADO_CSV, index=False, encoding="utf-8")
+                merged_n = len(remoto)
+            except Exception:
+                pass
+    else:
+        LISTADO_CSV.parent.mkdir(parents=True, exist_ok=True)
+        remoto.to_csv(LISTADO_CSV, index=False, encoding="utf-8")
+        merged_n = len(remoto)
 
     nuevas_detalle = (
         remoto[remoto["numero"].isin(nuevas)][
@@ -80,7 +106,7 @@ def sync_minciencias(
         else []
     )
 
-    report = {
+    report: dict[str, Any] = {
         "ok": True,
         "fecha": datetime.now(timezone.utc).isoformat(),
         "n_remotos": int(len(remoto)),
@@ -97,6 +123,40 @@ def sync_minciencias(
             else "No hay convocatorias nuevas respecto al inventario local."
         ),
     }
+
+    if procesar_nuevas and nuevas_detalle:
+        progress(
+            {
+                "fase": "ingest",
+                "mensaje": f"Procesando hasta {min(len(nuevas_detalle), max_nuevas)} nuevas…",
+                "hecho": 0,
+                "total": min(len(nuevas_detalle), max_nuevas),
+            }
+        )
+        from app.services.ingest_convocatoria import ingest_nuevas
+
+        ingest = ingest_nuevas(
+            nuevas_detalle,
+            matching_si_elegible=matching_si_elegible,
+            borrar_pdf=borrar_pdf,
+            sin_embeddings=sin_embeddings,
+            top_k=top_k,
+            max_nuevas=max_nuevas,
+            on_progress=progress,
+        )
+        report["ingest"] = ingest
+        report["mensaje"] = (
+            f"{report['mensaje']} {ingest.get('mensaje', '')}".strip()
+        )
+    elif procesar_nuevas:
+        report["ingest"] = {
+            "ok": True,
+            "n_solicitadas": 0,
+            "n_ok": 0,
+            "n_error": 0,
+            "resultados": [],
+            "mensaje": "Sin nuevas que ingerir.",
+        }
 
     report_path = out_dir / "ultimo_sync_minciencias.json"
     report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")

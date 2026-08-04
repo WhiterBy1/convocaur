@@ -14,6 +14,7 @@ import {
 } from "recharts";
 import { formatCop, formatCopShort } from "../lib/format";
 import type { RedMercado } from "./Cap2NetworkGraph";
+import { Cap2RosarioInsights, type AnalisisRosario } from "./Cap2RosarioInsights";
 
 const Cap2NetworkGraph = lazy(() =>
   import("./Cap2NetworkGraph").then((m) => ({ default: m.Cap2NetworkGraph }))
@@ -68,6 +69,8 @@ export type Capacidad2 = {
   cierre_rosario?: { titulo: string; puntos: string[] };
   nota_metodologica?: string;
   red_mercado?: RedMercado;
+  red_ego_rosario?: RedMercado;
+  analisis_rosario?: AnalisisRosario;
 };
 
 class GraphErrorBoundary extends Component<
@@ -100,8 +103,8 @@ export function Cap2Panel({ data }: Props) {
   const pareto = data.pareto;
   const hhiBars = hhi
     ? [
-        { etapa: "Sin limpiar datos", hhi: hhi.antes_outliers, fill: "#e07a5f" },
-        { etapa: "Datos corregidos", hhi: hhi.despues_correccion, fill: "#3dcfb0" },
+        { etapa: "Sin limpiar datos", hhi: hhi.antes_outliers, fill: "#e8917a" },
+        { etapa: "Datos corregidos", hhi: hhi.despues_correccion, fill: "#e2b86a" },
       ]
     : [];
   const curva = pareto?.curva || [];
@@ -153,13 +156,13 @@ export function Cap2Panel({ data }: Props) {
             <div className="chart-wrap">
               <ResponsiveContainer>
                 <BarChart data={hhiBars} layout="vertical" margin={{ left: 8, right: 12 }}>
-                  <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                  <XAxis type="number" stroke="#8fa89a" domain={[0, 10000]} />
+                  <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+                  <XAxis type="number" stroke="#a8b6c4" domain={[0, 10000]} />
                   <YAxis
                     type="category"
                     dataKey="etapa"
                     width={120}
-                    stroke="#8fa89a"
+                    stroke="#a8b6c4"
                     tick={{ fontSize: 12 }}
                   />
                   <Tooltip
@@ -168,7 +171,7 @@ export function Cap2Panel({ data }: Props) {
                       "Concentración",
                     ]}
                   />
-                  <Bar dataKey="hhi" fill="#c4a35a" radius={[0, 8, 8, 0]} animationDuration={900} />
+                  <Bar dataKey="hhi" fill="#6fd0bc" radius={[0, 8, 8, 0]} animationDuration={900} />
                 </BarChart>
               </ResponsiveContainer>
             </div>
@@ -195,10 +198,10 @@ export function Cap2Panel({ data }: Props) {
             <div className="chart-wrap">
               <ResponsiveContainer>
                 <LineChart data={curva}>
-                  <CartesianGrid stroke="rgba(238,245,240,0.06)" />
+                  <CartesianGrid stroke="rgba(233,238,244,0.14)" />
                   <XAxis
                     dataKey="pct_proveedores"
-                    stroke="#8fa89a"
+                    stroke="#a8b6c4"
                     unit="%"
                     label={{
                       value: "% proveedores",
@@ -208,7 +211,7 @@ export function Cap2Panel({ data }: Props) {
                       fontSize: 11,
                     }}
                   />
-                  <YAxis stroke="#8fa89a" unit="%" domain={[0, 100]} />
+                  <YAxis stroke="#a8b6c4" unit="%" domain={[0, 100]} />
                   <Tooltip
                     formatter={(v: number) => [`${v}%`, "% del valor"]}
                     labelFormatter={(l) => `${l}% de proveedores`}
@@ -217,7 +220,7 @@ export function Cap2Panel({ data }: Props) {
                     type="monotone"
                     dataKey="pct_valor"
                     name="% del valor adjudicado"
-                    stroke="#3dcfb0"
+                    stroke="#e2b86a"
                     strokeWidth={2.4}
                     dot={false}
                     animationDuration={1000}
@@ -236,17 +239,17 @@ export function Cap2Panel({ data }: Props) {
           <div className="chart-wrap tall">
             <ResponsiveContainer>
               <BarChart data={top} layout="vertical" margin={{ left: 8, right: 16 }}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
+                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
                 <XAxis
                   type="number"
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   tickFormatter={(v) => formatCopShort(Number(v))}
                 />
                 <YAxis
                   type="category"
                   dataKey="nombre"
                   width={140}
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   tick={{ fontSize: 10 }}
                 />
                 <Tooltip
@@ -255,7 +258,7 @@ export function Cap2Panel({ data }: Props) {
                     "Valor",
                   ]}
                 />
-                <Bar dataKey="valor" fill="#c4a35a" radius={[0, 8, 8, 0]} animationDuration={900} />
+                <Bar dataKey="valor" fill="#6fd0bc" radius={[0, 8, 8, 0]} animationDuration={900} />
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -275,22 +278,22 @@ export function Cap2Panel({ data }: Props) {
                   hhi: n.hhi,
                 }))}
               >
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
+                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
                 <XAxis
                   dataKey="entidad"
-                  stroke="#8fa89a"
+                  stroke="#a8b6c4"
                   tick={{ fontSize: 10 }}
                   interval={0}
                   angle={-18}
                   textAnchor="end"
                   height={80}
                 />
-                <YAxis stroke="#8fa89a" domain={[0, 10000]} />
+                <YAxis stroke="#a8b6c4" domain={[0, 10000]} />
                 <Tooltip />
                 <Bar
                   dataKey="hhi"
                   name="Concentración"
-                  fill="#e07a5f"
+                  fill="#e8917a"
                   radius={[8, 8, 0, 0]}
                   animationDuration={900}
                 />
@@ -307,16 +310,16 @@ export function Cap2Panel({ data }: Props) {
           <div className="chart-wrap">
             <ResponsiveContainer>
               <LineChart data={rotacion}>
-                <CartesianGrid stroke="rgba(238,245,240,0.06)" />
-                <XAxis dataKey="anio" stroke="#8fa89a" />
-                <YAxis stroke="#8fa89a" unit="%" domain={[0, 100]} />
+                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+                <XAxis dataKey="anio" stroke="#a8b6c4" />
+                <YAxis stroke="#a8b6c4" unit="%" domain={[0, 100]} />
                 <Tooltip />
                 <Legend />
                 <Line
                   type="monotone"
                   dataKey="jaccard_top50_vs_anio_prev_pct"
                   name="Similitud top-50 vs año anterior"
-                  stroke="#3dcfb0"
+                  stroke="#e2b86a"
                   strokeWidth={2.4}
                   connectNulls={false}
                   animationDuration={1000}
@@ -325,7 +328,7 @@ export function Cap2Panel({ data }: Props) {
                   type="monotone"
                   dataKey="top1_participacion_pct"
                   name="Peso del #1 ese año"
-                  stroke="#c4a35a"
+                  stroke="#6fd0bc"
                   strokeWidth={2}
                   animationDuration={1100}
                 />
@@ -335,8 +338,12 @@ export function Cap2Panel({ data }: Props) {
         </div>
       )}
 
+      {data.analisis_rosario?.perfil ? (
+        <Cap2RosarioInsights data={data.analisis_rosario} />
+      ) : null}
+
       {/* Grafo al final + lazy + boundary: si falla, Cap.2 no queda en blanco */}
-      {data.red_mercado?.nodes?.length ? (
+      {data.red_mercado?.nodes?.length || data.red_ego_rosario?.nodes?.length ? (
         <div style={{ marginTop: "1rem" }}>
           <GraphErrorBoundary>
             <Suspense
@@ -346,13 +353,35 @@ export function Cap2Panel({ data }: Props) {
                 </div>
               }
             >
-              <Cap2NetworkGraph red={data.red_mercado} />
+              <Cap2NetworkGraph
+                red={data.red_ego_rosario || data.red_mercado!}
+                vistas={[
+                  ...(data.red_ego_rosario?.nodes?.length
+                    ? [
+                        {
+                          id: "ego",
+                          label: "Ego Rosario (completo)",
+                          red: data.red_ego_rosario,
+                        },
+                      ]
+                    : []),
+                  ...(data.red_mercado?.nodes?.length
+                    ? [
+                        {
+                          id: "mercado",
+                          label: "Mercado (muestra amplia)",
+                          red: data.red_mercado,
+                        },
+                      ]
+                    : []),
+                ]}
+              />
             </Suspense>
           </GraphErrorBoundary>
         </div>
       ) : null}
 
-      {data.cierre_rosario && (
+      {data.cierre_rosario && !data.analisis_rosario?.lecturas?.length && (
         <div className="panel panel-rosario" style={{ marginTop: "1rem" }}>
           <h3>{data.cierre_rosario.titulo}</h3>
           <ul className="rosario-list">

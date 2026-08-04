@@ -1,0 +1,2391 @@
+{
+  "analisis_rosario": {
+    "titulo": "Universidad del Rosario en la red SECOP–CTeI",
+    "subtitulo": "Análisis egocéntrico: quién le compra, qué tan dependiente es cada vínculo, quién compite en los mismos compradores, y cómo se compara con otras IES.",
+    "perfil": {
+      "nombre": "COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO",
+      "nit": "860007759",
+      "valor_adjudicado_cop": 39601907967.0,
+      "n_entidades_compradoras": 26,
+      "n_procesos": 35,
+      "n_competidores_con_overlap": 1023,
+      "ranking_entre_ies": 9,
+      "n_ies_en_universo": 101
+    },
+    "compradores": [
+      {
+        "entidad": "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+        "valor_con_rosario_cop": 23208399719.0,
+        "n_procesos": 3,
+        "pct_ingresos_rosario": 58.6,
+        "share_of_wallet_pct": 2.32,
+        "gasto_entidad_ctei_cop": 1001244950027.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "SECRETARIA DE EDUCACION DEL DISTRITO",
+        "valor_con_rosario_cop": 8794170638.0,
+        "n_procesos": 5,
+        "pct_ingresos_rosario": 22.2,
+        "share_of_wallet_pct": 0.91,
+        "gasto_entidad_ctei_cop": 963028590183.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "MINSALUD",
+        "valor_con_rosario_cop": 2936847329.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 7.4,
+        "share_of_wallet_pct": 0.55,
+        "gasto_entidad_ctei_cop": 532511206119.0,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ",
+        "valor_con_rosario_cop": 766378023.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 1.9,
+        "share_of_wallet_pct": 0.68,
+        "gasto_entidad_ctei_cop": 113128267055.0,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "ECSAN",
+        "valor_con_rosario_cop": 579923999.0,
+        "n_procesos": 2,
+        "pct_ingresos_rosario": 1.5,
+        "share_of_wallet_pct": 30.01,
+        "gasto_entidad_ctei_cop": 1932472426.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//",
+        "valor_con_rosario_cop": 546541750.0,
+        "n_procesos": 2,
+        "pct_ingresos_rosario": 1.4,
+        "share_of_wallet_pct": 6.86,
+        "gasto_entidad_ctei_cop": 7967885085.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "MINISTERIO DE JUSTICIA Y DEL DERECHO..",
+        "valor_con_rosario_cop": 426408218.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 1.1,
+        "share_of_wallet_pct": 0.7,
+        "gasto_entidad_ctei_cop": 60677554965.0,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "ALCALDIA LOCAL DE USAQUEN",
+        "valor_con_rosario_cop": 411870000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 1.0,
+        "share_of_wallet_pct": 1.19,
+        "gasto_entidad_ctei_cop": 34537905080.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "DEPARTAMENTO DE CUNDINAMARCA - SECRETARÍA DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO",
+        "valor_con_rosario_cop": 299328000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.8,
+        "share_of_wallet_pct": 3.0,
+        "gasto_entidad_ctei_cop": 9980881654.0,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "SENA DIRECCION GENERAL",
+        "valor_con_rosario_cop": 277300000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.7,
+        "share_of_wallet_pct": 0.17,
+        "gasto_entidad_ctei_cop": 163024746033.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "Sena Regional Boyaca Grupo de Apoyo Administrativo Mixto",
+        "valor_con_rosario_cop": 250100000.0,
+        "n_procesos": 2,
+        "pct_ingresos_rosario": 0.6,
+        "share_of_wallet_pct": 11.32,
+        "gasto_entidad_ctei_cop": 2209581439.0,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "entidad": "DIRECCIÓN DE TRÁNSITO Y TRANSPORTE DE LA POLICÍA NACIONAL",
+        "valor_con_rosario_cop": 234234000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.6,
+        "share_of_wallet_pct": 12.06,
+        "gasto_entidad_ctei_cop": 1941705471.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "MINISTERIO DE MINAS Y ENERGIA",
+        "valor_con_rosario_cop": 198000000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.5,
+        "share_of_wallet_pct": 0.0,
+        "gasto_entidad_ctei_cop": 4836052632118.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "DEPARTAMENTO DE CUNDINAMARCA-SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+        "valor_con_rosario_cop": 125000000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.3,
+        "share_of_wallet_pct": 6.71,
+        "gasto_entidad_ctei_cop": 1863509429.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "GOBERNACIÓN DE BOYACÁ",
+        "valor_con_rosario_cop": 96000000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.2,
+        "share_of_wallet_pct": 0.08,
+        "gasto_entidad_ctei_cop": 115206349739.0,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "entidad": "SENA Regional Huila Grupo de Apoyo Administrativo Mixto",
+        "valor_con_rosario_cop": 92000000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.2,
+        "share_of_wallet_pct": 7.03,
+        "gasto_entidad_ctei_cop": 1307829937.0,
+        "segmento": "86",
+        "depto": "Huila"
+      },
+      {
+        "entidad": "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+        "valor_con_rosario_cop": 64249988.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.2,
+        "share_of_wallet_pct": 0.25,
+        "gasto_entidad_ctei_cop": 25228191347.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "GOBERNACIÓN DE RISARALDA**",
+        "valor_con_rosario_cop": 57300000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.1,
+        "share_of_wallet_pct": 0.14,
+        "gasto_entidad_ctei_cop": 40419721283.0,
+        "segmento": "86",
+        "depto": "Risaralda"
+      },
+      {
+        "entidad": "DIRECCION DE ANTINARCOTICOS",
+        "valor_con_rosario_cop": 55999992.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.1,
+        "share_of_wallet_pct": 0.04,
+        "gasto_entidad_ctei_cop": 132270852638.0,
+        "segmento": "86",
+        "depto": "Cundinamarca"
+      },
+      {
+        "entidad": "CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL",
+        "valor_con_rosario_cop": 51634320.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.1,
+        "share_of_wallet_pct": 0.43,
+        "gasto_entidad_ctei_cop": 11974556495.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "SUBRED INTEGRADA DE SERVICIOS DE SALUD SUR E.S.E.**",
+        "valor_con_rosario_cop": 50700000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.1,
+        "share_of_wallet_pct": 1.04,
+        "gasto_entidad_ctei_cop": 4881573593.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "CORPOBOYACA",
+        "valor_con_rosario_cop": 20223999.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.1,
+        "share_of_wallet_pct": 0.23,
+        "gasto_entidad_ctei_cop": 8615216236.0,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "entidad": "DEPARTAMENTO ADMINISTRATIVO DE LA DEFENSORIA DEL ESPACIO PUBLICO",
+        "valor_con_rosario_cop": 16512767.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.0,
+        "share_of_wallet_pct": 0.37,
+        "gasto_entidad_ctei_cop": 4460269495.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "AEROCIVIL",
+        "valor_con_rosario_cop": 16000000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.0,
+        "share_of_wallet_pct": 0.0,
+        "gasto_entidad_ctei_cop": 836833475956.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "JEFATURA SALUD FUERZA AEREA",
+        "valor_con_rosario_cop": 16000000.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.0,
+        "share_of_wallet_pct": 3.81,
+        "gasto_entidad_ctei_cop": 419471356.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "entidad": "JUNTA NACIONAL DE CALIFICACION DE INVALIDEZ",
+        "valor_con_rosario_cop": 10785225.0,
+        "n_procesos": 1,
+        "pct_ingresos_rosario": 0.0,
+        "share_of_wallet_pct": 1.62,
+        "gasto_entidad_ctei_cop": 663720579.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      }
+    ],
+    "competidores_frecuentes": [
+      {
+        "nombre": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+        "nit": "899999063",
+        "n_entidades_compartidas": 9,
+        "entidades_ejemplo": [
+          "AEROCIVIL",
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "ALCALDIA LOCAL DE USAQUEN",
+          "DEPARTAMENTO DE CUNDINAMARCA-SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+          "MINISTERIO DE MINAS Y ENERGIA"
+        ],
+        "valor_rival_en_compartidas_cop": 174098199817.0,
+        "valor_rosario_en_compartidas_cop": 36733965709.0,
+        "ratio_rival_vs_rosario": 4.74,
+        "valor_total_proveedor_cop": 344769928174.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "Universidad de los Andes",
+        "nit": "860007386",
+        "n_entidades_compartidas": 7,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+          "DEPARTAMENTO DE CUNDINAMARCA-SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+          "MINISTERIO DE JUSTICIA Y DEL DERECHO..",
+          "MINSALUD"
+        ],
+        "valor_rival_en_compartidas_cop": 13592899708.0,
+        "valor_rosario_en_compartidas_cop": 36321453915.0,
+        "ratio_rival_vs_rosario": 0.37,
+        "valor_total_proveedor_cop": 16751836848.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+        "nit": "899999230",
+        "n_entidades_compartidas": 6,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL",
+          "DEPARTAMENTO DE CUNDINAMARCA-SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+          "MINSALUD",
+          "SECRETARIA DE EDUCACION DEL DISTRITO"
+        ],
+        "valor_rival_en_compartidas_cop": 197242316388.0,
+        "valor_rosario_en_compartidas_cop": 35882430029.0,
+        "ratio_rival_vs_rosario": 5.5,
+        "valor_total_proveedor_cop": 292137122295.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "ETB SA ESP",
+        "nit": "899999115",
+        "n_entidades_compartidas": 5,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "GOBERNACIÓN DE RISARALDA**",
+          "MINSALUD",
+          "SECRETARIA DE EDUCACION DEL DISTRITO",
+          "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ"
+        ],
+        "valor_rival_en_compartidas_cop": 40321405584.0,
+        "valor_rosario_en_compartidas_cop": 35763095709.0,
+        "ratio_rival_vs_rosario": 1.13,
+        "valor_total_proveedor_cop": 232110867132.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "FUNDACIÓN UNIVERSIDAD DE BOGOTÁ JORGE TADEO LOZANO",
+        "nit": "860006848",
+        "n_entidades_compartidas": 5,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "DIRECCIÓN DE TRÁNSITO Y TRANSPORTE DE LA POLICÍA NACIONAL",
+          "SECRETARIA DE EDUCACION DEL DISTRITO",
+          "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ",
+          "SENA DIRECCION GENERAL"
+        ],
+        "valor_rival_en_compartidas_cop": 27786471517.0,
+        "valor_rosario_en_compartidas_cop": 33280482380.0,
+        "ratio_rival_vs_rosario": 0.83,
+        "valor_total_proveedor_cop": 31376325496.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "UNIVERSIDAD SERGIO ARBOLEDA",
+        "nit": "UNIVERSIDAD SERGIO ARBOLEDA",
+        "n_entidades_compartidas": 5,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//",
+          "DIRECCION DE ANTINARCOTICOS",
+          "GOBERNACIÓN DE BOYACÁ",
+          "SECRETARIA DE EDUCACION DEL DISTRITO"
+        ],
+        "valor_rival_en_compartidas_cop": 5841410000.0,
+        "valor_rosario_en_compartidas_cop": 32701112099.0,
+        "ratio_rival_vs_rosario": 0.18,
+        "valor_total_proveedor_cop": 9991436290.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "COMCEL S.A.",
+        "nit": "800153993",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL",
+          "DIRECCION DE ANTINARCOTICOS",
+          "MINISTERIO DE JUSTICIA Y DEL DERECHO..",
+          "SECRETARIA DE EDUCACION DEL DISTRITO"
+        ],
+        "valor_rival_en_compartidas_cop": 26154955069.0,
+        "valor_rosario_en_compartidas_cop": 9328213168.0,
+        "ratio_rival_vs_rosario": 2.8,
+        "valor_total_proveedor_cop": 53167975078.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "UNISALLE",
+        "nit": "860015542",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "DIRECCION DE ANTINARCOTICOS",
+          "DIRECCIÓN DE TRÁNSITO Y TRANSPORTE DE LA POLICÍA NACIONAL",
+          "ECSAN"
+        ],
+        "valor_rival_en_compartidas_cop": 18994017623.0,
+        "valor_rosario_en_compartidas_cop": 24078557710.0,
+        "ratio_rival_vs_rosario": 0.79,
+        "valor_total_proveedor_cop": 19064751623.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "Branch Of Microsoft Colombia Inc",
+        "nit": "800198591",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "AEROCIVIL",
+          "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+          "MINSALUD",
+          "SENA DIRECCION GENERAL"
+        ],
+        "valor_rival_en_compartidas_cop": 10926804363.0,
+        "valor_rosario_en_compartidas_cop": 3294397317.0,
+        "ratio_rival_vs_rosario": 3.32,
+        "valor_total_proveedor_cop": 35012221158.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "Heimcore SAS",
+        "nit": "900425697",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL",
+          "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+          "MINISTERIO DE MINAS Y ENERGIA",
+          "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ"
+        ],
+        "valor_rival_en_compartidas_cop": 2689881182.0,
+        "valor_rosario_en_compartidas_cop": 1080262331.0,
+        "ratio_rival_vs_rosario": 2.49,
+        "valor_total_proveedor_cop": 111562882755.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "SGS COLOMBIA SAS",
+        "nit": "860049921",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "CORPOBOYACA",
+          "MINISTERIO DE MINAS Y ENERGIA",
+          "Sena Regional Boyaca Grupo de Apoyo Administrativo Mixto"
+        ],
+        "valor_rival_en_compartidas_cop": 1541284938.0,
+        "valor_rosario_en_compartidas_cop": 23676723718.0,
+        "ratio_rival_vs_rosario": 0.07,
+        "valor_total_proveedor_cop": 1812334358.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "SET Y GAD SAS.",
+        "nit": "830065092",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "JEFATURA SALUD FUERZA AEREA",
+          "MINSALUD",
+          "SENA Regional Huila Grupo de Apoyo Administrativo Mixto",
+          "SUBRED INTEGRADA DE SERVICIOS DE SALUD SUR E.S.E.**"
+        ],
+        "valor_rival_en_compartidas_cop": 326769756.0,
+        "valor_rosario_en_compartidas_cop": 3095547329.0,
+        "ratio_rival_vs_rosario": 0.11,
+        "valor_total_proveedor_cop": 1980261390.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "CAMERFIRMA",
+        "nit": "901312112",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "DEPARTAMENTO ADMINISTRATIVO DE LA DEFENSORIA DEL ESPACIO PUBLICO",
+          "MINISTERIO DE MINAS Y ENERGIA",
+          "SECRETARIA DE EDUCACION DEL DISTRITO",
+          "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ"
+        ],
+        "valor_rival_en_compartidas_cop": 110795833.0,
+        "valor_rosario_en_compartidas_cop": 9775061428.0,
+        "ratio_rival_vs_rosario": 0.01,
+        "valor_total_proveedor_cop": 1340956365.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "ASOCIACIÓN INTERNACIONAL DE CONSULTORÍA",
+        "nit": "900350937",
+        "n_entidades_compartidas": 4,
+        "entidades_ejemplo": [
+          "CORPOBOYACA",
+          "JUNTA NACIONAL DE CALIFICACION DE INVALIDEZ",
+          "MINSALUD",
+          "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ"
+        ],
+        "valor_rival_en_compartidas_cop": 108750120.0,
+        "valor_rosario_en_compartidas_cop": 3734234576.0,
+        "ratio_rival_vs_rosario": 0.03,
+        "valor_total_proveedor_cop": 1243538815.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "FINANCIERA DE DESARROLLO TERRITORIAL S.A.",
+        "nit": "800096329",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AEROCIVIL",
+          "MINSALUD",
+          "SECRETARIA DE EDUCACION DEL DISTRITO"
+        ],
+        "valor_rival_en_compartidas_cop": 491544253479.0,
+        "valor_rosario_en_compartidas_cop": 11747017967.0,
+        "ratio_rival_vs_rosario": 41.84,
+        "valor_total_proveedor_cop": 1002979246316.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "SOCIEDAD  TEQUENDAMA S.A.",
+        "nit": "860006543",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL",
+          "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+          "SENA DIRECCION GENERAL"
+        ],
+        "valor_rival_en_compartidas_cop": 56764564011.0,
+        "valor_rosario_en_compartidas_cop": 393184308.0,
+        "ratio_rival_vs_rosario": 144.37,
+        "valor_total_proveedor_cop": 67969041607.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "UNIMINUTO",
+        "nit": "800116217",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "SECRETARIA DE EDUCACION DEL DISTRITO",
+          "SENA Regional Huila Grupo de Apoyo Administrativo Mixto"
+        ],
+        "valor_rival_en_compartidas_cop": 29588667537.0,
+        "valor_rosario_en_compartidas_cop": 32094570357.0,
+        "ratio_rival_vs_rosario": 0.92,
+        "valor_total_proveedor_cop": 44467197862.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "Universidad EAN",
+        "nit": "860026058",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "SECRETARIA DE EDUCACION DEL DISTRITO",
+          "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ"
+        ],
+        "valor_rival_en_compartidas_cop": 27570798968.0,
+        "valor_rosario_en_compartidas_cop": 32768948380.0,
+        "ratio_rival_vs_rosario": 0.84,
+        "valor_total_proveedor_cop": 27570798968.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "S3 SIMPLE SMART SPEEDY  SAS",
+        "nit": "S3 SIMPLE SMART SPEEDY  SAS",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AEROCIVIL",
+          "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+          "SENA DIRECCION GENERAL"
+        ],
+        "valor_rival_en_compartidas_cop": 26371285545.0,
+        "valor_rosario_en_compartidas_cop": 357549988.0,
+        "ratio_rival_vs_rosario": 73.76,
+        "valor_total_proveedor_cop": 58880294930.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "UNIVERSIDAD DE ANTIOQUIA",
+        "nit": "890980040",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "GOBERNACIÓN DE BOYACÁ",
+          "MINSALUD"
+        ],
+        "valor_rival_en_compartidas_cop": 23886924323.0,
+        "valor_rosario_en_compartidas_cop": 26241247048.0,
+        "ratio_rival_vs_rosario": 0.91,
+        "valor_total_proveedor_cop": 374705724786.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "UPTC",
+        "nit": "891800330",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "CORPOBOYACA",
+          "GOBERNACIÓN DE BOYACÁ",
+          "MINISTERIO DE MINAS Y ENERGIA"
+        ],
+        "valor_rival_en_compartidas_cop": 23502283533.0,
+        "valor_rosario_en_compartidas_cop": 314223999.0,
+        "ratio_rival_vs_rosario": 74.79,
+        "valor_total_proveedor_cop": 28088449445.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "British Council",
+        "nit": "899999066",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//",
+          "SECRETARIA DE EDUCACION DEL DISTRITO"
+        ],
+        "valor_rival_en_compartidas_cop": 23142183749.0,
+        "valor_rosario_en_compartidas_cop": 32549112107.0,
+        "ratio_rival_vs_rosario": 0.71,
+        "valor_total_proveedor_cop": 23160933749.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+        "nit": "901508361",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "ALCALDIA LOCAL DE USAQUEN",
+          "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ"
+        ],
+        "valor_rival_en_compartidas_cop": 21522506587.0,
+        "valor_rosario_en_compartidas_cop": 24386647742.0,
+        "ratio_rival_vs_rosario": 0.88,
+        "valor_total_proveedor_cop": 725367513558.0,
+        "es_ies": false
+      },
+      {
+        "nombre": "Universidad Santo Tomás",
+        "nit": "860012357",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//",
+          "SECRETARIA DE EDUCACION DEL DISTRITO"
+        ],
+        "valor_rival_en_compartidas_cop": 11400158639.0,
+        "valor_rosario_en_compartidas_cop": 32549112107.0,
+        "ratio_rival_vs_rosario": 0.35,
+        "valor_total_proveedor_cop": 13199119050.0,
+        "es_ies": true
+      },
+      {
+        "nombre": "UNAD",
+        "nit": "860512780",
+        "n_entidades_compartidas": 3,
+        "entidades_ejemplo": [
+          "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+          "GOBERNACIÓN DE BOYACÁ",
+          "MINSALUD"
+        ],
+        "valor_rival_en_compartidas_cop": 8469276793.0,
+        "valor_rosario_en_compartidas_cop": 26241247048.0,
+        "ratio_rival_vs_rosario": 0.32,
+        "valor_total_proveedor_cop": 32345059829.0,
+        "es_ies": false
+      }
+    ],
+    "peers_ies": [
+      {
+        "nombre": "UNIVERSIDAD DE ANTIOQUIA",
+        "nit": "890980040",
+        "valor_total_cop": 374705724786.0,
+        "n_entidades": 28,
+        "vs_rosario_pct": 946.2
+      },
+      {
+        "nombre": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+        "nit": "899999063",
+        "valor_total_cop": 344769928174.0,
+        "n_entidades": 95,
+        "vs_rosario_pct": 870.6
+      },
+      {
+        "nombre": "UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+        "nit": "899999230",
+        "valor_total_cop": 292137122295.0,
+        "n_entidades": 38,
+        "vs_rosario_pct": 737.7
+      },
+      {
+        "nombre": "INSTITUCIÓN UNIVERSITARIA COLEGIO MAYOR DE ANTIOQUIA",
+        "nit": "890980134",
+        "valor_total_cop": 192112048286.0,
+        "n_entidades": 3,
+        "vs_rosario_pct": 485.1
+      },
+      {
+        "nombre": "UNIVERSIDAD PEDAGÓGICA NACIONAL",
+        "nit": "899999124",
+        "valor_total_cop": 109890103148.0,
+        "n_entidades": 10,
+        "vs_rosario_pct": 277.5
+      },
+      {
+        "nombre": "UNIVERSIDAD DE PAMPLONA",
+        "nit": "890501510",
+        "valor_total_cop": 92613114427.0,
+        "n_entidades": 7,
+        "vs_rosario_pct": 233.9
+      },
+      {
+        "nombre": "UNIVERSIDAD LIBRE",
+        "nit": "860013798",
+        "valor_total_cop": 79057081742.0,
+        "n_entidades": 9,
+        "vs_rosario_pct": 199.6
+      },
+      {
+        "nombre": "UNIVERSIDAD ECCI",
+        "nit": "860401496",
+        "valor_total_cop": 45730775139.0,
+        "n_entidades": 4,
+        "vs_rosario_pct": 115.5
+      },
+      {
+        "nombre": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+        "nit": "860517302",
+        "valor_total_cop": 38695713519.0,
+        "n_entidades": 10,
+        "vs_rosario_pct": 97.7
+      },
+      {
+        "nombre": "FUNDACIÓN UNIVERSIDAD DE BOGOTÁ JORGE TADEO LOZANO",
+        "nit": "860006848",
+        "valor_total_cop": 31376325496.0,
+        "n_entidades": 10,
+        "vs_rosario_pct": 79.2
+      },
+      {
+        "nombre": "UNIVERSIDAD CENTRAL",
+        "nit": "860024746",
+        "valor_total_cop": 30300315423.0,
+        "n_entidades": 2,
+        "vs_rosario_pct": 76.5
+      },
+      {
+        "nombre": "UNIVERSIDAD EAFIT",
+        "nit": "890901389",
+        "valor_total_cop": 29836360872.0,
+        "n_entidades": 7,
+        "vs_rosario_pct": 75.3
+      },
+      {
+        "nombre": "UNIVERSIDAD FUCS",
+        "nit": "860051853",
+        "valor_total_cop": 29306211882.0,
+        "n_entidades": 1,
+        "vs_rosario_pct": 74.0
+      },
+      {
+        "nombre": "Universidad Colegio Mayor de Cundinamarca",
+        "nit": "800144829",
+        "valor_total_cop": 27885360512.0,
+        "n_entidades": 3,
+        "vs_rosario_pct": 70.4
+      },
+      {
+        "nombre": "Universidad EAN",
+        "nit": "860026058",
+        "valor_total_cop": 27570798968.0,
+        "n_entidades": 3,
+        "vs_rosario_pct": 69.6
+      },
+      {
+        "nombre": "Fundación Universitaria Compensar",
+        "nit": "860506140",
+        "valor_total_cop": 27196884691.0,
+        "n_entidades": 1,
+        "vs_rosario_pct": 68.7
+      },
+      {
+        "nombre": "FUNDACION UNIVERSIDAD DEL VALLE",
+        "nit": "800187151",
+        "valor_total_cop": 25887328697.0,
+        "n_entidades": 10,
+        "vs_rosario_pct": 65.4
+      },
+      {
+        "nombre": "UNIVERSIDAD INDUSTRIAL DE SANTANDER",
+        "nit": "890201213",
+        "valor_total_cop": 25868209575.0,
+        "n_entidades": 4,
+        "vs_rosario_pct": 65.3
+      },
+      {
+        "nombre": "UNIVERSIDAD CES",
+        "nit": "890984002",
+        "valor_total_cop": 25290566081.0,
+        "n_entidades": 3,
+        "vs_rosario_pct": 63.9
+      },
+      {
+        "nombre": "UNIVERSIDAD DEL VALLE",
+        "nit": "890399010",
+        "valor_total_cop": 22398173018.0,
+        "n_entidades": 12,
+        "vs_rosario_pct": 56.6
+      }
+    ],
+    "lecturas": [
+      "Como proveedor CTeI, COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO suma ~$39.6B en 26 entidades compradoras y 35 procesos.",
+      "El comprador más importante es AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA: 58.6% de los ingresos Rosario (share of wallet en esa entidad: 2.32%).",
+      "Competidor más frecuente (más entidades en común): UNIVERSIDAD NACIONAL DE COLOMBIA (9 compradores compartidos).",
+      "Entre IES/centros de formación en este universo CTeI, Rosario queda en el puesto #9 por valor adjudicado.",
+      "El grafo ego muestra todos los compradores de Rosario y los rivales que más se cruzan en esos mismos compradores — no es todo SECOP (serían ~17k proveedores)."
+    ],
+    "nota": "Universo = adjudicaciones UNSPSC 80/81/86 (proxy CTeI) en el CSV limpio Cap.2. Competidor frecuente = proveedor que también gana contratos en entidades donde Rosario ya es proveedor. Share of wallet = valor Rosario / gasto CTeI total de esa entidad."
+  },
+  "red_ego_rosario": {
+    "titulo": "Red ego · Universidad del Rosario",
+    "subtitulo": "Todos los compradores de Rosario + competidores frecuentes en esos mismos compradores. Ideal para ver dependencia y rivalidad local.",
+    "lectura": "Ego-red: 45 actores / 77 vínculos. Incluye 26 entidades que le compran a Rosario y 18 rivales con overlap.",
+    "meta": {
+      "n_nodos": 45,
+      "n_aristas": 77,
+      "n_entidades": 26,
+      "n_proveedores": 19,
+      "n_anclas_urosario": 1,
+      "fuente": "secop_ctei_lineas_limpio.csv",
+      "n_edges_universo": 28046
+    },
+    "leyenda": [
+      {
+        "kind": "entidad",
+        "color": "#6fd0bc",
+        "nombre": "Entidad (comprador)"
+      },
+      {
+        "kind": "proveedor",
+        "color": "#e2b86a",
+        "nombre": "Proveedor"
+      },
+      {
+        "kind": "competidor",
+        "color": "#e8917a",
+        "nombre": "Competidor frecuente"
+      },
+      {
+        "kind": "ancla",
+        "color": "#f0d9a0",
+        "nombre": "U. Rosario"
+      }
+    ],
+    "como_leer": [
+      "Nodo dorado = Rosario. Coral = competidor frecuente. Verde agua = entidad compradora.",
+      "Clic en un rival para ver en qué entidades se cruza con Rosario.",
+      "Esto NO es todo SECOP: es la vecindad útil para decisión comercial de Rosario."
+    ],
+    "nodes": [
+      {
+        "id": "e:SENA_REGIONAL_BOYACA_GRUPO_DE_APOYO_ADMINISTRATI",
+        "kind": "entidad",
+        "label": "Sena Regional Boyaca Grupo de Apoyo Adm…",
+        "nombre": "Sena Regional Boyaca Grupo de Apoyo Administrativo Mixto",
+        "valor": 2209581439.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:DIRECCION_DE_ANTINARCOTICOS",
+        "kind": "entidad",
+        "label": "DIRECCION DE ANTINARCOTICOS",
+        "nombre": "DIRECCION DE ANTINARCOTICOS",
+        "valor": 132270852638.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 7
+      },
+      {
+        "id": "e:MINSALUD",
+        "kind": "entidad",
+        "label": "MINSALUD",
+        "nombre": "MINSALUD",
+        "valor": 532511206119.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 5
+      },
+      {
+        "id": "e:DEPARTAMENTO_ADMINISTRATIVO_DE_LA_DEFENSORIA_DEL",
+        "kind": "entidad",
+        "label": "DEPARTAMENTO ADMINISTRATIVO DE LA DEFEN…",
+        "nombre": "DEPARTAMENTO ADMINISTRATIVO DE LA DEFENSORIA DEL ESPACIO PUBLICO",
+        "valor": 4460269495.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:ECSAN",
+        "kind": "entidad",
+        "label": "ECSAN",
+        "nombre": "ECSAN",
+        "valor": 1932472426.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:CAJA_DE_SUELDOS_DE_RETIRO_DE_LA_POLICIA_NACIONAL",
+        "kind": "entidad",
+        "label": "CAJA DE SUELDOS DE RETIRO DE LA POLICIA…",
+        "nombre": "CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL",
+        "valor": 11974556495.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 10
+      },
+      {
+        "id": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_COMPE",
+        "kind": "entidad",
+        "label": "DEPARTAMENTO DE CUNDINAMARCA - SECRETAR…",
+        "nombre": "DEPARTAMENTO DE CUNDINAMARCA - SECRETARÍA DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO",
+        "valor": 9980881654.0,
+        "degree": 1,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:SECRETARIA_DISTRITAL_DE_DESARROLLO_ECONOMICO_ALC",
+        "kind": "entidad",
+        "label": "SECRETARIA DISTRITAL DE DESARROLLO ECON…",
+        "nombre": "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ",
+        "valor": 113128267055.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 8
+      },
+      {
+        "id": "e:JUNTA_NACIONAL_DE_CALIFICACION_DE_INVALIDEZ",
+        "kind": "entidad",
+        "label": "JUNTA NACIONAL DE CALIFICACION DE INVAL…",
+        "nombre": "JUNTA NACIONAL DE CALIFICACION DE INVALIDEZ",
+        "valor": 663720579.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:GOBERNACI_N_DE_BOYAC_",
+        "kind": "entidad",
+        "label": "GOBERNACIÓN DE BOYACÁ",
+        "nombre": "GOBERNACIÓN DE BOYACÁ",
+        "valor": 115206349739.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:SUBRED_INTEGRADA_DE_SERVICIOS_DE_SALUD_SUR_E_S_E",
+        "kind": "entidad",
+        "label": "SUBRED INTEGRADA DE SERVICIOS DE SALUD …",
+        "nombre": "SUBRED INTEGRADA DE SERVICIOS DE SALUD SUR E.S.E.**",
+        "valor": 4881573593.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:MINISTERIO_DE_MINAS_Y_ENERGIA",
+        "kind": "entidad",
+        "label": "MINISTERIO DE MINAS Y ENERGIA",
+        "nombre": "MINISTERIO DE MINAS Y ENERGIA",
+        "valor": 4836052632118.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 1
+      },
+      {
+        "id": "e:AEROCIVIL",
+        "kind": "entidad",
+        "label": "AEROCIVIL",
+        "nombre": "AEROCIVIL",
+        "valor": 836833475956.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 4
+      },
+      {
+        "id": "e:MINISTERIO_DE_JUSTICIA_Y_DEL_DERECHO_",
+        "kind": "entidad",
+        "label": "MINISTERIO DE JUSTICIA Y DEL DERECHO..",
+        "nombre": "MINISTERIO DE JUSTICIA Y DEL DERECHO..",
+        "valor": 60677554965.0,
+        "degree": 3,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 12
+      },
+      {
+        "id": "e:AGENCIA_DISTRITAL_PARA_LA_EDUCACI_N_SUPERIOR_LA_",
+        "kind": "entidad",
+        "label": "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUP…",
+        "nombre": "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+        "valor": 1001244950027.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 2
+      },
+      {
+        "id": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_LA_FU",
+        "kind": "entidad",
+        "label": "DEPARTAMENTO DE CUNDINAMARCA-SECRETARÍA…",
+        "nombre": "DEPARTAMENTO DE CUNDINAMARCA-SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+        "valor": 1863509429.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 11
+      },
+      {
+        "id": "e:CENTRAL_ADMINISTRATIVA_Y_CONTABLE_ESPECIALIZADA_",
+        "kind": "entidad",
+        "label": "CENTRAL ADMINISTRATIVA Y CONTABLE ESPEC…",
+        "nombre": "CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//",
+        "valor": 7967885085.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:GOBERNACI_N_DE_RISARALDA_",
+        "kind": "entidad",
+        "label": "GOBERNACIÓN DE RISARALDA**",
+        "nombre": "GOBERNACIÓN DE RISARALDA**",
+        "valor": 40419721283.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:ALCALDIA_LOCAL_DE_USAQUEN",
+        "kind": "entidad",
+        "label": "ALCALDIA LOCAL DE USAQUEN",
+        "nombre": "ALCALDIA LOCAL DE USAQUEN",
+        "valor": 34537905080.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:JEFATURA_SALUD_FUERZA_AEREA",
+        "kind": "entidad",
+        "label": "JEFATURA SALUD FUERZA AEREA",
+        "nombre": "JEFATURA SALUD FUERZA AEREA",
+        "valor": 419471356.0,
+        "degree": 2,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:SENA_DIRECCION_GENERAL",
+        "kind": "entidad",
+        "label": "SENA DIRECCION GENERAL",
+        "nombre": "SENA DIRECCION GENERAL",
+        "valor": 163024746033.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 6
+      },
+      {
+        "id": "e:COMANDO_GENERAL_DE_LAS_FUERZAS_MILITARES",
+        "kind": "entidad",
+        "label": "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+        "nombre": "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+        "valor": 25228191347.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 9
+      },
+      {
+        "id": "e:SECRETARIA_DE_EDUCACION_DEL_DISTRITO",
+        "kind": "entidad",
+        "label": "SECRETARIA DE EDUCACION DEL DISTRITO",
+        "nombre": "SECRETARIA DE EDUCACION DEL DISTRITO",
+        "valor": 963028590183.0,
+        "degree": 4,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario",
+        "palacio": 3
+      },
+      {
+        "id": "e:DIRECCI_N_DE_TR_NSITO_Y_TRANSPORTE_DE_LA_POLIC_A",
+        "kind": "entidad",
+        "label": "DIRECCIÓN DE TRÁNSITO Y TRANSPORTE DE L…",
+        "nombre": "DIRECCIÓN DE TRÁNSITO Y TRANSPORTE DE LA POLICÍA NACIONAL",
+        "valor": 1941705471.0,
+        "degree": 3,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:SENA_REGIONAL_HUILA_GRUPO_DE_APOYO_ADMINISTRATIV",
+        "kind": "entidad",
+        "label": "SENA Regional Huila Grupo de Apoyo Admi…",
+        "nombre": "SENA Regional Huila Grupo de Apoyo Administrativo Mixto",
+        "valor": 1307829937.0,
+        "degree": 3,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "e:CORPOBOYACA",
+        "kind": "entidad",
+        "label": "CORPOBOYACA",
+        "nombre": "CORPOBOYACA",
+        "valor": 8615216236.0,
+        "degree": 3,
+        "group": "comprador",
+        "ancla": false,
+        "ancla_id": null,
+        "rol": "comprador_rosario"
+      },
+      {
+        "id": "p:860007386",
+        "kind": "proveedor",
+        "label": "Universidad de los Andes",
+        "nombre": "Universidad de los Andes",
+        "nit": "860007386",
+        "valor": 16751836848.0,
+        "degree": 3,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:800096329",
+        "kind": "proveedor",
+        "label": "FINANCIERA DE DESARROLLO TERRITORIAL S.…",
+        "nombre": "FINANCIERA DE DESARROLLO TERRITORIAL S.A.",
+        "nit": "800096329",
+        "valor": 1002979246316.0,
+        "degree": 3,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:800153993",
+        "kind": "proveedor",
+        "label": "COMCEL S.A.",
+        "nombre": "COMCEL S.A.",
+        "nit": "800153993",
+        "valor": 53167975078.0,
+        "degree": 3,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:901312112",
+        "kind": "proveedor",
+        "label": "CAMERFIRMA",
+        "nombre": "CAMERFIRMA",
+        "nit": "901312112",
+        "valor": 1340956365.0,
+        "degree": 2,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:800198591",
+        "kind": "proveedor",
+        "label": "Branch Of Microsoft Colombia Inc",
+        "nombre": "Branch Of Microsoft Colombia Inc",
+        "nit": "800198591",
+        "valor": 35012221158.0,
+        "degree": 4,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:UNIVERSIDAD_SERGIO_ARBOLEDA",
+        "kind": "proveedor",
+        "label": "UNIVERSIDAD SERGIO ARBOLEDA",
+        "nombre": "UNIVERSIDAD SERGIO ARBOLEDA",
+        "nit": "UNIVERSIDAD SERGIO ARBOLEDA",
+        "valor": 9991436290.0,
+        "degree": 3,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:860007759",
+        "kind": "proveedor",
+        "label": "COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROS…",
+        "nombre": "COLEGIO MAYOR DE NUESTRA SEÑORA DEL ROSARIO",
+        "nit": "860007759",
+        "valor": 39601907967.0,
+        "degree": 26,
+        "group": "vendedor",
+        "ancla": true,
+        "ancla_id": "urosario",
+        "competidor": false,
+        "rol": "rosario"
+      },
+      {
+        "id": "p:830065092",
+        "kind": "proveedor",
+        "label": "SET Y GAD SAS.",
+        "nombre": "SET Y GAD SAS.",
+        "nit": "830065092",
+        "valor": 1980261390.0,
+        "degree": 3,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:900425697",
+        "kind": "proveedor",
+        "label": "Heimcore SAS",
+        "nombre": "Heimcore SAS",
+        "nit": "900425697",
+        "valor": 111562882755.0,
+        "degree": 4,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:899999063",
+        "kind": "proveedor",
+        "label": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+        "nombre": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+        "nit": "899999063",
+        "valor": 344769928174.0,
+        "degree": 7,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:899999230",
+        "kind": "proveedor",
+        "label": "UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE…",
+        "nombre": "UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+        "nit": "899999230",
+        "valor": 292137122295.0,
+        "degree": 4,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:800116217",
+        "kind": "proveedor",
+        "label": "UNIMINUTO",
+        "nombre": "UNIMINUTO",
+        "nit": "800116217",
+        "valor": 44467197862.0,
+        "degree": 1,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:860049921",
+        "kind": "proveedor",
+        "label": "SGS COLOMBIA SAS",
+        "nombre": "SGS COLOMBIA SAS",
+        "nit": "860049921",
+        "valor": 1812334358.0,
+        "degree": 2,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:860026058",
+        "kind": "proveedor",
+        "label": "Universidad EAN",
+        "nombre": "Universidad EAN",
+        "nit": "860026058",
+        "valor": 27570798968.0,
+        "degree": 1,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:860015542",
+        "kind": "proveedor",
+        "label": "UNISALLE",
+        "nombre": "UNISALLE",
+        "nit": "860015542",
+        "valor": 19064751623.0,
+        "degree": 3,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:899999115",
+        "kind": "proveedor",
+        "label": "ETB SA ESP",
+        "nombre": "ETB SA ESP",
+        "nit": "899999115",
+        "valor": 232110867132.0,
+        "degree": 2,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:900350937",
+        "kind": "proveedor",
+        "label": "ASOCIACIÓN INTERNACIONAL DE CONSULTORÍA",
+        "nombre": "ASOCIACIÓN INTERNACIONAL DE CONSULTORÍA",
+        "nit": "900350937",
+        "valor": 1243538815.0,
+        "degree": 2,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:860006543",
+        "kind": "proveedor",
+        "label": "SOCIEDAD  TEQUENDAMA S.A.",
+        "nombre": "SOCIEDAD  TEQUENDAMA S.A.",
+        "nit": "860006543",
+        "valor": 67969041607.0,
+        "degree": 3,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      },
+      {
+        "id": "p:860006848",
+        "kind": "proveedor",
+        "label": "FUNDACIÓN UNIVERSIDAD DE BOGOTÁ JORGE T…",
+        "nombre": "FUNDACIÓN UNIVERSIDAD DE BOGOTÁ JORGE TADEO LOZANO",
+        "nit": "860006848",
+        "valor": 31376325496.0,
+        "degree": 1,
+        "group": "vendedor",
+        "ancla": false,
+        "ancla_id": null,
+        "competidor": true,
+        "rol": "competidor"
+      }
+    ],
+    "links": [
+      {
+        "source": "e:GOBERNACI_N_DE_BOYAC_",
+        "target": "p:860007759",
+        "valor": 96000000.0,
+        "n_procesos": 1,
+        "peso": 0.096,
+        "dependencia_proveedor_pct": 0.2,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "source": "e:CAJA_DE_SUELDOS_DE_RETIRO_DE_LA_POLICIA_NACIONAL",
+        "target": "p:860007759",
+        "valor": 51634320.0,
+        "n_procesos": 1,
+        "peso": 0.05163432,
+        "dependencia_proveedor_pct": 0.1,
+        "participacion_entidad_pct": 0.4,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DE_EDUCACION_DEL_DISTRITO",
+        "target": "p:860007759",
+        "valor": 8794170638.0,
+        "n_procesos": 5,
+        "peso": 8.794170638,
+        "dependencia_proveedor_pct": 22.2,
+        "participacion_entidad_pct": 0.9,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINSALUD",
+        "target": "p:860007759",
+        "valor": 2936847329.0,
+        "n_procesos": 1,
+        "peso": 2.936847329,
+        "dependencia_proveedor_pct": 7.4,
+        "participacion_entidad_pct": 0.6,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:ECSAN",
+        "target": "p:860007759",
+        "valor": 579923999.0,
+        "n_procesos": 2,
+        "peso": 0.579923999,
+        "dependencia_proveedor_pct": 1.5,
+        "participacion_entidad_pct": 30.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_DIRECCION_GENERAL",
+        "target": "p:860007759",
+        "valor": 277300000.0,
+        "n_procesos": 1,
+        "peso": 0.2773,
+        "dependencia_proveedor_pct": 0.7,
+        "participacion_entidad_pct": 0.2,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:COMANDO_GENERAL_DE_LAS_FUERZAS_MILITARES",
+        "target": "p:860007759",
+        "valor": 64249988.0,
+        "n_procesos": 1,
+        "peso": 0.064249988,
+        "dependencia_proveedor_pct": 0.2,
+        "participacion_entidad_pct": 0.3,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_REGIONAL_BOYACA_GRUPO_DE_APOYO_ADMINISTRATI",
+        "target": "p:860007759",
+        "valor": 250100000.0,
+        "n_procesos": 2,
+        "peso": 0.2501,
+        "dependencia_proveedor_pct": 0.6,
+        "participacion_entidad_pct": 11.3,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "source": "e:GOBERNACI_N_DE_RISARALDA_",
+        "target": "p:860007759",
+        "valor": 57300000.0,
+        "n_procesos": 1,
+        "peso": 0.0573,
+        "dependencia_proveedor_pct": 0.1,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "86",
+        "depto": "Risaralda"
+      },
+      {
+        "source": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_LA_FU",
+        "target": "p:860007759",
+        "valor": 125000000.0,
+        "n_procesos": 1,
+        "peso": 0.125,
+        "dependencia_proveedor_pct": 0.3,
+        "participacion_entidad_pct": 6.7,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DISTRITAL_DE_DESARROLLO_ECONOMICO_ALC",
+        "target": "p:860007759",
+        "valor": 766378023.0,
+        "n_procesos": 1,
+        "peso": 0.766378023,
+        "dependencia_proveedor_pct": 1.9,
+        "participacion_entidad_pct": 0.7,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_REGIONAL_HUILA_GRUPO_DE_APOYO_ADMINISTRATIV",
+        "target": "p:860007759",
+        "valor": 92000000.0,
+        "n_procesos": 1,
+        "peso": 0.092,
+        "dependencia_proveedor_pct": 0.2,
+        "participacion_entidad_pct": 7.0,
+        "segmento": "86",
+        "depto": "Huila"
+      },
+      {
+        "source": "e:CENTRAL_ADMINISTRATIVA_Y_CONTABLE_ESPECIALIZADA_",
+        "target": "p:860007759",
+        "valor": 546541750.0,
+        "n_procesos": 2,
+        "peso": 0.54654175,
+        "dependencia_proveedor_pct": 1.4,
+        "participacion_entidad_pct": 6.9,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:JEFATURA_SALUD_FUERZA_AEREA",
+        "target": "p:860007759",
+        "valor": 16000000.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.0,
+        "participacion_entidad_pct": 3.8,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_COMPE",
+        "target": "p:860007759",
+        "valor": 299328000.0,
+        "n_procesos": 1,
+        "peso": 0.299328,
+        "dependencia_proveedor_pct": 0.8,
+        "participacion_entidad_pct": 3.0,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DIRECCI_N_DE_TR_NSITO_Y_TRANSPORTE_DE_LA_POLIC_A",
+        "target": "p:860007759",
+        "valor": 234234000.0,
+        "n_procesos": 1,
+        "peso": 0.234234,
+        "dependencia_proveedor_pct": 0.6,
+        "participacion_entidad_pct": 12.1,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AGENCIA_DISTRITAL_PARA_LA_EDUCACI_N_SUPERIOR_LA_",
+        "target": "p:860007759",
+        "valor": 23208399719.0,
+        "n_procesos": 3,
+        "peso": 23.208399719,
+        "dependencia_proveedor_pct": 58.6,
+        "participacion_entidad_pct": 2.3,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AEROCIVIL",
+        "target": "p:860007759",
+        "valor": 16000000.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.0,
+        "participacion_entidad_pct": 0.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINISTERIO_DE_MINAS_Y_ENERGIA",
+        "target": "p:860007759",
+        "valor": 198000000.0,
+        "n_procesos": 1,
+        "peso": 0.198,
+        "dependencia_proveedor_pct": 0.5,
+        "participacion_entidad_pct": 0.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:CORPOBOYACA",
+        "target": "p:860007759",
+        "valor": 20223999.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.1,
+        "participacion_entidad_pct": 0.2,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "source": "e:SUBRED_INTEGRADA_DE_SERVICIOS_DE_SALUD_SUR_E_S_E",
+        "target": "p:860007759",
+        "valor": 50700000.0,
+        "n_procesos": 1,
+        "peso": 0.0507,
+        "dependencia_proveedor_pct": 0.1,
+        "participacion_entidad_pct": 1.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:JUNTA_NACIONAL_DE_CALIFICACION_DE_INVALIDEZ",
+        "target": "p:860007759",
+        "valor": 10785225.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.0,
+        "participacion_entidad_pct": 1.6,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINISTERIO_DE_JUSTICIA_Y_DEL_DERECHO_",
+        "target": "p:860007759",
+        "valor": 426408218.0,
+        "n_procesos": 1,
+        "peso": 0.426408218,
+        "dependencia_proveedor_pct": 1.1,
+        "participacion_entidad_pct": 0.7,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:ALCALDIA_LOCAL_DE_USAQUEN",
+        "target": "p:860007759",
+        "valor": 411870000.0,
+        "n_procesos": 1,
+        "peso": 0.41187,
+        "dependencia_proveedor_pct": 1.0,
+        "participacion_entidad_pct": 1.2,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DIRECCION_DE_ANTINARCOTICOS",
+        "target": "p:860007759",
+        "valor": 55999992.0,
+        "n_procesos": 1,
+        "peso": 0.055999992,
+        "dependencia_proveedor_pct": 0.1,
+        "participacion_entidad_pct": 0.0,
+        "segmento": "86",
+        "depto": "Cundinamarca"
+      },
+      {
+        "source": "e:DEPARTAMENTO_ADMINISTRATIVO_DE_LA_DEFENSORIA_DEL",
+        "target": "p:860007759",
+        "valor": 16512767.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.0,
+        "participacion_entidad_pct": 0.4,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_REGIONAL_BOYACA_GRUPO_DE_APOYO_ADMINISTRATI",
+        "target": "p:860049921",
+        "valor": 2124019.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.1,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "81",
+        "depto": "Boyacá"
+      },
+      {
+        "source": "e:DIRECCION_DE_ANTINARCOTICOS",
+        "target": "p:860015542",
+        "valor": 940000000.0,
+        "n_procesos": 3,
+        "peso": 0.94,
+        "dependencia_proveedor_pct": 4.9,
+        "participacion_entidad_pct": 0.7,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DIRECCION_DE_ANTINARCOTICOS",
+        "target": "p:800153993",
+        "valor": 148950232.0,
+        "n_procesos": 1,
+        "peso": 0.148950232,
+        "dependencia_proveedor_pct": 0.3,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "81",
+        "depto": "Cundinamarca"
+      },
+      {
+        "source": "e:DIRECCION_DE_ANTINARCOTICOS",
+        "target": "p:UNIVERSIDAD_SERGIO_ARBOLEDA",
+        "valor": 42000000.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.4,
+        "participacion_entidad_pct": 0.0,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DEPARTAMENTO_ADMINISTRATIVO_DE_LA_DEFENSORIA_DEL",
+        "target": "p:901312112",
+        "valor": 3855600.0,
+        "n_procesos": 2,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.3,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINSALUD",
+        "target": "p:800096329",
+        "valor": 159483621265.0,
+        "n_procesos": 2,
+        "peso": 159.483621265,
+        "dependencia_proveedor_pct": 15.9,
+        "participacion_entidad_pct": 29.9,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINSALUD",
+        "target": "p:800198591",
+        "valor": 7317160123.0,
+        "n_procesos": 3,
+        "peso": 7.317160123,
+        "dependencia_proveedor_pct": 20.9,
+        "participacion_entidad_pct": 1.4,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINSALUD",
+        "target": "p:899999063",
+        "valor": 5743291954.0,
+        "n_procesos": 3,
+        "peso": 5.743291954,
+        "dependencia_proveedor_pct": 1.7,
+        "participacion_entidad_pct": 1.1,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:ECSAN",
+        "target": "p:860015542",
+        "valor": 300000000.0,
+        "n_procesos": 3,
+        "peso": 0.3,
+        "dependencia_proveedor_pct": 1.6,
+        "participacion_entidad_pct": 15.5,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:CAJA_DE_SUELDOS_DE_RETIRO_DE_LA_POLICIA_NACIONAL",
+        "target": "p:860006543",
+        "valor": 4024999994.0,
+        "n_procesos": 2,
+        "peso": 4.024999994,
+        "dependencia_proveedor_pct": 5.9,
+        "participacion_entidad_pct": 33.6,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:CAJA_DE_SUELDOS_DE_RETIRO_DE_LA_POLICIA_NACIONAL",
+        "target": "p:899999230",
+        "valor": 1870184774.0,
+        "n_procesos": 1,
+        "peso": 1.870184774,
+        "dependencia_proveedor_pct": 0.6,
+        "participacion_entidad_pct": 15.6,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:CAJA_DE_SUELDOS_DE_RETIRO_DE_LA_POLICIA_NACIONAL",
+        "target": "p:900425697",
+        "valor": 408146081.0,
+        "n_procesos": 2,
+        "peso": 0.408146081,
+        "dependencia_proveedor_pct": 0.4,
+        "participacion_entidad_pct": 3.4,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DISTRITAL_DE_DESARROLLO_ECONOMICO_ALC",
+        "target": "p:900425697",
+        "valor": 892696636.0,
+        "n_procesos": 1,
+        "peso": 0.892696636,
+        "dependencia_proveedor_pct": 0.8,
+        "participacion_entidad_pct": 0.8,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DISTRITAL_DE_DESARROLLO_ECONOMICO_ALC",
+        "target": "p:860007386",
+        "valor": 741520000.0,
+        "n_procesos": 1,
+        "peso": 0.74152,
+        "dependencia_proveedor_pct": 4.4,
+        "participacion_entidad_pct": 0.7,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DISTRITAL_DE_DESARROLLO_ECONOMICO_ALC",
+        "target": "p:899999230",
+        "valor": 622300000.0,
+        "n_procesos": 1,
+        "peso": 0.6223,
+        "dependencia_proveedor_pct": 0.2,
+        "participacion_entidad_pct": 0.6,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:JUNTA_NACIONAL_DE_CALIFICACION_DE_INVALIDEZ",
+        "target": "p:900350937",
+        "valor": 19029000.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 1.5,
+        "participacion_entidad_pct": 2.9,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:GOBERNACI_N_DE_BOYAC_",
+        "target": "p:UNIVERSIDAD_SERGIO_ARBOLEDA",
+        "valor": 299250000.0,
+        "n_procesos": 1,
+        "peso": 0.29925,
+        "dependencia_proveedor_pct": 3.0,
+        "participacion_entidad_pct": 0.3,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "source": "e:SUBRED_INTEGRADA_DE_SERVICIOS_DE_SALUD_SUR_E_S_E",
+        "target": "p:830065092",
+        "valor": 28000000.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 1.4,
+        "participacion_entidad_pct": 0.6,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINISTERIO_DE_MINAS_Y_ENERGIA",
+        "target": "p:899999063",
+        "valor": 10261740277.0,
+        "n_procesos": 4,
+        "peso": 10.261740277,
+        "dependencia_proveedor_pct": 3.0,
+        "participacion_entidad_pct": 0.2,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINISTERIO_DE_MINAS_Y_ENERGIA",
+        "target": "p:900425697",
+        "valor": 995040465.0,
+        "n_procesos": 1,
+        "peso": 0.995040465,
+        "dependencia_proveedor_pct": 0.9,
+        "participacion_entidad_pct": 0.0,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINISTERIO_DE_MINAS_Y_ENERGIA",
+        "target": "p:901312112",
+        "valor": 18480267.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 1.4,
+        "participacion_entidad_pct": 0.0,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AEROCIVIL",
+        "target": "p:800096329",
+        "valor": 55506000454.0,
+        "n_procesos": 1,
+        "peso": 55.506000454,
+        "dependencia_proveedor_pct": 5.5,
+        "participacion_entidad_pct": 6.6,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AEROCIVIL",
+        "target": "p:899999063",
+        "valor": 3007200000.0,
+        "n_procesos": 1,
+        "peso": 3.0072,
+        "dependencia_proveedor_pct": 0.9,
+        "participacion_entidad_pct": 0.4,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AEROCIVIL",
+        "target": "p:800198591",
+        "valor": 761818732.0,
+        "n_procesos": 1,
+        "peso": 0.761818732,
+        "dependencia_proveedor_pct": 2.2,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINISTERIO_DE_JUSTICIA_Y_DEL_DERECHO_",
+        "target": "p:800153993",
+        "valor": 310951200.0,
+        "n_procesos": 1,
+        "peso": 0.3109512,
+        "dependencia_proveedor_pct": 0.6,
+        "participacion_entidad_pct": 0.5,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:MINISTERIO_DE_JUSTICIA_Y_DEL_DERECHO_",
+        "target": "p:860007386",
+        "valor": 146464018.0,
+        "n_procesos": 1,
+        "peso": 0.146464018,
+        "dependencia_proveedor_pct": 0.9,
+        "participacion_entidad_pct": 0.2,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AGENCIA_DISTRITAL_PARA_LA_EDUCACI_N_SUPERIOR_LA_",
+        "target": "p:899999230",
+        "valor": 189735010870.0,
+        "n_procesos": 3,
+        "peso": 189.73501087,
+        "dependencia_proveedor_pct": 64.9,
+        "participacion_entidad_pct": 18.9,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AGENCIA_DISTRITAL_PARA_LA_EDUCACI_N_SUPERIOR_LA_",
+        "target": "p:899999063",
+        "valor": 136093023650.0,
+        "n_procesos": 4,
+        "peso": 136.09302365,
+        "dependencia_proveedor_pct": 39.5,
+        "participacion_entidad_pct": 13.6,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:AGENCIA_DISTRITAL_PARA_LA_EDUCACI_N_SUPERIOR_LA_",
+        "target": "p:860026058",
+        "valor": 22234399868.0,
+        "n_procesos": 3,
+        "peso": 22.234399868,
+        "dependencia_proveedor_pct": 80.6,
+        "participacion_entidad_pct": 2.2,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:CENTRAL_ADMINISTRATIVA_Y_CONTABLE_ESPECIALIZADA_",
+        "target": "p:UNIVERSIDAD_SERGIO_ARBOLEDA",
+        "valor": 59400000.0,
+        "n_procesos": 1,
+        "peso": 0.0594,
+        "dependencia_proveedor_pct": 0.6,
+        "participacion_entidad_pct": 0.7,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_LA_FU",
+        "target": "p:860007386",
+        "valor": 259265000.0,
+        "n_procesos": 2,
+        "peso": 0.259265,
+        "dependencia_proveedor_pct": 1.5,
+        "participacion_entidad_pct": 13.9,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_LA_FU",
+        "target": "p:899999063",
+        "valor": 91319204.0,
+        "n_procesos": 1,
+        "peso": 0.091319204,
+        "dependencia_proveedor_pct": 0.0,
+        "participacion_entidad_pct": 4.9,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_LA_FU",
+        "target": "p:899999230",
+        "valor": 84515000.0,
+        "n_procesos": 2,
+        "peso": 0.084515,
+        "dependencia_proveedor_pct": 0.0,
+        "participacion_entidad_pct": 4.5,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:GOBERNACI_N_DE_RISARALDA_",
+        "target": "p:899999115",
+        "valor": 609256068.0,
+        "n_procesos": 3,
+        "peso": 0.609256068,
+        "dependencia_proveedor_pct": 0.3,
+        "participacion_entidad_pct": 1.5,
+        "segmento": "81",
+        "depto": "Risaralda"
+      },
+      {
+        "source": "e:ALCALDIA_LOCAL_DE_USAQUEN",
+        "target": "p:899999063",
+        "valor": 2370805918.0,
+        "n_procesos": 5,
+        "peso": 2.370805918,
+        "dependencia_proveedor_pct": 0.7,
+        "participacion_entidad_pct": 6.9,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:JEFATURA_SALUD_FUERZA_AEREA",
+        "target": "p:830065092",
+        "valor": 278658756.0,
+        "n_procesos": 6,
+        "peso": 0.278658756,
+        "dependencia_proveedor_pct": 14.1,
+        "participacion_entidad_pct": 66.4,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_DIRECCION_GENERAL",
+        "target": "p:860006543",
+        "valor": 52397332265.0,
+        "n_procesos": 1,
+        "peso": 52.397332265,
+        "dependencia_proveedor_pct": 77.1,
+        "participacion_entidad_pct": 32.1,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_DIRECCION_GENERAL",
+        "target": "p:899999063",
+        "valor": 4731000000.0,
+        "n_procesos": 2,
+        "peso": 4.731,
+        "dependencia_proveedor_pct": 1.4,
+        "participacion_entidad_pct": 2.9,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_DIRECCION_GENERAL",
+        "target": "p:800198591",
+        "valor": 2707959313.0,
+        "n_procesos": 1,
+        "peso": 2.707959313,
+        "dependencia_proveedor_pct": 7.7,
+        "participacion_entidad_pct": 1.7,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:COMANDO_GENERAL_DE_LAS_FUERZAS_MILITARES",
+        "target": "p:900425697",
+        "valor": 393998000.0,
+        "n_procesos": 2,
+        "peso": 0.393998,
+        "dependencia_proveedor_pct": 0.4,
+        "participacion_entidad_pct": 1.6,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:COMANDO_GENERAL_DE_LAS_FUERZAS_MILITARES",
+        "target": "p:860006543",
+        "valor": 342231752.0,
+        "n_procesos": 1,
+        "peso": 0.342231752,
+        "dependencia_proveedor_pct": 0.5,
+        "participacion_entidad_pct": 1.4,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:COMANDO_GENERAL_DE_LAS_FUERZAS_MILITARES",
+        "target": "p:800198591",
+        "valor": 139866195.0,
+        "n_procesos": 1,
+        "peso": 0.139866195,
+        "dependencia_proveedor_pct": 0.4,
+        "participacion_entidad_pct": 0.6,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DE_EDUCACION_DEL_DISTRITO",
+        "target": "p:800096329",
+        "valor": 276554631760.0,
+        "n_procesos": 1,
+        "peso": 276.55463176,
+        "dependencia_proveedor_pct": 27.6,
+        "participacion_entidad_pct": 28.7,
+        "segmento": "80",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DE_EDUCACION_DEL_DISTRITO",
+        "target": "p:899999115",
+        "valor": 35979944153.0,
+        "n_procesos": 2,
+        "peso": 35.979944153,
+        "dependencia_proveedor_pct": 15.5,
+        "participacion_entidad_pct": 3.7,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SECRETARIA_DE_EDUCACION_DEL_DISTRITO",
+        "target": "p:800153993",
+        "valor": 25635053637.0,
+        "n_procesos": 1,
+        "peso": 25.635053637,
+        "dependencia_proveedor_pct": 48.2,
+        "participacion_entidad_pct": 2.7,
+        "segmento": "81",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DIRECCI_N_DE_TR_NSITO_Y_TRANSPORTE_DE_LA_POLIC_A",
+        "target": "p:860015542",
+        "valor": 260643500.0,
+        "n_procesos": 1,
+        "peso": 0.2606435,
+        "dependencia_proveedor_pct": 1.4,
+        "participacion_entidad_pct": 13.4,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:DIRECCI_N_DE_TR_NSITO_Y_TRANSPORTE_DE_LA_POLIC_A",
+        "target": "p:860006848",
+        "valor": 157634000.0,
+        "n_procesos": 1,
+        "peso": 0.157634,
+        "dependencia_proveedor_pct": 0.5,
+        "participacion_entidad_pct": 8.1,
+        "segmento": "86",
+        "depto": "Distrito Capital de Bogotá"
+      },
+      {
+        "source": "e:SENA_REGIONAL_HUILA_GRUPO_DE_APOYO_ADMINISTRATIV",
+        "target": "p:800116217",
+        "valor": 144277365.0,
+        "n_procesos": 2,
+        "peso": 0.144277365,
+        "dependencia_proveedor_pct": 0.3,
+        "participacion_entidad_pct": 11.0,
+        "segmento": "86",
+        "depto": "Huila"
+      },
+      {
+        "source": "e:SENA_REGIONAL_HUILA_GRUPO_DE_APOYO_ADMINISTRATIV",
+        "target": "p:830065092",
+        "valor": 16350600.0,
+        "n_procesos": 2,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.8,
+        "participacion_entidad_pct": 1.3,
+        "segmento": "81",
+        "depto": "Huila"
+      },
+      {
+        "source": "e:CORPOBOYACA",
+        "target": "p:900350937",
+        "valor": 11481120.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.9,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "86",
+        "depto": "Boyacá"
+      },
+      {
+        "source": "e:CORPOBOYACA",
+        "target": "p:860049921",
+        "valor": 7124530.0,
+        "n_procesos": 1,
+        "peso": 0.05,
+        "dependencia_proveedor_pct": 0.4,
+        "participacion_entidad_pct": 0.1,
+        "segmento": "86",
+        "depto": "Boyacá"
+      }
+    ],
+    "palacios": [
+      {
+        "id": "e:MINISTERIO_DE_MINAS_Y_ENERGIA",
+        "nombre": "MINISTERIO DE MINAS Y ENERGIA",
+        "degree": 4,
+        "valor": 4836052632118.0
+      },
+      {
+        "id": "e:AGENCIA_DISTRITAL_PARA_LA_EDUCACI_N_SUPERIOR_LA_",
+        "nombre": "AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA",
+        "degree": 4,
+        "valor": 1001244950027.0
+      },
+      {
+        "id": "e:SECRETARIA_DE_EDUCACION_DEL_DISTRITO",
+        "nombre": "SECRETARIA DE EDUCACION DEL DISTRITO",
+        "degree": 4,
+        "valor": 963028590183.0
+      },
+      {
+        "id": "e:AEROCIVIL",
+        "nombre": "AEROCIVIL",
+        "degree": 4,
+        "valor": 836833475956.0
+      },
+      {
+        "id": "e:MINSALUD",
+        "nombre": "MINSALUD",
+        "degree": 4,
+        "valor": 532511206119.0
+      },
+      {
+        "id": "e:SENA_DIRECCION_GENERAL",
+        "nombre": "SENA DIRECCION GENERAL",
+        "degree": 4,
+        "valor": 163024746033.0
+      },
+      {
+        "id": "e:DIRECCION_DE_ANTINARCOTICOS",
+        "nombre": "DIRECCION DE ANTINARCOTICOS",
+        "degree": 4,
+        "valor": 132270852638.0
+      },
+      {
+        "id": "e:SECRETARIA_DISTRITAL_DE_DESARROLLO_ECONOMICO_ALC",
+        "nombre": "SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ",
+        "degree": 4,
+        "valor": 113128267055.0
+      },
+      {
+        "id": "e:COMANDO_GENERAL_DE_LAS_FUERZAS_MILITARES",
+        "nombre": "COMANDO GENERAL DE LAS FUERZAS MILITARES",
+        "degree": 4,
+        "valor": 25228191347.0
+      },
+      {
+        "id": "e:CAJA_DE_SUELDOS_DE_RETIRO_DE_LA_POLICIA_NACIONAL",
+        "nombre": "CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL",
+        "degree": 4,
+        "valor": 11974556495.0
+      },
+      {
+        "id": "e:DEPARTAMENTO_DE_CUNDINAMARCA_SECRETAR_A_DE_LA_FU",
+        "nombre": "DEPARTAMENTO DE CUNDINAMARCA-SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+        "degree": 4,
+        "valor": 1863509429.0
+      },
+      {
+        "id": "e:MINISTERIO_DE_JUSTICIA_Y_DEL_DERECHO_",
+        "nombre": "MINISTERIO DE JUSTICIA Y DEL DERECHO..",
+        "degree": 3,
+        "valor": 60677554965.0
+      }
+    ]
+  },
+  "red_mercado_meta": {
+    "n_nodos": 480,
+    "n_aristas": 487,
+    "n_entidades": 107,
+    "n_proveedores": 373,
+    "n_anclas_urosario": 1,
+    "fuente": "secop_ctei_lineas_limpio.csv",
+    "n_edges_universo": 28046,
+    "modo": "mercado_muestra"
+  }
+}

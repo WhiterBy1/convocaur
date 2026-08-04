@@ -22,7 +22,7 @@ export function Shell({ children }: { children: ReactNode }) {
       </header>
       <main className="main">{children}</main>
       <footer className="footer">
-        ConvocaUR · Universidad del Rosario · SECOP CTeI + matching Minciencias
+        Universidad del Rosario · ConvocaUR
       </footer>
     </div>
   );

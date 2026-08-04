@@ -242,7 +242,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
         <div style={{ width: "100%", height: 320 }}>
           <ResponsiveContainer>
             <ComposedChart data={chartData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="rgba(238,245,240,0.08)" />
+              <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
               <XAxis dataKey="label" tick={{ fill: "#9aada2", fontSize: 11 }} />
               <YAxis
                 tick={{ fill: "#9aada2", fontSize: 11 }}
@@ -283,7 +283,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                 type="monotone"
                 dataKey="obs"
                 name="Observado"
-                stroke="#c4a35a"
+                stroke="#6fd0bc"
                 strokeWidth={2.6}
                 dot={{ r: 3 }}
                 connectNulls={false}
@@ -292,7 +292,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                 type="monotone"
                 dataKey="proy"
                 name="Proyección"
-                stroke="#5ec4a8"
+                stroke="#e2b86a"
                 strokeWidth={2.6}
                 strokeDasharray="7 4"
                 dot={{ r: 3 }}
@@ -348,7 +348,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
           <div style={{ width: "100%", height: 240 }}>
             <ResponsiveContainer>
               <BarChart data={modelos} layout="vertical" margin={{ left: 8, right: 16 }}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(238,245,240,0.08)" />
+                <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
                 <XAxis
                   type="number"
                   tick={{ fill: "#9aada2", fontSize: 11 }}
@@ -371,7 +371,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                 <Bar
                   dataKey="mape"
                   name="MAPE %"
-                  fill="#c4a35a"
+                  fill="#6fd0bc"
                   radius={[0, 6, 6, 0]}
                 />
               </BarChart>
@@ -392,7 +392,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
             <div style={{ width: "100%", height: 240 }}>
               <ResponsiveContainer>
                 <BarChart data={segBars}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(238,245,240,0.08)" />
+                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
                   <XAxis dataKey="nombre" tick={{ fill: "#9aada2", fontSize: 11 }} />
                   <YAxis tick={{ fill: "#9aada2", fontSize: 11 }} />
                   <Tooltip
@@ -406,7 +406,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                       ctx?.payload?.nombreFull || "Procesos",
                     ]}
                   />
-                  <Bar dataKey="total" name="Procesos 6m" fill="#5ec4a8" radius={[6, 6, 0, 0]} />
+                  <Bar dataKey="total" name="Procesos 6m" fill="#e2b86a" radius={[6, 6, 0, 0]} />
                 </BarChart>
               </ResponsiveContainer>
             </div>
@@ -453,7 +453,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
           <div style={{ width: "100%", height: 260 }}>
             <ResponsiveContainer>
               <ComposedChart data={serieValor}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(238,245,240,0.08)" />
+                <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
                 <XAxis dataKey="label" tick={{ fill: "#9aada2", fontSize: 11 }} />
                 <YAxis
                   tick={{ fill: "#9aada2", fontSize: 11 }}
@@ -492,7 +492,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                   type="monotone"
                   dataKey="obs"
                   name="Observado"
-                  stroke="#c4a35a"
+                  stroke="#6fd0bc"
                   strokeWidth={2.4}
                   dot={{ r: 2 }}
                 />
@@ -500,7 +500,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                   type="monotone"
                   dataKey="proy"
                   name="Proyección"
-                  stroke="#e8c97a"
+                  stroke="#c5d0da"
                   strokeWidth={2.4}
                   strokeDasharray="7 4"
                   dot={{ r: 2 }}

@@ -55,6 +55,19 @@ REQUEST_DELAY_SECONDS = 1.5  # cortesía con el servidor público
 HEADERS = {"User-Agent": "ConvocaUR-ETL/0.1 (proyecto academico Universidad del Rosario)"}
 
 
+def id_desde_url(url: str | None) -> str | None:
+    """Fallback estable cuando Minciencias no publica 'Número' (concursos, /node/N)."""
+    if not url:
+        return None
+    m = re.search(r"/node/(\d+)", str(url))
+    if m:
+        return f"node_{m.group(1)}"
+    m = re.search(r"/convocatoria[s]?/(\d+)", str(url), re.IGNORECASE)
+    if m:
+        return m.group(1)
+    return None
+
+
 # ---------------------------------------------------------------------------
 # Utilidades de request
 # ---------------------------------------------------------------------------
@@ -90,10 +103,14 @@ def extraer_listado(max_paginas: int) -> pd.DataFrame:
             if len(celdas) < 5:
                 continue
             link_titulo = celdas[1].find("a")
+            url_detalle = urljoin(BASE_URL, link_titulo["href"]) if link_titulo else None
+            numero = celdas[0].get_text(strip=True)
+            if not numero:
+                numero = id_desde_url(url_detalle) or ""
             filas.append({
-                "numero": celdas[0].get_text(strip=True),
+                "numero": numero,
                 "titulo": link_titulo.get_text(strip=True) if link_titulo else celdas[1].get_text(strip=True),
-                "url_detalle": urljoin(BASE_URL, link_titulo["href"]) if link_titulo else None,
+                "url_detalle": url_detalle,
                 "descripcion": celdas[2].get_text(strip=True),
                 "total_recursos_texto": celdas[3].get_text(strip=True),
                 "fecha_apertura_texto": celdas[4].get_text(strip=True),
@@ -187,6 +204,8 @@ def extraer_detalle(url: str) -> DetalleConvocatoria:
     m = re.search(r"Número:\s*\n?\s*(\d+)", texto_pagina)
     if m:
         detalle.numero = m.group(1)
+    elif not detalle.numero:
+        detalle.numero = id_desde_url(url)
 
     h1 = soup.find("h1")
     if h1:

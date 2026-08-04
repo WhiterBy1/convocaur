@@ -42,11 +42,11 @@ export const MATCH_LAYOUT = {
 };
 
 const COLOR: Record<string, string> = {
-  convocatoria: "#c4a35a",
-  profesor: "#5ec4a8",
-  termino: "#e8c97a",
+  convocatoria: "#6fd0bc",
+  profesor: "#e2b86a",
+  termino: "#e8917a",
   aporte: "#7a8f86",
-  dim: "rgba(238,245,240,0.12)",
+  dim: "rgba(233,238,244,0.28)",
 };
 
 function linkEnds(l: MatchLink): [string, string] {
@@ -182,7 +182,7 @@ export function MatchGraph({ grafo, activeId, onSelect }: Props) {
         ctx.globalAlpha = 1;
         const fs = node.kind === "termino" ? 10 : 11;
         ctx.font = `${fs / globalScale}px Manrope, sans-serif`;
-        ctx.fillStyle = node.kind === "termino" ? "#e2c98a" : "#eef5f0";
+        ctx.fillStyle = node.kind === "termino" ? "#e2b86a" : "#e9eef4";
         ctx.textAlign = "center";
         const label =
           node.kind === "convocatoria"
@@ -190,7 +190,7 @@ export function MatchGraph({ grafo, activeId, onSelect }: Props) {
             : (node.label || "").slice(0, node.kind === "termino" ? 20 : 18);
         ctx.fillText(label, node.x, node.y + r + 10 / globalScale);
         if (node.kind === "profesor" && node.score != null && (isFocus || globalScale > 1.1)) {
-          ctx.fillStyle = "#5ec4a8";
+          ctx.fillStyle = "#e2b86a";
           ctx.font = `${9 / globalScale}px Manrope, sans-serif`;
           ctx.fillText(Number(node.score).toFixed(2), node.x, node.y + 3 / globalScale);
         }
@@ -265,7 +265,7 @@ export function MatchGraph({ grafo, activeId, onSelect }: Props) {
           width={size.w}
           height={size.h}
           graphData={graphData}
-          backgroundColor="rgba(10, 18, 14, 0.92)"
+          backgroundColor="#11151b"
           nodeCanvasObject={paintNode}
           linkCanvasObject={paintLink}
           linkDirectionalParticles={0}

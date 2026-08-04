@@ -1,0 +1,274 @@
+{
+  "convocatoria": "node_9339",
+  "objetivo": "Fortalecer las capacidades en I+D+i en mujeres beneficiarias del programa Orquídeas y de las convocatorias 960 de 2024 y 964 de 2025, mediante la participación en una movilidad académica internacional de corta duración en instituciones de alto nivel de África, a través de la conformación de un banco de elegibles.",
+  "actores_elegibles": [
+    {
+      "tipo": "Mujer beneficiaria del Programa Orquídeas o Convocatorias 960/964",
+      "rol": null,
+      "condicion": "Estudiante de pregrado, mayor de edad, cursando programa de pregrado"
+    },
+    {
+      "tipo": "Mujer beneficiaria del Programa Orquídeas o Convocatorias 960/964",
+      "rol": null,
+      "condicion": "Profesional graduada, mayor de edad, con título profesional de pregrado"
+    },
+    {
+      "tipo": "Mujer beneficiaria del Programa Orquídeas o Convocatorias 960/964",
+      "rol": null,
+      "condicion": "Cursando o ha culminado estudios de maestría"
+    },
+    {
+      "tipo": "Mujer beneficiaria del Programa Orquídeas o Convocatorias 960/964",
+      "rol": null,
+      "condicion": "Cursando o ha culminado estudios de doctorado"
+    }
+  ],
+  "alianza_obligatoria": null,
+  "lineas_tematicas": [
+    {
+      "nombre": "Inteligencia Artificial aplicada al Desarrollo Social y Productivo",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Uso de algoritmos de aprendizaje automático y modelos de IA para resolver desafíos en agricultura, salud e industria."
+    },
+    {
+      "nombre": "Física de la Materia Condensada y Nanotecnología",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Investigación de propiedades físicas en materiales sólidos a escalas atómicas para nuevas tecnologías en electrónica, medicina y energía."
+    },
+    {
+      "nombre": "Modelado Geofísico y Física de la Tierra Sólida",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Aplicación de técnicas físicas para exploración de recursos minerales, estudios de suelos y dinámicas terrestres."
+    },
+    {
+      "nombre": "Gestión Ambiental y Sostenibilidad de Recursos Naturales",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Estrategias técnicas y políticas para manejo de recursos renovables y no renovables, protección de ecosistemas y transición energética."
+    },
+    {
+      "nombre": "Análisis Económico y Gestión de Políticas Públicas",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Aplicación de modelos macro y microeconómicos para toma de decisiones estratégicas y fortalecimiento de gobernanza."
+    },
+    {
+      "nombre": "Investigación Avanzada en Salud Reproductiva y Materna",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Enfoques científicos basados en evidencia para abordar retos de salud pública, oncología ginecológica y medicina de fertilidad."
+    },
+    {
+      "nombre": "Ciencias de la Computación y Arquitecturas de Software",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Diseño de sistemas computacionales y desarrollo de software para optimización de procesos, gestión de datos y seguridad de la información."
+    },
+    {
+      "nombre": "Gestión y Desarrollo de Políticas Deportivas",
+      "modalidad": "PAULESI",
+      "descripcion_corta": "Profesionalización del sector deportivo mediante análisis de políticas y administración de infraestructuras."
+    },
+    {
+      "nombre": "Inteligencia Artificial y Sistemas Autónomos",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Investigación y desarrollo de modelos de IA aplicados a desafíos socioeconómicos, integrando aprendizaje automático."
+    },
+    {
+      "nombre": "Ciencia de Datos y Analítica Avanzada",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Aplicación de métodos computacionales y estadísticos para análisis de grandes volúmenes de datos y analítica predictiva."
+    },
+    {
+      "nombre": "Biotecnología y Biología Molecular Aplicada",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Desarrollo de soluciones biotecnológicas para salud y agricultura, enfocadas en investigación molecular."
+    },
+    {
+      "nombre": "Ingeniería Mecatrónica y Automatización",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Diseño y optimización de sistemas mecánicos inteligentes y procesos automatizados para eficiencia industrial."
+    },
+    {
+      "nombre": "Ingeniería Eléctrica y Telecomunicaciones",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Innovación en sistemas de potencia, redes de comunicación y hardware computacional para infraestructura digital y energética."
+    },
+    {
+      "nombre": "Ingeniería Civil y Sostenibilidad Ambiental",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Investigación en estructuras, transporte y gestión de construcción con enfoque en infraestructura sostenible."
+    },
+    {
+      "nombre": "Modelado Matemático y Computacional",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Uso de ciencias matemáticas para diseño de soluciones transdisciplinarias ante retos complejos de desarrollo."
+    },
+    {
+      "nombre": "Ingeniería Mecánica y Procesos Industriales",
+      "modalidad": "PAUSTI",
+      "descripcion_corta": "Desarrollo de sistemas mecánicos y optimización de tecnologías de producción para transformación industrial."
+    }
+  ],
+  "requisitos": [],
+  "causales_rechazo": [],
+  "criterios_evaluacion": [
+    {
+      "nombre": "Capacidad técnica, idoneidad y trayectoria del la candidata",
+      "puntaje_max": null,
+      "peso_pct": null,
+      "descripcion": "Agrupa los subcriterios de experiencia técnica, valoración motivacional y pertinencia del resumen de investigación, con un subtotal de 70 puntos."
+    },
+    {
+      "nombre": "Experiencia y capacidad técnica de la postulante",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la trayectoria y experiencia en áreas relacionadas con las líneas temáticas del concurso, según años de experiencia y participación en proyectos, publicaciones o desarrollos."
+    },
+    {
+      "nombre": "Valoración motivacional y expectativas",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la claridad y solidez de la motivación y expectativas de la candidata para la movilidad académica internacional en África."
+    },
+    {
+      "nombre": "Articulación y pertinencia del resumen de investigación",
+      "puntaje_max": 20.0,
+      "peso_pct": null,
+      "descripcion": "Evalúa la coherencia y pertinencia de la propuesta de investigación con las líneas temáticas de la universidad de destino y el impacto de la movilidad."
+    },
+    {
+      "nombre": "Enfoque diferencial de la candidata",
+      "puntaje_max": 30.0,
+      "peso_pct": null,
+      "descripcion": "Otorga puntos adicionales por auto-reconocimiento como afrodescendiente o indígena (15 puntos) y por acreditar categorías adicionales de enfoque diferencial e interseccional (hasta 15 puntos acumulables)."
+    }
+  ],
+  "financiacion": {
+    "monto_total_texto": "DOS MIL SETECIENTOS MILLONES DE PESOS MONEDA CORRIENTE ($2.700.000.000)",
+    "monto_total_cop": 2700000000.0,
+    "plazo_min_meses": null,
+    "plazo_max_meses": null,
+    "contrapartida_pct_min": null,
+    "contrapartida_pct_max": null,
+    "fuente_recursos": "CDP No. 53626 de 2026 (proyecto BPIN 202300000000116) por $2.000.000.000; saldos de convenios asociados a CRP No. 20761, 20762, 20763 y 20764 de 2026 por $700.000.000",
+    "notas": "La financiación total es de $2.700.000.000, distribuidos en $2.000.000.000 del CDP y $700.000.000 adicionales de saldos de convenios. No se especifican plazos ni porcentajes de contrapartida."
+  },
+  "meta": {
+    "secciones": {
+      "objetivo": {
+        "clave": "objetivo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 682,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 447,
+          "completion_tokens": 195
+        }
+      },
+      "dirigida_a": {
+        "clave": "dirigida_a",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 6203,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 1951,
+          "completion_tokens": 876
+        }
+      },
+      "lineas_tematicas": {
+        "clave": "lineas_tematicas",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 7184,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2127,
+          "completion_tokens": 1070
+        }
+      },
+      "requisitos": {
+        "clave": "requisitos",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 13256,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0
+        }
+      },
+      "rechazo": {
+        "clave": "rechazo",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": true,
+        "chars_enviados": 14018,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 4022,
+          "completion_tokens": 176
+        }
+      },
+      "financiacion": {
+        "clave": "financiacion",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 1379,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 803,
+          "completion_tokens": 254
+        }
+      },
+      "criterios": {
+        "clave": "criterios",
+        "model": "deepseek/deepseek-v4-flash",
+        "truncado": false,
+        "chars_enviados": 8576,
+        "intento": 1,
+        "usage": {
+          "prompt_tokens": 2699,
+          "completion_tokens": 444
+        }
+      }
+    }
+  },
+  "elegibilidad_urosario": {
+    "institucion": "Universidad del Rosario",
+    "reglas": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "confianza": "alta",
+      "motivo": "La convocatoria no lista IES/universidades como actor elegible. Universidad del Rosario no encaja como proponente/ejecutora por tipo institucional.",
+      "actores_ies_match": [],
+      "condiciones_pendientes": [],
+      "capa": "reglas"
+    },
+    "llm": {
+      "ok": true,
+      "data": {
+        "puede_postularse": false,
+        "modo": "no_elegible",
+        "rol_sugerido": null,
+        "bloqueantes": [
+          "La convocatoria no lista IES/universidades como actor elegible",
+          "El perfil de la Universidad del Rosario no coincide con los actores elegibles (mujeres beneficiarias del programa Orquídeas o convocatorias 960/964)"
+        ],
+        "condiciones_a_verificar": [],
+        "resumen": "La Universidad del Rosario, siendo una IES privada, no es elegible para esta convocatoria porque los actores elegibles son mujeres beneficiarias del programa Orquídeas o de las convocatorias 960/964, no instituciones. Por lo tanto, no puede postularse en ningún rol."
+      },
+      "model": "deepseek/deepseek-v4-flash"
+    },
+    "veredicto_final": {
+      "puede_postularse": false,
+      "modo": "no_elegible",
+      "rol_sugerido": null,
+      "bloqueantes": [
+        "La convocatoria no lista IES/universidades como actor elegible",
+        "El perfil de la Universidad del Rosario no coincide con los actores elegibles (mujeres beneficiarias del programa Orquídeas o convocatorias 960/964)"
+      ],
+      "condiciones_a_verificar": [],
+      "resumen": "La Universidad del Rosario, siendo una IES privada, no es elegible para esta convocatoria porque los actores elegibles son mujeres beneficiarias del programa Orquídeas o de las convocatorias 960/964, no instituciones. Por lo tanto, no puede postularse en ningún rol.",
+      "fuente": "reglas+llm"
+    }
+  }
+}

@@ -12,6 +12,9 @@ export type RedMercado = {
     n_aristas: number;
     n_entidades?: number;
     n_proveedores?: number;
+    n_anclas_urosario?: number;
+    n_edges_universo?: number;
+    modo?: string;
   };
   leyenda?: { kind: string; color: string; nombre: string }[];
   como_leer?: string[];
@@ -25,6 +28,10 @@ export type RedMercado = {
     degree: number;
     nit?: string;
     palacio?: number;
+    ancla?: boolean;
+    ancla_id?: string | null;
+    competidor?: boolean;
+    rol?: string;
   }[];
   links: {
     source: string | { id: string };
@@ -39,7 +46,11 @@ export type RedMercado = {
   }[];
 };
 
-type Props = { red: RedMercado };
+type Props = {
+  red: RedMercado;
+  /** Vistas alternativas (mercado / ego Rosario) */
+  vistas?: { id: string; label: string; red: RedMercado }[];
+};
 
 /**
  * Ajusta estos valores y guarda — Vite recarga solo.
@@ -64,18 +75,20 @@ export const NETWORK_LAYOUT = {
   cooldownTicks: 140,
   alphaDecay: 0.022,
   velocityDecay: 0.4,
-  soloComponenteMayor: true,
+  soloComponenteMayor: false,
   zoomPadding: 48,
   nodeSizeMin: 5,
   nodeSizeMax: 16,
 };
 
 const COLOR = {
-  entidad: "#c4a35a",
-  proveedor: "#5ec4a8",
-  dim: "rgba(238,245,240,0.12)",
-  link: "rgba(196,163,90,0.4)",
-  linkHot: "rgba(94,196,168,0.9)",
+  entidad: "#6fd0bc",
+  proveedor: "#e2b86a",
+  competidor: "#e8917a",
+  ancla: "#f0d9a0",
+  dim: "rgba(233,238,244,0.22)",
+  link: "rgba(226,184,106,0.55)",
+  linkHot: "rgba(111,208,188,0.95)",
 };
 
 function linkId(l: RedMercado["links"][0]): [string, string] {
@@ -123,7 +136,13 @@ function largestComponent(
   return { nodes: keepNodes, links: keepLinks };
 }
 
-export function Cap2NetworkGraph({ red }: Props) {
+export function Cap2NetworkGraph({ red: redProp, vistas }: Props) {
+  const [vistaId, setVistaId] = useState(vistas?.[0]?.id || "default");
+  const red = useMemo(() => {
+    if (!vistas?.length) return redProp;
+    return vistas.find((v) => v.id === vistaId)?.red || vistas[0].red || redProp;
+  }, [redProp, vistas, vistaId]);
+
   const fgRef = useRef<any>(null);
   const wrapRef = useRef<HTMLDivElement>(null);
   const [size, setSize] = useState({ w: 900, h: 560 });
@@ -131,7 +150,14 @@ export function Cap2NetworkGraph({ red }: Props) {
   const [hover, setHover] = useState<string | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
   const [kindFilter, setKindFilter] = useState<"todos" | "entidad" | "proveedor">("todos");
+  const [soloMayor, setSoloMayor] = useState(NETWORK_LAYOUT.soloComponenteMayor);
   const L = NETWORK_LAYOUT;
+
+  useEffect(() => {
+    setSelected(null);
+    setHover(null);
+    setQuery("");
+  }, [vistaId, red.meta?.n_nodos]);
 
   useEffect(() => {
     const el = wrapRef.current;
@@ -145,9 +171,9 @@ export function Cap2NetworkGraph({ red }: Props) {
   }, []);
 
   const baseGraph = useMemo(() => {
-    if (L.soloComponenteMayor) return largestComponent(red.nodes, red.links);
+    if (soloMayor) return largestComponent(red.nodes, red.links);
     return { nodes: red.nodes, links: red.links };
-  }, [red, L.soloComponenteMayor]);
+  }, [red, soloMayor]);
 
   const maxValor = useMemo(
     () => Math.max(...baseGraph.nodes.map((n) => n.valor), 1),
@@ -261,21 +287,27 @@ export function Cap2NetworkGraph({ red }: Props) {
       const isFocus = focus === node.id;
       const neigh = focus ? neighbors.get(focus) : null;
       const dim = focus && !isFocus && !neigh?.has(node.id);
-      const color = node.kind === "entidad" ? COLOR.entidad : COLOR.proveedor;
+      const color = node.ancla
+        ? COLOR.ancla
+        : node.competidor
+          ? COLOR.competidor
+          : node.kind === "entidad"
+            ? COLOR.entidad
+            : COLOR.proveedor;
 
       ctx.beginPath();
-      ctx.arc(node.x, node.y, r, 0, 2 * Math.PI);
+      ctx.arc(node.x, node.y, r * (node.ancla ? 1.25 : 1), 0, 2 * Math.PI);
       ctx.fillStyle = dim ? COLOR.dim : color;
       ctx.globalAlpha = dim ? 0.3 : 0.95;
       ctx.fill();
 
-      if (isFocus || node.palacio) {
-        ctx.strokeStyle = isFocus ? "#eef5f0" : "rgba(196,163,90,0.75)";
-        ctx.lineWidth = (isFocus ? 2.4 : 1.3) / globalScale;
+      if (isFocus || node.palacio || node.ancla) {
+        ctx.strokeStyle = node.ancla ? "#fff6d8" : isFocus ? "#eef5f0" : "rgba(226,184,106,0.75)";
+        ctx.lineWidth = ((isFocus || node.ancla) ? 2.6 : 1.3) / globalScale;
         ctx.stroke();
       }
 
-      if (!dim && (isFocus || (node.degree || 0) >= 5)) {
+      if (!dim && (isFocus || node.ancla || (node.degree || 0) >= 5)) {
         ctx.beginPath();
         ctx.arc(node.x, node.y, r * 1.45, 0, 2 * Math.PI);
         ctx.fillStyle = color;
@@ -284,11 +316,15 @@ export function Cap2NetworkGraph({ red }: Props) {
       }
 
       const showLabel =
-        isFocus || globalScale > 1.35 || (qMatch(query, node) && !!query);
+        isFocus ||
+        node.ancla ||
+        node.competidor ||
+        globalScale > 1.35 ||
+        (qMatch(query, node) && !!query);
       if (showLabel && !dim) {
         ctx.globalAlpha = 1;
-        ctx.font = `${11 / globalScale}px Manrope, sans-serif`;
-        ctx.fillStyle = "#eef5f0";
+        ctx.font = `${(node.ancla ? 12 : 11) / globalScale}px "Source Sans 3", sans-serif`;
+        ctx.fillStyle = node.ancla ? "#f0d9a0" : "#e9eef4";
         ctx.textAlign = "center";
         ctx.fillText(node.label, node.x, node.y + r + 11 / globalScale);
       }
@@ -331,15 +367,36 @@ export function Cap2NetworkGraph({ red }: Props) {
     <div className="panel panel-rosario" style={{ marginBottom: "1rem" }}>
       <h3>{red.titulo || "Red del mercado"}</h3>
       <p className="note">{red.subtitulo || red.lectura}</p>
+      {vistas && vistas.length > 1 ? (
+        <div className="tabs" style={{ marginBottom: "0.75rem" }}>
+          {vistas.map((v) => (
+            <button
+              key={v.id}
+              type="button"
+              className={`tab ${vistaId === v.id ? "active" : ""}`}
+              onClick={() => setVistaId(v.id)}
+            >
+              {v.label}
+            </button>
+          ))}
+        </div>
+      ) : null}
+      {red.meta?.n_edges_universo ? (
+        <p className="note" style={{ marginTop: 0 }}>
+          Universo CTeI: {red.meta.n_edges_universo.toLocaleString("es-CO")} vínculos
+          entidad↔proveedor · mapa actual: {red.meta.n_nodos} nodos (muestra navegable; no se
+          renderizan los ~17k proveedores a la vez).
+        </p>
+      ) : null}
 
       <div className="grid-3" style={{ margin: "0.75rem 0" }}>
         <div className="kpi">
           <div className="label">Actores en el mapa</div>
           <div className="value">{graphData.nodes.length}</div>
           <div className="hint">
-            {L.soloComponenteMayor
-              ? "solo componente principal (sin islas sueltas)"
-              : `${red.meta?.n_entidades ?? "—"} entidades · ${red.meta?.n_proveedores ?? "—"} proveedores`}
+            {soloMayor
+              ? `filtro: solo componente principal · datos ${red.meta?.n_entidades ?? "—"}E / ${red.meta?.n_proveedores ?? "—"}P`
+              : `${red.meta?.n_entidades ?? "—"} entidades · ${red.meta?.n_proveedores ?? "—"} proveedores (subgrafo Cap.2)`}
           </div>
         </div>
         <div className="kpi">
@@ -373,6 +430,26 @@ export function Cap2NetworkGraph({ red }: Props) {
             </button>
           ))}
         </div>
+        <button
+          type="button"
+          className={`tab ${soloMayor ? "active" : ""}`}
+          onClick={() => setSoloMayor((v) => !v)}
+          title="Si está activo, oculta nodos que no estánen al componente más grande"
+        >
+          {soloMayor ? "Solo red conectada" : "Mostrar todas las islas"}
+        </button>
+        {baseGraph.nodes.some((n) => n.ancla_id === "urosario") ? (
+          <button
+            type="button"
+            className="tab"
+            onClick={() => {
+              const n = baseGraph.nodes.find((x) => x.ancla_id === "urosario");
+              if (n) centerOn(n.id);
+            }}
+          >
+            Ir a Rosario
+          </button>
+        ) : null}
       </div>
 
       <div className="network-layout">
@@ -382,7 +459,7 @@ export function Cap2NetworkGraph({ red }: Props) {
             width={size.w}
             height={size.h}
             graphData={graphData}
-            backgroundColor="rgba(10, 18, 14, 0.92)"
+            backgroundColor="#11151b"
             nodeCanvasObject={paintNode}
             linkCanvasObject={paintLink}
             linkDirectionalParticles={0}
