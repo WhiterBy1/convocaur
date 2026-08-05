@@ -72,51 +72,11 @@ export type Capacidad3 = {
 type PredCard = {
   id: string;
   pregunta: string;
-  respuestaCorta: string;
-  scoreLabel: string;
   scorePct: number;
-  compareLabel?: string;
   comparePct?: number;
   usar: boolean;
   badge: string;
-  lectura: string;
 };
-
-function ScoreBar({
-  scorePct,
-  comparePct,
-  compareLabel,
-  good,
-}: {
-  scorePct: number;
-  comparePct?: number;
-  compareLabel?: string;
-  good: boolean;
-}) {
-  return (
-    <div className="score-bars">
-      <div className="score-row">
-        <span className="score-name">Nuestro modelo</span>
-        <div className="score-track">
-          <div
-            className={`score-fill ${good ? "good" : "bad"}`}
-            style={{ width: `${Math.min(scorePct, 100)}%` }}
-          />
-        </div>
-        <strong>{scorePct}%</strong>
-      </div>
-      {comparePct != null && (
-        <div className="score-row">
-          <span className="score-name">{compareLabel || "Sin modelo"}</span>
-          <div className="score-track">
-            <div className="score-fill muted" style={{ width: `${Math.min(comparePct, 100)}%` }} />
-          </div>
-          <strong>{comparePct}%</strong>
-        </div>
-      )}
-    </div>
-  );
-}
 
 type Props = { data: Capacidad3 };
 
@@ -131,14 +91,10 @@ export function Cap3Panel({ data }: Props) {
     cards.push({
       id: "adj",
       pregunta: p.pregunta,
-      respuestaCorta: "Probabilidad de que el proceso competitivo se adjudique",
-      scoreLabel: "Qué tan bien ordena los casos (frente al azar)",
       scorePct: p.metrica_valor,
-      compareLabel: "Adivinar al azar",
       comparePct: 50,
       usar: true,
       badge: "Sí usar",
-      lectura: p.lectura,
     });
   }
   if (data.pregunta_presupuesto) {
@@ -146,14 +102,10 @@ export function Cap3Panel({ data }: Props) {
     cards.push({
       id: "pres",
       pregunta: p.pregunta,
-      respuestaCorta: "Clasifica el monto en bajo / medio / alto (4 rangos)",
-      scoreLabel: "Aciertos del modelo",
       scorePct: p.acc_modelo_pct,
-      compareLabel: "Sin modelo (siempre lo más común)",
       comparePct: p.acc_trivial_pct,
       usar: true,
       badge: "Sí usar",
-      lectura: p.lectura,
     });
   }
   if (data.pregunta_segmento) {
@@ -161,14 +113,10 @@ export function Cap3Panel({ data }: Props) {
     cards.push({
       id: "seg",
       pregunta: p.pregunta,
-      respuestaCorta: "¿Educación, gestión o investigación/tecnología?",
-      scoreLabel: "Aciertos del modelo",
       scorePct: p.acc_modelo_pct,
-      compareLabel: "Sin modelo (siempre lo más común)",
       comparePct: p.acc_trivial_pct,
       usar: false,
       badge: "Aún débil",
-      lectura: p.lectura,
     });
   }
   if (data.pregunta_adjudicacion_mala) {
@@ -176,52 +124,15 @@ export function Cap3Panel({ data }: Props) {
     cards.push({
       id: "adj_bad",
       pregunta: p.pregunta,
-      respuestaCorta: "Entrenar solo con procesos ya cerrados",
-      scoreLabel: "Calidad aparente",
       scorePct: p.metrica_valor,
-      compareLabel: "Adivinar al azar",
       comparePct: 50,
       usar: false,
-      badge: "No usar en vivo",
-      lectura: p.lectura,
+      badge: "No usar",
     });
   }
 
   return (
     <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-      <div className="panel" style={{ marginBottom: "1rem" }}>
-        <h3>{data.titulo || "Predicción"}</h3>
-        <p className="note">
-          {data.subtitulo ||
-            "Forecast del mercado con series de tiempo; el modelo por proceso es opcional."}
-        </p>
-      </div>
-
-      {data.para_empresa && (
-        <div className="panel" style={{ marginBottom: "1rem" }}>
-          <h3>{data.para_empresa.titulo}</h3>
-          <div className="pred-grid" style={{ marginTop: "0.75rem" }}>
-            {data.para_empresa.capas.map((c) => (
-              <article key={c.id} className="pred-card pred-ok">
-                <div className="pred-head">
-                  <span className={`pred-badge ${c.id === "mercado" ? "ok" : "bad"}`}>
-                    {c.id === "mercado" ? "Principal" : "Secundaria"}
-                  </span>
-                </div>
-                <h4>{c.nombre}</h4>
-                <p className="pred-short">{c.pregunta}</p>
-                <p className="pred-lectura">
-                  <strong>Uso:</strong> {c.uso}
-                </p>
-                <p className="note" style={{ marginTop: "0.4rem" }}>
-                  {c.como}
-                </p>
-              </article>
-            ))}
-          </div>
-        </div>
-      )}
-
       {outlook && <Cap3MarketForecast outlook={outlook} />}
 
       <div className="panel" style={{ marginBottom: "1rem" }}>
@@ -234,41 +145,18 @@ export function Cap3Panel({ data }: Props) {
             gap: "0.75rem",
           }}
         >
-          <div>
-            <h3 style={{ marginBottom: "0.25rem" }}>
-              Herramienta secundaria: un proceso concreto
-            </h3>
-            <p className="note" style={{ margin: 0 }}>
-              No predice el mercado. Sirve cuando ya tienes (o publicas) un proceso
-              competitivo y quieres priorizar: ¿vale la pena seguirlo?
-            </p>
-          </div>
+          <h3 style={{ margin: 0 }}>Demo: un proceso</h3>
           <button type="button" className="tab" onClick={() => setShowProceso((v) => !v)}>
-            {showProceso ? "Ocultar" : "Abrir demo del modelo"}
+            {showProceso ? "Ocultar" : "Abrir"}
           </button>
         </div>
         {k && showProceso && (
-          <div className="grid-3" style={{ marginTop: "0.85rem" }}>
-            <div className="kpi">
-              <div className="label">Calidad adjudicación</div>
-              <div className="value">{k.auc_pct}%</div>
-              <div className="hint">frente a 50% al azar</div>
-            </div>
-            <div className="kpi">
-              <div className="label">Procesos competitivos</div>
-              <div className="value">{(k.n_competitivos || 0).toLocaleString("es-CO")}</div>
-              <div className="hint">
-                {(k.tasa_adjudicacion * 100).toFixed(0)}% se adjudican en los datos
-              </div>
-            </div>
-            <div className="kpi">
-              <div className="label">Evaluado con corte</div>
-              <div className="value" style={{ fontSize: "1.2rem" }}>
-                {k.fecha_corte}
-              </div>
-              <div className="hint">entrenar pasado · probar futuro</div>
-            </div>
-          </div>
+          <ul className="rosario-list hallazgos" style={{ marginTop: "0.65rem" }}>
+            <li>
+              Adjudicación AUC {k.auc_pct}% · {(k.n_competitivos || 0).toLocaleString("es-CO")}{" "}
+              competitivos · corte {k.fecha_corte}
+            </li>
+          </ul>
         )}
       </div>
 
@@ -276,79 +164,37 @@ export function Cap3Panel({ data }: Props) {
         <>
           <Cap3PredictDemo />
 
-          {data.universo && (
+          {cards.length > 0 && (
             <div className="panel" style={{ marginBottom: "1rem" }}>
-              <h3>¿Sobre qué procesos se predice?</h3>
-              <p className="note">{data.universo.lectura}</p>
-            </div>
-          )}
-
-          <div className="panel" style={{ marginBottom: "1rem" }}>
-            <h3>Calidad de cada predicción por proceso</h3>
-            <p className="note">
-              Cada tarjeta es una pregunta sobre <em>un</em> proceso. Si la barra del modelo
-              no gana claro a “sin modelo”, no conviene usarlo.
-            </p>
-
-            {cards.length === 0 ? (
-              <p className="error">
-                No llegaron las predicciones desde la API. Reinicia el backend o recarga la
-                página.
-              </p>
-            ) : (
-              <div className="pred-grid">
+              <h3>Calidad del modelo</h3>
+              <div className="predict-quality">
                 {cards.map((c) => (
-                  <article
-                    key={c.id}
-                    className={`pred-card ${c.usar ? "pred-ok" : "pred-bad"}`}
-                  >
-                    <div className="pred-head">
-                      <span className={`pred-badge ${c.usar ? "ok" : "bad"}`}>{c.badge}</span>
-                    </div>
-                    <h4>{c.pregunta}</h4>
-                    <p className="pred-short">{c.respuestaCorta}</p>
-                    <p className="pred-metric-label">{c.scoreLabel}</p>
-                    <ScoreBar
-                      scorePct={c.scorePct}
-                      comparePct={c.comparePct}
-                      compareLabel={c.compareLabel}
-                      good={c.usar}
-                    />
-                    <p className="pred-lectura">{c.lectura}</p>
-                  </article>
+                  <div key={c.id} className={`predict-quality-item ${c.usar ? "ok" : "bad"}`}>
+                    <span className={`pred-badge ${c.usar ? "ok" : "bad"}`}>{c.badge}</span>
+                    <strong>{c.pregunta}</strong>
+                    <span className="hint">
+                      {c.scorePct}%
+                      {c.comparePct != null ? ` vs ${c.comparePct}% baseline` : ""}
+                    </span>
+                  </div>
                 ))}
               </div>
-            )}
-          </div>
-        </>
-      )}
-
-      {data.reglas_uso && data.reglas_uso.length > 0 && (
-        <div className="grid-2" style={{ marginBottom: "1rem" }}>
-          {data.reglas_uso.map((bloque) => (
-            <div className="panel" key={bloque.titulo}>
-              <h3>{bloque.titulo}</h3>
-              <ul className="rosario-list">
-                {bloque.items.map((it) => (
-                  <li key={it}>{it}</li>
-                ))}
-              </ul>
             </div>
-          ))}
-        </div>
+          )}
+        </>
       )}
 
       {data.cierre_rosario && (
         <div className="panel panel-rosario">
-          <h3>{data.cierre_rosario.titulo}</h3>
-          <ul className="rosario-list">
-            {data.cierre_rosario.puntos.map((p) => (
+          <h3>Hallazgos para Rosario</h3>
+          <ul className="rosario-list hallazgos">
+            {data.cierre_rosario.puntos.slice(0, 4).map((p) => (
               <li key={p}>{p}</li>
             ))}
           </ul>
           {data.nota_metodologica && (
             <details className="method-note">
-              <summary>¿Cómo se calculó? (detalle técnico)</summary>
+              <summary>Metodología</summary>
               <p>{data.nota_metodologica}</p>
             </details>
           )}

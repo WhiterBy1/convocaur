@@ -12,6 +12,7 @@ import {
   YAxis,
 } from "recharts";
 import { formatCop, formatCopShort } from "../lib/format";
+import { ChartInView } from "./ChartInView";
 
 export type Capacidad1 = {
   titulo: string;
@@ -101,19 +102,19 @@ export function Cap1Panel({ data }: Props) {
             Cada punto es un mes. Sirve para ver si el mercado CTeI está más o
             menos activo.
           </p>
-          <div className="chart-wrap tall">
+          <ChartInView className="chart-wrap tall">
             <ResponsiveContainer>
               <LineChart data={serie}>
-                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+                <CartesianGrid stroke="rgba(61,21,52,0.1)" />
                 <XAxis
                   dataKey="label"
-                  stroke="#a8b6c4"
+                  stroke="#6a5a68"
                   interval="preserveStartEnd"
                   tick={{ fontSize: 10 }}
                   minTickGap={28}
                 />
                 <YAxis
-                  stroke="#a8b6c4"
+                  stroke="#6a5a68"
                   tickFormatter={(v) => Number(v).toLocaleString("es-CO")}
                   width={56}
                 />
@@ -128,14 +129,14 @@ export function Cap1Panel({ data }: Props) {
                   type="monotone"
                   dataKey="n_procesos"
                   name="Contratos publicados"
-                  stroke="#e2b86a"
+                  stroke="#a6bcc9"
                   strokeWidth={2.4}
                   dot={false}
-                  animationDuration={1000}
+                  animationDuration={1200}
                 />
               </LineChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
         </div>
 
         <div className="panel">
@@ -145,19 +146,19 @@ export function Cap1Panel({ data }: Props) {
             excepcionalmente grandes — esa es la lectura más útil para
             oportunidades cotidianas.
           </p>
-          <div className="chart-wrap tall">
+          <ChartInView className="chart-wrap tall">
             <ResponsiveContainer>
               <LineChart data={serie}>
-                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+                <CartesianGrid stroke="rgba(61,21,52,0.1)" />
                 <XAxis
                   dataKey="label"
-                  stroke="#a8b6c4"
+                  stroke="#6a5a68"
                   interval="preserveStartEnd"
                   tick={{ fontSize: 10 }}
                   minTickGap={28}
                 />
                 <YAxis
-                  stroke="#a8b6c4"
+                  stroke="#6a5a68"
                   tickFormatter={(v) => formatCopShort(Number(v))}
                   width={48}
                 />
@@ -169,23 +170,23 @@ export function Cap1Panel({ data }: Props) {
                   type="monotone"
                   dataKey="valor_total_cop"
                   name="Valor total"
-                  stroke="#6fd0bc"
+                  stroke="#3e4b8e"
                   strokeWidth={2.2}
                   dot={false}
-                  animationDuration={1000}
+                  animationDuration={1200}
                 />
                 <Line
                   type="monotone"
                   dataKey="valor_sin_mega_cop"
                   name="Sin megacontratos"
-                  stroke="#e2b86a"
+                  stroke="#a6bcc9"
                   strokeWidth={2.2}
                   dot={false}
                   animationDuration={1100}
                 />
               </LineChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
           <p className="note" style={{ marginTop: "0.5rem" }}>
             {data.fondos_administrados.nota}
           </p>
@@ -199,23 +200,23 @@ export function Cap1Panel({ data }: Props) {
             Tres familias de contratación afines a ciencia, tecnología e
             innovación.
           </p>
-          <div className="chart-wrap">
+          <ChartInView className="chart-wrap">
             <ResponsiveContainer>
               <BarChart data={mix} layout="vertical" margin={{ left: 8, right: 16 }}>
-                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
-                <XAxis type="number" unit="%" stroke="#a8b6c4" />
+                <CartesianGrid stroke="rgba(61,21,52,0.1)" />
+                <XAxis type="number" unit="%" stroke="#6a5a68" />
                 <YAxis
                   type="category"
                   dataKey="nombre"
                   width={150}
-                  stroke="#a8b6c4"
+                  stroke="#6a5a68"
                   tick={{ fontSize: 11 }}
                 />
                 <Tooltip formatter={(v: number) => [`${v}%`, "Participación"]} />
-                <Bar dataKey="pct" fill="#e2b86a" radius={[0, 8, 8, 0]} animationDuration={900} />
+                <Bar dataKey="pct" fill="#a6bcc9" radius={[0, 8, 8, 0]} animationDuration={1100} />
               </BarChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
         </div>
 
         <div className="panel">
@@ -224,12 +225,12 @@ export function Cap1Panel({ data }: Props) {
             {data.estacionalidad?.lectura ||
               "Promedio de contratos publicados según el mes del año."}
           </p>
-          <div className="chart-wrap">
+          <ChartInView className="chart-wrap">
             <ResponsiveContainer>
               <BarChart data={estacional}>
-                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
-                <XAxis dataKey="nombre" stroke="#a8b6c4" />
-                <YAxis stroke="#a8b6c4" tickFormatter={(v) => Number(v).toLocaleString("es-CO")} />
+                <CartesianGrid stroke="rgba(61,21,52,0.1)" />
+                <XAxis dataKey="nombre" stroke="#6a5a68" />
+                <YAxis stroke="#6a5a68" tickFormatter={(v) => Number(v).toLocaleString("es-CO")} />
                 <Tooltip
                   formatter={(v: number) => [
                     Number(v).toLocaleString("es-CO", { maximumFractionDigits: 0 }),
@@ -239,13 +240,13 @@ export function Cap1Panel({ data }: Props) {
                 <Bar
                   dataKey="n_procesos_promedio"
                   name="Contratos promedio"
-                  fill="#6fd0bc"
+                  fill="#3e4b8e"
                   radius={[8, 8, 0, 0]}
-                  animationDuration={900}
+                  animationDuration={1100}
                 />
               </BarChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
         </div>
       </div>
 
@@ -268,3 +269,4 @@ export function Cap1Panel({ data }: Props) {
     </motion.div>
   );
 }
+

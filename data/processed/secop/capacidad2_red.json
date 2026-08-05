@@ -15,17 +15,17 @@
   "leyenda": [
     {
       "kind": "entidad",
-      "color": "#6fd0bc",
+      "color": "#3e4b8e",
       "nombre": "Entidad (comprador)"
     },
     {
       "kind": "proveedor",
-      "color": "#e2b86a",
+      "color": "#a6bcc9",
       "nombre": "Proveedor (vendedor)"
     },
     {
       "kind": "ancla",
-      "color": "#f0d9a0",
+      "color": "#3d1534",
       "nombre": "U. Rosario (ancla)"
     }
   ],

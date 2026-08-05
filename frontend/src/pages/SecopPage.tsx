@@ -28,20 +28,17 @@ export function SecopPage() {
 
   return (
     <section className="section" style={{ paddingTop: "2rem" }}>
-      <p className="section-kicker">SECOP II · mercado CTeI</p>
-      <h2>Tres capacidades del reto</h2>
+      <h2>SECOP · tres capacidades</h2>
       <p className="section-lead">
-        Lectura del mercado de contratación pública afín a ciencia, tecnología e
-        innovación — pensada para decidir cuándo y dónde mirar oportunidades para
-        Rosario.
+        Mercado CTeI para decidir cuándo y dónde mirar oportunidades para Rosario.
       </p>
 
       <div className="tabs">
         {(
           [
-            [1, "1 · Tendencias"],
-            [2, "2 · Mercado"],
-            [3, "3 · Predicción"],
+            [1, "Tendencias"],
+            [2, "Mercado"],
+            [3, "Predicción"],
           ] as const
         ).map(([n, label]) => (
           <button

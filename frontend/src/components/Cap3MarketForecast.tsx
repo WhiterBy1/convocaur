@@ -13,6 +13,7 @@ import {
   YAxis,
 } from "recharts";
 import { formatCop, formatCopShort } from "../lib/format";
+import { ChartInView } from "./ChartInView";
 
 export type OutlookMercado = {
   metodo?: string;
@@ -184,28 +185,41 @@ export function Cap3MarketForecast({ outlook }: Props) {
     pico: s.mes_pico?.etiqueta || "—",
   }));
 
-  // tabla próximos meses
-  const prox = outlook.proximos_meses || [];
+  const hallazgos = [
+    resumen?.mes_pico
+      ? `Pico de procesos: ${resumen.mes_pico.etiqueta} (~${Math.round(resumen.mes_pico.valor).toLocaleString("es-CO")})`
+      : null,
+    resumen?.mes_valle
+      ? `Valle: ${resumen.mes_valle.etiqueta} (~${Math.round(resumen.mes_valle.valor).toLocaleString("es-CO")})`
+      : null,
+    resumen
+      ? `Volumen 6m ≈ ${Math.round(resumen.total_horizonte).toLocaleString("es-CO")} procesos`
+      : null,
+    outlook.valor?.resumen
+      ? `Valor 6m ≈ ${formatCop(outlook.valor.resumen.total_horizonte)} · pico ${outlook.valor.resumen.mes_pico?.etiqueta || "—"}`
+      : null,
+    mape != null
+      ? `Modelo volumen: ${outlook.metodo || "—"} (MAPE ${mape}%)`
+      : outlook.metodo
+        ? `Modelo volumen: ${outlook.metodo}`
+        : null,
+    outlook.valor?.modelo_elegido
+      ? `Modelo valor: ${modelLabel(outlook.valor.modelo_elegido, names)}`
+      : null,
+  ].filter(Boolean) as string[];
 
   return (
     <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}>
       <div className="panel panel-rosario" style={{ marginBottom: "1rem" }}>
-        <h3>Futuro del mercado · próximos {outlook.horizonte_meses || 6} meses</h3>
-        <p className="note">{outlook.lectura}</p>
-
-        <div className="grid-3" style={{ margin: "0.9rem 0 0.4rem" }}>
+        <h3>Futuro del mercado · {outlook.horizonte_meses || 6} meses</h3>
+        <ul className="rosario-list hallazgos">
+          {hallazgos.map((h) => (
+            <li key={h}>{h}</li>
+          ))}
+        </ul>
+        <div className="grid-3" style={{ margin: "0.85rem 0 0" }}>
           <div className="kpi">
-            <div className="label">Modelo elegido</div>
-            <div className="value" style={{ fontSize: "1.15rem" }}>
-              {outlook.metodo || "—"}
-            </div>
-            <div className="hint">
-              por menor error en backtest
-              {mape != null ? ` · MAPE mediana ${mape}%` : ""}
-            </div>
-          </div>
-          <div className="kpi">
-            <div className="label">Mes más activo (proyección)</div>
+            <div className="label">Mes pico</div>
             <div className="value" style={{ fontSize: "1.25rem" }}>
               {resumen?.mes_pico?.etiqueta || "—"}
             </div>
@@ -218,40 +232,39 @@ export function Cap3MarketForecast({ outlook }: Props) {
             </div>
           </div>
           <div className="kpi">
-            <div className="label">Volumen esperado (6 meses)</div>
+            <div className="label">Procesos (6m)</div>
             <div className="value" style={{ fontSize: "1.25rem" }}>
               {(resumen?.total_horizonte ?? 0).toLocaleString("es-CO", {
                 maximumFractionDigits: 0,
               })}
             </div>
-            <div className="hint">
-              ~{(resumen?.promedio_mensual ?? 0).toLocaleString("es-CO", {
-                maximumFractionDigits: 0,
-              })}{" "}
-              / mes · ancla {outlook.ancla_hasta}
+            <div className="hint">ancla {outlook.ancla_hasta}</div>
+          </div>
+          <div className="kpi">
+            <div className="label">Valor (6m)</div>
+            <div className="value" style={{ fontSize: "1.15rem" }}>
+              {formatCopShort(outlook.valor?.resumen?.total_horizonte || 0)}
             </div>
+            <div className="hint">sin megacontratos</div>
           </div>
         </div>
       </div>
 
       <div className="panel" style={{ marginBottom: "1rem" }}>
-        <h3>Procesos publicados — histórico + proyección</h3>
-        <p className="note">
-          Línea continua = observado. Punteada = forecast. Área = intervalo ~80%.
-        </p>
-        <div style={{ width: "100%", height: 320 }}>
+        <h3>Procesos</h3>
+        <ChartInView style={{ width: "100%", height: 320 }}>
           <ResponsiveContainer>
             <ComposedChart data={chartData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
-              <XAxis dataKey="label" tick={{ fill: "#9aada2", fontSize: 11 }} />
+              <CartesianGrid strokeDasharray="3 3" stroke="rgba(61,21,52,0.1)" />
+              <XAxis dataKey="label" tick={{ fill: "#6a5a68", fontSize: 11 }} />
               <YAxis
-                tick={{ fill: "#9aada2", fontSize: 11 }}
+                tick={{ fill: "#6a5a68", fontSize: 11 }}
                 tickFormatter={(v) => Number(v).toLocaleString("es-CO")}
               />
               <Tooltip
                 contentStyle={{
-                  background: "#12201a",
-                  border: "1px solid rgba(196,163,90,0.3)",
+                  background: "#fffaf5",
+                  border: "1px solid rgba(61,21,52,0.16)",
                   borderRadius: 10,
                 }}
                 formatter={(value: number, name: string) => {
@@ -275,7 +288,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                 stackId="band"
                 name="Banda ~80%"
                 stroke="none"
-                fill="rgba(94, 196, 168, 0.22)"
+                fill="rgba(62,75,142,0.18)"
                 isAnimationActive={false}
                 connectNulls
               />
@@ -283,7 +296,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                 type="monotone"
                 dataKey="obs"
                 name="Observado"
-                stroke="#6fd0bc"
+                stroke="#3e4b8e"
                 strokeWidth={2.6}
                 dot={{ r: 3 }}
                 connectNulls={false}
@@ -292,7 +305,7 @@ export function Cap3MarketForecast({ outlook }: Props) {
                 type="monotone"
                 dataKey="proy"
                 name="Proyección"
-                stroke="#e2b86a"
+                stroke="#a6bcc9"
                 strokeWidth={2.6}
                 strokeDasharray="7 4"
                 dot={{ r: 3 }}
@@ -300,105 +313,52 @@ export function Cap3MarketForecast({ outlook }: Props) {
               />
             </ComposedChart>
           </ResponsiveContainer>
-        </div>
-
-        {prox.length > 0 && (
-          <div className="forecast-table-wrap">
-            <table className="forecast-table">
-              <thead>
-                <tr>
-                  <th>Mes</th>
-                  <th>Procesos (punto)</th>
-                  <th>Rango ~80%</th>
-                  <th>Valor s/ mega</th>
-                </tr>
-              </thead>
-              <tbody>
-                {prox.map((p) => (
-                  <tr key={p.periodo}>
-                    <td>{p.etiqueta}</td>
-                    <td>
-                      {Math.round(p.n_procesos_estimado).toLocaleString("es-CO")}
-                    </td>
-                    <td>
-                      {p.n_lo_80 != null && p.n_hi_80 != null
-                        ? `${Math.round(p.n_lo_80).toLocaleString("es-CO")} – ${Math.round(p.n_hi_80).toLocaleString("es-CO")}`
-                        : "—"}
-                    </td>
-                    <td>
-                      {p.valor_sin_mega_estimado_cop != null
-                        ? formatCopShort(p.valor_sin_mega_estimado_cop)
-                        : "—"}
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        )}
+        </ChartInView>
       </div>
 
       <div className="grid-2" style={{ marginBottom: "1rem" }}>
         <div className="panel">
-          <h3>¿Qué modelo ganó el backtest?</h3>
-          <p className="note">
-            Error mediano (MAPE) en varias ventanas de {outlook.horizonte_meses || 6} meses.
-            Menor = mejor.
-          </p>
-          <div style={{ width: "100%", height: 240 }}>
+          <h3>Error por modelo (MAPE)</h3>
+          <ChartInView style={{ width: "100%", height: 240 }}>
             <ResponsiveContainer>
               <BarChart data={modelos} layout="vertical" margin={{ left: 8, right: 16 }}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
-                <XAxis
-                  type="number"
-                  tick={{ fill: "#9aada2", fontSize: 11 }}
-                  unit="%"
-                />
+                <CartesianGrid strokeDasharray="3 3" stroke="rgba(61,21,52,0.1)" />
+                <XAxis type="number" tick={{ fill: "#6a5a68", fontSize: 11 }} unit="%" />
                 <YAxis
                   type="category"
                   dataKey="nombre"
-                  width={150}
-                  tick={{ fill: "#9aada2", fontSize: 10 }}
+                  width={140}
+                  tick={{ fill: "#6a5a68", fontSize: 10 }}
                 />
                 <Tooltip
                   contentStyle={{
-                    background: "#12201a",
-                    border: "1px solid rgba(196,163,90,0.3)",
+                    background: "#fffaf5",
+                    border: "1px solid rgba(61,21,52,0.16)",
                     borderRadius: 10,
                   }}
                   formatter={(v: number) => [`${v}%`, "MAPE"]}
                 />
-                <Bar
-                  dataKey="mape"
-                  name="MAPE %"
-                  fill="#6fd0bc"
-                  radius={[0, 6, 6, 0]}
-                />
+                <Bar dataKey="mape" name="MAPE %" fill="#3e4b8e" radius={[0, 6, 6, 0]} />
               </BarChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
         </div>
 
         <div className="panel">
-          <h3>Por segmento UNSPSC (6 meses)</h3>
-          <p className="note">
-            {outlook.segmentacion?.metodo_nombre ||
-              "Top-down: se proyecta el total y se reparte por participación."}
-            {outlook.segmentacion?.lectura ? ` ${outlook.segmentacion.lectura}` : ""}
-          </p>
+          <h3>Por segmento (6m)</h3>
           {segBars.length === 0 ? (
-            <p className="note">Sin desglose de segmentos en este build.</p>
+            <p className="note">Sin desglose.</p>
           ) : (
-            <div style={{ width: "100%", height: 240 }}>
+            <ChartInView style={{ width: "100%", height: 240 }}>
               <ResponsiveContainer>
                 <BarChart data={segBars}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
-                  <XAxis dataKey="nombre" tick={{ fill: "#9aada2", fontSize: 11 }} />
-                  <YAxis tick={{ fill: "#9aada2", fontSize: 11 }} />
+                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(61,21,52,0.1)" />
+                  <XAxis dataKey="nombre" tick={{ fill: "#6a5a68", fontSize: 11 }} />
+                  <YAxis tick={{ fill: "#6a5a68", fontSize: 11 }} />
                   <Tooltip
                     contentStyle={{
-                      background: "#12201a",
-                      border: "1px solid rgba(196,163,90,0.3)",
+                      background: "#fffaf5",
+                      border: "1px solid rgba(61,21,52,0.16)",
                       borderRadius: 10,
                     }}
                     formatter={(v: number, _n, ctx) => [
@@ -406,63 +366,61 @@ export function Cap3MarketForecast({ outlook }: Props) {
                       ctx?.payload?.nombreFull || "Procesos",
                     ]}
                   />
-                  <Bar dataKey="total" name="Procesos 6m" fill="#e2b86a" radius={[6, 6, 0, 0]} />
+                  <Bar dataKey="total" name="Procesos 6m" fill="#a6bcc9" radius={[6, 6, 0, 0]} />
                 </BarChart>
               </ResponsiveContainer>
-            </div>
+            </ChartInView>
           )}
-          {segs.length > 0 && (
-            <ul className="rosario-list" style={{ marginTop: "0.5rem" }}>
-              {segs.map((s) => (
-                <li key={s.codigo}>
-                  <strong>{s.nombre}</strong>: pico {s.mes_pico?.etiqueta || "—"} (~
-                  {Math.round(s.mes_pico?.valor || 0).toLocaleString("es-CO")})
-                  {s.mape_backtest_pct != null
-                    ? ` · MAPE mediana ${s.mape_backtest_pct}%`
-                    : ""}
-                </li>
-              ))}
-            </ul>
-          )}
-          {(outlook.segmentacion?.comparativo_metodos?.length || 0) > 0 && (
-            <p className="note" style={{ marginTop: "0.65rem" }}>
-              Comparativo enfoques:{" "}
-              {outlook.segmentacion!.comparativo_metodos!.map((m, i) => (
-                <span key={m.modelo}>
-                  {i > 0 ? " · " : ""}
-                  {m.modelo.replace("topdown_", "TD ")} {m.mape_mediana_pct}%
-                </span>
-              ))}
-            </p>
-          )}
+          {segs.length > 0 && (() => {
+            const picos = [...new Set(segs.map((s) => s.mes_pico?.etiqueta).filter(Boolean))];
+            if (picos.length === 1) {
+              return (
+                <p className="note" style={{ marginTop: "0.55rem" }}>
+                  Pico general en los tres segmentos: <strong>{picos[0]}</strong>
+                </p>
+              );
+            }
+            return (
+              <ul className="rosario-list hallazgos" style={{ marginTop: "0.5rem" }}>
+                {segs.map((s) => (
+                  <li key={s.codigo}>
+                    {s.nombre.split(",")[0]}: pico {s.mes_pico?.etiqueta || "—"}
+                  </li>
+                ))}
+              </ul>
+            );
+          })()}
         </div>
       </div>
 
       {serieValor.length > 0 && (
         <div className="panel" style={{ marginBottom: "1rem" }}>
-          <h3>Valor del mercado (sin megacontratos)</h3>
-          <p className="note">
-            Más volátil que el conteo. Modelo:{" "}
-            {modelLabel(outlook.valor?.modelo_elegido || "", names)}. Total 6m ≈{" "}
-            {formatCop(outlook.valor?.resumen?.total_horizonte || 0)}.
-            {" "}
-            El forecast de valor se ancla al último mes observado para no “saltar” al
-            mismo mes del año pasado cuando el nivel reciente cambió (p. ej. Jul 2026
-            muy por debajo de Ago 2025).
-          </p>
-          <div style={{ width: "100%", height: 260 }}>
+          <h3>Valor (sin megacontratos)</h3>
+          <ul className="rosario-list hallazgos">
+            <li>
+              {modelLabel(outlook.valor?.modelo_elegido || "", names)} · 6m ≈{" "}
+              {formatCop(outlook.valor?.resumen?.total_horizonte || 0)}
+            </li>
+            {outlook.valor?.resumen?.mes_pico ? (
+              <li>
+                Pico de valor: {outlook.valor.resumen.mes_pico.etiqueta} (
+                {formatCopShort(outlook.valor.resumen.mes_pico.valor)})
+              </li>
+            ) : null}
+          </ul>
+          <ChartInView style={{ width: "100%", height: 260 }}>
             <ResponsiveContainer>
               <ComposedChart data={serieValor}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(233,238,244,0.14)" />
-                <XAxis dataKey="label" tick={{ fill: "#9aada2", fontSize: 11 }} />
+                <CartesianGrid strokeDasharray="3 3" stroke="rgba(61,21,52,0.1)" />
+                <XAxis dataKey="label" tick={{ fill: "#6a5a68", fontSize: 11 }} />
                 <YAxis
-                  tick={{ fill: "#9aada2", fontSize: 11 }}
+                  tick={{ fill: "#6a5a68", fontSize: 11 }}
                   tickFormatter={(v) => formatCopShort(Number(v))}
                 />
                 <Tooltip
                   contentStyle={{
-                    background: "#12201a",
-                    border: "1px solid rgba(196,163,90,0.3)",
+                    background: "#fffaf5",
+                    border: "1px solid rgba(61,21,52,0.16)",
                     borderRadius: 10,
                   }}
                   formatter={(value: number, name: string) => {
@@ -485,14 +443,14 @@ export function Cap3MarketForecast({ outlook }: Props) {
                   stackId="vb"
                   name="Banda ~80%"
                   stroke="none"
-                  fill="rgba(196, 163, 90, 0.18)"
+                  fill="rgba(166,188,201,0.35)"
                   connectNulls
                 />
                 <Line
                   type="monotone"
                   dataKey="obs"
                   name="Observado"
-                  stroke="#6fd0bc"
+                  stroke="#3e4b8e"
                   strokeWidth={2.4}
                   dot={{ r: 2 }}
                 />
@@ -500,28 +458,17 @@ export function Cap3MarketForecast({ outlook }: Props) {
                   type="monotone"
                   dataKey="proy"
                   name="Proyección"
-                  stroke="#c5d0da"
+                  stroke="#6a5a68"
                   strokeWidth={2.4}
                   strokeDasharray="7 4"
                   dot={{ r: 2 }}
                 />
               </ComposedChart>
             </ResponsiveContainer>
-          </div>
-        </div>
-      )}
-
-      {outlook.para_empresa && (
-        <div className="panel" style={{ marginBottom: "1rem" }}>
-          <h3>Cómo usa esto una empresa</h3>
-          <ul className="rosario-list">
-            {outlook.para_empresa.map((it) => (
-              <li key={it}>{it}</li>
-            ))}
-          </ul>
-          {outlook.honestidad && <p className="note">{outlook.honestidad}</p>}
+          </ChartInView>
         </div>
       )}
     </motion.div>
   );
 }
+

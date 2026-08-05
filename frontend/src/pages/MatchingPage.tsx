@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { MatchTree } from "../components/MatchTree";
 import { api, apiPost, pollJob, type JobStatus } from "../lib/api";
@@ -168,6 +168,20 @@ export function MatchingPage() {
   } | null>(null);
   const [busy, setBusy] = useState(false);
   const [syncResult, setSyncResult] = useState<Record<string, unknown> | null>(null);
+  const [factModal, setFactModal] = useState<{
+    title: string;
+    body: string;
+    kind?: string;
+  } | null>(null);
+
+  useEffect(() => {
+    if (!factModal) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setFactModal(null);
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [factModal]);
 
   const refreshSummary = useCallback(async (keepSelected = true) => {
     const s = await api<Summary>("/api/matching/summary");
@@ -739,39 +753,81 @@ export function MatchingPage() {
             </div>
           </div>
 
-          <div className="grid-2" style={{ marginTop: "0.85rem" }}>
-            <div>
-              <h4 style={{ margin: "0 0 0.35rem", color: "var(--accent)" }}>Quiénes pueden aplicar</h4>
+          <div className="match-facts" style={{ marginTop: "0.85rem" }}>
+            <div className="match-fact-block">
+              <h4>Quiénes pueden aplicar</h4>
               {asTextList(detail.nlp.actores_elegibles).length > 0 ? (
-                <ul className="rosario-list">
-                  {asTextList(detail.nlp.actores_elegibles).map((a) => (
-                    <li key={a}>{a}</li>
+                <div className="chip-row">
+                  {asTextList(detail.nlp.actores_elegibles, 8).map((a, i) => (
+                    <button
+                      type="button"
+                      className="chip chip-btn"
+                      key={`${i}-${a.slice(0, 24)}`}
+                      onClick={() =>
+                        setFactModal({
+                          title: `Actor elegible ${i + 1}`,
+                          body: a,
+                          kind: "Actor",
+                        })
+                      }
+                    >
+                      {a.length > 42 ? a.slice(0, 40) + "…" : a}
+                    </button>
                   ))}
-                </ul>
+                </div>
               ) : (
                 <p className="note">Sin actores elegibles extraídos.</p>
               )}
               {asTextList(detail.nlp.lineas_tematicas).length > 0 && (
                 <>
-                  <h4 style={{ margin: "0.75rem 0 0.35rem", color: "var(--accent)" }}>
-                    Líneas temáticas
-                  </h4>
-                  <ul className="rosario-list">
+                  <h4 style={{ marginTop: "0.85rem" }}>Líneas temáticas</h4>
+                  <div className="chip-row">
                     {asTextList(detail.nlp.lineas_tematicas, 6).map((l) => (
-                      <li key={l}>{l}</li>
+                      <button
+                        type="button"
+                        className="chip chip-soft chip-btn"
+                        key={l}
+                        onClick={() =>
+                          setFactModal({
+                            title: "Línea temática",
+                            body: l,
+                            kind: "Tema",
+                          })
+                        }
+                      >
+                        {l.length > 42 ? l.slice(0, 40) + "…" : l}
+                      </button>
                     ))}
-                  </ul>
+                  </div>
                 </>
               )}
             </div>
-            <div>
-              <h4 style={{ margin: "0 0 0.35rem", color: "var(--accent)" }}>Requisitos clave</h4>
+
+            <div className="match-fact-block">
+              <h4>Requisitos clave</h4>
               {asTextList(detail.nlp.requisitos, 6).length > 0 ? (
-                <ul className="rosario-list">
-                  {asTextList(detail.nlp.requisitos, 6).map((r) => (
-                    <li key={r}>{r}</li>
+                <div className="req-cards">
+                  {asTextList(detail.nlp.requisitos, 6).map((r, i) => (
+                    <button
+                      type="button"
+                      key={`${i}-${r.slice(0, 24)}`}
+                      className="req-card req-card-btn"
+                      onClick={() =>
+                        setFactModal({
+                          title: `Requisito ${i + 1}`,
+                          body: r,
+                          kind: "Requisito",
+                        })
+                      }
+                    >
+                      <span className="req-num">{i + 1}</span>
+                      <span className="req-preview">
+                        {r.length > 70 ? r.slice(0, 68) + "…" : r}
+                      </span>
+                      <span className="req-open">Ver</span>
+                    </button>
                   ))}
-                </ul>
+                </div>
               ) : (
                 <p className="note">Sin requisitos listados en NLP.</p>
               )}
@@ -851,6 +907,49 @@ export function MatchingPage() {
           />
         </div>
       )}
+
+      <AnimatePresence>
+        {factModal && (
+          <motion.div
+            className="term-modal-backdrop"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.18 }}
+            onClick={() => setFactModal(null)}
+            role="presentation"
+          >
+            <motion.div
+              className="term-modal fact-modal"
+              role="dialog"
+              aria-modal="true"
+              aria-labelledby="fact-modal-title"
+              initial={{ opacity: 0, y: 16, scale: 0.97 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, y: 10, scale: 0.98 }}
+              transition={{ duration: 0.2 }}
+              onClick={(e) => e.stopPropagation()}
+            >
+              <div className="term-modal-head">
+                <div>
+                  {factModal.kind ? (
+                    <p className="note" style={{ margin: "0 0 0.25rem" }}>
+                      {factModal.kind}
+                    </p>
+                  ) : null}
+                  <h4 id="fact-modal-title">{factModal.title}</h4>
+                </div>
+                <button type="button" className="btn btn-ghost" onClick={() => setFactModal(null)}>
+                  Cerrar
+                </button>
+              </div>
+              <div className="term-modal-body fact-modal-body">
+                <p>{factModal.body}</p>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </section>
   );
 }

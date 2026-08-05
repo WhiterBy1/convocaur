@@ -76,7 +76,7 @@ Elegibilidad (resumen n=95): ~**61** pueden postularse en algún modo; ~**34** n
 
 | Activo | Estado |
 |--------|--------|
-| Fórmula | `0.7·cosine(emb) + 0.3·cosine(tfidf) + boost` |
+| Fórmula | \(0.85\cos_{emb}+0.15\cos_{tfidf}+\mathrm{premio}_{perfil}\) → \([0,1]\) |
 | Código | `src/convocaur/matching/` + `scripts/run_match.py` |
 | Cache embeddings | ~615 vectores en `data/processed/matching/cache_embeddings/` |
 | Rankings precalculados | Convocatorias **45, 48, 976** (piloto UI) |
@@ -188,18 +188,30 @@ flowchart LR
 ### Matching — por qué esa fórmula
 
 \[
-score = 0.7\cdot\cos_{emb} + 0.3\cdot\cos_{tfidf} + boost
+\mathrm{sim}_i = 0.85\cdot\cos^{\mathrm{emb}}_i + 0.15\cdot\cos^{\mathrm{tfidf}}_i
 \]
+\[
+\mathrm{score}_i = \mathrm{clip}\big(\mathrm{sim}_i + \mathrm{premio}_{perfil}(i),\,0,\,1\big)
+\]
+
+**Premios de perfil** (absolutos, no relativos al pool):
+
+| Premio | Valor |
+|--------|------:|
+| CvLAC presente | +0.12 |
+| Categoría Emérito / Senior / Asociado / Junior | +0.18 / +0.16 / +0.13 / +0.09 |
+| Áreas de investigación (≥5 / ≥2 / ≥1) | +0.08 / +0.05 / +0.03 |
+
+`score_raw` guarda solo la similitud textual; `boost` es el premio de perfil; `score_final = clip(sim + boost, 0, 1)`.
 
 | Pieza | Por qué |
 |-------|---------|
-| Embeddings (`text-embedding-3-small`) | Cercanía semántica TdR ↔ perfil (sinónimos, temas) |
-| TF-IDF 0.3 | Ancla términos literales del llamado |
-| Boost CvLAC / categoría | Señal de trayectoria Minciencias, sin dominar el tema |
-| Cache en disco | No re-pagar OpenRouter si el texto no cambió |
-| UI lee CSV | Exploración barata; `run_match.py` es quien recalcula |
+| Embeddings | Similitud semántica TdR ↔ perfil |
+| TF-IDF 0.15 | Ancla términos literales |
+| Premios de perfil | Reconocen CvLAC, categoría Minciencias y densidad de áreas |
+| Cache / CSV | Igual que antes |
 
-**Scores ~0.45–0.50 no son “malos”:** cosine entre TdR administrativo y CV académico rara vez llega a 0.9; el valor está en el **ranking relativo**.
+**Interpretación:** \(1\) = techo de la escala; \(0\) = sin relación ni premios. La similitud pura sigue en `score_raw`.
 
 ### Alcance MVP (consciente)
 

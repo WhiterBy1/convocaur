@@ -50,12 +50,72 @@ ANCLAS_ENTIDAD = re.compile(
     re.IGNORECASE,
 )
 
-# Otras IES / centros de formación (peers, no Rosario)
-PEER_IES = re.compile(
+# Otras IES / centros de formación (peers, no Rosario).
+# Heurística por razón social SECOP: muchas IES llegan como sigla (UNISALLE, UPTC…).
+_PEER_IES_WORDS = re.compile(
     r"\bUNIVERSIDAD\b|\bCOLEGIO\s+MAYOR\b|\bPOLIT[EÉ]CNICO\b|"
-    r"\bESCUELA\s+SUPERIOR\b|\bINSTITUTO\s+TECNOL|\bFUNDACI[OÓ]N\s+UNIVERSIT",
+    r"\bESCUELA\s+SUPERIOR\b|\bINSTITUTO\s+TECNOL|\bFUNDACI[OÓ]N\s+UNIVERSIT|"
+    r"\bCORPORACI[OÓ]N\s+UNIVERSIT|\bINSTITUCI[OÓ]N\s+UNIVERSIT|"
+    r"\bCENTRO\s+DE\s+FORMACI",
     re.IGNORECASE,
 )
+# Siglas frecuentes en SECOP cuando el nombre no trae "UNIVERSIDAD"
+_PEER_IES_ACRONYMS = {
+    "UNISALLE",
+    "UNIMINUTO",
+    "UPTC",
+    "UIS",
+    "UDEA",
+    "EAFIT",
+    "ICESI",
+    "JAVERIANA",
+    "EXTERNADO",
+    "CES",
+    "ECCI",
+    "UPB",
+    "UTB",
+    "USB",
+    "UAN",
+    "UDCA",
+    "UCATOLICA",
+    "CUN",
+    "UNAB",
+    "UNINORTE",
+    "UNIVALLE",
+    "UNAL",
+    "UNIANDES",
+    "UNBOSQUE",
+    "UDES",
+    "UMNG",
+    "ESAP",
+    "ITM",
+    "PASCUAL BRAVO",
+    "POLI",
+}
+
+
+def es_nombre_ies(nombre: str) -> bool:
+    """True si el proveedor parece IES/centro de formación por razón social."""
+    raw = (nombre or "").strip()
+    if not raw:
+        return False
+    if _PEER_IES_WORDS.search(raw):
+        return True
+    key = re.sub(r"[^A-Z0-9ÁÉÍÓÚÑÜ\s]", "", raw.upper())
+    key = re.sub(r"\s+", " ", key).strip()
+    if key in _PEER_IES_ACRONYMS:
+        return True
+    for tok in key.split():
+        if tok in _PEER_IES_ACRONYMS:
+            return True
+    compact = re.sub(r"\s+", "", key)
+    if compact.startswith("UNI") and len(compact) >= 6 and compact.isalpha():
+        return True
+    return False
+
+
+# Alias legacy por si queda alguna referencia
+PEER_IES = _PEER_IES_WORDS
 
 
 def _norm_nit(raw: str) -> str:
@@ -345,9 +405,9 @@ def _build_subgraph(edges: list[dict[str, Any]]) -> dict[str, Any]:
             "modo": "mercado_muestra",
         },
         "leyenda": [
-            {"kind": "entidad", "color": "#6fd0bc", "nombre": "Entidad (comprador)"},
-            {"kind": "proveedor", "color": "#e2b86a", "nombre": "Proveedor (vendedor)"},
-            {"kind": "ancla", "color": "#f0d9a0", "nombre": "U. Rosario (ancla)"},
+            {"kind": "entidad", "color": "#3e4b8e", "nombre": "Entidad (comprador)"},
+            {"kind": "proveedor", "color": "#a6bcc9", "nombre": "Proveedor (vendedor)"},
+            {"kind": "ancla", "color": "#3d1534", "nombre": "U. Rosario (ancla)"},
         ],
         "como_leer": [
             "Esto es una muestra de los mayores compradores/hubs + Rosario siempre anclada.",
@@ -432,10 +492,10 @@ def _pack_graph(
             "n_edges_universo": n_edges_universo,
         },
         "leyenda": [
-            {"kind": "entidad", "color": "#6fd0bc", "nombre": "Entidad (comprador)"},
-            {"kind": "proveedor", "color": "#e2b86a", "nombre": "Proveedor"},
-            {"kind": "competidor", "color": "#e8917a", "nombre": "Competidor frecuente"},
-            {"kind": "ancla", "color": "#f0d9a0", "nombre": "U. Rosario"},
+            {"kind": "entidad", "color": "#3e4b8e", "nombre": "Entidad (comprador)"},
+            {"kind": "proveedor", "color": "#a6bcc9", "nombre": "Proveedor"},
+            {"kind": "competidor", "color": "#8b3a4a", "nombre": "Competidor frecuente"},
+            {"kind": "ancla", "color": "#3d1534", "nombre": "U. Rosario"},
         ],
         "como_leer": como_leer or [
             "Arrastra nodos; scroll para zoom; clic para fijar detalle.",
@@ -572,7 +632,7 @@ def _analisis_y_ego_rosario(edges: list[dict[str, Any]]) -> tuple[dict[str, Any]
                 st["valor_en_ents_compartidas"] / (v_ros or 1), 2
             ),
             "valor_total_proveedor_cop": float(val_prov.get(st["proveedor_id"], 0)),
-            "es_ies": bool(PEER_IES.search(st["nombre"] or "")),
+            "es_ies": es_nombre_ies(st["nombre"] or ""),
         })
     competidores.sort(
         key=lambda x: (-x["n_entidades_compartidas"], -x["valor_rival_en_compartidas_cop"])
@@ -584,7 +644,7 @@ def _analisis_y_ego_rosario(edges: list[dict[str, Any]]) -> tuple[dict[str, Any]
     for pid, nom in name_prov.items():
         if pid in ros_pids:
             continue
-        if not PEER_IES.search(nom or ""):
+        if not es_nombre_ies(nom or ""):
             continue
         peers.append({
             "nombre": nom,
@@ -597,7 +657,11 @@ def _analisis_y_ego_rosario(edges: list[dict[str, Any]]) -> tuple[dict[str, Any]
     peers = peers[:TOP_PEERS_IES]
     ros_rank_ies = 1 + sum(1 for p in peers if p["valor_total_cop"] > ros_valor)
     # recount full IES rank
-    all_ies_vals = [val_prov[pid] for pid, nom in name_prov.items() if pid not in ros_pids and PEER_IES.search(nom or "")]
+    all_ies_vals = [
+        val_prov[pid]
+        for pid, nom in name_prov.items()
+        if pid not in ros_pids and es_nombre_ies(nom or "")
+    ]
     ros_rank_ies = 1 + sum(1 for v in all_ies_vals if v > ros_valor)
 
     top1 = compradores[0] if compradores else None
@@ -725,7 +789,7 @@ def _analisis_y_ego_rosario(edges: list[dict[str, Any]]) -> tuple[dict[str, Any]
         links=links,
         n_edges_universo=len(edges),
         como_leer=[
-            "Nodo dorado = Rosario. Coral = competidor frecuente. Verde agua = entidad compradora.",
+            "Midnight Violet = Rosario. Granate = competidor frecuente. French Blue = entidad. Powder = proveedor.",
             "Clic en un rival para ver en qué entidades se cruza con Rosario.",
             "Esto NO es todo SECOP: es la vecindad útil para decisión comercial de Rosario.",
         ],

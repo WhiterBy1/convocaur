@@ -45,7 +45,7 @@ type LaidNode = {
 
 export function MatchTree({
   convocatoriaLabel,
-  objetivo,
+  objetivo: _objetivo,
   rows,
   activeId,
   onSelect,
@@ -93,12 +93,21 @@ export function MatchTree({
   const layout = useMemo(() => {
     const W = width;
     const showTerms = !!openedRow && terms.length > 0;
-    const H = showTerms ? 640 : 480;
+    const H = showTerms ? 720 : 560;
     const cx = W / 2;
-    const yConv = 64;
-    const yDoc = 250;
-    const yTerm = 460;
-    const padX = 56;
+    const yConv = 56;
+    const padX = 72;
+
+    const shortName = (full: string) => {
+      const parts = full.trim().split(/\s+/).filter(Boolean);
+      if (parts.length <= 2) return full.length > 18 ? full.slice(0, 16) + "…" : full;
+      // Apellido(s) + inicial
+      const last = parts[parts.length - 1];
+      const first = parts[0]?.[0] ? `${parts[0][0]}.` : "";
+      const mid = parts.length > 2 ? parts[parts.length - 2] : "";
+      const label = mid ? `${first} ${mid} ${last}` : `${first} ${last}`;
+      return label.length > 20 ? label.slice(0, 18) + "…" : label;
+    };
 
     const nodes: LaidNode[] = [
       {
@@ -108,63 +117,71 @@ export function MatchTree({
         shortLabel: "Conv.",
         x: cx,
         y: yConv,
-        r: 40,
+        r: 36,
       },
     ];
     const links: { x1: number; y1: number; x2: number; y2: number; hot?: boolean }[] = [];
 
     const n = Math.max(sorted.length, 1);
-    const span = Math.max(W - padX * 2, 120);
-    const startX = padX;
+    // Arco bajo la convocatoria: más aire entre etiquetas
+    const arcY = 250;
+    const arcSpread = Math.min(W - padX * 2, Math.max(n * 78, 280));
+    const arcStart = cx - arcSpread / 2;
 
     sorted.forEach((row, i) => {
-      const x = n === 1 ? cx : startX + (span * i) / Math.max(n - 1, 1);
+      const t = n === 1 ? 0.5 : i / Math.max(n - 1, 1);
+      const x = arcStart + arcSpread * t;
+      // Ligera curva: centro más bajo, extremos un poco más altos
+      const bow = Math.sin(t * Math.PI) * 28;
+      const y = arcY + bow;
       const hot = row.id === openedId;
-      const r = hot ? 26 : 15 + Math.min(row.score_final, 1) * 8;
+      const r = hot ? 24 : 14 + Math.min(row.score_final, 1) * 7;
       nodes.push({
         id: row.id,
         kind: "docente",
         label: row.nombre || row.id,
-        shortLabel: `#${row.rank}`,
+        shortLabel: shortName(row.nombre || `#${row.rank}`),
         x,
-        y: yDoc,
+        y,
         r,
         score: row.score_final,
         rank: row.rank,
-        labelSide: i % 2 === 0 ? "down" : "up",
+        labelSide: "down",
       });
       links.push({
         x1: cx,
-        y1: yConv + 40,
+        y1: yConv + 36,
         x2: x,
-        y2: yDoc - r,
+        y2: y - r,
         hot,
       });
     });
 
     if (openedRow && terms.length) {
-      const parent = nodes.find((n) => n.id === openedRow.id)!;
-      const tSpan = Math.min(W - 100, Math.max(terms.length * 100, 280));
+      const parent = nodes.find((nd) => nd.id === openedRow.id)!;
+      const yTerm = 520;
+      const tSpan = Math.min(W - 100, Math.max(terms.length * 110, 260));
       const tStart = Math.min(
         Math.max(parent.x - tSpan / 2, padX),
-        W - padX - tSpan
+        W - padX - tSpan,
       );
-      terms.forEach((t, i) => {
+      terms.forEach((term, i) => {
         const x =
           terms.length === 1
             ? parent.x
             : tStart + (tSpan * i) / Math.max(terms.length - 1, 1);
-        const termHot = modalTerm?.term === t.term;
+        const termHot = modalTerm?.term === term.term;
         nodes.push({
-          id: `${openedRow.id}::${t.term}`,
+          id: `${openedRow.id}::${term.term}`,
           kind: "termino",
-          label: t.term,
-          shortLabel: t.term.slice(0, 14),
-          term: t.term,
+          label: term.term,
+          shortLabel:
+            term.term.length > 12 ? term.term.slice(0, 11) + "…" : term.term,
+          term: term.term,
           x,
           y: yTerm,
-          r: (termHot ? 16 : 12) + Math.min(t.peso * 35, 10),
-          score: t.peso,
+          r: (termHot ? 15 : 11) + Math.min(term.peso * 30, 8),
+          score: term.peso,
         });
         links.push({
           x1: parent.x,
@@ -196,16 +213,13 @@ export function MatchTree({
         <div>
           <h3>Árbol de match</h3>
           <p className="note" style={{ margin: 0 }}>
-            Convocatoria arriba · clic en docente → términos · clic en término → evidencia.
-            {objetivo
-              ? ` ${objetivo.slice(0, 140)}${objetivo.length > 140 ? "…" : ""}`
-              : ""}
+            Clic en un docente (beige) → términos (coral) → evidencia.
           </p>
         </div>
         <p className="note match-tree-hint">
           {openedRow
-            ? "Ahora haz clic en un término (amarillo) para ver el texto"
-            : "Haz clic en un docente para expandir sus términos"}
+            ? `Abierto: ${openedRow.nombre || openedRow.id}`
+            : "Los nombres van debajo de cada nodo"}
         </p>
       </div>
 
@@ -223,7 +237,7 @@ export function MatchTree({
               y1={l.y1}
               x2={l.x2}
               y2={l.y2}
-              stroke={l.hot ? "rgba(111,208,188,0.85)" : "rgba(226,184,106,0.35)"}
+              stroke={l.hot ? "rgba(62,75,142,0.85)" : "rgba(166,188,201,0.55)"}
               strokeWidth={l.hot ? 2.4 : 1.5}
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
@@ -235,20 +249,20 @@ export function MatchTree({
             const hotTerm = n.kind === "termino" && modalTerm?.term === n.term;
             const fill =
               n.kind === "conv"
-                ? "#6fd0bc"
+                ? "#3e4b8e"
                 : n.kind === "docente"
-                  ? hotDoc
-                    ? "#e2b86a"
-                    : "#3d5566"
+                  ? "#f6e0b6"
                   : hotTerm
-                    ? "#f0d9a0"
-                    : "#e8917a";
+                    ? "#a85a68"
+                    : "#8b3a4a";
             const stroke =
-              n.kind === "conv" || hotDoc || hotTerm
-                ? "#e9eef4"
-                : n.kind === "docente"
-                  ? "#6fd0bc"
-                  : "rgba(233,238,244,0.45)";
+              n.kind === "conv"
+                ? "#3e4b8e"
+                : hotDoc || hotTerm
+                  ? "#3d1534"
+                  : n.kind === "docente"
+                    ? "rgba(62,75,142,0.55)"
+                    : "rgba(61,21,52,0.25)";
             const clickable = n.kind === "docente" || n.kind === "termino";
 
             return (
@@ -266,16 +280,17 @@ export function MatchTree({
                   r={n.r}
                   fill={fill}
                   stroke={stroke}
-                  strokeWidth={hotDoc || hotTerm || n.kind === "conv" ? 2.6 : 1.5}
+                  strokeWidth={hotDoc || hotTerm || n.kind === "conv" ? 2.4 : 1.4}
                 />
                 {n.kind === "conv" && (
                   <text
                     x={n.x}
                     y={n.y + 5}
                     textAnchor="middle"
-                    fill="#0b0e12"
-                    fontSize="13"
+                    fill="#fffaf5"
+                    fontSize="12"
                     fontWeight="700"
+                    fontFamily="Source Sans 3, sans-serif"
                   >
                     Conv.
                   </text>
@@ -286,22 +301,27 @@ export function MatchTree({
                       x={n.x}
                       y={n.y + 4}
                       textAnchor="middle"
-                      fill={hotDoc ? "#0b0e12" : "#6fd0bc"}
-                      fontSize="11"
+                      fill="#3d1534"
+                      fontSize="10"
                       fontWeight="700"
+                      fontFamily="Source Sans 3, sans-serif"
                     >
                       {(n.score ?? 0).toFixed(2)}
                     </text>
                     <text
                       x={n.x}
-                      y={n.labelSide === "up" ? n.y - n.r - 10 : n.y + n.r + 16}
+                      y={n.y + n.r + 18}
                       textAnchor="middle"
-                      fill="#e9eef4"
-                      fontSize="11"
+                      fill="#3d1534"
+                      fontSize="10"
+                      fontWeight="600"
+                      fontFamily="Source Sans 3, sans-serif"
                     >
                       {n.shortLabel}
                     </text>
-                    <title>{n.label}</title>
+                    <title>
+                      #{n.rank} {n.label} · score {(n.score ?? 0).toFixed(3)}
+                    </title>
                   </>
                 )}
                 {n.kind === "termino" && (
@@ -310,8 +330,10 @@ export function MatchTree({
                       x={n.x}
                       y={n.y + n.r + 14}
                       textAnchor="middle"
-                      fill="#e2b86a"
-                      fontSize="11"
+                      fill="#3d1534"
+                      fontSize="10"
+                      fontWeight="600"
+                      fontFamily="Source Sans 3, sans-serif"
                     >
                       {n.shortLabel}
                     </text>
@@ -326,18 +348,17 @@ export function MatchTree({
 
       <div className="network-legend" style={{ position: "relative", marginTop: "0.5rem" }}>
         <span>
-          <i style={{ background: "#6fd0bc" }} /> Convocatoria
+          <i style={{ background: "#3e4b8e" }} /> Convocatoria
         </span>
         <span>
-          <i style={{ background: "#e2b86a" }} /> Docente (expandir)
+          <i style={{ background: "#f6e0b6" }} /> Docente
         </span>
         <span>
-          <i style={{ background: "#e8917a" }} /> Término (modal)
+          <i style={{ background: "#8b3a4a" }} /> Término
         </span>
         {openedRow && (
           <span className="note" style={{ margin: 0 }}>
-            #{openedRow.rank} {openedRow.nombre || openedRow.id} · score{" "}
-            {openedRow.score_final.toFixed(3)}
+            #{openedRow.rank} · score {openedRow.score_final.toFixed(3)}
           </span>
         )}
       </div>
@@ -404,3 +425,4 @@ export function MatchTree({
     </div>
   );
 }
+

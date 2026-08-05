@@ -10,6 +10,16 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 def boost_detalle(row: dict) -> list[dict]:
+    from convocaur.matching.ranker import (
+        PREMIO_AREAS_1,
+        PREMIO_AREAS_2,
+        PREMIO_AREAS_5,
+        PREMIO_CAT,
+        PREMIO_CVLAC,
+        W_EMB_DEFAULT,
+        W_TFIDF_DEFAULT,
+    )
+
     feats: list[dict] = []
     emb = float(row.get("score_emb") or 0)
     tfidf = float(row.get("score_tfidf") or 0)
@@ -18,7 +28,7 @@ def boost_detalle(row: dict) -> list[dict]:
         "tipo": "score",
         "label": "Similitud semántica",
         "detalle": "cosine embeddings",
-        "aporte": round(0.7 * emb, 4),
+        "aporte": round(W_EMB_DEFAULT * emb, 4),
         "crudo": round(emb, 4),
     })
     feats.append({
@@ -26,7 +36,7 @@ def boost_detalle(row: dict) -> list[dict]:
         "tipo": "score",
         "label": "Términos literales",
         "detalle": "cosine TF-IDF",
-        "aporte": round(0.3 * tfidf, 4),
+        "aporte": round(W_TFIDF_DEFAULT * tfidf, 4),
         "crudo": round(tfidf, 4),
     })
 
@@ -35,21 +45,25 @@ def boost_detalle(row: dict) -> list[dict]:
             "id": "cvlac",
             "tipo": "boost",
             "label": "CvLAC presente",
-            "detalle": "+0.02",
-            "aporte": 0.02,
+            "detalle": f"+{PREMIO_CVLAC}",
+            "aporte": PREMIO_CVLAC,
         })
 
     cat = str(row.get("categoria") or "")
     cat_l = cat.lower()
     cat_boost, cat_tag = 0.0, None
-    if "emérito" in cat_l or "emerito" in cat_l:
-        cat_boost, cat_tag = 0.05, "Emérito"
-    elif "senior" in cat_l:
-        cat_boost, cat_tag = 0.04, "Senior"
-    elif "asociado" in cat_l:
-        cat_boost, cat_tag = 0.03, "Asociado"
-    elif "junior" in cat_l:
-        cat_boost, cat_tag = 0.02, "Junior"
+    cat_labels = [
+        ("emérito", "Emérito"),
+        ("emerito", "Emérito"),
+        ("senior", "Senior"),
+        ("asociado", "Asociado"),
+        ("junior", "Junior"),
+    ]
+    for key, label in cat_labels:
+        if key in cat_l:
+            cat_boost = PREMIO_CAT[key]
+            cat_tag = label
+            break
     if cat_boost:
         feats.append({
             "id": "categoria",
@@ -57,6 +71,27 @@ def boost_detalle(row: dict) -> list[dict]:
             "label": f"Categoría {cat_tag}",
             "detalle": cat[:90],
             "aporte": cat_boost,
+        })
+
+    try:
+        n_areas = int(row.get("n_areas") or 0)
+    except (TypeError, ValueError):
+        n_areas = 0
+    if n_areas >= 5:
+        area_b, area_d = PREMIO_AREAS_5, f"{n_areas} áreas (+{PREMIO_AREAS_5})"
+    elif n_areas >= 2:
+        area_b, area_d = PREMIO_AREAS_2, f"{n_areas} áreas (+{PREMIO_AREAS_2})"
+    elif n_areas >= 1:
+        area_b, area_d = PREMIO_AREAS_1, f"{n_areas} área (+{PREMIO_AREAS_1})"
+    else:
+        area_b, area_d = 0.0, ""
+    if area_b:
+        feats.append({
+            "id": "areas",
+            "tipo": "boost",
+            "label": "Áreas de investigación",
+            "detalle": area_d,
+            "aporte": area_b,
         })
 
     fac = row.get("facultad")

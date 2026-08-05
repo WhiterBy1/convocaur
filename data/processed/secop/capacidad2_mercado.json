@@ -373,31 +373,41 @@
       "anio": 2022,
       "n_proveedores": 5303,
       "top1_participacion_pct": 6.46,
-      "jaccard_top50_vs_anio_prev_pct": null
+      "jaccard_top50_vs_anio_prev_pct": null,
+      "top1_nombre": "EMPRESA DE DESARROLLO URBANO DE MEDELLIN",
+      "top1_valor_cop": 499906977687.0
     },
     {
       "anio": 2023,
       "n_proveedores": 5359,
       "top1_participacion_pct": 7.96,
-      "jaccard_top50_vs_anio_prev_pct": 14.9
+      "jaccard_top50_vs_anio_prev_pct": 14.9,
+      "top1_nombre": "FINANCIERA DE DESARROLLO TERRITORIAL S.A.",
+      "top1_valor_cop": 776411981751.0
     },
     {
       "anio": 2024,
       "n_proveedores": 5193,
       "top1_participacion_pct": 5.86,
-      "jaccard_top50_vs_anio_prev_pct": 19.0
+      "jaccard_top50_vs_anio_prev_pct": 19.0,
+      "top1_nombre": "EMPRESA DE DESARROLLO URBANO DE MEDELLIN",
+      "top1_valor_cop": 520245457372.0
     },
     {
       "anio": 2025,
       "n_proveedores": 5898,
-      "top1_participacion_pct": 23.17,
-      "jaccard_top50_vs_anio_prev_pct": 17.6
+      "top1_participacion_pct": 23.16,
+      "jaccard_top50_vs_anio_prev_pct": 17.6,
+      "top1_nombre": "GECELCA S.A. E.S.P.",
+      "top1_valor_cop": 4205027751839.0
     },
     {
       "anio": 2026,
       "n_proveedores": 2747,
-      "top1_participacion_pct": 9.64,
-      "jaccard_top50_vs_anio_prev_pct": 8.7
+      "top1_participacion_pct": 9.6,
+      "jaccard_top50_vs_anio_prev_pct": 8.7,
+      "top1_nombre": "CONSORCIO PLANTA CURVAL",
+      "top1_valor_cop": 410758596204.0
     }
   ],
   "rotacion_lectura": "Los líderes del ranking de proveedores cambian bastante de un año a otro: el mercado no está “cerrado” a siempre los mismos nombres.",
@@ -429,17 +439,17 @@
     "leyenda": [
       {
         "kind": "entidad",
-        "color": "#6fd0bc",
+        "color": "#3e4b8e",
         "nombre": "Entidad (comprador)"
       },
       {
         "kind": "proveedor",
-        "color": "#e2b86a",
+        "color": "#a6bcc9",
         "nombre": "Proveedor (vendedor)"
       },
       {
         "kind": "ancla",
-        "color": "#f0d9a0",
+        "color": "#3d1534",
         "nombre": "U. Rosario (ancla)"
       }
     ],
@@ -11566,27 +11576,27 @@
     "leyenda": [
       {
         "kind": "entidad",
-        "color": "#6fd0bc",
+        "color": "#3e4b8e",
         "nombre": "Entidad (comprador)"
       },
       {
         "kind": "proveedor",
-        "color": "#e2b86a",
+        "color": "#a6bcc9",
         "nombre": "Proveedor"
       },
       {
         "kind": "competidor",
-        "color": "#e8917a",
+        "color": "#8b3a4a",
         "nombre": "Competidor frecuente"
       },
       {
         "kind": "ancla",
-        "color": "#f0d9a0",
+        "color": "#3d1534",
         "nombre": "U. Rosario"
       }
     ],
     "como_leer": [
-      "Nodo dorado = Rosario. Coral = competidor frecuente. Verde agua = entidad compradora.",
+      "Midnight Violet = Rosario. Granate = competidor frecuente. French Blue = entidad compradora. Powder = proveedor.",
       "Clic en un rival para ver en qué entidades se cruza con Rosario.",
       "Esto NO es todo SECOP: es la vecindad útil para decisión comercial de Rosario."
     ],
@@ -13514,7 +13524,7 @@
         "valor_rosario_en_compartidas_cop": 24078557710.0,
         "ratio_rival_vs_rosario": 0.79,
         "valor_total_proveedor_cop": 19064751623.0,
-        "es_ies": false
+        "es_ies": true
       },
       {
         "nombre": "Branch Of Microsoft Colombia Inc",
@@ -13655,7 +13665,7 @@
         "valor_rosario_en_compartidas_cop": 32094570357.0,
         "ratio_rival_vs_rosario": 0.92,
         "valor_total_proveedor_cop": 44467197862.0,
-        "es_ies": false
+        "es_ies": true
       },
       {
         "nombre": "Universidad EAN",
@@ -13715,7 +13725,7 @@
         "valor_rosario_en_compartidas_cop": 314223999.0,
         "ratio_rival_vs_rosario": 74.79,
         "valor_total_proveedor_cop": 28088449445.0,
-        "es_ies": false
+        "es_ies": true
       },
       {
         "nombre": "British Council",

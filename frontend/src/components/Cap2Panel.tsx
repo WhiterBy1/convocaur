@@ -15,6 +15,7 @@ import {
 import { formatCop, formatCopShort } from "../lib/format";
 import type { RedMercado } from "./Cap2NetworkGraph";
 import { Cap2RosarioInsights, type AnalisisRosario } from "./Cap2RosarioInsights";
+import { ChartInView } from "./ChartInView";
 
 const Cap2NetworkGraph = lazy(() =>
   import("./Cap2NetworkGraph").then((m) => ({ default: m.Cap2NetworkGraph }))
@@ -61,6 +62,8 @@ export type Capacidad2 = {
     anio: number;
     n_proveedores: number;
     top1_participacion_pct: number;
+    top1_nombre?: string;
+    top1_valor_cop?: number;
     jaccard_top50_vs_anio_prev_pct: number | null;
   }[];
   rotacion?: string;
@@ -97,23 +100,63 @@ class GraphErrorBoundary extends Component<
 
 type Props = { data: Capacidad2 };
 
+function shortLabel(s: string, n = 28) {
+  const t = (s || "").trim().replace(/\s+/g, " ");
+  if (t.length <= n) return t;
+  return `${t.slice(0, Math.max(1, n - 1)).trimEnd()}…`;
+}
+
+function CatTick(props: {
+  x?: number;
+  y?: number;
+  payload?: { value?: string | number };
+}) {
+  const { x = 0, y = 0, payload } = props;
+  const raw = String(payload?.value ?? "");
+  // Recorta al inicio visible: evita que el SVG recorte el comienzo del nombre.
+  const max = 26;
+  const label = raw.length > max ? `${raw.slice(0, max - 1)}…` : raw;
+  return (
+    <text
+      x={x}
+      y={y}
+      dy={4}
+      textAnchor="end"
+      fill="#3d1534"
+      fontSize={11}
+      fontFamily='"Source Sans 3", "Segoe UI", sans-serif'
+    >
+      <title>{raw}</title>
+      {label}
+    </text>
+  );
+}
+
 export function Cap2Panel({ data }: Props) {
   const k = data.kpis;
   const hhi = data.hhi;
   const pareto = data.pareto;
   const hhiBars = hhi
     ? [
-        { etapa: "Sin limpiar datos", hhi: hhi.antes_outliers, fill: "#e8917a" },
-        { etapa: "Datos corregidos", hhi: hhi.despues_correccion, fill: "#e2b86a" },
+        { etapa: "Sin limpiar datos", hhi: hhi.antes_outliers, fill: "#8b3a4a" },
+        { etapa: "Datos corregidos", hhi: hhi.despues_correccion, fill: "#a6bcc9" },
       ]
     : [];
   const curva = pareto?.curva || [];
   const top = (data.top_proveedores || []).slice(0, 10).map((p) => ({
-    nombre: p.nombre.length > 36 ? p.nombre.slice(0, 34) + "…" : p.nombre,
+    label: shortLabel(p.nombre, 28),
+    full: p.nombre,
     valor: p.valor_cop,
     pct: p.participacion_pct,
   }));
-  const nichos = (data.nichos_concentrados || data.nichos_hhi_ejemplo || []).slice(0, 6);
+  const nichos = (data.nichos_concentrados || data.nichos_hhi_ejemplo || [])
+    .slice(0, 10)
+    .map((n) => ({
+      label: shortLabel(n.entidad, 28),
+      full: n.entidad,
+      hhi: n.hhi,
+    }));
+  const pairChartH = Math.max(400, 10 * 38 + 48);
   const rotacion = data.rotacion_anual || [];
   const rotLectura = data.rotacion_lectura || data.rotacion || "";
 
@@ -153,16 +196,16 @@ export function Cap2Panel({ data }: Props) {
           <div className="panel">
             <h3>¿El mercado es de pocos o de muchos?</h3>
             <p className="note">{hhi.lectura}</p>
-            <div className="chart-wrap">
+            <ChartInView className="chart-wrap">
               <ResponsiveContainer>
                 <BarChart data={hhiBars} layout="vertical" margin={{ left: 8, right: 12 }}>
-                  <CartesianGrid stroke="rgba(233,238,244,0.14)" />
-                  <XAxis type="number" stroke="#a8b6c4" domain={[0, 10000]} />
+                  <CartesianGrid stroke="rgba(61,21,52,0.1)" />
+                  <XAxis type="number" stroke="#6a5a68" domain={[0, 10000]} />
                   <YAxis
                     type="category"
                     dataKey="etapa"
                     width={120}
-                    stroke="#a8b6c4"
+                    stroke="#6a5a68"
                     tick={{ fontSize: 12 }}
                   />
                   <Tooltip
@@ -171,22 +214,10 @@ export function Cap2Panel({ data }: Props) {
                       "Concentración",
                     ]}
                   />
-                  <Bar dataKey="hhi" fill="#6fd0bc" radius={[0, 8, 8, 0]} animationDuration={900} />
+                  <Bar dataKey="hhi" fill="#3e4b8e" radius={[0, 8, 8, 0]} animationDuration={1100} />
                 </BarChart>
               </ResponsiveContainer>
-            </div>
-            {hhi.guia && (
-              <ul className="detail-list" style={{ marginTop: "0.75rem" }}>
-                {hhi.guia.map((g) => (
-                  <li key={g.rango}>
-                    <span>{g.rango}</span>
-                    <strong style={{ fontWeight: 500, fontSize: "0.85rem" }}>
-                      {g.significado}
-                    </strong>
-                  </li>
-                ))}
-              </ul>
-            )}
+            </ChartInView>
           </div>
 
           <div className="panel">
@@ -195,13 +226,13 @@ export function Cap2Panel({ data }: Props) {
               {pareto?.lectura ||
                 "Curva de Pareto: qué porcentaje de proveedores acumula qué porcentaje del dinero."}
             </p>
-            <div className="chart-wrap">
+            <ChartInView className="chart-wrap">
               <ResponsiveContainer>
                 <LineChart data={curva}>
-                  <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+                  <CartesianGrid stroke="rgba(61,21,52,0.1)" />
                   <XAxis
                     dataKey="pct_proveedores"
-                    stroke="#a8b6c4"
+                    stroke="#6a5a68"
                     unit="%"
                     label={{
                       value: "% proveedores",
@@ -211,7 +242,7 @@ export function Cap2Panel({ data }: Props) {
                       fontSize: 11,
                     }}
                   />
-                  <YAxis stroke="#a8b6c4" unit="%" domain={[0, 100]} />
+                  <YAxis stroke="#6a5a68" unit="%" domain={[0, 100]} />
                   <Tooltip
                     formatter={(v: number) => [`${v}%`, "% del valor"]}
                     labelFormatter={(l) => `${l}% de proveedores`}
@@ -220,121 +251,180 @@ export function Cap2Panel({ data }: Props) {
                     type="monotone"
                     dataKey="pct_valor"
                     name="% del valor adjudicado"
-                    stroke="#e2b86a"
+                    stroke="#a6bcc9"
                     strokeWidth={2.4}
                     dot={false}
-                    animationDuration={1000}
+                    animationDuration={1200}
                   />
                 </LineChart>
               </ResponsiveContainer>
-            </div>
+            </ChartInView>
           </div>
         </div>
       )}
 
-      <div className="grid-2" style={{ marginTop: "1rem" }}>
-        <div className="panel">
+      <div className="grid-2" style={{ marginTop: "1rem", alignItems: "stretch" }}>
+        <div className="panel" style={{ display: "flex", flexDirection: "column" }}>
           <h3>Quiénes concentran más valor (top 10)</h3>
           <p className="note">Proveedores con mayor valor adjudicado ya corregido.</p>
-          <div className="chart-wrap tall">
+          <ChartInView className="chart-wrap tall" style={{ height: pairChartH, marginTop: "auto", overflow: "visible" }}>
             <ResponsiveContainer>
-              <BarChart data={top} layout="vertical" margin={{ left: 8, right: 16 }}>
-                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
+              <BarChart
+                data={top}
+                layout="vertical"
+                margin={{ left: 12, right: 20, top: 8, bottom: 8 }}
+                barCategoryGap="18%"
+              >
+                <CartesianGrid stroke="rgba(61,21,52,0.1)" horizontal={false} />
                 <XAxis
                   type="number"
-                  stroke="#a8b6c4"
+                  stroke="#6a5a68"
                   tickFormatter={(v) => formatCopShort(Number(v))}
                 />
                 <YAxis
                   type="category"
-                  dataKey="nombre"
-                  width={140}
-                  stroke="#a8b6c4"
-                  tick={{ fontSize: 10 }}
+                  dataKey="label"
+                  width={178}
+                  interval={0}
+                  tick={<CatTick />}
+                  tickMargin={6}
                 />
                 <Tooltip
                   formatter={(v: number, _n, p) => [
                     `${formatCop(Number(v))} (${(p?.payload as { pct?: number })?.pct ?? ""}%)`,
                     "Valor",
                   ]}
+                  labelFormatter={(_l, payload) => {
+                    const row = payload?.[0]?.payload as { full?: string } | undefined;
+                    return row?.full || String(_l);
+                  }}
                 />
-                <Bar dataKey="valor" fill="#6fd0bc" radius={[0, 8, 8, 0]} animationDuration={900} />
+                <Bar dataKey="valor" fill="#7a8dbd" radius={[0, 8, 8, 0]} animationDuration={1100} />
               </BarChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
         </div>
 
-        <div className="panel">
+        <div className="panel" style={{ display: "flex", flexDirection: "column" }}>
           <h3>Nichos: entidades muy concentradas</h3>
           <p className="note">
-            Aunque el país se ve competitivo, algunos compradores casi siempre contratan a
-            los mismos. (Mín. 20 procesos.)
+            Compradores que casi siempre contratan a los mismos. (Mín. 20 procesos.)
           </p>
-          <div className="chart-wrap tall">
+          <ChartInView className="chart-wrap tall" style={{ height: pairChartH, marginTop: "auto", overflow: "visible" }}>
             <ResponsiveContainer>
               <BarChart
-                data={nichos.map((n) => ({
-                  entidad: n.entidad.length > 40 ? n.entidad.slice(0, 38) + "…" : n.entidad,
-                  hhi: n.hhi,
-                }))}
+                data={nichos}
+                layout="vertical"
+                margin={{ left: 12, right: 20, top: 8, bottom: 8 }}
+                barCategoryGap="18%"
               >
-                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
-                <XAxis
-                  dataKey="entidad"
-                  stroke="#a8b6c4"
-                  tick={{ fontSize: 10 }}
+                <CartesianGrid stroke="rgba(61,21,52,0.1)" horizontal={false} />
+                <XAxis type="number" stroke="#6a5a68" domain={[0, 10000]} />
+                <YAxis
+                  type="category"
+                  dataKey="label"
+                  width={178}
                   interval={0}
-                  angle={-18}
-                  textAnchor="end"
-                  height={80}
+                  tick={<CatTick />}
+                  tickMargin={6}
                 />
-                <YAxis stroke="#a8b6c4" domain={[0, 10000]} />
-                <Tooltip />
+                <Tooltip
+                  formatter={(v: number) => [Number(v).toLocaleString("es-CO"), "HHI"]}
+                  labelFormatter={(_l, payload) => {
+                    const row = payload?.[0]?.payload as { full?: string } | undefined;
+                    return row?.full || String(_l);
+                  }}
+                />
                 <Bar
                   dataKey="hhi"
                   name="Concentración"
-                  fill="#e8917a"
-                  radius={[8, 8, 0, 0]}
-                  animationDuration={900}
+                  fill="#8b3a4a"
+                  radius={[0, 8, 8, 0]}
+                  animationDuration={1100}
                 />
               </BarChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
         </div>
       </div>
 
       {rotacion.length > 0 && (
         <div className="panel" style={{ marginTop: "1rem" }}>
           <h3>¿Se repiten los mismos ganadores cada año?</h3>
-          <p className="note">{rotLectura}</p>
-          <div className="chart-wrap">
+          <p className="note">
+            {rotLectura} La línea oscura es el % del valor CTeI del año que se llevó el #1.
+          </p>
+          <ChartInView className="chart-wrap" style={{ overflow: "visible" }}>
             <ResponsiveContainer>
-              <LineChart data={rotacion}>
-                <CartesianGrid stroke="rgba(233,238,244,0.14)" />
-                <XAxis dataKey="anio" stroke="#a8b6c4" />
-                <YAxis stroke="#a8b6c4" unit="%" domain={[0, 100]} />
-                <Tooltip />
-                <Legend />
+              <LineChart data={rotacion} margin={{ left: 8, right: 16, top: 8, bottom: 8 }}>
+                <CartesianGrid stroke="rgba(61,21,52,0.1)" />
+                <XAxis dataKey="anio" stroke="#6a5a68" />
+                <YAxis stroke="#6a5a68" unit="%" domain={[0, 100]} />
+                <Tooltip
+                  content={({ active, payload, label }) => {
+                    if (!active || !payload?.length) return null;
+                    const row = payload[0]?.payload as {
+                      top1_nombre?: string;
+                      top1_participacion_pct?: number;
+                      top1_valor_cop?: number;
+                      jaccard_top50_vs_anio_prev_pct?: number | null;
+                    };
+                    return (
+                      <div
+                        style={{
+                          background: "#fffaf5",
+                          border: "1px solid rgba(61,21,52,0.16)",
+                          borderRadius: 6,
+                          padding: "0.55rem 0.7rem",
+                          maxWidth: 300,
+                        }}
+                      >
+                        <div style={{ color: "#3e4b8e", fontWeight: 700, marginBottom: 4 }}>
+                          {label}
+                        </div>
+                        {row.top1_nombre ? (
+                          <div style={{ color: "#3d1534", fontSize: 12, marginBottom: 4 }}>
+                            #1: {row.top1_nombre}
+                          </div>
+                        ) : null}
+                        {payload.map((p) => (
+                          <div key={String(p.dataKey)} style={{ color: "#3d1534", fontSize: 12 }}>
+                            {p.name}:{" "}
+                            {p.value == null ? "—" : `${Number(p.value).toLocaleString("es-CO")}%`}
+                          </div>
+                        ))}
+                        {row.top1_valor_cop != null ? (
+                          <div style={{ color: "#6a5a68", fontSize: 11, marginTop: 4 }}>
+                            Valor del #1: {formatCop(row.top1_valor_cop)}
+                          </div>
+                        ) : null}
+                      </div>
+                    );
+                  }}
+                />
+                <Legend wrapperStyle={{ fontSize: 12 }} />
                 <Line
                   type="monotone"
                   dataKey="jaccard_top50_vs_anio_prev_pct"
                   name="Similitud top-50 vs año anterior"
-                  stroke="#e2b86a"
+                  stroke="#a6bcc9"
                   strokeWidth={2.4}
                   connectNulls={false}
-                  animationDuration={1000}
+                  dot={{ r: 3 }}
+                  animationDuration={1200}
                 />
                 <Line
                   type="monotone"
                   dataKey="top1_participacion_pct"
-                  name="Peso del #1 ese año"
-                  stroke="#6fd0bc"
+                  name="% del CTeI total que aportó el #1"
+                  stroke="#7a8dbd"
                   strokeWidth={2}
+                  dot={{ r: 3 }}
                   animationDuration={1100}
                 />
               </LineChart>
             </ResponsiveContainer>
-          </div>
+          </ChartInView>
         </div>
       )}
 
@@ -400,3 +490,4 @@ export function Cap2Panel({ data }: Props) {
     </motion.div>
   );
 }
+

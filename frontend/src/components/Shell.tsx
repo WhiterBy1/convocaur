@@ -22,7 +22,37 @@ export function Shell({ children }: { children: ReactNode }) {
       </header>
       <main className="main">{children}</main>
       <footer className="footer">
-        Universidad del Rosario · ConvocaUR
+        <div className="footer-inner">
+          <div className="footer-copy">
+            <strong>ConvocaUR</strong>
+            <span>Universidad del Rosario · Minciencias · SECOP CTeI</span>
+          </div>
+          <div className="footer-logos" aria-label="Instituciones">
+            <a
+              className="footer-logo"
+              href="https://www.urosario.edu.co"
+              target="_blank"
+              rel="noreferrer"
+              title="Universidad del Rosario"
+            >
+              <img
+                className="logo-urosario"
+                src="/brand/urosario-clear.png"
+                alt="Universidad del Rosario"
+              />
+            </a>
+            <span className="footer-logo-sep" aria-hidden="true" />
+            <a
+              className="footer-logo"
+              href="https://minciencias.gov.co"
+              target="_blank"
+              rel="noreferrer"
+              title="Minciencias"
+            >
+              <img src="/brand/minciencias-clear.png" alt="Minciencias" />
+            </a>
+          </div>
+        </div>
       </footer>
     </div>
   );

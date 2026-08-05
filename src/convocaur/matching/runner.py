@@ -9,7 +9,7 @@ from typing import Any, Callable
 from convocaur.cargar_datos import guardar_salida
 from convocaur.matching.corpus import cargar_docentes_json, cargar_nlp_dir, texto_docente
 from convocaur.matching.embedders import OpenRouterEmbedder, TfidfEmbedder, _load_env
-from convocaur.matching.ranker import rankear_convocatoria
+from convocaur.matching.ranker import W_EMB_DEFAULT, W_TFIDF_DEFAULT, rankear_convocatoria
 from convocaur.paths import (
     JSON_PROFESORES,
     PROC_MATCHING,
@@ -57,8 +57,8 @@ def run_matching(
     limite_docentes: int | None = None,
     sin_embeddings: bool = False,
     solo_faltantes: bool = False,
-    w_emb: float = 0.7,
-    w_tfidf: float = 0.3,
+    w_emb: float = W_EMB_DEFAULT,
+    w_tfidf: float = W_TFIDF_DEFAULT,
     on_progress: ProgressCb | None = None,
 ) -> dict[str, Any]:
     """Rankea convocatorias con NLP y escribe rankings en data/processed/matching/."""

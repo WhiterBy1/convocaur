@@ -82,13 +82,15 @@ export const NETWORK_LAYOUT = {
 };
 
 const COLOR = {
-  entidad: "#6fd0bc",
-  proveedor: "#e2b86a",
-  competidor: "#e8917a",
-  ancla: "#f0d9a0",
-  dim: "rgba(233,238,244,0.22)",
-  link: "rgba(226,184,106,0.55)",
-  linkHot: "rgba(111,208,188,0.95)",
+  entidad: "#7a8dbd",
+  proveedor: "#b7c7d1",
+  competidor: "#8b3a4a",
+  ancla: "#f6e0b6",
+  dim: "rgba(62,75,142,0.14)",
+  link: "rgba(122,141,189,0.35)",
+  linkHot: "rgba(122,141,189,0.85)",
+  stroke: "#5a6f9e",
+  label: "#4a3a48",
 };
 
 function linkId(l: RedMercado["links"][0]): [string, string] {
@@ -302,7 +304,11 @@ export function Cap2NetworkGraph({ red: redProp, vistas }: Props) {
       ctx.fill();
 
       if (isFocus || node.palacio || node.ancla) {
-        ctx.strokeStyle = node.ancla ? "#fff6d8" : isFocus ? "#eef5f0" : "rgba(226,184,106,0.75)";
+        ctx.strokeStyle = node.ancla
+          ? "#ffffff"
+          : isFocus
+            ? COLOR.stroke
+            : "rgba(122,141,189,0.7)";
         ctx.lineWidth = ((isFocus || node.ancla) ? 2.6 : 1.3) / globalScale;
         ctx.stroke();
       }
@@ -324,7 +330,7 @@ export function Cap2NetworkGraph({ red: redProp, vistas }: Props) {
       if (showLabel && !dim) {
         ctx.globalAlpha = 1;
         ctx.font = `${(node.ancla ? 12 : 11) / globalScale}px "Source Sans 3", sans-serif`;
-        ctx.fillStyle = node.ancla ? "#f0d9a0" : "#e9eef4";
+        ctx.fillStyle = COLOR.label;
         ctx.textAlign = "center";
         ctx.fillText(node.label, node.x, node.y + r + 11 / globalScale);
       }
@@ -345,7 +351,7 @@ export function Cap2NetworkGraph({ red: redProp, vistas }: Props) {
       ctx.beginPath();
       ctx.moveTo(s.x, s.y);
       ctx.lineTo(t.x, t.y);
-      ctx.strokeStyle = hot ? COLOR.linkHot : dim ? "rgba(238,245,240,0.05)" : COLOR.link;
+      ctx.strokeStyle = hot ? COLOR.linkHot : dim ? "rgba(122,141,189,0.08)" : COLOR.link;
       ctx.lineWidth = hot ? 1.6 : Math.min(0.5 + (link.peso || 0.1) * 0.25, 1.8);
       ctx.globalAlpha = dim ? 0.2 : 0.85;
       ctx.stroke();
@@ -405,9 +411,9 @@ export function Cap2NetworkGraph({ red: redProp, vistas }: Props) {
           <div className="hint">adjudicaciones agregadas entidad↔proveedor</div>
         </div>
         <div className="kpi">
-          <div className="label">Palacios (hubs)</div>
+          <div className="label">Hubs</div>
           <div className="value">{red.palacios?.length ?? 0}</div>
-          <div className="hint">entidades con más conexiones</div>
+          <div className="hint">compradores con más conexiones</div>
         </div>
       </div>
 
@@ -459,7 +465,7 @@ export function Cap2NetworkGraph({ red: redProp, vistas }: Props) {
             width={size.w}
             height={size.h}
             graphData={graphData}
-            backgroundColor="#11151b"
+            backgroundColor="#fff4eb"
             nodeCanvasObject={paintNode}
             linkCanvasObject={paintLink}
             linkDirectionalParticles={0}
@@ -493,28 +499,44 @@ export function Cap2NetworkGraph({ red: redProp, vistas }: Props) {
           <div className="network-legend">
             {(red.leyenda || []).map((l) => (
               <span key={l.kind}>
-                <i style={{ background: l.color }} /> {l.nombre}
+                <i
+                  style={{
+                    background:
+                      COLOR[l.kind as keyof typeof COLOR] || l.color || COLOR.proveedor,
+                  }}
+                />{" "}
+                {l.nombre}
               </span>
             ))}
           </div>
         </div>
 
         <aside className="network-side">
-          <h4>Palacios mentales</h4>
+          <h4>Compradores clave</h4>
           <p className="note" style={{ marginTop: 0 }}>
-            Entidades-hub: núcleos desde los que salen muchas relaciones.
+            Hubs del grafo: más vínculos CTeI. Clic para centrar.
           </p>
           <ul className="network-palacios">
-            {(red.palacios || []).slice(0, 8).map((p) => (
-              <li key={p.id}>
-                <button type="button" onClick={() => centerOn(p.id)}>
-                  <strong>{p.nombre.length > 48 ? p.nombre.slice(0, 46) + "…" : p.nombre}</strong>
-                  <span>
-                    {p.degree} vínculos · {formatCopShort(p.valor)}
-                  </span>
-                </button>
-              </li>
-            ))}
+            {(red.palacios || []).slice(0, 8).map((p, i) => {
+              const maxDeg = Math.max(...(red.palacios || []).map((x) => x.degree), 1);
+              const pct = Math.round((100 * p.degree) / maxDeg);
+              return (
+                <li key={p.id}>
+                  <button type="button" onClick={() => centerOn(p.id)}>
+                    <span className="hub-rank">#{i + 1}</span>
+                    <strong>
+                      {p.nombre.length > 42 ? p.nombre.slice(0, 40) + "…" : p.nombre}
+                    </strong>
+                    <span className="hub-meta">
+                      {p.degree} vínculos · {formatCopShort(p.valor)}
+                    </span>
+                    <span className="hub-bar" aria-hidden="true">
+                      <i style={{ width: `${pct}%` }} />
+                    </span>
+                  </button>
+                </li>
+              );
+            })}
           </ul>
 
           {selectedNode ? (

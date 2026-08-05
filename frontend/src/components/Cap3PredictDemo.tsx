@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { api, apiPost } from "../lib/api";
-import { formatCop } from "../lib/format";
+import { formatCop, formatCopShort } from "../lib/format";
 
 type Preset = {
   id: string;
@@ -77,9 +77,15 @@ const empty: PredictInput = {
   entidad: "",
 };
 
+function shortPreset(nombre: string) {
+  const t = nombre.split("·")[0]?.trim() || nombre;
+  return t.length > 28 ? t.slice(0, 26) + "…" : t;
+}
+
 export function Cap3PredictDemo() {
   const [meta, setMeta] = useState<PredictMeta | null>(null);
   const [form, setForm] = useState<PredictInput>(empty);
+  const [activePreset, setActivePreset] = useState<string | null>(null);
   const [result, setResult] = useState<PredictResult | null>(null);
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState<string | null>(null);
@@ -88,14 +94,20 @@ export function Cap3PredictDemo() {
     api<PredictMeta>("/api/secop/predict/meta")
       .then((m) => {
         setMeta(m);
-        if (m.presets?.[0]) setForm({ ...m.presets[0].payload });
+        if (m.presets?.[0]) {
+          setForm({ ...m.presets[0].payload });
+          setActivePreset(m.presets[0].id);
+        }
       })
       .catch((e) => setErr(String(e.message || e)));
   }, []);
 
-  const set = (patch: Partial<PredictInput>) => setForm((f) => ({ ...f, ...patch }));
+  const set = (patch: Partial<PredictInput>) => {
+    setActivePreset(null);
+    setForm((f) => ({ ...f, ...patch }));
+  };
 
-  const run = async (payload?: PredictInput) => {
+  const run = async (payload?: PredictInput, presetId?: string) => {
     const body = payload || form;
     setBusy(true);
     setErr(null);
@@ -103,6 +115,7 @@ export function Cap3PredictDemo() {
       const r = await apiPost<PredictResult>("/api/secop/predict", body);
       setResult(r);
       setForm(body);
+      if (presetId) setActivePreset(presetId);
     } catch (e) {
       setErr(String((e as Error).message || e));
       setResult(null);
@@ -115,64 +128,68 @@ export function Cap3PredictDemo() {
   const departamentos = useMemo(() => meta?.departamentos || [], [meta]);
 
   return (
-    <div className="panel panel-rosario" style={{ marginBottom: "1rem" }}>
-      <h3>Simular un proceso (bid / no-bid)</h3>
-      <p className="note">
-        Caso de uso: tu empresa o Rosario ve una licitación competitiva y quiere saber si
-        vale la pena seguirla. Elige un ejemplo o ajusta los datos — el backend corre los
-        modelos reales sobre procesos históricos parecidos.
-        {meta?.ok === false && (
-          <>
-            {" "}
-            <span className="error">Modelos no cargaron: {meta.error}</span>
-          </>
-        )}
-      </p>
+    <div className="panel predict-demo" style={{ marginBottom: "1rem" }}>
+      <div className="predict-demo-head">
+        <h3>Simular un proceso</h3>
+        {meta?.modelo_adjudicacion ? (
+          <span className="predict-meta-chip">{meta.modelo_adjudicacion}</span>
+        ) : null}
+      </div>
 
-      {meta?.presets && (
-        <div className="tabs" style={{ marginBottom: "0.85rem" }}>
+      {meta?.ok === false && (
+        <p className="error">Modelos no cargaron: {meta.error}</p>
+      )}
+
+      {meta?.presets && meta.presets.length > 0 ? (
+        <div className="predict-presets">
           {meta.presets.map((p) => (
             <button
               key={p.id}
               type="button"
-              className="tab"
+              className={`predict-preset ${activePreset === p.id ? "active" : ""}`}
               disabled={busy}
-              onClick={() => run(p.payload)}
-              title={p.descripcion}
+              title={p.descripcion || p.nombre}
+              onClick={() => run(p.payload, p.id)}
             >
-              {p.nombre}
+              {shortPreset(p.nombre)}
             </button>
           ))}
         </div>
-      )}
+      ) : null}
 
       <div className="predict-form">
-        <label>
-          Precio base (COP)
+        <label className="pf-field pf-span-2">
+          <span>Precio base</span>
           <input
             type="number"
             value={form.precio_base_cop}
             onChange={(e) => set({ precio_base_cop: Number(e.target.value) })}
           />
+          <em>{formatCopShort(form.precio_base_cop)}</em>
         </label>
-        <label>
-          Duración (meses)
+
+        <label className="pf-field">
+          <span>Duración (meses)</span>
           <input
             type="number"
+            min={1}
             value={form.duracion_meses}
             onChange={(e) => set({ duracion_meses: Number(e.target.value) })}
           />
         </label>
-        <label>
-          Lotes
+
+        <label className="pf-field">
+          <span>Lotes</span>
           <input
             type="number"
+            min={1}
             value={form.numero_de_lotes}
             onChange={(e) => set({ numero_de_lotes: Number(e.target.value) })}
           />
         </label>
-        <label>
-          Mes publicación
+
+        <label className="pf-field">
+          <span>Mes</span>
           <select
             value={form.mes_publicacion}
             onChange={(e) => set({ mes_publicacion: Number(e.target.value) })}
@@ -184,16 +201,18 @@ export function Cap3PredictDemo() {
             ))}
           </select>
         </label>
-        <label>
-          Año
+
+        <label className="pf-field">
+          <span>Año</span>
           <input
             type="number"
             value={form.anio_publicacion}
             onChange={(e) => set({ anio_publicacion: Number(e.target.value) })}
           />
         </label>
-        <label>
-          Modalidad
+
+        <label className="pf-field pf-span-2">
+          <span>Modalidad</span>
           <select
             value={form.modalidad}
             onChange={(e) => set({ modalidad: e.target.value })}
@@ -205,8 +224,9 @@ export function Cap3PredictDemo() {
             ))}
           </select>
         </label>
-        <label>
-          Departamento
+
+        <label className="pf-field pf-span-2">
+          <span>Departamento</span>
           <select
             value={form.departamento}
             onChange={(e) => set({ departamento: e.target.value })}
@@ -218,82 +238,59 @@ export function Cap3PredictDemo() {
             ))}
           </select>
         </label>
-        <label>
-          Entidad (opcional)
+
+        <label className="pf-field pf-span-4">
+          <span>Entidad (opcional)</span>
           <input
             type="text"
-            placeholder="Si la conoces, mejora la predicción"
+            placeholder="Nombre de la entidad contratante"
             value={form.entidad}
             onChange={(e) => set({ entidad: e.target.value })}
           />
         </label>
       </div>
 
-      <div className="actions-row" style={{ marginTop: "0.85rem" }}>
-        <button className="btn btn-primary" type="button" disabled={busy} onClick={() => run()}>
-          {busy ? "Prediciendo…" : "Predecir ahora"}
+      <div className="predict-actions">
+        <button
+          className="btn btn-primary"
+          type="button"
+          disabled={busy || meta?.ok === false}
+          onClick={() => run()}
+        >
+          {busy ? "Prediciendo…" : "Predecir"}
         </button>
+        {result ? (
+          <span className="predict-summary">
+            {formatCop(form.precio_base_cop)} · {form.modalidad} ·{" "}
+            {MES[form.mes_publicacion]} {form.anio_publicacion}
+          </span>
+        ) : null}
       </div>
 
       {err && <p className="error">{err}</p>}
 
       {result && (
-        <div className="pred-grid" style={{ marginTop: "1rem" }}>
-          <article className="pred-card pred-ok">
-            <div className="pred-head">
-              <span className="pred-badge ok">Adjudicación</span>
-            </div>
-            <h4>¿Se adjudicará?</h4>
-            <p className="pred-short">
-              Entrada: {formatCop(form.precio_base_cop)} · {form.modalidad} ·{" "}
-              {MES[form.mes_publicacion]} {form.anio_publicacion}
-            </p>
-            <div className="kpi">
-              <div className="label">Probabilidad</div>
-              <div className="value">{result.adjudicacion.probabilidad_pct}%</div>
-              <div className="hint">{result.adjudicacion.modelo}</div>
-            </div>
-            <div className="score-track" style={{ marginTop: "0.65rem" }}>
+        <div className="predict-results">
+          <div className="predict-result">
+            <div className="label">Adjudicación</div>
+            <div className="value">{result.adjudicacion.probabilidad_pct}%</div>
+            <div className="predict-bar">
               <div
-                className="score-fill good"
+                className="predict-bar-fill"
                 style={{ width: `${Math.min(result.adjudicacion.probabilidad_pct, 100)}%` }}
               />
             </div>
-            <p className="pred-lectura">{result.adjudicacion.lectura}</p>
-          </article>
-
-          <article className="pred-card pred-ok">
-            <div className="pred-head">
-              <span className="pred-badge ok">Presupuesto</span>
-            </div>
-            <h4>¿Qué rango de presupuesto?</h4>
-            <div className="kpi">
-              <div className="label">Rango estimado</div>
-              <div className="value" style={{ fontSize: "1.5rem" }}>
-                {result.presupuesto.nombre}
-              </div>
-              <div className="hint">{result.presupuesto.bin}</div>
-            </div>
-            <p className="pred-lectura">{result.presupuesto.lectura}</p>
-            {result.presupuesto.nota && (
-              <p className="note">{result.presupuesto.nota}</p>
-            )}
-          </article>
-
-          <article className="pred-card pred-bad" style={{ gridColumn: "1 / -1" }}>
-            <div className="pred-head">
-              <span className="pred-badge bad">Segmento (débil)</span>
-            </div>
-            <h4>¿Educación, gestión o investigación?</h4>
-            <div className="kpi">
-              <div className="label">Pista del modelo</div>
-              <div className="value" style={{ fontSize: "1.35rem" }}>
-                {result.segmento.nombre}
-              </div>
-              <div className="hint">código {result.segmento.codigo}</div>
-            </div>
-            <p className="pred-lectura">{result.segmento.lectura}</p>
-          </article>
+          </div>
+          <div className="predict-result">
+            <div className="label">Rango presupuesto</div>
+            <div className="value value-sm">{result.presupuesto.nombre}</div>
+            <div className="hint">{result.presupuesto.bin}</div>
+          </div>
+          <div className="predict-result muted">
+            <div className="label">Segmento (débil)</div>
+            <div className="value value-sm">{result.segmento.nombre}</div>
+            <div className="hint">UNSPSC {result.segmento.codigo}</div>
+          </div>
         </div>
       )}
     </div>

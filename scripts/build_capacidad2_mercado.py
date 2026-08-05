@@ -141,10 +141,18 @@ def main() -> None:
         overlap = None
         if prev_top is not None and top:
             overlap = round(100 * len(top & prev_top) / len(top | prev_top), 1)  # Jaccard %
+        top1_id = str(m.index[0]) if len(m) else ""
+        top1_nombre = ""
+        if top1_id:
+            names = sub.loc[sub["proveedor_id"].astype(str) == top1_id, "proveedor_nombre"]
+            if len(names):
+                top1_nombre = str(names.mode().iloc[0])[:80]
         rotacion.append({
             "anio": anio,
             "n_proveedores": int(m.shape[0]),
             "top1_participacion_pct": round(float(m.iloc[0] / m.sum() * 100), 2) if len(m) else 0,
+            "top1_nombre": top1_nombre,
+            "top1_valor_cop": float(m.iloc[0]) if len(m) else 0.0,
             "jaccard_top50_vs_anio_prev_pct": overlap,
         })
         prev_top = top

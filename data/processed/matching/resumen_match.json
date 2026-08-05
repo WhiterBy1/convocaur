@@ -4,7 +4,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "julian-david-cortes-sanchez",
     "top1_nombre": "Julián David Cortés-Sánchez",
-    "top1_score": 0.4407401573877081,
+    "top1_score": 0.79508775,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\laboratorio\\jose\\salidas\\matching\\ranking_convocatoria_45.csv"
   },
@@ -12,8 +12,8 @@
     "convocatoria": "convocatoria_48",
     "n_candidatos_pool": 612,
     "top1_id": "carlos-humberto-valderrama-ardila",
-    "top1_nombre": "",
-    "top1_score": 0.49642933777765896,
+    "top1_nombre": NaN,
+    "top1_score": 0.8725495,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\laboratorio\\jose\\salidas\\matching\\ranking_convocatoria_48.csv"
   },
@@ -22,7 +22,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "alvaro-david-orjuela-canon",
     "top1_nombre": "ALVARO DAVID ORJUELA-CAÑÓN",
-    "top1_score": 0.3041759154718595,
+    "top1_score": 0.6323146,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_942.csv"
   },
@@ -31,7 +31,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "diana-rocio-bernal-camargo",
     "top1_nombre": "Diana-Rocío Bernal-Camargo",
-    "top1_score": 0.486838303093721,
+    "top1_score": 0.8514342,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_944.csv"
   },
@@ -40,7 +40,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "clara-ines-pardo-martinez",
     "top1_nombre": "Clara Inés Pardo Martínez / orcid.org/0000-0002-8556-319X",
-    "top1_score": 0.4337576160927055,
+    "top1_score": 0.80313796,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_946.csv"
   },
@@ -49,7 +49,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "luis-antonio-orozco-castro",
     "top1_nombre": "luis-antonio-orozco-castro",
-    "top1_score": 0.4666548868914112,
+    "top1_score": 0.8336603,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_947.csv"
   },
@@ -58,7 +58,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "luis-antonio-orozco-castro",
     "top1_nombre": "luis-antonio-orozco-castro",
-    "top1_score": 0.48643838497364783,
+    "top1_score": 0.8615265,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_948.csv"
   },
@@ -67,7 +67,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "lina-karina-bernal-ordonez",
     "top1_nombre": "Lina-Karina Bernal-Ordoñez",
-    "top1_score": 0.48089262776900593,
+    "top1_score": 0.83901805,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_949.csv"
   },
@@ -76,7 +76,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "pedro-mario-wightman-rojas",
     "top1_nombre": "pedro-mario-wightman-rojas",
-    "top1_score": 0.4682596881467897,
+    "top1_score": 0.84362644,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_950.csv"
   },
@@ -85,7 +85,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "juan-miguel-gallego-acevedo",
     "top1_nombre": "Juan M. Gallego",
-    "top1_score": 0.5028101430042113,
+    "top1_score": 0.85144085,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_952.csv"
   },
@@ -94,7 +94,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "diana-rocio-bernal-camargo",
     "top1_nombre": "Diana-Rocío Bernal-Camargo",
-    "top1_score": 0.4996658522708551,
+    "top1_score": 0.8425312,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_953.csv"
   },
@@ -103,7 +103,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "diana-rocio-bernal-camargo",
     "top1_nombre": "Diana-Rocío Bernal-Camargo",
-    "top1_score": 0.47428364989707195,
+    "top1_score": 0.8337076,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_955.csv"
   },
@@ -112,7 +112,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "diana-rocio-bernal-camargo",
     "top1_nombre": "Diana-Rocío Bernal-Camargo",
-    "top1_score": 0.46154822532325346,
+    "top1_score": 0.8260164,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_956.csv"
   },
@@ -121,7 +121,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "luis-antonio-orozco-castro",
     "top1_nombre": "luis-antonio-orozco-castro",
-    "top1_score": 0.5253747880204069,
+    "top1_score": 0.89905393,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_957.csv"
   },
@@ -130,7 +130,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "clara-ines-pardo-martinez",
     "top1_nombre": "Clara Inés Pardo Martínez / orcid.org/0000-0002-8556-319X",
-    "top1_score": 0.4939137926502236,
+    "top1_score": 0.86839557,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_958.csv"
   },
@@ -139,7 +139,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "daniel-orlando-diaz-lopez",
     "top1_nombre": "daniel-orlando-diaz-lopez",
-    "top1_score": 0.4481833918409825,
+    "top1_score": 0.81207377,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_959.csv"
   },
@@ -148,7 +148,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "juan-miguel-gallego-acevedo",
     "top1_nombre": "Juan M. Gallego",
-    "top1_score": 0.5377758146504947,
+    "top1_score": 0.9058329,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_960.csv"
   },
@@ -157,7 +157,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "lizeth-fernanda-serrano-cardenas",
     "top1_nombre": "lizeth-fernanda-serrano-cardenas",
-    "top1_score": 0.4362166103765015,
+    "top1_score": 0.7890048,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_962.csv"
   },
@@ -166,7 +166,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "luis-antonio-orozco-castro",
     "top1_nombre": "luis-antonio-orozco-castro",
-    "top1_score": 0.5499143844779154,
+    "top1_score": 0.935318,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_964.csv"
   },
@@ -175,7 +175,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "juan-miguel-gallego-acevedo",
     "top1_nombre": "Juan M. Gallego",
-    "top1_score": 0.5064840859292628,
+    "top1_score": 0.8641422,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_965.csv"
   },
@@ -184,7 +184,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "julian-david-cortes-sanchez",
     "top1_nombre": "Julián David Cortés-Sánchez",
-    "top1_score": 0.4939317960557991,
+    "top1_score": 0.86453015,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_966.csv"
   },
@@ -193,7 +193,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "julian-david-cortes-sanchez",
     "top1_nombre": "Julián David Cortés-Sánchez",
-    "top1_score": 0.5111176295743514,
+    "top1_score": 0.88862056,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_967.csv"
   },
@@ -202,7 +202,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "diana-rocio-bernal-camargo",
     "top1_nombre": "Diana-Rocío Bernal-Camargo",
-    "top1_score": 0.5004156791990139,
+    "top1_score": 0.86188745,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_968.csv"
   },
@@ -211,7 +211,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "luis-antonio-orozco-castro",
     "top1_nombre": "luis-antonio-orozco-castro",
-    "top1_score": 0.4836528812021031,
+    "top1_score": 0.8421977,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_969.csv"
   },
@@ -220,7 +220,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "diana-rocio-bernal-camargo",
     "top1_nombre": "Diana-Rocío Bernal-Camargo",
-    "top1_score": 0.4725636536119444,
+    "top1_score": 0.8340321,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_970.csv"
   },
@@ -229,7 +229,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "clara-ines-pardo-martinez",
     "top1_nombre": "Clara Inés Pardo Martínez / orcid.org/0000-0002-8556-319X",
-    "top1_score": 0.4351450263700059,
+    "top1_score": 0.80275464,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_971.csv"
   },
@@ -238,7 +238,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "clara-ines-pardo-martinez",
     "top1_nombre": "Clara Inés Pardo Martínez / orcid.org/0000-0002-8556-319X",
-    "top1_score": 0.4770731040778319,
+    "top1_score": 0.8510852,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_972.csv"
   },
@@ -247,7 +247,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "julian-david-cortes-sanchez",
     "top1_nombre": "Julián David Cortés-Sánchez",
-    "top1_score": 0.5597747627436916,
+    "top1_score": 0.94146794,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_973.csv"
   },
@@ -256,7 +256,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "andres-felipe-garcia-suaza",
     "top1_nombre": "andres-felipe-garcia-suaza",
-    "top1_score": 0.5208745226028384,
+    "top1_score": 0.8983572,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_974.csv"
   },
@@ -265,7 +265,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "juan-miguel-gallego-acevedo",
     "top1_nombre": "Juan M. Gallego",
-    "top1_score": 0.4888644348972668,
+    "top1_score": 0.8551807,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_975.csv"
   },
@@ -274,7 +274,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "julian-david-cortes-sanchez",
     "top1_nombre": "Julián David Cortés-Sánchez",
-    "top1_score": 0.5035941190820158,
+    "top1_score": 0.86626047,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\laboratorio\\jose\\salidas\\matching\\ranking_convocatoria_976.csv"
   },
@@ -283,7 +283,7 @@
     "n_candidatos_pool": 612,
     "top1_id": "julian-david-cortes-sanchez",
     "top1_nombre": "Julián David Cortés-Sánchez",
-    "top1_score": 0.4545285081713409,
+    "top1_score": 0.7990205,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_977.csv"
   },
@@ -292,8 +292,17 @@
     "n_candidatos_pool": 612,
     "top1_id": "javier-leonardo-gonzalez-rodriguez",
     "top1_nombre": "Javier-Leonardo Gonzalez-Rodriguez / orcid.org/0000-0001-6693-3901",
-    "top1_score": 0.4859561401913056,
+    "top1_score": 0.85291284,
     "uso_embeddings": true,
     "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_978.csv"
+  },
+  {
+    "convocatoria": "convocatoria_node_9339",
+    "n_candidatos_pool": 612,
+    "top1_id": "alvaro-david-orjuela-canon",
+    "top1_nombre": "ALVARO DAVID ORJUELA-CAÑÓN",
+    "top1_score": 0.8326909,
+    "uso_embeddings": true,
+    "archivo": "C:\\Users\\jquin\\Documents\\ServiSquadReto\\convocaur\\data\\processed\\matching\\ranking_convocatoria_node_9339.csv"
   }
 ]

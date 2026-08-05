@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 from typing import Any
 
+import numpy as np
 import pandas as pd
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, Field
@@ -127,6 +128,27 @@ def ranking(conv_id: str, top: int = 15) -> dict:
         )
 
     df = pd.read_csv(path)
+    # score_final = similitud absoluta + premios de perfil
+    if len(df) and "score_emb" in df.columns and "score_tfidf" in df.columns:
+        from convocaur.matching.ranker import (
+            afinidad_base,
+            premio_perfil,
+            score_con_premios,
+        )
+
+        emb = df["score_emb"].fillna(0).to_numpy(dtype=float)
+        tf = df["score_tfidf"].fillna(0).to_numpy(dtype=float)
+        tiene_emb = float(np.nanmax(emb)) > 1e-6
+        sim = afinidad_base(emb, tf, tiene_emb=tiene_emb)
+        premios = np.array(
+            [premio_perfil(r) for r in df.to_dict(orient="records")],
+            dtype=float,
+        )
+        df["score_raw"] = sim
+        df["boost"] = premios
+        df["score_final"] = score_con_premios(sim, premios)
+        df = df.sort_values("score_final", ascending=False).reset_index(drop=True)
+        df["rank"] = range(1, len(df) + 1)
     full_n = len(df)
     if top > 0:
         df = df.head(top)

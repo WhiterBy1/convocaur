@@ -42,11 +42,11 @@ export const MATCH_LAYOUT = {
 };
 
 const COLOR: Record<string, string> = {
-  convocatoria: "#6fd0bc",
-  profesor: "#e2b86a",
-  termino: "#e8917a",
-  aporte: "#7a8f86",
-  dim: "rgba(233,238,244,0.28)",
+  convocatoria: "#3e4b8e",
+  profesor: "#a6bcc9",
+  termino: "#c4a06a",
+  aporte: "#6a5a68",
+  dim: "rgba(61,21,52,0.22)",
 };
 
 function linkEnds(l: MatchLink): [string, string] {
@@ -181,8 +181,8 @@ export function MatchGraph({ grafo, activeId, onSelect }: Props) {
       if (showLabel && !dim) {
         ctx.globalAlpha = 1;
         const fs = node.kind === "termino" ? 10 : 11;
-        ctx.font = `${fs / globalScale}px Manrope, sans-serif`;
-        ctx.fillStyle = node.kind === "termino" ? "#e2b86a" : "#e9eef4";
+        ctx.font = `${fs / globalScale}px "Source Sans 3", sans-serif`;
+        ctx.fillStyle = node.kind === "termino" ? "#a6bcc9" : "#3d1534";
         ctx.textAlign = "center";
         const label =
           node.kind === "convocatoria"
@@ -190,8 +190,8 @@ export function MatchGraph({ grafo, activeId, onSelect }: Props) {
             : (node.label || "").slice(0, node.kind === "termino" ? 20 : 18);
         ctx.fillText(label, node.x, node.y + r + 10 / globalScale);
         if (node.kind === "profesor" && node.score != null && (isFocus || globalScale > 1.1)) {
-          ctx.fillStyle = "#e2b86a";
-          ctx.font = `${9 / globalScale}px Manrope, sans-serif`;
+          ctx.fillStyle = "#a6bcc9";
+          ctx.font = `${9 / globalScale}px "Source Sans 3", sans-serif`;
           ctx.fillText(Number(node.score).toFixed(2), node.x, node.y + 3 / globalScale);
         }
       }
@@ -265,7 +265,7 @@ export function MatchGraph({ grafo, activeId, onSelect }: Props) {
           width={size.w}
           height={size.h}
           graphData={graphData}
-          backgroundColor="#11151b"
+          backgroundColor="#fff4eb"
           nodeCanvasObject={paintNode}
           linkCanvasObject={paintLink}
           linkDirectionalParticles={0}
@@ -310,3 +310,4 @@ function radiusOf(node: { kind?: string; score?: number | null; peso?: number; v
   if (node.kind === "termino") return 5 + Math.min((Number(node.peso) || Number(node.val) || 0) * 40, 10);
   return 6;
 }
+

@@ -378,38 +378,70 @@ def _fit_best(
 ) -> tuple[str, np.ndarray, np.ndarray, np.ndarray]:
     order = [r["modelo"] for r in ranking] if ranking else []
     fallback = [
-        "estacional_anclado",
+        "estacional_nivel",
+        "estacional_mediana",
         "holt_winters",
         "sarima",
-        "estacional_mediana",
-        "estacional_nivel",
         "estacional_naive",
+        "estacional_anclado",
     ]
-    # Para series de valor: el naïve puede saltar al mismo mes del año pasado
-    # aunque el nivel reciente haya caído → preferir continuidad en el empalme.
+    # Valor: evitar el salto del naïve al mismo mes del año pasado, PERO no
+    # anclar al último mes si ese punto es atípico (arrastra toda la curva).
     if prefer_continuity:
-        order = [m for m in order if m != "estacional_naive"] + [
-            m for m in order if m == "estacional_naive"
+        last = float(y[-1])
+        nivel_12 = float(np.mean(y[-12:])) if len(y) >= 12 else float(np.mean(y))
+        last_is_outlier = bool(nivel_12 > 0 and (last < 0.55 * nivel_12 or last > 1.8 * nivel_12))
+
+        # Nunca naïve aquí: copia el año pasado y genera saltos absurdos tras un mes flojo.
+        # Anclado solo si el último mes es “normal” y su MAPE no es malo.
+        ban = {"estacional_naive"}
+        if last_is_outlier:
+            ban.add("estacional_anclado")
+
+        order_pref = [m for m in order if m not in ban]
+        # priorizar nivel / mediana / ets antes que anclado
+        prefer_first = [
+            m
+            for m in (
+                "estacional_nivel",
+                "estacional_mediana",
+                "holt_winters",
+                "sarima",
+                "estacional_anclado",
+            )
+            if m in order_pref
         ]
-        # Si el mejor produce un salto >60%, buscar alternativa con salto menor
-        # y MAPE no mucho peor (×1.35).
+        order_pref = prefer_first + [m for m in order_pref if m not in prefer_first]
+
         candidates: list[tuple[str, np.ndarray, np.ndarray, np.ndarray, float, float]] = []
         mape_by = {
             r["modelo"]: float(r.get("mape_mediana_pct") or r["mape_pct"]) for r in ranking
         }
-        for name in order + fallback:
+        for name in order_pref + [m for m in fallback if m not in ban]:
+            if any(c[0] == name for c in candidates):
+                continue
             out = _predict_named(name, y, h)
             if not out:
                 continue
             pred, lo, hi = out
             jr = _jump_ratio(y, pred)
-            candidates.append((name, pred, lo, hi, jr, mape_by.get(name, 999.0)))
-        if candidates:
+            mape = mape_by.get(name, 999.0)
+            if name == "estacional_anclado" and mape_by:
+                best_m = min(mape_by.values())
+                if mape > best_m * 1.25:
+                    continue
+            candidates.append((name, pred, lo, hi, jr, mape))
+        if not candidates:
+            out = _predict_named("estacional_nivel", y, h)
+            if out:
+                return "estacional_nivel", out[0], out[1], out[2]
+        else:
             best_mape = min(c[5] for c in candidates)
-            # priorizar salto razonable
-            ok = [c for c in candidates if c[4] <= 0.6 and c[5] <= best_mape * 1.35]
-            pool = ok or candidates
-            pool.sort(key=lambda c: (c[4], c[5]))
+            # Empalme razonable; si nadie cumple, quedarse con el de menor salto
+            ok = [c for c in candidates if c[4] <= 1.0 and c[5] <= best_mape * 1.5]
+            pool = ok or sorted(candidates, key=lambda c: (c[4], c[5]))[:2]
+            # MAPE primero entre empalmes ok; si el salto es enorme, penalizar
+            pool.sort(key=lambda c: (c[5] + (0 if c[4] <= 1.0 else 40), c[4]))
             name, pred, lo, hi, _, _ = pool[0]
             return name, pred, lo, hi
 
@@ -417,9 +449,9 @@ def _fit_best(
         out = _predict_named(name, y, h)
         if out:
             return name, out[0], out[1], out[2]
-    pred = _seasonal_anclado_forecast(y, h)
+    pred = _seasonal_nivel_forecast(y, h)
     lo, hi = _bands_from_resid(y, pred)
-    return "estacional_anclado", pred, lo, hi
+    return "estacional_nivel", pred, lo, hi
 
 
 def _future_periods(last_periodo: str, h: int) -> list[dict[str, Any]]:

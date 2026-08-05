@@ -407,7 +407,7 @@
         "valor_rosario_en_compartidas_cop": 24078557710.0,
         "ratio_rival_vs_rosario": 0.79,
         "valor_total_proveedor_cop": 19064751623.0,
-        "es_ies": false
+        "es_ies": true
       },
       {
         "nombre": "Branch Of Microsoft Colombia Inc",
@@ -548,7 +548,7 @@
         "valor_rosario_en_compartidas_cop": 32094570357.0,
         "ratio_rival_vs_rosario": 0.92,
         "valor_total_proveedor_cop": 44467197862.0,
-        "es_ies": false
+        "es_ies": true
       },
       {
         "nombre": "Universidad EAN",
@@ -608,7 +608,7 @@
         "valor_rosario_en_compartidas_cop": 314223999.0,
         "ratio_rival_vs_rosario": 74.79,
         "valor_total_proveedor_cop": 28088449445.0,
-        "es_ies": false
+        "es_ies": true
       },
       {
         "nombre": "British Council",
@@ -838,27 +838,27 @@
     "leyenda": [
       {
         "kind": "entidad",
-        "color": "#6fd0bc",
+        "color": "#3e4b8e",
         "nombre": "Entidad (comprador)"
       },
       {
         "kind": "proveedor",
-        "color": "#e2b86a",
+        "color": "#a6bcc9",
         "nombre": "Proveedor"
       },
       {
         "kind": "competidor",
-        "color": "#e8917a",
+        "color": "#8b3a4a",
         "nombre": "Competidor frecuente"
       },
       {
         "kind": "ancla",
-        "color": "#f0d9a0",
+        "color": "#3d1534",
         "nombre": "U. Rosario"
       }
     ],
     "como_leer": [
-      "Nodo dorado = Rosario. Coral = competidor frecuente. Verde agua = entidad compradora.",
+      "Midnight Violet = Rosario. Granate = competidor frecuente. French Blue = entidad compradora. Powder = proveedor.",
       "Clic en un rival para ver en qué entidades se cruza con Rosario.",
       "Esto NO es todo SECOP: es la vecindad útil para decisión comercial de Rosario."
     ],
