@@ -11,7 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "src"))
 
-from app.routers import matching, minciencias, overview, secop  # noqa: E402
+from app.routers import matching, minciencias, overview, plan, secop  # noqa: E402
 
 app = FastAPI(
     title="ConvocaUR API",
@@ -31,6 +31,7 @@ app.include_router(overview.router, prefix="/api")
 app.include_router(secop.router, prefix="/api/secop")
 app.include_router(matching.router, prefix="/api/matching")
 app.include_router(minciencias.router, prefix="/api/minciencias")
+app.include_router(plan.router, prefix="/api/plan")
 
 
 @app.get("/api/health")

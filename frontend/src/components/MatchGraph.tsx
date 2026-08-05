@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import ForceGraph2D from "react-force-graph-2d";
 import { forceCollide, forceX, forceY } from "d3-force-3d";
+import { cleanDocenteName } from "../lib/names";
 
 export type MatchNode = {
   id: string;
@@ -187,7 +188,9 @@ export function MatchGraph({ grafo, activeId, onSelect }: Props) {
         const label =
           node.kind === "convocatoria"
             ? "Convocatoria"
-            : (node.label || "").slice(0, node.kind === "termino" ? 20 : 18);
+            : node.kind === "profesor"
+              ? cleanDocenteName(node.label).slice(0, 18)
+              : (node.label || "").slice(0, node.kind === "termino" ? 20 : 18);
         ctx.fillText(label, node.x, node.y + r + 10 / globalScale);
         if (node.kind === "profesor" && node.score != null && (isFocus || globalScale > 1.1)) {
           ctx.fillStyle = "#a6bcc9";

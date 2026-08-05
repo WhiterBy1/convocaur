@@ -18,6 +18,9 @@ export function Shell({ children }: { children: ReactNode }) {
           <NavLink to="/matching" className={({ isActive }) => (isActive ? "active" : undefined)}>
             Matching
           </NavLink>
+          <NavLink to="/plan" className={({ isActive }) => (isActive ? "active" : undefined)}>
+            Plan
+          </NavLink>
         </nav>
       </header>
       <main className="main">{children}</main>

@@ -87,7 +87,10 @@ export function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.45, delay: 0.18 }}
           >
-            <Link className="btn btn-primary" to="/secop">
+            <Link className="btn btn-primary" to="/plan">
+              Plan de manejo
+            </Link>
+            <Link className="btn btn-ghost" to="/secop">
               Abrir SECOP
             </Link>
             <Link className="btn btn-ghost" to="/matching">

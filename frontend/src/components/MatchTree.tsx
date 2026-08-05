@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
+import { cleanDocenteName } from "../lib/names";
 
 export type TerminoClave = {
   term: string;
@@ -99,9 +100,9 @@ export function MatchTree({
     const padX = 72;
 
     const shortName = (full: string) => {
-      const parts = full.trim().split(/\s+/).filter(Boolean);
-      if (parts.length <= 2) return full.length > 18 ? full.slice(0, 16) + "…" : full;
-      // Apellido(s) + inicial
+      const clean = cleanDocenteName(full);
+      const parts = clean.trim().split(/\s+/).filter(Boolean);
+      if (parts.length <= 2) return clean.length > 18 ? clean.slice(0, 16) + "…" : clean;
       const last = parts[parts.length - 1];
       const first = parts[0]?.[0] ? `${parts[0][0]}.` : "";
       const mid = parts.length > 2 ? parts[parts.length - 2] : "";
@@ -136,11 +137,12 @@ export function MatchTree({
       const y = arcY + bow;
       const hot = row.id === openedId;
       const r = hot ? 24 : 14 + Math.min(row.score_final, 1) * 7;
+      const displayName = cleanDocenteName(row.nombre, row.id);
       nodes.push({
         id: row.id,
         kind: "docente",
-        label: row.nombre || row.id,
-        shortLabel: shortName(row.nombre || `#${row.rank}`),
+        label: displayName,
+        shortLabel: shortName(displayName),
         x,
         y,
         r,
@@ -218,7 +220,7 @@ export function MatchTree({
         </div>
         <p className="note match-tree-hint">
           {openedRow
-            ? `Abierto: ${openedRow.nombre || openedRow.id}`
+            ? `Abierto: ${cleanDocenteName(openedRow.nombre, openedRow.id)}`
             : "Los nombres van debajo de cada nodo"}
         </p>
       </div>
@@ -388,7 +390,7 @@ export function MatchTree({
               <div className="term-modal-head">
                 <div>
                   <p className="note" style={{ margin: "0 0 0.2rem" }}>
-                    #{openedRow.rank} {openedRow.nombre || openedRow.id}
+                    #{openedRow.rank} {cleanDocenteName(openedRow.nombre, openedRow.id)}
                   </p>
                   <h4 id="term-modal-title">
                     <span className="tree-term">{modalTerm.term}</span>

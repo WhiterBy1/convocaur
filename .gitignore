@@ -4,6 +4,7 @@
 .venv/
 .claude/
 .vscode/
+.cursor/
 __pycache__/
 *.pyc
 *.pyo

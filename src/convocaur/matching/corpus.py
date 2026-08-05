@@ -100,14 +100,54 @@ def texto_docente(doc: dict[str, Any]) -> str:
     return _clip("\n".join(partes), 3500)
 
 
+def _nombre_persona(nombre: str | None, *fallbacks: str | None) -> str:
+    """Quita ORCID/URLs y humaniza slugs (para UI / matching)."""
+    import re
+
+    raw = str(nombre or "").strip()
+    if not raw or raw.lower() in ("nan", "none"):
+        for fb in fallbacks:
+            raw = str(fb or "").strip()
+            if raw and raw.lower() not in ("nan", "none"):
+                break
+
+    raw = re.sub(r"https?://(?:www\.)?orcid\.org/\S+", "", raw, flags=re.I)
+    raw = re.sub(r"(?i)\s*[|/]\s*orcid\.org/\S+", "", raw)
+    raw = re.sub(r"(?i)\borcid\.org/\S+", "", raw)
+    raw = re.sub(r"(?i)\bORCID\s*[:=]?\s*\d{4}-\d{4}-\d{4}-\d{3}[\dXx]\b", "", raw)
+    raw = re.sub(r"\b\d{4}-\d{4}-\d{4}-\d{3}[\dXx]\b", "", raw)
+    raw = re.sub(r"\s*[|/]\s*$", "", raw)
+    raw = re.sub(r"\s{2,}", " ", raw).strip(" -|/")
+
+    if raw and re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)+", raw):
+        raw = raw.replace("-", " ").title()
+    elif raw and "-" in raw and " " not in raw and raw.lower() == raw:
+        raw = raw.replace("-", " ").title()
+    else:
+        raw = re.sub(
+            r"([A-Za-zÁÉÍÓÚáéíóúÑñ])-([A-Za-zÁÉÍÓÚáéíóúÑñ])",
+            r"\1 \2",
+            raw,
+        )
+
+    if not raw:
+        for fb in fallbacks:
+            cand = str(fb or "").strip()
+            if cand and re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)+", cand):
+                return cand.replace("-", " ").title()
+            if cand:
+                return cand
+        return "Docente"
+    return raw
+
+
 def meta_docente(doc: dict[str, Any]) -> dict[str, Any]:
     nombre = doc.get("nombre") or ""
     if not str(nombre).strip():
-        # fallback: id slug o nombre_completo si existiera
         nombre = doc.get("nombre_completo") or doc.get("id") or ""
     return {
         "id": doc.get("id"),
-        "nombre": nombre,
+        "nombre": _nombre_persona(nombre, doc.get("nombre_completo"), doc.get("id")),
         "facultad": doc.get("facultad_csv"),
         "cargo": doc.get("cargo_csv") or doc.get("cargo_principal"),
         "tiene_cvlac": bool(doc.get("cvlac")),

@@ -39,10 +39,26 @@ Rutas Python: `convocaur.paths.SECOP`, `SECOP_PROCESOS_LIMPIO`, etc.
 5. **`Capacidad3_entrenamiento_modelos.ipynb`** ← entrenamiento Cap. 3
 
 Salidas del entrenamiento: `salidas_capacidad3/` (métricas + bitácora).  
-Modelos `.joblib`: `salidas_capacidad3/modelos/` (gitignored; ver README ahí).
+Modelos `.joblib`: `salidas_capacidad3/modelos/` (gitignored; servir con **scikit-learn==1.6.1**).
 
-Kernel: **Python 3.12** + `scikit-learn` (+ `lightgbm` / `joblib`).
+Kernel: **Python 3.12** + `scikit-learn==1.6.1` (+ `lightgbm` / `joblib`).
 
 Los notebooks usan rutas **relativas** a esta carpeta (CSV al lado del `.ipynb`).
+
+## Scripts exógenos → features del dashboard
+
+Lo que se ve en la UI **no se regenera solo abriendo el `.ipynb`**. Tras el análisis, los builds viven en `scripts/`:
+
+| Feature en UI | Script |
+|---------------|--------|
+| Serie mensual Cap.1 | `scripts/build_capacidad1_mensual.py` |
+| HHI / Pareto / rotación Cap.2 | `scripts/build_capacidad2_mercado.py` |
+| Grafo mercado + ego Rosario + peers IES | `scripts/build_capacidad2_red.py` |
+| Flag IES en red/peers | `scripts/patch_es_ies.py` |
+| Nombre del #1 en rotación anual | `scripts/patch_rotacion_top1.py` |
+| KPIs Cap.3 desde bitácora | `scripts/build_capacidad3_prediccion.py` |
+| Outlook / forecast series de tiempo | `scripts/build_capacidad3_forecast_ts.py` |
+
+Detalle y orden de ejecución: [`scripts/README.md`](../../scripts/README.md).
 
 Fuente abierta: SECOP II en datos.gov.co (`p6dx-8zbt`).

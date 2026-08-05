@@ -160,8 +160,11 @@ def ranking(conv_id: str, top: int = 15) -> dict:
         nlp = _load_json(nlp_path)
         texto_conv = texto_convocatoria(nlp)
 
+    from convocaur.matching.corpus import _nombre_persona
+
     textos_doc: dict[str, str] = {}
     for r in records:
+        r["nombre"] = _nombre_persona(r.get("nombre"), r.get("id"))
         r["caracteristicas"] = boost_detalle(r)
         pid = str(r.get("id") or "")
         if not pid:

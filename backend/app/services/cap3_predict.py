@@ -54,8 +54,8 @@ def _load_bundles() -> dict[str, Any]:
         return {k: joblib.load(p) for k, p in paths.items()}
     except Exception as exc:
         raise ModelUnavailable(
-            "No se pudieron cargar los .joblib. Usa Python 3.12 con scikit-learn/lightgbm "
-            f"compatibles. Detalle: {exc}"
+            "No se pudieron cargar los .joblib. Pin scikit-learn==1.6.1 "
+            f"(versión de entrenamiento). Detalle: {exc}"
         ) from exc
 
 

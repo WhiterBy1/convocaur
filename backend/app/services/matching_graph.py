@@ -248,14 +248,18 @@ def build_grafo(
         distancia = max(0.05, min(1.0, 1.0 - score))
         caracts = r.get("caracteristicas") or boost_detalle(r)
 
+        from convocaur.matching.corpus import _nombre_persona
+
+        nombre = _nombre_persona(r.get("nombre"), pid)
         doc_text = textos_docente.get(pid) or ""
         terms = terminos_peso(texto_conv, doc_text, top_n=6) if texto_conv else []
         r["terminos_clave"] = terms
+        r["nombre"] = nombre
 
         nodes.append({
             "id": pid,
             "kind": "profesor",
-            "label": r.get("nombre") or pid,
+            "label": nombre,
             "rank": r.get("rank"),
             "score": score,
             "score_emb": r.get("score_emb"),

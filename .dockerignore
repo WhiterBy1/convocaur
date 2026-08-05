@@ -1,0 +1,29 @@
+# flyctl launch defaults
+.appfile
+.DS_Store
+.git
+.github
+.venv
+.env
+.env.*
+!.env.example
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+frontend/node_modules
+frontend/dist
+.claude
+.vscode
+.impeccable
+docs
+scripts
+*.md
+!README.md
+
+# Datos pesados / regenerables que no necesita la API de lectura
+data/raw/minciencias
+data/processed/matching/cache_embeddings
+analisis/secop/*.csv
+analisis/secop/*.rar
+analisis/secop/img
+analisis/secop/notebooks
